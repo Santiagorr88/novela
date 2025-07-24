@@ -1,0 +1,56 @@
+{
+  "timeline": [
+    {
+      "chapter": 28,
+      "chapter_snippet": "# B1C28 \u2013 The Echo of the Sword \n\nThe sky was burning.  \nIt was no metaphor; it was fissure and living fire: bleeding cracks opened in the vault, and from them,",
+      "markers": [
+        "DECADES LATER",
+        "Days later"
+      ]
+    }
+  ],
+  "last_date": null,
+  "deaths": [],
+  "weapons": {},
+  "revealed_truths": [],
+  "resurrections": [],
+  "themes": [
+    {
+      "chapter": 1,
+      "themes": [
+        "auto",
+        "detect"
+      ]
+    },
+    {
+      "chapter": 28,
+      "themes": [
+        "auto",
+        "detect"
+      ]
+    }
+  ],
+  "characters": {},
+  "prophecy_mentions": [
+    {
+      "line": "One shall judge and bring order",
+      "chapter": "3",
+      "mode": "full"
+    },
+    {
+      "line": "One shall laugh",
+      "chapter": "3",
+      "mode": "full"
+    },
+    {
+      "line": "and if he loves nothing, the world will burn for his void",
+      "chapter": "3",
+      "mode": "full"
+    },
+    {
+      "line": "if the three awaken, he shall awaken as well",
+      "chapter": "3",
+      "mode": "full"
+    }
+  ]
+}
