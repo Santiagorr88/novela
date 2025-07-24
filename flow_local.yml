@@ -1,0 +1,117 @@
+version: 1
+
+variables:
+  saga_title: "Chronicles_of_the_Sundering_Judgment"
+  book_number: 1
+  chapter_prefix: "B{{ book_number }}C"
+  pdf_folder: "output/pdf"
+
+flow:
+
+# 0) Config
+- id: cfg
+  type: passthrough
+  inputs:
+    book_number: "{{ book_number }}"
+    chapter_prefix: "{{ chapter_prefix }}"
+    pdf_folder: "{{ pdf_folder }}"
+    saga_title: "{{ saga_title }}"
+
+# 1) Número de capítulo simulado
+- id: chapter_number
+  type: python
+  module: src.scripts.memory_io
+  function: next_chapter_number
+  args:
+    book_no: "{{ cfg.book_number }}"
+
+# 2) Simula narrador
+- id: narrator
+  type: python
+  module: src.scripts.test_nodes
+  function: dummy_chapter
+
+# 3) Simula traducción
+- id: translator
+  type: python
+  module: src.scripts.test_nodes
+  function: dummy_translation
+
+# 4) Simula título generado por LLM
+- id: title_hooker
+  type: python
+  module: src.scripts.test_nodes
+  function: dummy_title  # Ej: devuelve "# B1C6 – Stone Doors"
+
+# 5) Inserta el título al inicio
+- id: insert_title
+  type: python
+  module: src.scripts.titler
+  function: ensure_title
+  args:
+    title_line: "{{ title_hooker }}"
+    chapter_text: "{{ narrator }}"
+
+# 6) Capítulo final
+- id: final_chapter
+  type: passthrough
+  inputs:
+    content: "{{ insert_title }}"
+
+# 7) Extract title line
+- id: title_line
+  type: python
+  module: src.scripts.title_utils
+  function: extract_title_line
+  inputs:
+    markdown_text: "{{ final_chapter }}"
+
+# 8) Solo título
+- id: title_only
+  type: python
+  module: src.scripts.title_utils
+  function: extract_title_only
+  inputs:
+    h1_line: "{{ title_line }}"
+
+# 9) Filename EN
+- id: pdf_filename_en
+  type: python
+  module: src.scripts.path_utils
+  function: build_filename_h1_style
+  args:
+    folder: "{{ cfg.pdf_folder }}"
+    prefix: "{{ cfg.chapter_prefix }}{{ chapter_number }}"
+    title: "{{ title_only }}"
+    lang: "EN"
+
+# 10) Exportar EN
+- id: pdf_en
+  type: python
+  module: src.scripts.export_pdf
+  function: md_to_pdf
+  inputs:
+    markdown_text: "{{ final_chapter }}"
+    filename: "{{ pdf_filename_en }}"
+    css_path: "src/css/chapter.css"
+
+# 11) Filename ES
+- id: pdf_filename_es
+  type: python
+  module: src.scripts.path_utils
+  function: build_filename_h1_style
+  args:
+    folder: "{{ cfg.pdf_folder }}"
+    prefix: "{{ cfg.chapter_prefix }}{{ chapter_number }}"
+    title: "{{ title_only }}"
+    lang: "ES"
+
+# 12) Exportar ES
+- id: pdf_es
+  type: python
+  module: src.scripts.export_pdf
+  function: md_to_pdf
+  inputs:
+    markdown_text: "{{ translator }}"
+    filename: "{{ pdf_filename_es }}"
+    css_path: "src/css/chapter.css"
