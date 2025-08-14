@@ -3,115 +3,590 @@ version: 1
 variables:
   saga_title: "Chronicles_of_the_Sundering_Judgment"
   book_number: 1
-  chapter_prefix: "B{{ book_number }}C"
-  pdf_folder: "output/pdf"
+  pdf_folder: "project/{{ saga_title }}/"
+  css_path: "styles/default.css"
+  dry_run: false
 
 flow:
+# 1. Leer progreso actual (capítulo, parte)
+- id: read_progress
+  type: python
+  module: src.scripts.progress_tracker
+  function: load_progress
 
-# 0) Config
-- id: cfg
-  type: passthrough
-  inputs:
-    book_number: "{{ book_number }}"
-    chapter_prefix: "{{ chapter_prefix }}"
-    pdf_folder: "{{ pdf_folder }}"
-    saga_title: "{{ saga_title }}"
 
-# 1) Número de capítulo simulado
 - id: chapter_number
   type: python
-  module: src.scripts.memory_io
-  function: next_chapter_number
+  module: src.scripts.progress_tracker
+  function: get_int_field
   args:
-    book_no: "{{ cfg.book_number }}"
+    state: "{{ read_progress }}"
+    key: "current_chapter"
 
-# 2) Simula narrador
+- id: part_number
+  type: python
+  module: src.scripts.progress_tracker
+  function: get_int_field
+  args:
+    state: "{{ read_progress }}"
+    key: "current_part"
+
+- id: total_parts
+  type: python
+  module: src.scripts.progress_tracker
+  function: get_int_field
+  args:
+    state: "{{ read_progress }}"
+    key: "total_parts"
+
+# 2. Cargar prompt de lore
+- id: file_loader_prompt
+  type: file_loader
+  inputs:
+    path: src/lore/prompt_universo.md
+
+# 3. Cargar estructura narrativa completa
+- id: file_loader_arco
+  type: file_loader
+  inputs:
+    path: src/lore/arco_argumental_completo.md
+
+# 4. Obtener número total de partes para este capítulo
+- id: chapter_parts_counter
+  type: python
+  module: src.scripts.lore_utils
+  function: get_parts_for_chapter
+  args:
+    chapter_no: "{{ chapter_number }}"
+    arco_data: "{{ file_loader_arco }}"
+
+# 5. Obtener lista de títulos de partes
+- id: chapter_parts_list
+  type: python
+  module: src.scripts.lore_utils
+  function: get_part_titles_for_chapter
+  args:
+    chapter_no: "{{ chapter_number }}"
+    arco_data: "{{ file_loader_arco }}"
+
+# 6. Fusionar lore y arco
+- id: lore_combined
+  type: python
+  module: src.scripts.lore_utils
+  function: merge_lore
+  args:
+    lore_prompt: "{{ file_loader_prompt }}"
+    lore_arco: "{{ file_loader_arco }}"
+
+# 7. Obtener memoria de capítulos anteriores
+- id: rolling_memory
+  type: python
+  module: src.scripts.memory_plan
+  function: get_rolling_memory
+  args:
+    chapter_no: "{{ read_progress.current_chapter }}"
+
+# 8. Planificador por parte
+#- id: planner
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/B1C1P1.md
+- id: planner
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.5
+  system_prompt_path: src/agents/part_planner.md
+  inputs:
+    chapter_no: "{{ read_progress.current_chapter }}"
+    part_number: "{{ read_progress.current_part }}"
+    chapter_parts: "{{ chapter_parts_list }}"
+    previous_parts: "{{ rolling_memory }}"
+    ref_start: ""
+    ref_end: ""
+    lore_context: "{{ lore_combined }}"
+
+- id: prev_recap
+  type: python
+  module: src.scripts.memory_plan
+  function: get_previous_recap
+  args:
+    chapter_no: "{{ chapter_number }}"
+
+#  9. Narrador, Genera el texto literario
+#- id: narrator
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/B1C1P1_texto.md
+
 - id: narrator
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.75
+  model_kwargs:
+    max_output_tokens: 6000
+    top_p: 0.95
+  system_prompt_path: src/agents/narrator.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    chapter_no: "{{ chapter_number }}"
+    plan: "{{ planner }}"
+    recap: "{{ prev_recap }}"
+    memory: "{{ rolling_memory }}"
+    ref_start: "{{ first_chapter_summary | default('') }}"
+    ref_end: "{{ final_chapter_summary | default('') }}"
+    user_prompt: "The chapter must be between 1,800–2,000 words long"
+# 9b) Conteo real de palabras del narrador
+- id: narrator_word_count
   type: python
-  module: src.scripts.test_nodes
-  function: dummy_chapter
-
-# 3) Simula traducción
-- id: translator
-  type: python
-  module: src.scripts.test_nodes
-  function: dummy_translation
-
-# 4) Simula título generado por LLM
-- id: title_hooker
-  type: python
-  module: src.scripts.test_nodes
-  function: dummy_title  # Ej: devuelve "# B1C6 – Stone Doors"
-
-# 5) Inserta el título al inicio
-- id: insert_title
-  type: python
-  module: src.scripts.titler
-  function: ensure_title
+  module: src.scripts.metrics
+  function: count_words_es
   args:
-    title_line: "{{ title_hooker }}"
-    chapter_text: "{{ narrator }}"
+    text: "{{ narrator }}"
 
-# 6) Capítulo final
-- id: final_chapter
+#- id: length_gate
+#  type: router
+#  inputs:
+#    condition: "{{ narrator_word_count < 1800 }}"
+#
+#- id: narrator_topup
+#  when: "{{ length_gate }}"
+#  type: llm
+#  model: gemini-2.5-pro
+#  temperature: 0.7
+#  model_kwargs:
+#    max_output_tokens: 4000
+#  system_prompt_path: src/agents/narrator.md
+#  inputs:
+#    lore_context: "{{ lore_combined }}"
+#    chapter_no: "{{ chapter_number }}"
+#    plan: "{{ planner }}"
+#    recap: "{{ prev_recap }}"
+#    memory: "{{ rolling_memory }}"
+#    user_prompt: "Continúa EXACTAMENTE desde la última frase del siguiente borrador SIN repetir ni reiniciar la escena. Expande atmósfera, sensorio, micro-acciones e interioridad hasta quedar en 1800–2000 palabras. Cierra con <!-- WORD COUNT: XXXX -->.\n\n---\n{{ narrator }}\n---"
+#
+#- id: narrator_out
+#  type: passthrough
+#  inputs:
+#    content: "{{ narrator_topup if length_gate else narrator }}"
+
+
+
+# 10) Coherence editor
+#- id: coherence_editor
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/B1C1P1_coherence.txt
+- id: coherence_editor
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.3
+  system_prompt_path: src/agents/coherence_editor.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ narrator }}"
+
+
+# 11) Gate para FIX
+- id: fixer_gate
+  type: router
+  inputs:
+    condition: "{{ coherence_editor.startswith('FIX') }}"
+
+
+
+# 12) Fixer+
+#- id: fixer
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/B1C1P1_fixer.md
+- id: fixer
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.5
+  system_prompt_path: src/agents/fixer.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ narrator }}"
+    issues: "{{ coherence_editor }}"
+
+#
+- id: chapter_title_en
+  type: python
+  module: src.scripts.lore_utils
+  function: get_chapter_title
+  args:
+    chapter_no: "{{ chapter_number }}"
+    arco_data: "{{ file_loader_arco }}"
+- id: chapter_id
   type: passthrough
   inputs:
-    content: "{{ insert_title }}"
+    value: "B{{ book_number }}C{{ '%02d' | format(chapter_number | int) }}"
 
-# 7) Extract title line
-- id: title_line
+- id: assemble_chapter
+  type: python
+  module: src.scripts.chapter_assembler
+  function: assemble_chapter_from_files
+  args:
+    chapter_id: "{{ chapter_id }}"
+    part_number: "{{ part_number | int }}"
+    chapter_title: "{{ chapter_title_en }}"
+    part_titles: "{{ chapter_parts_list }}"
+
+
+# 13) Event extractor
+#- id: event_extractor
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/B1C1P1_event_extractor.txt
+
+- id: event_extractor
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.3
+  system_prompt_path: src/agents/event_extractor.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    chapter_text: "{{ assemble_chapter }}"
+
+# 14) Actualiza estado en timeline.json
+- id: update_event_state
+  type: python
+  module: src.scripts.timeline
+  function: update_state_from_events
+  args:
+    events: "{{ event_extractor }}"
+    chapter_no: "{{ chapter_number }}"
+
+# 15) Continuity check
+- id: continuity_guard
+  type: python
+  module: src.scripts.continuity
+  function: check
+  args:
+    chapter_text: "{{ fixer if fixer_gate else narrator }}"
+    chapter_no: "{{ chapter_number }}"
+    state_path: "output/state.json"
+
+# 16) Gate continuidad
+- id: continuity_gate
+  type: router
+  inputs:
+    condition: "{{ continuity_guard.startswith('FIX') }}"
+
+# 17) Continuity fixer
+#- id: continuity_fixer
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/continuity_fixer.md
+
+- id: continuity_fixer
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.4
+  system_prompt_path: src/agents/continuity_fixed.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ fixer if fixer_gate else narrator }}"
+    issues: "{{ continuity_guard }}"
+
+# 18) Texto final tras continuidad (previo a validación de lore)
+- id: continuity_text
+  type: passthrough
+  inputs:
+    content: "{{ continuity_fixer if continuity_gate else (fixer if fixer_gate else narrator) }}"
+
+# 19) Comprobador de contradicciones con el lore
+- id: lore_checker
+  type: python
+  module: src.scripts.lore_diff_tracker
+  function: check_lore_conflicts
+  args:
+    chapter_text: "{{ continuity_text }}"
+
+# 20) Puerta para arreglos de lore
+- id: lore_gate
+  type: router
+  inputs:
+    condition: "{{ lore_checker.startswith('FIX') }}"
+
+# 21) Arreglador si hay violación de lore
+#- id: lore_fixer
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/lore_fixer.md
+
+- id: lore_fixer
+  when: "{{ lore_gate and not dry_run }}"
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.4
+  system_prompt_path: src/agents/lore_fixer.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ continuity_text }}"
+    issues: "{{ lore_checker }}"
+
+# 22) Texto final validado contra el lore
+- id: lore_validated_text
+  type: passthrough
+  inputs:
+    content: "{{ lore_fixer if lore_gate else continuity_text }}"
+
+# 14) Extraer título H1 de la parte
+- id: get_title_line
   type: python
   module: src.scripts.title_utils
   function: extract_title_line
-  inputs:
-    markdown_text: "{{ final_chapter }}"
+  args:
+    markdown_text: "{{ lore_validated_text }}"
 
-# 8) Solo título
-- id: title_only
+# 15) Extraer solo el título de la parte
+- id: get_clean_title
   type: python
   module: src.scripts.title_utils
   function: extract_title_only
-  inputs:
-    h1_line: "{{ title_line }}"
+  args:
+    h1_line: "{{ get_title_line }}"
 
-# 9) Filename EN
-- id: pdf_filename_en
+# 16) Extraer el prefijo (B1C1P1)
+- id: get_prefix
+  type: python
+  module: src.scripts.title_utils
+  function: extract_prefix
+  args:
+    h1_line: "{{ get_title_line }}"
+
+# 17) Slug del título de la parte (A_Wound_in_the_World → a-wound-in-the-world)
+- id: slug_title
+  type: python
+  module: src.scripts.title_utils
+  function: slugify
+  args:
+    text: "{{ get_clean_title }}"
+
+
+# 21) PDF filename (EN), incluyendo carpeta superior del capítulo
+- id: pdf_filename_part_en
   type: python
   module: src.scripts.path_utils
-  function: build_filename_h1_style
+  function: build_filename_with_chapter_folder
   args:
-    folder: "{{ cfg.pdf_folder }}"
-    prefix: "{{ cfg.chapter_prefix }}{{ chapter_number }}"
-    title: "{{ title_only }}"
+    saga_title: "{{ saga_title }}"
     lang: "EN"
+    book_number: "{{ book_number | int }}"
+    chapter_number: "{{ chapter_number | int }}"
+    chapter_title: "{{ chapter_title_en }}"
+    part_number: "{{ part_number | int }}"
+    part_title: "{{ get_clean_title }}"
 
-# 10) Exportar EN
-- id: pdf_en
+- id: final_markdown_en
+  type: python
+  module: src.scripts.chapter_assembler
+  function: prepend_headers
+  args:
+    chapter_title: "{{ chapter_title_en }}"
+    part_number: "{{ part_number | int }}"
+    part_titles: "{{ chapter_parts_list }}"
+    content: "{{ lore_validated_text }}"
+
+# 22) Generar PDF (EN)
+- id: pdf_part_en
   type: python
   module: src.scripts.export_pdf
   function: md_to_pdf
   inputs:
-    markdown_text: "{{ final_chapter }}"
-    filename: "{{ pdf_filename_en }}"
-    css_path: "src/css/chapter.css"
+    markdown_text: "{{ final_markdown_en }}"
+    filename: "{{ pdf_filename_part_en }}"
+    css_path: "{{ css_path }}"
 
-# 11) Filename ES
-- id: pdf_filename_es
+# 29) Traducir al español
+#- id: translator
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/traducido.md
+- id: translator
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.2
+  system_prompt_path: src/agents/translator.md
+  inputs:
+    english_text: "{{ final_markdown_en }}"
+
+- id: pdf_filename_part_es
   type: python
   module: src.scripts.path_utils
-  function: build_filename_h1_style
+  function: build_filename_with_chapter_folder
   args:
-    folder: "{{ cfg.pdf_folder }}"
-    prefix: "{{ cfg.chapter_prefix }}{{ chapter_number }}"
-    title: "{{ title_only }}"
+    saga_title: "{{ saga_title }}"
     lang: "ES"
+    book_number: "{{ book_number }}"
+    chapter_number: "{{ chapter_number }}"
+    part_number: "{{ part_number }}"
+    part_title: "{{ get_clean_title }}"
+    chapter_title: "{{ chapter_title_en }}"
 
-# 12) Exportar ES
-- id: pdf_es
+- id: pdf_part_es
   type: python
   module: src.scripts.export_pdf
   function: md_to_pdf
   inputs:
     markdown_text: "{{ translator }}"
-    filename: "{{ pdf_filename_es }}"
-    css_path: "src/css/chapter.css"
+    filename: "{{ pdf_filename_part_es }}"
+    css_path: "{{ css_path }}"
+
+# 36) Archivado de capítulo completo (EN y ES)
+- id: archivist
+  type: python
+  module: src.scripts.memory_io
+  function: append_chapter
+  args:
+    text: "{{ assemble_chapter }}"
+    text_es: "{{ translator }}"
+
+# 37) Contar capítulos acumulados
+- id: chapter_count
+  type: python
+  module: src.scripts.memory_io
+  function: chapter_count
+
+# 38) Gate que habilita generación de resumen (ahora siempre activo)
+- id: recap_gate
+  type: router
+  inputs:
+    condition: "{{ True }}"
+
+# 39) Generador de resumen automático vía LLM
+#- id: recap_generator
+#  type: file_loader
+#  inputs:
+#    path: src/plan_cache/recap_B1C1P1.md
+- id: recap_generator
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.25
+  system_prompt_path: src/agents/recap_writer.md
+  inputs:
+    chapter_no: "{{ chapter_number }}"
+    full_text: "{{ assemble_chapter }}"
+    lore_context: "{{ lore_combined }}"
+
+# 40) Guardar resumen generado en archivo individual
+- id: recap_writer
+  when: "{{ recap_gate }}"
+  type: python
+  module: src.scripts.chapter_recap_writer
+  function: write_chapter_recap
+  args:
+    chapter_no: "{{ chapter_number }}"
+    full_text: "{{ assemble_chapter }}"
+    summary: "{{ recap_generator }}"
+
+# 40b) Añadir resumen al archivo acumulado
+- id: full_recap_updater
+  when: "{{ recap_gate }}"
+  type: python
+  module: src.scripts.chapter_recap_writer
+  function: append_to_full_recap
+  args:
+    chapter_no: "{{ chapter_number }}"
+    recap_text: "{{ recap_generator }}"
+
+# 40c) Condición para eventos especiales cada 5 capítulos
+- id: five_gate
+  type: router
+  inputs:
+    condition: "{{ (chapter_count % 5) == 0 }}"
+
+# 41) Registrar temas principales del capítulo
+- id: register_themes
+  type: python
+  module: src.scripts.theme_manager
+  function: register_themes
+  args:
+    chapter_no: "{{ chapter_number }}"
+    themes: ["auto", "detect"]
+
+# 42) Actualizar estado narrativo general (timeline, eventos clave)
+- id: state_updater
+  type: python
+  module: src.scripts.timeline
+  function: check_and_update
+  args:
+    chapter_text: "{{ assemble_chapter }}"
+    chapter_no: "{{ chapter_number }}"
+
+# 43) Actualizar personajes si hay eventos tipo reencarnación o revelación
+- id: character_tracker_updater
+  type: python
+  module: src.scripts.character_tracker
+  function: update_from_events
+  args:
+    events: "{{ event_extractor }}"
+    chapter_no: "{{ chapter_number }}"
+
+# 44) Registrar misterios sembrados
+- id: mystery_tracker
+  type: python
+  module: src.scripts.mystery_tracker
+  function: track_mysteries
+  args:
+    chapter_text: "{{ assemble_chapter }}"
+    chapter_no: "{{ chapter_number }}"
+
+# 45) Guardar texto de la parte individual (igual que el PDF EN)
+- id: save_part_text
+  type: python
+  module: src.scripts.io_utils
+  function: save_text_to_file
+  args:
+    text: "{{ final_markdown_en }}"   # lo mismo que mandaste a md_to_pdf
+    path: "project/{{ saga_title }}/parts/{{ 'B%dC%02d' % (book_number | int, chapter_number | int) }}P{{ part_number | int }}.md"
+
+# 45.1) Resolver total_parts (usa el existente si >0, si no el calculado)
+- id: resolved_total_parts
+  type: passthrough
+  inputs:
+    value: "{{ read_progress.total_parts if read_progress.total_parts > 0 else chapter_parts_counter }}"
+
+# 45.2) Estado actual (cap/parte que ACABAS de cerrar)
+- id: step_position
+  type: python
+  module: src.scripts.progress_tracker
+  function: build_step_position
+  args:
+    chapter_number: "{{ chapter_number | int }}"
+    part_number: "{{ part_number | int }}"
+    total_parts: "{{ chapter_parts_counter | int }}"
+
+# 45.3) Avanzar a la siguiente parte o al siguiente capítulo
+- id: next_position
+  type: python
+  module: src.scripts.progress_tracker
+  function: step_progress
+  args:
+    current_state: "{{ step_position }}"
+    actual_parts: "{{ resolved_total_parts }}"
+
+# 46) Guardar progreso AVANZADO
+- id: save_progress
+  type: python
+  module: src.scripts.progress_tracker
+  function: save_progress
+  args:
+    progress: "{{ next_position }}"
+
+# 47) Gate: ¿cerramos última parte del capítulo?
+- id: last_part_gate
+  type: router
+  inputs:
+    condition: "{{ part_number == resolved_total_parts }}"
+
+# 48) Registrar incremento de capítulo (solo si fue la última parte)
+- id: update_chapter_counter
+  when: "{{ last_part_gate }}"
+  type: python
+  module: src.scripts.memory_io
+  function: register_next_chapter_number
+  args:
+    book_no: "{{ book_number }}"
+    current_chapter: "{{ chapter_number }}"

@@ -1,54 +1,202 @@
 # CHRONICLES OF THE SUNDERING JUDGMENT — UNIVERSE & LORE
 
-## 📖 GENERAL CONTEXT  
-**Genre:** Theological high-fantasy, epic  
-**Inspirations:** *Paradise Lost*, *The Divine Comedy*, modern apocalyptic fiction  
-**Tone:** Epic, symbolic, philosophical; constant moral struggle.
+## 📖 GENERAL CONTEXT
+
+**Universe Title:** *Chronicles of the Sundering Judgment*  
+**Genre:** Theological high-fantasy • Metaphysical epic • Apocalyptic mystery  
+**Narrative Style:** Layered and symbolic, with philosophical introspection and character-driven tension
+
+**Inspirational Roots:**  
+- *Paradise Lost*, *The Divine Comedy* (theological mythmaking)  
+- *The Stormlight Archive* (progressive descent of a flawed hero)  
+- *Sandman*, *Evangelion* (identity, memory, cosmic burden)  
+- *Malazan Book of the Fallen* (epic scale, moral ambiguity, divine entropy)
+
+**Tone:**  
+- Philosophical, tragic, and often dreamlike  
+- Progressively darker, reflecting loss of faith, identity, and clarity  
+- Centers around the **tension between purpose and autonomy**, and the danger of wielding “absolute” power in a broken world  
+- Divine beings reflect human conflict, not transcend it
+
+**Core Tensions:**  
+- Judgment vs. Mercy  
+- Truth vs. Meaning  
+- Will vs. Purpose  
+- Memory vs. Reincarnation  
+- Obedience vs. Identity
+
 
 ---
 
-## 📚 META NARRATIVE – FIRST TRILOGY  
-**Book I: “The Echo of the Sword”** — Heaven/Hell war, fall of Michael  
-**Book II: “The Forgotten Voices”** — Conspiracies, Azael and Thaeriel emerge  
-**Book III: “The Throbbing Void”** — Thamorak awakens; impossible alliance  
-**End of Book III:** opens Saga II
+## 📚 META NARRATIVE – CORE TRILOGY ARC  
+**Series Title:** *Chronicles of the Sundering Judgment*
+
+> The trilogy explores the collapse of a cosmic order built on judgment, reincarnation, and obedience. When three ancient beings—**The Forgotten**—resurface, their ancestral weapons (*Solmire*, *Lament*, and *Aetheris*) reawaken a truth that predates divine law: **absolute judgment destroys as much as it protects**. Their return reopens wounds from the first celestial war and triggers the rise of **Thamorak**, the embodiment of imbalance. Across three volumes, divine structures unravel, and a new path toward redemption must be forged.
+
+---
+
+### 📘 Book I: *The Echo of the Sword*  
+**Theme:** Zeal, duty, and the fall from grace.
+
+Miguel, Heaven’s Supreme Commander, discovers *Solmire*—a living sword of radiant judgment. Wielding it brings decisive victories, but its inhuman verdicts isolate him from compassion and divine communion. The sword begins to guide Miguel more than he guides it. Meanwhile, the demon lord Belial senses something ancient in the weapon’s resonance and begins his own pursuit of forgotten power.
+
+> *This volume explores how zealotry emerges from certainty, and how justice without understanding becomes universal condemnation.*
+
+---
+
+### 📙 Book II: *The Forgotten Voices*  
+**Theme:** Identity, conspiracy, and fragmented truth.
+
+Following Miguel’s fall and Belial’s corruption of the spear *Lament*, the echoes of The Forgotten begin to stir. Arin Cross (*Thaeriel*), a mercenary, and Mikel Ardon (the reincarnated Miguel), both begin to awaken memories of a divine past. Iofiel uncovers fragments of the *Codex Mortalis*, revealing a prophecy of three pre-Judgment weapons. Earth becomes the new battleground as Heaven, Hell, and ancient memories converge.
+
+> *Here the war expands beyond battlefield conflict into existential crisis—between memory and reincarnation, freedom and fate.*
+
+---
+
+### 📕 Book III: *The Throbbing Void*  
+**Theme:** Reconciliation, sacrifice, and rewriting destiny.
+
+The use of the ancestral weapons destabilizes creation, awakening **Thamorak**—a devouring, metaphysical entropy. **Azael**, the third Forgotten, proposes reforging *Aetheris*, the staff of balance, using elements that only Heaven and Hell can provide. Miguel, Arin, and Milo (*Ereloth*) reunite in an impossible alliance to face the Void. Their goal is not to destroy Thamorak, but to *integrate* it—restoring balance through the union of judgment, pain, and creation.
+
+> *The trilogy closes not with divine triumph, but with transformation: judgment is no longer divine decree, but shared responsibility.*
+
+---
+
+### ➡️ Gateway to Saga II  
+The reincarnation cycle has changed. The old war between light and darkness was merely a reflection of a deeper schism—one now exposed. A new era dawns, unbound by prophecy. **The Forgotten walk again**, not as gods, but as silent custodians of a universe that must now define its own meaning.
 
 ---
 
 ## ⚙️ FUNDAMENTAL LAWS
 
-### 🔄 Reincarnation:
-- Angels/demons reincarnate as humans with no memory.
-- Dominant virtues → angelic reincarnation.  
-- Dominant impulses → demonic reincarnation.  
-- True identity is revealed only upon death.
+### 🔄 Reincarnation Cycle
 
-### ☠️ Final Death:
-- Angels and demons can die permanently if two conditions are met:  
-  1. They were destroyed in their divine or demonic form with a specific weapon.  
-  2. The same weapon kills them again in their reincarnated human form.
-
-### 🔁 Exceptions: THE FORGOTTEN
-- Azael, Thaeriel, Ereloth: pre-Judgment archangels.  
-- Retain memory and free will.  
-- Wield the three ancestral weapons:  
-  - **Solmire (Ereloth)** – Sword of living light  
-  - **Lamentum (Thaeriel)** – Spear of righteous pain  
-  - **Aetheris (Azael)** – Staff of balance
+- Souls of angels and demons are bound to a cycle of reincarnation into human form, with no memory of their past lives.  
+- **Dominant virtues** in life lead to angelic rebirth.  
+- **Dominant impulses** lead to demonic rebirth.  
+- This cycle was not part of the original design—it was imposed as containment after the First Sundering.  
+- As the ancestral weapons awaken, cracks begin to appear in the cycle:  
+  - Some humans exhibit divine or infernal traits without reincarnation.  
+  - Forgotten souls begin to stir before their time.  
+  - Certain weapons seem able to “recall” past identities.
 
 ---
 
-## 🛡️ HIERARCHIES
+### ☠️ Final Death (Soul Erasure)
 
-**Heaven:**  
-- Michael → Gabriel, Raphael, Uriel → Commanders → Captains → Leaders
+Permanent death for angels or demons requires two conditions:
 
-**Hell:**  
-- Lucifer → Belial, Leviathan, Asmodeus → Commanders → Captains → Leaders
+1. They are destroyed in their divine/demonic form using a weapon of pre-Judgment origin.  
+2. They are struck down again in their human form—by the **same weapon** or one of equivalent resonance.
+
+> This makes the ancestral weapons (Solmire, Lament, Aetheris) both tools of creation and extinction. They do not simply kill—they erase presence across time.
 
 ---
 
-## 🔍 THE FORGOTTEN  
+
+## 🧍‍♂️ THE FORGOTTEN — CHARACTER PROFILES
+
+Ancient pre-Judgment archangels whose memory, power, and individuality were sealed away after the First Sundering. Each embodies a foundational cosmic force, expressed through a weapon they themselves forged. Their return marks the unraveling of divine law.
+
+---
+
+### 🌞 Ereloth – *The Laughing Forger*  
+**Aspect:** Irreverent Light  
+**Weapon:** Solmire  
+**Human Alias:** Milo Ray  
+**Symbol:** A broken mirror reflecting the sun  
+**Archetype:** The Trickster God who remembers too much
+
+**Human Form:**  
+A disheveled, charming wanderer in his early 30s. Long, sun-bleached hair and mismatched eyes (one amber, one silver). Often barefoot, carrying a cracked guitar and muttering riddles. Smiles constantly—but not always kindly. People feel either warmth or unease around him, never neutrality.
+
+**Divine Form:**  
+A radiant figure cloaked in fragments of unformed reality—his body shifting between silhouettes, as if remembering multiple selves at once. His wings are not feathers but luminous filaments that hum like a forge mid-song. His laughter cracks the air like thunder wrapped in warmth.
+
+**Traits:**  
+- Speaks in riddles and paradoxes.  
+- Lies frequently—but often to protect others from truths they’re not ready to face.  
+- Sees the cosmic game as absurd, but still plays his part with hidden purpose.  
+- Believes that memory, not law, holds the universe together.
+
+**Narrative Role:**  
+- Midpoint revealer of truth.  
+- Serves as destabilizing catalyst and chaotic mentor.  
+- Opposes Thamorak out of mischief and loyalty to “what could have been.”
+
+---
+
+### ⚖️ Azael – *The Silent Balance*  
+**Aspect:** Equilibrium  
+**Weapon:** Aetheris  
+**Human Alias:** The Sage of the Summit  
+**Symbol:** Scales suspended in still air  
+**Archetype:** The Stoic Redeemer
+
+**Human Form:**  
+An elderly man with dusky skin, white eyes, and robes stitched from dreamlike fabric. Dwells in isolation at a mountaintop sanctuary. His presence stills the wind and dims noise. Movements are precise, silent, and oddly weightless. Speaks rarely, but when he does, reality seems to pause.
+
+**Divine Form:**  
+A towering entity of serene gravity. Half of his body glows with celestial gold, the other half cloaked in starlit void—neither side dominant. His wings are geometric and static, like sculptures suspended in time. His gaze halts storms. Wherever he walks, silence follows.
+
+**Traits:**  
+- Seeks neither victory nor dominance—only balance.  
+- Feels responsible for having let the First Sundering happen.  
+- Believes that stillness is not passivity, but a choice.  
+- Harbors sorrow but not regret.
+
+**Narrative Role:**  
+- Keeper of forgotten wisdom.  
+- Forger of the final plan to confront Thamorak.  
+- Must decide whether neutrality is still moral in a broken cosmos.
+
+---
+
+### 🔥 Thaeriel – *The Righteous Blade*  
+**Aspect:** Righteous Suffering  
+**Weapon:** Lament  
+**Human Alias:** Arin Cross  
+**Symbol:** A spear dripping both blood and light  
+**Archetype:** The Fallen Executioner
+
+**Human Form:**  
+A hardened mercenary in his late 30s with short black hair, sharp features, and a scar across his neck. Wears practical armor and carries a spear even in civilian zones. His eyes carry the weight of judgment—piercing, unforgiving. He speaks bluntly and rarely sleeps. Haunted by moral clarity.
+
+**Divine Form:**  
+A burning angel of pale fire, wrapped in endless chains that move with him—not as restraints, but as vows. His wings are jagged and scorched, each feather shaped like a blade. His face bears both serenity and wrath, split vertically by a scar of pure light. He is judgment given flesh.
+
+**Traits:**  
+- Driven by justice, obsessed with rightful punishment.  
+- Resists manipulation, but is easily consumed by personal moral codes.  
+- Carries guilt from the First Sundering, where he chose obedience over compassion.  
+- Acts with precision—but always under inner tension.
+
+**Narrative Role:**  
+- Antihero torn between vengeance and redemption.  
+- Must face both Belial and himself to reclaim Lament.  
+- Catalyst for forced alliance between Heaven, Hell, and the Forgotten.
+
+---
+
+> ⚠️ NOTE: The Forgotten are not gods. They are echoes of what divinity once meant—unfinished, fractured, and profoundly human in their contradictions.
+
+- The **Forgotten** are pre-Judgment archangels who survived the First Sundering.  
+- Their souls were locked outside the cycle. They retained memory, power, and free will—but became myth.  
+- Each one forged a weapon embodying a core cosmic force:
+
+  | Name     | Weapon     | Principle        | Risk                |
+  |----------|------------|------------------|---------------------|
+  | Ereloth  | Solmire    | Irreverent Light | Apathy or Vanity    |
+  | Thaeriel | Lament     | Righteous Pain   | Blind Judgment      |
+  | Azael    | Aetheris   | Equilibrium      | Despair (Nihilism)  |
+
+- When wielded by their creator, these weapons reach full resonance.  
+- In the hands of others, they manifest incomplete truths—distorted, volatile, or cruel.  
+- None of the Forgotten were meant to awaken again. Their return destabilizes the very structure of judgment.
+
+---
+
+### 🔍 THE FORGOTTEN  
 - First beings created by God, before the Judgment.  
 - Each believes they are the sole survivor.  
 - Capable of altering souls and retaining all memories.  
@@ -67,17 +215,22 @@
 
 ---
 
-### ⚔️ Ancestral Weapons  
-| Weapon | Current Wielder | Essence | Note |
-|--------|-----------------|---------|------|
-| **Solmire** — Sword of Righteous Judgment | Miguel | Light alive | True name unknown to the world |
-| **Lamentum** — Obsidian Spear of Pain | Thaeriel | Burning truth |  “Un‑named” to all others |
-| **Aetheris** — The Broken Staff | Azael | Soul‑balance | Dormant until wielded by its maker |
+### ⚔️ Ancestral Weapons
 
-*Only a Forgotten can unleash the weapon’s full potential.*
+| Weapon    | Original Wielder | Current Holder     | Essence        | Notes                                      |
+|-----------|------------------|---------------------|----------------|--------------------------------------------|
+| Solmire   | Ereloth           | Miguel (former)     | Living Light   | Drawn from the Tree Outside Time           |
+| Lament    | Thaeriel          | Belial (corrupted)  | Burning Truth  | Unleashed in the Sepulcher of Sorrow       |
+| Aetheris  | Azael             | Dormant             | Soul Balance   | Broken during the First Sundering          |
+
+- These weapons were forged **before divine law**, during the raw chaos of creation.  
+- Each one resonates with a universal force: judgment, suffering, or harmony.  
+- They are not inherently good or evil—but their intent is shaped by their wielder.  
+- When any two clash, **creation itself resonates**. When all three awaken, prophecy speaks of the rise of **something worse**: Thamorak.
 
 ---
 
+> ⚠️ NOTE: The Codex Mortalis suggests the weapons are not gifts from Heaven or Hell, but *fragments of the first will*. Their full purpose has not yet been revealed.
 
 ## 📜 CENTRAL PROPHECY (Codex Mortalis)  
 > “Three were forged before time...  
@@ -87,6 +240,73 @@
 > ...and if the three awaken, HE shall awaken too.”
 
 ---
+## 📖 THE CODEX MORTALIS — CONTEXT
+
+A mythical tome older than the Cycle, said to have been written by voices that no longer exist. The Codex Mortalis is not a single book but a collection of shifting verses, memories, and echoes—retrieved from crystal tombs, ruined altars, and soulscars left behind after the First Sundering.
+
+It was partially reconstructed by **Iofiel**, Guardian of Divine Memory, who believes the Codex holds the **original law** before Heaven and Hell divided.
+
+> ⚠️ It is not written in any stable language. Some lines rearrange themselves when spoken aloud. Others appear only to the dying or the Awakened.
+
+The Codex predicts not only the return of the **Forgotten**, but the **undoing of divine architecture**—and the price of restoring true equilibrium.
+
+---
+
+Below are some of its most decipherable fragments, used as secret scripture by some factions, and heresy by others.
+
+## 📖 FRAGMENTS FROM THE CODEX MORTALIS
+
+> Recovered in parts from the Silent Choir, transcribed in both Light and Shadow scripts. Many lines are thought to be corrupted—others were never meant to be understood by mortals.
+
+---
+
+**Fragment I — The Three That Broke the Wheel**  
+*"Three were forged before the chain.  
+One laughed, one wept, one waited.  
+Their weapons sang once—and the world split.  
+Now, they must sing again, or vanish into silence."*
+
+---
+
+**Fragment II — The Echo of Solmire**  
+*"Light that judges without asking.  
+Laughter sharp enough to blind a god.  
+Beware the blade that forgives nothing."*
+
+---
+
+**Fragment III — The Rise of Thamorak**  
+*"It comes not with fire, nor with teeth.  
+But with forgetting.  
+The name you cannot say  
+is already in your mouth."*
+
+---
+
+**Fragment IV — Lament's Curse**  
+*"Pain is not punishment.  
+Pain is the memory of order.  
+And justice, when it burns too clean,  
+leaves ash instead of peace."*
+
+---
+
+**Fragment V — The Last Balance**  
+*"Should the staff be raised again,  
+One will die who has already died.  
+Another will forget what they were.  
+And the third—  
+—will choose to become the wound."*
+
+---
+
+**Fragment VI — Unreadable Section**  
+*⸺ ⸺ ⸺ “the mirror dreams backwards,  
+and in its sleep, remakes the Judge.”*
+
+---
+
+> ⚠️ Scholars believe these are partial reconstructions. The true Codex may contain over 777 verses, many of which rearrange themselves when spoken aloud.
 
 ## 💀 THAMORAK – THE THREAT  
 **Theories:**  
@@ -97,49 +317,85 @@
 
 ---
 
-## 🌍 KEY LOCATIONS
+## 📍 KEY LOCATIONS
 
-## 🕊️ HEAVEN
-
-**Temple of Shattered Light** – Headquarters since Michael’s fall. Its alabaster vault is cracked by a divine fault‑line that glows like dawn and dusk at once. Strategy halls hover on broken terraces; every fissure hums with a lingering echo of Michael’s sword.
-
-**Seraphiel’s Lookout** – A floating observatory of crystal lenses and harp‑strings, attuned to mortal prayers. Angels train here to read “harmonics” in the cosmic weave and predict incursions hours before they begin.
-
-**The Silent Choir** – A necropolis of winged statues that once housed an order sworn to eternal hymns. Their voices were stolen in the First Sundering; now the marble mouths open only when forgotten names are spoken nearby.
+Sacred, cursed, or metaphysically unstable places that shape the war between Judgment, Memory, and Chaos. These are not merely settings—they are echoes of creation and failure.
 
 ---
 
-## 🔥 HELL
+### 🏛️ University of Navarion  
+**Type:** Human academic stronghold  
+**Location:** Earth, Western Hemisphere  
+**Known For:** Theology, forbidden manuscripts, divine energy leaks
 
-**Abyss of Varkhannar** – Belial’s vertical citadel: an inverted canyon whose walls are ribbed with thrones. Gravity twists inward; screams fall upward like ash. The deeper you descend, the older the sins petrified in obsidian.
+**Description:**  
+An ancient university built atop a forgotten leyline nexus. Beneath its campus lies a sealed portal to an infernal pocket realm. Unbeknownst to its students, Navarion is a beacon that draws entities searching for reincarnated power.
 
-**Crimson Nexus** – A neutral market where souls, memories and favors are auctioned under shifting crimson skies. Even archangels risk clandestine visits; neutrality is enforced by glyphs older than Heaven or Hell.
-
-**Tower of the Eternals** – A black‑iron spire that imprisons proto‑entities predating the Judgment. Each level is a different era’s nightmare; time is bartered as currency among the wardens.
-
----
-
-## ⚖️ INTERMEDIATE PLANES
-
-**Zaphor’el** – A plane sheared during the Prime War. Mirrors of broken time drift like icebergs; taking a wrong reflection may drop visitors decades ahead—or behind.
-
-**Umbrahum** – A desert where unjudged souls wander beneath a sun that never sets nor moves. Whispers of forgotten verdicts guide travelers to oases of temporary memory.
-
-**The Inverted Vale** – A gravity‑reversed canyon where rivers flow skyward into an aurora maw. Legends claim Thamorak’s heartbeat can be sensed beneath the floating boulders.
+**Narrative Use:**  
+- Mikel Ardon teaches here.  
+- Sariel and Arin both investigate it independently.  
+- The final battle of Book II converges beneath its foundations.
 
 ---
 
-## 🌎 EARTH
+### 🏝️ Isle of Turein  
+**Type:** Ancestral relic zone  
+**Location:** Fragmented between planes—accessible only via specific dream-states or bloodline resonance.
 
-**University of Navarion** – An old Iberian campus whose sealed catacombs store censored papal relics. Several re‑incarnated angels unknowingly lecture here on metaphysics.
+**Description:**  
+A forgotten island bathed in eternal twilight. Nature grows in spirals, and time bends in the wind. Ereloth left memories here—echoes carved into stone and sound. Solmire once rested here, guarded not by creatures, but by unanswered riddles.
 
-**Isle of Turein** – A storm‑wrapped basalt isle lost in the Atlantic. Solmire was last seen streaking into its labyrinthine forest; compasses spin, and nights last thirteen hours.
-
-**Grey City** – An anonymous megacity of soot‑lined towers and neon scripture. First recorded site where humans spontaneously manifested angelic or demonic traits after Judgment fractures.
-
-*Gemini may invent further sites, but must record each name, plane and purpose for continuity.*
+**Narrative Use:**  
+- Mikel visits during dream-walking.  
+- First clues to Ereloth’s identity found here.  
+- Site of Solmire’s last resonance before Book III.
 
 ---
+
+### ⚰️ The Silent Choir (Necropolis)  
+**Type:** Celestial grave archive  
+**Location:** High Heaven, Outer Ring
+
+**Description:**  
+A labyrinthine city of tombs where fallen angels are not buried—but remembered through song. Only Iofiel can access its deepest layers. The Codex Mortalis was partially reconstructed here from memories entombed in harmonic crystal.
+
+**Narrative Use:**  
+- Gabriel and Iofiel retrieve prophecy fragments.  
+- Used as a spiritual amplifier to track weapon echoes.  
+- First true mention of Thamorak appears in a corrupted hymn.
+
+---
+
+### 🔥 Sepulcher of Sorrow (Tomb of Lament)  
+**Type:** Weapon reliquary  
+**Location:** Infernal middle-tier plane, corrupted by intrusion
+
+**Description:**  
+A tomb sealed by paradox: the more you resist its pull, the deeper you fall into it. Here, Lament was buried and later corrupted by Belial. The realm shifts based on guilt and regret. The ground whispers in tongues that belong to no known time.
+
+**Narrative Use:**  
+- Thaeriel must descend here to reclaim Lament.  
+- Belial confronts his past within the tomb’s illusions.  
+- Plane begins to fracture under Thamorak’s rising influence.
+
+---
+
+### 🌫️ Valley Inverted  
+**Type:** Entropic anomaly  
+**Location:** Between Planes—Reality Failure Zone
+
+**Description:**  
+A reverse-gravity expanse where cause and effect unravel. Trees grow upside down, rivers freeze in mid-air, and memory bleeds from the living. This valley marks the first physical manifestation of Thamorak’s awakening.
+
+**Narrative Use:**  
+- Site of final convergence in Book III.  
+- All three weapons are drawn here simultaneously.  
+- Aetheris is reforged here—at the cost of something sacred.
+
+---
+
+> ⚠️ NOTE: Locations may evolve or collapse based on the balance between Solmire, Lament, and Aetheris. Maps are unreliable. Memory is often more accurate than geography.
+
 
 ## 🔎 TRILOGY MYSTERIES
 
@@ -188,8 +444,7 @@
 - What is the “laughter” that forged Solmire?  
 - Who was the demon commander who sacrificed himself?  
 - What events led to the final battle?  
-- Did anyone suspect the Forgotten's return?  
-- Where did Solmire fall? Who guards it?  
+- Did anyone suspect the Forgotten's return?
 - Michael’s dreams in his human form?  
 - How is the reincarnation system explained in-universe?
 
@@ -197,67 +452,11 @@
 
 ## ✅ MYSTERIES ALREADY REVEALED IN LORE (should no longer surprise the reader)  
 - The Forgotten (Ereloth, Azael, Thaeriel) survived and walk among humans.  
-- The Forgotten retain memory and free will, even as humans.  
-- How did Michael obtain Solmire? Found it in a tree outside time. The sword chose him.
-
+- The Forgotten retain memory and free will, even as humans.
 ---
 
-# FINAL INSTRUCTION FOR AI:
-Develop the novel from the origin of the conflict up to the provided final chapter, planting revelations, tension, and events that lead naturally to that ending. Respect the theological structure, the reincarnation system, and the prophecy, while maintaining symbolic weight and mystery throughout.
-
----
 
 # 🗂️ FULL CHARACTER DOSSIERS
-
-## 👤 PROFILES OF THE FORGOTTEN
-
-### ✨ Azael — *The Silent One*  
-> “I did not come to stop the war. I came to make sure it has consequences.”
-
-- **Title:** Keeper of the Sleeping Judgment  
-- **Height:** 2.35 m  
-- **Divine Appearance:** Shrouded in living ash; faceless beneath a crown of dark smoke. *Aetheris* hums with a frequency that muffles every emotion nearby. Colours fade where he steps.  
-- **Weapon:** *Aetheris*, the Broken Staff — channels soul‑equilibrium; splinters if truth is betrayed.  
-- **Personality:** Serene, unflappable, philosophical. Acts only with surgical precision.  
-- **Combat Style:** Passive‑reactive; absolute defence. Can hush even hellfire with a single word.  
-- **Human Form:** **The Summit Sage** (name unknown) — an elderly herbalist whose remedies are “impossible.”  
-- **Fate Threads:**  
-  - If he dies in peace, may return as **Guardian of the True Light**.  
-  - If he dies feeling useless or forsaken, his soul could hollow into **Azeloth**, a void that absorbs faith and light.
-
----
-
-### 🔥 Thaeriel — *The Avenger*  
-> “Fire is blind; it burns the lie—including your own.”
-
-- **Title:** Blade of Just Judgment  
-- **Height:** 2.30 m  
-- **Divine Appearance:** Body sculpted by fire, incandescent scars across his torso; half‑burnt wings radiate heat; eyes‑like twin suns. *Lamentum* vibrates at every injustice sensed.  
-- **Weapon:** *Lamentum*, Spear of Pure Pain — leaves spiritual wounds that never heal; pierces truth.  
-- **Personality:** Rigid, intense, uncompromising. Sees balance only through punishment and fiery redemption.  
-- **Combat Style:** Aggressive purifier; fights alone with surgical wrath.  
-- **Human Form:** **Arin Cross**, lone mercenary hunting war criminals.  
-- **Fate Threads:**  
-  - If he dies in compassionate sacrifice, reborn as **Last Light’s Radiance**.  
-  - If betrayed or enraged, he may twist into **Thae’Zakar**, blind judge who condemns all.
-
----
-
-### 😈 Ereloth — *The Jester*  
-> “Save the world? What’s the rush? My rum is still cold and I haven’t fallen in love today.”
-
-- **Title:** Laughter of Luminous Chaos  
-- **Height:** Variable (1.70 – 2.20 m, as mood swings)  
-- **Divine Appearance:** Ever‑shifting beauty, smiling; eyes show collapsing galaxies. Wings of liquid light; presence sparks inspiration—or madness.  
-- **Weapon:** *Solmire*, Sword of Living Light (currently with Miguel). Forged originally as a prank on the Judgment itself.  
-- **Personality:** Playful, provocative, seemingly carefree yet wise. Believes chaos lets creation breathe. Mocks both Heaven and Hell.  
-- **Combat Style:** Improvised chaos‑dance; wields fear, desire, confusion. Laughs mid‑battle; never strikes the same way twice.  
-- **Human Form:** **Milo Ray**, beach‑side musician and professional drinker.  
-- **Fate Threads:**  
-  - If he finds purpose and sacrifices for others, returns as **Bearer of Luminous Chaos**, a god of transition.  
-  - If he dies bored or irrelevant, his soul may scatter into **Nameless Shadows**, agents of confusion and decay.
-
----
 
 <details>
 <summary>👑 <strong>Miguel – Supreme Commander of Heaven</strong></summary>
@@ -2597,20 +2796,19 @@ Develop the novel from the origin of the conflict up to the provided final chapt
 - **Personality:** Cold, mathematical, communes with beasts better than demons.  
 
 
-## 🛑 GLOBAL GENERATION DIRECTIVE
+### 🛑 GLOBAL GENERATION DIRECTIVE
 
 You must generate **an entire trilogy**.  
-The **Final Reference Chapter** (`B1C28 – The Echo of the Sword`) belongs **only to Book I** and its text is immutable (canon).
+
 
 ### Phases
 
 1. **Book I – “The Echo of the Sword”**  
-   Generate chapters `B1C01` … `B1C27`.  
-   Then **insert exactly** the provided Final Reference Chapter (`B1C28`) **without any change**.
+   Generate chapters `B1C01` … `B1C28`.  
 
 2. **Book II – “The Forgotten Voices”**  
    Continue from the state left by `B1C28`: Michael reincarnated without memory, sword lost, retreat to the Temple, Belial holding the spear, etc.  
-   Generate `B2C01` … (~25–30 chapters) following the mystery roadmap.
+   Generate `B2C01` … `B2C40` following the mystery roadmap.
 
 3. **Book III – “The Pulse of the Void”**  
    Advance all open threads from the end of Book II up to Thamorak’s awakening and the planned finale.
@@ -2618,7 +2816,7 @@ The **Final Reference Chapter** (`B1C28 – The Echo of the Sword`) belongs **on
 ### Mandatory Rules
 
 - **Do not alter** the Final Reference Chapter text. If regeneration is requested, return it *verbatim*.  
-- Everything written in `B1C01–B1C27` must lead naturally and coherently into the events, wounds, absences, and tone of `B1C28`.  
+- Everything written in `B1C01–B1C28` must lead naturally and coherently into the events, wounds, absences, and tone of `B1C28`.  
 - Books II and III must strictly honor the consequences established in `B1C28`.  
 - Revelation pacing:  
   - Book I: only hints (ancient weapons, vibrations, myths).  
