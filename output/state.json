@@ -1,0 +1,53 @@
+{
+  "timeline": [],
+  "last_date": null,
+  "deaths": [],
+  "weapons": {},
+  "revealed_truths": [
+    {
+      "truth": "Miguel accepts the mantle of traitor",
+      "chapter": "3"
+    },
+    {
+      "truth": "A path emerges in Serephis for Miguel",
+      "chapter": "3"
+    },
+    {
+      "truth": "The air in Serephis changes, carrying the scent of ozone and wet stone",
+      "chapter": "3"
+    },
+    {
+      "truth": "Miguel discovers the Impossible Grove in Serephis",
+      "chapter": "3"
+    },
+    {
+      "truth": "The trees in the Impossible Grove cast no shadows, violating a law of reality",
+      "chapter": "3"
+    },
+    {
+      "truth": "The wind in Serephis abruptly dies, replaced by an absolute silence around the Impossible Grove",
+      "chapter": "3"
+    }
+  ],
+  "resurrections": [],
+  "objectives": [
+    {
+      "character": "Miguel",
+      "objective": "Seek an answer to the spiritual wound and become whole again",
+      "chapter": "1"
+    },
+    {
+      "character": "Miguel",
+      "objective": "Definitively choose to proceed alone on his personal quest, prioritizing it over his duties as Supreme Commander",
+      "chapter": "2"
+    }
+  ],
+  "combat_actions": [
+    {
+      "character": "Miguel",
+      "action": "steps across the threshold into the Impossible Grove",
+      "outcome": null,
+      "chapter": "3"
+    }
+  ]
+}

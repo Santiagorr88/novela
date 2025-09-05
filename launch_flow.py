@@ -20,3 +20,18 @@ if __name__ == "__main__":
         "input": user_input,
         "lore_validated_text": lore_validated_text
     })
+
+
+    # with open("src/lore/prompt_universo.md", "r") as f:
+    #     lore_validated_text = f.read()
+    # # Path to your flow YAML
+    # flow_file = "flow.yml"
+    # # Optionally pass an input prompt; empty for default behavior
+    # user_input = ""
+    # # Load and execute
+    # for i in range(7):
+    #     flow_def = load_flow(flow_file)
+    #     run_flow(flow_def, {
+    #         "input": user_input,
+    #         "lore_validated_text": lore_validated_text
+    #     })

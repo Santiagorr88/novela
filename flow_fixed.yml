@@ -1,0 +1,314 @@
+version: 1
+
+variables:
+  saga_title: "Chronicles_of_the_Sundering_Judgment"
+  book_number: 1
+  pdf_folder: "project/{{ saga_title }}/"
+  css_path: "styles/default.css"
+  dry_run: false
+
+flow:
+# 1) Progreso actual
+- id: read_progress
+  type: python
+  module: src.scripts.progress_tracker
+  function: load_progress
+
+- id: chapter_number
+  type: python
+  module: src.scripts.progress_tracker
+  function: get_int_field
+  args:
+    state: "{{ read_progress }}"
+    key: "current_chapter"
+
+# 2) Carga de lore y arco canónico
+- id: file_loader_prompt
+  type: file_loader
+  inputs:
+    path: src/lore/prompt_universo.md
+
+- id: file_loader_arco
+  type: file_loader
+  inputs:
+    path: src/lore/arco_argumental_completo.md
+
+- id: chapter_parts_list
+  type: python
+  module: src.scripts.lore_utils
+  function: get_part_titles_for_chapter
+  args:
+    chapter_no: "{{ chapter_number }}"
+    arco_data: "{{ file_loader_arco }}"
+
+- id: lore_combined
+  type: python
+  module: src.scripts.lore_utils
+  function: merge_lore
+  args:
+    lore_prompt: "{{ file_loader_prompt }}"
+    lore_arco: "{{ file_loader_arco }}"
+
+# 3) Título de capítulo y memoria
+- id: chapter_title_en
+  type: python
+  module: src.scripts.lore_utils
+  function: get_chapter_title
+  args:
+    chapter_no: "{{ chapter_number }}"
+    arco_data: "{{ file_loader_arco }}"
+
+- id: rolling_memory
+  type: python
+  module: src.scripts.memory_plan
+  function: get_rolling_memory
+  args:
+    chapter_no: "{{ chapter_number }}"
+    part_no: 1
+
+- id: prev_recap
+  type: python
+  module: src.scripts.memory_plan
+  function: get_previous_recap
+  args:
+    chapter_no: "{{ chapter_number }}"
+
+# 4) Identificador BxCy
+- id: chapter_id
+  type: passthrough
+  inputs:
+    value: "B{{ book_number }}C{{ '%02d' | format(chapter_number | int) }}"
+
+# 5) Planificador de capítulo completo (todas las partes en un output)
+- id: full_chapter_plan
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.4
+  system_prompt_path: src/agents/chapter_planner_full_strict.md
+  inputs:
+    chapter_no: "{{ chapter_number }}"
+    chapter_parts: "{{ chapter_parts_list }}"
+    previous_recap: "{{ prev_recap }}"
+    rolling_memory: "{{ rolling_memory }}"
+    lore_context: "{{ lore_combined }}"
+
+
+## 6) Narrador: genera TODO el capítulo en un único markdown
+#- id: narrator_full_chapter
+#  type: llm
+#  model: gemini-2.5-pro
+#  temperature: 0.7
+#  model_kwargs:
+#    max_output_tokens: 65000
+#    top_p: 0.95
+#  system_prompt_path: src/agents/narrator.md
+#  inputs:
+#    lore_context: "{{ lore_combined }}"
+#    chapter_no: "{{ chapter_number }}"
+#    chapter_title: "{{ chapter_title_en }}"
+#    chapter_plan: "{{ full_chapter_plan }}"
+#    previous_recap: "{{ prev_recap }}"
+#    rolling_memory: "{{ rolling_memory }}"
+#
+## 7) Split EN: partir el capítulo completo en partes y cachear cada .md
+#- id: split_and_cache_parts_en
+#  type: python
+#  module: src.scripts.chapter_splitter
+#  function: split_and_cache
+#  args:
+#    chapter_id: "{{ chapter_id }}"
+#    chapter_no: "{{ chapter_number }}"
+#    parts_titles: "{{ chapter_parts_list }}"
+#    narrator_text: "{{ narrator_full_chapter }}"
+#
+## 8) Ensamblar capítulo EN desde los .md cacheados (para validaciones/eventos)
+#- id: assemble_chapter_en
+#  type: python
+#  module: src.scripts.chapter_assembler
+#  function: assemble_chapter_from_files
+#  args:
+#    chapter_id: "{{ chapter_id }}"
+#    part_number: "{{ split_and_cache_parts_en.count | int }}"
+#    chapter_title: "{{ chapter_title_en }}"
+#    part_titles: "{{ chapter_parts_list }}"
+#
+## 9) Traducir capítulo completo a ES de una sola vez
+#- id: translator_full_chapter_es
+#  type: llm
+#  model: gemini-2.5-pro
+#  temperature: 0.2
+#  model_kwargs:
+#    max_output_tokens: 65000
+#  system_prompt_path: src/agents/translator.md
+#  inputs:
+#    english_text: "{{ lore_validated_text_en }}"
+#
+## 10) Split ES: partir el capítulo ES en partes y cachear cada .md (sufijo _es)
+#- id: split_and_cache_parts_es
+#  type: python
+#  module: src.scripts.chapter_splitter
+#  function: split_and_cache
+#  args:
+#    chapter_id: "{{ chapter_id }}"
+#    chapter_no: "{{ chapter_number }}"
+#    parts_titles: "{{ chapter_parts_list }}"
+#    narrator_text: "{{ translator_full_chapter_es }}"
+#
+## 11) Extractor de eventos (sobre el capítulo EN validado)
+#- id: event_extractor
+#  type: llm
+#  model: gemini-2.5-flash
+#  temperature: 0.3
+#  system_prompt_path: src/agents/event_extractor.md
+#  inputs:
+#    lore_context: "{{ lore_combined }}"
+#    chapter_text: "{{ lore_validated_text_en }}"
+#
+#- id: update_event_state
+#  type: python
+#  module: src.scripts.timeline
+#  function: update_state_from_events
+#  args:
+#    events: "{{ event_extractor }}"
+#    chapter_no: "{{ chapter_number }}"
+#
+## 12) (Opcional) Chequeos de coherencia/continuidad/lore a nivel capítulo
+##     Si prefieres hacerlo por parte, puedes mover esto a export_all.
+#- id: continuity_guard
+#  type: python
+#  module: src.scripts.continuity
+#  function: check
+#  args:
+#    chapter_text: "{{ assemble_chapter_en }}"
+#    chapter_no: "{{ chapter_number }}"
+#    state_path: "output/state.json"
+#
+#- id: continuity_gate
+#  type: router
+#  inputs:
+#    condition: "{{ continuity_guard.startswith('FIX') }}"
+#
+#- id: continuity_fixer
+#  when: "{{ continuity_gate }}"
+#  type: llm
+#  model: gemini-2.5-flash
+#  temperature: 0.4
+#  system_prompt_path: src/agents/continuity_fixed.md
+#  inputs:
+#    lore_context: "{{ lore_combined }}"
+#    draft_chapter: "{{ assemble_chapter_en }}"
+#    issues: "{{ continuity_guard }}"
+#
+#- id: continuity_text_en
+#  type: passthrough
+#  inputs:
+#    content: "{{ continuity_fixer if continuity_gate else assemble_chapter_en }}"
+#
+#- id: lore_checker
+#  type: python
+#  module: src.scripts.lore_diff_tracker
+#  function: check_lore_conflicts
+#  args:
+#    chapter_text: "{{ continuity_text_en }}"
+#
+#- id: lore_gate
+#  type: router
+#  inputs:
+#    condition: "{{ lore_checker.startswith('FIX') }}"
+#
+#- id: lore_fixer
+#  when: "{{ lore_gate and not dry_run }}"
+#  type: llm
+#  model: gemini-2.5-flash
+#  temperature: 0.4
+#  system_prompt_path: src/agents/lore_fixer.md
+#  inputs:
+#    lore_context: "{{ lore_combined }}"
+#    draft_chapter: "{{ continuity_text_en }}"
+#    issues: "{{ lore_checker }}"
+#
+#- id: lore_validated_text_en
+#  type: passthrough
+#  inputs:
+#    content: "{{ lore_fixer if lore_gate else continuity_text_en }}"
+#
+## 13) Export batch: PDFs EN/ES por parte + memorias por parte
+#- id: export_batch
+#  type: python
+#  module: src.scripts.export_batch
+#  function: export_all
+#  args:
+#    chapter_id: "{{ chapter_id }}"
+#    chapter_title: "{{ chapter_title_en }}"
+#    parts_meta_en: "{{ split_and_cache_parts_en }}"
+#    parts_meta_es: "{{ split_and_cache_parts_es }}"
+#    css_path: "{{ css_path }}"
+#
+## 14) Temas, misterios, estado general (sobre texto EN validado)
+#- id: register_themes
+#  type: python
+#  module: src.scripts.theme_manager
+#  function: register_themes
+#  args:
+#    chapter_no: "{{ chapter_number }}"
+#    themes: ["auto", "detect"]
+#
+#- id: mystery_tracker
+#  type: python
+#  module: src.scripts.mystery_tracker
+#  function: track_mysteries
+#  args:
+#    chapter_text: "{{ lore_validated_text_en }}"
+#    chapter_no: "{{ chapter_number }}"
+#
+#- id: state_updater
+#  type: python
+#  module: src.scripts.timeline
+#  function: check_and_update
+#  args:
+#    chapter_text: "{{ lore_validated_text_en }}"
+#    chapter_no: "{{ chapter_number }}"
+#
+## 15) Recap por capítulo (EN ensamblado validado)
+#- id: recap_generator
+#  type: llm
+#  model: gemini-2.5-flash
+#  temperature: 0.25
+#  system_prompt_path: src/agents/recap_writer.md
+#  inputs:
+#    chapter_no: "{{ chapter_number }}"
+#    full_text: "{{ lore_validated_text_en }}"
+#    lore_context: "{{ lore_combined }}"
+#
+#- id: recap_writer
+#  type: python
+#  module: src.scripts.chapter_recap_writer
+#  function: write_chapter_recap
+#  args:
+#    chapter_no: "{{ chapter_number }}"
+#    full_text: "{{ lore_validated_text_en }}"
+#    summary: "{{ recap_generator }}"
+#
+#- id: full_recap_updater
+#  type: python
+#  module: src.scripts.chapter_recap_writer
+#  function: append_to_full_recap
+#  args:
+#    chapter_no: "{{ chapter_number }}"
+#    recap_text: "{{ recap_generator }}"
+#
+## 16) Avance de progreso (pasa al siguiente capítulo directamente)
+#- id: update_chapter_counter
+#  type: python
+#  module: src.scripts.memory_io
+#  function: register_next_chapter_number
+#  args:
+#    book_no: "{{ book_number }}"
+#    current_chapter: "{{ chapter_number }}"
+#
+#- id: save_progress_next_chapter
+#  type: python
+#  module: src.scripts.progress_tracker
+#  function: save_progress
+#  args:
+#    progress: { current_chapter: "{{ (chapter_number | int) + 1 }}", current_part: 1, total_parts: 0 }

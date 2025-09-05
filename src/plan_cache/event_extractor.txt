@@ -1,0 +1,37 @@
+```json
+[
+  {
+    "type": "new_objective",
+    "character": "Miguel",
+    "objective": "Find the source of the wound in his chest"
+  },
+  {
+    "type": "weapon_update",
+    "weapon": "Solmire",
+    "owner": "Dormant",
+    "status": "recovered"
+  },
+  {
+    "type": "reveal",
+    "truth": "The sword's name is Solmire"
+  },
+  {
+    "type": "reveal",
+    "truth": "Solmire was forged as a cosmic jest in a vortex of chaotic joy and laughter"
+  },
+  {
+    "type": "weapon_update",
+    "weapon": "Solmire",
+    "owner": "Miguel",
+    "status": "wielded"
+  },
+  {
+    "type": "reveal",
+    "truth": "Solmire's awakening sends a metaphysical shockwave across creation"
+  },
+  {
+    "type": "reveal",
+    "truth": "Lucifer recognizes the resonance of Solmire's awakening and the signature of its maker"
+  }
+]
+```

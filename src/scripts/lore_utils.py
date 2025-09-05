@@ -1,5 +1,6 @@
 import re
 from pathlib import Path
+from typing import List
 
 
 def merge_lore(lore_prompt: str, lore_arco: str) -> str:
@@ -23,56 +24,73 @@ def get_parts_for_chapter(chapter_no: int, arco_data: str) -> int:
     return len(part_matches)
 
 
-def get_part_titles_for_chapter(chapter_no: int, arco_data: str, book_number) -> list[str]:
+def get_part_titles_for_chapter(chapter_no: int, arco_data: str, book_number: int) -> List[str]:
     """
-    Extrae los títulos de las partes narrativas SOLO del capítulo B1Cxx.
+    Devuelve los títulos de partes para el capítulo B{book}C{n}.
+    - Si existen partes numeradas (1. **Título** / 1. Título), las devuelve.
+    - Si NO existen (capítulo atómico), devuelve [título_del_capítulo].
     Robustez:
-      - Delimita por encabezados de capítulo: ^#{3,6} **B1Cxx:
-      - No depende de líneas en blanco entre capítulos
-      - Tolera títulos con/sin **negrita** y con/sin ':' final
+      - Acepta B{book}C0*{n} (1–3 dígitos) y evita falsos positivos (lookahead negativo).
+      - Encabezados ###–###### con o sin cierre ** al final.
+      - Siguiente capítulo del MISMO libro para delimitar el bloque.
     """
+    chap_num = int(chapter_no)
 
-    chapter_id = f"B{book_number}C{int(chapter_no):02d}"
+    # 1) Localizar encabezado exacto del capítulo
+    header_pat = rf"(?m)^[#]{{3,6}}\s+\*\*B{book_number}C0*{chap_num}(?!\d):\s*(.+?)\s*\*\*\s*$"
+    header_m = re.search(header_pat, arco_data)
+    if not header_m:
+        # tolerar falta de ** de cierre
+        header_pat_fallback = rf"(?m)^[#]{{3,6}}\s+\*\*B{book_number}C0*{chap_num}(?!\d):\s*(.+?)\s*$"
+        header_m = re.search(header_pat_fallback, arco_data)
+    if not header_m:
+        raise ValueError(f"No se encontró el capítulo B{book_number}C{chap_num} (con o sin ceros) en el arco.")
 
-    # 1) Localizar el inicio EXACTO del capítulo (###/####, con **...**)
-    start_pat = rf"(?m)^[#]{{3,6}}\s+\*\*{chapter_id}:[^\n]*$"
-    start_m = re.search(start_pat, arco_data)
-    if not start_m:
-        raise ValueError(f"No se encontró el capítulo {chapter_id} en el arco argumental.")
+    chapter_title = header_m.group(1).strip()
+    start = header_m.end()
 
-    start = start_m.end()
-
-    # 2) Encontrar el SIGUIENTE capítulo para cortar el bloque
-    next_pat = r"(?m)^[#]{3,6}\s+\*\*B1C\d{2}:[^\n]*$"
+    # 2) Delimitar bloque hasta el siguiente capítulo del MISMO libro (cualquier longitud de dígitos)
+    next_pat = rf"(?m)^[#]{{3,6}}\s+\*\*B{book_number}C\d+:[^\n]*$"
     next_m = re.search(next_pat, arco_data[start:])
     end = start + next_m.start() if next_m else len(arco_data)
-
     block = arco_data[start:end]
 
-    # 3) Dentro del bloque, extraer SOLO los ítems numerados (1. **Título** / 1. Título)
-    #    Primero intentamos con negrita:
+    # 3) Intentar extraer partes numeradas dentro del bloque
     titles = [m.group(1).strip() for m in re.finditer(r"(?m)^\s*\d+\.\s+\*\*(.+?)\*\*", block)]
-    #    Fallback sin negrita si no encuentra nada:
     if not titles:
         titles = [m.group(1).strip() for m in re.finditer(r"(?m)^\s*\d+\.\s+(.+?)\s*(?:$|\r?$)", block)]
 
-    # 4) Normalizar: quitar ':' final si viene dentro del **título:**
+    # 4) Normalizar ':' final
     titles = [re.sub(r":\s*$", "", t) for t in titles]
 
+    # 5) Si no hay partes, devolver el título del capítulo como única parte
     if not titles:
-        raise ValueError(f"No se encontraron partes narrativas para el capítulo {chapter_id}.")
+        if chapter_title:
+            return [re.sub(r":\s*$", "", chapter_title)]
+        return ["Full Chapter"]
 
     return titles
 
+def get_chapter_title(chapter_no: int, arco_data: str, book_number: int = 1) -> str:
+    """
+    Devuelve el título del capítulo B{book_number}C{chapter_no} (tolerando 1–3 ceros a la izquierda),
+    encabezados ###–###### y presencia/ausencia del cierre **.
+    """
+    chap_num = int(chapter_no)
 
-def get_chapter_title(chapter_no: int, arco_data: str) -> str:
-    """
-    Extrae el título del capítulo (ej: 'The Tree Outside Time') dado el número y el contenido del arco.
-    """
-    tag = f"B1C{int(chapter_no):02d}"
-    pattern = rf"###+\s+\*\*{tag}:\s*(.*?)\*\*"
-    match = re.search(pattern, arco_data)
-    if not match:
-        raise ValueError(f"No se encontró el título para {tag} en el arco argumental.")
-    return match.group(1).strip()
+    # Patrón principal: línea de encabezado con ** al final
+    pat_main = rf"(?m)^[#]{{3,6}}\s+\*\*B{book_number}C0*{chap_num}(?!\d):\s*(.*?)\s*\*\*\s*$"
+    m = re.search(pat_main, arco_data)
+    if not m:
+        # Fallback: sin cierre ** al final
+        pat_fb = rf"(?m)^[#]{{3,6}}\s+\*\*B{book_number}C0*{chap_num}(?!\d):\s*(.*?)\s*$"
+        m = re.search(pat_fb, arco_data)
+
+    if not m:
+        raise ValueError(f"No se encontró el título para B{book_number}C{chap_num} (con o sin ceros) en el arco.")
+
+    title = m.group(1).strip()
+    # Limpieza mínima por si quedara ':' final o espacios raros
+    title = re.sub(r":\s*$", "", title)
+    return title
 
