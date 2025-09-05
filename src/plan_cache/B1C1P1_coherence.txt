@@ -1,0 +1,9 @@
+```json
+[
+  {
+    "type": "new_objective",
+    "character": "Miguel",
+    "objective": "Seek the source of the cosmic pulse in the desert of Serephis."
+  }
+]
+```

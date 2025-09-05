@@ -1,55 +1,3 @@
-from pathlib import Path
-import os
-import google.generativeai as genai
-from dotenv import load_dotenv
-load_dotenv()
-def call_gemini_extend_chapter(prompt_path: str, chapter_path: str, model_name="gemini-2.5-pro") -> str:
-    # Configura API Key
-    genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-
-    # Carga archivos
-    prompt_universo = Path(prompt_path).read_text(encoding="utf-8").strip()
-    cap1 = Path(chapter_path).read_text(encoding="utf-8").strip()
-
-    # Arma el input
-    system_prompt ="""
------------------- INICIO SYSTEM PROMPT (texto) ------------------
-Tarea: Reestructurar un arco narrativo en capítulos sin generar prosa.
-
-Entrada: capítulos con “Summary” global y una lista de “Narrative Parts” numeradas (cada parte con Título, Descripción y “Narrative Function”).
-
-Objetivo: por CADA parte, crear UN capítulo nuevo con el título de esa parte y cuerpo mínimo (Summary + Narrative Function), sin añadir contenido creativo.
-
-SALIDA (formato exacto, en Markdown):
-
-#### **B{Libro}C{NUEVO_CAP}: {TítuloDeLaParte}**
-**Summary**: {Descripción íntegra de la parte, sin reescrituras}
-**Narrative Function**: {texto íntegro de la función}
-
-REGLAS:
-
-No inventes ni reescribas: copia LITERAL la Descripción de la parte tras “Summary ” (sin dos puntos).
-
-Copia LITERAL la “Narrative Function” tras “Narrative Function: ” (con dos puntos).
-
-Si la Descripción trae embebido “Narrative Function:” al final, SEPÁRALO: todo lo anterior va en Summary; lo de “Narrative Function” va en el bloque de función.
-
-Título del capítulo = título de la parte.
-
-Numeración:
-• Conserva el número de Libro (“B{n}”) del capítulo original.
-• Asigna C{NUEVO_CAP} de forma secuencial a través de TODO el arco, empezando en 01 y aumentando 1 por cada parte encontrada (B1C01, B1C02, B1C03, …).
-• Si el arco original no usa ceros a la izquierda (p. ej., B1C2), sigue ese estilo; de lo contrario usa dos dígitos.
-
-Mantén el orden original de las partes.
-
-No incluyas el “Summary” global del capítulo original.
-
-No añadas comentarios ni texto fuera del formato indicado.
------------------- FIN SYSTEM PROMPT ------------------
-
------------------- INICIO USER MESSAGE (texto) ------------------
-
 
 # Book I: "The Echo of the Sword"
 *(Chapters B1C01–B1C28)*
@@ -1057,32 +1005,25 @@ No añadas comentarios ni texto fuera del formato indicado.
     4.  **Ereloth's Path:** Ereloth picks up his battered guitar, which he had left leaning against the tree. "And every new world needs a new song," he says, a genuine, gentle smile on his face. He strums a simple, hopeful chord. "I think I'll wander. See what new jokes and stories are waiting to be told." He turns and walks away down a different path, his quiet music fading into the twilight. **Narrative Function:** Character resolution. His return to being the Wandering Bard, now with a sense of gentle purpose rather than pure chaos, is the perfect end for the trickster who learned the importance of his own creations.
     5.  **The Open Door:** The final shot is of the empty hilltop at sunset. The three primordial weapons are left behind, their purpose served. The universe is vast and its future unwritten, now in the hands of the angels, demons, and mortals who must live in it. The Chronicles of the Sundering Judgment are complete, but the countless stories of the new, balanced world have only just begun. **Narrative Function:** Thematic finality and opening for future sagas. The book ends not on a closed loop, but on an open door, a final, hopeful statement on the trilogy's core themes of free will and new beginnings.
 
-Devuelve ÚNICAMENTE el Markdown con los capítulos reestructurados siguiendo el formato indicado (sin explicaciones).
------------------- FIN USER MESSAGE ------------------
+Tier 1: Solmire – La Espada de la Luz Viviente
+Para el primer nivel, imaginemos a Solmire. Debería ser una espada que irradie luz, pero no una luz cualquiera. 
+Es una luz que juzga sin piedad. Su hoja podría parecer forjada de estrellas capturadas, o tal vez de cristales etéreos 
+que pulsan con una luz interna. La empuñadura podría ser sencilla, pero con un diseño que sugiere antigüedad, 
+quizás envuelta en hilos de luz, no de material. La imagen debe evocar asombro, pero también una ligera sensación de 
+frialdad o distancia, reflejando el juicio imparcial de Ereloth.
 
+Tier 2: Lamentun – La Lanza de la Verdad Ardiente
+Lament, el arma de Thaeriel, debe reflejar la "justicia, la furia" y el "dolor justo". No es una lanza limpia, sino una
+que ha conocido la batalla y la moralidad ambigua. Su punta podría estar forjada de un metal oscuro que parece haber 
+sido quemado y templado mil veces, quizás con vetas rojas o naranjas que sugieren fuego o sangre. El asta podría ser 
+robusta, con inscripciones antiguas que evocan votos o cadenas, y una ligera emanación de calor o un tenue brillo 
+rojizo/ámbar. La imagen debe transmitir una sensación de poder implacable y una historia de sufrimiento y determinación.
 
-"""
-
-    user_input = f"""
-***"""
-
-
-    # Llama a Gemini
-    model = genai.GenerativeModel(
-        model_name=model_name,
-        system_instruction=system_prompt
-    )
-    chat = model.start_chat()
-    response = chat.send_message(user_input)
-
-    return response.text
-
-if __name__ == "__main__":
-    output = call_gemini_extend_chapter(
-        prompt_path="src/agents/narrator.md",
-        chapter_path="src/lore/arco_argumental_completo.md"
-    )
-
-    #Path("src/chapters/extended_B1C1.md").write_text(output, encoding="utf-8")
-    Path("src/arco_argumental_all_books.md").write_text(output, encoding="utf-8")
-    print("Capítulo extendido guardado.")
+Tier 3: Aetheris – El Báculo del Equilibrio del Alma
+Aetheris, el arma de Azael, es el báculo del equilibrio. Representa la "sabiduría y la contención" frente al
+"desesperación (nihilismo)". Dado que está roto y necesita ser reforjado, la imagen podría mostrarlo en su estado 
+de "dormancia" o "reconstrucción", sugiriendo su poder latente y su función de unir opuestos.
+Su diseño podría ser elegante y austero, quizás hecho de un material que parece una fusión de luz y oscuridad, 
+o de minerales cósmicos. En lugar de una hoja o punta afilada, podría tener un orbe central o un símbolo de equilibrio
+donde convergen energías. Podría estar roto pero con las piezas flotando o uniéndose, emanando una luz suave que es
+tanto celestial como abisal, sin que ninguna domine. La imagen debe evocar serenidad, poder latente y la promesa de restauración.

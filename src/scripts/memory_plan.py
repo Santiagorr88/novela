@@ -280,17 +280,39 @@ def update_memory_from_part(delta: dict) -> str:
     return str(out)
 
 
-def build_chapter_memory_delta(*, chapter_no: int, text_en: str):
+def build_chapter_memory_delta(chapter_no: int, text_en: str):
     """
-    Genera la delta de memoria para TODO el capítulo.
-    Implementación mínima: reutiliza la versión por-parte con part_no=0.
-    Guardará como .../B1Cxx/B1CxxP00.json (convención: P00 = capítulo completo).
+    Crea un delta de MEMORIA a nivel CAPÍTULO.
+    - summary: primer párrafo de prosa útil (limpia H1/H3/listas)
+    - parts: títulos H3 detectados (orden)
     """
-    return build_part_memory_delta(chapter_no=int(chapter_no), part_no=0, text_en=text_en)
+    summary = _first_prose_paragraph(text_en)[:900] if text_en else ""
+    # extrae H3 como lista de títulos de partes
+    import re
+    h3_titles = re.findall(r'^\s*###\s+(.+?)\s*$', text_en or "", flags=re.M)
+    return {
+        "chapter": int(chapter_no),
+        "summary": summary,
+        "parts": h3_titles,
+        "events": [],          # opcional: puedes rellenar con event_extractor
+        "themes": [],          # opcional
+        "characters": {}       # opcional: estados clave
+    }
 
-def update_memory_from_chapter(*, delta):
+def update_memory_from_chapter(delta: dict) -> str:
     """
-    Persiste la memoria de capítulo completo.
-    Implementación mínima: reutiliza el actualizador por-parte.
+    Persiste capítulo a: src/chapters/memory/B1Cxx/B1Cxx.json
     """
-    return update_memory_from_part(delta=delta)
+    if not isinstance(delta, dict):
+        import json, ast
+        try:
+            delta = json.loads(delta)
+        except Exception:
+            delta = ast.literal_eval(delta)
+
+    ch = int(delta.get("chapter"))
+    cid = _cid(ch)
+    out = MEM_DIR / cid / f"{cid}.json"
+    _ensure_dir(out)
+    out.write_text(json.dumps(delta, ensure_ascii=False, indent=2), encoding="utf-8")
+    return str(out)

@@ -1,6 +1,7 @@
 # src/scripts/progress_tracker.py
 import json
 import ast
+from ast import literal_eval
 
 def _coerce_to_dict(obj):
     """Acepta dict, JSON str o str estilo dict de Python y devuelve dict."""
@@ -26,7 +27,7 @@ def load_progress(path="output/position.json"):
         with open(path, "r", encoding="utf-8") as f:
             data = f.read()
     except FileNotFoundError:
-        return {"current_chapter": 1, "current_part": 1, "total_parts": -1}
+        return {"current_chapter": 1, "current_book": 1}
 
     # Normaliza comillas simples mal guardadas
     s = data.strip()
@@ -59,21 +60,17 @@ def step_progress(current_state, actual_parts=None):
     """
     state = current_state if isinstance(current_state, dict) else load_progress()
     chapter = _coerce_to_int(state.get("current_chapter", 1), 1)
-    part = _coerce_to_int(state.get("current_part", 1), 1)
+    book = _coerce_to_int(state.get("current_book", 1), 1)
     total = _coerce_to_int(state.get("total_parts", -1), -1)
 
-    if actual_parts is not None:
-        total = _coerce_to_int(actual_parts, total)
 
-    if total > 0 and part >= total:
+    if total > 0 and book >= total:
         # Última parte -> pasar a siguiente capítulo
         chapter += 1
-        part = 1
-        total = -1
     else:
-        part += 1
+        book += 1
 
-    return {"current_chapter": chapter, "current_part": part, "total_parts": total}
+    return {"current_chapter": chapter, "current_book": book}
 
 
 # === NUEVO: avanzar por capítulo completo (modo capítulo one-shot) ===
@@ -88,12 +85,9 @@ def step_progress_full_chapter(current_state, actual_parts=None):
     """
     state = current_state if isinstance(current_state, dict) else load_progress()
     chapter = _coerce_to_int(state.get("current_chapter", 1), 1)
-    last_total = _coerce_to_int(actual_parts if actual_parts is not None else state.get("total_parts", -1), -1)
     return {
         "current_chapter": chapter + 1,
-        "current_part": 1,
-        "total_parts": -1,
-        "last_total_parts": last_total,  # no imprescindible; útil para logs/analítica
+        "current_book": 1 # no imprescindible; útil para logs/analítica
     }
 
 
@@ -128,18 +122,17 @@ def build_chapter_position(chapter_number: int, total_parts: int) -> dict:
     """
     return {
         "current_chapter": int(chapter_number),
-        "current_part": 1,
-        "total_parts": int(total_parts),
+        "current_book": 1
     }
 
 
-def set_total_parts(current_state, total_parts: int):
+def set_total_parts(current_state, book_number):
     """
     Devuelve un nuevo estado con total_parts actualizado (útil si lo calculas
     a partir de chapter_parts_list).
     """
     state = current_state if isinstance(current_state, dict) else load_progress()
-    state["total_parts"] = int(total_parts)
+    state["current_book"] = int(book_number)
     return state
 
 
@@ -149,8 +142,8 @@ def get_int_field(state, key):
     return int(state.get(key, 0))
 
 
-def count(*, items) -> int:
+def total_count(*, items) -> int:
     try:
-        return len(items)
+        return len(literal_eval(items))
     except Exception:
         return 0

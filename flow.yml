@@ -6,6 +6,10 @@ variables:
   pdf_folder: "project/{{ saga_title }}/"
   css_path: "styles/default.css"
   dry_run: false
+  min_words_per_part: 3000
+  max_words_per_part: 3500
+  budget_tolerance_pct: 5
+  min_paragraphs_per_part: 60
 
 flow:
 # === Estado / índices ===
@@ -38,14 +42,6 @@ flow:
     arco_data: "{{ file_loader_arco }}"
     book_number: "{{ book_number | int }}"
 
-- id: total_parts
-  type: python
-  module: src.scripts.progress_tracker
-  function: count
-  args: { items: "{{ chapter_parts_list }}" }
-
-
-
 - id: lore_combined
   type: python
   module: src.scripts.lore_utils
@@ -65,23 +61,28 @@ flow:
   args: { chapter_no: "{{ chapter_number | int }}" }
 
 # === Planificación de la parte ===
-- id: planner
-  type: file_loader
-  inputs: { path: src/plan_cache/planner.md }
-
 #- id: planner
-#  type: llm
-#  model: gemini-2.5-pro
-#  temperature: 0.3  # <- más estable para plan
-#  system_prompt_path: src/agents/chapter_planner.md
-#  inputs:
-#    chapter_no: "{{ chapter_number | int }}"
-#    part_number: "{{ total_parts | int }}"
-#    chapter_parts: "{{ chapter_parts_list }}"
-#    previous_parts: "{{ rolling_memory }}"
-#    ref_start: ""
-#    ref_end: ""
-#    lore_context: "{{ lore_combined }}"
+#  type: file_loader
+#  inputs: { path: src/plan_cache/planner.md }
+
+- id: planner
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.3
+  system_prompt_path: src/agents/chapter_planner.md
+  inputs:
+    book_number: "{{ book_number | int }}"
+    chapter_no: "{{ chapter_number | int }}"
+    chapter_title: "{{ chapter_title_en | default('') }}"
+    # Usamos el arco completo como guía temática de alto nivel:
+    chapter_outline_md: "{{ file_loader_arco }}"
+    # Capítulo único → el target es el promedio dentro del rango:
+    chapter_min_total: "{{ (min_words_per_part | int) }}"
+    chapter_max_total: "{{ (max_words_per_part | int) }}"
+    chapter_word_target: "{{ ((min_words_per_part | int) + (max_words_per_part | int)) // 2 }}"
+    rolling_memory: "{{ rolling_memory }}"
+    previous_recap: "{{ prev_recap }}"
+    lore_context: "{{ lore_combined }}"
 
 # === Título de capítulo (EN) ===
 - id: chapter_title_en
@@ -91,24 +92,27 @@ flow:
   args: { chapter_no: "{{ chapter_number | int }}", arco_data: "{{ file_loader_arco }}" }
 
 # === Narración ===
-- id: narrator
-  type: file_loader
-  inputs: { path: src/plan_cache/narrator.md }
-
 #- id: narrator
-#  type: llm
-#  model: gemini-2.5-pro
-#  temperature: 0.7  # <- más creativo para prosa
-#  model_kwargs: { max_output_tokens: 65000, top_p: 0.95 }
-#  system_prompt_path: src/agents/narrator.md
-#  inputs:
-#    book_number: "{{ book_number | int }}"
-#    chapter_no: "{{ chapter_number | int }}"
-#    chapter_plan: "{{ planner }}"
-#    chapter_parts: "{{ chapter_parts_list }}"
-#    lore_context: "{{ lore_combined }}"
-#    previous_recap: "{{ prev_recap }}"
-#    rolling_memory: "{{ rolling_memory }}"
+#  type: file_loader
+#  inputs: { path: src/plan_cache/narrator.md }
+
+- id: narrator
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.7
+  model_kwargs: { max_output_tokens: 65000, top_p: 0.95 }
+  system_prompt_path: src/agents/narrator.md
+  inputs:
+    book_number: "{{ book_number | int }}"
+    chapter_no: "{{ chapter_number | int }}"
+    chapter_title: "{{ chapter_title_en | default('') }}"
+    chapter_plan: "{{ planner }}"
+    min_words_per_part: "{{ min_words_per_part | int }}"
+    max_words_per_part: "{{ max_words_per_part | int }}"
+    min_paragraphs_per_part: "{{ min_paragraphs_per_part | int }}"
+    lore_context: "{{ lore_combined }}"
+    previous_recap: "{{ prev_recap }}"
+    rolling_memory: "{{ rolling_memory }}"
 
 # === Ensamblado markdown EN ===
 - id: chapter_markdown_en
@@ -120,12 +124,129 @@ flow:
     chapter_parts: "{{ chapter_parts_list }}"
     raw_content: "{{ narrator }}"
 
+# === (Opcional) QA: continuity + lore ===
+- id: continuity_guard
+  type: python
+  module: src.scripts.continuity
+  function: check
+  args:
+    chapter_text: "{{ chapter_markdown_en }}"
+    chapter_no: "{{ chapter_number | int }}"
+    state_path: "output/state.json"
+
+- id: continuity_gate
+  type: router
+  inputs:
+    condition: "{{ continuity_guard.startswith('FIX') }}"
+
+- id: continuity_fixer
+  when: "{{ continuity_gate }}"
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.4
+  system_prompt_path: src/agents/continuity_fixed.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ chapter_markdown_en }}"
+    issues: "{{ continuity_guard }}"
+
+- id: chapter_after_continuity
+  type: passthrough
+  inputs:
+    content: "{{ continuity_fixer if continuity_gate else chapter_markdown_en }}"
+
+- id: lore_checker
+  type: python
+  module: src.scripts.lore_diff_tracker
+  function: check_lore_conflicts
+  args:
+    chapter_text: "{{ chapter_after_continuity }}"
+
+- id: lore_gate
+  type: router
+  inputs:
+    condition: "{{ lore_checker.startswith('FIX') }}"
+
+
+#- id: lore_fixer
+#  type: file_loader
+#  inputs: { path: src/plan_cache/lore_fixer.md }
+- id: lore_fixer
+  when: "{{ lore_gate }}"
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.4
+  system_prompt_path: src/agents/lore_fixer.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ chapter_after_continuity }}"
+    issues: "{{ lore_checker }}"
+
+- id: chapter_validated
+  type: passthrough
+  inputs:
+    content: "{{ lore_fixer if lore_gate else chapter_after_continuity }}"
+
+# === Event Extractor (capítulo completo) ===
+#- id: event_extractor
+#  type: file_loader
+#  inputs: { path: src/plan_cache/event_extractor.txt }
+
+- id: event_extractor
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.3
+  system_prompt_path: src/agents/event_extractor_chapter.md   # <- renombrado
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    chapter_text: "{{ chapter_validated }}"
+
+- id: update_event_state
+  type: python
+  module: src.scripts.timeline
+  function: update_state_from_events
+  args:
+    events: "{{ event_extractor }}"
+    chapter_no: "{{ chapter_number | int }}"
+
+# === Recap del capítulo ===
+#- id: recap_generator
+#  type: file_loader
+#  inputs: { path: src/plan_cache/recap.txt }
+
+- id: recap_generator
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.25
+  system_prompt_path: src/agents/recap_writer.md
+  inputs:
+    chapter_no: "{{ chapter_number | int }}"
+    full_text: "{{ chapter_validated }}"
+    lore_context: "{{ lore_combined }}"
+
+- id: recap_writer
+  type: python
+  module: src.scripts.chapter_recap_writer
+  function: write_chapter_recap
+  args:
+    chapter_no: "{{ chapter_number | int }}"
+    full_text: "{{ chapter_validated }}"
+    summary: "{{ recap_generator }}"
+
+- id: full_recap_updater
+  type: python
+  module: src.scripts.chapter_recap_writer
+  function: append_to_full_recap
+  args:
+    chapter_no: "{{ chapter_number | int }}"
+    recap_text: "{{ recap_generator }}"
+
 # === Título limpio EN (mover antes de filenames) ===
 - id: get_title_line
   type: python
   module: src.scripts.title_utils
   function: extract_title_line
-  args: { markdown_text: "{{ chapter_markdown_en }}" }
+  args: { markdown_text: "{{ chapter_validated }}" }
 
 - id: get_clean_title
   type: python
@@ -139,18 +260,18 @@ flow:
   module: src.scripts.path_utils
   function: build_filename_with_chapter_folder
   args:
-    saga_title: "{{ saga_title }}"         # <— ya lo pasas aquí
+    saga_title: "{{ saga_title }}"
     lang: "EN"
     book_number: "{{ book_number | int }}"
     chapter_number: "{{ chapter_number | int }}"
-    chapter_title: "{{ get_clean_title_en | default(chapter_title_en) }}"
+    chapter_title: "{{ get_clean_title | default(chapter_title_en) }}"   # <- fix
 
-- id: pdf_part_en
+- id: pdf_chapter_en
   type: python
   module: src.scripts.export_pdf
   function: md_to_pdf
   inputs:
-    markdown_text: "{{ chapter_markdown_en }}"
+    markdown_text: "{{ chapter_validated }}"
     filename: "{{ pdf_filename_chapter_en }}"
     css_path: "{{ css_path }}"
 
@@ -166,7 +287,7 @@ flow:
   model_kwargs: { max_output_tokens: 65000 }
   system_prompt_path: src/agents/translator.md
   inputs:
-    english_text: "{{ chapter_markdown_en }}"
+    english_text: "{{ chapter_validated }}"
 
 # Extrae H1 del texto en español para filename ES
 - id: get_title_line_es
@@ -191,9 +312,9 @@ flow:
     lang: "ES"
     book_number: "{{ book_number | int }}"
     chapter_number: "{{ chapter_number | int }}"
-    chapter_title: "{{ get_clean_title_es | default(get_clean_title_en) }}"
+    chapter_title: "{{ get_clean_title_es | default(get_clean_title) }}"  # <- fix
 
-- id: pdf_part_es
+- id: pdf_chapter_es
   type: python
   module: src.scripts.export_pdf
   function: md_to_pdf
@@ -202,14 +323,15 @@ flow:
     filename: "{{ pdf_filename_chapter_es }}"
     css_path: "{{ css_path }}"
 
+
 # === Persistencia / memoria / artefactos ===
 - id: save_chapter_text_en
   type: python
   module: src.scripts.io_utils
   function: save_text_to_file
   args:
-    text: "{{ chapter_markdown_en }}"
-    path: "project/{{ saga_title }}/chapters/{{ 'B%dC%02d' % (book_number | int, chapter_number | int) }}.en.md"
+    text: "{{ chapter_validated }}"                    # antes: chapter_markdown_en
+    path: "project/{{ saga_title }}/chapters/EN/{{ 'B%dC%02d' % (book_number | int, chapter_number | int) }}_EN.md"
 
 - id: save_chapter_text_es
   type: python
@@ -217,7 +339,7 @@ flow:
   function: save_text_to_file
   args:
     text: "{{ translator }}"
-    path: "project/{{ saga_title }}/chapters/{{ 'B%dC%02d' % (book_number | int, chapter_number | int) }}.es.md"
+    path: "project/{{ saga_title }}/chapters/ES/{{ 'B%dC%02d' % (book_number | int, chapter_number | int) }}_ES.md"
 
 - id: chapter_memory_delta
   type: python
@@ -225,7 +347,7 @@ flow:
   function: build_chapter_memory_delta
   args:
     chapter_no: "{{ chapter_number | int }}"
-    text_en: "{{ chapter_markdown_en }}"
+    text_en: "{{ chapter_validated }}"
 
 - id: persist_chapter_memory
   type: python
@@ -239,7 +361,7 @@ flow:
   function: step_progress_full_chapter
   args:
     current_state: "{{ read_progress }}"
-    actual_parts: "{{ total_parts }}"   # opcional; solo para guardar histórico
+    actual_parts: "{{ book_number }}"   # opcional; solo para guardar histórico
 
 - id: save_progress
   type: python

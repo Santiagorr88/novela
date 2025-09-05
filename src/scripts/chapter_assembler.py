@@ -228,3 +228,12 @@ def assemble_full_chapter_h1_h3(*, raw_content: str, chapter_title: str, chapter
     # 4) Si no hay headings, al menos inserta los títulos en orden
     body = "\n\n".join([f"### {t}\n" for t in titles]) + "\n" + text
     return f"# {chapter_title}\n\n{body}\n"
+
+def assemble_chapter_h1_only(chapter_title: str, raw_content: str) -> str:
+    chapter_title = (chapter_title or "").strip()
+    body = (raw_content or "").lstrip()
+    if not chapter_title.startswith("# "):
+        h1 = f"# {chapter_title}\n\n"
+    else:
+        h1 = chapter_title + "\n\n"
+    return h1 + body
