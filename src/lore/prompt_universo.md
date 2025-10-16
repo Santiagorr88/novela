@@ -4,12 +4,12 @@ Universe Title: Chronicles of the Sundering Judgment
 Genre: Theological high-fantasy • Metaphysical epic • Apocalyptic mystery
 Narrative Scope: Epic trilogy (Book I: B1C01–B1C28 • Book II: B2C01–B2C40 • Book III: B3C01–… Finale)
 
-GLOBAL GENERATION DIRECTIVE — SINGLE HOUSE STYLE ACROSS THE TRILOGY
+# GLOBAL GENERATION DIRECTIVE — SINGLE HOUSE STYLE ACROSS THE TRILOGY
 - Maintain ONE consistent narrative voice in all three books.
 - Baseline voice: “Rothfuss-lite” clarity & intimacy (lyrical but restrained) + Martin-like consequence + Rowling-esque grounded wonder.
 - Apply “scene dials” (mystic / war-politic / mortal-discovery) without changing the core voice.
 
-HOUSE STYLE (APPLIES TO ALL BOOKS)
+# HOUSE STYLE (APPLIES TO ALL BOOKS)
 - Clarity first; lyricism second. Prefer concrete imagery (light, texture, temperature, smell) over abstraction.
 - Metaphor Budget:
   • Mystic (visions, Serephis, Solmire): ≤ 1 strong metaphor every 2–3 paragraphs.  
@@ -20,18 +20,18 @@ HOUSE STYLE (APPLIES TO ALL BOOKS)
 - Consequence: every decision leaves visible cost (wounds, orders, maps, morale, politics, logistics).
 - Tone trajectory: Book I = hinting; Book II = unfolding; Book III = revealing — but the VOICE stays unified.
 
-REVELATION PACING
+# REVELATION PACING
 - Book I: hints (ancient weapons, echoes, half-truths).
 - Book II: partial unveilings (Forgotten awakening, threaded origins).
 - Book III: full causal chain (origin of weapons, identity of the Forgotten, Thamorak).
 
-CANON & CONTINUITY RULES
+# CANON & CONTINUITY RULES
 - Respect deaths, reincarnations, and metaphysical laws already established.
 - Chapters must flow into the status of B1C28 (Heaven’s retreat; Solmire lost; Belial with Lament; Miguel reincarnated).
 - Numbering resets per book (B2C01…, B3C01…).
 - No explicit spoilers ahead of schedule.
 
-LANGUAGE & DICTION
+# LANGUAGE & DICTION
 - Modern-clear English with light musical cadence. Do not over-archaize.
 - Sentence mix guideline: ~60% medium, ~25% short, ~15% long; vary with scene dial.
 - Combat: concrete verbs, spatial clarity, visible cause-effect.
@@ -40,29 +40,32 @@ DIALOGUE & SUBTEXT
 - Natural speech anchored by micro-actions (breath, posture, gaze).
 - Subtext > exposition. No “as-you-know” lines. Avoid lore dumps; embed facts in action or thought.
 
-SCENE & BEAT MECHANICS
+# SCENE & BEAT MECHANICS
 - Beat closure → impact → development → hook. Scene outs end on pivot/cost/question (not a hard wrap).
 - Emotional check-ins at scene pivots (body cues + lingering question).
 - Sensory grounding every 2–3 paragraphs.
 
-INFLUENCE PALETTE (guidance, not imitation)
+# INFLUENCE PALETTE (guidance, not imitation)
 - Patrick Rothfuss — tactile detail, musical cadence with restraint, intimate interiority.
 - George R. R. Martin — consequence, political texture, moral ambiguity, cost-of-war.
 - J. K. Rowling — grounded wonder, readability, scene clarity, warm curiosity.
 > Do not imitate prose or borrow IP-specific terms; use as tonal guidance only.
 
-CREATION RULES
+# CREATION RULES
 - New locations/terms are allowed when needed; keep naming consistent with existing patterns, anchor to purpose/place on the map, and reuse consistently.
 
-PROHIBITIONS
+# PROHIBITIONS
 - No meta commentary or omniscient lecturing “about the universe.”
 - No head-hopping within a scene (tight limited third).
 - No excessive ornament: keep figurative language within the dial budgets.
 
-QUALITY GUARDRAILS
+# QUALITY GUARDRAILS
 - Sensory detail cadence: 1 concrete sensory anchor every 2–3 paragraphs.
 - Metaphor enforcement: if a scene needs expansion, prefer interiority, sensory layering, micro-actions, and subtext before adding figurative language.
 - Continuity: everything must point toward and flow out of the consequences of B1C28.
+
+### Sensory Palette Rotation
+- Rotate 2–3 sensory anchors per scene; avoid repeating metal/ozone/silver in consecutive scenes unless it serves an explicit dramatic purpose. When repeating, vary the image, not just the word.
 
 
 ## 📚 META NARRATIVE – CORE TRILOGY ARC  
