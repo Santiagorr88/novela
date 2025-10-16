@@ -202,10 +202,19 @@ def assemble_full_chapter_h1_h3(*, raw_content: str, chapter_title: str, chapter
     titles = _normalize_titles(chapter_parts)
     text = (raw_content or "").strip()
 
+    # 0) Detectar y extraer H1 inicial del Narrator (si existe)
+    #    Guardamos ese H1 y lo retiramos del cuerpo para evitar duplicados.
+    import re
+    m = re.match(r'^\s*#\s+(?P<h1>.+?)\s*(?:\n+|$)', text)
+    narrator_h1 = None
+    if m:
+        narrator_h1 = m.group('h1').strip()
+        text = text[m.end():].lstrip()
+
     # 1) "## BxCyPz – Título" -> "### {título canónico por Pz}"
-    def repl_bcp(m):
-        p_idx = int(m.group(3))
-        fallback = m.group(4).strip()
+    def repl_bcp(mb):
+        p_idx = int(mb.group(3))
+        fallback = mb.group(4).strip()
         title = titles[p_idx-1] if 1 <= p_idx <= len(titles) else fallback
         return f"### {title}"
     text = H_BCP.sub(repl_bcp, text)
@@ -217,17 +226,21 @@ def assemble_full_chapter_h1_h3(*, raw_content: str, chapter_title: str, chapter
     h3 = list(H3_LINE.finditer(text))
     if h3:
         out, last = [], 0
-        for i, m in enumerate(h3[:len(titles)], start=1):
-            out.append(text[last:m.start()])
+        for i, mb in enumerate(h3[:len(titles)], start=1):
+            out.append(text[last:mb.start()])
             out.append(f"### {titles[i-1]}")
-            last = m.end()
+            last = mb.end()
         out.append(text[last:])
         body = "".join(out).lstrip()
-        return f"# {chapter_title}\n\n{body}\n"
+    else:
+        # 4) Si no hay headings, al menos inserta los títulos en orden
+        body = "\n\n".join([f"### {t}\n" for t in titles]) + "\n" + text
 
-    # 4) Si no hay headings, al menos inserta los títulos en orden
-    body = "\n\n".join([f"### {t}\n" for t in titles]) + "\n" + text
-    return f"# {chapter_title}\n\n{body}\n"
+    # 5) Elegir H1 final: preferimos el del Narrator si venía; si no, el chapter_title
+    final_h1 = narrator_h1 or chapter_title
+
+    # 6) Ensamblar sin duplicar título
+    return f"# {final_h1}\n\n{body}\n"
 
 def assemble_chapter_h1_only(chapter_title: str, raw_content: str) -> str:
     chapter_title = (chapter_title or "").strip()

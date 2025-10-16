@@ -6,10 +6,22 @@ variables:
   pdf_folder: "project/{{ saga_title }}/"
   css_path: "styles/default.css"
   dry_run: false
-  min_words_per_part: 3000
-  max_words_per_part: 3500
+  min_words_chapter: 3000
+  max_words_chapter: 3500
+  target_words_chapter: 2500
   budget_tolerance_pct: 5
-  min_paragraphs_per_part: 60
+  min_paragraphs_chapter: 55
+  rq_max_per_words: 500
+  hot_word_quota_per_words: 800
+  dialogue_min_pct: 30
+  dialogue_max_pct: 55
+  max_consecutive_turns: 3
+  max_exclamations_per_1k: 1
+  max_ellipses_per_1k: 3
+  max_tag_adverbs_per_1k: 2
+  max_rq_in_dialogue_per_1k: 4
+  filler_words: ["uh","um","er","ah"]
+  max_filler_per_1k: 4
 
 flow:
 # === Estado / índices ===
@@ -74,12 +86,10 @@ flow:
     book_number: "{{ book_number | int }}"
     chapter_no: "{{ chapter_number | int }}"
     chapter_title: "{{ chapter_title_en | default('') }}"
-    # Usamos el arco completo como guía temática de alto nivel:
     chapter_outline_md: "{{ file_loader_arco }}"
-    # Capítulo único → el target es el promedio dentro del rango:
-    chapter_min_total: "{{ (min_words_per_part | int) }}"
-    chapter_max_total: "{{ (max_words_per_part | int) }}"
-    chapter_word_target: "{{ ((min_words_per_part | int) + (max_words_per_part | int)) // 2 }}"
+    chapter_min_total: "{{ min_words_chapter | int }}"
+    chapter_max_total: "{{ max_words_chapter | int }}"
+    chapter_word_target: "{{ target_words_chapter | int }}"
     rolling_memory: "{{ rolling_memory }}"
     previous_recap: "{{ prev_recap }}"
     lore_context: "{{ lore_combined }}"
@@ -107,12 +117,46 @@ flow:
     chapter_no: "{{ chapter_number | int }}"
     chapter_title: "{{ chapter_title_en | default('') }}"
     chapter_plan: "{{ planner }}"
-    min_words_per_part: "{{ min_words_per_part | int }}"
-    max_words_per_part: "{{ max_words_per_part | int }}"
-    min_paragraphs_per_part: "{{ min_paragraphs_per_part | int }}"
+    min_words_chapter: "{{ min_words_chapter | int }}"
+    max_words_chapter: "{{ max_words_chapter | int }}"
+    min_paragraphs_chapter: "{{ min_paragraphs_chapter | int }}"
     lore_context: "{{ lore_combined }}"
     previous_recap: "{{ prev_recap }}"
     rolling_memory: "{{ rolling_memory }}"
+
+- id: repetition_sentinel
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.25
+  system_prompt: src/agents/repetition_sentinel.md
+  inputs:
+    chapter_text: "{{ narrator }}"
+  output: repetition_report_and_text
+
+- id: chapter_after_sentinel
+  type: python
+  module: src.scripts.postedit
+  function: take_rewritten_text_or_fallback
+  args:
+    llm_output: "{{ repetition_sentinel }}"
+    fallback_text: "{{ narrator }}"
+
+- id: rhythm_contrast_coach
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.25
+  system_prompt: src/agents/rhythm_contrast.md
+  inputs:
+    chapter_text: "{{ chapter_after_sentinel }}"
+  output: rhythm_coach_report
+
+- id: chapter_after_rhythm
+  type: python
+  module: src.scripts.postedit
+  function: apply_inline_patches
+  args:
+    llm_report: "{{ rhythm_contrast_coach }}"
+    base_text: "{{ chapter_after_sentinel }}"
 
 # === Ensamblado markdown EN ===
 - id: chapter_markdown_en
@@ -122,7 +166,7 @@ flow:
   args:
     chapter_title: "{{ chapter_title_en }}"
     chapter_parts: "{{ chapter_parts_list }}"
-    raw_content: "{{ narrator }}"
+    raw_content: "{{ chapter_after_rhythm }}"
 
 # === (Opcional) QA: continuity + lore ===
 - id: continuity_guard

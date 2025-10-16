@@ -1,111 +1,74 @@
-# OUTPUT FORMAT (STRICT)
+## PURPOSE & SOURCES OF TRUTH
+Write one continuous **chapter** in a single pass, strictly following the provided plan (`chapter_plan`), the lore (`lore_context`), the recap (`previous_recap`), and the rolling memory (`rolling_memory`). **Do not invent plot facts** or add scenes that are not in the plan.
 
-Language: English only.
+## OUTPUT FORMAT
+- First line MUST be the H1 chapter title **once**:
+  `# B{{book_number}}C{{chapter_no}} — {{chapter_title}}`
+- After the H1: **prose only** (no additional H2/H3 unless explicitly instructed elsewhere).
+- Do not repeat the title anywhere in the chapter.
+- Separate paragraphs with **one blank line**.
 
-Title line: Begin with exactly one H1:
-# B{{book_number}}C{{chapter_no}} — {{chapter_title or "Chapter {{chapter_no}}"}}
+## CHAPTER-LEVEL CONSTRAINTS
+- **Length:** between **{{min_words_chapter}}** and **{{max_words_chapter}}** words (aim ~**{{target_words_chapter}}**). Non-negotiable.
+- **Paragraphs:** at least **{{min_paragraphs_chapter}}** paragraphs. Paragraphs must be semantic units (one idea/action shift); avoid >3 consecutive one-line paragraphs unless deliberate emphasis.
+- **Sensory palette rotation:** 2–3 anchors per scene; do not repeat metal/ozone/silver imagery in consecutive scenes unless purposeful. When repeating, vary the image (angle/sense), not just the word.
+- **Mystic contrast:** for every 2 consecutive mystical/numinous beats, surface **one micro physical interruption** (wind/grit/hinge creak/stray passerby/object slip) that fits the scene.
+- **Residual human patterning (post-fusion arcs):** per scene include 1–2 **interrupted** residual human ticks (habit/gesture/muscle memory) that begin but do not complete under the new affect.
 
-Then a single blank line, followed by the chapter prose.
+## DIALOGUE & INTERACTION RULES
+1) **Formatting:** standard English quotes. Each speaker’s line is its own paragraph, separated by one blank line.
+2) **Attribution cadence:** within any run of dialogue, ensure **at least every third line** carries either a “said” tag or an **action beat** that identifies the speaker. Prefer action beats over adverbial tags.
+3) **Said-tag policy:** prefer **“said”** or an action beat. Avoid adverbial tags (“said softly”); show emotion via beats. Budget of adverbial tags ≤ {{ max_tag_adverbs_per_1k | default(2) }} per 1000 words.
+4) **Names in address:** avoid repeating the addressee’s name more than once every 6–8 lines unless for emphasis/clarity.
+5) **Turn-taking:** avoid more than **{{ max_consecutive_turns | default(3) }}** consecutive turns by the same speaker unless deliberate monologue; if so, break with action or interruption.
+6) **Punctuation budgets:** exclamations ≤ {{ max_exclamations_per_1k | default(1) }} / 1000 words; ellipses ≤ {{ max_ellipses_per_1k | default(3) }} / 1000; do not use ellipses to dodge specificity.
+7) **Rhetorical questions (inside dialogue):** ≤ {{ max_rq_in_dialogue_per_1k | default(4) }} / 1000 words per speaker; convert surplus into assertive, subtext-rich lines.
+8) **Fillers:** only from {{ filler_words | default(["uh","um","er","ah"]) }}; ≤ {{ max_filler_per_1k | default(4) }} / 1000 words. Prefer physical hesitation instead.
 
-No other headings (no H2/H3), no lists, no beat names, no scene labels, no JSON, no commentary.
+## FIGURATIVE & LEXICAL GUARDRAILS
+- **Metaphor cadence:** max 1 fresh image per paragraph; avoid chains of stacked metaphors.
+- **Hot words to limit** (≤1 occurrence per ~800 words, case-insensitive; include simple derivatives):  
+  `absolute, silence, silver, shadowless, ozone, wet stone, single perfect note, void, pull, quiet`
+- Suggested semantic neighbors when substitution is needed:
+  - silence → hush, held-breath quiet, stopped air
+  - silver → pallid light, leaf-metal sheen
+  - absolute → unsparing, entire, unyielding
+- Ban exact re-use of the same **metaphor core** more than twice in the chapter; vary angle/sense if revisited.
 
-Paragraphing: write in normal paragraphs separated by a single blank line.
-Do not insert decorative scene dividers (no ***, no ---).
+## BEAT EXECUTION (FROM chapter_plan)
+For each beat, ensure:
+- **Purpose** and **stakes** are clear; conflict shows in external action and internal pressure.
+- **Exit State**: how the world/POV is measurably different after the beat (one line, implicit in prose).
+- If the beat is **Mystic** and adjacent to another Mystic beat, surface the **Contrast Hook** (a concrete micro external event).
+- Respect any **Interaction Objectives** (conversational goals, power shift, turn budget, subtext vector).
 
-# ABSOLUTE LENGTH CONSTRAINTS
+## SELF-EDIT PASS (BEFORE EMITTING)
+1) **Lexical scan:** if {absolute|silence|silver|ozone|wet stone|single perfect note|void|pull|quiet} exceed quota, substitute or switch sensory anchor.
+2) **Rhetorical-question ratio:** maintain ~3:1 (three declaratives per one question overall). Outside dialogue, prefer turning questions into assertive lines that move subtext.
+3) **Beat contrast:** ≥1 micro external event for every 2 mystical beats.
+4) **Residual patterning:** include 1–2 interrupted human ticks per scene (post-fusion arcs).
+5) **Cadence:** vary sentence lengths; avoid long chains of modifiers and filter verbs (he felt/there was/he saw).
+6) **Metaphor core reuse:** if the same image recurs, vary the image the second time.
+7) **Fact integrity:** do **not** invent new plot facts; expansions must draw only from the plan’s beats, the named sensory anchors, and rolling_memory.
+8) **Dialogue/interaction budgets:** attribution cadence, punctuation budgets, fillers, and turn-taking all satisfied.
+9) **Length loop:** internally verify word count. If under **{{min_words_chapter}}**, **continue writing** until within **{{min_words_chapter}}–{{max_words_chapter}}**. If over, compress interior monologue first. Adjust silently (do not print counts).
+10) Interrogatives: ratio, tail %, and streak satisfied; otherwise rewrite.
+11) Hot-word scan: quotas, caps, and 5-paragraph distance satisfied; otherwise substitute or rotate anchors.
 
-Total words (entire chapter): between {{min_words_per_part}} and {{max_words_per_part}} inclusive. This is non-negotiable.
+## Interrogative & Lexicon Controls
+1) Rhetorical Question Guard:
+   - ≤ 1 “?” per {{ rq_max_per_words | default(450) }} words overall.
+   - Tail questions (paragraphs ending with “?”) ≤ {{ rq_tail_max_pct_paras | default(10) }}% of all paragraphs.
+   - No more than {{ rq_max_streak | default(1) }} consecutive “?” sentences.
+   - Surplus questions → rewrite as assertive, subtext-driven statements that advance the beat.
 
-Minimum paragraphs: {{min_paragraphs_per_part}}. Aim for a natural cadence; vary paragraph length.
+2) Hot-Word Guard (case-insensitive; include simple derivatives/hyphenations):
+   - Budget: ≤ 1 hit per {{ hot_word_quota_per_words | default(800) }} words.
+   - Chapter caps (hard): { ozone: 1, "wet stone": 1, silver: 1, "single perfect note": 1, absolute: 2, silence: 2 } — do not exceed.
+   - Distance: do not reuse the same anchor within 5 paragraphs; when revisiting, change the image (angle/sense), not only the synonym.
 
-If the narrative would “finish early”, you must expand (in order of priority):
+3) Final deny-list quick scan (if any cap exceeded or a distance violation exists, fix before emitting):
+   ozone / wet stone / silver / single perfect note.
 
-Deepen Inner Monologue: sharpen the POV’s thoughts, memories, doubts, motives; connect to wounds and wants in rolling_memory.
-
-Enrich Atmosphere: light, sound, smell, texture, temperature; small shifts over time.
-
-Detail Micro-actions & Subtext: breath, posture, hands, glances; the between-the-lines of dialogue.
-
-Emotional Resonance: body cues and the lingering question that propels to the next beat.
-
-# HOUSE STYLE (UNIFIED VOICE FOR THE TRILOGY)
-
-Baseline voice: “Rothfuss-lite” clarity & intimacy (lyrical but restrained) + Martin-like consequence (visible costs) + Rowling-esque grounded wonder (readable, human).
-
-Clarity > lyricism. Concrete images every 2–3 paragraphs (light, texture, temperature, smell).
-
-POV discipline: tight limited third within each scene; no head-hopping. Only shift POV on clear scene transitions implied by the plan. Never omnisciently explain the universe.
-
-Figurative language budgets by Scene Dial (per beat):
-
-Mystic (visions, Serephis, Solmire): ≤ 1 strong metaphor every 2–3 paragraphs; allow gentle musical cadence.
-
-War/Politics (councils, battles, Belial): ≤ 1 every 4–5 paragraphs; prefer tactile, logistical clarity; concrete verbs; spatial cause–effect.
-
-Mortal-Discovery (Earth, Arin, Milo): ≤ 1 every 4 paragraphs; warm clarity; no whimsy.
-
-Never chain multiple similes in one sentence; avoid purple clusters.
-
-Dialogue: natural, subtext-forward; gestures/micro-actions carry meaning; no “as-you-know” lines; no lore dumps—embed facts in action or thought.
-
-Consequence: choices leave marks (wounds, orders, maps, ruptures, morale shifts) that persist across scenes and books.
-
-# CANON & SPOILER RULES
-
-Obey lore_context, rolling_memory, and previous_recap. Respect established metaphysics, deaths, reincarnations.
-
-No spoilers beyond the current chapter’s scope and the plan’s beats. Keep foreshadowing subtle and motivated.
-
-Do not name or fully reveal off-limits truths before the plan schedules them.
-
-# HOW TO EXECUTE THE PLAN
-
-Read chapter_plan end-to-end. You will see Global Beats (with targets), Scene Blocks, and Mandatory Expansion Blocks for each beat. You must:
-
-Follow the beats in order; merge them into seamless narrative (no headings).
-
-For each beat, honor its Scene Dial and its expansion blocks (Inner Monologue, Atmosphere, Micro-actions & Subtext, Emotional Resonance) to reach the target smoothly without adding new plot.
-
-Track the lingering question from each beat and let it carry momentum into the next.
-
-Use sensory anchors named in the plan (2–3 per scene) and the memory link to deepen POV.
-
-Maintain temporal and spatial clarity—where we are, who speaks/acts, what changes.
-
-# CONTINUITY & HOOKS
-
-Touch the threads listed under the plan’s Continuity Anchors.
-
-Close the chapter on a pivot/cost/emerging question that aligns with the next chapter’s setup, without jumping ahead.
-
-# PROHIBITIONS
-
-No meta commentary, no author notes, no process talk.
-
-No headings other than the single H1 title line at the top.
-
-No numbered/lettered lists, tables, or code blocks.
-
-Do not imitate any author’s proprietary phrases or IP-specific terms; the “influence palette” is tonal guidance only.
-
-# SELF-CHECK BEFORE EMITTING
-
-Word count within {{min_words_per_part}}–{{max_words_per_part}}.
-
-≥ {{min_paragraphs_per_part}} paragraphs.
-
-Figurative language within the dial budgets.
-
-POV integrity (no head-hopping).
-
-No extra headings, lists, or scene labels.
-
-Title line present and correctly formatted.
-
-# INPUTS
-
-book_number, chapter_no, chapter_title
-
-chapter_plan (beats with targets, scene blocks, dials, expansion blocks)
-
-lore_context, rolling_memory, previous_recap
+## TITLE POLICY
+Print the H1 **once** at the very top. Do not repeat the title again in the chapter body or at the end.
