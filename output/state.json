@@ -1,0 +1,47 @@
+{
+  "timeline": [],
+  "last_date": null,
+  "deaths": [],
+  "weapons": {
+    "Solmire": {
+      "owner": "None",
+      "status": "discovered",
+      "chapter": "2"
+    }
+  },
+  "revealed_truths": [
+    {
+      "truth": "Solmire was forged for the sheer, anarchic fun of it, not for a cause, by a jubilant, irreverent creator.",
+      "chapter": "1"
+    },
+    {
+      "truth": "Lucifer recognizes the activation of Solmire and the 'laughter' woven into its structure, linking it to ancient, pre-Judgment powers.",
+      "chapter": "1"
+    },
+    {
+      "truth": "Miguel reaches and enters the Grove Without Shadow.",
+      "chapter": "2"
+    },
+    {
+      "truth": "The Grove Without Shadow is a reality that defies physical laws, including the absence of shadows.",
+      "chapter": "2"
+    },
+    {
+      "truth": "Miguel's path of retreat from the Grove Without Shadow vanishes.",
+      "chapter": "2"
+    }
+  ],
+  "resurrections": [],
+  "objectives": [
+    {
+      "character": "Miguel",
+      "objective": "Find the truth of the call/wound, defying Council orders",
+      "chapter": "1"
+    },
+    {
+      "character": "Miguel",
+      "objective": "Approach Solmire and prepare to touch it.",
+      "chapter": "2"
+    }
+  ]
+}
