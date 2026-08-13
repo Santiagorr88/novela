@@ -14,6 +14,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 2 (B1C01 beats 5-7: Laugh, Verdict, Echo) — 3 → 6 beats
 
+**Estado (2026-08-13): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap02_EN.md`, 2.252 palabras. APPROVED por Codex tras 5 rondas (metáforas apiladas en volumen alto en el primer borrador — 28 correcciones en las 2 primeras rondas; reveal-pacing del "segundo forjador", ambiguo y sin nombrar; POV en la sección "The Court" — Lucifer como ancla legítima de percepción directa, cortesanos limitados a conducta observable; y 2 duplicaciones de contenido introducidas por ediciones propias, detectadas y corregidas en Ronda 4). Con esto, `B1C01_EN_v2.md` queda obsoleto y se elimina del repo.
+
 1. *A Maker's Laugh* (original)
 2. **Una voz que no era la suya** (nuevo, categoría: presagio ligero) — al desvanecerse la visión, Miguel cree oír, un instante, un segundo sonido bajo la risa: algo que podría ser otro forjador discutiendo, o su propia culpa inventando compañía. Duda breve antes de comprometerse a desenvainar. Siembra sutilmente que hay más de un Forgotten, sin nombrar nada.
 3. *The Verdict Drawn* (original)
