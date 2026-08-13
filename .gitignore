@@ -16,6 +16,8 @@ venv/
 
 # Environment variables
 .env
+secrets.json
+**/secrets.json
 
 # user conf
 conf.yaml
@@ -26,3 +28,13 @@ conf.yaml
 # coverage report
 coverage.xml
 coverage/
+
+# Local Claude Code state (machine-specific, not shared)
+.claude/settings.local.json
+.claude/settings.local.json.tmp.*
+.claude/worktrees/
+
+# Legacy automated-pipeline cache/state/logs (superseded by the current manual + Codex-review workflow)
+data/
+artifacts/logs/
+src/chapters/

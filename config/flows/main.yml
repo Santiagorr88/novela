@@ -1,0 +1,467 @@
+version: 1
+
+variables:
+  saga_title: "Chronicles_of_the_Sundering_Judgment"
+  book_number: 1
+  pdf_folder: "project/{{ saga_title }}/"
+  css_path: "assets/styles/chapter.css"
+  dry_run: false
+  min_words_chapter: 3000
+  max_words_chapter: 3500
+  target_words_chapter: 3200
+  budget_tolerance_pct: 5
+  min_paragraphs_chapter: 55
+  rq_max_per_words: 500
+  hot_word_quota_per_words: 800
+  dialogue_min_pct: 30
+  dialogue_max_pct: 55
+  max_consecutive_turns: 3
+  max_exclamations_per_1k: 1
+  max_ellipses_per_1k: 3
+  max_tag_adverbs_per_1k: 2
+  max_rq_in_dialogue_per_1k: 4
+  filler_words: ["uh","um","er","ah"]
+  max_filler_per_1k: 4
+
+flow:
+# === Estado / índices ===
+- id: read_progress
+  type: python
+  module: src.scripts.progress_tracker
+  function: load_progress
+
+- id: chapter_number
+  type: python
+  module: src.scripts.progress_tracker
+  function: get_int_field
+  args: { state: "{{ read_progress }}", key: "current_chapter" }
+
+# === Lore base ===
+- id: file_loader_prompt
+  type: file_loader
+  inputs: { path: content/lore/prompt_universo.md }
+
+- id: file_loader_arco
+  type: file_loader
+  inputs: { path: content/lore/arco_argumental_completo.md }
+
+- id: chapter_parts_list
+  type: python
+  module: src.scripts.lore_utils
+  function: get_part_titles_for_chapter
+  args:
+    chapter_no: "{{ chapter_number | int }}"
+    arco_data: "{{ file_loader_arco }}"
+    book_number: "{{ book_number | int }}"
+
+- id: lore_combined
+  type: python
+  module: src.scripts.lore_utils
+  function: merge_lore
+  args: { lore_prompt: "{{ file_loader_prompt }}", lore_arco: "{{ file_loader_arco }}" }
+
+- id: rolling_memory
+  type: python
+  module: src.scripts.memory_plan
+  function: get_rolling_memory_for_chapter
+  args: { chapter_no: "{{ chapter_number | int }}" }
+
+- id: prev_recap
+  type: python
+  module: src.scripts.memory_plan
+  function: get_previous_recap
+  args: { chapter_no: "{{ chapter_number | int }}" }
+
+- id: recent_chapters_context
+  type: python
+  module: src.scripts.memory_plan
+  function: get_recent_chapters_text
+  args:
+    saga_title: "{{ saga_title }}"
+    book_number: "{{ book_number | int }}"
+    chapter_no: "{{ chapter_number | int }}"
+    lang: "EN"
+    last_n: 2
+
+# === Planificación de la parte ===
+#- id: planner
+#  type: file_loader
+#  inputs: { path: data/cache/plan/planner.md }
+
+- id: planner
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.3
+  system_prompt_path: prompts/chapter_planner.md
+  inputs:
+    book_number: "{{ book_number | int }}"
+    chapter_no: "{{ chapter_number | int }}"
+    chapter_title: "{{ chapter_title_en | default('') }}"
+    chapter_outline_md: "{{ file_loader_arco }}"
+    total_parts: "{{ chapter_parts_list | length }}"
+    chapter_min_total: "{{ min_words_chapter | int }}"
+    chapter_max_total: "{{ max_words_chapter | int }}"
+    chapter_word_target: "{{ target_words_chapter | int }}"
+    rolling_memory: "{{ rolling_memory }}"
+    previous_recap: "{{ prev_recap }}"
+    recent_chapters_context: "{{ recent_chapters_context }}"
+    lore_context: "{{ lore_combined }}"
+
+# === Título de capítulo (EN) ===
+- id: chapter_title_en
+  type: python
+  module: src.scripts.lore_utils
+  function: get_chapter_title
+  args: { chapter_no: "{{ chapter_number | int }}", arco_data: "{{ file_loader_arco }}" }
+
+# === Narración ===
+#- id: narrator
+#  type: file_loader
+#  inputs: { path: data/cache/plan/narrator.md }
+
+- id: narrator
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.7
+  model_kwargs: { max_output_tokens: 65000, top_p: 0.95 }
+  system_prompt_path: prompts/narrator.md
+  inputs:
+    book_number: "{{ book_number | int }}"
+    chapter_no: "{{ chapter_number | int }}"
+    chapter_title: "{{ chapter_title_en | default('') }}"
+    chapter_plan: "{{ planner }}"
+    min_words_chapter: "{{ min_words_chapter | int }}"
+    max_words_chapter: "{{ max_words_chapter | int }}"
+    min_paragraphs_chapter: "{{ min_paragraphs_chapter | int }}"
+    lore_context: "{{ lore_combined }}"
+    previous_recap: "{{ prev_recap }}"
+    rolling_memory: "{{ rolling_memory }}"
+    recent_chapters_context: "{{ recent_chapters_context }}"
+
+- id: repetition_sentinel
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.25
+  system_prompt_path: prompts/repetition_sentinel.md
+  inputs:
+    chapter_text: "{{ narrator }}"
+  output: repetition_report_and_text
+
+- id: chapter_after_sentinel
+  type: python
+  module: src.scripts.postedit
+  function: take_rewritten_text_or_fallback
+  args:
+    llm_output: "{{ repetition_sentinel }}"
+    fallback_text: "{{ narrator }}"
+
+- id: rhythm_contrast_coach
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.25
+  system_prompt_path: prompts/rhythm_contrast.md
+  inputs:
+    chapter_text: "{{ chapter_after_sentinel }}"
+  output: rhythm_coach_report
+
+- id: chapter_after_rhythm
+  type: python
+  module: src.scripts.postedit
+  function: apply_inline_patches
+  args:
+    llm_report: "{{ rhythm_contrast_coach }}"
+    base_text: "{{ chapter_after_sentinel }}"
+
+# === Ensamblado markdown EN ===
+- id: chapter_markdown_en
+  type: python
+  module: src.scripts.chapter_assembler
+  function: assemble_full_chapter_h1_h3
+  args:
+    chapter_title: "{{ chapter_title_en }}"
+    chapter_parts: "{{ chapter_parts_list }}"
+    raw_content: "{{ chapter_after_rhythm }}"
+
+# === (Opcional) QA: continuity + lore ===
+- id: continuity_guard
+  type: python
+  module: src.scripts.continuity
+  function: check
+  args:
+    chapter_text: "{{ chapter_markdown_en }}"
+    chapter_no: "{{ chapter_number | int }}"
+    state_path: "data/state/state.json"
+
+- id: continuity_gate
+  type: router
+  inputs:
+    condition: "{{ continuity_guard.startswith('FIX') }}"
+
+- id: continuity_fixer
+  when: "{{ continuity_gate }}"
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.4
+  system_prompt_path: prompts/continuity_fixed.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ chapter_markdown_en }}"
+    issues: "{{ continuity_guard }}"
+
+- id: chapter_after_continuity
+  type: passthrough
+  inputs:
+    content: "{{ continuity_fixer if continuity_gate else chapter_markdown_en }}"
+
+- id: lore_checker
+  type: python
+  module: src.scripts.lore_diff_tracker
+  function: check_lore_conflicts
+  args:
+    chapter_text: "{{ chapter_after_continuity }}"
+
+- id: lore_gate
+  type: router
+  inputs:
+    condition: "{{ lore_checker.startswith('FIX') }}"
+
+
+#- id: lore_fixer
+#  type: file_loader
+#  inputs: { path: data/cache/plan/lore_fixer.md }
+- id: lore_fixer
+  when: "{{ lore_gate }}"
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.4
+  system_prompt_path: prompts/lore_fixer.md
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    draft_chapter: "{{ chapter_after_continuity }}"
+    issues: "{{ lore_checker }}"
+
+- id: chapter_validated
+  type: passthrough
+  inputs:
+    content: "{{ lore_fixer if lore_gate else chapter_after_continuity }}"
+
+- id: chapter_quality_guard
+  type: python
+  module: src.scripts.quality_guard
+  function: check_chapter_quality
+  args:
+    chapter_text: "{{ chapter_validated }}"
+    min_words: "{{ min_words_chapter | int }}"
+    max_words: "{{ max_words_chapter | int }}"
+    min_paragraphs: "{{ min_paragraphs_chapter | int }}"
+
+- id: chapter_quality_gate
+  type: router
+  inputs:
+    condition: "{{ chapter_quality_guard.startswith('FIX') }}"
+
+- id: chapter_length_fixer
+  when: "{{ chapter_quality_gate }}"
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.35
+  system_prompt_path: prompts/length_fixer.md
+  inputs:
+    chapter_text: "{{ chapter_validated }}"
+    issues: "{{ chapter_quality_guard }}"
+    chapter_plan: "{{ planner }}"
+    min_words_chapter: "{{ min_words_chapter | int }}"
+    max_words_chapter: "{{ max_words_chapter | int }}"
+    min_paragraphs_chapter: "{{ min_paragraphs_chapter | int }}"
+    target_words_chapter: "{{ target_words_chapter | int }}"
+    lore_context: "{{ lore_combined }}"
+    previous_recap: "{{ prev_recap }}"
+    rolling_memory: "{{ rolling_memory }}"
+
+- id: chapter_final
+  type: passthrough
+  inputs:
+    content: "{{ chapter_length_fixer if chapter_quality_gate else chapter_validated }}"
+
+# === Event Extractor (capítulo completo) ===
+#- id: event_extractor
+#  type: file_loader
+#  inputs: { path: data/cache/plan/event_extractor.txt }
+
+- id: event_extractor
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.3
+  system_prompt_path: prompts/event_extractor_chapter.md   # <- renombrado
+  inputs:
+    lore_context: "{{ lore_combined }}"
+    chapter_text: "{{ chapter_final }}"
+
+- id: update_event_state
+  type: python
+  module: src.scripts.timeline
+  function: update_state_from_events
+  args:
+    events: "{{ event_extractor }}"
+    chapter_no: "{{ chapter_number | int }}"
+
+# === Recap del capítulo ===
+#- id: recap_generator
+#  type: file_loader
+#  inputs: { path: data/cache/plan/recap.txt }
+
+- id: recap_generator
+  type: llm
+  model: gemini-2.5-flash
+  temperature: 0.25
+  system_prompt_path: prompts/recap_writer.md
+  inputs:
+    chapter_no: "{{ chapter_number | int }}"
+    full_text: "{{ chapter_final }}"
+    lore_context: "{{ lore_combined }}"
+
+- id: recap_writer
+  type: python
+  module: src.scripts.chapter_recap_writer
+  function: write_chapter_recap
+  args:
+    chapter_no: "{{ chapter_number | int }}"
+    full_text: "{{ chapter_final }}"
+    summary: "{{ recap_generator }}"
+
+- id: full_recap_updater
+  type: python
+  module: src.scripts.chapter_recap_writer
+  function: append_to_full_recap
+  args:
+    chapter_no: "{{ chapter_number | int }}"
+    recap_text: "{{ recap_generator }}"
+
+# === Título limpio EN (mover antes de filenames) ===
+- id: get_title_line
+  type: python
+  module: src.scripts.title_utils
+  function: extract_title_line
+  args: { markdown_text: "{{ chapter_final }}" }
+
+- id: get_clean_title
+  type: python
+  module: src.scripts.title_utils
+  function: extract_title_only
+  args: { h1_line: "{{ get_title_line }}" }
+
+# === Filename + PDF (EN) ===
+- id: pdf_filename_chapter_en
+  type: python
+  module: src.scripts.path_utils
+  function: build_filename_with_chapter_folder
+  args:
+    saga_title: "{{ saga_title }}"
+    lang: "EN"
+    book_number: "{{ book_number | int }}"
+    chapter_number: "{{ chapter_number | int }}"
+    chapter_title: "{{ get_clean_title | default(chapter_title_en) }}"   # <- fix
+
+- id: pdf_chapter_en
+  type: python
+  module: src.scripts.export_pdf
+  function: md_to_pdf
+  inputs:
+    markdown_text: "{{ chapter_final }}"
+    filename: "{{ pdf_filename_chapter_en }}"
+    css_path: "{{ css_path }}"
+
+# === Traducción ES ===
+#- id: translator
+#  type: file_loader
+#  inputs: { path: data/cache/plan/traducido.md }
+
+- id: translator
+  type: llm
+  model: gemini-2.5-pro
+  temperature: 0.2
+  model_kwargs: { max_output_tokens: 65000 }
+  system_prompt_path: prompts/translator.md
+  inputs:
+    english_text: "{{ chapter_final }}"
+
+# Extrae H1 del texto en español para filename ES
+- id: get_title_line_es
+  type: python
+  module: src.scripts.title_utils
+  function: extract_title_line
+  args: { markdown_text: "{{ translator }}" }
+
+- id: get_clean_title_es
+  type: python
+  module: src.scripts.title_utils
+  function: extract_title_only
+  args: { h1_line: "{{ get_title_line_es }}" }
+
+# === Filename + PDF (ES) ===
+- id: pdf_filename_chapter_es
+  type: python
+  module: src.scripts.path_utils
+  function: build_filename_with_chapter_folder
+  args:
+    saga_title: "{{ saga_title }}"
+    lang: "ES"
+    book_number: "{{ book_number | int }}"
+    chapter_number: "{{ chapter_number | int }}"
+    chapter_title: "{{ get_clean_title_es | default(get_clean_title) }}"  # <- fix
+
+- id: pdf_chapter_es
+  type: python
+  module: src.scripts.export_pdf
+  function: md_to_pdf
+  inputs:
+    markdown_text: "{{ translator }}"
+    filename: "{{ pdf_filename_chapter_es }}"
+    css_path: "{{ css_path }}"
+
+
+# === Persistencia / memoria / artefactos ===
+- id: save_chapter_text_en
+  type: python
+  module: src.scripts.io_utils
+  function: save_text_to_file
+  args:
+    text: "{{ chapter_final }}"                    # antes: chapter_markdown_en
+    path: "project/{{ saga_title }}/chapters/EN/{{ 'B%dC%02d' % (book_number | int, chapter_number | int) }}_EN.md"
+
+- id: save_chapter_text_es
+  type: python
+  module: src.scripts.io_utils
+  function: save_text_to_file
+  args:
+    text: "{{ translator }}"
+    path: "project/{{ saga_title }}/chapters/ES/{{ 'B%dC%02d' % (book_number | int, chapter_number | int) }}_ES.md"
+
+- id: chapter_memory_delta
+  type: python
+  module: src.scripts.memory_plan
+  function: build_chapter_memory_delta
+  args:
+    chapter_no: "{{ chapter_number | int }}"
+    text_en: "{{ chapter_final }}"
+
+- id: persist_chapter_memory
+  type: python
+  module: src.scripts.memory_plan
+  function: update_memory_from_chapter
+  args: { delta: "{{ chapter_memory_delta }}" }
+
+- id: advance_progress
+  type: python
+  module: src.scripts.progress_tracker
+  function: step_progress_full_chapter
+  args:
+    current_state: "{{ read_progress }}"
+    actual_parts: "{{ book_number }}"   # opcional; solo para guardar histórico
+
+- id: save_progress
+  type: python
+  module: src.scripts.progress_tracker
+  function: save_progress
+  args:
+    progress: "{{ advance_progress }}"

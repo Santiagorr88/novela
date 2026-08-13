@@ -1,0 +1,120 @@
+# Libro I, Parte 3 — beats expandidos con más detalle (Capítulos 23-28, el clímax)
+
+Fecha: 2026-08-08
+Aplica el objetivo de 15-20 min/capítulo (regla de 6-8 beats, `.claude/skills/beat-planner/SKILL.md`) a la Parte 3, la única parte del Libro I que quedaba sin tocar. A diferencia de la expansión de la Parte 1 (que priorizó *más* beats), aquí el énfasis pedido es **más carga descriptiva por beat** — qué ocurre exactamente, con qué imagen, qué quiere y teme el personaje — al mismo nivel de detalle que el `arco_argumental_Duplicado.md` original, no solo un resumen de una línea. Los beats ya existentes en el original (que ya tenían ese nivel de detalle) se dejan intactos y solo se referencian; los nuevos se escriben con el mismo nivel de densidad.
+
+---
+
+## Capítulo B1C23 — "The Despairing Front" (POV Camael) — 4 → 6 beats
+
+*(Revisado 2026-08-09 tras auditoría de Codex — CHANGES_REQUIRED: "Ithriel" no era un personaje fichado sino invención nueva presentada como categoría 1; sustituido por **Jeremiel** (Captain / Morale & Tactics, ya fichado en `prompt_universo.md`, bajo el mando directo de Camael) — encaja mejor incluso temáticamente, dado que animar a la tropa es literalmente su especialidad. También corregido: el beat 5 estaba mal clasificado como categoría 6; es categoría 1. Se declara el patrón narrativo, que faltaba. Se añade un puente causal para que la "caída" de Jeremiel que B1C28 da por hecha sea coherente con el colapso psíquico mostrado aquí, no una contradicción.)*
+
+**Patrón narrador**: patrón nuevo — **"Fortaleza quebrada"**: fortaleza inicial (categoría base) → humanización del personaje que va a romperse (categoría 1) → amenaza no física, imposible de combatir convencionalmente → colapso → respuesta doctrinal fallida (categoría 1, el líder intenta su única herramienta y no funciona) → advertencia/mensaje que redefine el conflicto. Se añade a `beat-planner/SKILL.md` como patrón 11.
+
+1. **The Bulwark** (original, sin cambios) — Camael y su legión, los Unbroken, sostienen una línea defensiva crítica. Veteranos disciplinados, sin miedo, esperando un combate que satisface su naturaleza guerrera.
+
+2. **Nuevo — "Jeremiel Cuenta un Chiste Malo"** *(personaje secundario ya fichado, categoría 1 de `expansion_guidelines.md`)*: Antes de que llegue la ola de Belial, un momento de calma en la línea. Jeremiel —Captain / Morale & Tactics bajo el mando de Camael, ya fichado ("Faith is a formation too")— rompe la tensión con un chiste seco sobre la comida del campamento mientras afila su espada corta *Diké*, y varios soldados a su alrededor se ríen a pesar de todo: no es casualidad, es su oficio, el mismo que le da nombre. Camael, que normalmente exigiría disciplina de formación estricta, deja que pase — sabe que ese humor calculado es exactamente la herramienta táctica que Jeremiel está entrenado para desplegar antes de una batalla. Un breve intercambio entre ambos (Jeremiel le pregunta si tiene miedo; Camael responde que el miedo es solo otro enemigo al que todavía no le ha puesto nombre) establece su vínculo real, no solo su rango, para que su colapso en el beat 4 duela de verdad. **Función narrativa**: humaniza a un personaje que hasta ahora solo era "second-in-command" genérica, activando una ficha ya existente en vez de inventar una nueva, y siembra deliberadamente cariño en el lector antes de arrancárselo.
+
+3. **The Wave of Sorrow** (original, sin cambios) — el pulso de energía de la vanguardia de Belial llega sin sonido ni fuerza física, solo desesperanza cósmica absoluta.
+
+4. **The Collapse** (original, con un ajuste de continuidad, y una precisión nueva para reconciliar con B1C28) — los soldados de Camael dejan de luchar y empiezan a llorar. El primero en caer es explícitamente Jeremiel —el mismo que acaba de bromear en el beat 2— dejando caer *Diké* y hundiéndose de rodillas en silencio. Camael lo ve caer antes que a nadie más. **Precisión de continuidad**: el pulso de Lament no mata — rompe la voluntad de defenderse. Pero en un frente activo, un soldado que suelta el arma y deja de percibir el peligro sigue siendo un blanco físico; no toda la legión de Camael muere aquí, pero algunos, indefensos en mitad del avance enemigo, no sobreviven a lo que viene después de este instante. Esa es la causa real detrás de los "que no volvieron" que B1C28 menciona — consecuencia indirecta del colapso, no un efecto letal directo de Lament.
+
+5. **Nuevo — "El Intento Inútil"** *(recategorizado tras auditoría de Codex: categoría 1, desarrollo de personaje mediante una acción fallida, no categoría 6)*: Camael, todavía en pie por pura fuerza de voluntad, intenta lo único que sabe hacer: liderar por el ejemplo. Agarra físicamente a dos o tres de sus soldados más cercanos por los hombros, los pone en pie a la fuerza, grita órdenes, intenta que el peso de su propia presencia — lo que siempre ha funcionado antes, en cualquier otra batalla — les devuelva la voluntad de luchar. No funciona. Uno de ellos, ya de rodillas otra vez en segundos, lo mira con una expresión que no es rebeldía ni cobardía, sino una tristeza tan total que Camael, por primera vez en la escena, siente algo parecido al miedo de verdad — no a morir, sino a que su liderazgo, la única herramienta que ha tenido siempre, sea literalmente irrelevante contra esto. **Función narrativa**: demuestra en acción (no solo se lo cuenta el narrador) que esto no es un problema que se resuelva con coraje o mando — arma el tema central del arco antes del mensaje del beat 6.
+
+6. **A Commander's Resolve** (original, sin cambios) — Camael envía el mensaje que redefine la naturaleza de la guerra: "No están rompiendo nuestras líneas. Están rompiendo nuestras almas."
+
+**Recuento**: 6 beats · objetivo ~2.250-2.700 palabras (342-450 palabras/beat).
+
+**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: personaje inventado sin ficha, categoría mal asignada, patrón sin declarar, y contradicción de continuidad con B1C28 sin puente causal).
+
+---
+
+## Capítulo B1C24 — "The Sundered Sky" (multi-POV) — 4 → 6 beats
+
+1. **Uriel's Gambit** (ampliado 2026-08-11, tras decisión del consejo — Uriel es el único de los "seis infrautilizados" con infraestructura de capítulo ya en el Libro I) — Uriel sacrifica territorio para consolidar fuerzas en zonas de "estática espiritual" que podrían interrumpir la onda psíquica de Lament. **Añadido**: por primera vez en todo el libro, Uriel — que lleva desde la Parte 1 exigiendo una guerra más agresiva en cada consejo — empuña Ignis Lux él mismo, no como orden sino como acto: abre una brecha en las líneas demoníacas con fuego que no busca destruir, busca purificar hasta la raíz, consumiendo a los soldados poseídos por la desesperanza de Lament de un modo que ni siquiera él sabía que podía hacer. No es la victoria limpia que llevaba libros enteros prometiendo — cada soldado que su fuego "purifica" no vuelve a levantarse, aliado o enemigo, y por un instante, en mitad del combate, Uriel se pregunta si toda su retórica de guerra rápida y decisiva escondía, en realidad, el miedo a descubrir esto sobre sí mismo. **Función narrativa**: paga la retórica militante de Uriel con la revelación que ese mismo consejo nunca le pidió — su fuego no distingue con la limpieza que él siempre defendió que tendría, y él lo sabe ahora, en el peor momento posible para saberlo.
+
+2. **Raphael's Sanctuary** (original, sin cambios) — Raphael convierte una enfermería celestial en un santuario para restaurar espíritus rotos, una batalla perdida contra una marea abrumadora.
+
+3. **Nuevo — "El Peso de Mandar a Ciegas"** *(POV Gabriel, clarifica quién hace qué, categoría 3)*: Corte a Gabriel, en el puesto de mando central, recibiendo los informes fragmentados de Uriel, Raphael y una docena de frentes más al mismo tiempo — no como una lista ordenada, sino como un caos de voces superpuestas, cada una pidiendo una decisión que él no tiene información completa para tomar bien. Por primera vez en el capítulo, el lector ve el problema desde arriba: no es una batalla, son quince batallas simultáneas, todas perdiéndose de formas distintas, y Gabriel es el único que tiene que sostenerlas todas en la cabeza a la vez. Un ayudante le pregunta si deben preparar una orden de retirada general. *"Todavía no,"* dice Gabriel, sin levantar la vista del mapa. El ayudante insiste: *"¿Y si 'todavía' se convierte en 'demasiado tarde'?"* Gabriel no tiene una respuesta lista — y ese silencio, más que la orden que no da, es lo que queda plantado: la primera semilla explícita de la decisión que va a tomar en el Capítulo 27. **Ampliado (2026-08-10, categoría 5 — diálogo real)**: el intercambio ahora es una réplica real, no una pregunta sin respuesta narrada. **Función narrativa**: da peso y anticipación a la decisión de la retirada en vez de que aparezca de golpe en el Capítulo 27; muestra el coste del liderazgo en tiempo real, no solo en retrospectiva.
+
+4. **The Path of Judgment** (original, sin cambios) — Miguel, un storm silencioso de luz, avanza a través de la guerra sin luchar, deshaciendo todo a su paso. POV de un demonio genérico que lo ve como un cometa de juicio incandescente.
+
+5. **Nuevo — "Lo Que Ya No Reconocen"** *(más batalla, POV de un soldado angélico, categoría 6)*: Espejo deliberado del beat anterior, pero desde el propio bando de Miguel. Un soldado angélico raso — alguien que luchó a su lado en el Capítulo 3, que lo vitoreó en el Capítulo 6 — lo ve pasar de cerca por primera vez desde que empezó a cambiar. No siente el mismo terror puro que el demonio del beat anterior; siente algo peor, una mezcla de reverencia obligatoria y un asco que no se permite nombrar ni ante sí mismo. Quiere gritar su nombre, saludarlo como siempre ha hecho; en cambio, se queda callado y deja que pase, y ese silencio — el primer silencio real de un soldado propio ante Miguel — es una grieta pequeña pero real en el mito del Campeón del Cielo. **Función narrativa**: extiende el aislamiento de Miguel más allá de sus pares (Gabriel, Raphael, Camael) hasta la tropa rasa que lo adoraba; prepara emocionalmente el shock colectivo de su caída en el Capítulo 27.
+
+6. **The Challenge Accepted** (original, sin cambios) — Belial siente la línea de poder de Miguel acercándose, detiene su avance y envía un pulso de desafío. Cierre: esto es un duelo entre reyes, el resto es irrelevante.
+
+---
+
+## Capítulo B1C25 — "The Resonance" — sin cambios (6 beats, ya en el rango objetivo)
+
+Los 6 beats originales (The Field of Convergence, The First Clash, The Awakening on Earth, The Song Stops, The Seer's Eyes, A War of Concepts) ya tienen la densidad y el detalle correctos — es el único capítulo de la Parte 3 que no necesitaba tocarse.
+
+---
+
+## Capítulo B1C26 — "The Fall" — 5 → 6 beats
+
+1. **An Even Match** (original, sin cambios) — Solmire y Lament en un estancamiento perfecto, ninguno puede ganar ventaja.
+
+2. **Nuevo — "La Grieta Que Nadie Ve Todavía"** *(profundiza al protagonista, categoría 2 aplicada a Miguel mismo)*: Antes de que Belial explote la duda de Miguel desde fuera (beat siguiente), el lector la ve nacer desde dentro. En mitad del intercambio de golpes, un instante de silencio interior de Miguel — no inducido por Lament todavía, genuinamente suyo — donde recuerda, sin buscarlo, el peso frío y absoluto que sintió al desenvainar Solmire por primera vez en el Capítulo 2, y se pregunta, por una fracción de segundo que él mismo se apresura a enterrar, si alguna vez ha tomado una sola decisión desde entonces que fuera realmente suya. No es todavía la duda que lo rompe — es la grieta original, la que ya llevaba dentro desde el Capítulo 8 ("An Order Given") y el Capítulo 12, y que solo ahora, en el silencio del combate, tiene espacio para aflorar. **Función narrativa**: hace que el ataque de Belial en el siguiente beat sea una explotación de algo real y ya sembrado, no una manipulación que aparece de la nada; convierte la tragedia de Miguel en autodescubrimiento, no solo en derrota.
+
+3. **The Seed of Doubt** (original, con una réplica añadida) — Belial, sintiendo el conflicto interno de Miguel, no ataca su cuerpo sino su espíritu: "This power was never yours." **Ampliado (2026-08-10, categoría 5 — diálogo real)**: Miguel, todavía sosteniendo a Solmire en alto, replica — no con la confianza del Capítulo 3, sino con algo más parecido a una plegaria que a una afirmación: *"Entonces dime de quién es."* Belial no responde con palabras; deja que el silencio haga el trabajo que Lament ya empezó.
+
+4. **The Shattered Will** (original, sin cambios) — las palabras, amplificadas por Lament y confirmadas por los propios miedos de Miguel, lo rompen.
+
+5. **The Final Strike** (original, sin cambios) — Belial aprovecha el instante de vacilación. El golpe simbólico rompe el pilar de la orden celestial, no solo el cuerpo de Miguel.
+
+6. **The Sword is Lost** (original, sin cambios) — Miguel cae, Solmire se apaga en el suelo. Belial, herido y agotado, se permite una sola sonrisa triunfal.
+
+---
+
+## Capítulo B1C27 — "The Sound of Retreat" — sin cambios (6 beats, ya en el rango objetivo)
+
+Los 6 beats originales (The Unthinkable Sight, The Choice, The Horn of Sorrow, The Long Road Home, The Price of Victory, The Silence) ya tienen la densidad correcta, y el beat 3 (Gabriel ordenando la retirada) ahora aterriza con más peso gracias a la semilla plantada en el nuevo beat 3 del Capítulo 24.
+
+---
+
+## Capítulo B1C28 — "The Echo of the Sword" — 5 → 7 beats
+
+1. **The Broken Firmament** (original, sin cambios) — semanas después, el Bastión Celestial en silencio derrotado.
+
+2. **Nuevo — "Lo Que Camael No Dice"** *(cierre de personaje secundario, categoría 1)*: Un breve corte a Camael, semanas después de la caída de Jeremiel y del resto de su legión. No está en la sala de consejo con Gabriel, Uriel, Raphael e Iofiel — está solo, en lo que queda de su cuartel, puliendo el equipo de los soldados que no volvieron, incluida la espada de Jeremiel, que se niega a devolver al almacén general. No dice nada sobre lo que siente; el gesto de limpiar un arma que ya no tiene dueño lo dice todo. Cuando un mensajero le pregunta si va a asistir al consejo, responde que ya sabe lo que van a decidir sin él, y sigue puliendo. **Función narrativa**: extiende el coste de la guerra más allá del "núcleo de cuatro" que domina el resto del capítulo; cierra el arco emocional de Camael/Jeremiel abierto en el Capítulo 23 en vez de dejarlo caer sin resolución.
+
+3. **A Council of the Fallen** (original, sin cambios) — Gabriel, Uriel, Raphael e Iofiel se reúnen entre las ruinas, ya no como generales sino como supervivientes.
+
+4. **The Victor's Burden** (corregido 2026-08-11 tras descubrir la contradicción al leer `archive/arco_argumental_Duplicado.md` — "The Price of Victory" del Libro I original ya establecía que Solmire rechaza a Belial: *"The moment his hand touches the hilt, the sword's irreverent light violently rejects him, burning his flesh"*. El beat 3 de este mismo capítulo, con la línea de Iofiel "Solmire is lost on Earth", ya asume que Belial NO la tiene — tenerla también en este beat era una contradicción interna del capítulo, no solo con el Libro II) — Belial, herido, sostiene solo Lament. Intentó reclamar Solmire sobre el cuerpo caído de Miguel; la espada lo rechazó con una luz que le quemó la mano antes de apagarse y perderse — la razón real por la que ahora está en algún lugar de la Tierra, no en su poder. Solo le queda Lament, cuya energía sigue en guerra con él mismo.
+
+5. **Whispers on a Mortal Plane** (original, sin cambios — decisión explícita del usuario, 2026-08-09) — montaje del despertar en la Tierra: Arin Cross se derrumba, sintiendo el fantasma del dolor de Lament en las manos; el músico Milo Ray oye un zumbido discordante y creativo que nadie más oye; en su cumbre, los ojos de **Azael** están ahora bien abiertos, observando un mundo que lo ha olvidado. Azael da el primer paso deliberado en cinco mil años. **Nota de reveal-pacing (decisión consciente, no un descuido)**: este es el único lugar de todo el Libro I donde su nombre aparece — deliberadamente, como cierre de libro y gancho hacia el Libro II, en contraste con B1C21 (Parte 2), donde se mantiene sin nombre por ser su capítulo de introducción. Un nombre desnudo, sin explicar naturaleza, poderes, ni conexión con la profecía, es la clase de "mención ligera" que la regla de `prompt_universo.md` permite — la revelación real (qué es, qué hizo, qué significa) sigue reservada al Libro II. No modificar este beat sin volver a plantear la pregunta.
+
+6. **The Echo of a Name** (original, sin cambios) — Gabriel, solo, mirando su hogar roto con una resolución fría.
+
+7. **Nuevo — "Décadas Después"** *(recuperado del borrador original en `src/chapters/B1C28.md`, restaurado a petición explícita del usuario, 2026-08-11. **Segunda corrección de interpretación, mismo día**: las 3 frases de la escena ("Well, well… Who'd have thought you'd end up here" / "I suppose it's time to get back in the game") **las dice todas Milo Ray, seguidas, como un único monólogo suyo** — no hay una segunda voz. El joven nunca habla; solo se detiene un instante por un pensamiento propio que el texto no verbaliza como diálogo, sin oír nada de lo que dice Milo Ray. No es un intercambio entre dos personajes ni siquiera en forma de dos soliloquios paralelos — es solo Milo Ray, observando y comentando para sí mismo, decidiendo que es momento de "volver al juego" (él, no el joven).)*: Salto temporal — décadas después del beat 6. Una playa sin nombre. Un hombre bronceado descansa en una hamaca entre dos palmeras, sin nombre que recuerde — es Milo Ray/Ereloth, ya presentado en el beat 5 de este mismo capítulo. Por la orilla camina un joven de pelo prematuramente blanco, atormentado desde niño por sueños de torres ardiendo, alas rotas y "espadas que cantaban en una lengua olvidada" — despierta siempre con un nombre susurrado en el pecho: *Miguel*. Nunca se le nombra en el texto; el lector infiere quién es por los sueños y el nombre susurrado, no por narración directa — mismo tratamiento de reveal-pacing ya usado con Arin Cross/Thaeriel. Milo Ray lo ve pasar a distancia y murmura, **para sí mismo, sin que el joven lo oiga en ningún momento**: *"Well, well… Who'd have thought you'd end up here."* Sigue observándolo alejarse, y remata su propio pensamiento, también en voz baja, también solo para sí: *"I suppose it's time to get back in the game."* Es Milo Ray quien decide que es hora de volver al juego — no una respuesta del joven, que nunca oye nada de esto. Un ave marina grita a lo lejos. Fin del Libro I. **Notas de adaptación** (por instrucción explícita del usuario — no añadir nombres nuevos, y ajustar solo lo necesario para no contradecir lo ya construido): no se narra la "explosión blanca" de la muerte de Miguel del borrador original — B1C26 ya estableció que cae y Solmire se apaga en el suelo, sin desintegración, y esta escena no la contradice porque nunca vuelve a describir la muerte en sí, solo sus ecos décadas después. No se introduce ningún personaje nuevo: Milo Ray ya existe desde el beat 5; el joven de pelo blanco se deja deliberadamente sin nombrar en prosa. **Función narrativa**: es la imagen de cierre real del Libro I — no la resolución institucional de Gabriel (beat 6), sino la resolución personal/humana que el autor concibió desde el principio como destino de toda la trama. Ahora también coherente sin fricción con el arranque del Libro II: **Milo Ray sí reconoce a Miguel** (instrucción explícita del autor) — pero es un reconocimiento espiritual/esencial (percibe quién es realmente, la misma nota familiar que ya lo conecta con Solmire desde B1C28 beat 5), no un reconocimiento personal — nunca ha visto su cara ni han hablado antes de esta playa. Explica su interés discreto en B2C18/B2C21/B2C24/B2C26 sin implicar relación previa entre ambos — **APPROVED por Codex (2026-08-11, 4ª pasada) tras tres rondas de corrección.**
+
+**Estado**: prosa completa escrita en `src/chapters/B1C28.md` (2026-08-10, 2.561 palabras, 7 beats — dentro del rango objetivo). Adaptada del borrador original: se eliminó la reapertura de la batalla (redundante con B1C26), se corrigió "Michael"→Miguel e "Iophiel"→Iofiel para consistencia con el resto de la prosa, se confirmó que Ramiel (espada de Camael) y Decretum (martillo de Zadkiel) son armas ya fichadas en `personajes.md` (no invenciones), y se nombró explícitamente la lanza de Belial como Lament. **Corrección 2026-08-11**: el beat 4 ("The Victor's Burden") tenía a Belial sosteniendo también a Solmire, contradiciendo la línea de Iofiel del propio beat 3 ("Solmire is lost on Earth") — corregido para que Solmire lo rechace sobre el cuerpo de Miguel (quemándole la mano, coherente con "The Price of Victory" del Libro I original en `Duplicado.md`) y se pierda, dejándolo solo con Lament. **APPROVED por Codex (2026-08-11, 2ª pasada)**: la corrección del beat 4 (Solmire rechaza a Belial antes de que sus dedos lleguen a cerrarse sobre la empuñadura, sale despedida por el propio rechazo, no porque él la suelte) queda verificada sin contradicción. **Tensión Milo Ray/Mikel — RESUELTA (2026-08-11)**: el usuario aclaró que las dos líneas finales del beat 7 nunca fueron un diálogo compartido — cada uno habla para sí mismo, sin oír al otro. Prosa corregida en `src/chapters/B1C28.md` para dejarlo explícito ("Neither of them heard the other"). Ya no contradice el arranque del Libro II. **APPROVED por Codex.**
+
+---
+
+## Recuento total de la Parte 3
+
+| Capítulo | Beats antes | Beats después |
+|---|---|---|
+| B1C23 | 4 | 6 |
+| B1C24 | 4 | 6 |
+| B1C25 | 6 | 6 (sin cambios) |
+| B1C26 | 5 | 6 |
+| B1C27 | 6 | 6 (sin cambios) |
+| B1C28 | 5 | 7 |
+| **Total** | **30** | **37** |
+
+A ~342-450 palabras/beat de densidad medida: **~12.300-16.200 palabras para la Parte 3** (antes ~10.250-13.500). Los 6 beats nuevos son contenido narrativo real — dos personajes secundarios con arco propio (Jeremiel, cerrado en el mismo capítulo donde se abre; Camael, con un cierre emocional propio en el epílogo), una escena de mando que estaba implícita y ahora es explícita (Gabriel en el 24), y un beat de autodescubrimiento de Miguel que faltaba antes de que Belial lo explote — no relleno.
+
+## Recuento actualizado del Libro I completo
+
+| Parte | Beats |
+|---|---|
+| Parte 1 | 91 |
+| Parte 2 (con Lament replanificado a 37 + resto sin tocar) | ~72 - 23 (Lament original) + 37 (Lament nuevo) = ~86 |
+| Parte 3 | 36 |
+| Tramas nuevas (5, todavía sin replanificar a 6-8 beats/capítulo) | ~70 |
+| **Total** | **~283** |
+
+Sigue faltando aplicar la misma pasada de beat-planner a las 18 escenas de las 5 tramas nuevas (`book1_new_subplots_beats.md`) — siguen en 2-4 beats/capítulo, la misma situación que tenía el arco de Lament antes de esta sesión.
