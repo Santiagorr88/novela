@@ -8,6 +8,8 @@ Aplicando `expansion_guidelines.md`. Cada capítulo original conserva sus beats 
 ## Capítulo 1 — completado y aprobado (referencia)
 Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Consejo** (nuevo) → **La deuda de Onyx Gates** (nuevo) → Grove → **El guardián sin rostro** (nuevo) → Heart. **8 beats.**
 
+**Estado (2026-08-13): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap01_EN.md`, 2.520 palabras. APPROVED por Codex tras 6 rondas de revisión (fixes de POV en el beat "La orden del Consejo", reveal-pacing del guardián sin rostro — filtrado en todo momento como percepción incierta de Miguel, nunca hecho narrado — y numerosos apilamientos de metáforas). Reemplaza a `B1C01_EN_v2.md` (contenido original de los 7 beats sin dividir), pendiente de `git rm` una vez B1Cap02_EN.md también esté aprobado.
+
 ---
 
 ## Capítulo 2 (B1C01 beats 5-7: Laugh, Verdict, Echo) — 3 → 6 beats
