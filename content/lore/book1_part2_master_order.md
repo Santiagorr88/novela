@@ -35,7 +35,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 25 | F3 — "Una guerra que nadie declara" (cierre) | `book1_new_subplots_beats.md` (Trama 5) | `B1F03_EN.md` | ✅ Escrito y APPROVED (2.296 palabras, 2 rondas) — **🎉 TRAMA FORAS VS. VEPAR COMPLETA (F1-F3)** |
 | 26 | B1C17 — "The Irreverent Judgment" (POV Miguel) | `book1_part2_expanded_beats.md` | `B1C17_EN.md` | ✅ Escrito y APPROVED (2.395 palabras, 3 rondas) |
 | 27 | H1 — "La grieta que no debería existir" (POV Thoria) | `book1_new_subplots_beats.md` (Trama 4) | `B1H01_EN.md` | ✅ Escrito y APPROVED (2.345 palabras, 3 rondas) |
-| 28 | H2 — "Lo que ni él puede controlar" (POV Vem) | `book1_new_subplots_beats.md` (Trama 4) | `B1H02_EN.md` | Pendiente |
+| 28 | H2 — "Lo que ni él puede controlar" (POV Vem) | `book1_new_subplots_beats.md` (Trama 4) | `B1H02_EN.md` | ✅ Escrito y APPROVED (2.267 palabras, 5 rondas) |
 | 29 | H3 — "Una tregua que ninguno va a admitir" (dual POV) | `book1_new_subplots_beats.md` (Trama 4) | `B1H03_EN.md` | Pendiente |
 | 30 | H4 — "Lo que no se cuenta" (cierre) | `book1_new_subplots_beats.md` (Trama 4) | `B1H04_EN.md` | Pendiente — sin beat nuevo de diálogo (excepción deliberada) |
 | 31 | B1C18 — "Three Were Forged" (POV Iofiel) | `book1_part2_expanded_beats.md` | `B1C18_EN.md` | Pendiente |
