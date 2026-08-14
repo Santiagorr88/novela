@@ -38,7 +38,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 28 | H2 — "Lo que ni él puede controlar" (POV Vem) | `book1_new_subplots_beats.md` (Trama 4) | `B1H02_EN.md` | ✅ Escrito y APPROVED (2.267 palabras, 5 rondas) |
 | 29 | H3 — "Una tregua que ninguno va a admitir" (dual POV) | `book1_new_subplots_beats.md` (Trama 4) | `B1H03_EN.md` | ✅ Escrito y APPROVED (2.273 palabras, 2 rondas) |
 | 30 | H4 — "Lo que no se cuenta" (cierre) | `book1_new_subplots_beats.md` (Trama 4) | `B1H04_EN.md` | ✅ Escrito y APPROVED (2.262 palabras, 2 rondas) — 🎉 TRAMA HOLLOWSEAM COMPLETA |
-| 31 | B1C18 — "Three Were Forged" (POV Iofiel) | `book1_part2_expanded_beats.md` | `B1C18_EN.md` | Pendiente |
+| 31 | B1C18 — "Three Were Forged" (POV Iofiel) | `book1_part2_expanded_beats.md` | `B1C18_EN.md` | ✅ Escrito y APPROVED (2.150 palabras, 2 rondas) |
 | 32 | B1C19 — "A Truth Offered" (POV coral: Iofiel, Miguel, Gabriel) | `book1_part2_expanded_beats.md` | `B1C19_EN.md` | Pendiente |
 | 33 | B1C20 — "The Master of Lament" (POV Belial) | `book1_part2_expanded_beats.md` | `B1C20_EN.md` | Pendiente |
 | 34 | B1C21 — "The Seer on the Summit" | `book1_part2_expanded_beats.md` | `B1C21_EN.md` | Pendiente |
