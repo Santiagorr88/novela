@@ -135,6 +135,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 10 (B1C08 beats 1-3 + Jeremiel) — 4 → 8 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap10_EN.md`, 2.250 palabras. APPROVED por Codex tras 4 rondas — el capítulo más exigente en reveal-pacing hasta ahora: la sección "The Unjust Verdict" (Miguel mata por primera vez a un ser inocente) requirió varias pasadas para eliminar toda insinuación de duda/juicio moral, incluso en adjetivos aparentemente inocuos ("unhostile", "unbearable"). 5 secciones POV: Corven (oficial nuevo) → Nyra (madre nativa nueva) → Jeremiel → Miguel → Nyra. Primeras apariciones de Corven, Tamas y Nyra.
+
 1. **Órdenes desde arriba, duda abajo** (nuevo, categoría: jerarquía/personaje secundario; ampliado 2026-08-10, categoría 5 — diálogo real) — la orden de invasión se transmite por la cadena de mando. Un oficial de rango medio le pregunta a otro, en voz baja: *"¿Alguien ha confirmado que hay hostilidad real ahí abajo, o solo estamos siguiendo un mapa?"* El otro no tiene respuesta mejor que: *"Seguimos órdenes. Las preguntas son para después."* Ninguno de los dos vuelve a hablar del tema, pero la duda ya ha quedado dicha en voz alta, no solo sentida.
 2. *The Invasion* (original)
 3. **Un mundo que suena a campanas** (nuevo, categoría: nueva perspectiva) — una familia/unidad concreta de los seres nativos huyendo, dando rostro a quienes están a punto de ser borrados.
