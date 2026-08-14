@@ -26,7 +26,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 16 | N1 — "Lo que el coro no canta" (expande B1C16, POV Kurel/Daith) | `book1_new_subplots_beats.md` (Trama 3) | `B1N01_EN.md` | ✅ Escrito y APPROVED (2.235 palabras, 2 rondas) — sustituye a B1C16 |
 | 17 | N2 — "La discrepancia" | `book1_new_subplots_beats.md` (Trama 3) | `B1N02_EN.md` | ✅ Escrito y APPROVED (2.269 palabras, 4 rondas) |
 | 18 | N3 — "Lo que se queda sin nombre" (cierre) | `book1_new_subplots_beats.md` (Trama 3) | `B1N03_EN.md` | ✅ Escrito y APPROVED (2.282 palabras, 6 rondas) — **🎉 TRAMA NECRÓPOLIS COMPLETA (N1-N3)** |
-| 19 | T1 — "La isla que no aparece en ningún mapa" (POV Cassiel) | `book1_new_subplots_beats.md` (Trama 2) | `B1T01_EN.md` | Pendiente |
+| 19 | T1 — "La isla que no aparece en ningún mapa" (POV Cassiel) | `book1_new_subplots_beats.md` (Trama 2) | `B1T01_EN.md` | ✅ Escrito y APPROVED (2.312 palabras, 2 rondas) |
 | 20 | T2 — "El que ya estaba mirando" (POV Selm) | `book1_new_subplots_beats.md` (Trama 2) | `B1T02_EN.md` | Pendiente |
 | 21 | T3 — "Los acertijos sin respuesta" (POV Cassiel, Selm observando) | `book1_new_subplots_beats.md` (Trama 2) | `B1T03_EN.md` | Pendiente — sin beat nuevo de diálogo (excepción deliberada, ver nota en el doc fuente) |
 | 22 | T4 — "Lo que ninguno de los dos se queda" (cierre, dual POV) | `book1_new_subplots_beats.md` (Trama 2) | `B1T04_EN.md` | Pendiente — pista de Ereloth en registro de "eco físico sin explicación", nunca nombrarlo; cierra con reporte de Cassiel a Iofiel conectando al Codex Mortalis (requiere Lament ya escrito) |
