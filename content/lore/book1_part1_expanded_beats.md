@@ -87,6 +87,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 7 (B1C05 completo: Scent, University, Encounter, Resumes) — 4 → 8 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap07_EN.md`, 2.266 palabras. APPROVED por Codex tras 2 rondas. Primera aparición de Sariel y de Arin Cross (futuro Thaeriel) — reveal-pacing verificado explícitamente: se menciona su nombre "Arin" de pasada (un saludo trivial de otro estudiante) pero su naturaleza permanece completamente sin explicar, filtrada solo por la percepción confusa de Sariel. 3 secciones POV: Sariel → Profesor Calder (nuevo, breve) → Sariel.
+
 1. **La asignación no reclamada** (nuevo, categoría: jerarquía/personaje secundario; ampliado 2026-08-10, categoría 5 — diálogo real) — Sariel recibe este encargo concreto de Camael, su Comandante según ficha. "¿Por qué yo?", pregunta Sariel, sin levantar la vista de su lanza. Camael responde: "Porque las almas no te mienten, y esta caza necesita a alguien que no se deje convencer de nada." Sariel asiente una sola vez y no vuelve a preguntar — vistazo a la burocracia angélica y a la economía de palabras de ambos.
 2. *The Scent of Damnation* (original)
 3. **Una ciudad que no sabe** (nuevo, categoría: textura de mundo) — Sariel atravesando el mundo humano mundano, estableciendo la ignorancia de la Tierra sobre la guerra cósmica como tema recurrente.
