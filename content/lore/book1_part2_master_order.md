@@ -18,7 +18,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 8 | L5 — "The True Tomb" / "La tumba verdadera" (POV Belial) | `book1_lament_arc.md` | `B1L05_EN.md` | ✅ Escrito y APPROVED (2.258 palabras, 4 rondas) — Belial reclama Lament |
 | 9 | L6 — "What Winning Costs" / "Lo que cuesta ganar" (POV Belial + convergencia angélica) | `book1_lament_arc.md` | `B1L06_EN.md` | ✅ Escrito y APPROVED (2.229 palabras, 2 rondas) — **🎉 ARCO DE LAMENT COMPLETO (L1-L6)** |
 | 10 | V1 — "What Should Not Have Burned" / "Lo que no debía arder" (POV Krass) | `book1_new_subplots_beats.md` (Trama 1) | `B1V01_EN.md` | ✅ Escrito y APPROVED (2.258 palabras, 3 rondas) |
-| 11 | V2 — "Un don sin nombre" (POV Corin Vasse, nuevo) | `book1_new_subplots_beats.md` (Trama 1) | `B1V02_EN.md` | Pendiente |
+| 11 | V2 — "A Gift With No Name" / "Un don sin nombre" (POV Corin Vasse, nuevo) | `book1_new_subplots_beats.md` (Trama 1) | `B1V02_EN.md` | ✅ Escrito y APPROVED (2.286 palabras, 2 rondas) |
 | 12 | V3 — "El rastro que no debería estar ahí" (POV Sariel) | `book1_new_subplots_beats.md` (Trama 1) | `B1V03_EN.md` | Pendiente |
 | 13 | V4 — "Lo que el deseo promete" (POV Vual) | `book1_new_subplots_beats.md` (Trama 1) | `B1V04_EN.md` | Pendiente |
 | 14 | V5 — "Dos ofertas" (POV compartido Corin/Sariel) | `book1_new_subplots_beats.md` (Trama 1) | `B1V05_EN.md` | Pendiente — cierra Trama Vual (hilo retomable en Libro II/III) |
