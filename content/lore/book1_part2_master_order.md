@@ -51,7 +51,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 36 | B1C23 — "The Despairing Front" (POV Camael) | `book1_part3_expanded_beats.md` | `B1C23_EN.md` | ✅ Escrito y APPROVED (2.285 palabras, 2 rondas) |
 | 37 | B1C24 — "The Sundered Sky" (multi-POV) | `book1_part3_expanded_beats.md` | `B1C24_EN.md` | ✅ Escrito y APPROVED (2.236 palabras, 2 rondas) |
 | 38 | B1C25 — "The Resonance" | `book1_part3_expanded_beats.md` | `B1C25_EN.md` | ✅ Escrito y APPROVED (2.332 palabras, 2 rondas) |
-| 39 | B1C26 — "The Fall" | `book1_part3_expanded_beats.md` | `B1C26_EN.md` | Pendiente |
+| 39 | B1C26 — "The Fall" | `book1_part3_expanded_beats.md` | `B1C26_EN.md` | ✅ Escrito y APPROVED (2.218 palabras, 2 rondas) |
 | 40 | B1C27 — "The Sound of Retreat" | `book1_part3_expanded_beats.md` | `B1C27_EN.md` | Pendiente |
 | 41 | B1C28 — "The Echo of the Sword" | `book1_part3_expanded_beats.md` | `B1C28_EN.md` | ✅ **YA ESCRITO Y APPROVED** (2.561-2.725 palabras, 7 beats) — verificado 2026-08-14, incluye el cierre de Milo Ray/Ereloth en la playa, décadas después. No reescribir. Cierra el Libro I completo. |
 
