@@ -102,6 +102,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 8 (B1C06 completo: Return, Concern, Vigil, Order) — 4 → 8 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap08_EN.md`, 2.250 palabras. APPROVED por Codex tras 3 rondas. Capítulo del "decaimiento" de Miguel — 5 secciones POV: Ophaniel (escriba nueva, ironía dramática) → Miguel → Gabriel → Miguel (incluye diálogo de Raphael sobre la Ley de Reencarnación) → Bellenor (soldado nuevo). Primeras apariciones de Ophaniel y Bellenor.
+
 1. *The Triumphant Return* (original)
 2. **Las canciones que cantan** (nuevo, categoría: ironía dramática) — extensión del cronista: un fragmento real del himno heroico que se compone sobre Miguel, en contraste irónico con lo que el lector ya sabe.
 3. *A Brother's Concern* (original)
