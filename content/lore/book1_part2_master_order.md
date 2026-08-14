@@ -29,7 +29,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 19 | T1 — "La isla que no aparece en ningún mapa" (POV Cassiel) | `book1_new_subplots_beats.md` (Trama 2) | `B1T01_EN.md` | ✅ Escrito y APPROVED (2.312 palabras, 2 rondas) |
 | 20 | T2 — "El que ya estaba mirando" (POV Selm) | `book1_new_subplots_beats.md` (Trama 2) | `B1T02_EN.md` | ✅ Escrito y APPROVED (2.293 palabras, 3 rondas) |
 | 21 | T3 — "Los acertijos sin respuesta" (POV Cassiel, Selm observando) | `book1_new_subplots_beats.md` (Trama 2) | `B1T03_EN.md` | ✅ Escrito y APPROVED (2.266 palabras, 5 rondas) — sin diálogo nuevo (excepción deliberada) |
-| 22 | T4 — "Lo que ninguno de los dos se queda" (cierre, dual POV) | `book1_new_subplots_beats.md` (Trama 2) | `B1T04_EN.md` | Pendiente — pista de Ereloth en registro de "eco físico sin explicación", nunca nombrarlo; cierra con reporte de Cassiel a Iofiel conectando al Codex Mortalis (requiere Lament ya escrito) |
+| 22 | T4 — "Lo que ninguno de los dos se queda" (cierre, dual POV) | `book1_new_subplots_beats.md` (Trama 2) | `B1T04_EN.md` | ✅ Escrito y APPROVED (2.339 palabras, 4 rondas) — **🎉 TRAMA TUREIN COMPLETA (T1-T4)** |
 | 23 | F1 — "El precio de la ausencia" (POV Malthus) | `book1_new_subplots_beats.md` (Trama 5) | `B1F01_EN.md` | Pendiente — requiere L6 ya escrito |
 | 24 | F2 — "Lo que la marea husmea" (POV Stolas) | `book1_new_subplots_beats.md` (Trama 5) | `B1F02_EN.md` | Pendiente |
 | 25 | F3 — "Una guerra que nadie declara" (cierre) | `book1_new_subplots_beats.md` (Trama 5) | `B1F03_EN.md` | Pendiente — siembra explícita para Libro II/III (primera grieta en el frente de Hell) |
