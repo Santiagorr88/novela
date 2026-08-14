@@ -27,6 +27,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 3 (B1C02 beats 1-3: Arrival, Council, Alarm) — 3 → 6 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap03_EN.md`, 2.256 palabras. APPROVED por Codex tras 4 rondas (POV en dos secciones — Tamiel, mensajero/centinela nuevo, y Miguel — con varias violaciones de "afirmar como hecho el estado interno de otro personaje"; metáforas apiladas; y 2 problemas menores de continuidad de secuencia). Fuente original de "Verdict of Dawn" (B1C02) recuperada de `archive/arco_argumental_Duplicado_part1.md` líneas 19-27.
+
 1. **La noticia se adelanta** (nuevo, categoría: personaje secundario) — un mensajero corre por delante de Miguel para anunciar su regreso con la espada, dando una perspectiva secundaria de la expectación creciente antes de que él llegue físicamente.
 2. *The Arrival* (original)
 3. **La primera mirada de Raphael** (nuevo, categoría: desarrollo de personaje; ampliado 2026-08-10, categoría 5 — diálogo real) — Raphael, que hoy solo reacciona de pasada en el Consejo, recibe aquí un momento propio: su instinto de sanador se estremece ante la "esterilidad" de Solmire antes de que nadie más lo articule. Un ayudante junto a él le pregunta si todo va bien; Raphael, sin apartar los ojos de la espada, responde: *"No sé todavía. Algo en ella no sana. Ni siquiera a sí misma."* Siembra su arco de duda (Cap. 5) con más antelación, ahora con una línea propia en vez de solo reacción interna.
