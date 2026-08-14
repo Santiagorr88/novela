@@ -13,7 +13,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 3 | B1C13 — "The Price of Truth" (POV Belial) | `book1_part2_expanded_beats.md` | `B1C13_EN.md` | ✅ Escrito y APPROVED (2.261 palabras, 3 rondas) |
 | 4 | L1 — "The First Threshold" / "El primer umbral" (POV Belial) | `book1_lament_arc.md` | `B1L01_EN.md` | ✅ Escrito y APPROVED (2.252 palabras, 7 rondas — el más costoso hasta ahora) |
 | 5 | L2 — "What the Council Won't Decide" / "Lo que el Consejo no decide" (POV Iofiel) | `book1_lament_arc.md` | `B1L02_EN.md` | ✅ Escrito y APPROVED (2.267 palabras, 2 rondas) |
-| 6 | L3 — "Los que esperan un tropiezo" (POV Belial) | `book1_lament_arc.md` | `B1L03_EN.md` | **REESCRIBIR** — borrador de calibración (1.307 palabras). |
+| 6 | L3 — "Those Waiting for a Stumble" / "Los que esperan un tropiezo" (POV Belial/Nyx/Belial) | `book1_lament_arc.md` | `B1L03_EN.md` | ✅ Escrito y APPROVED (2.247 palabras, 2 rondas) |
 | 7 | L4 — "El descenso" (POV Belial + testigos) | `book1_lament_arc.md` | `B1L04_EN.md` | **REESCRIBIR** — borrador de calibración (1.201 palabras, era el más corto/débil, solo 4 beats). |
 | 8 | L5 — "La tumba verdadera" (POV Belial) | `book1_lament_arc.md` | `B1L05_EN.md` | **REESCRIBIR** — borrador de calibración (1.647 palabras). |
 | 9 | L6 — "Lo que cuesta ganar" (POV Belial + convergencia angélica) | `book1_lament_arc.md` | `B1L06_EN.md` | **REESCRIBIR** — borrador de calibración (1.315 palabras). Cierra el arco de Lament; siembra F1. |
