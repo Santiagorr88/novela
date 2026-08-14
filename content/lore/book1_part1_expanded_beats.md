@@ -117,6 +117,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 9 (B1C07 completo + interludio B1C07.5) — 5 → 10 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap09_EN.md`, 2.261 palabras. APPROVED por Codex tras 3 rondas. 2 secciones: Belial (continúa del Cap. 6, descubre la leyenda de Lament y localiza la Weeping Sepulcher) → Yara (florista nueva, testigo externo del interludio de Milo Ray/Ereloth — reveal-pacing verificado: nunca se nombra ni confirma su naturaleza).
+
 1. **El libro mayor de rivalidades** (nuevo, categoría: política de Hell; ampliado 2026-08-10, categoría 5 — diálogo real) — un ayudante advierte a Belial de que un comandante rival ha estado "reuniendo favores" en su ausencia. Belial, sin detener el paso hacia la Torre, responde: *"Que los reúna. Los favores no pesan nada hasta que alguien intenta cobrarlos, y para entonces yo ya habré vuelto."* — desestima la maniobra política antes de entrar en la Torre, refuerza la corte infernal ya sembrada en el Capítulo 6.
 2. *Forbidden Tomes* (original)
 3. **Lo que la Torre recuerda** (nuevo, categoría: textura/atmósfera) — un fantasma gritando una advertencia que Belial ignora — expande el peligro activo de la Torre.

@@ -1,0 +1,65 @@
+# Chapter 9 — The Price of Knowledge
+
+## A Ledger of Rivalries
+
+An aide finally caught up with Belial on the tower's lower stairs, breathless from the climb, before Belial had reached the sealed door where the second ward waited. The aide had clearly run the entire distance from the capital rather than wait for proper transport, judging by the state of his robes. "Commander — while you were occupied, Malgorath has been calling in favors across three courts. Building support."
+
+"Let him." Belial did not slow his measured pace up the stairs, did not so much as glance back toward the aide delivering the warning. "Favors weigh nothing until someone tries to collect them, and by then I'll already be back." He said it the way he said most things about court politics these days — a minor inconvenience, filed and dismissed before it could cost him a single step of forward momentum.
+
+The aide fell back at the base of the stairwell, hesitating as though unsure whether he had been dismissed or simply forgotten, and Belial did not look to see which it actually was. He continued on toward the sealed door ahead, the warning already filed away and abandoned somewhere behind him on the steps. Malgorath's small ambitions would keep. He had watched a dozen rivals attempt the same slow accumulation of favors over the centuries, and none of them had ever amounted to anything more than noise by the time Belial got around to addressing it. Whatever waited above would not keep nearly so patiently.
+
+## Forbidden Tomes
+
+The archive beyond the first ward unfolded into a labyrinth of shifting corridors, shelves stretching upward past the reach of any light Belial carried with him. He had explored perhaps a tenth of it during his first ascent through the tower, and even that small fraction had rearranged itself twice by the time he passed back through it again. The books here were not bound in leather or parchment. Their pages, when he dared open one, felt disturbingly organic beneath his fingers — thin as skin, and just as unwilling to lie flat.
+
+A second ward barred the passage deeper in, one that pulsed with the particular hunger Belial had learned to recognize from the first — a low, patient throb, felt more than heard, that grew sharper the closer he approached it. He had brought a second minor demon along for exactly this purpose, its usefulness already decided before it ever set foot inside the tower, and did not hesitate this time before pushing it forward. The ward took hold of it instantly, its form seizing mid-stride into something crystalline and silent, mouth open on a scream that never finished sounding. Belial stepped past the statue without slowing, his attention already fixed on the shelves beyond it, the price of passage already filed away and forgotten.
+
+## What the Tower Remembers
+
+A voice tore through the corridor behind him as he passed the third landing, thin and furious, the residue of some scholar the Tower had claimed long before Belial's service began. It circled him twice, a cold current he felt more than saw, before finding enough coherence to form words. *Turn back,* it said, in a language that predated most of Hell's current vocabulary. *This is not a door meant for the living.*
+
+Belial did not turn back. He had heard the Tower's ghosts before, on earlier visits for narrower purposes, and had learned that their warnings, however sincerely delivered, never carried any weight beyond the noise itself. This particular ghost sounded more desperate than most, its voice fraying further with every repetition, but desperation had never once stopped him from taking a single step he had already decided to take. He climbed past the voice and let it fade behind him, growing thinner with distance, one more sound the Tower produced without consequence to anyone actually paying attention.
+
+## A Name Whispered
+
+He found what he was looking for on the ninth landing, past shelves of text he had already read and discarded as useless — old treaties, tangled genealogies, half-finished treatises on wars neither side remembered fighting anymore. This one felt different the moment his hand closed around its brittle spine, a faint resistance to his touch that none of the others had offered. It was so damaged that half its pages crumbled at his touch, not a record of angels or demons, but of something the fragile script called *Primordials.*
+
+The name of one such being pressed against his mind as he read, trying to take shape, and found itself blocked by a seal ancient enough that Belial could feel its edges without ever glimpsing what it concealed. He tried three separate times to force his way past it, each attempt met with the same immovable resistance, growing more careful with each one, and finally abandoned the effort rather than risk whatever cost persisting further might extract from him. He could not read the name, not even a fragment of it. He could feel its weight, righteous and immense, a fury too large to belong to anything Heaven or Hell had ever produced between them. The text did not describe this being as a servant of either side, celestial or infernal. It described something closer to a force that creation itself had once depended on, long before either side existed to claim allegiance from anything.
+
+## The Legend of Lament
+
+Further into the same fragment, several pages later and considerably harder to decipher, a second passage described a weapon forged as this being's counterpart — a spear of *painful truth*, given the name Lament.
+
+Belial read the description of its sibling blade first, and felt something in his chest go very still: *a blade forged from pure joy to deliver verdicts without sorrow.* He already knew that description, or something close enough to it. He had heard a cruder version of it from a terrified survivor only weeks ago, dismissed at the time by half of the court as exaggeration. The passage continued, describing Lament in turn — *a spear forged in grief to deliver truths that create it* — and the symmetry closed around him like a lock finally turning. Solmire was not a singular anomaly, some unrepeatable fluke of the ancient world. It was one half of a set, and its counterpart was still out there, unclaimed by anyone in this current age of the war.
+
+His hunger for a rival weapon, vague and undirected an hour ago, sharpened into something far more specific and far more urgent.
+
+## A Question of Faith
+
+He paused there on the landing, the fragment still open in his hands, and allowed himself, for the space of a single held breath, to wonder whether defying Lucifer's warning was actually worth what it might eventually cost him.
+
+The thought did not last. He had built his entire reputation on refusing to leave a locked door unopened, and he was not about to abandon that principle now, over a warning vague enough that it could have meant anything — or nothing at all, and delivered, he reminded himself, by a Morningstar who rarely offered anyone the full truth about anything. He crushed the doubt the way he crushed most doubts, quickly and without ceremony, and returned his full attention to the fragment in his hands.
+
+## The Location
+
+The final legible passage, buried on a page so brittle he had to steady it with both hands to keep it from crumbling entirely, gave him what he needed: a star-chart, faded but readable, and a single cryptic line beneath it. *Sealed where sorrow itself became solid, beyond judgment's reach.*
+
+Belial understood immediately. Not a vault in Heaven, not a stronghold in Hell — a place built from pure feeling rather than power, a realm neither side would think to claim as their own or waste resources defending. The Weeping Sepulcher. He had heard the name once, years ago, in passing, dismissed at the time as a curiosity with no strategic value, filed away in some corner of memory he had not revisited since. It had considerable value now. A slow, satisfied smile spread across his face as he rolled the star-chart closed and tucked it carefully into his robes, the fragile page too valuable now to risk damaging further. He had his target, and for the first time since the survivor's report had reached him, the shape of what came next felt entirely within his grasp.
+
+---
+
+## The Repairman's Song
+
+The busker had been playing in the square for most of the evening, and Yara, closing up her flower stall for the night, had stopped more than once to listen without quite meaning to. She had seen dozens of traveling street musicians pass through this same square over the years, most of them competent enough and entirely forgettable within the hour. Something about this particular one made her linger a little longer than usual over the last of her unsold evening bouquets.
+
+He was an odd one — barefoot despite the evening chill, guitar held together with what looked like actual tape, hair too sun-bleached for the season, and eyes that caught the lamplight strangely, one shade paler than the other though Yara couldn't have said for certain from this distance. His songs wandered without any clear destination, verses trailing off into hummed nonsense before finding their way back. None of it should have worked, by any measure Yara would have used to judge a performer. All of it, somehow, did. The flickering streetlamp above the fountain, which had buzzed and stuttered for three nights running according to every complaint filed with the district office, steadied into a warm, even glow partway through his second song, and stayed that way for the rest of the night. A city repairman had come by twice that same week already and left both times without ever finding anything actually wrong with it.
+
+Yara noticed the coincidence and set it aside as exactly that, a small mercy in an otherwise ordinary evening. She had far more pressing things to attend to than a streetlamp finally behaving itself, and went back to carefully bundling the last of her unsold stems for the walk home.
+
+The busker told a joke between songs that made no obvious sense — something about a fish who forgot how to swim and taught himself to fly instead, delivered with such genuine delight at his own clumsy punchline that Yara found herself smiling anyway despite not understanding a word of it — and his own laugh carried further across the square than his singing voice ever had. Near the fountain, a couple who had been arguing loudly enough to draw stares for the last ten minutes — something about money, or a missed appointment, Yara hadn't caught the details and hadn't wanted to — went abruptly quiet, caught the busker's laugh, and, to Yara's considerable surprise, laughed along with it themselves. Whatever the two of them had been fighting about a moment ago seemed, for now, to have lost its urgency entirely. One of them reached slowly for the other's hand a moment later, and Yara looked away before it started to feel like she was intruding on something private.
+
+He seemed entirely unaware of any of it, as far as Yara could tell — no glance toward the couple, no acknowledgment of the steadied lamp, nothing but the easy, unhurried pleasure of a man playing music simply because he liked playing it, and no other reason she could ever identify. If he noticed the effect he had on the square around him, he gave no sign of it at all, and Yara found herself doubting, the longer she watched him, that the connection was anything more than her own tired imagination stitching a handful of unrelated coincidences together into something more interesting than the evening actually was. A stray dog that had been growling at passersby near the alley mouth all evening, enough to make more than one person cross to the far side of the square rather than pass too close, wandered over toward the amp he used as a seat sometime during the third song. It sniffed once at his bare foot, seemed to reconsider whatever wariness had driven it all evening long, and settled down beside it without further complaint, tail thumping once against the cobblestones.
+
+Then, mid-song, without any warning Yara could point to afterward, he stopped. His smile did not fade so much as simply pause, his fingers going still on the strings, his head tilting toward the darkening sky as though he had caught some sound beneath the ordinary noise of the square — something with no harmony in it at all. Yara followed his gaze out of curiosity and saw nothing but the first stars coming out over the rooftops, ordinary and unremarkable. She looked back down in time to see him shake his head once, a small, private gesture, and pick the melody back up exactly where he had left it, and keep playing as though nothing at all had happened.
+
+She finished closing her stall a few minutes later, well after the last of his coins had settled in his open case, and left the square without ever learning his name. He was still playing when she rounded the corner out of sight, the same easy, unhurried tune following her most of the way down the street before the ordinary noise of the city finally swallowed it whole.
