@@ -72,6 +72,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 6 (B1C04 completo: Report, Pride, Question, Tower) — 4 → 8 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap06_EN.md`, 2.257 palabras. APPROVED por Codex tras 2 rondas. Primer capítulo del Libro I centrado enteramente en Belial (POV único, sin separadores `---` — usa encabezados `##` para cambios de escena/localización dentro del mismo personaje-ancla). Primera aparición de Foras en el Libro I.
+
 1. **Los juegos de la corte** (nuevo, categoría: textura de mundo/política) — intriga y rivalidad menor entre cortesanos de Hell antes de que llegue el informe sobre Solmire.
 2. *The Report* (original)
 3. **Un nombre escuchado de pasada** (nuevo, categoría: personaje secundario — ficha existente; ampliado 2026-08-10, categoría 5 — diálogo real) — un subordinado de Belial (**Foras**, "Commander / Spiritual Plague", ficha ya escrita y sin usar) comenta, sin dirigirse a nadie en particular: *"Cuentos de fantasmas, para asustar a quien todavía cree en algo."* Belial, sin volverse hacia él, responde con calma que no admite réplica: *"Entonces alégrate de no creer en nada, Foras. Así no tendrás nada que perder cuando resulte ser cierto."* El comentario de Foras pica más el orgullo de Belial de lo que pretendía.
