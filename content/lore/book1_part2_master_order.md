@@ -42,7 +42,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 32 | B1C19 — "A Truth Offered" (POV coral: Iofiel, Miguel, Gabriel) | `book1_part2_expanded_beats.md` | `B1C19_EN.md` | ✅ Escrito y APPROVED (2.373 palabras, 3 rondas) |
 | 33 | B1C20 — "The Master of Lament" (POV Belial) | `book1_part2_expanded_beats.md` | `B1C20_EN.md` | ✅ Escrito y APPROVED (2.253 palabras, 2 rondas) |
 | 34 | B1C21 — "The Summit" (título original "The Seer on the Summit" renombrado tras revisión — "Seer" filtraba identidad) | `book1_part2_expanded_beats.md` | `B1C21_EN.md` | ✅ Escrito y APPROVED (2.075 palabras, 2 rondas) |
-| 35 | B1C22 — "The Eve of Ruin" (POV coral: sala de guerra, Gabriel, Miguel) | `book1_part2_expanded_beats.md` | `B1C22_EN.md` | Pendiente — cierra la Parte 2 |
+| 35 | B1C22 — "The Eve of Ruin" (POV coral: sala de guerra, Gabriel, Miguel) | `book1_part2_expanded_beats.md` | `B1C22_EN.md` | ✅ Escrito y APPROVED (2.249 palabras, 2 rondas) — 🎉 PARTE 2 COMPLETA |
 
 ## Parte 3 (sin ambigüedad de orden — clímax lineal, 6 capítulos)
 
