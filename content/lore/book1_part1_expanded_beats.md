@@ -56,6 +56,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 5 (B1C03 beats 2-5: Gates, Judgment, Doubt, Silence) — 4 → 8 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap05_EN.md`, 2.257 palabras. APPROVED por Codex tras 2 rondas (contradicción sobre la causa de la caída de Nael, POV colectivo de Mira, separador --- faltante). Primera aparición de Nael (cae heroicamente, sobrevive) y de Mira (refugiada nueva). 5 secciones POV: Joran (soldado nuevo) → Mira (refugiada nueva) → Raphael → Miguel → Uriel.
+
 1. **El coste del viejo modo de guerra** (nuevo, categoría: batalla más épica + personaje secundario; ampliado 2026-08-10, categoría 5 — diálogo real) — antes de la intervención de Miguel, un momento con bajas nombradas concretas entre la tropa (usando a **Nael**, "Squad Leader / Battle Motivation", ficha ya existente y sin usar). Un soldado más joven, a su lado, le grita que se retire; Nael, sin dejar de sostener la línea, contesta: *"Si me retiro yo, se retiran todos. Todavía no."* Cae segundos después. Su caída heroica da peso real a que la intervención de Solmire se sienta como rescate, no solo espectáculo.
 2. *The Gates of Zaphor'el* (original)
 3. *Solmire's Judgment* (original)
