@@ -246,4 +246,4 @@ Según el mandato original del usuario ("una vez finalizado si llegas, darle otr
 
 ## 🎉 PARTE 1 DEL LIBRO I COMPLETA (Capítulos 1-12, 12 capítulos, ~27.150 palabras totales, todos APPROVED por Codex, 2026-08-13 a 2026-08-14)
 
-**Pendiente inmediato**: reconstruir el orden maestro de lectura completo del resto del Libro I (Partes 2-3 originales B1C11-B1C28 + 5 tramas nuevas intercaladas) leyendo `book1_part2_restructure_proposal.md` y `book1_new_subplots_beats.md` — si el orden de intercalado no queda claro tras leer esos documentos, preguntar al usuario explícitamente en vez de asumir, antes de escribir cualquier capítulo más allá de la Parte 1.
+**Orden maestro de la Parte 2-3 confirmado con el usuario (2026-08-14)**: ver `book1_part2_master_order.md` — tracker vivo de los 41 capítulos-unidad restantes (35 de la Parte 2 intercalada + 6 de la Parte 3, de los cuales B1C28 ya está escrito y APPROVED). Próximo capítulo a escribir: **B1C11 ("The Devil's Gambit")**, primero de la lista. Los 6 archivos `B1L0N_EN.md` existentes son borradores de calibración obsoletos (pre-beat-planner) y deben reescribirse por completo al llegar a ellos, no editarse.
