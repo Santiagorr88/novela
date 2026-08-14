@@ -8,7 +8,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 
 | # | Capítulo | Fuente de beats | Archivo de prosa | Estado |
 |---|---|---|---|---|
-| 1 | B1C11 — "The Devil's Gambit" (POV Belial) | `book1_part2_expanded_beats.md` | `B1C11_EN.md` | Pendiente |
+| 1 | B1C11 — "The Devil's Gambit" (POV Belial) | `book1_part2_expanded_beats.md` | `B1C11_EN.md` | ✅ Escrito y APPROVED (2.263 palabras, 3 rondas) |
 | 2 | B1C12 — "Dreams of Laughter" (POV Miguel) | `book1_part2_expanded_beats.md` | `B1C12_EN.md` | Pendiente |
 | 3 | B1C13 — "The Price of Truth" (POV Belial) | `book1_part2_expanded_beats.md` | `B1C13_EN.md` | Pendiente |
 | 4 | L1 — "El primer umbral" (POV Belial) | `book1_lament_arc.md` | `B1L01_EN.md` | **REESCRIBIR** — existe borrador de calibración (2.016 palabras, 3-4 beats), por debajo del target actual de 6 beats/2.250-3.000 palabras. Reescribir desde el beat-plan replanificado, no editar el existente. |
