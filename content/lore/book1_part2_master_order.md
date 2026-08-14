@@ -16,7 +16,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 6 | L3 — "Those Waiting for a Stumble" / "Los que esperan un tropiezo" (POV Belial/Nyx/Belial) | `book1_lament_arc.md` | `B1L03_EN.md` | ✅ Escrito y APPROVED (2.247 palabras, 2 rondas) |
 | 7 | L4 — "The Descent" / "El descenso" (POV Belial + testigos mortales/angélicos) | `book1_lament_arc.md` | `B1L04_EN.md` | ✅ Escrito y APPROVED (2.332 palabras, 2 rondas) |
 | 8 | L5 — "The True Tomb" / "La tumba verdadera" (POV Belial) | `book1_lament_arc.md` | `B1L05_EN.md` | ✅ Escrito y APPROVED (2.258 palabras, 4 rondas) — Belial reclama Lament |
-| 9 | L6 — "Lo que cuesta ganar" (POV Belial + convergencia angélica) | `book1_lament_arc.md` | `B1L06_EN.md` | **REESCRIBIR** — borrador de calibración (1.315 palabras). Cierra el arco de Lament; siembra F1. |
+| 9 | L6 — "What Winning Costs" / "Lo que cuesta ganar" (POV Belial + convergencia angélica) | `book1_lament_arc.md` | `B1L06_EN.md` | ✅ Escrito y APPROVED (2.229 palabras, 2 rondas) — **🎉 ARCO DE LAMENT COMPLETO (L1-L6)** |
 | 10 | V1 — "Lo que no debía arder" (POV Krass) | `book1_new_subplots_beats.md` (Trama 1) | `B1V01_EN.md` | Pendiente |
 | 11 | V2 — "Un don sin nombre" (POV Corin Vasse, nuevo) | `book1_new_subplots_beats.md` (Trama 1) | `B1V02_EN.md` | Pendiente |
 | 12 | V3 — "El rastro que no debería estar ahí" (POV Sariel) | `book1_new_subplots_beats.md` (Trama 1) | `B1V03_EN.md` | Pendiente |
