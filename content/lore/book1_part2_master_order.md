@@ -23,7 +23,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 13 | V4 — "Lo que el deseo promete" (POV Vual) | `book1_new_subplots_beats.md` (Trama 1) | `B1V04_EN.md` | ✅ Escrito y APPROVED (2.275 palabras, 1 ronda) |
 | 14 | V5 — "Dos ofertas" (POV compartido Corin/Sariel) | `book1_new_subplots_beats.md` (Trama 1) | `B1V05_EN.md` | ✅ Escrito y APPROVED (2.292 palabras, 4 rondas) — **🎉 TRAMA VUAL COMPLETA (V1-V5)**, hilo retomable en Libro II/III |
 | 15 | B1C15 — "A Fissure in the Light" (POV coral, Consejo de Emergencia) | `book1_part2_expanded_beats.md` | `B1C15_EN.md` | ✅ Escrito y APPROVED (2.390 palabras, 4 rondas) |
-| 16 | N1 — "Lo que el coro no canta" (expande B1C16, POV Kurel/Daith) | `book1_new_subplots_beats.md` (Trama 3) | `B1N01_EN.md` | Pendiente — sustituye a B1C16 |
+| 16 | N1 — "Lo que el coro no canta" (expande B1C16, POV Kurel/Daith) | `book1_new_subplots_beats.md` (Trama 3) | `B1N01_EN.md` | ✅ Escrito y APPROVED (2.235 palabras, 2 rondas) — sustituye a B1C16 |
 | 17 | N2 — "La discrepancia" | `book1_new_subplots_beats.md` (Trama 3) | `B1N02_EN.md` | Pendiente |
 | 18 | N3 — "Lo que se queda sin nombre" (cierre) | `book1_new_subplots_beats.md` (Trama 3) | `B1N03_EN.md` | Pendiente — primera mención ambigua de "algo" (nunca "Thamorak" en página) |
 | 19 | T1 — "La isla que no aparece en ningún mapa" (POV Cassiel) | `book1_new_subplots_beats.md` (Trama 2) | `B1T01_EN.md` | Pendiente |
