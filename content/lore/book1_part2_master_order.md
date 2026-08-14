@@ -48,7 +48,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 
 | # | Capítulo | Fuente de beats | Archivo de prosa | Estado |
 |---|---|---|---|---|
-| 36 | B1C23 — "The Despairing Front" (POV Camael) | `book1_part3_expanded_beats.md` | `B1C23_EN.md` | Pendiente |
+| 36 | B1C23 — "The Despairing Front" (POV Camael) | `book1_part3_expanded_beats.md` | `B1C23_EN.md` | ✅ Escrito y APPROVED (2.285 palabras, 2 rondas) |
 | 37 | B1C24 — "The Sundered Sky" (multi-POV) | `book1_part3_expanded_beats.md` | `B1C24_EN.md` | Pendiente |
 | 38 | B1C25 — "The Resonance" | `book1_part3_expanded_beats.md` | `B1C25_EN.md` | Pendiente |
 | 39 | B1C26 — "The Fall" | `book1_part3_expanded_beats.md` | `B1C26_EN.md` | Pendiente |
