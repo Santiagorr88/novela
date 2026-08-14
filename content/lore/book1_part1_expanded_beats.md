@@ -40,6 +40,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 4 (B1C02 beats 4-5 + B1C03 beat 1 + Remiel) — 4 → 8 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap04_EN.md`, 2.259 palabras. APPROVED por Codex tras solo 2 rondas — la más limpia hasta ahora (contradicción lógica en la apuesta de Camael, 1 metáfora apilada, 1 cabeceo puntual). Primeras apariciones de Camael y Remiel en el Libro I; Camael mostrado en su registro más joven/bromista (consistente con ser el punto cronológicamente más temprano de toda la saga, antes de la disciplina contenida que muestra en Libros II-III).
+
 1. **La apuesta de Camael** (nuevo, categoría: personaje secundario; ampliado 2026-08-10, categoría 5 — diálogo real) — Camael, camino al Overlook, hace una apuesta socarrona con un soldado a su lado: *"Diez a que se le cae de la mano antes de aterrizar."* El soldado, sin atreverse a reír del todo, contesta: *"¿Y si acierta, comandante?"* Camael se encoge de hombros: *"Entonces tendré que dejar de dudar de él, para variar."* — establece su voz escéptica antes de presenciar el poder inquietante.
 2. *The First Swing* (original)
 3. **El primer silencio** (nuevo, categoría: textura) — el momento inmediato tras la masacre, visto por un soldado raso anónimo, distinto del análisis más frío de Camael — puro asombro-horror desde abajo en la jerarquía.
