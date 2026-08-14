@@ -1,0 +1,77 @@
+# B1C19 – A Truth Offered
+
+## The Summons
+
+Gabriel found his brother exactly where he had feared he might, the Bastion's private quarters dark save for a single guttering lamp, Solmire discarded against the far wall where Miguel had apparently kicked her sometime in the hours since his return. Miguel sat slumped in a chair angled away from the blade, staring at nothing in particular, and did not look up when Gabriel entered.
+
+Gabriel crossed the room slowly, taking in the state of him with a care he had not allowed himself to show in front of the soldiers who had watched Miguel's unraveling in the field days earlier. His brother looked, in this light, like something considerably older than the centuries he had actually lived, hollowed out in a way Gabriel had not seen on him even in the war's earliest, hardest years.
+
+He had come here already carrying more than he wanted to admit to anyone, Iofiel's message arriving at the worst possible hour of a day that had offered him no good ones. Every report from the last several weeks had funneled through his own desk eventually — Belial's return with Lament confirmed, Miguel's growing unreliability in the field, and now this, whatever this actually was. He had learned, across centuries of command, to set his own exhaustion aside until the moment allowed for it. Looking at his brother now, he judged that moment was still some distance off.
+
+"Iofiel needs to speak with both of us," Gabriel said, keeping his voice level, the same careful register he had spent centuries cultivating for exactly this kind of moment. "Tonight. She says it can't wait."
+
+Miguel did not answer immediately, and when he did, his voice carried none of its usual weight. "I have nothing left to give a council, Gabriel. Whatever she's found, take it to someone who can still hold a sword without flinching."
+
+"This isn't a council." Gabriel crouched to bring himself level with his brother's downturned gaze, an old habit from their earliest years together that he had never fully outgrown. "She thinks she's found the reason Solmire does what she does. Not a theory. An answer." He let the words settle a moment before continuing. "If there's a chance this explains what's happening to you, I need you to hear it. Not for the war. For yourself."
+
+Something in Miguel's posture shifted, fractionally, at that — not hope exactly, Gabriel judged, watching him, but something adjacent to it, the first flicker of attention Miguel had shown toward anything since the Bastion's threshold had swallowed him hours earlier. He rose without further argument, leaving Solmire where she lay against the wall, and Gabriel chose not to comment on that either, understanding well enough that whatever tonight held, his brother was not yet ready to carry the blade back into it.
+
+They walked the corridor toward Miguel's receiving chamber in silence, Gabriel matching his own pace to his brother's slower one without remarking on it. He had walked this same corridor beside Miguel more times than he could easily count, in seasons considerably better than this one, and found himself, despite everything currently weighing on him, grateful at least that his brother had agreed to come at all. Whatever waited in that chamber, he suspected they would both need each other intact enough to hear it through to the end.
+
+## The Revelation
+
+Iofiel waited for them in Miguel's own receiving chamber rather than any formal council room, the fragment of the *Codex Mortalis* resting carefully on the table before her, its silver-lit script still faintly glowing in the low light. She rose as the brothers entered, taking in Miguel's evident state without comment, and gestured them both toward the chairs opposite her own.
+
+She did not ease into the subject the way she might have with a less urgent finding. She had turned over, in the hours since leaving her scriptorium, every gentler way of framing what the Codex had told her, and had abandoned each one in turn as a disservice to the two men who most needed to hear it plainly. Softening the words would only cost them time they could not currently afford, and she had spent enough of her own strength wresting the sentence free of the text to have no patience left for delivering it gently.
+
+She read the line aloud instead, her voice steady even as she watched its effect land across both their faces in real time.
+
+*"Three were forged before time; one to judge, one to suffer, and one to create."*
+
+The silence that followed was absolute, more complete than any pause Iofiel could recall sitting through in all her long years of delivering difficult findings. Neither brother spoke. Neither, for several long moments, appeared to move at all. She let the silence hold, offering nothing further, some old instinct telling her that whatever came next needed to arrive from them, not from her.
+
+She studied the fragment once more while she waited, though she had long since memorized every word it contained. It gave her somewhere to look that was not either brother's face, a small mercy she allowed herself in a room that currently held very few of them. Whatever came of tonight, she suspected the silence itself would remain, for her, one of the more difficult parts to recall afterward.
+
+## Miguel's Reaction
+
+Miguel did not feel surprise, sitting with the words Iofiel had just spoken. He felt only a resignation so complete it left almost no room for anything else, the particular exhaustion of a man who had run out of capacity to absorb any further weight.
+
+He laughed once, a single harsh sound entirely without humor, and looked down at his own hands as though they belonged to someone else. "The laughter... the pain..." he said quietly, half to himself. He had understood, days ago in the aftermath of Zaphor'el, exactly what Solmire's amusement at his own dream had actually meant. He understood now, sitting here, precisely what that amusement had been aimed at all along — not him, not really. Something forged before time had no particular reason to care about the man currently holding its hilt.
+
+"I wasn't chosen," he said, louder now, though the volume did nothing to steady his voice. "Whatever I told myself, whatever anyone told me when they handed her over — I wasn't chosen for anything. I was just the first fool who happened to be standing close enough to pick her up." He turned the thought over once more, searching for some flaw in it that might soften the conclusion, and found none. A blade forged before the Divine Word itself had no need of a worthy hand. It needed only a hand, and his had simply been the one available.
+
+He thought back, sitting there, over every battle he had fought since Solmire first came into his keeping, every moment he had credited to his own skill or his own conviction rather than to whatever the blade had actually been doing beneath his grip the whole time. The recollection offered him nothing he wanted. Years of service, years of a reputation he had built believing it was earned, and none of it, he understood now, had ever required him specifically. Any hand would have done. He simply happened to be the one history had settled on.
+
+He looked up at Gabriel and Iofiel in turn, some last, frayed thread of himself still expecting one of them to offer a correction he could actually believe. Neither did. He was not certain, watching their faces, whether that silence disappointed him or merely confirmed what he had already decided was true.
+
+## What Gabriel Understood
+
+Gabriel listened to his brother's words without interrupting, and felt the shape of the prophecy settle into him along a considerably different line than it had evidently settled into Miguel. Where his brother heard confirmation of his own smallness, Gabriel heard something closer to a summons — a call to understand an enemy that had, until tonight, worn only Belial's face.
+
+The war had changed, sitting in this room, in ways he suspected neither Miguel nor Iofiel had yet fully reckoned with. Belial was no longer the whole of what they faced. He wielded Lament, yes, but Lament itself was a piece of something considerably older and considerably less interested in the particular grievances of Hell's current rebellion — an instrument forged for suffering long before Belial had existed to claim it as his own. Solmire, sitting discarded against a wall in the next room, was cut from the same ancient cloth. Whatever war Heaven believed itself fighting against Hell, a second war had apparently been running beneath it the entire time, one whose actual terms neither side had ever been told.
+
+He turned the strategic shape of it over methodically, the way he turned over any problem that arrived wearing the shape of a crisis. Every plan Heaven's command had built around containing Belial assumed an enemy with recognizable motives, a rebellion with grievances that could eventually be answered or exhausted. Nothing in tonight's revelation supported that assumption any longer. If Lament and Solmire answered to a purpose older than either side's current quarrel, then every strategy built on the old assumption was, at best, incomplete, and at worst, entirely beside the point.
+
+Gabriel felt his own face harden with the full weight of that understanding, a hardening he did not attempt to soften for his brother's benefit. If these weapons answered to some purpose older than either side of the current conflict, then containing that purpose — whatever it ultimately required — outweighed every loyalty he had built his service around, including, he acknowledged to himself with a coldness that startled even him, his loyalty to the brother currently sitting across from him. He had never let that particular thought take concrete shape before tonight. It took shape now, quietly and completely, and he did not immediately try to talk himself out of it.
+
+He glanced once at Miguel, still sunk in his own private reckoning a few feet away, and felt the full discomfort of what he had just privately decided settle in alongside the decision itself. He had spent his entire service believing his loyalty to his brother and his loyalty to Heaven's cause ran in the same direction, never once tested against each other in any way that mattered. Sitting here now, he understood that assumption had simply never been challenged before, not that it had ever actually been true.
+
+He thought back over every command decision he had made across the centuries of their shared service, searching for the moment that assumption should have first been tested and never was. He found none that qualified, not truly — every previous crisis had arrived with its lines already drawn clearly enough that loyalty to his brother and loyalty to his duty had simply never needed separating. Tonight offered him no such clarity. Whatever came of the prophecy Iofiel had just read aloud, he suspected the two loyalties he had always treated as a single thing were about to become considerably harder to keep bound together.
+
+He said none of this aloud. There would be time enough later, he told himself, for a conversation neither of them was currently prepared to survive.
+
+## What Iofiel Saw Between Them
+
+Iofiel watched the same revelation land in two entirely different places, still holding the fragment loosely in one hand. Miguel had folded further into himself with every passing minute, the resignation on his face looking, to her eye, considerably closer to collapse than to acceptance. Gabriel, beside him, had gone the opposite direction entirely, his posture straightening by degrees into a stillness she recognized from council chambers and battlefields alike — the particular quiet of a man arriving at a decision he did not yet intend to speak aloud.
+
+She said nothing to either of them. There was nothing, she judged, that her own voice could usefully add to whatever was currently happening between the two brothers, and she suspected that speaking now would only interrupt something that needed, however painfully, to finish happening on its own terms. She had spent three days coaxing this truth out of a text that had resisted her at every turn, certain the effort alone would be the hardest part of tonight. Sitting here now, watching Miguel and Gabriel drift toward two futures she doubted either of them had fully recognized yet, she understood for the first time exactly how much larger the actual cost was going to be.
+
+She had delivered difficult findings before, across centuries of service to the Codex's slow reconstruction, and had always been able to console herself afterward with the thought that knowledge, however painful, ultimately served whoever received it better than ignorance would have. She found no comfort in that thought tonight, watching two brothers who had entered this room together drift, in the space of a single sentence, toward two futures that no longer obviously included each other.
+
+## An Unanswered Question
+
+Iofiel watched Miguel's gaze drift past her toward the doorway that led back to his own quarters, toward Solmire still lying where he had left her against the far wall. Something in his expression settled, in that moment, into something quieter than despair, though she could not have said with any confidence what exactly that quiet meant to him. "And the third?" he asked, turning back to her. "The one that creates?"
+
+She held his gaze a moment before answering, aware of nothing useful she could offer him beyond the plain truth. "The text was too damaged. I do not know."
+
+The words hung in the room a long moment, neither brother offering anything to fill the silence that followed them. She turned the shape of the unanswered question over in her own mind — a third weapon, forged for creation rather than judgment or suffering, its nature and its whereabouts alike entirely unknown to her. It struck her, sitting there in the silence her own answer had left behind, as a prospect considerably more frightening than anything the Codex had told them so far.
