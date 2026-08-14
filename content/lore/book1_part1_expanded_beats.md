@@ -151,6 +151,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 11 (B1C08 beats 4-5 + B1C09 beats 1-2) — 4 → 8 beats
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** Archivo: `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap11_EN.md` — "Crossings" — 2,277 palabras, APPROVED tras 2 rondas Codex. Secciones POV: Miguel (The First Doubt) --- Camael (What Camael Doesn't Say) --- Miguel (A Hollow Victory) --- Ophaniel (A Report Heaven Doesn't Want) --- Sariel, bloque continuo con separadores `##` (An Unshakeable Memory / Old Halls, New Fears / Observation / A Name Almost Spoken). No introduce personajes nuevos con ficha propia (Aziel aparece como colega breve de Sariel, sin ficha).
+
 1. *The First Doubt* (original)
 2. **Lo que Camael no dice** (nuevo, categoría: escalada de personaje; ampliado 2026-08-10, categoría 5 — diálogo real) — reacción privada de Camael a este segundo incidente, distinta (más grave) que su inquietud del Capítulo 4. Jeremiel, ya bajo su mando, se atreve a preguntarle si algo va mal; Camael tarda en contestar: *"Va mal desde hace tiempo. Solo que hoy empezó a notarse."* Jeremiel no insiste — primer indicio, sembrado con antelación, de la confianza entre ambos que da peso real a la pérdida de Jeremiel en el Capítulo 23.
 3. *A Hollow Victory* (original)
