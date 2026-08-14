@@ -1,0 +1,71 @@
+# B1C24 – The Sundered Sky
+
+## Uriel's Gambit
+
+Uriel abandoned the outer perimeter without hesitation, sacrificing ground he would ordinarily have died defending in order to consolidate what remained of his scattered forces around pockets of spiritual static he hoped might interrupt Lament's reach. He had spent every council session since this war began arguing for exactly the kind of decisive, aggressive action tonight finally demanded of him, and found himself, standing at the edge of a line already buckling under despair rather than steel, with no appetite left for half measures.
+
+He had identified the static pockets days earlier, scattered remnants of some older working whose original purpose no one currently serving could confidently name, and had filed the knowledge away without any particular use in mind at the time. Tonight that idle cataloguing had become the only tactical advantage he could currently claim, ground where whatever carried Lament's despair outward seemed, by every report reaching him, to thin and falter before it could take full hold. He staked his remaining forces around those pockets without hesitation, trusting an advantage he did not fully understand over a strategy he understood perfectly and had already watched fail everywhere else tonight.
+
+He gathered what remained of his scattered command as they fell back toward the static pockets, soldiers arriving in twos and threes from lines that had already buckled elsewhere, exhaustion and something considerably darker written plainly across faces he had commanded through easier nights than this one. He offered them no speech, no rallying words of the kind he usually trusted to steady a retreating formation. There was no time left tonight for speeches, and he suspected, watching them regroup with what discipline they still had left, that speeches were no longer the thing any of them actually needed from him.
+
+He raised Ignis Lux himself for the first time, not as an order relayed to soldiers better suited to the work, but as an act his own hands intended to carry out directly. Fire poured from the halberd's edge in a wave that tore a genuine breach through the demonic line, flame that reached, he understood even as he unleashed it, for something considerably deeper than mere destruction — a purification aimed at the very root of whatever despair Lament had planted in every soul it touched.
+
+It was not the clean victory he had spent volumes of council rhetoric promising his fellow commanders across the length of this war. Every soldier his fire touched, demon or angel caught in the breach's wide arc, did not rise again once the flame had passed. His purification distinguished nothing, consumed everyone caught within its reach with the same indifferent thoroughness.
+
+He had always spoken of Ignis Lux as a scalpel, precise enough to cut only where cutting was actually required. Tonight it burned like nothing so careful, indiscriminate in a way none of his considerable rhetoric across countless councils had ever once prepared him to expect from his own weapon. He stood amid the breach he had just carved, watching soldiers on both sides of the line he had erased fail to rise, and felt a question forming in him he had never once let himself ask before tonight — whether every speech he had ever given about swift, decisive war had actually been fear, carefully dressed in conviction, of discovering exactly this about the flame he carried.
+
+He had no immediate answer for himself, and no time remaining tonight to search for one properly. The breach held, at least, whatever its cost had actually been. He turned back toward the rest of his consolidating line, carrying the question forward unanswered alongside everything else tonight had already cost him.
+
+## Raphael's Sanctuary
+
+Raphael worked without pause inside a celestial infirmary hastily converted into something closer to a sanctuary, Veritas glowing steady in his grip as he moved from one broken spirit to the next, offering what restoration he could to soldiers whose bodies had survived the night considerably better than their souls had. The despair Lament had carried into this battle did not respond to his usual methods the way physical wounds did. He worked anyway, patient and unhurried, because patience was the only tool he had ever trusted more than force.
+
+He knelt beside a soldier who had arrived among the first wave, a veteran he recognized from campaigns considerably older than tonight's crisis, and pressed Veritas gently against a chest that rose and fell steadily enough despite the emptiness written plainly across the soldier's face. The staff's light found what remained of the man's own will to continue and coaxed it, gradually, back toward something resembling presence. It was slow work, considerably slower than any physical healing Raphael had ever performed, and he gave it the same unhurried attention regardless, aware that rushing this particular kind of restoration risked losing whatever fragile progress each careful minute actually bought.
+
+He felt the losing shape of the battle even here, removed as this sanctuary was from the fighting itself, in the sheer volume of soldiers arriving faster than he could restore them, each new arrival adding to a queue that showed no sign of shortening no matter how steadily he worked through it. He had faced overwhelming tides before across his long service, had always found some way to hold a line against them through sheer, unglamorous persistence. Tonight offered him nothing so encouraging.
+
+He glanced up, briefly, at the line of newly arrived soldiers still waiting for whatever attention he could eventually spare them, and calculated, with the same clear-eyed honesty he brought to any assessment of a difficult situation, exactly how far behind that arithmetic had already left him. For every soul he coaxed back from whatever hollow Lament had left behind, two more arrived in the same condition. He returned his attention to the soldier still under Veritas's glow rather than dwelling further on the calculation, understanding that whatever ground he was steadily losing elsewhere, the one soul currently in front of him still deserved the whole of his attention regardless.
+
+Raphael understood, working through the exhaustion settling into his own hands, that persistence alone was not going to be enough to win this particular battle, however much of it he still had left to give. He kept working anyway. It was, in the end, the only answer he had ever known how to give a losing fight.
+
+## The Weight of Blind Command
+
+Gabriel stood over the command table at the center of the Bastion's war room, reports arriving from Uriel, from Raphael, from a dozen other fronts scattered across the length of tonight's engagement, none of them arranging themselves into anything resembling a coherent picture. It was not one battle he was attempting to hold in his mind. It was fifteen, each one collapsing in its own particular way, and Gabriel alone stood at the center of all of them, trying to carry every thread at once with information too fragmented to support any single confident decision.
+
+Voices layered over each other from every direction, aides relaying fragments of Uriel's breach, of Raphael's overwhelmed sanctuary, of fronts further afield whose names Gabriel could barely keep straight against the sheer volume of everything else demanding his attention in the same breath. He had commanded through chaos before, had learned across centuries of service to find the single thread worth pulling amid a tangle considerably less complicated than tonight's. Nothing in that experience had prepared him for fifteen fronts collapsing at once, each one insisting, in its own particular voice, that it alone deserved whatever attention he had left to spare.
+
+An aide approached him with a question he had been half-expecting for the last several minutes. "Should we prepare a general withdrawal order?"
+
+"Not yet." Gabriel did not lift his eyes from the map spread before him.
+
+The aide did not retreat immediately. "And if 'not yet' becomes 'too late'?"
+
+Gabriel had no ready answer for that. He held the aide's question in the same silence he had been holding everything else tonight, and understood, standing there with no response forming despite the seconds stretching uncomfortably long between them, that the silence itself said more than any answer he could have manufactured under this kind of pressure.
+
+The aide did not press further, retreating instead to whatever station awaited the next round of incoming reports, and Gabriel returned his own attention to the map without having offered anything more concrete than the silence already had. He did not know yet whether tonight would end in retreat. He knew only that the moment he stopped believing "not yet" remained true, the cost of having waited too long to say so would fall on considerably more than himself alone. He filed the exchange away regardless, some part of him already certain it would not be the last time tonight the same question found its way back to him.
+
+## The Path of Judgment
+
+A demon soldier caught in the war's shifting currents saw the silent light before he understood what it actually was — a comet of judgment moving through the battlefield with a slow, absolute certainty that unmade everything in its path without so much as pausing to acknowledge resistance. He had fought angels before, had traded blows with soldiers considerably more skilled than himself and lived to describe the encounter afterward. Nothing in that experience prepared him for what moved through the field now.
+
+It did not fight. It simply passed, and where it passed, nothing remained standing that had opposed it, an unmaking so total and so silent that the demon found himself backing away before any conscious decision to retreat had fully formed. He had heard stories, secondhand and half-believed, of a comet of judgment loosed from Heaven's own ranks. Watching the light move now through soldiers he had fought beside only minutes earlier, he understood, with a terror that left no room for anything else, that the stories had considerably understated what they were actually describing.
+
+He pressed himself back against whatever cover the churned ground still offered, weapon forgotten in a grip that had gone slack without his noticing, and watched the light continue its slow, unhurried passage through the remains of a line that had held, only minutes earlier, with considerable confidence. Nothing about its pace suggested urgency. It did not need urgency. Whatever stood in its path simply ceased to stand there, and the demon understood, watching it recede finally into the smoke and distance, that he had just witnessed something no report from any front tonight would adequately manage to convey to anyone who had not stood exactly where he currently stood.
+
+## What They No Longer Recognize
+
+An angelic soldier who had once fought at Miguel's own side, who had cheered his name across a dozen earlier campaigns, watched him pass close by for the first time since whatever had begun changing him first took hold. He did not feel the demon's pure terror, watching the same silent light move through the field. He felt something he had no comfortable name for, a mixture of reverence he still felt duty-bound to offer and a revulsion he could not bring himself to name even privately.
+
+He wanted to call out, to greet Miguel the way he always had across every prior engagement they had shared. He said nothing instead, and let the light pass without acknowledgment, the silence settling into him with a weight he had not expected.
+
+He thought back, standing there in the aftermath of the light's passage, to the Champion he remembered cheering across a dozen earlier campaigns, a figure whose presence alone had once been enough to steady an entire formation's nerve before a fight. Whatever had just moved through the field bore Miguel's shape and carried Miguel's blade, and offered him nothing of that earlier steadiness in return, only a silence he had no framework left to greet with anything but his own.
+
+It was the first time he had ever failed to greet his commander in the field, and the failure sat in him now like a small, genuine crack in something he had never before questioned believing.
+
+## The Challenge Accepted
+
+Belial felt Miguel's approach before he saw any physical sign of it, a line of power moving through the battlefield with a directness that could belong to no one else currently fighting on either side of this war. He halted his own advance, Lament steady in his grip, and sent a pulse of open challenge outward to meet it, undisguised and entirely without subtlety.
+
+This, he understood, was no longer a war fought between two armies. It had narrowed, in this moment, to something considerably older and considerably more personal — a reckoning between two kings, and everything else currently burning across the battlefield around them had become, in the face of that reckoning, almost entirely beside the point.
+
+He held his position and waited, Lament's cold weight settling into a readiness he had spent every hour since the Sepulcher preparing for. Whatever fifteen collapsing fronts meant to the commanders currently scrambling to hold them, none of it mattered to Belial half as much as the single line of power now closing the distance toward him, carrying with it the only opponent left in this entire war Belial still considered worth the honor of a direct challenge.
