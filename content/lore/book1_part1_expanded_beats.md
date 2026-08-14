@@ -166,6 +166,8 @@ Wound → **Los muertos bajo la sal** (nuevo) → Counsel → **La orden del Con
 
 ## Capítulo 12 (B1C09 beats 3-4 + B1C10 completo + Gabriel) — 7 → 10 beats — CIERRE DE LA PARTE 1
 
+**Estado (2026-08-14): PROSA ESCRITA Y APROBADA.** Archivo: `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B1Cap12_EN.md` — "A Silence in Heaven" — 2,254 palabras, APPROVED tras 2 rondas Codex. Secciones POV: Sariel, bloque continuo `##` (The Incident / Whispers Among the Crowd / A Moment of Lucidity) --- Remiel, bloque continuo `##` (The Empty Throne / Those Who Wait Outside — reutiliza a Remiel, ya fichado como capitán de reconocimiento profético, sin necesidad de personaje nuevo) --- Miguel (The Sword's Hum) --- Gabriel, bloque continuo `##` (A Council of Two / The Unthinkable Question / Gabriel Raises Vox Aeternum). Primera manifestación pública y abierta del poder de Arin (detiene el camión); reveal-pacing mantenido — Arin nunca nombrado ni confirmado como entidad concreta, solo inferencia abierta de Sariel. **🎉 PARTE 1 DEL LIBRO I COMPLETA (Capítulos 1-12, todos APPROVED).**
+
 1. *The Incident* (original)
 2. **Susurros entre la multitud** (nuevo, categoría: consecuencia) — testigos hablando de "el chico que detuvo el tiempo" — el rumor empieza a extenderse más allá de la vigilancia de Sariel, sembrando complicación futura.
 3. *A Moment of Lucidity* (original)
