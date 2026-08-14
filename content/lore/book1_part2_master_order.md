@@ -32,7 +32,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 22 | T4 — "Lo que ninguno de los dos se queda" (cierre, dual POV) | `book1_new_subplots_beats.md` (Trama 2) | `B1T04_EN.md` | ✅ Escrito y APPROVED (2.339 palabras, 4 rondas) — **🎉 TRAMA TUREIN COMPLETA (T1-T4)** |
 | 23 | F1 — "El precio de la ausencia" (POV Malthus) | `book1_new_subplots_beats.md` (Trama 5) | `B1F01_EN.md` | ✅ Escrito y APPROVED (2.411 palabras, 4 rondas) |
 | 24 | F2 — "Lo que la marea husmea" (POV Stolas) | `book1_new_subplots_beats.md` (Trama 5) | `B1F02_EN.md` | ✅ Escrito y APPROVED (2.390 palabras, 4 rondas) |
-| 25 | F3 — "Una guerra que nadie declara" (cierre) | `book1_new_subplots_beats.md` (Trama 5) | `B1F03_EN.md` | Pendiente — siembra explícita para Libro II/III (primera grieta en el frente de Hell) |
+| 25 | F3 — "Una guerra que nadie declara" (cierre) | `book1_new_subplots_beats.md` (Trama 5) | `B1F03_EN.md` | ✅ Escrito y APPROVED (2.296 palabras, 2 rondas) — **🎉 TRAMA FORAS VS. VEPAR COMPLETA (F1-F3)** |
 | 26 | B1C17 — "The Irreverent Judgment" (POV Miguel) | `book1_part2_expanded_beats.md` | `B1C17_EN.md` | Pendiente |
 | 27 | H1 — "La grieta que no debería existir" (POV Thoria) | `book1_new_subplots_beats.md` (Trama 4) | `B1H01_EN.md` | Pendiente |
 | 28 | H2 — "Lo que ni él puede controlar" (POV Vem) | `book1_new_subplots_beats.md` (Trama 4) | `B1H02_EN.md` | Pendiente |
