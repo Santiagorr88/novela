@@ -24,7 +24,7 @@ He did not ask what she had found. He asked only whether she had eaten, whether 
 
 She studied him a moment before he reached the door, weighing whether to press him on whatever else had clearly followed him here tonight. She decided against it, some instinct telling her that what she took to be his burden seemed, for now, his alone to carry, the same way whatever the Codex was about to yield belonged, for now, to her.
 
-He left before she had answered, before the text had yielded anything concrete enough to share, and Iofiel found herself, watching the door close behind him, oddly grateful that he had not stayed to see whatever came next. Whatever this text was about to tell her, she suspected it was hers to carry first, and his to receive only once she had already survived the carrying.
+He left before she had answered, before the text had yielded anything concrete enough to share, and Iofiel, watching the door close behind him, felt an odd gratitude that he had not stayed to see whatever came next. Whatever this text was about to tell her, she suspected it was hers to carry first, and his to receive only once she had already survived the carrying.
 
 ## The First Words
 

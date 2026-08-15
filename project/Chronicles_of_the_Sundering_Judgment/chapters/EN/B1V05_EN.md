@@ -38,7 +38,7 @@ Vual's expression did not break, but it shifted by a fraction, as though he were
 
 ## Time Borrowed
 
-Sariel studied him a long moment, weighing his own protocol against everything he had learned across weeks of investigation and one very short, very strange evening. Corin was not a demon wearing a disguise. He was not, by any measure Sariel's training recognized, a threat requiring elimination. He was also not nothing, and Sariel understood, standing there, that no clean category existed for whatever he actually was. The deviation that had started weeks ago at the edge of a cooling battlefield had led him, in the end, to exactly this — a decision with no protocol behind it, made on his own authority and no one else's.
+Sariel studied him a long moment, weighing his own protocol against everything he had learned across weeks of investigation and one very short, very strange evening. Corin was not a demon wearing a disguise. He was not, by any measure Sariel's training recognized, a threat requiring elimination. He was also not nothing, and Sariel understood, standing there, that no clean category existed for whatever he actually was. The deviation that had started weeks ago at the edge of a cooling battlefield had led him, in the end, here — a decision with no protocol behind it, made on his own authority and no one else's.
 
 There would be no clean report for this either, no closure his liaison could log the way every other closure of his long service had been logged. He accepted that without much difficulty. Something in the weeks of patient, unglamorous work that had brought him here had already begun teaching him to accept it, one small unlogged decision at a time, long before tonight forced the largest one yet.
 
