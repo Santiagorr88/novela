@@ -10,7 +10,7 @@ He had expected, walking onto this dead plain, that one of them would eventually
 
 The ash beneath their feet had churned into a fine grey dust by the dozenth exchange, kicked loose by footwork too fast and too evenly matched for either of them to gain the ground they were fighting for. Miguel felt his own arms beginning to protest the sustained effort, a fatigue more physical, this time, than anything Solmire's own influence had added to the fight so far. Belial, across the narrowing distance between them, showed no more sign of tiring than Miguel did, both of them locked into an endurance test that neither weapon seemed inclined to resolve on its own terms.
 
-He had fought longer engagements than this one across the length of his service, had learned across centuries of combat to read the exact moment an opponent's guard began, however subtly, to falter. He read nothing of the kind in Belial tonight. Whatever weakness might eventually decide this duel, Miguel understood, watching Lament turn aside yet another strike with the same maddening precision as the last, it was not going to announce itself through his opponent's blade.
+He had fought longer engagements than this one across the length of his service, had learned across centuries of combat to read the exact moment an opponent's guard began, however subtly, to falter. He read nothing of the kind in Belial tonight. Whatever weakness might eventually decide this duel, Miguel had begun to realize, was not going to announce itself through his opponent's blade — not while Lament kept turning aside every strike with the same maddening precision as the last.
 
 ## The Crack No One Sees Yet
 
@@ -24,7 +24,7 @@ It was not yet the doubt that would break him. It was only the old crack, the on
 
 ## The Seed of Doubt
 
-Belial felt the flicker pass through Miguel before any outward sign of it reached his blade, some old instinct for weakness sharpening his attention the same way it always had against any opponent whose guard had briefly, invisibly, wavered. He did not press the attack physically. He understood, watching Miguel reset his stance a half-second slower than the exchange before it, that whatever had just moved through his opponent belonged to a battlefield more useful to fight on than the physical one.
+Belial felt the flicker pass through Miguel before any outward sign of it reached his blade, a predator's long-honed reflex for weakness sharpening his attention the same way it always had against any opponent whose guard had briefly, invisibly, wavered. He did not press the attack physically. Miguel reset his stance a half-second slower than the exchange before it, and Belial read the delay for what it was — proof that whatever had just moved through his opponent belonged to a battlefield more useful to fight on than the physical one.
 
 He had studied Miguel across the length of this entire war, had watched him from a distance long before either of them ever crossed blades directly, and had noted, across that long observation, a particular quality to Miguel's certainty that had always struck Belial as slightly too polished to be entirely genuine. Tonight's flicker confirmed what he had long suspected without proof. Whatever conviction Miguel wielded Solmire with, some part of it had never fully belonged to the man currently holding her, and Belial intended to find out exactly how much of Miguel's guard that borrowed conviction had actually been propping up.
 
@@ -56,9 +56,9 @@ Lament drove forward in a single, decisive thrust, and Miguel's guard, his stanc
 
 The strike landed with a symbolic weight Belial felt clearly even through his own exhaustion, a blow that broke more than the body currently absorbing it. Something in the air around them shifted at the moment of impact, an old pillar of celestial order cracking somewhere far beyond this single plain, and Belial understood, watching Miguel stagger beneath the strike's full weight, that he had just broken something no simple victory over a single opponent should have been capable of breaking.
 
-He held his own position a moment longer than strictly necessary, studying the aftermath of a blow that had cost him nearly as much as it had evidently cost Miguel, every wound absorbed across the length of this duel now making itself felt in full. His own arm ached from the strike's final delivery, a deep, bone-level fatigue worse than anything the earlier exchanges had cost him, and he allowed himself, for just a moment, to feel the full weight of exactly how close this duel had actually run before it finally broke in his favor.
+He held his own position a moment longer than strictly necessary, letting the aftermath settle — a blow that had cost him nearly as much as it had evidently cost Miguel, every wound absorbed across the length of this duel now making itself felt in full. His own arm ached from the strike's final delivery, a deep, bone-level fatigue worse than anything the earlier exchanges had cost him, and he allowed himself, for just a moment, to feel the full weight of exactly how close this duel had actually run before it finally broke in his favor.
 
-He had won cleaner victories across the length of his existence, had rarely needed to spend this much of himself against a single opponent. Tonight's cost, he judged, watching Miguel's knees finally buckle, had bought him something larger, by far, than a single soldier's defeat, and he found the exchange, weighed against everything it had actually cost him, worth every measure of the price.
+He had won cleaner victories across the length of his existence, had rarely needed to spend this much of himself against a single opponent. Tonight's cost, he judged as Miguel's knees finally buckled, had bought him something larger, by far, than a single soldier's defeat, and he found the exchange, weighed against everything it had actually cost him, worth every measure of the price.
 
 ## The Sword is Lost
 

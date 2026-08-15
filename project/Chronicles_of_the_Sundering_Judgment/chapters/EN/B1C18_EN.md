@@ -10,11 +10,11 @@ The Codex resisted her the way old, stubborn things resisted anything that asked
 
 She had catalogued fragments of considerably younger texts across her long service, records that yielded their contents readily enough once properly coaxed. This one fought her at every stage, each small concession costing more of Memnón's working than the last, until she had begun, by the third day, to wonder whether the resistance itself was a kind of message — whether the Codex withheld itself not from carelessness but from some older instinct toward self-preservation, a text that understood exactly how dangerous its own contents might prove to whoever finally read them whole.
 
-Her hands had begun, sometime in the last hour, to show the particular tremor she associated with a working carried past its comfortable limit. She noted it the way she noted any physical cost of her craft, with a scholar's detachment rather than any real alarm, and pressed the sphere's light a fraction brighter to compensate. Whatever this text ultimately cost her, she had already decided, somewhere in the small hours of the first night, that the cost would be worth paying. She had not yet learned enough to know whether that decision had been wise.
+Her hands had begun, sometime in the last hour, to show the faint tremor she associated with a working carried past its comfortable limit. She noted it the way she noted any physical cost of her craft, with a scholar's detachment rather than any real alarm, and pressed the sphere's light a fraction brighter to compensate. Whatever this text ultimately cost her, she had already decided, somewhere in the small hours of the first night, that the cost would be worth paying. She had not yet learned enough to know whether that decision had been wise.
 
 ## Before It Goes Any Further
 
-Gabriel found her there on the third evening, entering the scriptorium without announcement in a way she had long since stopped finding intrusive. He carried what looked to her like the same particular weight she had noticed settling onto him since Miguel's descent into Solmire's judgment and Belial's return with Lament fully confirmed — a weight that had not visibly lightened in the days since, and showed no sign, from what little she could read of him tonight, of lightening soon.
+Gabriel found her there on the third evening, entering the scriptorium without announcement in a way she had long since stopped finding intrusive. He carried what looked to her like the same weight she had noticed settling onto him since Miguel's descent into Solmire's judgment and Belial's return with Lament fully confirmed — a weight that had not visibly lightened in the days since, and showed no sign, from what little she could read of him tonight, of lightening soon.
 
 He crossed the scriptorium's length without his usual measured pace, and she noted the difference without remarking on it. Whatever had brought him here at this hour, it had not left him time for the careful, deliberate stride she associated with him in calmer seasons. He stopped a short distance from the sphere, close enough to see the fragments turning slowly within it but not so close as to disturb the working itself, a courtesy she appreciated more than she said aloud.
 
@@ -24,7 +24,7 @@ He did not ask what she had found. He asked only whether she had eaten, whether 
 
 She studied him a moment before he reached the door, weighing whether to press him on whatever else had clearly followed him here tonight. She decided against it, some instinct telling her that what she took to be his burden seemed, for now, his alone to carry, the same way whatever the Codex was about to yield belonged, for now, to her.
 
-He left before she had answered, before the text had yielded anything concrete enough to share, and Iofiel, watching the door close behind him, felt an odd gratitude that he had not stayed to see whatever came next. Whatever this text was about to tell her, she suspected it was hers to carry first, and his to receive only once she had already survived the carrying.
+He left before she had answered, before the text had yielded anything concrete enough to share, and the door closing behind him left Iofiel with an odd gratitude that he had not stayed to see whatever came next. Whatever this text was about to tell her, she suspected it was hers to carry first, and his to receive only once she had already survived the carrying.
 
 ## The First Words
 

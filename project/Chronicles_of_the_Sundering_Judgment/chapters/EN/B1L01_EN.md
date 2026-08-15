@@ -2,7 +2,7 @@
 
 ## Across the Threshold
 
-Belial stepped through the portal and felt the battlefield behind him vanish, replaced in the space of a single stride by a silence so complete it pressed against his ears like a physical weight. The Weeping Sepulcher received him without ceremony, without light, without anything resembling a welcome, as indifferent to his arrival as it would apparently be to his departure.
+Belial stepped through the portal and felt the battlefield behind him vanish, replaced in the space of a single stride by a silence so complete it pressed against his ears like a physical weight. The Weeping Sepulcher received him without ceremony, without light — indifferent to his arrival as it would be to his departure.
 
 The ground beneath his boots was black crystal, jagged and uneven, and it chimed faintly with every step he took, a sound too close to weeping for Belial's taste, thin and wavering and utterly without source. The air here was thick in a way no ordinary air had any right to be, heavy on his tongue with the taste of salt and something colder than salt, something he did not yet have a word for. Mourning hung over this whole plane like a mist that never lifted, ancient and undirected, grief with no single grave left to mark.
 

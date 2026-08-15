@@ -32,7 +32,7 @@ A voice reached him from somewhere inside the vision, belonging to no one he cou
 
 The voice did not correct him. It did not offer him comfort or challenge either. It simply repeated the question, once, in the exact same tone it had used the first time. *Why do you want to carry this?*
 
-Belial found, on the second asking, that his answer no longer arrived as quickly. He opened his mouth to repeat the same words and stopped himself, some part of him aware that the question had not actually been asking what he had assumed it was asking. He said nothing further. The silence that followed, stretching long enough that Belial understood no further answer was coming, felt like the only reply the spear meant to give him — and it left him with the uncomfortable sense that his first answer had already told the weapon everything it needed to know about him.
+Belial found, on the second asking, that his answer no longer arrived as quickly. He opened his mouth to repeat the same words and stopped himself. The question, he realized, had not actually been asking what he had assumed it was asking. He said nothing further. The silence that followed, stretching long enough that Belial understood no further answer was coming, felt like the only reply the spear meant to give him — and it left him with the uncomfortable sense that his first answer had already told the weapon everything it needed to know about him.
 
 ## The Almost-Retreat
 

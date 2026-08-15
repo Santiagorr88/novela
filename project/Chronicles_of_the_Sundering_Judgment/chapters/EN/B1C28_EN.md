@@ -40,7 +40,7 @@ Gabriel exhaled like the word cost him a wing. "Miguel will fall into that world
 
 "Hold without his sword, too." Iofiel's voice barely carried, but the room quieted to hear it. "Solmire is lost on Earth. It may be centuries before it's found."
 
-"Centuries." Elom, near the back, let his staff Nodo spark and dim, the broken threads of a hundred severed connections still humming faint through it. "Our lines will be built and rebuilt a hundred times before then."
+"Centuries." Elom, near the back, let his gauntlet Chordis spark and dim, the broken threads of a hundred severed connections still humming faint through it. "Our lines will be built and rebuilt a hundred times before then."
 
 "We have no alternative," Zadkiel said. "If the cycle holds, he returns. If it doesn't—" He didn't finish. Decretum met the floor once, a sound like judgment set carefully down rather than delivered.
 
