@@ -58,7 +58,7 @@ Every eye went to Gabriel. He met each of them in turn, and then he nodded, slow
 
 "Then we will have to be his sword," he said. "Until he can carry it again himself."
 
-No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched his own shadow flicker against the wall, tracing futures that kept refusing to agree with each other.
+No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched her own shadow flicker against the wall, tracing futures that kept refusing to agree with each other.
 
 ## 4. The Victor's Burden
 
@@ -88,7 +88,7 @@ He kept returning, uninvited, to the last exchange: the commander who had thrown
 
 On Earth, in three places that had no reason to notice one another, the same hour turned.
 
-In a border town too small for its own name to matter, a mercenary named Arin Cross went down mid-stride, both hands seizing at nothing, phantom pain lancing through palms that had never once held a spear. He knelt in the dust of a street he didn't remember choosing, breath ragged, certain — with no evidence he could point to — that something enormous had just changed shape somewhere far above him.
+In the quiet upper stacks of Navarion University's library, a young man named Arin Cross went down mid-stride, both hands seizing at nothing, phantom pain lancing through palms that had never once held a spear. He knelt among books scattered across an aisle he didn't remember stumbling into, breath ragged, certain — with no evidence he could point to — that something enormous had just changed shape somewhere far above him.
 
 In a cramped apartment two continents away, a musician named Milo Ray stopped tuning his guitar mid-string, head tilted, chasing a sound no one else in the room could hear: a low, discordant hum, half-broken and strangely creative, like a chord no instrument on Earth had been built to play. He would spend the rest of the night trying, and failing, to find it again.
 
