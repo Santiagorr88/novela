@@ -24,7 +24,7 @@ Miguel was cleaning Solmire when Gabriel found him, the cloth of pure light movi
 
 "The sword speaks the only truth that matters." Miguel's voice came out flat, stripped of whatever old warmth might once have softened it, and he did not pause the cloth's steady motion along the blade. "Whatever I say beyond that is decoration."
 
-Gabriel was quiet for a moment, and Miguel felt the quiet more than he wanted to admit — a held breath, a question Gabriel seemed to be deciding whether to ask at all. When he finally spoke again, he had crossed closer, near enough that Miguel could have reached out and touched his shoulder without moving from where he stood. "You used to know the difference between decoration and the thing that actually held us together." His brother's voice had gone careful, testing ground he clearly expected to give way beneath him. "I'm not sure you do anymore."
+Gabriel was quiet for a moment, and Miguel felt the quiet more than he wanted to admit — a held breath, a question Gabriel seemed to be deciding whether to ask at all. When he finally spoke again, he had crossed closer, near enough that Miguel could have reached out and touched his shoulder without moving from where he stood. "You used to know the difference between decoration and the thing that actually held us together." His brother's voice had gone careful, testing ground Miguel guessed he expected to give way beneath him. "I'm not sure you do anymore."
 
 Miguel finally set the cloth down and met his brother's eyes directly, and found, standing there, that he had no argument ready that did not sound exactly like the flat certainty Gabriel was accusing him of. He opened his mouth once, half-formed words about duty and clarity rising and then dissolving before he could give any of them proper shape. He said nothing. Gabriel left without another word, his footsteps unhurried and even across the chamber floor, and the silence he left behind felt, to Miguel, very much like agreement.
 
@@ -60,7 +60,7 @@ Miguel turned that answer over for longer than he wanted to admit needing to, th
 
 "No," Raphael agreed, very quietly, without hesitation. "But it's the true one, and I think you'd rather have that than the comfortable version."
 
-Miguel did not respond. He kept his eyes fixed on the sword rather than on Raphael, and Raphael, after a long moment of shared silence, rose and retrieved his staff. He left Miguel there, alone again with the hum, and did not ask what had prompted the question in the first place, or press for the answer his silence plainly withheld.
+Miguel did not respond. He kept his eyes fixed on the sword rather than on Raphael, and Raphael, after a long moment of shared silence, rose and retrieved his staff. He left Miguel there, alone again with the hum, and did not ask what had prompted the question in the first place, or press for the answer he suspected that silence was withholding.
 
 ## An Order Given
 

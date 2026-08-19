@@ -54,7 +54,7 @@ Uriel closed the distance next without breaking stride. He clapped a hand to Mig
 
 Gabriel said nothing. He stood a little apart from the others, near enough to see but not near enough to be counted among those pressing close. Gabriel's silence unsettled Miguel for a different reason than Raphael's had. From the fixed attention in his brother's face, Miguel suspected that Solmire's resonance disturbed him. The note admitted no harmony, an aberration within a hall devoted to sacred resonance.
 
-Miguel had grown up, in whatever sense angels could be said to grow up, on his brother's certainty about sound — Gabriel had always been the one who could hear a falsehood in a voice before the speaker himself knew he was lying, the one whose approval of a hymn meant more than any council vote. Gabriel's failure to offer any judgment now unsettled Miguel more than he wanted Uriel or Raphael to see.
+Miguel had grown up, in whatever sense angels could be said to grow up, believing in his brother's certainty about sound — had always taken Gabriel for the one who could hear a falsehood in a voice before the speaker himself knew he was lying, the one whose approval of a hymn meant more than any council vote. Gabriel's failure to offer any judgment now unsettled Miguel more than he wanted Uriel or Raphael to see.
 
 Gabriel did not say any of this aloud. He only watched the sword the way a man watches a door he suspects should not be opened, and said nothing at all when Uriel asked, half in jest, if he wanted to hold it.
 

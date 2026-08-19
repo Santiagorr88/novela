@@ -12,7 +12,7 @@ Camael took the last stretch of the approach at a jog, more out of habit than ur
 
 Camael considered this honestly, the way he considered most things. "I believe he found something in that desert. Whether it's worth the fuss everyone's making, I haven't decided." He had heard three different versions of the story already this morning, each one grander than the last, and trusted none of them more than he trusted his own eyes. He glanced sideways, a grin surfacing despite himself. "Ten says he fumbles it before it even lands a blow."
 
-The soldier hesitated, clearly unsure whether commanders were meant to be wagered against. "And if he's right, commander?"
+The soldier hesitated, a pause Camael read as uncertainty over whether commanders were meant to be wagered against. "And if he's right, commander?"
 
 "Then I'll have to stop doubting him, for once." Camael's grin widened, though something harder sat behind it — not doubt exactly, but the particular caution of a soldier who had watched too many promising weapons turn out to be more trouble than they solved. "Wouldn't be the worst thing to happen this week." He said it lightly enough, but he did not take the wager back.
 
