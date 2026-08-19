@@ -190,6 +190,18 @@ Este es el libro donde la disciplina de reveal-pacing mantenida durante todo el 
 
 ---
 
+## Capítulo B3C10.5 — "Readiness, Not Disobedience" (POV Kushiel) — nuevo, 6 beats
+
+**Contexto**: interludio nuevo, pedido explícitamente por el usuario (2026-08-19) tras una auditoría que encontró que Kushiel nunca había tenido escena propia en los 143 capítulos existentes — cero apariciones. Material ya diseñado en el arco (`arco_argumental_completo.md`, entradas **B3C043-044**), nunca convertido en prosa. Ancla temporal: verificado directamente que la doctrina de Gabriel de "ya no somos los protagonistas" corresponde a B2C36 ("The real war isn't happening in this chamber..."), y que el primer encuentro de Camael con la flota de Vepar es B3C11 (no la numeración aproximada del outline, que no mapea 1:1 con los capítulos reales) — se inserta inmediatamente antes de B3C11, del que es precursor directo.
+
+**Beats**: (1) competencia/disciplina de Kushiel establecida en el campo de entrenamiento de su fuerza de choque → (2) noticia de la doctrina de Gabriel llega, la interpreta como rendición → (3) decisión unilateral, sin pedir autorización, de mover un tercio de su fuerza hacia el mismo borde que Camael está a punto de sostener → (4) reacción de un subordinado (Sachael) → (5) la reasignación silenciosa dejando un déficit que Camael notará pero no podrá explicar a tiempo → (6) cierre sin resolver, "readiness, not disobedience".
+
+**Recuento**: 6 beats · 2.286 palabras.
+
+**Estado**: ✅ Prosa completa en `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B3C10pt5_EN.md`. PASS WITH FIXES (2026-08-19) — ver `chapters/EN/reports/B3C10.5_review.md`. Fixes aplicados: diálogo de Sachael reajustado a su ficha ("unstable, explosive" — le faltaba mostrarlo); metáforas encadenadas y tics de repetición ("never once", "the particular X of a man who Y") recortados; secuencia de despliegue recortada; dos cierres de Kushiel reescritos para terminar en coste/duda en vez de frase-remate idéntica.
+
+---
+
 ## Capítulo B3C11 — "The In-Between War" (dual POV: Camael / Vepar — *sustituye a Aamon, ver nota de continuidad*)
 
 **Patrón narrador**: horror compartido, dual POV con separadores de escena estrictos.

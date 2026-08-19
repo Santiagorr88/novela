@@ -194,6 +194,18 @@ Fuente: `content/lore/archive/arco_argumental_Duplicado_part2.md`. Mismas adapta
 
 ---
 
+## Capítulo B2C36.5 — "A Verse Withheld" (POV Selaphiel/Raziel) — nuevo, 7 beats
+
+**Contexto**: interludio nuevo, pedido explícitamente por el usuario (2026-08-19) tras una auditoría que encontró que Selaphiel y Raziel nunca habían tenido escena propia en los 143 capítulos existentes — cero apariciones de ambos. Material ya diseñado en el arco (`arco_argumental_completo.md`, entradas **B2C144-146**), nunca convertido en prosa. Ancla temporal: la confirmación de Iofiel al consejo de los tres primordiales nombrados en el Codex, verificada como la escena de B2C36. Se inserta como interludio de Parte 3, mismo recurso que los anteriores.
+
+**Beats**: (1) rito del alba de Selaphiel interrumpido por la noticia del hallazgo de Iofiel; reconoce las palabras — fragmentos de su propia liturgia de siglos → (2) a solas con Jophiel, revisa su himnario, decide llevarlo a Gabriel en vez de al consejo abierto → (3) viaje a la cámara del consejo → (4) llega en mitad del argumento de Raziel contra Iofiel/Gabriel sobre la velocidad de la revelación → (5) presenta el fragmento; coincidencia confirmada; línea de Raziel ("safer than reading them... she just proved my point") → (6) la discusión se agota; Gabriel falla a favor de revelarlo abiertamente al consejo → (7) Raziel cede ese punto pero se guarda un verso ("You'll have it when I judge you ready to survive knowing it"), cierre sin resolver.
+
+**Recuento**: 7 beats · 2.667 palabras.
+
+**Estado**: ✅ Prosa completa en `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B2C36pt5_EN.md`. PASS WITH FIXES (2026-08-19) — ver `chapters/EN/reports/B2C36.5_review.md`. Fixes aplicados: plantilla repetida "the particular ___ of a [sustantivo] who" eliminada; símil "the way X..." reducido; dos saltos de POV suaves corregidos; frase que rozaba filtrar el nombre de Azael reformulada ("a name recovered" → "a fragment recovered").
+
+---
+
 ## Capítulo B2C37 — "The Unaccounted Variable" (POV Belial) — 4 → 6 beats
 
 **Patrón narrador**: perspectiva del antagonista — de depredador confiado a jugador paranoico.

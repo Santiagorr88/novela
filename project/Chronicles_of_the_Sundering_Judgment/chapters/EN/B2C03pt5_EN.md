@@ -1,0 +1,67 @@
+# B2C03.5 – The First Breach
+
+Orifiel had learned, centuries ago, that a wall does not need an opinion about the weather it stands against. It only needs to stand. He held that same discipline now, planted against the chamber's rebuilt southern wall with the other silent commanders, his emerald armor catching none of the light that kept finding lesser metals in the room, his shield Muriel banked low and dim along his fused left arm, patient in the manner of a thing built to outlast whatever struck it rather than to strike first. Most of this chamber knew him only as the Bastion of Eternal Guarding, a title he had long since stopped hearing as praise and started hearing, more accurately, as a job description. He had not spoken once since the session opened. He rarely did. Three factions could argue an entire morning into rubble and the line he held would still need holding regardless of which of them won.
+
+He watched Raphael instead, without moving, without announcing that he was watching at all. Raphael's grief was not performance, whatever Uriel wanted to call it. Orifiel had stood this same wall through enough councils to know a man arguing a position from a man arguing a wound, and Raphael's voice, gentle and worn thin as it reached for the empty chair no one had moved from the table, carried the second kind entirely. Orifiel understood grief. He had buried enough soldiers of his own, over enough centuries, to recognize its shape from any distance the chamber cared to put between them. He simply did not let it move him from where his feet were already planted.
+
+He had come to this chamber the same way he came to every session — early, unremarked, taking the same stretch of wall he had claimed for himself the first year of this council's existence and never once relinquished since. Younger commanders shifted position from session to session, testing which vantage flattered them best in front of whichever faction currently held the room's attention. Orifiel had tried that once, decades ago, and found the exercise beneath him within a single meeting. His soldiers knew where to find him. He had never seen a reason to make that harder for them.
+
+The silence that followed Raphael's last words settled over the chamber — not agreement, only three separate exhaustions arriving at the same conclusion without troubling to compare notes. Orifiel watched Gabriel's attention drift toward Iofiel, still and unspeaking by her fractured pillar, and understood without needing to be told that his own brother-in-arms had found his own silent thread to pull at this morning. He did not begrudge him the distraction. He had a thread of his own about to be handed to him, though he had not yet felt its weight.
+
+---
+
+Raphael crossed the emptying chamber to him with none of the fire Uriel would have carried making the same walk, his healing-green light dimmed to something closer to candlelight than blaze. He stopped an arm's length off, close enough that the words wouldn't carry to whatever remained of the dispersing captains, and studied Orifiel a moment before he spoke, the careful study of a man uncertain whether the door in front of him would open at all.
+
+"You held your silence again," Raphael said, the words carrying no edge, only the plain shape of a thing he'd noticed and decided to say aloud.
+
+"I usually do," Orifiel said. "It rarely changes what the wall is asked to hold the next morning."
+
+"I would like to change that, this once, if you'll let me ask it plainly." Raphael's gaze went, briefly, to the fused shield along Orifiel's arm, then back to his face. "The outer wards have stood generations without needing every soldier they're given. I don't know your arithmetic the way I know a soul's. I only know enough to guess there's slack in it somewhere I haven't earned the right to ask for." He paused, and something in his composure slipped, just slightly, into something closer to what it actually was. "I'm asking anyway, Orifiel. I have run out of other doors to knock on this week."
+
+Orifiel considered the request the way he considered every request that touched the wall — turning it over fully before answering, never faster than that, whatever the asker's patience could bear. "If you wish to strike them, you must go through me first," he said at last, "and no one has offered to try." He let it land a moment before he softened it, fractionally, the only concession his voice ever seemed to make. "That is not a refusal, Raphael. It is the only shape my answer has ever had. Ask me again once I've counted what the wall can actually spare, and I will give you a truer one than a line I've been saying since before you were the healer standing in front of me now."
+
+He did not say, because it had not yet fully formed enough to say aloud, that no one asking him that question in all his centuries at this wall had ever asked for something quite this small, or quite this strange to weigh against a line that had never once needed weighing before.
+
+---
+
+The arithmetic took him four days, and he did it alone, spread across a table of garrison ledgers in a chamber with no wall wide enough to lean on. Zadkiel's border had already claimed most of what he might otherwise have offered — every ward within three days' march of that failing line had long since been stripped to its bones and then asked to hold anyway, and Orifiel would not add to that particular debt no matter how gently Raphael had asked. He traced each remaining ward on the old chart with one gauntleted finger, weighing what each had cost to hold against what each could afford to lose, and found, ward after ward, an answer his conscience refused to accept — a line thinned past its margin, a captain already stretched further than any captain should be stretched.
+
+He found his answer, in the end, at the Amaranth Line, the long eastern ward that had not reported so much as a scratch since before Miguel's own fall from the rank he no longer remembered holding — a garrison so quiet that its own soldiers had taken to calling the posting a punishment for men who wanted nothing more exciting than a long, uneventful watch. He remembered raising that line himself, stone by warded stone, in an age when Heaven had still measured its safety in centuries rather than seasons. A wall that never needed help was the only kind of praise he had ever fully trusted, and that trust, he understood clearly enough not to lie to himself about it, had made it easy to forget that unbroken and untested were not the same word wearing two different coats. It was the smallest wound he could open without knowing, in advance, exactly how deep it would go.
+
+He did not spend a fifth day deciding.
+
+---
+
+He summoned Ezequiel to the same chart-room within the hour, and gave him the order plainly, without the ornament his rank would have entitled him to spend on it. "Release the Amaranth garrison," he said — four words, no speech attached — and watched Ezequiel take them with a single nod and nothing trailing behind it. Orifiel had trained a hundred captains across his centuries at this wall. He had come, over that same span, to read a great deal into the particular stillness with which the best of them received an order they might privately have questioned, and he read into Ezequiel's now what he had always read into it: not agreement, exactly, only the specific discipline of a man who kept his doubts, whatever they were, entirely his own to carry.
+
+"To the search," Ezequiel said. Not a question.
+
+"To the search," Orifiel confirmed, and found himself, for the length of one unguarded breath, wanting the younger man to ask him whether it was the right order before he carried it any further. Ezequiel didn't ask. He never did. Orifiel watched him go and told himself the not-asking was exactly the discipline he had spent centuries teaching every captain under his command to have, and did not entirely convince himself of it before the chart-room door had finished closing behind him.
+
+---
+
+Ezequiel did not question orders. He had been raised to a different discipline than the one that questioned, drilled into it so young and so thoroughly that Anamnesis now answered to his arm the way his own hand did — without deliberation, without a gap for doubt to occupy. He carried this order to the Amaranth garrison himself rather than by runner, because a line this old deserved a captain's own voice, and found Kaviel at the watch-post, the squad leader's runed eyes lifting from the scroll he'd been annotating the moment Ezequiel's shadow crossed the threshold.
+
+"Half the garrison," Ezequiel said. "Reassigned to the search, effective tonight. You hold the rest at standard rotation. Report anything, however small, directly to me."
+
+Kaviel set the scroll down with the same unhurried care he gave every relic in his charge. "This ward hasn't reported so much as a footprint in longer than I've held this post, Captain. Half strength should carry it well enough." He said it plainly, without complaint, though his eyes lingered on Ezequiel's face a beat longer than the report required.
+
+"Should," Ezequiel said, and left it there. A captain who carried out an order while visibly doubting it taught the men beneath him nothing but how to doubt their own captains in turn, and he had never once permitted himself that particular lesson. He stayed through the reassignment, watching half a garrison he had personally trained shoulder their gear in the low evening light and march for a search whose arithmetic he had not been given the right to question. One of the younger soldiers glanced back toward the watch-post twice before the column crested the rise. Ezequiel let the glance pass without comment and filed it away regardless, the way he filed everything he chose not to say aloud.
+
+---
+
+The breach came on the sixth night, thin and quiet the way most first cracks are — a single demon scout, low and fast along the ward's eastern hollow, through a stretch of line a full watch would have had eyes on and half a garrison did not. The alarm horn's first note was still climbing when Ezequiel came off his cot already moving, some old soldier's instinct ahead of conscious thought, Anamnesis clearing its sheath in one motion worn smooth by centuries of drawing it for exactly this reason and rarely, in all that time, needing to let it fall. He crossed the frost-stiff yard at a dead run, counting the too-few shapes converging from the barracks and finding, in that count alone, the whole shape of what half a garrison actually cost when a night finally asked something of it.
+
+Kaviel reached the scout first, Scripta singing a technique out of some forgotten century as he drove the creature down into the hard ground — a grappling form no living school still taught, recalled whole from the blade's own memory and executed without a wasted motion. Two more soldiers closed the distance and pinned it fast, the scout hissing something in a tongue none of them troubled to translate. Ezequiel arrived a heartbeat later, blade still raised, to find the matter already settled without him: the scout caught, bound, the damage in its brief passage no worse than a burned storehouse wall and one soldier's shallow wound. He lowered Anamnesis slowly, unused, and stood over the captured thing a long moment, weighing something considerably heavier than relief.
+
+---
+
+He carried the report to Orifiel himself, that same night, because some things a captain did not send by runner regardless of the hour. He found the commander alone in the chart-room, the Amaranth Line's ledger already open before him, and gave the account without softening any part of it — the breach, the scout, the burned wall, the wound that would heal, the garrison that had held, barely, exactly as thinly as the arithmetic had promised it would. Orifiel listened through the whole of it without once interrupting, and logged the breach into the ledger himself when Ezequiel finished, in the same steady hand he used for every entry, offering no excuse for it and, Ezequiel noted, no word that named it a mistake either.
+
+It was that silence, more than the breach itself, that finally loosened something Ezequiel had held shut through every hour since the order first reached him. "Only those who forget honor can be wounded by me," he said, quiet — the creed Anamnesis had been forged to answer to, given to him as a very young soldier and repeated so rarely since that the words felt almost unfamiliar in his own mouth tonight. "I begin to wonder which of us just did."
+
+Orifiel did not answer. He closed the ledger instead, slow and deliberate, and let the silence stand as the only answer Ezequiel was going to receive.
+
+---
+
+He left the chart-room without pressing for more. Pressing had never been his way, and he saw no reason to discover a new way tonight. It was the first order in all his long service that he had carried out believing, somewhere beneath the discipline, that it was wrong — and walking the cold corridor back toward a garrison now short a captain's certainty as well as half its soldiers, he found that believing it wrong had not made him obey it any less completely. He did not know yet what to do with that. He only knew Anamnesis had come free of its sheath for the first time in longer than he could easily count, and had not, in the end, been the thing that mattered tonight at all.
