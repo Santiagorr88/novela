@@ -46,7 +46,7 @@ Vepar watched the words land, expecting the reaction he'd have gotten from nearl
 
 Camael said nothing for a long moment, and Vepar let the silence hold rather than fill it himself, curious, in a way he hadn't expected to be walking into this tent, to see what the angel actually did with the space he'd been given.
 
-He studied the map again while he waited, tracing the sectors Camael had marked in gold with a more critical eye now that the opening exchange had actually told him something useful about the man across from him. Whatever else this commander was, he wasn't the kind who retreated into doctrine simply because an argument had grown uncomfortable. Vepar had met a great many officers on both sides of this war who folded the moment their first position came under real pressure. This one, plainly, was not going to be one of them, and he found himself, grudgingly, recalculating how much of his own opening demand he'd actually need to defend before this negotiation reached anything resembling a real conclusion.
+He studied the map again while he waited, tracing the sectors Camael had marked in gold with a more critical eye now that the opening exchange had actually told him something useful about the man across from him. Whatever else this commander was, he wasn't the kind who retreated into doctrine simply because an argument had grown uncomfortable. Vepar had met a great many officers on both sides of this war who folded the moment their first position came under real pressure. This one, he judged, was not going to be one of them, and he found himself, grudgingly, recalculating how much of his own opening demand he'd actually need to defend before this negotiation reached anything resembling a real conclusion.
 
 ---
 
@@ -54,7 +54,7 @@ Camael weighed the argument in the quiet that followed, setting Vepar's cold log
 
 "A compromise, then," Camael said. "We establish a forward shield — a defensible line, not a static one. Your forces use it as a staging ground, striking out from behind it when the opportunity actually presents itself, rather than sacrificing realms wholesale to manufacture that opportunity. We hold. You hit. Neither of us gets everything the other finds distasteful about their own approach."
 
-Vepar considered the revised sector lines a long moment, his translucent features giving nothing further away, the trident shifting once against his forearm as he studied the map's new shape. Camael read something reluctant in the length of that pause, a hesitation the marshal plainly had no intention of naming aloud. It cost him something visible, Camael thought, watching him weigh it — the particular cost of a man trading the cleaner brutality of his original plan for a shape this compromised.
+Vepar considered the revised sector lines a long moment, his translucent features giving nothing further away, the trident shifting once against his forearm as he studied the map's new shape. Camael read something reluctant in the length of that pause, a hesitation the marshal seemed to have no intention of naming aloud. It cost him something visible, Camael thought, watching him weigh it — the particular cost of a man trading the cleaner brutality of his original plan for a shape this compromised.
 
 "It will do," Vepar said finally, tapping the map once with two fingers, a gesture that closed the point rather than truly conceding it.
 
