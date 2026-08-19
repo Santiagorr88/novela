@@ -1,6 +1,10 @@
 # Resumen de la sesión nocturna — 2026-08-19
 
-Trabajo autónomo autorizado por el autor ("tienes 6 horas para seguir trabajando solo, corrigiendo cosas si ves y mejorando"), iniciado tras el commit `0d3791d` (refuerzo de Lucifer en Libro II). Este documento se actualiza a lo largo de la noche — la versión más reciente es la que importa.
+Trabajo autónomo autorizado por el autor ("tienes 6 horas para seguir trabajando solo, corrigiendo cosas si ves y mejorando"), iniciado tras el commit `0d3791d` (refuerzo de Lucifer en Libro II).
+
+**Cierre del ciclo**: se completó todo el trabajo seguro disponible (auditoría de POV al 100% del corpus, 68 correcciones aplicadas) y se documentaron a fondo las dos decisiones estructurales grandes que solo tú puedes tomar (ver abajo). No queda más trabajo mecánico/seguro pendiente sin entrar en territorio de decisión creativa — por eso el ciclo se detiene aquí en vez de seguir hasta agotar las 6 horas. 12 commits esta noche, todos pusheados a `main`, árbol de trabajo limpio.
+
+**Lo primero que deberías leer al despertar**: la sección "ACTUALIZACIÓN" justo debajo — el final de Libro III tiene una bifurcación real entre el outline y la prosa ya escrita, en 6 puntos distintos, no solo Belial.
 
 ---
 
