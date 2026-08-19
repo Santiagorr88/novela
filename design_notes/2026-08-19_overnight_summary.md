@@ -6,9 +6,10 @@ Trabajo autónomo autorizado por el autor ("tienes 6 horas para seguir trabajand
 
 ## ✅ Hecho esta noche (sin necesidad de tu revisión, ya committeado y pusheado a `main`)
 
-- **4 violaciones de disciplina de POV corregidas** (commit `4a71cde`): `B1Cap03`, `B1Cap04`, `B1Cap08` (×2). Todas eran generalizaciones/certeza sobre el estado interno de un personaje no-ancla narradas como hecho directo — encontradas por auditoría, reformuladas como creencia/inferencia del propio POV. Ediciones de una sola cláusula cada una, sin tocar trama ni voz.
+- **Auditoría completa de disciplina de POV sobre los 147 capítulos de prosa** (dos reglas: adverbios de certeza sobre estado interno de terceros — B1C15 —, y generalizaciones de carácter de terceros narradas como hecho directo — B3C20). Se auditó el 100% del corpus, no una muestra. **68 violaciones reales encontradas y corregidas**, todas ediciones de una sola cláusula, sin tocar trama, estructura ni voz de ningún capítulo. Commits: `4a71cde`, `5542549`, `10e3fbc`, `fabeaaa`, `9ad6dd4`, `b046110`, `66de985`, `cd57d71`, `e093ea2`. Distribución aproximada: Libro I ~11, Libro II ~47, Libro III ~13 — confirma que Libro II (escrito antes de que ambas reglas se descubrieran) concentraba el grueso del problema; Libro III, escrito después, salió mucho más limpio.
+- Corregida además una cita interna obsoleta en el outline (`arco_argumental_completo.md`, entrada B2C033: `B3C107-114` → `B3C113-114`), arrastre de una renumeración anterior.
 
-*(esta sección se irá ampliando conforme avance la noche)*
+**Con esto, la auditoría de POV queda cerrada — no hace falta que revises nada de esta parte, ya está verificado y aplicado.**
 
 ---
 
@@ -81,6 +82,11 @@ Esto es del mismo tipo que arreglamos ayer, pero es un salto de escala mucho may
 - **Anael**: una sola frase de montaje coral en `B1C28`, sin diálogo ni identidad propia.
 
 Severidad menor/cosmética. No he tocado ninguno — mismo criterio que el punto 3.
+
+### 5. Dos hallazgos menores adicionales (severidad baja, no urgentes)
+
+- **Hilo `B2-agares-01` incompleto**: la mitad del hilo de Agares en el outline (Lucifer aprobando el Codex falsificado) sí está escrita (`B2C36pt6`, de anoche). La otra mitad — el texto falsificado llegando al mundo mortal y ganándole la carrera narrativa a Cielo — nunca se dramatiza en ningún capítulo. Coste bajo si se deja así; el beat más fuerte (la ironía de Lucifer) ya está pagado.
+- **Nota de curiosidad, no un problema**: `B2C21pt5` (interludio de Foras/Vepar de esta misma sesión) construye un subargumento entero sobre un capitán llamado "Malthus" que no existe en ningún lugar del outline de 428 entradas — prosa sin outline, en vez de outline sin prosa. Explica por qué la rivalidad fría Foras/Vepar en la prosa ya escrita no es un descuido: es continuidad propia, construida independientemente del outline más reciente. No requiere ninguna acción, solo contexto útil.
 
 ---
 
