@@ -8,15 +8,15 @@ He passed three students he half-recognized, offered them the same distracted no
 
 ---
 
-The archivist was waiting for him outside the humanities building, arms crossed against the morning cold, watching the door he always used with the particular patience of someone who had timed her arrival deliberately.
+The archivist was waiting for him outside the humanities building, arms crossed against the morning cold, watching the door he always used with the patience of someone who, he guessed, had timed her arrival deliberately.
 
 "Ardon." She fell into step beside him without asking permission, the way she always did. "You look terrible."
 
 "Long night."
 
-"You always say that." She studied him a moment longer than the comment warranted, her eyes moving over his face with the same careful attention she gave a manuscript she suspected of being older than its catalogue entry claimed. "This time I actually believe you."
+"You always say that." She studied him a moment longer than the comment warranted, her eyes moving over his face with what he recognized as the same careful attention she gave a manuscript she suspected of being older than its catalogue entry claimed. "This time I actually believe you."
 
-He didn't answer right away, and she let the silence sit between them without filling it. She had done that before, on the rare mornings that called for it, but rarely for this long, and never once with this much open study behind it.
+He didn't answer right away, and she let the silence sit between them without filling it. He remembered her doing that before, on the rare mornings that called for it, but rarely for this long, and never once with this much open study behind it.
 
 "Whatever you found," she said finally, "you seem different. Not broken. Different."
 
