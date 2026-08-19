@@ -68,7 +68,7 @@ Iofiel moved to stand beside him at the map, her own attention already sharpenin
 
 "Do you want me to return to the Tower," Sariel asked, because it needed asking plainly, and because some part of him had already begun bracing for the answer before Gabriel gave it.
 
-"No." Gabriel said it without hesitation, without the diplomatic softening he sometimes wrapped around difficult orders. "You've paid enough for this phase of it. What comes next isn't infiltration. It's patience — watching, waiting, letting the two signals we already have tell us more before we risk anyone else the way I risked you." He studied Sariel a moment longer, plainly searching for some sign of relief that didn't fully arrive. "That should sound like good news."
+"No." Gabriel said it without hesitation, without the diplomatic softening he sometimes wrapped around difficult orders. "You've paid enough for this phase of it. What comes next isn't infiltration. It's patience — watching, waiting, letting the two signals we already have tell us more before we risk anyone else the way I risked you." He studied Sariel a moment longer, seeming to search for some sign of relief that didn't fully arrive. "That should sound like good news."
 
 "It does," Sariel said, and meant it, mostly. Weeks of watching sounded, on its face, like the safest assignment this mission had handed him yet, and some old, tired part of him was grateful enough for that safety not to examine the rest of what he was feeling too closely tonight.
 

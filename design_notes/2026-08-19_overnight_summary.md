@@ -14,9 +14,35 @@ Trabajo autónomo autorizado por el autor ("tienes 6 horas para seguir trabajand
 
 ## 🔴 Decisiones que necesitan tu criterio — no las he tocado
 
+### ⚠️ ACTUALIZACIÓN: esto es más grande de lo que pensaba al principio de la noche
+
+Lo que abajo describo como "el caso Belial" resultó ser la punta de un problema mucho más amplio: **una segunda auditoría (`design_notes/2026-08-19_contradictions_and_citations.md`) encontró que 5 de los personajes/mecanismos principales del clímax de Libro III tienen destinos incompatibles entre el outline actualizado y la prosa ya escrita y aprobada** — no solo Belial. Resumen rápido antes de los detalles:
+
+| Elemento | Outline dice | Prosa ya escrita dice |
+|---|---|---|
+| **Belial** | Sobrevive humillado bajo Lucifer | Se disuelve, alma liberada al ciclo de reencarnación |
+| **Ereloth/Milo Ray** | Pierde la memoria, se queda solo como "Milo Ray" | Conserva memoria e identidad completas |
+| **Thaeriel/Arin** | Se queda en el Valle Invertido como guardián de la herida | Se instala en el Sepulcro del Llanto (otro lugar) |
+| **Foras** | Hereda el mando de Belial por petición formal a Lucifer | Es uno de varios pretendientes que **fracasan**, bajo Asmodeus |
+| **Vepar** | Negocia con Lucifer autoridad autónoma | Actúa por su cuenta, sin negociar con nadie |
+| **La "Lágrima" del clímax** | Nace de la renuncia de Gabriel como Comandante Supremo en consejo | Nace de un guardapelo de Camael (ya establecido en Libro II) |
+
+**Conclusión de la auditoría, que comparto**: esto no son varios bugs sueltos — es que **toda la sección final del outline (a partir de aproximadamente B3C087) describe una versión del clímax y cierre de Libro III que la prosa ya aprobada nunca siguió**. La prosa construyó su propio final, de forma coherente consigo misma, pero diferente del outline rediseñado de ayer. Confirmado por `grep`: términos centrales del mecanismo del outline ("Supreme Commander", "council of equals", "empty seat", "Naamah", "Ezequiel") **no aparecen ni una sola vez** en los 20 capítulos de prosa de Libro III.
+
+**Esto es 100% tu decisión, no la he tocado ni la voy a tocar.** Las opciones son, a grandes rasgos:
+- **(A)** El outline gana — se reescribe la prosa del clímax/final para que siga el outline (trabajo grande: varios capítulos de B3C30 en adelante necesitarían ajustes o reescritura).
+- **(B)** La prosa ya escrita gana — se marca la sección final del outline (`arco_argumental_completo.md`, aprox. B3C087-125) como material de diseño superado/no vinculante, y seguimos trabajando sobre lo que ya existe.
+- **(C)** Reconciliación caso por caso — algunos elementos del outline se incorporan (p. ej. el gancho final de reencarnación, que no existe en ningún sitio) sin tocar lo que ya funciona bien en la prosa (p. ej. Uriel y Azael, que SÍ están limpios — ver abajo).
+
+Dado el volumen (2 auditorías independientes, misma conclusión), mi recomendación honesta es **(B) o (C)** — la prosa ya escrita tiene 45 capítulos aprobados con un final propio coherente; el outline de 428 entradas fue un ejercicio de diseño valioso (arregló muchos huecos reales, como los 7 comandantes de ayer) pero su tramo final parece haberse redactado sin cotejar contra la prosa real. Pero es tu trilogía y tu decisión, no la mía.
+
+**Nota positiva**: no todo el clímax está roto — Uriel (redención en campo de refugiados) y Azael (transformación en presencia sin cuerpo) SÍ coinciden entre outline y prosa, sin contradicción.
+
+---
+
 ### 1. El final de Libro III tiene DOS versiones incompatibles del destino de Belial
 
-Esto es lo más importante que encontré esta noche y bloquea cualquier trabajo futuro sobre el cierre de la trilogía.
+(Ver actualización arriba — este es solo uno de seis hallazgos del mismo tipo, no un caso aislado. Lo dejo con el detalle original por si quieres el texto completo de este caso concreto.)
 
 - **La prosa ya escrita y aprobada** (`B3C40_EN.md`, "The Echo of Pride"): la forma demoníaca de Belial se disuelve, su alma es liberada al ciclo de reencarnación. Deja de existir como comandante activo. Final abierto pero definitivo — no vuelve a aparecer después.
 - **El outline actualizado** (`arco_argumental_completo.md`, entrada B3C112): Belial sobrevive, humillado, bajo la custodia directa de Lucifer — "stripped of rank but keeps him close." Toda la cascada de sucesión (Foras y Vepar dividiéndose su antiguo mando, entradas B3C113-114) depende de que Belial siga vivo y degradado, no muerto.

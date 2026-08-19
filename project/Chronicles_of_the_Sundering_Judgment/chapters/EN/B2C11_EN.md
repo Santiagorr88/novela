@@ -4,7 +4,7 @@ Gabriel chose the old observatory for the meeting, not the council chamber, and 
 
 He had spent the three hours since Camael's departure alone with the star-map, tracing constellations he'd charted himself a thousand years ago and no longer fully trusted, turning the shape of the problem over from every angle he could find the patience for. A council divided three ways over a sword and a cycle and a missing soul could not be handed a fourth crisis it had no framework to absorb, not yet, not until Gabriel understood enough of it himself to keep the telling from tearing what little cohesion the council had left clean in half.
 
-Sariel arrived without announcing himself, the way he always arrived, a habit born of a lifetime spent hunting things that would flee the moment they heard him coming. He said nothing at first, only waited at the threshold until Gabriel turned from the star-map to acknowledge him, patient in the particular, contained way of a man who had long since stopped needing to fill silence with unnecessary words.
+Sariel arrived without announcing himself, the way Gabriel had come to expect from him, a habit Gabriel took to be born of a lifetime spent hunting things that would flee the moment they heard him coming. He said nothing at first, only waited at the threshold until Gabriel turned from the star-map to acknowledge him, patient in the particular, contained way of a man who had long since stopped needing to fill silence with unnecessary words.
 
 Gabriel studied him a moment before speaking, the way he'd learned to study every soldier he was about to send somewhere he couldn't follow. Sariel had changed little across the centuries Gabriel had known him — the same economy of movement, the same eyes that catalogued a room before the rest of him had finished crossing its threshold, a hunter's habits worn so deep into him they no longer looked like habits at all. It was easy, working alongside a man that steady for so long, to forget how much that steadiness had cost him to build.
 
@@ -46,13 +46,13 @@ He laid out the target without further ceremony — the Tower standing at the ce
 
 Sariel considered the whole of it in silence a moment longer, then inclined his head, the same small, economical gesture he used to accept every mission Gabriel had ever given him. "It will be done."
 
-"You'll go alone," Gabriel added, because it needed saying plainly even though Sariel had surely already assumed it. "No escort, no support if something goes wrong inside those walls. I can't requisition either without the council learning what I've sent you to find, and I'm not ready to let them learn that until you've either succeeded or failed trying."
+"You'll go alone," Gabriel added, because it needed saying plainly even though Gabriel suspected Sariel had already assumed it. "No escort, no support if something goes wrong inside those walls. I can't requisition either without the council learning what I've sent you to find, and I'm not ready to let them learn that until you've either succeeded or failed trying."
 
 "I've gone alone before."
 
 "Not into the middle of Hell's own capital, carrying nothing that would explain your presence there if you're caught." Gabriel let the weight of that land fully before he continued. "You'll need a cover story convincing enough to survive real scrutiny, not just a glance. I'll have what forged papers and disguising wards I can arrange without drawing attention delivered to you within the hour. Beyond that, you're on your own the moment you cross the threshold."
 
-Sariel absorbed all of it without visible reaction, the particular stillness of a man cataloguing a list of constraints rather than objecting to any of them. "Understood."
+Sariel absorbed all of it without visible reaction, in a stillness Gabriel had learned to read as cataloguing rather than objection. "Understood."
 
 ---
 
@@ -60,7 +60,7 @@ Sariel absorbed all of it without visible reaction, the particular stillness of 
 
 "I understood it before you said it," Sariel said, without hesitation, without the smallest trace of resentment in the words. "It changes nothing about whether I go."
 
-Gabriel didn't thank him for that. He'd learned, across the long years of Sariel's quiet, unadorned service, that gratitude offered for something Sariel considered simple duty would land as an insult dressed as kindness — a suggestion that the choice had been optional, when for Sariel it plainly never had been. He only held his old friend's gaze a moment longer, and let the silence between them carry what the words wouldn't have said as honestly.
+Gabriel didn't thank him for that. He'd learned, across the long years of Sariel's quiet, unadorned service, that gratitude offered for something Sariel considered simple duty would land as an insult dressed as kindness — a suggestion that the choice had been optional, when Gabriel was certain that for Sariel it never had been. He only held his old friend's gaze a moment longer, and let the silence between them carry what the words wouldn't have said as honestly.
 
 "There's a question I should have asked you before now, and haven't," Gabriel said instead, quieter. "In all the years you've spent hunting the reincarnated — have you ever once found one who remembered anything at all, before you found them?"
 

@@ -38,7 +38,7 @@ He found a doorway deep enough to hide in before the exhaustion finally caught u
 
 ---
 
-Iofiel brought her findings to Gabriel two days later, the energy signature from the Grey City laid out across a table between them in careful, precise notation that told a story she clearly hadn't enjoyed writing. "The cycle did to this soul exactly what it does to every soul," she said, without preamble, her staff held close the way it always was when she was working through something that troubled her more than she wanted to admit aloud. "Full passage. Full forgetting. Whoever this was before, the cycle wrapped them in the same clean amnesia it wraps around everyone, and started them fresh, the way it's supposed to."
+Iofiel brought her findings to Gabriel two days later, the energy signature from the Grey City laid out across a table between them in careful, precise notation that told a story she clearly hadn't enjoyed writing. "The cycle did to this soul exactly what it does to every soul," she said, without preamble, her staff held close the way Gabriel had seen it before, on the evenings something troubled her more than she wanted to admit aloud. "Full passage. Full forgetting. Whoever this was before, the cycle wrapped them in the same clean amnesia it wraps around everyone, and started them fresh, the way it's supposed to."
 
 "And yet," Gabriel said, reading the rest of it in her expression before she finished saying it herself.
 
