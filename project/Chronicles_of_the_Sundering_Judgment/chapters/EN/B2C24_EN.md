@@ -10,7 +10,7 @@ He had abandoned, weeks ago, any pretense of maintaining his ordinary teaching s
 
 ---
 
-The archivist found him there most afternoons now, and today she arrived with two cups of coffee she hadn't been asked to bring, setting one down within his reach without comment and settling into the chair across from him with her own. She watched him work a while before she finally said what she'd clearly come to say, her eyes moving once over the cluttered table between them, taking in the sheer volume of what he'd accumulated without commenting on any of it directly.
+The archivist found him there most afternoons now, and today she arrived with two cups of coffee she hadn't been asked to bring, setting one down within his reach without comment and settling into the chair across from him with her own. She watched him work a while before she finally said what he suspected she'd come to say, her eyes moving once over the cluttered table between them, taking in the sheer volume of what he'd accumulated without commenting on any of it directly.
 
 She said it plainly, once the silence had stretched long enough that filling it herself apparently seemed the kinder option: "I don't know what you're looking for, Ardon, but whatever it is, it's been looking for you too, for months now. It shows."
 
