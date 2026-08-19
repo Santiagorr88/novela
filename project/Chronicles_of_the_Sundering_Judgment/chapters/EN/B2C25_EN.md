@@ -24,7 +24,7 @@ The last of the physical fight went out of it once Arin had its arm locked and i
 
 "I haven't decided to do anything to you yet," Arin said. "That decision depends entirely on how useful the next few minutes turn out to be. Start with what you were sent here to find, and we'll see how the rest of this goes."
 
-The demon's eyes searched his face for some sign of the mercy it was clearly hoping to bargain toward, found nothing there to hold onto, and gave up the search almost as quickly as it had started.
+The demon's eyes searched his face for some sign of the mercy it seemed to be hoping to bargain toward, found nothing there to hold onto, and gave up the search almost as quickly as it had started.
 
 ---
 
