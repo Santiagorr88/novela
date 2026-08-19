@@ -18,7 +18,7 @@ The soldier didn't thank him. Kushiel had long ago stopped expecting thanks for 
 
 ---
 
-Thariel was waiting at the ridge when Kushiel reached it, standing very still, the way he always stood when he'd already decided how much of his own urgency to show before he'd earned the right to show any. He held nothing in his hands. Whatever he'd come to deliver, he'd already decided it didn't need a document to carry it.
+Thariel was waiting at the ridge when Kushiel reached it, standing very still, in the stillness Kushiel had learned to read as him already having decided how much of his own urgency to show before he'd earned the right to show any. He held nothing in his hands. Whatever he'd come to deliver, he'd already decided it didn't need a document to carry it.
 
 "You'll want this before the rest of the front hears it secondhand," Thariel said.
 

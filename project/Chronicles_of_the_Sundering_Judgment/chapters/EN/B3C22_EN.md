@@ -10,7 +10,7 @@ Camael entered without waiting for an invitation, closing the door behind him wi
 
 ---
 
-Gabriel inclined his head and stepped toward the door without argument, Azael following a beat behind him, silent as always. Camael waited until the door had closed fully before he spoke again, his voice rough in a way Michael hadn't heard from him before, worn down by something that clearly hadn't finished wearing.
+Gabriel inclined his head and stepped toward the door without argument, Azael following a beat behind him, silent as always. Camael waited until the door had closed fully before he spoke again, his voice rough in a way Michael hadn't heard from him before, worn down by something that hadn't finished wearing yet, Michael guessed.
 
 "I commanded the fleet at the In-Between," Camael said. "I saw our light and their fire swallowed by... nothing." He paused, jaw working once before he continued. "My faith is not in scripture or prophecy, Michael. My faith is in the shield wall. It is in the angel standing next to me."
 
