@@ -1,10 +1,10 @@
 # B2C37 – The Unaccounted Variable
 
-The seer who brought the report could not stop his hands from shaking, and Belial noted the tremor with the same flat, professional attention he gave any messenger's tells. The scrying pool behind him still hadn't fully settled, its surface holding a faint gray shimmer that hadn't been there before tonight's viewing. In this court, fear belonged to whoever received bad news, never to whoever delivered it. This one had clearly forgotten that rule entirely, or judged tonight's news worth the lapse.
+The seer who brought the report could not stop his hands from shaking, and Belial noted the tremor with the same flat, professional attention he gave any messenger's tells. The scrying pool behind him still hadn't fully settled, its surface holding a faint gray shimmer that hadn't been there before tonight's viewing. In this court, fear belonged to whoever received bad news, never to whoever delivered it. This one seemed to have forgotten that rule entirely, or judged tonight's news worth the lapse.
 
 "Speak plainly," Belial said, not looking up from the reports already scattered across the table in front of him. "I have no patience left tonight for whatever softened version you rehearsed on the walk here."
 
-The seer bowed low enough that Belial caught the faint tremor running through his shoulders as well as his hands, an unusual degree of fear from a man who had delivered dozens of difficult reports across his years of service without ever once losing his composure this completely.
+The seer bowed low enough that Belial caught the faint tremor running through his shoulders as well as his hands, an unusual degree of fear from a man Belial knew had delivered dozens of difficult reports across his years of service without ever once losing his composure this completely.
 
 "The Enforcer is gone, my lord. His entire squad with him." The seer's voice cracked on the second sentence, and he pressed on before Belial could demand he steady it. "Not slain. I want to be precise about that, because the distinction matters more than I can properly explain. They were denied. There is nothing left of them to recover. No bodies. No essence to reclaim or punish. Nothing." He swallowed hard, visibly gathering himself before he continued. "I've scried a thousand deaths in my service to this court, my lord. I've never once scried an absence like this."
 
@@ -16,7 +16,7 @@ Belial didn't react immediately. He had a category for slain soldiers, and a cat
 
 ---
 
-The council chamber, when Belial finally called it, carried a stillness he hadn't felt in it for longer than he cared to measure. These commanders had spent centuries training themselves never to show anything plainly at all, and none of them were managing it tonight. Foras stood near the chamber's rear wall, his usual cold composure visibly strained, one hand resting against the wall itself as though he needed the support of it. Even Vepar, who Belial had never once seen surprised by anything in the whole of his long service, kept his hands folded a shade too tightly for the gesture to read as ordinary calm.
+The council chamber, when Belial finally called it, carried a stillness he hadn't felt in it for longer than he cared to measure. It seemed to Belial that these commanders had spent centuries training themselves never to show anything plainly at all, and none of them were managing it tonight. Foras stood near the chamber's rear wall, his usual cold composure visibly strained, one hand resting against the wall itself as though he needed the support of it. Even Vepar, who Belial had never once seen surprised by anything in the whole of his long service, kept his hands folded a shade too tightly for the gesture to read as ordinary calm.
 
 Belial had watched this court absorb violence in every shape it came in across the whole span of this long war, without flinching, without once needing to be reassured. He had never once watched it absorb an event nobody in the room could name. He read the silence around him as the particular quiet of men measuring a threat against whatever weapons they personally commanded, and finding, one face after another, nothing in their own arsenal that seemed to answer it.
 
@@ -68,7 +68,7 @@ Belial's formal report reached Dis three days later, carried through the same pr
 
 The decree itself was plain enough on its surface — Belial abandoning the soul-harvest, folding a season's investment back into Hell's own borders, a defensive posture from a commander who had not held one in longer than Lucifer cared to measure. He had expected, reading that much, the particular flavor of alarm any sovereign felt when a capable subordinate's confidence finally cracked. What held him past that first plain reading was the detail buried three paragraphs in, the one the report's own author had plainly struggled to phrase in any of a soldier's ordinary vocabulary: not slain, not captured, not broken — an entire squad and its officer denied, a scrying pool refusing three times to show the moment it happened, until there was, in the report's own careful wording, nothing left to recover and nothing left to mourn.
 
-"Shall I have a formal acknowledgment drafted, my lord?" the aide asked, waiting at the edge of the private chamber with the patience of someone who had learned exactly how long Lucifer's silences tended to run before they wanted company again. "Lord Belial's people will expect some reply, given the scale of what he's reporting."
+"Shall I have a formal acknowledgment drafted, my lord?" the aide asked, waiting at the edge of the private chamber with what Lucifer took for the patience of someone who had learned exactly how long his silences tended to run before they wanted company again. "Lord Belial's people will expect some reply, given the scale of what he's reporting."
 
 "Not yet." Lucifer did not look up from the page. "Let him fortify first. He'll want my confidence a great deal more once he's finished than he'd appreciate my questions right now."
 

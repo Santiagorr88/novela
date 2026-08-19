@@ -50,7 +50,7 @@ Arin nodded once, and turned to check himself over before the walk ahead of him,
 
 Mikel hesitated before Arin actually turned to go, a question he'd been sitting with since the fight finally reaching the front of his thoughts. He'd had it for weeks now, half-formed, never quite finding the right moment or the right person to ask. Tonight, apparently, had finally given him both. "Can I ask you something. Before you leave."
 
-Arin waited, saying nothing, the particular patient stillness of a man who'd learned, across years of hard-earned experience, not to rush a question before its asker was ready to finish it.
+Arin waited, saying nothing, the stillness Mikel took for a man who'd learned, across years of hard-earned experience, not to rush a question before its asker was ready to finish it.
 
 "Have you ever felt like you remember things that didn't actually happen to you? Not déjà vu. Something heavier than that — like a memory that belongs to someone else, and you're just the one carrying it around."
 
