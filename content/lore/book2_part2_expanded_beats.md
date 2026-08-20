@@ -211,6 +211,20 @@ Fuente: `content/lore/archive/arco_argumental_Duplicado_part2.md`. Mismas adapta
 
 ---
 
+## Capítulo B2C23.5 — "What the Staff Weighs" (dual POV Hadriel/Raguel) — nuevo, 7 beats
+
+**Contexto**: interludio nuevo, pedido explícitamente por el usuario (2026-08-20) tras una auditoría que encontró que Raguel (Captain / Peace Justice) y Hadriel (Captain / Veil Watcher), ambos bajo Selaphiel, tenían cero apariciones reales en los 148 capítulos existentes, sin entradas propias en el outline. Verificación completa en `design_notes/2026-08-20_captains_verification.md` — se descartó cualquier cruce con el punto de cruce de Navarion (hilo mortal de Mikel/Arin, B2C24-28) y con el tipo de veredicto de Zadkiel (metafísico, B2C23) para no duplicar ni contaminar ninguno de los dos hilos ya escritos. La incursión ocurre en un punto del Velo distinto, sin nombre propio, en otro frente cualquiera de una guerra que ya se establece exhausta y con los bordes estirados (mismo clima que B2C03.5 y B2C23).
+
+**Patrón narrador**: patrón nuevo **16**, "Amenaza descubierta + veredicto dividido" (añadido a `beat-planner/SKILL.md` en esta misma sesión).
+
+**Beats**: (1) Hadriel en vigilancia rutinaria de un punto débil del Velo, estableciendo su método (secreta, incansable, atenta a lo que tiembla) → (2) la incursión — un explorador demoníaco cruza, combate breve (categoría 6) que demuestra su manejo de grietas espaciales con *Umbría* → (3) captura: el explorador se rinde una vez acorralado; Kadan (Squad Leader, "Portal Sentinel", ya fichado como "methodical, binary, sees only thresholds") se dispone a ejecutarlo de todos modos, fiel a su credo ya establecido, *"You pass, or you don't"* → (4) la vacilación de Hadriel — protectora del juicio de su propio soldado, pero no ciega al problema (categoría 1) → (5) Raguel llega, convocado por protocolo; diálogo real (categoría 5) entre los tres, donde Raguel pesa de verdad la situación con *Equitas* en vez de limitarse a dictar sentencia → (6) el veredicto: el explorador queda remitido a interrogatorio, no ejecutado; Kadan es corregido sin ser humillado, coherente con la ficha de Raguel ("fair, calm, harsh only when needed") → (7) coda de cierre con Selaphiel, breve y silenciosa (luz, no palabra), coherente con su voz ya fijada en B2C36.5.
+
+**Recuento**: 7 beats · objetivo ~2.400-3.000 palabras.
+
+**Estado**: ✅ Prosa completa en `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B2C23pt5_EN.md` (2.177 palabras). PASS WITH FIXES (2026-08-20) — ver `chapters/EN/reports/B2C23.5_review.md`. Fixes aplicados: **[bloqueante, ruptura de POV]** el párrafo de cierre original narraba la experiencia privada y no presenciada de Selaphiel como hecho de narrador, fuera del POV cerrado de Hadriel/Raguel — reescrito como algo que Hadriel imagina desde su propia experiencia, no como narración omnisciente; riesgo de confusión con el hilo de Navarion (B2C25/28) por la palabra "crossing-point" en boca del demonio — cambiado a "staging-ground" en todo el capítulo; muletillas "the way"/"the particular" reducidas de 14 a 6/0; beat 7 (coda de Selaphiel) recortado por llevar una escena de confesión completa no planeada por delante de la coda breve que exigía el plan; cierres planos en los beats 4 y 6 ajustados para dejar un hilo sin resolver.
+
+---
+
 ## Capítulo B2C24 — "Legends in the Stacks" (POV Mikel) — 3 → 6 beats
 
 **Patrón narrador**: variante silenciosa del patrón 1, cierre del hilo erudito de Mikel antes de la convergencia.
