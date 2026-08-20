@@ -53,6 +53,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 | 38 | B1C25 — "The Resonance" | `book1_part3_expanded_beats.md` | `B1C25_EN.md` | ✅ Escrito y APPROVED (2.332 palabras, 2 rondas) |
 | 39 | B1C26 — "The Fall" | `book1_part3_expanded_beats.md` | `B1C26_EN.md` | ✅ Escrito y APPROVED (2.218 palabras, 2 rondas) |
 | 40 | B1C27 — "The Sound of Retreat" | `book1_part3_expanded_beats.md` | `B1C27_EN.md` | ✅ Escrito y APPROVED (2.245 palabras, 3 rondas) — 🎉 PARTE 3 COMPLETA — 🎉🎉 LIBRO I COMPLETO (todos los 41 capítulos escritos y APPROVED) |
+| 40.5 | B1C27.5 — "Sparks for the Numb" (POV Anael, interludio) | `book1_part3_expanded_beats.md` | `B1C27pt5_EN.md` | ✅ Escrito y PASS WITH FIXES (2.254 palabras, 7 beats) — añadido 2026-08-20, cierra la única aparición de Anael en 157 capítulos (una frase de montaje en B1C28). Informe: `chapters/EN/reports/B1C27.5_review.md`. Detalle completo en `expansion_progress_libro1.md`. |
 | 41 | B1C28 — "The Echo of the Sword" | `book1_part3_expanded_beats.md` | `B1C28_EN.md` | ✅ **YA ESCRITO Y APPROVED** (2.561-2.725 palabras, 7 beats) — verificado 2026-08-14, incluye el cierre de Milo Ray/Ereloth en la playa, décadas después. No reescribir. Cierra el Libro I completo. |
 
 ## Notas de ejecución para el loop de escritura
