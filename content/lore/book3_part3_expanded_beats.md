@@ -341,6 +341,62 @@ Ronda 2: APROBADO sin más cambios.
 
 ---
 
+## Capítulo B3C44.5 — "What the Cube Found" (POV Amy/Flauros) — nuevo, interludio, 7 beats (patrón 18)
+
+**Contexto**: interludio nuevo, pedido explícitamente por el usuario (2026-08-20) tras una auditoría que encontró que Flauros (*Captain / Demonic Pyrokinesis*) y Amy (*Captain / Mental Structure Destruction*), ambos fichados en `personajes.md` bajo **Agares** (verificado línea por línea — el encargo asumía correctamente esta jerarquía), tenían cero apariciones en los 148 capítulos existentes. Verificación completa en `design_notes/2026-08-20_orobas_malphas_flauros_amy_verification.md`. El outline no tiene ninguna entrada para ninguno de los dos (verificado con `grep`, cero resultados). Ancla temporal: la propia prosa de `B3C44` ya establece, en la sección de Asmodeus (líneas 23-25), que envió a Balam y Agares "out among the scrambling court to watch rather than compete" tras la disolución de Belial, y que Agares, "characteristically slower and considerably more thorough, was still listening, still cataloguing every soldier's hesitation" — este interludio dramatiza exactamente ese trabajo ya citado, usando a los dos captains de Agares para hacerlo, y le da a Agares su primera presencia real en la prosa (solo citado/mencionado por terceros hasta ahora, en `B2C36pt6_EN.md` y en el propio `B3C44_EN.md`) sin convertirlo todavía en protagonista de su propio capítulo. Se sitúa como interludio directamente ligado a B3C44, mismo tramo temporal.
+
+**Patrón narrador**: nuevo — **"Prueba de lealtad" / "Loyalty test"**, añadido a `beat-planner/SKILL.md` como patrón 18.
+
+1. **La orden de Agares** (POV Amy) *(categoría 1, voz ya fijada de Agares — persuasivo, teatral, cree que la verdad bien ordenada hace más daño que cualquier mentira)*: Agares encarga a Amy y Flauros probar la lealtad real de la guarnición de uno de los pretendientes menores al trono vacío de Belial — anclado explícitamente a la tarea que Asmodeus ya le atribuye en B3C44 ("cataloguing every soldier's hesitation").
+
+2. **El método de Amy** *(categoría 4, nueva localización menor — un puesto de guardia cerca de la fortaleza vacía; categoría 5, diálogo real con un soldado)*: Amy siembra una duda filosófica en un soldado de la guarnición, paciente, sin amenaza física — *Laberynthus*, "certainty is the easiest wall to topple."
+
+3. **Fricción** *(categoría 5, diálogo real entre los dos captains)*: Flauros, impaciente, no entiende por qué Amy pierde el tiempo con preguntas en vez de fuego. Contraste de temperamentos: filosofía cruel contra furia impaciente.
+
+4. **La convicción cede, mal**: el soldado se derrumba bajo la presión de Amy, pero revela algo distinto de lo que la misión pedía — su miedo al pretendiente actual es real, pero debajo hay una lealtad genuina a un compañero caído, no al señor que reclama el trono. La prueba encuentra una verdad más complicada que un simple "miedo fino."
+
+5. **Flauros fuerza el resto** (categoría 6, poder distintivo de Flauros): el látigo *Aflame* extrae o castiga lo que queda, un mecanismo de amenaza y daño claramente distinto del método de Amy.
+
+6. **Después** *(categoría 5, diálogo real)*: la fricción del beat 3 vuelve, nombrada como desacuerdo permanente entre ambos, sin resolverse — Amy señala que el método de Flauros quema la fuente antes de poder usarla dos veces; a Flauros no le importa.
+
+7. **El informe a Agares**: Amy se guarda, deliberadamente, una parte de lo que encontró — la lealtad real del soldado, no al pretendiente sino al compañero caído — reflejando la propia filosofía de Agares de "la verdad, bien ordenada, hace más daño que cualquier mentira." Cierre sin resolver, sin informe limpio.
+
+**Recuento**: 7 beats planificados + 1 beat adicional no planificado pero conservado tras revisión (ver abajo) · objetivo ~2.400-2.900 palabras.
+
+**Estado**: ✅ PASS WITH FIXES (2026-08-20). **Prosa completa escrita** en `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B3C44pt5_EN.md` (2.266 palabras) — revisión de 5 paneles (informe completo en `chapters/EN/reports/B3C44.5_review.md`) encontró una contradicción numérica real (Agares dice "cuarta marcha" de Foras en la semana; Amy decía por separado "tres de ellas suyas" en vez de las cuatro) y varios tics verbales encadenados ("the way X hace Y" 6 veces incluida una frase repetida literal, "considerably" 8-10 veces, "the particular X" 5-6 veces). Correcciones bloqueantes aplicadas: alineado el número de marchas entre Agares y Amy; reducidos los tics; corregido un salto de POV (pensamiento privado de los soldados de guarnición afirmado como hecho en vez de inferencia explícita de Amy); reescrita la frase de cierre para no repetir casi literalmente una línea ya usada para Agares en `B2C36pt6`; ampliado el beat 5 (extracción de Flauros) con números concretos en vez de resumen, corrigiendo también una nota de Codex sobre ese tramo sintiéndose resumido. **8º beat no planificado**: un párrafo de aftermath en el patio de instrucción (los soldados que sobreactúan su lealtad reevaluándola tras ver el castigo) se coló durante la escritura y el revisor de ritmo lo confirmó como contenido real, no relleno — se documenta aquí como beat 8 explícito del patrón 18 (que admite 7-8 slots) en vez de dejarlo sin registrar. Primera escena de Flauros y de Amy en toda la prosa del proyecto, y primera presencia real de Agares (antes solo citado por terceros en `B2C36pt6` y `B3C44`).
+
+---
+
+## Capítulo B3C44.6 — "The Door No One Sealed" (POV Valefar/Vine, con Vepar) — nuevo, interludio, 8 beats (patrón 20)
+
+**Contexto**: interludio nuevo, pedido explícitamente por el usuario (2026-08-20) para dar escena propia a Valefar (*Captain / Gates and Seals*) y Vine (*Captain / Beast Control*), ambos fichados en `personajes.md` bajo **Vepar** (verificado línea por línea contra `personajes.md` líneas 2100-2115 — split limpio con Marbas/Raum, que están bajo Foras; ver `design_notes/2026-08-20_marbas_raum_valefar_vine_verification.md`), con cero apariciones en los 150 capítulos existentes. Sin entradas de outline para ninguno de los dos (verificado con `grep`, cero resultados). **Ancla temporal**: la misma semana que `B3C44_EN.md`, directamente después de la línea ya escrita y aprobada donde Vepar "characteristically, had simply declined to compete at all" por el trono vacío de Belial, "occupied instead with the fleet and the particular loyalty he'd apparently built with certain angelic commanders during the peace talks" — este interludio dramatiza la reacción de sus propios capitanes ante esa decisión, en vez de inventar una nueva. Coexiste, sin fricción de continuidad, con el interludio hermano `B3C44.5` (Flauros/Amy bajo Agares, escrito en paralelo esta misma sesión por otro proceso, ambos anclados a `B3C44`) — se verificó explícitamente en la revisión que ambos capítulos citan el mismo detalle ("Foras marchó una cuarta vez esta semana, y fracasó una cuarta vez") sin contradicción.
+
+**Decisión de diseño**: dado que Foras y Vepar tienen arcos ya muy distintos a esta altura (Foras fracasando por dogma bajo la corte fragmentada de Asmodeus; Vepar sosteniendo, en solitario entre los Comandantes de Hell, una alianza de campo con un Comandante angélico), sus capitanes deberían sentir la misma tensión que ya divide a sus comandantes — no como réplica del interludio de Marbas/Raum (B2C21.6, mismo encargo, ver arriba en `book2_part2_expanded_beats.md`), sino desde el extremo opuesto del cisma: Valefar (paranoico, su dominio entero es control de acceso) lee la alianza con el Host como una puerta sin sellar; Vine (instintivo, salvaje) no tiene opinión doctrinal, solo necesita una guerra real que la paz no le da. Vepar no resuelve el desacuerdo con palabras — lo canaliza en una tarea concreta para cada uno, coherente con su caracterización ya fijada (frío, pragmático, indiferente al teatro de corte, valora la competencia sobre la lealtad performativa).
+
+**Patrón narrador**: nuevo — **"Disenso canalizado" / "Channeled dissent"**, añadido a `beat-planner/SKILL.md` como patrón 20.
+
+1. **La auditoría de Valefar** (POV Valefar, categoría 1): revisa los informes sobre la negativa de Vepar a marchar sobre la fortaleza vacía y su alianza con el Host — su paranoia establecida, anclada en su propio dominio (una puerta sin auditar, no desconfianza genérica).
+
+2. **La inquietud de Vine** (POV Vine, categoría 1 + toque de categoría 6 no-combate): con su jauría, inquieto por una temporada sin guerra real que alimentar; un momento concreto de control de bestias establece su temperamento salvaje/impredecible.
+
+3. **Diálogo real** (categoría 5): Valefar busca a Vine para airear la preocupación; Vine, más interesado en una misión real que en la política, acepta acompañarlo para oír la respuesta él mismo.
+
+4. **Confrontación con Vepar** (categoría 5, diálogo real): Vepar no tranquiliza con calidez — razona, y cierra asignando a cada capitán una tarea que encaja con su propio dominio en vez de resolver la cuestión doctrinal (a Valefar, auditar cada punto de contacto de la línea compartida; a Vine, limpiar una zona de jaurías salvajes al sur).
+
+5. **La tarea de Valefar**: encuentra un hallazgo real pero pequeño y no traicionero (una costura sin sellar entre dos guardias aliadas) y lo sella él mismo — valida su cautela sin justificar la versión extrema de su paranoia.
+
+6. **La tarea de Vine** (categoría 6, acción real): despeja las jaurías salvajes, trae de vuelta once criaturas.
+
+7. **Diálogo de después** (categoría 5): el desacuerdo del beat 3 se nombra como sigue abierto, no resuelto por ninguna de las dos tareas.
+
+8. **Cierre** (POV Vepar): recibe ambos informes sin ofrecer tranquilidad completa a ninguno de los dos, contrastado implícitamente con el cuarto fracaso de Foras esa misma semana.
+
+**Recuento**: 8 beats · objetivo ~2.700-3.100 palabras.
+
+**Estado**: ✅ Prosa completa en `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B3C44pt6_EN.md` (2.706 palabras). Ver veredicto y fixes aplicados en `chapters/EN/reports/B3C44.6_review.md`.
+
+---
+
 ## Capítulo B3C45 — "The Silent Guardians" (POV compartido Michael/Thaeriel/Ereloth) — *epílogo de caminos separados, no una segunda despedida*
 
 **Patrón narrador**: capítulo final de la trilogía. **Corrección de continuidad**: dado que la despedida real ya ocurrió en B3C43, este capítulo es un epílogo tranquilo mostrando a cada uno ya en su nuevo camino — no una segunda "última reunión". Los tres beats de elección de camino se narran en secciones separadas por `---`, cada una con su propio POV ceñido.
