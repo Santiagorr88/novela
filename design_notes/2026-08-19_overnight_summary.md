@@ -19,6 +19,10 @@ Trabajo autónomo autorizado por el autor ("tienes 6 horas para seguir trabajand
 
 ## 🔴 Decisiones que necesitan tu criterio — no las he tocado
 
+### ✅ RESUELTO (2026-08-20): la prosa ya escrita gana
+
+El autor decidió la opción (B): la prosa ya aprobada es canónica, no el outline. `arco_argumental_completo.md` ya tiene la sección B3C087-125 marcada explícitamente como superada (commit `e763e6a`) — cualquier trabajo futuro sobre el final de Libro III debe partir de la prosa real (`B3C30_EN.md`-`B3C45_EN.md`), no de esas entradas.
+
 ### ⚠️ ACTUALIZACIÓN: esto es más grande de lo que pensaba al principio de la noche
 
 Lo que abajo describo como "el caso Belial" resultó ser la punta de un problema mucho más amplio: **una segunda auditoría (`design_notes/2026-08-19_contradictions_and_citations.md`) encontró que 5 de los personajes/mecanismos principales del clímax de Libro III tienen destinos incompatibles entre el outline actualizado y la prosa ya escrita y aprobada** — no solo Belial. Resumen rápido antes de los detalles:
