@@ -1348,6 +1348,8 @@
 
 #### Captains under Aamon:
 
+> **Nota (2026-08-20)**: Aamon murió en `B1C13_EN.md`, sacrificado por Belial para abrir el Sepulcro Llorón; su legión quedó explícitamente "scattered and leaderless" en esa misma prosa, y ninguna prosa posterior la reasignó formalmente — `content/lore/book3_part2_expanded_beats.md` (entrada B3C23) ya documenta que es Vepar, no Aamon, quien termina coordinando operativamente el frente de Hell tras esa muerte. **Ronove y Dantalion** permanecieron sin mando real durante libros hasta que Naamah los reclutó en el interludio `B3C28.6` ("What No One Came Back For", `chapters/EN/B3C28pt6_EN.md`) — sus fichas de combate no cambian, pero desde ese punto de la línea temporal su lealtad operativa es a Naamah, no a un puesto vacante. **Andras** no forma parte de este reclutamiento; su arco es independiente (`B1C11_EN.md`, `B1C13_EN.md`, `B3C25_EN.md`) y sigue sin comandante formal fijado en prosa.
+
 ### 💪 Ronove — *Captain / Raw Strength*  
 > “Every bone I break is music.”
 
