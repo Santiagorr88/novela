@@ -1565,6 +1565,25 @@ Narrative Function: Establish protagonist, tone, and inner conflict; define the 
 > colectivo; el Fragmento V del Codex se paga sin forzar muertes literales para
 > Ereloth y Thaeriel; Cielo pasa de Comandante Supremo único a consejo-de-iguales).
 
+> **⚠️ SUPERADO, 2026-08-20 — decisión explícita del autor.** Todo lo que sigue
+> desde aquí hasta el final del documento (entradas B3C087-125: "La misión de
+> Miguel", "El clímax de convergencia", "Consecuencias y transformación", y la
+> semilla de reencarnación B3C125) describe una versión del clímax y cierre de
+> Libro III que **la prosa ya escrita y aprobada no siguió**. Una auditoría
+> nocturna (`design_notes/2026-08-19_overnight_summary.md` y
+> `design_notes/2026-08-19_contradictions_and_citations.md`) encontró que la
+> prosa real (`B3C30_EN.md`-`B3C45_EN.md`) resuelve el clímax y el destino de
+> Belial, Ereloth, Thaeriel, Foras y Vepar de formas incompatibles con estas
+> entradas — no en detalles menores, sino en el mecanismo causal del propio
+> clímax (el origen de la Lágrima) y en el destino final de cinco personajes
+> principales. El autor decidió que **la prosa ya escrita es la versión
+> canónica**, no este outline. Estas entradas quedan como registro histórico
+> del ejercicio de diseño — parcialmente útiles (Uriel y Azael sí coinciden
+> con la prosa real, sin contradicción), pero **no vinculantes** para ningún
+> trabajo futuro sobre Libro III. Cualquier beat-planner o generación de
+> capítulos para el tramo final de Libro III debe partir de la prosa ya
+> escrita, no de estas entradas.
+
 ### La misión de Miguel — Cielo (B3C087-099)
 
 #### **B3C087: The Sentinel's Doubt**
