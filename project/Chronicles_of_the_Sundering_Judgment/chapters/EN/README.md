@@ -19,8 +19,10 @@ restructured *after* Part 2 was already written and approved starting at
 "chapter 11" in the old count. Renumbering Part 2 to close the gap would have
 touched a lot of already-approved content for a purely cosmetic fix, so Part 1
 got the distinct `Cap` prefix instead and Part 2 was left alone. Full
-reasoning: `content/lore/expansion_guidelines.md`, the line starting
-"**Decisión de nomenclatura**" (search for it).
+reasoning: `content/lore/expansion_progress_libro1.md`, the line starting
+"**Decisión de nomenclatura**" (search for it) — moved there from
+`expansion_guidelines.md` when that file was split into stable rules +
+per-book progress trackers on 2026-08-20.
 
 `B1C14` and `B1C16` don't exist as standalone files — they were deliberately
 replaced by whole subplot arcs instead (see below): `B1C14` by the Lament arc
@@ -48,7 +50,11 @@ and `content/lore/book1_lament_arc.md`.
 No split prefixes — straightforward `B2C01, B2C02...` and `B3C01, B3C02...`,
 plus inserted interludes using a decimal suffix (`B2C07pt5`, `B3C28pt6`, etc.)
 for scenes added between existing chapters after the fact. See
-`content/lore/expansion_guidelines.md` for what each interlude covers.
+`content/lore/expansion_progress_libro2.md` and
+`content/lore/expansion_progress_libro3.md` for what each interlude covers
+(and `content/lore/expansion_progress_cruzado.md` for the handful of sessions
+that added interludes to both books at once) — this used to be one section of
+`expansion_guidelines.md` before that file was split by book on 2026-08-20.
 
 ## Reports
 

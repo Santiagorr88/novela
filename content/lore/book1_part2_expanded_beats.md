@@ -1,7 +1,7 @@
 # Libro I, Parte 2 (original) — beats expandidos vía beat-planner
 
 Fecha: 2026-08-09
-Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de la Parte 2 que no forman parte del arco de Lament ni de las 5 tramas nuevas. Fuente del material original: `book1_part2_restructure_proposal.md` (mapeo + notas obligatorias) y `archive/arco_argumental_Duplicado.md` (texto completo). Progreso rastreado en la tabla "Estado de aplicación" de `expansion_guidelines.md`.
+Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de la Parte 2 que no forman parte del arco de Lament ni de las 5 tramas nuevas. Fuente del material original: `book1_part2_restructure_proposal.md` (mapeo + notas obligatorias) y `archive/arco_argumental_Duplicado.md` (texto completo). Progreso rastreado en la tabla "Estado de aplicación" de `expansion_progress_libro1.md` (desde el 2026-08-20 esta tabla ya no vive en `expansion_guidelines.md`, que se dividió en reglas estables + trackers de progreso por libro).
 
 ---
 
@@ -27,7 +27,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 6 beats · objetivo ~2.250-2.700 palabras (342-450 palabras/beat; 2.052 queda como límite inferior posible, no como objetivo).
 
-**Estado**: ✅ **APPROVED por Codex** (4ª pasada, 2026-08-09, tras 3 rondas de CHANGES_REQUIRED por: orden causal, categoría de expansión, antecedentes no marcados de Aamon, mecánica ritual no marcada, motivación de Andras, encuadre del cálculo de Belial como veredicto interesado no como hecho objetivo, y una vacante mal atribuida). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (4ª pasada, 2026-08-09, tras 3 rondas de CHANGES_REQUIRED por: orden causal, categoría de expansión, antecedentes no marcados de Aamon, mecánica ritual no marcada, motivación de Andras, encuadre del cálculo de Belial como veredicto interesado no como hecho objetivo, y una vacante mal atribuida). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -53,7 +53,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 6 beats · objetivo ~2.250-2.700 palabras (342-450 palabras/beat).
 
-**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: atribución incorrecta de la criatura de sombra a B1C06 en vez de B1C08, y 2 beats nuevos sin categoría aprobada explícita). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: atribución incorrecta de la criatura de sombra a B1C06 en vez de B1C08, y 2 beats nuevos sin categoría aprobada explícita). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -75,7 +75,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 6 beats · objetivo ~2.250 palabras, cerca del extremo inferior del rango (342-450 palabras/beat) — deliberado, el original exige ritmo "fast-paced, brutal", no densidad promedio artificial.
 
-**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: beat nuevo mal clasificado y sin acción táctica concreta). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: beat nuevo mal clasificado y sin acción táctica concreta). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -99,7 +99,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 7 beats · objetivo ~2.400-3.000 palabras (342-450 palabras/beat; tope editorial en 3.000).
 
-**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: el Consejo trataba la caída de Aamon/portal como noticia fresca sin contar con que todo el arco de Lament ya transcurrió entre B1C13 y este capítulo). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: el Consejo trataba la caída de Aamon/portal como noticia fresca sin contar con que todo el arco de Lament ya transcurrió entre B1C13 y este capítulo). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -125,7 +125,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 7 beats · objetivo ~2.400-3.000 palabras (342-450 palabras/beat).
 
-**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: duplicación entre beats 1-2 sobre la súplica de Gabriel, frase que exageraba el estado del vínculo Miguel-Gabriel, y beat de demonio individualizado sin micro-POV real). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: duplicación entre beats 1-2 sobre la súplica de Gabriel, frase que exageraba el estado del vínculo Miguel-Gabriel, y beat de demonio individualizado sin micro-POV real). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -151,7 +151,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 6 beats · objetivo ~2.100-2.700 palabras (342-450 palabras/beat) — deliberadamente en el extremo más contenido del rango, coherente con el "short, quiet" del original; no se fuerza a 3.000.
 
-**Estado**: ✅ **APPROVED por Codex** (1ª pasada, 2026-08-09 — sin correcciones necesarias). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (1ª pasada, 2026-08-09 — sin correcciones necesarias). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -177,7 +177,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 7 beats · objetivo ~2.400-3.000 palabras (342-450 palabras/beat).
 
-**Estado**: ✅ **APPROVED por Codex** (1ª pasada, 2026-08-09 — sin correcciones necesarias). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (1ª pasada, 2026-08-09 — sin correcciones necesarias). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -201,7 +201,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 6 beats · objetivo ~2.250-2.700 palabras (342-450 palabras/beat).
 
-**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: el beat de "weaponizing sorrow" todavía leía como rendición emocional en vez de redirección táctica del dolor, y el beat de Foras implicaba una maniobra contra Belial que la Trama 5 no contiene). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por: el beat de "weaponizing sorrow" todavía leía como rendición emocional en vez de redirección táctica del dolor, y el beat de Foras implicaba una maniobra contra Belial que la Trama 5 no contiene). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -229,7 +229,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 6 beats · objetivo ~2.100-2.550 palabras (342-450 palabras/beat), deliberadamente contenido por el tono "brief, mysterious" del original.
 
-**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por fuga real de reveal-pacing: la frase "tercer punto del antiguo triángulo" del original conectaba demasiado explícitamente con la profecía recién revelada en B1C18-B1C19; corregido a imagen agnóstica; también corregidos el beat de la montaña y la clasificación de patrón). Marcado como completado en `expansion_guidelines.md`.
+**Estado**: ✅ **APPROVED por Codex** (2ª pasada, 2026-08-09, tras 1 ronda de CHANGES_REQUIRED por fuga real de reveal-pacing: la frase "tercer punto del antiguo triángulo" del original conectaba demasiado explícitamente con la profecía recién revelada en B1C18-B1C19; corregido a imagen agnóstica; también corregidos el beat de la montaña y la clasificación de patrón). Marcado como completado en `expansion_progress_libro1.md`.
 
 ---
 
@@ -253,7 +253,7 @@ Aplica `.claude/skills/beat-planner/SKILL.md` a los 10 capítulos originales de 
 
 **Recuento**: 6 beats · objetivo ~2.250-2.700 palabras (342-450 palabras/beat).
 
-**Estado**: ✅ **APPROVED por Codex** (3ª pasada, 2026-08-09, tras 2 rondas de CHANGES_REQUIRED — la única sustancial fue la clasificación de patrón, que no encajaba genuinamente en el patrón 2 y se reclasificó como patrón 10 nuevo; la 3ª ronda fue una referencia residual de limpieza). Marcado como completado en `expansion_guidelines.md`. **Último capítulo de la Parte 2 original — goal completado.**
+**Estado**: ✅ **APPROVED por Codex** (3ª pasada, 2026-08-09, tras 2 rondas de CHANGES_REQUIRED — la única sustancial fue la clasificación de patrón, que no encajaba genuinamente en el patrón 2 y se reclasificó como patrón 10 nuevo; la 3ª ronda fue una referencia residual de limpieza). Marcado como completado en `expansion_progress_libro1.md`. **Último capítulo de la Parte 2 original — goal completado.**
 
 ---
 

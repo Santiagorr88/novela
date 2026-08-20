@@ -11,7 +11,7 @@ This skill exists to make that fix repeatable instead of something that has to b
 
 ## When to run this
 
-Before writing prose for any chapter — new or already outlined. Also run it retroactively on any existing beat plan that has fewer than 6 beats (see `content/lore/expansion_guidelines.md`'s audit note — as of 2026-08-08 that's all 6 Lament arc chapters and all 18 new-subplot chapters).
+Before writing prose for any chapter — new or already outlined. Also run it retroactively on any existing beat plan that has fewer than 6 beats (see `content/lore/expansion_progress_libro1.md`'s 2026-08-08 audit note — as of that date that was all 6 Lament arc chapters and all 18 new-subplot chapters; both are now 100% complete per that same tracker, so this note is historical context rather than an open action item as of 2026-08-20).
 
 ## Inputs required
 

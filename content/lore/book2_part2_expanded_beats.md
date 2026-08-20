@@ -3,7 +3,7 @@
 Fecha: 2026-08-11
 Fuente: `content/lore/archive/arco_argumental_Duplicado_part2.md`. Mismas adaptaciones de canon que la Parte 1 (ver `book2_part1_expanded_beats.md`): Miguel/Mikel Ardon, Iofiel femenino, Belial sin Solmire, hilo de reencarnación, Dialogue check del beat-planner.
 
-**Añadido en esta parte**: los momentos de poder/presencia de Zadkiel, Raphael, Gabriel, Foras y Vepar decididos vía llm-council (ver `expansion_guidelines.md`) — cada uno en la forma que el filtro determinó, no todos combate.
+**Añadido en esta parte**: los momentos de poder/presencia de Zadkiel, Raphael, Gabriel, Foras y Vepar decididos vía llm-council (ver `expansion_progress_cruzado.md` — esta decisión también dio escena a Uriel en el Libro I, así que vive en el tracker cruzado desde la división de `expansion_guidelines.md` del 2026-08-20) — cada uno en la forma que el filtro determinó, no todos combate.
 
 ---
 
@@ -123,7 +123,7 @@ Fuente: `content/lore/archive/arco_argumental_Duplicado_part2.md`. Mismas adapta
 
 **Patrón narrador**: nuevo — introducción atmosférica de un personaje ya activo en el trasfondo (visto de pasada en B2C18) pero nunca en primer plano.
 
-**Nota importante**: pese al título original, este NO es el capítulo donde Milo Ray habla con Mikel — esa tensión sigue sin resolver (ver nota en `expansion_guidelines.md`, decisión pendiente del usuario). Aquí solo se presenta a Milo Ray como personaje, en paralelo, sin que se crucen.
+**Nota importante**: pese al título original, este NO es el capítulo donde Milo Ray habla con Mikel — esa tensión sigue sin resolver (ver nota en `expansion_progress_libro2.md`, decisión pendiente del usuario). Aquí solo se presenta a Milo Ray como personaje, en paralelo, sin que se crucen.
 
 1. **A Song for a Flower** (original, sin cambios) — Milo toca la guitarra en un parque. Una flor marchita en una maceta cercana florece cuando toca un acorde.
 
