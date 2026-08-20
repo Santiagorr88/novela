@@ -167,6 +167,32 @@ Fuente: `content/lore/archive/arco_argumental_Duplicado_part2.md`. Mismas adapta
 
 ---
 
+## Capítulo B2C21.6 — "The Grief They Mistook for Softness" (POV Marbas/Raum, con Foras) — nuevo, interludio, 7 beats (patrón 19)
+
+**Contexto**: interludio nuevo, pedido explícitamente por el usuario (2026-08-20) para dar escena propia a Marbas y Raum, dos de los cuatro Captains bajo Foras/Vepar fichados en `personajes.md` con cero apariciones en los 150 capítulos existentes (los otros dos, Valefar y Vine, están fichados bajo Vepar, no Foras — ver `design_notes/2026-08-20_marbas_raum_valefar_vine_verification.md` para la verificación completa de jerarquía, que confirmó la premisa del encargo sin necesitar corrección, a diferencia del caso Ronove/Dantalion). Sin entradas de outline específicas para ninguno de los cuatro nombres (verificado con `grep`, cero resultados en `arco_argumental_completo.md`). **Punto de inserción**: inmediatamente después de B2C21.5, dramatizando literalmente la propia predicción de Foras en ese capítulo — *"The lesser captains would test him next, small provocations disguised as ordinary business, each one calibrated to see how much he'd let slide before he answered."* Marbas (amoral, oportunista) es el candidato natural para intentar la prueba; Raum (fatalista, "ya ha visto cómo terminan las cosas") es el contrapeso que desaconseja.
+
+**Patrón narrador**: nuevo — **"Capitanes que prueban a un comandante herido"**, añadido a `beat-planner/SKILL.md` como patrón 19.
+
+1. **El cálculo de Marbas** (POV Marbas, categoría 1): en su taller, la misma noche de la muerte de Malthus, Marbas recalibra implantes mientras un mensajero le trae la noticia — su personalidad amoral/mecánica establecida, y su cálculo frío de que la legión huérfana de Malthus es un activo sin dueño mientras Foras está distraído.
+
+2. **La visión que no eligió** (POV Raum, categoría 1 + toque de categoría 6): Raum usa *Lethae* sobre un soldado capturado; la visión de pesadilla, sin que él lo dirija, sigue volviendo a un único punto — un dais, una figura sentada — dejándolo inquieto sin creer que sea profecía literal.
+
+3. **Diálogo real** (categoría 5, POV Marbas): Marbas propone a Raum reclamar la legión de Malthus sin autorización, enmarcado como iniciativa; Raum le advierte, citando el mismo instinto fatalista de su ficha, sin apelar a la lealtad sentimental.
+
+4. **La sobre-extensión** (POV Marbas, categoría 6 ligera): Marbas reprograma él mismo, durante toda la noche, a cuarenta soldados supervivientes de Malthus con implantes de *Tekrion*, sin autorización previa.
+
+5. **La respuesta de Foras** (POV Foras, categoría 5, diálogo real): Foras confronta a Marbas con el mismo método frío ya establecido en B2C21.5 — sin ira visible, castigo preciso y no destructivo (mantiene a Marbas al mando de los soldados pero bajo sello y reporte obligatorio, más un uso dirigido de *Noesis*).
+
+6. **La vindicación silenciosa de Raum** (POV Raum): visita a Foras después de los hechos; reconocimiento sin calidez de que Raum entendió correctamente el momento, distinto del castigo de Marbas.
+
+7. **Cierre** (POV Foras): reflexión final que conecta el pequeño episodio con la deuda todavía sin saldar hacia Vepar, ya sembrada en B2C21.5 — el ensayo confirma el método que usará a mayor escala.
+
+**Recuento**: 7 beats · objetivo ~2.400-2.900 palabras.
+
+**Estado**: ✅ Prosa completa en `project/Chronicles_of_the_Sundering_Judgment/chapters/EN/B2C21pt6_EN.md` (2.609 palabras). PASS WITH FIXES (2026-08-20) — ver `chapters/EN/reports/B2C21.6_review.md`. Panel de 4 subagentes Claude + lectura independiente de Codex. Fixes bloqueantes aplicados: (1) contradicción interna de cronología — la apertura original situaba el colapso nervioso de un soldado "tres días después" de la muerte de Malthus, contradiciendo el resto del capítulo (que transcurre la misma noche) y el marco temporal ya fijado en B2C21.5 — corregido a "esa misma noche, horas después"; (2) cabeceo de POV real en el párrafo de cierre — el original afirmaba como hecho omnisciente la certeza privada de Vepar dentro de una escena anclada en Foras, sin sección propia de Vepar en este capítulo que lo justificara (a diferencia de B2C21.5, que sí gana ese recurso por tener su propia sección completa de Vepar) — detectado independientemente por el revisor de estilo y por Codex, corregido reescribiendo el cierre como especulación explícitamente cubierta de Foras ("He wondered, briefly and without much real curiosity..."); (3) el beat 4 (la sobre-extensión, la transgresión central del capítulo) estaba comprimido en un solo párrafo de transición de 108 palabras, desproporcionado a su peso narrativo — señalado también por Codex de forma independiente — expandido a una escena dramatizada de ~230 palabras; (4) el efecto de *Noesis* sobre Marbas (drenar "certeza" en vez de fe/arrogancia) necesitaba justificación explícita en el texto — Codex lo marcó como "arbitrario" al no explicarse — añadida una cláusula explicando que Marbas no tenía fe que Noesis pudiera encontrar. Fixes no bloqueantes: puntuación corregida, tic "considerably" recortado de 5 usos a 1, línea de cierre de Foras en la confrontación acortada a un registro más seco, coherente con su voz ya establecida en B2C21.5.
+
+---
+
 ## Capítulo B2C22 — "City of Whispering Shadows" (POV Arin) — 3 → 6 beats
 
 **Patrón narrador**: patrón 1 adaptado, investigación noir en territorio sutil — necesita más beats que el resto, solo tenía 3 en el original.
