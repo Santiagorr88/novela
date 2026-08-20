@@ -16,7 +16,7 @@ He knew the feeling from the inside well enough to recognize it without needing 
 
 ---
 
-Valefar found him there, tether creaking, the scarred beast finally settling into something like sleep. "You feel it too," Valefar said, without preamble, the particular economy of a man who considered small talk a wasted key on a lock that didn't need one. "The whole camp's grown too quiet to trust."
+Valefar found him there, tether creaking, the scarred beast finally settling into something like sleep. "You feel it too," Valefar said, without preamble, in what Vine had come to read as the economy of a man who considered small talk a wasted key on a lock that didn't need one. "The whole camp's grown too quiet to trust."
 
 "I feel a pack that hasn't fought in a season," Vine said. "Not the same complaint as yours."
 
@@ -38,7 +38,7 @@ Vepar studied him a long moment, the same unhurried study he gave a stretch of o
 
 "I think you've never once needed to convince me that Camael himself means it. I think it only takes one soldier on either side who wants a war more than his own commander does, and an arrangement like yours has considerably more of those soldiers standing near it than you've apparently accounted for." Valefar held the marshal's gaze without flinching from it, which Vine judged, watching him, to be rarer in this court than the captain likely realized. "I'm not asking you to end it. I'm telling you no one's built the seal that keeps it from being used against you, and I'd rather be the one who builds it than the one who explains, afterward, why nobody thought to."
 
-Vepar was quiet a moment, and Vine watched something settle behind his translucent stillness that read less like offense than like a man recalculating how much of his own certainty he still wanted to defend against an argument that had, against his expectation, actually landed somewhere useful. "Then audit it," Vepar said finally. "Every point of contact along the shared line, every soldier on either side with access to more than his own orders. Report the gaps to me directly, not to the wider court, and not to Foras's remaining faithful, who'd use it for considerably worse purposes than sealing it. If you find nothing, you'll have wasted a season's patience proving a season's suspicion wrong. I judge that an acceptable cost, against the alternative of you carrying it around unspoken and unresolved."
+Vepar was quiet a moment, and Vine watched something settle behind his translucent stillness that read less like offense than like a man recalculating how much of his own certainty he still wanted to defend against an argument that had, against his expectation, actually landed somewhere useful. "Then audit it," Vepar said finally. "Heaven's own side of it least of all — Camael tells anyone who asks him that there's no border left standing worth a formal watch, and no one above him has troubled to check whether the men actually holding it agree. Every point of contact along the shared line, every soldier on either side with access to more than his own orders. Report the gaps to me directly, not to the wider court, and not to Foras's remaining faithful, who'd use it for considerably worse purposes than sealing it. If you find nothing, you'll have wasted a season's patience proving a season's suspicion wrong. I judge that an acceptable cost, against the alternative of you carrying it around unspoken and unresolved."
 
 "And me," Vine said, before the silence could close back over the arrangement. "I didn't come to watch him work a lock."
 

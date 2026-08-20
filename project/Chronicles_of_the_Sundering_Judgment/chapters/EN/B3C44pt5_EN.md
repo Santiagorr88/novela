@@ -1,6 +1,6 @@
 # B3C44.5 – What the Cube Found
 
-Agares never simply told her what he wanted. He folded it inside a longer observation instead, and left her to do the unfolding herself.
+Agares, in Amy's long experience of him, never simply told her what he wanted. He folded it inside a longer observation instead, and left her to do the unfolding herself.
 
 "Foras marched on the fortress a fourth time this week," he said, turning a folded dispatch over in his hands without opening it, the bifid edge of his voice splitting the sentence into two overlapping tones that never quite agreed with each other. "And a fourth time, his soldiers watched him do it rather than following him into it. I find that distinction considerably more interesting than the marching itself." He let the dispatch rest, unopened, on the table between them. "Asmodeus wants an accounting of who in Hell's current disarray still commands genuine loyalty, and who commands only a fear too thin to survive close inspection. I could simply ask the soldiers. Soldiers, asked directly, tell a commander whatever keeps the asking from continuing." His smile widened, unhurried, entirely too pleased with itself. "You, Amy, don't need to ask. You need only give someone enough rope to discover, on his own, which conviction he's actually been standing on."
 
@@ -24,7 +24,7 @@ He didn't answer immediately, and she read the delay as data rather than defianc
 
 ---
 
-Flauros found her patience harder to watch than the soldier found her questions.
+She could tell Flauros found her patience harder to watch than the soldier found her questions.
 
 "You've been at this an hour." *Aflame* uncoiled restlessly against his hip, tasting the air the way it always did when he'd gone too long without using it. "I could have the truth out of him in a fraction of the time you've spent watching him think."
 
