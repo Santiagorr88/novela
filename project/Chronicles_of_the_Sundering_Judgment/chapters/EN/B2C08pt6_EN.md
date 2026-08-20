@@ -2,7 +2,7 @@
 
 Balam found him in the drilling yard, which was, Malphas reflected, exactly where a storm always found anyone — not by looking, but by simply arriving wherever the air had already started to change. He didn't look up from the scale model he was correcting, a half-collapsed relief of the border seam rendered in packed grey clay, until the shadow crossing it told him the correcting had stopped mattering for the moment.
 
-"That stretch past the ridge." Balam didn't waste breath on preamble; he never did, and Malphas had stopped expecting him to. "An earlier catch of Barbas's came off it, before the sentinel he's got now. There'll be another patrol through before the week's out — smaller, careless, thinking the ground's already been swept clean once." Two of his three faces had settled into something almost still, which for Balam counted as patience. "I want it closed before they cross it."
+"That stretch past the ridge." Balam didn't waste breath on preamble; he never did, and Malphas had stopped expecting him to. "An earlier catch of Barbas's came off it, before the sentinel he's got now. There'll be another patrol through before the week's out — smaller, careless, thinking the ground's already been swept clean once." Two of his three faces had settled into something Malphas read as almost still, which for Balam counted as patience. "I want it closed before they cross it."
 
 "Closed how."
 

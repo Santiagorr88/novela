@@ -8,7 +8,7 @@ He did not send word to Gabriel. He did not send word to Iofiel, whose translati
 
 ---
 
-Eshriel arrived first, already moving before he'd finished crossing the threshold, the restless heat of him filling the doorway a full breath before the rest of him did. Jahiel came next, unhurried, his robe's white catching the ward-light without holding onto any of it. Zaphiel came last and stood straightest, the way he always did, as though stillness were a discipline rather than simply the absence of motion.
+Eshriel arrived first, already moving before he'd finished crossing the threshold, the restless heat of him filling the doorway a full breath before the rest of him did. Jahiel came next, unhurried, his robe's white catching the ward-light without holding onto any of it. Zaphiel came last and stood straightest, as he always did, in a stillness Raziel had long since decided was a discipline rather than simply the absence of motion.
 
 "A resonance," Raziel said, without preamble, and told them what the ward had found, and where — a burned monastic ruin on Earth called, by the handful of scholars who still remembered it existed, the Ashgrave, built four centuries past on a leyline no one currently living had mapped. "Old. Weak. Unclaimed. I want it verified, contained, and reported to me alone before it is reported to anyone else."
 
@@ -22,7 +22,7 @@ Zaphiel said nothing for a moment, his pale gaze resting on Raziel rather than o
 
 "Then there's something in the shape of it you already recognize, and you're sending the three of us to confirm a thing you've already decided is true." Zaphiel's voice held no accusation in it, only the flat, unhurried certainty of a man reading a verdict off a wall. "That's not verification. That's cover, and you know it."
 
-"It's both," Raziel said, "and you'll have everything I can safely give you before you leave this room, which is the coordinates, the danger, and my order. The rest isn't safely mine to give yet — not because I doubt you'd carry it, but because I've watched knowledge like this cost captains who carried it before they understood the weight, and I am not yet willing to spend either of you finding out whether this is that kind of knowledge or not." He held Zaphiel's stare until the younger officer's jaw eased, not into agreement, but into the particular patience of a soldier filing a grievance rather than abandoning it. "Go. Report to me. No one else."
+"It's both," Raziel said, "and you'll have everything I can safely give you before you leave this room, which is the coordinates, the danger, and my order. The rest isn't safely mine to give yet — not because I doubt you'd carry it, but because I've watched knowledge like this cost captains who carried it before they understood the weight, and I am not yet willing to spend either of you finding out whether this is that kind of knowledge or not." He held Zaphiel's stare until the younger officer's jaw eased, not into agreement, but into what Raziel read as the patience of a soldier filing a grievance rather than abandoning it. "Go. Report to me. No one else."
 
 ---
 
@@ -32,7 +32,7 @@ The Ashgrave had not burned in the way its name suggested fire burned — no sco
 
 "It's not talking back to you yet. Give it a reason."
 
-"It's already talking," Jahiel said. "Just not to you." He rose, and for the first time since they'd arrived, something in his gentle, iron-willed face went carefully, deliberately still. "Stand at the door, Eshriel. Not because I doubt your nerve. Because I don't yet know what walking further in costs."
+"It's already talking," Jahiel said. "Just not to you." He rose, and for the first time since they'd arrived, something in his gentle, iron-willed face went carefully still. "Stand at the door, Eshriel. Not because I doubt your nerve. Because I don't yet know what walking further in costs."
 
 ---
 
@@ -54,7 +54,7 @@ It should have settled the question cleanly. It didn't. The resonance was streng
 
 "If the site goes fully unstable—"
 
-"Then it goes unstable around him too, and we've lost nothing by trying to keep him breathing in the meantime." Jahiel's voice didn't rise. It never did. "You judge what deserves the light, Zaphiel. I've never once heard you claim an old man sweeping ash he doesn't understand deserves to be judged for it."
+"Then it goes unstable around him too, and we've lost nothing by trying to keep him breathing in the meantime." Jahiel's voice didn't rise. It rarely did, in Zaphiel's experience. "You judge what deserves the light, Zaphiel. I've never once heard you claim an old man sweeping ash he doesn't understand deserves to be judged for it."
 
 Zaphiel said nothing. Somewhere beneath them, the fragment's pulse quickened, and the floor of the Ashgrave began, very softly, to sing.
 

@@ -16,7 +16,7 @@ It chose wrong. She caught its arm before the blade it drew had cleared its own 
 
 ---
 
-Kadan reached her a moment later, Umbral already drawn, and Hadriel read in the flat certainty of his approach exactly what he intended to do next. He had served under her long enough that she trusted his instincts in nearly every circumstance the Veil produced, and distrusted, in this one specific circumstance, the same binary clarity that made him so reliable in every other. "It crossed," he said, not quite a question, Umbral's key-shaped blade already angled for a sealing strike rather than a restraining one. "You pass, or you don't, Captain. It didn't."
+Kadan reached her a moment later, Umbral already drawn, and Hadriel read in the flat certainty of his approach what she took for exactly what he intended to do next. He had served under her long enough that she trusted his instincts in nearly every circumstance the Veil produced, and distrusted, in this one specific circumstance, the same binary clarity that made him so reliable in every other. "It crossed," he said, not quite a question, Umbral's key-shaped blade already angled for a sealing strike rather than a restraining one. "You pass, or you don't, Captain. It didn't."
 
 "It's yielded, Kadan."
 
@@ -28,7 +28,7 @@ She held her position over the demon a moment longer than the restraint alone re
 
 "You don't put Umbral through a throat that's already on the ground and already talking," she said, keeping her voice even, neither an order dressed as a suggestion nor a rebuke dressed as patience. "Not because the threshold changed its mind about what it saw. Because I haven't finished deciding yet what its yielding is worth, and neither, if you're honest with yourself, have you." She did not lower Umbría from the demon's throat as she said it, unwilling to let mercy look, even briefly, like carelessness. "Send for Raguel. This isn't mine to finish alone. It was never going to be yours either."
 
-Kadan didn't argue, though something in his stillness made plain he hadn't fully agreed — the quiet of a soldier following an order he trusted more than he currently trusted his own read of the moment. He sent the signal himself and settled into the same watchful readiness he brought to every threshold he'd ever guarded.
+Kadan didn't argue, though something in his stillness made plain he hadn't fully agreed — the quiet, Hadriel judged, of a soldier following an order he trusted more than he currently trusted his own read of the moment. He sent the signal himself and settled into the same watchful readiness he brought to every threshold he'd ever guarded.
 
 ---
 
@@ -44,7 +44,7 @@ Raguel let Equitas's head rest lightly against the frozen ground beside the demo
 
 Kadan took the correction without visible resentment, without argument — only the stillness of a soldier recalculating a rule he'd trusted absolutely until this exact moment proved it incomplete. "The threshold doesn't usually lie to me," he said, quiet, not quite an apology.
 
-"It didn't lie to you tonight either," Raguel said. "It told you the truth about the crossing. It never claimed to tell you the whole truth about the one who made it. That was never the threshold's job. It's mine." He lowered Equitas to rest against his shoulder, the interrogation's weight visibly settling somewhere behind his own composed face. "Take it to the interrogation cells under standard guard, not a cell built for punishment. If the names and the staging-ground hold up, this becomes the best report Selaphiel's had in a month. If they don't, Kadan, I will personally hand you back the verdict you wanted tonight, and I won't ask you to wait for a staff to weigh it a second time."
+"It didn't lie to you tonight either," Raguel said. "It told you the truth about the crossing. It never claimed to tell you the whole truth about the one who made it. That was never the threshold's job. It's mine." He lowered Equitas to rest against his shoulder, his face composed, giving nothing further away. "Take it to the interrogation cells under standard guard, not a cell built for punishment. If the names and the staging-ground hold up, this becomes the best report Selaphiel's had in a month. If they don't, Kadan, I will personally hand you back the verdict you wanted tonight, and I won't ask you to wait for a staff to weigh it a second time."
 
 "That's fair," Kadan said, and meant it, sheathing Umbral at last, though his eyes stayed on the demon a moment longer, as if the threshold might yet reconsider what it had let through.
 
