@@ -54,7 +54,7 @@ He pressed himself back against whatever cover the churned ground still offered,
 
 ## What They No Longer Recognize
 
-An angelic soldier who had once fought at Miguel's own side, who had cheered his name across a dozen earlier campaigns, watched him pass close by for the first time since whatever had begun changing him first took hold. He watched the same silent light move through the field and felt none of the demon's pure terror. He felt something he had no comfortable name for, a mixture of reverence he still felt duty-bound to offer and a revulsion he could not bring himself to name even privately.
+An angelic soldier who had once fought at Miguel's own side, who had cheered his name across a dozen earlier campaigns, watched him pass close by for the first time since whatever had begun changing him first took hold. He watched the same silent light move through the field and felt none of the raw terror he imagined it should have carried. He felt something he had no comfortable name for, a mixture of reverence he still felt duty-bound to offer and a revulsion he could not bring himself to name even privately.
 
 He wanted to call out, to greet Miguel the way he always had across every prior engagement they had shared. He said nothing instead, and let the light pass without acknowledgment, the silence settling into him with a weight he had not expected.
 

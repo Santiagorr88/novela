@@ -22,7 +22,7 @@ For days the ache had been a dull throb, easy enough to bury beneath duty. Now i
 
 ## Counsel
 
-The oppressive stillness broke on a chord of pure harmony. Gabriel had arrived, and his presence was a physical relief, a sudden coolness on sun-scorched skin. Soft light spread around his brother, dispelling the gloom for a pace. Miguel felt love, sharp enough to hurt, and close behind it, shame. He did not want Gabriel — the Herald of Sacred Resonance, keeper of a thousand tongues — to see him like this: unraveled, hunting a phantom ache across a cursed waste. He straightened, a futile attempt at a commander's bearing, but the weariness was carved too deep to hide. Gabriel's face held no judgment. It held something worse: a raw, aching worry.
+The oppressive stillness broke on a chord of pure harmony. Gabriel had arrived, and his presence was a physical relief, a sudden coolness on sun-scorched skin. Soft light spread around his brother, dispelling the gloom for a pace. Miguel felt love, sharp enough to hurt, and close behind it, shame. He did not want Gabriel — the Herald of Sacred Resonance, keeper of a thousand tongues — to see him like this: unraveled, hunting a phantom ache across a cursed waste. He straightened, a futile attempt at a commander's bearing, but the weariness was carved too deep to hide. Gabriel's face held no judgment. To Miguel it looked like something worse: a raw, aching worry.
 
 "The Council is concerned, Miguel." Gabriel's voice carried that same first harmony, but strained now with an audible plea. "They fear this is a deception — a lure the enemy crafted to draw you out. Your absence puts fear in the Host."
 

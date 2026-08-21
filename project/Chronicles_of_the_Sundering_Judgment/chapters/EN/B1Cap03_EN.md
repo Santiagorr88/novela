@@ -38,7 +38,7 @@ The council chamber had not been built to hold a weapon like this one, and Migue
 
 Solmire's light did not fight the chamber's own radiance so much as quietly outclass it — the ancient, careful engravings along the walls, wrought over centuries to catch and hold the Bastion's glow, suddenly looked labored beside the sword's effortless brightness. No one in the chamber remarked on it aloud, but Miguel saw more than one gaze drift from the walls to the blade and stay there. Miguel set the blade across both palms and held it out, less an offering than a statement of fact.
 
-Raphael was the first to move, crossing the chamber before Gabriel or Uriel had visibly reacted to what stood before them. He did not reach for the sword. He stopped an arm's length short of it, his gaze fixed and unmoving, the particular stillness of a healer listening for a heartbeat he could not yet hear.
+Raphael was the first to move, crossing the chamber before Gabriel or Uriel had visibly reacted to what stood before them. He did not reach for the sword. He stopped an arm's length short of it, his gaze fixed and unmoving, the particular stillness Miguel read as a healer listening for a heartbeat he could not yet hear.
 
 An aide at his shoulder — young and newly assigned to Raphael's staff — ventured, "Is something wrong, my lord?"
 

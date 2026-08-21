@@ -36,7 +36,7 @@ Gabriel crossed three separate halls before he trusted his own face again, and e
 
 A pair of junior seraphim greeted him warmly near the archive wing, delighted, as always, to cross paths with the Herald of Sacred Resonance, one of them mentioning, brightly, how much she had enjoyed the new hymn. Gabriel returned their greeting with a smile that felt, from the inside, like something assembled rather than felt. He did not think either of them noticed the difference, occupied as they were with their own small pleasantries. He noticed it acutely, the effort it now took to produce an expression that had once required none at all.
 
-He passed a chapel where a small group had gathered to sing one of the new hymns in Miguel's honor, their voices earnest and untroubled, and found he could not make himself stop to listen. One of the singers caught his eye through the open doorway and smiled, delighted, clearly expecting the Herald himself might join them. Gabriel returned the smile as best he could manage and kept walking, grateful the singer did not follow.
+He passed a chapel where a small group had gathered to sing one of the new hymns in Miguel's honor, their voices earnest and untroubled, and found he could not make himself stop to listen. One of the singers caught his eye through the open doorway and smiled, delighted, seeming to expect the Herald himself might join them. Gabriel returned the smile as best he could manage and kept walking, grateful the singer did not follow.
 
 The cost of his brother's transformation, he was beginning to understand, reached beyond the room where it happened. In every hallway he crossed afterward, Gabriel felt its burden, borne for Miguel as much as for himself. He reached his own chambers at last and sat, alone, for far longer than he had meant to, before he finally found the composure needed to face whatever remained of the evening still required of him.
 
@@ -60,7 +60,7 @@ Miguel turned that answer over for longer than he wanted to admit needing to, th
 
 "No," Raphael agreed, very quietly, without hesitation. "But it's the true one, and I think you'd rather have that than the comfortable version."
 
-Miguel did not respond. He kept his eyes fixed on the sword rather than on Raphael, and Raphael, after a long moment of shared silence, rose and retrieved his staff. He left Miguel there, alone again with the hum, and did not ask what had prompted the question in the first place, or press for the answer he suspected that silence was withholding.
+Miguel did not respond. He kept his eyes fixed on the sword rather than on Raphael, and Raphael, after a long moment of shared silence, rose and retrieved his staff. He left Miguel there, alone again with the hum, and did not ask what had prompted the question in the first place, or press for the answer that silence, Miguel sensed, was withholding.
 
 ## An Order Given
 
