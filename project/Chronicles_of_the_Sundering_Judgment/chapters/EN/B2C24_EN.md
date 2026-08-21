@@ -16,13 +16,13 @@ She said it plainly, once the silence had stretched long enough that filling it 
 
 Mikel wrapped both hands around the cup more for something to hold onto than for the warmth of it, and found himself, for once, not immediately reaching for a way to deflect the observation. "I'm starting to think it was looking for me long before I noticed anything was missing," he said.
 
-It wasn't a full confession. It was the closest he'd come to one in longer than he could easily measure, and he watched something in her expression settle at hearing it — not satisfaction exactly, but the particular quiet of someone who had been waiting a long time for even this much honesty and had finally, unexpectedly, received it.
+It wasn't a full confession. It was the closest he'd come to one in longer than he could easily measure, and he watched something in her expression settle at hearing it — not satisfaction exactly, but what looked, to Mikel, like the quiet of someone who had been waiting a long time for even this much honesty and had finally, unexpectedly, received it.
 
 "How long, do you think?" she asked, after a moment. "Whatever it is. How long has it been looking?"
 
 Mikel turned the question over longer than its size seemed to warrant, his eyes drifting to the stack of open books between them without really seeing any of them. "I don't know yet," he admitted. "Longer than I've been alive to notice it, is the honest guess. I know that sounds insane."
 
-"You've said stranger things to me this semester than that one." She said it lightly, but something careful sat underneath the lightness, the particular gentleness of a friend deciding not to push a door that was already, however slowly, opening on its own. "I'm not going anywhere, Ardon. Whatever this turns out to be."
+"You've said stranger things to me this semester than that one." She said it lightly, but something careful sat underneath the lightness, the particular gentleness Mikel read as a friend deciding not to push a door that was already, however slowly, opening on its own. "I'm not going anywhere, Ardon. Whatever this turns out to be."
 
 She didn't push for more. She only nodded once, as though the admission had confirmed something she'd already suspected, and let the silence between them sit companionably rather than forcing it toward anything neither of them was ready for yet.
 

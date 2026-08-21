@@ -26,7 +26,7 @@ He didn't force the door tonight. Forcing it would announce, to whatever watched
 
 ---
 
-The security guard he approached the next evening carried himself with the particular weariness of a man fifteen years into a job that had stopped surprising him around year three, his uniform pressed out of long habit rather than any remaining pride in the wearing of it. Arin introduced himself as an outside investigator, a lie broad enough to survive casual scrutiny, and let the man's own restlessness do most of the work before he'd even finished the first question.
+The security guard he approached the next evening carried himself with the particular weariness Arin read as a man fifteen years into a job that had stopped surprising him around year three, his uniform pressed out of long habit rather than any remaining pride in the wearing of it. Arin introduced himself as an outside investigator, a lie broad enough to survive casual scrutiny, and let the man's own restlessness do most of the work before he'd even finished the first question.
 
 "Anything strange this week?" Arin asked. "Someone where they shouldn't be, cameras glitching, that kind of thing." He kept his tone light, professional, the particular flatness of a man asking a routine question he expected a routine answer to, and watched the guard's face for whatever the question actually shook loose.
 

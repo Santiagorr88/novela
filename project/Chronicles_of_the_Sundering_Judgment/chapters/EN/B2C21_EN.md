@@ -12,13 +12,13 @@ He did this often, in whatever city he happened to be passing through, at whatev
 
 ---
 
-A student dropped onto the bench nearby some while later, the particular collapsed posture of someone who had been running on caffeine and deadline panic for considerably longer than was healthy. He didn't ask permission to sit close enough to listen. Milo never minded when they didn't. He shifted the song without announcing the shift, something looser now, something with more air in it.
+A student dropped onto the bench nearby some while later, the particular collapsed posture Milo read as someone who had been running on caffeine and deadline panic for considerably longer than was healthy. He didn't ask permission to sit close enough to listen. Milo never minded when they didn't. He shifted the song without announcing the shift, something looser now, something with more air in it.
 
 "You know the pigeons outside the library have tenure," Milo said, mid-chord, not looking up from the strings. "Nobody's seen a syllabus from any of them in years, and the university still hasn't found the paperwork to let them go." He let the line sit a beat before he finished it. "I asked one for its office hours once. It told me Thursdays, which is either a very specific lie or the most honest thing anyone on this campus has told me all semester."
 
 The student laughed despite himself, the reluctant, surprised laugh of someone who hadn't planned on finding anything funny today. Milo laughed with him, unguarded and entirely real, the specific brightness of it catching the student's laughter and pulling it further out of him than the joke alone had earned. By the time it faded, the student's shoulders had dropped a full measurable inch, some of the panic visibly loosened out of him, and he sat there a moment simply breathing in a way that felt, for the first time all afternoon, like it had cost him nothing.
 
-"I had three deadlines due yesterday," the student admitted, apropos of nothing, the particular confession of someone who suddenly felt safe enough near a stranger to say the true thing out loud. "I haven't laughed since Tuesday. I didn't think I was going to today either."
+"I had three deadlines due yesterday," the student admitted, apropos of nothing, the particular confession of what struck Milo as someone who suddenly felt safe enough near a stranger to say the true thing out loud. "I haven't laughed since Tuesday. I didn't think I was going to today either."
 
 "Tuesday's a hard day to laugh on," Milo said, with the easy, uncomplicated sympathy of a man who had clearly never once worried about a deadline in his entire existence, and meant it anyway. "Wednesday's better. Statistically. I've done the research." He hadn't, and both of them seemed to understand that without either needing to say it aloud, and the student laughed again anyway, smaller this time, but real.
 
@@ -44,7 +44,7 @@ The library gave nothing back this time either, its windows dark against the aft
 
 "Carefully. And only ever in service of something kinder than the truth would have managed on its own." He shrugged, as though the distinction were the most obvious thing in the world and slightly embarrassing to have to explain. "A bad lie protects the liar. A good one protects everybody else. I've gotten fairly skilled at telling the difference, mostly by getting the first kind wrong often enough to learn better."
 
-The student laughed again, uncertain whether he was being teased or told something true wrapped up as a joke, and didn't push further. "That's a weird way to talk about yourself," he said instead, but there was no real edge in it, only the mild curiosity of someone who'd decided, somewhere in the last few minutes, that this stranger was worth being a little curious about.
+The student laughed again, seeming uncertain whether he was being teased or told something true wrapped up as a joke, and didn't push further. "That's a weird way to talk about yourself," he said instead, but there was no real edge in it, only the mild curiosity of someone who'd decided, somewhere in the last few minutes, that this stranger was worth being a little curious about.
 
 "I've had a lot of practice," Milo said, and left it there, offering nothing further to confirm or deny which version of the joke the student had just heard. Milo let him sit with that uncertainty. It suited him better than a straight answer ever would have.
 

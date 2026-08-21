@@ -28,7 +28,7 @@ The demon's eyes searched his face for some sign of the mercy it seemed to be ho
 
 ---
 
-It came apart quickly after that, the particular fast unraveling of something that had never once been trained to withstand real pressure. "Two signatures," it said, the words tumbling out faster than its own fear seemed able to properly organize them. "Belial found them both weeks ago — one sleeping, one loud enough to wake half of Hell on its own. He's known for a while now that they're both converging on this same ground, this same nexus."
+It came apart quickly after that, what looked, to Arin, like the fast unraveling of something that had never once been trained to withstand real pressure. "Two signatures," it said, the words tumbling out faster than its own fear seemed able to properly organize them. "Belial found them both weeks ago — one sleeping, one loud enough to wake half of Hell on its own. He's known for a while now that they're both converging on this same ground, this same nexus."
 
 "Converging when."
 
@@ -48,7 +48,7 @@ Arin held the information a long moment, letting the full shape of it settle. Be
 
 "Does he know what they actually are?" Arin asked. "Not what they're worth to him. What they are."
 
-The demon's trembling didn't ease, but something in its expression shifted, the particular confusion of a creature reaching for an answer it had never once possessed. "He never told us. Only that there were two, and that we should be afraid of both of them equally." It searched Arin's face, some desperate hope flickering that the right answer might buy it something. "Not even he fully knows, does he?"
+The demon's trembling didn't ease, but something in its expression shifted, the particular confusion that read, to Arin, as a creature reaching for an answer it had never once possessed. "He never told us. Only that there were two, and that we should be afraid of both of them equally." It searched Arin's face, some desperate hope flickering that the right answer might buy it something. "Not even he fully knows, does he?"
 
 Arin didn't answer that. There was nothing he could have said that would have cost him less than the silence did.
 

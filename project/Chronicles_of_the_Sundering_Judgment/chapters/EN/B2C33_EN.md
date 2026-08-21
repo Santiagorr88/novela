@@ -44,7 +44,7 @@ The sound that followed wasn't loud. It was, if anything, barely a sound at all 
 
 The pulse kept spreading, unhurried, indifferent to whatever any of them had still been trying to do when it reached them. One by one, every remaining demon in the corridor went the same way, caught in whatever they'd been doing the instant the gray wave reached them — a raised blade left hanging in the air, a shout frozen half-formed on an open jaw, a soldier caught mid-step with one foot still lifted off the ground.
 
-It reached the enforcer last, and even he — even the cold, unhurried commander who had walked through this entire fight like nothing in the corridor could touch him — went still in the same absolute, motionless way as every soldier under his command, his raised hand hanging frozen in the empty air where it had almost, a handful of seconds ago, ended Mikel's life. Whatever confidence had carried the enforcer through this entire ambush had been arrested along with the rest of him, his expression caught somewhere between satisfaction and the first flicker of an alarm he'd never get the chance to finish feeling.
+It reached the enforcer last, and even he — even the cold, unhurried commander who had walked through this entire fight like nothing in the corridor could touch him — went still in the same absolute, motionless way as every soldier under his command, his raised hand hanging frozen in the empty air where it had almost, a handful of seconds ago, ended Mikel's life. Whatever confidence had carried the enforcer through this entire ambush had been arrested along with the rest of him, his expression caught in what looked, from where Mikel stood, somewhere between satisfaction and the first flicker of alarm.
 
 ---
 
