@@ -58,7 +58,7 @@ Every eye went to Gabriel. He met each of them in turn, and then he nodded, slow
 
 "Then we will have to be his sword," he said. "Until he can carry it again himself."
 
-No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched her own shadow flicker against the wall, tracing futures that kept refusing to agree with each other.
+No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, patient work he would once have handed to a junior officer without a second thought, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched her own shadow flicker against the wall, tracing futures that kept refusing to agree with each other.
 
 ## 4. The Victor's Burden
 
