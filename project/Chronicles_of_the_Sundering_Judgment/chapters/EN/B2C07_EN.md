@@ -52,7 +52,7 @@ He studied both signatures a long while, turning each one over in his attention 
 
 ---
 
-A commander lingered after the others had gone, the particular hesitation of someone with one more question they weren't certain was theirs to ask. "My lord. Should both targets receive equal priority? Or does one concern you more than the other?"
+A commander lingered after the others had gone, a hesitation Belial read as one more question the man wasn't certain was his to ask. "My lord. Should both targets receive equal priority? Or does one concern you more than the other?"
 
 Belial considered the question exactly as long as it deserved, which was not very long at all. The volatile signature would announce itself to half of Heaven and Hell before the week was through, whether he moved on it or not — that kind of fire always did. The dormant one had no such urgency working against it, and no such urgency working for anyone else either, which made it, in its own quiet way, the more dangerous of the two to lose track of.
 

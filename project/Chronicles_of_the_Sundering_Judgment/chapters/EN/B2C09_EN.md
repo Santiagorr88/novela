@@ -34,7 +34,7 @@ He sat there in the mouth of the alley for a long time, turning the leaf over in
 
 He called her before he'd fully decided to, his thumb finding the archivist's number in his contacts with the particular unthinking speed of a man who needed to hear another human voice more than he needed a good reason to interrupt her evening. She picked up on the third ring, and he heard, even before either of them said anything useful, the small sounds of a life continuing somewhere else entirely — a television murmuring low in the background, the domestic ordinariness of it almost unbearable against what he'd just survived.
 
-"Ardon." Her voice carried the particular flatness of someone deciding, in real time, whether to be annoyed at the hour. "It's nearly midnight. Please tell me this is about the shelf and not something that could have waited for office hours."
+"Ardon." Her voice carried a flatness that sounded, to him, like someone deciding in real time whether to be annoyed at the hour. "It's nearly midnight. Please tell me this is about the shelf and not something that could have waited for office hours."
 
 "It's about the shelf," he said, and heard how unconvincing it sounded even as it left his mouth. "I had a — I wanted to ask whether the special collections catalogue has a cross-reference system for the older ethnographies. The uncatalogued ones."
 

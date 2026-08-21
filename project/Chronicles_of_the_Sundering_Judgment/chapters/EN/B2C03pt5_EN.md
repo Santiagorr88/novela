@@ -44,7 +44,7 @@ Ezequiel did not question orders. He had been raised to a different discipline t
 
 "Half the garrison," Ezequiel said. "Reassigned to the search, effective tonight. You hold the rest at standard rotation. Report anything, however small, directly to me."
 
-Kaviel set the scroll down with the same unhurried care he gave every relic in his charge. "This ward hasn't reported so much as a footprint in longer than I've held this post, Captain. Half strength should carry it well enough." He said it plainly, without complaint, though his eyes lingered on Ezequiel's face a beat longer than the report required.
+Kaviel set the scroll down with what Ezequiel took to be the same unhurried care he gave every relic in his charge. "This ward hasn't reported so much as a footprint in longer than I've held this post, Captain. Half strength should carry it well enough." He said it plainly, without complaint, though his eyes lingered on Ezequiel's face a beat longer than the report required.
 
 "Should," Ezequiel said, and left it there. A captain who carried out an order while visibly doubting it taught the men beneath him nothing but how to doubt their own captains in turn, and he had never once permitted himself that particular lesson. He stayed through the reassignment, watching half a garrison he had personally trained shoulder their gear in the low evening light and march for a search whose arithmetic he had not been given the right to question. One of the younger soldiers glanced back toward the watch-post twice before the column crested the rise. Ezequiel let the glance pass without comment and filed it away regardless, the way he filed everything he chose not to say aloud.
 

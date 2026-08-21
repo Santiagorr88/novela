@@ -22,11 +22,11 @@ It was the different hand that caught his attention properly — older, more cau
 
 Sariel copied the line into memory with the same careful precision he gave everything worth remembering, and became aware, in the same instant, that he was no longer alone in the chamber.
 
-"You've found the old margin note." The voice belonged to a minor archivist, elderly even by the standards of a realm that measured age differently than mortals did, his robes marking him as one of the Tower's permanent staff rather than a visitor passing through. He'd entered without Sariel noticing, and stood now examining the reading table with the mild, proprietary interest of a man checking on furniture rather than a man guarding forbidden knowledge. "Most who come through here miss it entirely. Your lord's attention rarely wandered that far from the text itself."
+"You've found the old margin note." The voice belonged to a minor archivist, elderly even by the standards of a realm that measured age differently than mortals did, his robes marking him as one of the Tower's permanent staff rather than a visitor passing through. He'd entered without Sariel noticing, and stood now examining the reading table with what struck Sariel as the mild, proprietary interest of a man checking on furniture rather than a man guarding forbidden knowledge. "Most who come through here miss it entirely. Your lord's attention rarely wandered that far from the text itself."
 
 Sariel kept his borrowed indifference carefully in place. "Who else has consulted this collection, before my lord?"
 
-"Before Lord Belial?" The archivist gave a short, dry laugh, entirely unguarded, the laugh of a man too bored with his own work to suspect the question carried any real weight behind it. "No one, in centuries. This isn't the kind of material anyone reads twice for pleasure. It gets read twice because the first reading never actually made sense."
+"Before Lord Belial?" The archivist gave a short, dry laugh, entirely unguarded — a laugh that read, to Sariel, like a man too bored with his own work to suspect the question carried any real weight behind it. "No one, in centuries. This isn't the kind of material anyone reads twice for pleasure. It gets read twice because the first reading never actually made sense."
 
 "And the older hand," Sariel asked, careful to let the question trail after the first as though it barely mattered. "Do the Tower's records say whose it was?"
 

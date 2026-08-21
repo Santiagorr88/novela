@@ -16,7 +16,7 @@ He built a working list on the back page of his notebook, adding to it every eve
 
 ---
 
-The archivist found him there on the fourth evening, arriving with the pretense of returning a book he hadn't actually requested, and stood in his doorway a long moment before she said what she'd clearly come to say.
+The archivist found him there on the fourth evening, arriving with what Mikel took to be the pretense of returning a book he hadn't actually requested, and stood in his doorway a long moment before saying what she seemed to have come to say.
 
 "This isn't comparative folklore anymore, Ardon." She said it without her usual dry humor, her curiosity plain enough now that she'd stopped bothering to disguise it as professional interest. "This is an obsession with one very specific thing. Are you ever going to tell me what it actually is?"
 
