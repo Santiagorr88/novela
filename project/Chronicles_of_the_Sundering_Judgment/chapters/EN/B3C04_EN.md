@@ -8,7 +8,7 @@ Mikel watched. A moment later, the water in the fountain caught the morning sun 
 
 "That's it?" Mikel asked. "A magic trick to help a street performer make rent?"
 
-"That's most of it, yes." Ereloth stood, brushing off his knees, entirely satisfied with himself. "You were expecting something grander?"
+"That's most of it, yes." Ereloth stood, brushing off his knees, looking entirely satisfied with himself. "You were expecting something grander?"
 
 "I was expecting you to actually address what I came here to talk about."
 
@@ -20,7 +20,7 @@ They didn't. Instead, an hour later, Mikel found himself standing in a hotel bal
 
 "That's not remotely what I asked."
 
-"No," Ereloth agreed, settling onto the pond's edge with the easy comfort of a man who intended to stay there a while. "But it's what I'm teaching. Sit."
+"No," Ereloth agreed, settling onto the pond's edge with what struck Mikel as the easy comfort of a man who intended to stay there a while. "But it's what I'm teaching. Sit."
 
 ---
 
@@ -44,7 +44,7 @@ Night found them on the flat roof of a building Mikel hadn't asked permission to
 
 "Prune."
 
-"Cut away what's already dead so something alive can keep growing." Ereloth looked out over the city rather than at him. "You used it like a club instead, brother. You beat the world with it until all the light went out, and you called that justice because the alternative was admitting you'd built your entire authority on being right rather than being kind." He said it without cruelty, the way a man states a fact he's long since made peace with. "That's not an accusation. It's just what happened. I watched it happen."
+"Cut away what's already dead so something alive can keep growing." Ereloth looked out over the city rather than at him. "You used it like a club instead, brother. You beat the world with it until all the light went out, and you called that justice because the alternative was admitting you'd built your entire authority on being right rather than being kind." He said it without cruelty, in the tone of a man Mikel guessed had long since made peace with the fact. "That's not an accusation. It's just what happened. I watched it happen."
 
 Mikel sat with that a long moment, the city noise rising faint and distant below them. He had no argument ready. He suspected, sitting there, that arguing would have missed the point of Ereloth saying it at all. He thought instead of a hundred small verdicts he'd handed down as Michael, certainties he'd never once questioned at the time because questioning had never once occurred to him as a possibility worth entertaining. He thought, too, of nine years grading essays with the same unquestioned confidence, marking down every argument that didn't fit the shape he'd already decided was correct. Two very different lives, and the same flaw running through both of them like a single thread he'd simply never noticed before tonight.
 
