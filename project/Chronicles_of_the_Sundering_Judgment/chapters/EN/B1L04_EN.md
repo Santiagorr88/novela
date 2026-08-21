@@ -1,14 +1,10 @@
 # B1L04 – The Descent
 
-## What the Deeper Plane Shows Him
-
 The path deeper into the Weeping Sepulcher opened before Belial the moment he stopped fighting the ground beneath his feet, a narrow seam through the black crystal that had simply not been visible to him on his first, furious pass through this same territory. He might have walked directly over it that first day and never known it was there, too focused on the guardian ahead of him to notice ground that asked, rather than demanded, to be followed.
 
 He walked it slowly, deliberately, the seam of crystal narrowing and widening around him in ways that seemed to answer his own pace rather than any fixed shape of the path itself. The visions began somewhere in the first hour — distant at first, abstract enough that he could hold them at arm's length without much effort. The grief of a dying star, vast and cold, felt to him from this distance like weather rather than experience, something he could observe passing over him without it touching anything underneath. He walked through it the way a man walks through fog, aware of it settling on his skin without ever quite believing it belonged to him.
 
 The loneliness of some extinct species, the last of its kind fading out somewhere he had no name for, arrived the same way — enormous, ancient, and safely far from anything Belial himself had ever felt or feared feeling. He noted each vision as it passed, cataloguing them with the same detached precision he might have used on an unfamiliar battlefield, more curious than moved. He counted three of them in that first hour alone, each distinct, each fading as cleanly as it had arrived, leaving nothing behind that he could feel once it had passed, gone as easily as smoke clears from a closed room. This, he told himself, was manageable. This was simply the plane's nature announcing itself, nothing he could not walk through and past given enough patience.
-
-## Where the Resistance Costs Him
 
 The visions did not stay abstract. Somewhere past the second hour, they narrowed, sharpened, stopped being weather and started being specific in a way that reached considerably closer to him than anything before it had.
 
@@ -17,8 +13,6 @@ He felt, without warning, the particular grief of a commander watching soldiers 
 He stood there a long moment breathing through a grief that had no enemy attached to it at all, nothing to fight, nothing to blame, only the plain weight of it sitting in his chest until he found some way to carry it forward. The crystal chimed faintly around him with every ragged breath, indifferent, as it had been indifferent to everything else this plane had shown him so far.
 
 ---
-
-## What the Sea Remembers
 
 The morning had started ordinary enough, the boy's first real trip out past the shallows without his uncle along to watch over him, the water calm and the nets already half full by the time the sun cleared the ridgeline behind them. The tremor reached the fishing boat without warning, rocking it hard enough that the boy nearly lost his grip on the gunwale before his father's free hand caught his shoulder and steadied him. Even the ridgeline behind them seemed to shudder for a moment, dust rising faintly along its slope, and the boy could not remember any talk, from his father or his uncle or anyone else in the village, of a tremor ever reaching this coast before.
 
@@ -32,8 +26,6 @@ The boy said nothing further, but something in him settled differently after tha
 
 ---
 
-## What the Sentinel Cannot Explain
-
 Ilariel had drawn the anomaly watch this rotation, a duty Ilariel had often heard other sentinels dismiss as beneath their training, and had spent the better part of the last several hours logging nothing more interesting than the ordinary hum of a quiet sector. The watch station itself was small, tucked into a corridor no senior officer had come through in longer than Ilariel could remember, its bank of readings scrolling past in a steady, uneventful stream that most nights required nothing more than a bored glance every so often to confirm nothing had changed.
 
 The dissonance arrived without any clear point of origin, a wrongness in the fabric of things that Ilariel's instruments registered but could not properly classify, faint enough that a less attentive watcher might have dismissed it as instrument drift and moved on. Ilariel checked the readings twice, cross-referencing them against the standard catalogue of known anomaly signatures without finding a single clean match anywhere in it, the closest entries all differing from what the instruments were showing in some small but stubborn detail that refused to resolve no matter how many times the comparison ran. Ilariel did not dismiss it. The report went up the channel within minutes, careful and precise, exactly as training demanded. "Anomalous resonance detected, sector seven, no clear source," Ilariel reported to the superior on duty that night, keeping the transmission clipped and professional despite the unease the reading had stirred.
@@ -44,13 +36,9 @@ There was a brief pause on the other end of the channel, long enough that Ilarie
 
 ---
 
-## The First Recognition
-
 Belial pressed deeper into the plane with the visions still crowding close around him, closer now than any battlefield fear he had ever needed to master. His knees buckled once, briefly, under a vision heavier than the ones before it, and he caught himself against the crystal wall of the passage before he went fully down, breath ragged, vision swimming at its edges for several long seconds before it cleared. He forced his spine straight again, refusing to let the moment become a second one, and pressed on. The crystal underfoot had grown denser here, the ground sloping downward in a long, gradual descent that matched, uncomfortably, the sense that he was moving toward the center of something rather than merely across it.
 
 It was not compassion. He told himself that clearly, more than once, unwilling to grant this place a victory that complete. He had spent centuries cultivating exactly the kind of distance from others' suffering that made him effective at his own work, and he was not eager to discover, this far from home, that the distance had a limit he had simply never before been forced to test. But after the accumulated griefs that were not his own — the commander's, the healer's, the dying star's, the extinct species' last howl into silence — something in him had changed in a way he could not simply will back to what it had been. He understood, in a way he had not understood before stepping through this portal a second time, that grief of this size did not require an enemy to explain itself. It simply existed, vast and unattached, indifferent to whoever happened to be passing through it at the time. It was, he thought, an uncomfortably honest kind of pain — none of the theater he had grown accustomed to in centuries of court politics and calculated cruelty, nothing performed for an audience, only the plain fact of loss sitting where it sat, indifferent to whether anyone noticed it or not. He did not welcome the understanding. He could not, entirely, deny that he now possessed it either.
-
-## The Way Forward
 
 The path opened fully ahead of him not long after, a channel through the crystal that had not been visible from any angle before this one, its walls smoother than the jagged ground he had walked so far, as though something had worn this particular route down through long use rather than left it to form on its own. It led toward something he could not yet see but could feel pulling at him with the same unmistakable weight as the visions themselves.
 

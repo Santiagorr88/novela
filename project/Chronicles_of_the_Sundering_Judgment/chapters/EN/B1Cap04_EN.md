@@ -1,7 +1,5 @@
 # Chapter 4 — The First Swing
 
-## A Wager at the Overlook
-
 Camael took the last stretch of the approach at a jog, more out of habit than urgency — the breach at Seraphiel Overlook was minor, the kind of thing his own garrison could have handled without any fuss at all. He had led soldiers into worse skirmishes on slower mornings than this one, and he saw no reason a sword, however new, should change the pace he set for himself. A young soldier fell into step beside him, one of the newer transfers, still eager enough to make conversation with a commander he had no business making conversation with.
 
 "They're saying he's already on his way," the soldier said, nodding toward the sky. "With the new sword."
@@ -16,8 +14,6 @@ The soldier hesitated, a pause Camael read as uncertainty over whether commander
 
 "Then I'll have to stop doubting him, for once." Camael's grin widened, though something harder sat behind it — not doubt exactly, but the particular caution of a soldier who had watched too many promising weapons turn out to be more trouble than they solved. "Wouldn't be the worst thing to happen this week." He said it lightly enough, but he did not take the wager back.
 
-## The First Swing
-
 They crested the ridge above the Overlook in time to see the skirmish still churning below — a scatter of lesser demons, disorganized, more nuisance than threat, exactly the kind of breach Camael had expected. Angelic soldiers held a loose defensive line along the outpost's outer wall, trading blows with the swarm in the ordinary, exhausting rhythm of a fight that would eventually be won but not without cost. Camael had already begun sizing up where he would commit his own reinforcements when the light changed.
 
 Miguel did not charge into it. He simply arrived at the edge of the fighting, alone, and raised the sword.
@@ -27,8 +23,6 @@ Camael had seen a great many things die in his long service. He had never seen a
 The soldier beside him made a small sound, something between awe and a held breath of his own. Camael said nothing. He watched the light finish its work and recede, leaving behind ground so clean and so still it looked less like a battlefield than a room that had never been used. Along the outpost wall, the soldiers who had been fighting a moment before now simply stood, weapons lowered, staring at ground that gave them nothing left to fight.
 
 ---
-
-## What the Silence Left Behind
 
 Dessa had fought at a dozen fronts and considered herself past the age of being surprised by battle. She had held a line against things with too many limbs and things with none at all, had learned to keep her footing on ground that shifted and screamed beneath her, and had told herself, more than once, that nothing left in this war could still catch her off guard. She was not prepared for this.
 
@@ -40,8 +34,6 @@ She had seen bodies before. Bodies she understood — the weight of them, the wr
 
 ---
 
-## Awe and Unease
-
 The soldiers found their voices again before Camael did. Cheers rose around the cleansed ground, ragged with relief, the ordinary noise of a garrison that had just watched its war get easier. A few soldiers embraced. One young sentinel laughed, high and startled, the sound of someone who had genuinely believed he might die in the next hour and now found himself, unexpectedly, still breathing. Camael let it all wash past him without joining in.
 
 He had commanded soldiers his whole long service, had led them through victories that left the ground churned and bloody and impossible to look away from, and he had always understood that mess, however grim, as proof of a fight actually fought — proof that something had resisted, and been overcome, and cost the winning side something in return. This ground offered no such proof. It offered nothing at all — no bodies, no wreckage, no sign that anything resembling a battle had taken place here. Even the outpost wall, scorched black in places from the fighting that had preceded Miguel's arrival, stood in stark contrast to the pristine ground just beyond it, as though two entirely different wars had been fought a few paces apart. Only silence, and cleanliness, and Miguel standing at the center of it with the sword held loose at his side, its light already dimming back to something almost ordinary.
@@ -49,8 +41,6 @@ He had commanded soldiers his whole long service, had led them through victories
 Camael had wagered ten on Miguel fumbling the blade, sure enough of it at the time to say so aloud. He had just lost that wager, and found the loss came as a relief he did not examine too closely. Somewhere behind him, the soldier who had taken that wager was conspicuously not asking for his winnings.
 
 He crossed the cleansed ground to reach him, his boots the first to disturb the pale, undisturbed dust since it had settled. He approached anyway, because approaching was his duty, and offered the kind of blunt congratulation that came naturally to him. Miguel accepted it with a nod that felt, to Camael, both entirely familiar and subtly wrong — the same economy of movement Miguel had always carried into a victory, but underneath it now a stillness that unsettled Camael more than the swing itself had. He did not say this aloud. There would be time later, he told himself, to decide whether the unease was worth voicing. For now there was only the walk back, retracing the same ridge they had crested an hour before with an entirely different expectation of what they would find, and the soldier beside him, uncharacteristically quiet, no longer interested in collecting on the wager either of them had made.
-
-## The War Council
 
 The war room felt different with Solmire present, though Camael, arriving late and taking his place along the wall, could not immediately say why. The room itself had not changed — the same long table scarred by centuries of maps pinned and unpinned, the same tired lamps along the walls — but something in how the others sat around it had shifted, a subtle reordering of attention that all pointed now toward the man at its head.
 

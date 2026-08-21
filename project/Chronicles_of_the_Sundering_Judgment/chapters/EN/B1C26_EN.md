@@ -1,7 +1,5 @@
 # B1C26 – The Fall
 
-## An Even Match
-
 Miguel drove Solmire forward in a strike that should have ended the exchange outright, and felt Lament turn it aside with a precision that matched his own blow exactly, neither of them yielding so much as an inch of the ground they had spent the last several minutes contesting. Blow answered blow, parry answered parry, the two of them locked in a rhythm so perfectly matched that Miguel could not, in the brief spaces between exchanges, identify any advantage either weapon had managed to claim over the other.
 
 He drove forward again, testing a different angle this time, and found the same maddening precision waiting to meet it. Belial's footwork gave away nothing — no outward sign of fatigue, no outward sign that his commitment had wavered — every parry arriving exactly where it needed to arrive with a consistency that suggested a mastery of the spear Miguel had not expected to encounter this early in Belial's own claim to her. Whatever training Belial appeared to have undergone since the Weeping Sepulcher, it showed plainly in every exchange currently passing between them.
@@ -12,8 +10,6 @@ The ash beneath their feet had churned into a fine grey dust by the dozenth exch
 
 He had fought longer engagements than this one across the length of his service, had learned across centuries of combat to read the exact moment an opponent's guard began, however subtly, to falter. He read nothing of the kind in Belial tonight. Whatever weakness might eventually decide this duel, Miguel had begun to realize, was not going to announce itself through his opponent's blade — not while Lament kept turning aside every strike with the same maddening precision as the last.
 
-## The Crack No One Sees Yet
-
 A brief lull opened between exchanges, both of them drawing back to reset their footing, and in that narrow space of silence Miguel felt something rise in him that Lament had played no part in summoning. He remembered, without seeking the memory out, the cold and absolute weight he had felt the first time he drew Solmire from her resting place, a weight that had lodged itself in his hand and, in all the time since, never fully released its hold on him.
 
 He asked himself, in the fraction of a second the lull afforded him, whether he had made a single decision since that first drawing that had actually been his own. The question arrived unbidden and unwelcome, and he buried it as quickly as it had surfaced, forcing his attention back to the fight in front of him before it could finish forming into something he would have to answer.
@@ -21,8 +17,6 @@ He asked himself, in the fraction of a second the lull afforded him, whether he 
 He thought, in the same brief instant, of an order he had given long before this war had taken its current shape, a command he had issued with a certainty he no longer entirely trusted had actually been his own to give. He had not examined that memory closely in longer than he cared to count. It surfaced now anyway, uninvited, alongside every quieter moment since where his own conviction had felt, in retrospect, less like conviction and more like something borrowed from a source he had never thought to question.
 
 It was not yet the doubt that would break him. It was only the old crack, the one that had lived quietly in him since that order and every silence that followed it, finding room now, in the silence of combat, to show itself for the first time. He reset his stance before it could widen any further, forcing his full attention back onto Belial's next advancing strike, and told himself, without much conviction, that whatever had just surfaced could wait until this duel had actually been decided.
-
-## The Seed of Doubt
 
 Belial felt the flicker pass through Miguel before any outward sign of it reached his blade, a predator's long-honed reflex for weakness sharpening his attention the same way it always had against any opponent whose guard had briefly, invisibly, wavered. He did not press the attack physically. Miguel reset his stance a half-second slower than the exchange before it, and Belial read the delay as exactly what he suspected it was — a sign that whatever had just moved through his opponent belonged to a battlefield more useful to fight on than the physical one.
 
@@ -38,8 +32,6 @@ Miguel held Solmire aloft, and answered — not with the confidence Miguel had d
 
 Belial said nothing further. He let the silence that followed do the work the crack already visible in Miguel had begun on its own, understanding, with the same cold precision he brought to any calculated strike, that no answer he could have given would land with half the force of the question left standing unanswered in the empty air between them.
 
-## The Shattered Will
-
 The words landed in Miguel with a weight Lament's grief only amplified, pressing directly against fears he had spent this entire war refusing to examine. He had told himself, across every battle since Solmire first came into his hand, that the sword answered to him, that whatever verdicts she rendered carried his own judgment behind them. Belial's four words, arriving in the wake of the crack that had already opened in him moments earlier, offered him nothing left to hide that belief behind.
 
 He tried, for one last desperate instant, to summon the same certainty that had carried him through every previous crisis of this war, the same conviction that had once made wielding Solmire feel like an extension of his own will rather than a burden imposed on it. The certainty did not come. In its place arrived only the plain, unanswerable question his own reply to Belial had already voiced aloud — if this power was never his, whose had it actually been all along, and what did that make every verdict he had ever delivered in her name.
@@ -47,8 +39,6 @@ He tried, for one last desperate instant, to summon the same certainty that had 
 He felt his own certainty give way beneath him, not in a single collapse but in a slow, total unraveling that carried every victory he had ever credited to his own conviction down along with it. He thought of Zaphor'el, of the stragglers Solmire had erased against his own screamed refusal, of every moment since where he had told himself the blade still answered to him rather than the other way around. Each memory arrived now stripped of whatever comfort he had once found in it, offering him instead only further confirmation of the accusation currently unmaking him.
 
 Solmire's hum in his grip did not steady him. It only confirmed, in the same silent language she had always spoken, that Belial's accusation had landed exactly where it was aimed. Miguel's guard, held firm through every previous exchange of this duel, finally, fully broke, his arms losing whatever certainty had been holding Solmire steady only moments earlier.
-
-## The Final Strike
 
 Belial saw the opening the instant it appeared, Miguel's stance faltering in a way no physical wound had managed to produce across the entire length of their exchange, and did not hesitate to close the distance. He had waited for exactly this moment across every prior exchange of the duel, patient in a way that had cost him more restraint than the fight itself had cost him effort, and found no hesitation left in himself now that the wait had finally paid off.
 
@@ -59,8 +49,6 @@ The strike landed with a symbolic weight Belial felt clearly even through his ow
 He held his own position a moment longer than strictly necessary, letting the aftermath settle — a blow that had cost him nearly as much as it had evidently cost Miguel, every wound absorbed across the length of this duel now making itself felt in full. His own arm ached from the strike's final delivery, a deep, bone-level fatigue worse than anything the earlier exchanges had cost him, and he allowed himself, for just a moment, to feel the full weight of exactly how close this duel had actually run before it finally broke in his favor.
 
 He had won cleaner victories across the length of his existence, had rarely needed to spend this much of himself against a single opponent. Tonight's cost, he judged as Miguel's knees finally buckled, had bought him something larger, by far, than a single soldier's defeat, and he found the exchange, weighed against everything it had actually cost him, worth every measure of the price.
-
-## The Sword is Lost
 
 Miguel went down slowly, Solmire slipping from fingers that appeared, to Belial's eye, unable to hold her any longer, her light guttering and finally dying against the ash-grey ground the moment she left his grip. Belial stood over him, breathing hard, every wound his own body had absorbed across the length of the duel making itself fully known now that the exchange had finally, decisively ended.
 

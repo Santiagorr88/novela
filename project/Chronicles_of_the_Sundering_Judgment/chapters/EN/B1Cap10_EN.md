@@ -1,7 +1,5 @@
 # Chapter 10 — A Crack in the Divine
 
-## Orders From Above
-
 Corven had been passing orders down through the chain of command long enough to recognize when one felt different from the rest, and this one felt different the moment it reached his hands. Most directives arrived with at least a fragment of context — a name, a reported incident, something to anchor the coming action to a cause. This one arrived as coordinates and a timetable, nothing more, the reasoning apparently considered too self-evident to bother stating. He had passed it along to the units under his charge exactly as written, the way protocol required, and had felt the absence of that missing context sit uneasily with him for the whole of the march since.
 
 He found Tamas standing quietly near the staging line, checking gear that had already been checked twice over, a nervous habit Corven recognized well from a dozen campaigns before this particular one, and kept his voice pitched low enough that it wouldn't carry past the two of them standing there. "Has anyone actually confirmed there's real hostility down there? Or are we just following a map someone drew?"
@@ -12,8 +10,6 @@ The words did not vanish simply because neither of them repeated them. Spoken in
 
 ---
 
-## A World That Sounds Like Bells
-
 Nyra gathered her two young children close the very moment the light first broke across the ridge above them, though she could not yet have said what kind of light it was, only that nothing in this world had ever announced itself with a glow so hard-edged and so wrong. Every light she had known before had a gentleness to it — the pale glow of the crystalline groves at dusk, the slow shimmer of the deep node's presence when it moved through the valley on its long, patient rounds checking on family after family. This light carried none of that softness. It simply arrived, all edges, indifferent to whatever it touched.
 
 The crystalline groves that stretched across the valley below her family's hollow chimed as the wind moved through them, the way they always did, a soft and constant music this world had never needed words to explain. Nyra had grown up beneath that very sound, had raised her own children beneath it in turn, and had never once, in all her many years, heard it carry anything but calm. Tonight the chiming changed. It sharpened, then scattered, then took on something that sounded, to Nyra's ear, uncomfortably close to a wail, rippling outward from grove to grove faster than any wind alone could have carried it. She gathered her children and moved them toward the deeper hollows, the way every parent-node had carefully taught every family to move for longer than she could easily count, an old instinct kept alive and rehearsed across generations who had, until tonight, never once needed to use it in earnest. None of the old stories had ever described an intrusion quite like this one — light without warmth, figures without softness, advancing through the twilight as though the twilight itself owed them passage. The ground beneath her feet, always steady, seemed somehow thinner now, as though the world itself had grown less certain of holding its shape.
@@ -21,8 +17,6 @@ The crystalline groves that stretched across the valley below her family's hollo
 Her younger child asked, in a small voice that, to Nyra's ear, still sounded entirely untouched by real danger, whether the two of them would be safe tonight. Her older child said nothing at all, only gripped Nyra's worn sleeve a little tighter still, a silence Nyra took to mean that no answer she could offer would have reassured them anyway, not tonight. Nyra did not answer. She kept moving quickly ahead instead, one hand on each small shoulder, and did not look back at the light behind them, though she could feel it growing steadily closer with every step regardless of whether she watched it come.
 
 ---
-
-## Uncertain Target
 
 Jeremiel watched the valley's deep node rise from where he stood near the vanguard, and felt, before any tactical read reached him, a wrongness he could not immediately name. He had positioned himself right here specifically to read the ranks assembled around him rather than the enemy waiting ahead, a habit built carefully over centuries of campaigns where morale broke before formations ever actually did, and what he read now, up and down the assembled lines, unsettled him more than any enemy formation he had faced in recent memory.
 
@@ -34,8 +28,6 @@ He glanced once toward the vanguard, where Miguel already stood watching the sam
 
 ---
 
-## The Unjust Verdict
-
 Miguel raised Solmire the very instant the threat-signal reached him, the motion so practiced by now it required no thought at all — a thousand identical strikes behind this one, each of them recorded, each of them logged as clean. The beam of absolute judgment followed in that same practiced motion, immediate and automatic, faster than thought had ever needed to be in the whole span of his long service.
 
 The creature did not fight back. It did not flinch, did not raise whatever defenses had shielded the fleeing families a moment before, made no move at all to protect the vast, ancient shape of itself, standing exactly where it had stood since it first rose from the valley floor. It simply turned its ancient eyes toward Miguel as the light closed over it, holding his gaze for the length of that final, brief second. It was unmade — not into ash, not into dust, but into a silence so total it seemed to pull the sound out of the air around it as well. Where the great creature had stood only a moment before, there was only absence now, precise and complete — no ground left cleansed, no scorch mark, no trace of anything the mind could file under the ordinary, familiar category of war.
@@ -43,8 +35,6 @@ The creature did not fight back. It did not flinch, did not raise whatever defen
 No one cheered this time. No one spoke a single word. The ranks stood motionless, staring at the empty ground where the vast creature had been standing only seconds earlier. Even the officers—who, in Miguel's experience, could always be counted on to fill this kind of silence with the next order in a chain that never usually paused—offered none of their own at all. Miguel lowered the blade, its light already dimming back to its ordinary glow, and signaled the retreat himself, the order carried back down the full line exactly as any other order would have been.
 
 ---
-
-## The Silence After
 
 Nyra watched quietly from the hollow, her children pressed close against her sides, as the light finally receded from the ridge above the valley, its slow retreat somehow more unsettling to watch than its arrival had ever been, an admission, of a kind, that whatever it had come to do here was already finished and needed nothing further from this place.
 

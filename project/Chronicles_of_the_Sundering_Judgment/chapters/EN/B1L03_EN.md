@@ -1,14 +1,10 @@
 # B1L03 – Those Waiting for a Stumble
 
-## What the Wound Teaches
-
 Belial spent the first day back in his own chambers doing nothing at all, which was, for a man who had not sat idle in centuries, its own particular kind of punishment. His steward had drawn the curtains against the light without being asked, and left him to the silence of the room without further comment — small mercies Belial noted but did not thank anyone for. The ribs the guardian had cracked were mending slowly, the ordinary demonic way, and every breath still reminded him of exactly how thoroughly he had been put on the ground. He had not bothered summoning a healer for it, unwilling to explain, even to someone bound to silence, exactly what had left him in this condition.
 
 He had no strategy yet to show for the pain, no fresh insight worth the cost of it — only the plain, humiliating fact of having lost, cleanly and completely, to something that had not even considered him worth killing. He turned the memory over more than once, searching it for some angle he might have missed, some different strike that would have changed the outcome, and found nothing there but the same conclusion he had already reached kneeling on that crystal floor.
 
 No one came to check on him, which suited him well enough. He had made a point, across centuries of service, of never letting subordinates see him wounded if he could help it, and today was not the day to break that particular habit for an audience of no one, however little the habit actually mattered with the door shut and no one watching. He sat through the worst of the pain alone, refusing the healer's draughts his own steward had left outside the door twice already, and let the silence of the room do whatever work silence was supposed to do for a man who had run out of better ideas. The wound had taught him something. It had not yet told him what to do with the lesson.
-
-## What the Text Reveals
 
 He sent for the archive's older texts on the second day, restless enough by then to want something to occupy his hands even if his body still wasn't ready to move freely. Among the fragments a junior archivist brought him, one stood out — not a description of the Weeping Sepulcher itself, but a scrap of commentary on planes of that particular nature, written by some scholar long dead whose name meant nothing to Belial.
 
@@ -16,13 +12,9 @@ The archivist who delivered the fragments waited near the door, appearing uncert
 
 ---
 
-## The Messenger's Calculation
-
 Nyx had drawn the assignment of bringing Belial the week's reports precisely because none of the more senior couriers wanted it, drawing lots the way junior staff always did when a task carried more risk than prestige, and she understood exactly why the moment she stood outside his chamber door with the dispatch case cold in her hands.
 
 A commander freshly humiliated was not, in her considerable experience delivering news to men who did not want it, a commander inclined toward patience with whoever happened to be standing in front of him when the humiliation caught up. She had learned this particular lesson the hard way, years ago, delivering an unrelated piece of bad news to a captain who had just lost a duel he should have won easily — a lesson that had cost her two fingers and taught her, ever since, to read a room before she opened her mouth in it. The fingers had grown back eventually, the way most things did in Hell given enough patience, but the caution they had taught her never quite faded the way the pain did. She ran through the contents of the case one more time in her head, sorting what genuinely needed saying from what could wait for a calmer week, rehearsing the order of it the way she always did before a delivery like this one, and decided, not for the first time in her career, that survival mostly came down to knowing which parts of the truth to lead with and which to bury three items down the list. She knocked, waited for his voice, and went in with her spine straight and her voice carefully level. Belial sat near the room's single window, still favoring one side where his ribs had not yet finished mending, and gestured her forward with a motion in which Nyx could detect no particular warmth, the late light behind him leaving his face half in shadow. Nyx laid the dispatch case on the small table beside him and began working through its contents in the order she had settled on outside the door — supply counts first, minor troop rotations second, nothing yet that required him to raise his voice.
-
-## What Foras Has Been Building
 
 The report she actually needed to deliver, buried where she had planned to bury it, three items down from the supply counts exactly as intended, concerned Foras. In the weeks since Belial's silence began, he had been quietly making himself useful to exactly the officers most likely to feel abandoned by a commander who no longer answered summons or explained his absences — small favors extended, minor grievances heard out with unusual patience, disputes settled in ways that left the settled party feeling personally indebted to him rather than merely satisfied, the kind of careful cultivation that cost little now and promised a great deal later.
 
@@ -30,13 +22,9 @@ She had seen it herself, twice this past week alone — Foras lingering a little
 
 ---
 
-## A Different Kind of Strategy
-
 Belial listened without interrupting, keeping his expression deliberately blank as Nyx delivered the report, and dismissed her with a curt nod once she finished. She gathered the dispatch case and left without another word, the door closing quietly behind her. Alone again, he let the two pieces of the day sit side by side in his mind — the scholar's warning about planes that could only be crossed, and Foras's quiet accumulation of favors owed to a commander's absence rather than his strength.
 
 Neither piece, on its own, told him what to do. Together, they told him something he did not particularly enjoy hearing. He rose slowly from his chair and crossed to the window, favoring the side that still ached, and stood there a while looking out over rooftops he had always simply assumed, until this week, were settled and secure beneath him — rooftops that belonged, by an accounting he was only now bothering to run, at least partly to whoever held the loyalty of the people beneath them. He had less time than his pride wanted to admit, and the method that had already failed him once was not going to succeed on a second attempt simply because he wanted it to. What frightened him, turning the thought over, was not the spear itself, and had not been the spear itself for some time now — it was a Hell that no longer needed him, an outcome Foras was already advancing with every favor he granted during Belial's silence, patiently enough that Belial had almost missed it happening at all. Belial had spent centuries taking what he wanted through force applied without hesitation, a method that had built everything he currently held and lost him remarkably little along the way. For the first time in longer than he cared to measure, he considered the alternative not because wisdom had finally caught up with him, but because he could no longer afford the cost of being wrong twice. He turned the scholar's line over once more in his mind, slowly — *crossed, not conquered* — and found no counterargument worth the effort of making, which irritated him considerably more than the line itself had.
-
-## Back Through the Threshold
 
 He returned to the Weeping Sepulcher on the third day, ribs still tender beneath his armor, Ruach at his hip more out of habit than any real expectation that he would need it again the way he had the first time. He told no one where he was going, not even Nyx, and left instructions that any further reports could wait until he returned — a small, deliberate withholding from those already trying to profit from his absence.
 

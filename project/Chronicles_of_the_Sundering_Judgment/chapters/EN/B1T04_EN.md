@@ -1,7 +1,5 @@
 # B1T04 – What Neither of Them Keeps
 
-## The Real Find
-
 Cassiel found it at the center of the island's spiraling paths, in a clearing where bare stone broke through the surrounding growth — an echo carved into both rock and sound at once, unmistakably tied to Solmire, older than anything he had met on any of his three prior visits. He knelt beside it a long while, letting Silens draw out what detail it could, the way he would have knelt beside any testimony he did not yet fully trust himself to interpret. No name surfaced from the reading. No face accompanied it either. What came through instead was a plain, negative certainty, nothing he could build an argument from but enough that he trusted it without reservation: whatever account Heaven currently held of the sword's origin, this resonance did not agree with it. The reading carried one further detail, faint but unmistakable once he isolated it — this echo predated Miguel's own claim to the blade by some span Silens could not measure precisely, old enough that the sword had plainly existed, and mattered to someone, long before Miguel had ever touched it.
 
 He sat with that certainty a long moment, turning it over the way he turned over any difficult reading, patient even now with something that unsettled him more than anything the island's spiraling terrain had thrown at him so far. This was his fourth crossing to Turein, and he still could not fully account for what had drawn him back after the first. He understood, at least, that whatever he had expected to eventually find here, a contradiction with no name to fill it was not it, and he made himself sit with that mismatch rather than smooth it over with a tidier conclusion than the evidence actually supported.
@@ -10,8 +8,6 @@ He considered, kneeling there, how he would carry this back to anyone who needed
 
 He rose eventually, memorizing the clearing's position the way he had memorized it on his first visit, unwilling to let the island's geography cost him his way back a second time. The resonance held steady beneath his renewed attention, unaffected by his leaving it, asking nothing further of him except whatever reading he might eventually choose to give it.
 
-## The Confrontation
-
 He felt the presence behind him before he heard anything, a wariness he could not quite name sharpening past the meditative calm he had held throughout the crossing, and turned to find a demon standing at the clearing's edge, bow already in hand though not yet drawn. Cassiel rose slowly, Silens shifting into a ready grip without quite becoming a weapon raised in earnest. Neither spoke for a long moment. The demon's stance read, as far as Cassiel could judge across the clearing, more measured than aggressive — a hunter's readiness rather than any immediate wish to strike, though he was not prepared to stake anything on that reading yet.
 
 He held his ground rather than retreat toward the resonance behind him, unwilling to let the demon see exactly how much he might have to protect if the confrontation turned to violence. Whatever this stranger already knew about the clearing, about Solmire, about anything Cassiel had spent four visits carefully piecing together, giving away more than necessary now seemed like precisely the wrong instinct to follow, whatever his own better nature might have preferred.
@@ -19,8 +15,6 @@ He held his ground rather than retreat toward the resonance behind him, unwillin
 He studied the demon's bearing for anything further worth reading — the way he held the bow, neither raised nor fully lowered, a stillness that suggested, as far as Cassiel could judge, long practice rather than nervous hesitation. This did not look, to his eye, like a soldier caught unprepared by an unexpected meeting. Whatever brought him to this exact clearing, he seemed to have arrived with some plan already formed for exactly this possibility.
 
 The silence between them stretched longer than Cassiel found entirely comfortable, though he made no move to break it first. He had learned, across centuries of coaxing frightened souls back from the edge of their own panic, that the first to speak into a tense silence often surrendered more than the silence itself was worth. He held his ground and waited, Silens steady in his grip, trusting the demon's own evident reluctance to close the distance as much as his own willingness to let the waiting do its patient work.
-
-## Selm's Choice
 
 Selm studied the scout across the clearing, weighing the shape of the fight with the same flat calculation he gave any target he had not yet committed to taking. The angle was clean enough. The scout looked capable but not, from two days of careful watching, especially hungry for violence himself. A fight here would spend time neither of them plainly had, and might scatter whatever this place actually held before either side understood it. A kill that cost the objective was not a kill worth taking.
 
@@ -32,8 +26,6 @@ He had already gathered one detail worth carrying home regardless of how the res
 
 He lowered Specter, not fully, only enough to signal the intention without committing to it as a promise. "I haven't come here to fight," he said, his voice carrying none of the urgency the moment might otherwise have demanded.
 
-## What Passed Between Them
-
 "Good," Cassiel said, Silens still held ready but no closer to becoming a weapon than the demon's own bow. "Because I don't have time to waste on this either — my own side already has enough weighing on it." Selm was silent a moment before answering in kind. "Mine as well," he said. Neither offered anything further, the exchange settling into a quiet that felt, to Cassiel's ear, less like hostility than a shared, unspoken understanding that whatever waited beyond this clearing mattered considerably more than whatever satisfaction either of them might have taken from a fight neither could fully afford.
 
 Cassiel studied the demon a moment longer, searching for any sign the restraint was tactical rather than genuine, and found nothing he could point to with real confidence either way. He decided it did not especially matter. The outcome, whatever reasoning sat behind it, amounted to the mercy Cassiel needed — and, judging by the demon's continued stillness, might have served him as well — and he found he was willing, for once, to accept an answer without needing to fully understand its cause first.
@@ -42,8 +34,6 @@ He allowed himself a small measure of professional curiosity about what exactly 
 
 He wondered, too, whether the demon opposite him carried a better answer than his own fragmentary reading — some fuller understanding of what this place actually was, purchased through methods Heaven's own scouts would never have access to. He did not ask. Whatever advantage either side held today, neither seemed inclined to trade it away over idle curiosity, and Cassiel was not about to be the one who broke that unspoken understanding first.
 
-## Parting Ground
-
 Neither moved first for a long moment, the standoff settling into something closer to mutual assessment than active tension, until Selm finally stepped back toward the treeline, bow still lowered but not put away. "We both walk away with something," he said, not quite a question. "We both walk away with something," Cassiel agreed, offering nothing further about what exactly he had found. Selm's expression gave away nothing in return, and Cassiel understood, as the demon retreated into the spiraling growth, that he would likely never know precisely what the demon had actually taken from this place, any more than, he suspected, the demon could know the full shape of what Cassiel now carried back with him.
 
 Neither side had won cleanly. Cassiel left the clearing with the resonance's confirmation intact in memory, nothing physical to show for it, and no illusion that Hell's own hunter had left entirely empty-handed either. It was not the outcome he might have hoped for on his very first crossing to this island. Weighed against every alternative the confrontation might have produced instead, it was one he found, on reflection, he could accept without regret — and he noted, walking away, that the willingness to accept an incomplete outcome without resentment was itself a small lesson the island had spent four visits teaching him.
@@ -51,8 +41,6 @@ Neither side had won cleanly. Cassiel left the clearing with the resonance's con
 He made his way back across Turein's spiraling terrain at the same unhurried pace that had carried him through every stretch of it so far, unwilling to abandon the discipline that had gotten him this far simply because the day's most immediate danger had already passed. The light overhead moved through its familiar strange colors as he walked, a phenomenon he no longer questioned, and the paths themselves offered him no further resistance on the way out. Whatever test the island had set for him across four separate visits, he suspected he had finally passed it, or at least earned enough of its patience to be allowed to leave.
 
 He thought, walking, of the demon's parting words, the shared acknowledgment that neither side had claimed the whole of whatever this place actually held. It was an uncomfortable kind of victory to carry home, incomplete in ways his own service rarely tolerated. He carried it anyway, all the way back across open water and onto solid, ordinary ground, already turning over in his mind how he would explain an unfinished finding to a Council that generally preferred its evidence considerably more settled than this.
-
-## What Cassiel Reported
 
 He brought his findings to Iofiel two days later, once the journey back and the ordinary demands of his other duties had finally given him a proper window to request her attention, choosing his words with the same careful restraint he had held throughout the assignment and offering only what he could actually confirm, nothing his own speculation might have added on top of it. "Solmire's origin isn't what the Council currently believes," he told her, watching her expression shift from mild professional interest into something considerably more guarded. "I don't have a name. I don't have a face. What I found predates Miguel's own claim to the blade — and it doesn't agree with the official account. That's all I can honestly confirm."
 

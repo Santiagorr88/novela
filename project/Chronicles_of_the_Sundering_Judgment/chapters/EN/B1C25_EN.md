@@ -1,7 +1,5 @@
 # B1C25 – The Resonance
 
-## The Field of Convergence
-
 Miguel landed at the edge of a plain already scoured lifeless by some earlier battle, ground churned to grey ash beneath a sky of roiling cloud that offered no light of its own. The armies on both sides had fallen back at some unspoken signal neither commander had needed to give aloud, leaving the field entirely to the two figures who had, by now, become far more than commanders to the soldiers watching from its edges.
 
 Belial stood at the plain's far end, Lament held loose and ready in his grip, and neither of them spoke. There was nothing left to say that either weapon had not already said more plainly than words could manage. Miguel felt the weight of Solmire settle into his own hand, cold and familiar and no longer entirely his to command, and understood, standing at the edge of this dead ground, that whatever happened here would decide far more than which of them walked away from it.
@@ -10,15 +8,11 @@ He studied the distance separating them, a stretch of scoured ash wide enough th
 
 The silence between the two of them stretched, absolute and mounting, until it felt to Miguel like the held breath before something entirely new was about to be born into the world. He had fought Belial before, in skirmishes and smaller engagements scattered across the length of this long war. He understood, standing here now with Solmire's cold weight settling fully into his grip, that none of those previous encounters had actually been this — a genuine reckoning, arriving finally on ground that had already been scoured clean in preparation for it.
 
-## The First Clash
-
 Belial closed the distance first, Lament driving forward in a single committed thrust that carried the full weight of everything he had learned about the spear across the long weeks since claiming her. Solmire met the strike head-on, sword and spear colliding in an impact that released no sound at all, only a silence far more violent than any noise could have been.
 
 The shockwave that followed carried nothing physical in it, no heat, no force a body could brace against — only a silent detonation of something closer to pure concept than to any energy Belial had ever traded blows with before. Colors briefly drained from the grey plain around them, gravity stuttered underfoot before settling back into place, and sound itself died for one suspended instant before the world remembered how to carry it again.
 
 He held his footing through the aftermath as the visible distortion rippled outward across the plain in every direction, further than he could track before it faded past the range of his own sight, and felt, beneath that visible ripple, a larger propagation he had no name for — the impact reaching outward not merely across this ground but through something underneath it, some deeper fabric this single exchange had just reached straight through. He had traded blows with far stronger opponents across his long existence, and not one of those exchanges had ever registered beyond the two bodies directly involved in it. This blow, he understood immediately, had registered somewhere well beyond the plain they stood on, somewhere beyond this single dimension of it entirely — a fact that troubled him a great deal less than it perhaps should have, given how eager he already felt to test exactly how far the next exchange might carry.
-
-## What Arin Cross Felt
 
 Arin Cross was shelving books in the quiet upper stacks of Navarion University's library when the pain found him, a sudden, searing burn erupting through both hands and up his arms with no visible wound to explain it. He cried out, the sound tearing loose from him before any conscious decision to make it, and dropped the stack he had been carrying, books scattering across the floor in a clatter that drew no attention from anyone else in the empty aisle. His knees found the ground a moment later, both of them, the pain robbing his legs of whatever strength had been holding him upright only seconds earlier.
 
@@ -28,8 +22,6 @@ Arin had spent enough of his working life around genuine wounds to know a real i
 
 Arin knelt there a long moment amid the scattered books, breathing hard, forcing his breathing steady through the same long practice that had carried him through far more dangerous moments than an empty library aisle. The ache faded slowly, reluctantly, leaving behind a hollow unease he had no ready explanation for and no immediate intention of examining further. He gathered the fallen volumes eventually, his hands still faintly trembling, and rose back to his feet on legs that held this time, telling himself, without any particular conviction, that whatever had just happened to him had probably meant nothing at all.
 
-## The Song That Stopped
-
 Milo Ray stopped mid-chord in the middle of a bustling city square, his guitar falling silent on a note that hung dissonant and unresolved in the air around him. The cheerful tune he had been playing for the scattered coins in his open case abandoned itself somewhere between one measure and the next, and his usual easy smile drained away into something tighter, more focused, his gaze drifting up and out toward a horizon no one else in the square seemed to notice.
 
 "Someone's singing out of key," he muttered, to no one in particular, his fingers still resting on strings he had entirely forgotten to strum. He could not have explained, if anyone in the indifferent crowd around him had thought to ask, exactly what he was hearing — only that somewhere beyond the ordinary reach of hearing, two notes that should never have met each other had just collided, and the discord of it rang through him with an edge sharper than anything his own guitar had ever produced.
@@ -38,23 +30,17 @@ The city square continued its ordinary business around him, entirely indifferent
 
 He stood there several long moments, guitar forgotten in his lap, listening to a harmony gone wrong that no one around him could hear at all. Eventually a passing coin landing in his open case startled him back into the present, and he resumed the abandoned tune with fingers that still felt, faintly, out of step with themselves, unable to fully shake the sense that somewhere far beyond this square, something far larger than a single wrong note had just begun.
 
-## The Seer's Eyes
-
 At the summit that had held no change in longer than any record could measure, the crack already threaded through the ancient stone widened, all at once, into something more than a mere crack — a fissure splitting the seat beneath the seated figure clean in two, a deep, groaning sound rolling out from the mountain's own heart in answer.
 
 The figure that had not moved in millennia moved. Eyelids sealed shut since long before this height had a name began, slowly, to flutter, and then, for the first time in longer than the world below could reckon, to open. What lay beneath them was solid, blind white, seeing nothing of the physical mountain or the physical sky around it, fixed instead on some imbalance considerably larger than either, an imbalance that had just, somewhere far below, torn itself wide enough to finally be felt at this impossible height.
 
 The stillness that had defined this summit through every prior season broke alongside the fissure, the wind rising sharper than it had risen in the fissure's own aftermath days earlier, scouring frost from a shape that had, until this moment, given the wind nothing at all to disturb. Snow that had gathered undisturbed across ancient robes for longer than any single kingdom's history shifted now, fractionally, as whatever had held this seated form motionless for millennia finally began, in whatever way stillness this deep could be said to end, to give way.
 
-## What Miguel Understood
-
 Miguel staggered back from the point of impact, putting several paces of distance between himself and Belial as both of them fought to steady breath that had gone suddenly, uselessly ragged. Solmire hummed in his grip with an intensity unlike anything he'd felt from her before, and he understood, in the same disorienting instant, that whatever had just passed between the two weapons went deeper than a simple exchange of blows. Every strike he had ever landed with Solmire, he realized now, breathless, had never been merely a strike. It was a verdict, absolute and irreversible, and the verdict this particular blade had just rendered, in the silent language she had always spoken, declared Belial's very existence a flaw in creation deserving of erasure.
 
 He looked across the ash-grey distance to where Belial stood, chest still heaving from the same exchange, and understood that they were no longer merely two soldiers trading blows on a battlefield. They were something closer to two ideas given flesh, colliding directly against each other in a language that had nothing left to do with the war either side believed itself to be fighting.
 
 He thought, standing amid the wreckage of that single exchange, of every soul he had erased across the length of this war without once questioning whether his blade's verdict against them had actually been earned. Solmire had never asked him to weigh that question. She had simply rendered judgment, absolute and immediate, and Miguel had spent this entire war mistaking her certainty for his own. He raised her again regardless, the understanding still raw and unexamined, and readied himself for whatever the next exchange intended to prove.
-
-## What Belial Understood
 
 Belial straightened slowly against the spear's own trembling aftermath, drawing several deep breaths before his chest fully steadied, Lament's grief still ringing through him in the wake of the impact. He arrived at an understanding of his own that mirrored Miguel's without either of them needing to speak it aloud. Every thrust he had ever driven home with Lament had never been merely an attack. It was a truth, delivered with the same merciless clarity the spear had always carried, and the truth this particular thrust had just delivered exposed Miguel's faith itself as a lie dressed up in the comfortable language of righteousness.
 

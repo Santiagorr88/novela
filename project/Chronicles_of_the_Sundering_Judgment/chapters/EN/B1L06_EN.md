@@ -1,7 +1,5 @@
 # B1L06 – What Winning Costs
 
-## A Burning Burden
-
 Lament hung at Belial's hip differently than Ruach ever had, a weight that had nothing to do with its actual mass and everything to do with what he had felt closing his hand around it. He crossed the last stretch of the plane toward the portal with the spear's low, cold thrum settled somewhere behind his ribs, a companion he had not invited and could not, apparently, ask to leave. Every few dozen steps it flared faintly brighter, unprompted, as though checking that he was still there and still carrying it, and each time it did, some small part of him tensed in anticipation of the vision returning in full — before it always, mercifully, did not return at all.
 
 The chiming crystal grew sparser the closer he came to the portal, the plane itself seeming to lose interest in him now that its business with him was finished. The guardian's clearing lay well behind him by then, out of sight around a bend the channel had carried him through some time ago, and he found he had no particular urge to look back toward it even once. He walked the last hundred paces in something close to silence, Ruach still strapped at his other hip, unused since the guardian's first lesson and likely to stay that way for a long while yet, its familiar weight suddenly the more ordinary of the two weapons he now carried.
@@ -9,8 +7,6 @@ The chiming crystal grew sparser the closer he came to the portal, the plane its
 He understood, walking, that he had not won anything cleanly. He had taken the weapon by force of will, exactly as he intended, and the taking had cost him a permanent tenant he would now be carrying for as long as he carried the spear itself — a sorrow he had refused to accept but had not managed to fully evict either, banked low and patient at the edge of every thought he had from here forward. It surfaced at odd moments, unbidden, cutting through some ordinary thought about supply lines or troop counts and then fading again just as quickly, gone before he had time to properly brace against it.
 
 It was not defeat. He told himself that clearly, the same way he had told himself everything else in that chamber. It did not feel, this far past the victory, entirely like triumph either. He had expected, if he had expected anything at all, to feel lighter once the spear was fully his — some clean sense of a debt paid and closed. What he actually felt was closer to carrying a second set of armor, one that never quite came off no matter how far he walked from the place that had fitted it to him.
-
-## What the Claiming Sends Outward
 
 The moment his fingers had first closed fully around the shaft, something had left him — not visibly, not in any way he could have pointed to, but with the unmistakable sense of a signal going out into places far beyond this plane's borders. He had felt something similar once before, secondhand, when Solmire's drawing had reportedly reached Lucifer's own court in an instant, a resonance too large to stay contained to the moment that produced it.
 
@@ -20,15 +16,11 @@ He felt it the way a man feels a distant door slam somewhere else in a house he 
 
 ---
 
-## What the Storm Cannot Explain
-
 The lighthouse keeper had weathered thirty years of ordinary storms from this same rocky point, enough to know the shape and temper of every kind of weather this coast usually produced, and this was not one of them. She had climbed the tower stairs at the first sign of unusual cloud on the horizon, the same routine she had followed since she was young enough to be climbing them with her own mother close behind her, counting the steps out of habit the way she always did, and had reached the lamp room just in time to watch the sky finish turning wrong in a matter of minutes rather than the hours a storm this size should have taken to build.
 
 The wind arrived from three directions at once, impossible by any measure of the craft she had spent half a lifetime learning, rain slashing sideways in patterns that matched none of it. Waves broke against the rocks below in rhythms that contradicted each other, one crest crashing in from the north while another, just as large, rose up from the south in the same instant, two currents that had no business sharing the same stretch of water at all. She kept the light burning anyway, hand steady on the mechanism despite everything happening beyond the glass, because a lighthouse that went dark in weather like this was worse than useless to whatever ships might be caught out in it. She checked the oil twice in the space of a few minutes, an old habit from her mother's warnings about nights that turned like this one, and forced her hands to stay steady through the work even as the whole tower groaned around her under gusts that seemed determined to test whether it would hold. She thought, watching the storm batter at her tower, of the tremor that had shaken this same stretch of coast some nights before — she had heard the story secondhand from a fisherman who claimed his boy had nearly gone overboard in it, a story she had half-doubted at the time — and found herself certain now, without any way to prove it, that the two events shared the same cause. She stayed at her post through the worst of it, log open on the table beside her though her hand shook too badly to write anything useful in it, and watched dawn arrive over water finally settling back into something like its ordinary temper, offering no explanation at all for any of what had just passed through it.
 
 ---
-
-## What Arrives Too Late
 
 Iofiel stood beside Gabriel in the small archive room they had used before, waiting on the scout's report with a patience that had worn thin days ago and had not recovered since. Days had passed since the Council authorized the scout's quiet departure, longer than Iofiel had expected the journey to take — and, judging by the tightness that had settled into Gabriel's own shoulders over those same days, longer than he had expected it too. The silence in between had given Iofiel far too much time to imagine every version of what that silence might mean, none of them especially reassuring by the third or fourth day of waiting.
 
@@ -36,15 +28,11 @@ The scout who finally arrived to deliver it looked travel-worn in a way that tol
 
 ---
 
-## The Weight of a Return
-
 Belial felt the shift in Hell's court before anyone spoke a single word to confirm it, the particular quality of attention that greeted him as he crossed the threshold back into rooms he had left weeks ago as a commander whose absence had started to feel permanent. Conversations paused a fraction too long as he passed, resuming a beat later than they should have, and more than one face turned toward him with an expression that took a moment too long to settle back into ordinary deference.
 
 Officers who would once have simply nodded and continued their business now watched him more closely, weighing, he suspected, exactly how much his return changed the calculations they had already started making without him. Malgorath's name had gone conspicuously quiet somewhere in those same weeks — the favors he had been calling in across three courts apparently spent themselves against nothing more solid than his own ambition, exactly the kind of noise Belial had judged it not worth interrupting his own work to answer. The real erosion, it turned out, had never needed a name that loud. He carried himself through the hall with the same unbothered certainty he always had, Lament's low thrum still settled behind his ribs, and gave none of them the satisfaction of seeing how much that scrutiny actually cost him to ignore.
 
 A few of the more junior officers greeted him with a warmth that felt slightly overplayed, the kind of enthusiasm men offered when they wanted to be remembered, later, as having never doubted him at all, however true that memory actually turned out to be. Belial accepted their greetings without comment, filing each face away for later consideration against whatever loyalties they eventually revealed themselves to hold, and continued deeper into the court toward the one confrontation he had already known, before he ever crossed back through the portal, was waiting for him here.
-
-## What Foras Won't Give Back Easily
 
 He found Foras waiting for him in the same hall he had once used for confrontations neither of them ever put a name to, unsurprised, as though he had known precisely which day Belial would finally walk back through that door. Foras stood with the same composed, unhurried stillness Belial remembered from every dealing they had ever had, hands loosely clasped, nothing in his posture that could be read as either welcome or warning. A single lit brazier stood between them at the hall's center, the only illumination in a room otherwise left deliberately dim, casting long shadows that made the space between the two of them feel wider than its actual distance.
 

@@ -1,7 +1,5 @@
 # B1T03 – The Riddles With No Answer
 
-## The Direct Path
-
 Cassiel returned to Turein three days after his first uncertain crossing, better provisioned this time and steadier in his own mind about the island's strange geography, and made straight for the clearing where he had found the resonance before, trusting memory over anything Silens might tell him along the way. The path looked familiar for the first quarter hour — the same spiraling undergrowth he remembered, the same shifting quality to the light overhead that no longer startled him the way it once had.
 
 He noticed the wrongness only once the ground had already begun repeating itself: the same fallen log crossing his path a second time, then a third, each encounter identical down to the angle of moss along its upper surface. Cassiel stopped and studied the log a long moment, testing whether his own memory might simply be mistaken about how many times he had actually passed this point. It was not mistaken. He had walked, by his own careful count, in a complete circle, arriving back nearly where he had started despite having moved, as far as he could tell, in one consistent direction the whole time.
@@ -10,8 +8,6 @@ He crouched beside the log and searched for some detail that might distinguish t
 
 He tried the path again, more from stubbornness than real expectation of a different outcome, and found himself back at the same log within a quarter hour — four identical encounters now, against a single unbroken line of travel. He sat with that count a moment, turning it over rather than pushing straight past it. Whatever governed this ground plainly did not answer to simple persistence. He would need, he understood, something other than the approach that had carried him through every other assignment of his long service, and made himself admit that plainly rather than try the same failed method a fifth time out of pride.
 
-## What the Island Actually Guarded
-
 He sat with the failure a while longer before attempting the path again, turning the problem over with the same unhurried care he gave any wounded soul Silens ever led him toward. Turein guarded whatever it guarded with no creature he had yet encountered, no physical wall blocking any route he had tried. It offered instead exactly what the fallen log had just demonstrated: paths that folded back on themselves, echoes of half-remembered laughter that led, whenever he chased them with any real urgency, straight into dead ends that had not existed moments before. Riddles, he thought, turning the word over the way he might turn over a difficult line of scripture — not the guardians he had first expected, but something closer to unanswered questions, patient enough to wait as long as he did, and perhaps not answerable at all in the shape he understood the word.
 
 He recalled how badly his own urgency had cost him on his first visit, the disorientation that had nearly taken his bearings entirely. He had assumed, afterward, that the lesson was learned. Sitting now beside a log he had circled three times without noticing, he understood it evidently required repeating, and found, somewhat to his own surprise, that the repetition did not shame him the way it once might have. A lesson worth learning once was rarely learned only once. He had watched enough of his own novices discover that truth to have no excuse for forgetting it applied to him as well.
@@ -19,8 +15,6 @@ He recalled how badly his own urgency had cost him on his first visit, the disor
 He thought, too, of every echo of laughter he had caught drifting through the undergrowth since setting foot on the island that morning, faint and fossilized in the fabric of the place the same way it had been on his first visit. He had chased one of them an hour ago, curiosity overriding his better judgment for exactly long enough to lead him into a dead end that had not existed, as far as he could tell, moments before he reached it. He did not chase the next one he heard. Whatever answered that kind of urgency here, it plainly had no interest in rewarding it.
 
 He allowed himself, sitting beside the log, a genuine and unhurried doubt about whether he was even the right Captain for an assignment like this one. Others under Orifiel's command might have brought sharper instincts to a puzzle of this shape, quicker reflexes, some quality better suited to breaking a riddle by force of will. He had never been quick. He had only ever been patient, and patience, so far, had earned him nothing here beyond four identical meetings with the same fallen log. He let the doubt sit rather than argue himself out of it too quickly. It seemed, on reflection, like the kind of question worth actually asking rather than answering out of habit.
-
-## Reading the Cadence
 
 He rose eventually and tried the path again, deliberately slower now, abandoning any effort to hold a straight bearing in favor of simply attending to what the island itself seemed to be doing around him. The spiraling growth, he noticed on this slower pass, followed a rhythm he could almost anticipate once he stopped trying to walk through it and let his own pace bend instead — not resistance exactly, but a kind of patient accommodation, the same quality of attention he brought to a soul too disoriented by its own death to be guided anywhere by force.
 
@@ -32,13 +26,9 @@ The ground beyond it opened more generously than anything he had walked through 
 
 He walked the rest of the afternoon at exactly the pace the island seemed to ask of him, testing the boundary now and then and finding it consistent every time. Patience, whatever else it demanded of him, was at least a lesson he could apply reliably once he understood its terms — and understanding its terms, he thought, had taken him rather longer than it should have, for a man who had spent his whole service claiming patience as his one real gift.
 
-## The Right Kind of Patience
-
 It occurred to him, walking this slower path, that his own temperament might be the reason Turein had not turned him away entirely on his first visit, the way it apparently turned away anyone moving with real urgency. He had built his service around this same unhurried attention, the patience most of his fellow Captains found faintly tedious in him, the willingness to sit with a wounded soul an hour rather than rush it toward wherever it needed to go. Turein, whatever else it actually was, seemed to reward precisely that quality and punish its absence with the same indifferent consistency a strict teacher might apply to a lesson everyone else had already learned.
 
 He did not consider himself especially suited to grand assignments and had never sought the kind of glory his more aggressive colleagues pursued across open battlefields. Walking Turein's slow paths now, he wondered, without quite deciding, whether that overlooked temperament might be exactly what a place like this had been quietly waiting to test — and wondered, too, whether he would have believed that of himself a week ago, before the island had spent four crossings patiently proving it to him.
-
-## What Selm Tried Instead
 
 Selm, still watching from the distance he had held since the previous night, ran out of a different kind of patience somewhere past midday — not the hunter's stillness that had carried him through two days above a ridge waiting for a clean shot, but the slack, purposeless waiting this assignment had reduced him to, with no opening building toward anything he could act on. A hunt with nothing to strike at was not a hunt. It was simply hunger with the lid held down, and Selm had never developed much taste for holding it down without a kill somewhere at the end of it. He broke from the scout's pace and cut a direct line toward the same interior the man was clearly working his way toward, trusting speed the way he had trusted it across centuries of ground exactly like this.
 
@@ -47,8 +37,6 @@ The obstacle arrived without warning worth the name — the same ground repeatin
 He tried a different bearing next, angling sharply away from his original line in case the ground's resistance answered to direction rather than manner. The same stand of trees met him within the quarter hour regardless, telling him, more plainly than anything else so far, that direction had never been the actual variable. He weighed his own irritation against the evidence and set it aside as useless. Irritation caught nothing.
 
 He considered, briefly, cutting a path through by force. He abandoned the idea nearly as fast as it arrived. Whatever governed this ground had already shown him, twice, that it did not answer to speed or aggression in any register he recognized. A hunter who kept spending the same coin on a lock that had already refused it twice was not patient. He was simply slow to notice he had lost.
-
-## Converging Without Knowing
 
 He forced himself, with real reluctance, into something closer to the scout's own unhurried pace, testing whether patience where speed had failed might yield a different result. It did, marginally, the terrain growing more cooperative the less he fought its rhythm — though the concession cost him more discipline than he cared to admit. He knew how to hold still for an opening. He had never needed to simply keep pace with ground that offered no opening at all, no target building toward a decisive moment, only the bare demand that he match its rhythm and ask nothing further. He found that absence more unsettling than any physical danger the island might have offered instead — a patience with nothing at the end of it to spend the patience on.
 

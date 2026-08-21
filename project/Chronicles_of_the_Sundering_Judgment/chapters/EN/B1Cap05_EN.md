@@ -1,7 +1,5 @@
 # Chapter 5 — Solmire's Judgment
 
-## The Old Way of War
-
 Joran had been fighting under Nael's banner for less than a year, and in that year he had come to believe two things without question: that the line held as long as Nael held it, and that Zaphor'el's gates would be the place either of those beliefs finally got tested. He had heard veterans talk about this siege the way soldiers talk about a debt long overdue — years of ground lost an inch at a time, retaken and lost again, until "Zaphor'el" had become shorthand in the ranks for a fight nobody expected to actually finish.
 
 The crystalline towers ahead had long since stopped looking like the city they must once have been. Corruption had grown through them like frost through glass, veins of pulsating flesh threading between spires that still, in places, caught the light the way something beautiful once had. Infernal war machines ground forward across the plain, and lesser demons swarmed the gaps between them, and Joran's arm ached from a morning that showed no sign of becoming an afternoon. Somewhere to his left, a soldier he did not know screamed a name that was not answered, and he made himself not look, because looking cost time he did not have to spare.
@@ -16,15 +14,11 @@ She did not. Blood ran from somewhere along her hairline, and she held the line 
 
 She fell three seconds later, cut down from the flank while her attention was still fixed on holding the center. Joran did not see the blow land. He heard it, and turned in time to see her go down, and felt something in the line around him buckle at the sound of it — not a rout, not yet, but the particular silence that comes just before one. Around him, soldiers who had been holding formation on Nael's voice alone suddenly had nothing to hold it on, and Joran felt the gap where her banner had flown a moment ago like a wound of his own.
 
-## The Gates of Zaphor'el
-
 It was in that silence, that half-breath before the line could decide whether to break, that Joran first heard the horns.
 
 He had no time to look for their source. The demonic war machine that had struck beside Nael was already grinding forward again, and Joran's body moved on instinct alone, dragging her back from the front rank while two others closed the gap she'd left. Around him the battle raged on in its old, familiar shape — angelic soldiers pinned against fortifications of bone and pulsing flesh, infernal machines too numerous to count, the crystalline ruins of a once-beautiful city serving now as cover for things that had no business sheltering in it.
 
 He was still crouched over Nael, pressing what he could against the wound at her side, when the light reached him.
-
-## Solmire's Judgment
 
 It came from behind the angelic line, and it did not arrive like reinforcement usually arrived — no horn answering horn, no fresh ranks pushing forward. It came instead as a single figure walking, unhurried, into a battle that should have killed anyone moving that slowly. Miguel held the sword aloft rather than swinging it, and with each step a wave of light rolled outward from the blade, and everything the light touched simply stopped being what it had been a moment before.
 
@@ -36,8 +30,6 @@ He still had Nael's blood drying on his hands, and he did not know whether to ca
 
 ---
 
-## Voices Among the Glass
-
 Mira had been hiding in the lower vaults of Zaphor'el for longer than she could accurately measure, ever since the corruption first took the upper city and made the streets unsafe for anything that still had a name to lose. She came up into the light only because the ground had stopped shaking, and the silence that replaced the shaking felt, cautiously, like it might mean something other than a new kind of danger.
 
 The plaza she emerged into was not the plaza she remembered. The corruption was gone — she could see that much immediately, the black growth that had crept over every wall and archway simply absent, the crystal beneath it clean and whole as if no war had ever touched it. But nothing else about the sight comforted her. The plaza was too clean. Too silent. Other refugees emerged around her in twos and threes, blinking in the light. Mira could not have said why it felt wrong, only that it did, and none of them spoke above a whisper, as though the stillness itself might be listening.
@@ -47,8 +39,6 @@ An old man beside her reached out and touched the nearest wall, testing it as th
 A child nearby began to cry, the sound sharp and strange against the surrounding hush, and an adult hurried to quiet him, glancing around as though the silence itself might take offense at being broken. Mira crossed to what had once been the fountain at the plaza's center, dry now and scoured as clean as everything else, and found she could not remember what it had looked like before, only that it had looked like something, and that this was not it.
 
 ---
-
-## A Healer's Doubt
 
 Raphael moved through the aftermath doing what he had always done, seeking out the wounded and offering what Veritas could give them. He found Nael first, propped against a fallen column with Joran still pressing a hand to her side, and knelt to lay his staff against the wound.
 
@@ -66,8 +56,6 @@ Miguel offered no response to that. He turned instead toward the cheering rising
 
 ---
 
-## Victory's Silence
-
 The capital fell before nightfall, and by the time Miguel reached its center the fighting had already given way to celebration — soldiers embracing amid streets scoured clean of every trace of the corruption that had held this city for years. Word of Nael's survival had already spread through the ranks, passed soldier to soldier the way good news always found its way faster than orders did. Zaphor'el gleamed now, crystal towers catching the last of the daylight, pristine in a way that felt less like restoration than replacement.
 
 Miguel climbed to a high balcony overlooking the plaza, ostensibly to survey the victory, though no one below seemed to need his presence for the celebration to carry on without him. He did not look at the celebration below. He looked instead at Solmire, turning the blade slightly in the fading light, feeling its low, constant hum against his palm more clearly than he felt anything rising from the crowd beneath him. The cheers reached him thin and distant, as though the city itself had muffled them on their way up.
@@ -75,8 +63,6 @@ Miguel climbed to a high balcony overlooking the plaza, ostensibly to survey the
 He told himself this was simply exhaustion, the natural quiet that followed any hard-won victory. He did not fully believe it. Below him, someone began singing an old hymn of thanksgiving, and others joined in one by one until the sound filled the plaza, and Miguel found he could not make himself join them, could not find in himself whatever part of a soldier was supposed to answer that song. Something in him had already begun listening to the sword more than to the soldiers who had fought and bled beside him today, and he filed that fact away, the way he had begun filing away so much else since Serephis, and did not examine it further.
 
 ---
-
-## Uriel's Private Doubt
 
 Uriel found a quiet stretch of wall away from the celebration and allowed himself, for the first time since the battle began, to simply stand still.
 

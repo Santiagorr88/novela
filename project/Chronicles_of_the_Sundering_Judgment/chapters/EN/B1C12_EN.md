@@ -1,7 +1,5 @@
 # B1C12 – Dreams of Laughter
 
-## The Restless Sleep
-
 Miguel had not slept well since he first closed his hand around Solmire's hilt, and tonight exhaustion finally won the argument his body had been losing for weeks. The nights before this one had all followed the same shape — an hour or two of shallow rest broken by nothing he could name, followed by the long, wakeful stretch before dawn where he simply lay still and waited for morning to make the waiting official. Tonight his body refused to keep arguing. He knelt beside his bed first, as he always did, and prayed for a vision — a sign, however small, that the path he walked was still the one he had been meant to walk. He asked for clarity, plainly and without ornament, the way he had asked for it a hundred times before this particular doubt had ever taken root in him, in the same words he had always used, hoping the familiarity of them might carry more weight than the words alone could manage.
 
 The prayer felt worn down by repetition, closer to habit than devotion, though he could not have said exactly when that had started to be true. He had always trusted this part of each day without question, the simple act of kneeling and asking, certain that whatever answer came back would be enough to carry him forward. Tonight the need for an answer carried an urgency that bordered on desperation, and he felt it plainly, even as he shaped the words, aware that he needed this clarity more than he had needed almost anything else in his long service.
@@ -9,8 +7,6 @@ The prayer felt worn down by repetition, closer to habit than devotion, though h
 Sleep took him somewhere in the middle of that prayer, the words trailing off into a darkness that did not feel like rest. Something began to take shape in that darkness almost immediately, and even half-submerged in sleep, Miguel felt a current of resistance rise in him before he had any clear sense of what he was resisting. Nothing about the shape forming ahead of him matched anything he had ever been taught to call sacred. He fought, briefly and without much success, against the pull to keep watching it take form.
 
 He had prayed for a vision, and some sleeping part of him understood, even as the darkness thickened around him, that whatever this was, it had not been sent in answer to that prayer. It felt older than any answer Heaven had ever given him, and entirely uninterested in whether he wanted to receive it. He tried, in the half-formed way a dreamer tries anything, to turn himself away from it, to will himself back toward the ordinary dark of dreamless sleep. The pull toward the shape ahead of him only tightened, patient and unhurried, as though it had already decided, long before Miguel had, that the resisting would stop.
-
-## The Unseen Smith
 
 He could see no one. There was only a presence, unseen, somewhere close in the darkness, not in this dream or in the vague, half-remembered fragments of dreams that had preceded it. What reached him instead was sound — a laugh, low and unhurried, present in the darkness the way a held breath is present before it's released.
 
@@ -20,15 +16,11 @@ He knew that laugh. He had heard some fractured echo of it once before, on the s
 
 The laugh went on for what felt like a very long time, without faltering, without deepening into anything more solemn. Miguel kept waiting for it to change, for some note of purpose or reverence to enter it and make sense of what he was hearing. It never came. Whoever stood behind that laughter, unseen and untroubled, was simply enjoying themselves.
 
-## Waking to Silence
-
 Miguel woke to his own chambers, drenched in a cold sweat that had soaked entirely through the linens beneath him, the ghost of that laughter still ringing faintly in his ears the way a struck bell keeps ringing after the hand that struck it has already withdrawn.
 
 He lay still for a long moment before he trusted himself to move, staring at the dark ceiling above him until his breathing found something closer to its ordinary rhythm. His hands, when he finally looked down at them, were only his own hands, steady and familiar in the low light, and the small relief that gave him felt almost embarrassing in its intensity — relief at something so basic that, before tonight, gratitude for it had simply never occurred to him.
 
 Solmire rested in its stand across the room, its light banked low and quiet, and Miguel found he could not look at it the way he once had. It had always sat there as a gift, the clearest proof he owned of Heaven's trust in him, a weight he had carried with something close to gratitude every day since Serephis. Tonight it sat there as something else entirely — an object with a history he had never asked to know, and now could not stop knowing. He rose from the bed and crossed the room toward it, though he could not have said what he meant to do once he arrived, and stood over the blade for a long moment without touching it, studying its familiar lines as though a closer look might reveal something the dream had only hinted at. Nothing in its shape had changed. It caught the low light exactly as it always had, patient and radiant, giving him no answer at all to the question he did not yet know how to ask it. He had trusted this blade without reservation for as long as he had carried it, and standing over it now, he found he could not remember exactly when that trust had first started to cost him something to maintain.
-
-## What Gabriel Doesn't Ask
 
 A soft knock came at his door not long after, hesitant in a way Gabriel's knock never was, not in all the centuries Miguel had known him. He opened it to find his brother standing in the corridor, still dressed as though he had come straight from his own chambers without pausing to set himself in order first.
 
@@ -36,15 +28,11 @@ A soft knock came at his door not long after, hesitant in a way Gabriel's knock 
 
 They stood there a moment, neither quite finding the next thing to say, the space between them oddly formal for two brothers who had once shared everything without needing to ask permission first. There had been a time, not so many years ago by either of their reckonings, when Gabriel would simply have walked in and sat at the foot of the bed without waiting for an invitation, and Miguel would have let him, without a second thought. Gabriel's eyes moved once, briefly, past Miguel's shoulder toward the bed, the disturbed sheets still visible in the low light, and then returned to Miguel's face without comment. Whatever bond still ran between them, thinned by months of distance neither of them had chosen to name aloud, had carried enough of tonight's terror across its fraying thread to bring his brother to this door in the middle of the night.
 
-## The Door That Closes
-
 Gabriel did not ask directly what Miguel had dreamed. He stood in the doorway instead, searching Miguel's face for an opening he did not seem to know how to request outright, the two of them separated by a distance that had grown too wide, somewhere along the way, for a simple question to cross easily.
 
 Miguel did not offer him one. "It was nothing," he said, the words coming out flatter and colder than he had intended, a door closing in tone well before it closed in fact. He watched something shift in Gabriel's expression at that — not surprise, exactly, more as if Gabriel had already suspected this distance and had hoped, coming here tonight, to find it smaller than he feared. "Get some rest, Gabriel. I'm sorry to have troubled you."
 
 Gabriel held his gaze a moment longer, as if weighing whether to press past the closed door Miguel had just set between them. "You know you can tell me," he said, quietly, an offer made without much confidence that it would be accepted. Miguel said nothing further, and after a moment Gabriel nodded once, a small, resigned motion, and stepped back into the corridor. He left without another word. Miguel shut the door himself, gently, and stood with his hand still resting against the wood long after the sound of his brother's footsteps had faded down the corridor, aware, in some quiet corner of himself, of exactly how much he had just chosen not to say.
-
-## To Whom He Doesn't Go
 
 Alone again, Miguel was walking before he had made any clear decision to walk at all, his feet carrying him toward the wing of the Bastion where Raphael kept his chambers before his mind had fully caught up to where he was going. The corridors at this hour stood empty and quiet, lit only by the low, steady glow that never fully dimmed anywhere in the Bastion, and Miguel moved through them with none of the certainty he usually carried through these same halls in daylight.
 

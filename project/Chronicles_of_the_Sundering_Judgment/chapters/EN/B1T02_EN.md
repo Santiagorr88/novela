@@ -1,7 +1,5 @@
 # B1T02 – The One Already Watching
 
-## The Method
-
 Selm had held the ridge for the better part of two days when the target finally showed himself: a mid-ranking angelic courier whose route Hell's intelligence apparatus had spent weeks mapping in anticipation of exactly this movement. He did not draw Specter the moment the courier came into range. He watched instead, motionless behind the active camouflage that made him difficult to place even at close range, and let the courier's habits settle into a rhythm before he committed to anything as final as a shot. Two days was not a cost. Two days was simply what the shot required, and a hunter who begrudged the price of his own kill had already lost something more useful than time.
 
 The kill itself took less than the two days that preceded it — one arrow from well outside the courier's line of sight, the angel down before he ever turned toward the shot. Selm did not linger over the body. The waiting was the actual work. The shot was only its brief, necessary conclusion, and dwelling on a conclusion already reached wasted the same stillness he would need for the next one.
@@ -9,8 +7,6 @@ The kill itself took less than the two days that preceded it — one arrow from 
 He gathered what the courier's satchel held, catalogued it with the same flat thoroughness he gave any part of an assignment, and moved on. Outsiders rarely understood why two days spent waiting for a kill that took less than a second counted as efficient. Selm had stopped explaining it to anyone some time ago. The results answered for him, assignment after assignment, and a result that spoke for itself needed no further argument behind it.
 
 Other hunters under Hell's banner favored speed — closing the distance fast, trusting raw aggression to carry them through whatever resistance a target offered. Selm had watched enough of them die to know exactly how that particular arithmetic tended to resolve over a long enough career: a fast kill spent everything at once, and a hunter who spent everything at once had nothing left when the target turned out to be harder than expected. He preferred the slower account: read the target's habits, wait for the single moment those habits opened a gap too clean to waste, and take it the instant it appeared, without a heartbeat of hesitation once it did. It was not a virtue. It was simply the calculation that had kept him breathing across centuries where louder hunters had not lasted a fraction as long, and he saw no reason to trade a method that worked for one that merely looked more impressive from the outside.
-
-## The New Assignment
 
 He was still cleaning Specter's string when the summons reached him, relayed through the usual quiet channels Hell's intelligence network kept for exactly this purpose. The liaison who delivered it in person wasted no time on pleasantries. "Locate what it is... If Heaven's already looking, we look closer," the liaison said. Selm did not lower his eyes from the horizon while he listened — one more small discipline among the many that kept a hunter alive, and not one he saw any reason to break for a briefing that mattered. "And if it's nothing?" he asked. "Then you'll have lost a day," the liaison said. "Go."
 
@@ -20,8 +16,6 @@ Selm took what little the liaison actually had to give him: Vepar's own apparatu
 
 He asked nothing further before setting out. A hunter who needed every detail explained before he could begin was rarely worth sending in the first place, in Selm's experience, and he preferred to build his own read of the ground from what the trail itself gave him, over anyone's secondhand account of what they thought had happened.
 
-## Following the Trail
-
 The trail took him the better part of a day to reconstruct, built from fragments rather than any single clean lead — a discarded travel permit here, a half-erased footprint there, the small carelessness even a careful scout inevitably spends across enough ground. Selm had tracked harder quarries than this one, and found the meticulous work of piecing a route together from evidence this thin no different, at bottom, from the stillness that had carried him through two days above a ridge. Both spent the same coin: attention, held past the point where most hunters started to fidget.
 
 The travel permit was the easiest piece, a stamped waypoint placing the scout's last confirmed position along a stretch of coastline Selm knew from prior work. The footprints proved more useful still — tracks leading down to the waterline, a single overturned skiff, a length of mooring rope cut clean rather than untied. Cut, not untied: the scout had left in a hurry, without troubling to secure the boat properly behind him. That told Selm something worth knowing before he ever laid eyes on the man. Fear made mistakes. So did excitement. He would need to see the scout himself to know which one had cut that rope. He found the skiff's twin half-hidden in reeds farther down the shore and used its weathered heading marks to reconstruct the bearing the scout had most likely taken across open water.
@@ -29,8 +23,6 @@ The travel permit was the easiest piece, a stamped waypoint placing the scout's 
 He crossed onto unlisted water past midday, following the bearing he had built from the skiff and the shoreline together, and found, well before any coast came into view, that his own sense of direction had begun behaving strangely — a faint reluctance in his instincts to commit fully to the course already charted. He noted it without alarm and filed it, the way he filed anything the trail had not yet explained to him. A hunter who stopped to interrogate every small wrongness before it had cost him anything real was a hunter who never actually finished a hunt; the ground would explain itself in its own time, or it would not, and either way the answer was cheaper bought by moving than by standing still to wonder about it.
 
 The wrongness deepened as he closed the remaining distance, a low, persistent discomfort he could not trace to any single cause. He had crossed hostile ground more times than he could count, had walked through wards and traps and every deterrent Heaven's engineers had ever devised. This felt like none of it — closer to ground that simply did not agree with straightforward navigation, indifferent rather than hostile, and indifference unsettled him more than hostility would have. Hostility, at least, could be read. He pressed on regardless, trusting the evidence over the discomfort.
-
-## Watching Unseen
 
 He found the scout on the island's far shore, working his way back toward the coast with the particular caution of a man retracing his own steps more carefully than his first pass had used. Selm settled into cover well before the scout came within any reasonable range of noticing him, camouflage folding into the island's strange, spiraling foliage, and watched. The scout moved with care, pausing often to check his bearings against landmarks Selm could not immediately place — the caution, Selm judged, of a man already badly lost once today and unwilling to repeat the experience.
 
@@ -40,15 +32,11 @@ He noted, too, the particular quality of the scout's attention — not the hurri
 
 The scout paused near a cluster of spiraling growth, kneeling to examine something Selm could not make out, and stayed long enough that Selm allowed himself to shift his weight, easing the strain of holding still without breaking cover. He had learned the cost of moving too soon early in his service, watching a less careful hunter pay for it permanently. He did not intend to repeat the lesson on someone else's behalf tonight. Patience cost nothing that speed hadn't already cost twice as dearly, and Selm had never once regretted paying it.
 
-## The Easy Kill
-
 The shot would have been trivial. Selm assessed it with the same flat certainty he brought to any target's vulnerability: no indication the scout had detected him, no cover between them worth the name, an angle clean enough that Specter would barely need to work for it. He held the position anyway, arrow nocked but not drawn, weighing the kill against everything he did not yet know about why it mattered.
 
 A dead scout told Hell nothing beyond the fact that he had once existed. A scout followed, read, understood, might still lead somewhere worth knowing — whatever had drawn Heaven's attention to this stretch of water in the first place. This was not mercy. Selm did not deal in mercy and felt no need to dress the choice up as something softer than it was. It was arithmetic: a body spent an opportunity that watching had not yet finished paying out. A hunter who took the first quarry he found rarely learned anything the kill was actually worth.
 
 He thought briefly of the liaison's own instruction — deny Heaven any advantage they had already found. A body on this shore accomplished none of that. It told whoever came looking that something out here was worth killing over, without ever saying what. Information paid better than a corpse, when the choice was his to make. Today, watching a careful scout retrace his steps with no sign he suspected he was being read, the choice was entirely his.
-
-## The Decision to Keep Watching
 
 He eased Specter back down without releasing the arrow and settled deeper into cover rather than closing the distance. The scout, still working his way back toward shore, gave no sign he knew he had been found, moving through the strange terrain with the same unhurried care he had shown since Selm first marked him. Selm noted the caution and set it aside without dwelling on it — useful information, nothing more, whatever shape it happened to take on the other side of this particular divide.
 

@@ -1,7 +1,5 @@
 # B1H03 – A Truce Neither Will Admit To
 
-## What Alther Was Made For
-
 Thoria heard the commotion before she saw its source, a young demon soldier stumbling toward her patrol's position with her hands raised and empty, calling something urgent about a soldier of her own dying from no wound anyone could see. Thoria's own patrol raised weapons on reflex, and Thoria held up a hand to still them. The demon's panic looked genuine, and genuine panic, in Thoria's judgment, outweighed whatever hostility still lingered from the earlier standoff.
 
 She followed the demon back at a measured pace, Alther drawn and ready, and found exactly what she expected to find once the soldier's frantic description resolved into an actual scene — a demon lying rigid on the unstable ground, his presence fading in some way that no ordinary wound could explain. Thoria recognized the shape of it immediately, a soul-parasite bond settling its grip somewhere beyond the reach of blade or fist, and understood at a glance that this was precisely the threat Alther had been forged to answer. She had cut connections like this one more times than she could easily count across her long service, though never once for a demon, and never once at the request of another demon standing over him with something that looked, even now, like genuine fear.
@@ -9,8 +7,6 @@ She followed the demon back at a measured pace, Alther drawn and ready, and foun
 She knelt closer, studying the rigid soldier with the same unblinking attention she gave any working she intended to attempt, cataloguing the particular quality of his stillness against every soul-parasite bond she had ever severed before. The pattern held familiar beneath the strangeness of the setting, a grip settled somewhere she could not see directly but could read clearly enough through Alther's own resonance, sharpening now in her grip the closer she drew to it. Whatever governed this fissure, it had at least produced a threat her own long training recognized, however unfamiliar everything else about this place had proven to be.
 
 The demon who had led her here hovered nearby, close enough that Thoria could feel the tension radiating off her without needing to look up from her work. She understood, distantly, that this soldier had crossed whatever line separated the two patrols to ask an enemy for help, a decision that likely cost her considerably more than the urgency of the moment alone accounted for. Thoria set the observation aside and returned her full attention to the work, unwilling to let anything beyond the working itself claim her focus until Alther had actually done what it needed to do.
-
-## What Incorruptible Meant Today
 
 She held her position a moment longer than the urgency of the scene strictly allowed, some old resistance in her own nature recoiling from the idea of extending Alther's purpose toward a demon at all. She had built her entire service on a firm boundary between what she protected and what she opposed, had never had reason before now to question which side of that boundary any particular soul belonged on. Offering the one tool built to sever exactly this kind of threat to the side she had spent centuries standing against felt like a violation of something she could not immediately name.
 
@@ -20,8 +16,6 @@ She thought, kneeling there, of every doctrine she had ever been taught about th
 
 The soldiers of her own patrol watched the exchange with visible unease, several of them exchanging glances she did not need to see directly to feel. She did not address their discomfort. There would be time enough later to explain the decision, if explanation ever actually proved necessary. Right now there was only the working in front of her, and the narrowing window in which it still had any chance of mattering.
 
-## Vem's Reluctant Cooperation
-
 Vem watched the angel work over Orwick with an unease he made no particular effort to hide, every instinct in him recoiling at the sight of Alther's edge so close to a soldier already beyond his own ability to help. He had asked for a second opinion. He had not fully accounted for what accepting one might actually look like, a Sentinel of Heaven kneeling over his own soldier with a blade built to sever exactly the kind of bond currently unmaking him from the inside.
 
 He forced himself to stay silent through the working itself, some rare discipline overriding his usual habit of filling any tense silence with commentary. Alther's edge moved with a precision he grudgingly respected despite everything his instincts told him about the hand wielding it, a single, careful cut that seemed to loosen something in Orwick's rigid posture almost immediately. Vem did not fully understand what he had just watched happen. He understood well enough that it had worked, or had at least begun to, and that left him owing the angel currently kneeling over his soldier a debt he had no comfortable way of processing yet.
@@ -29,8 +23,6 @@ He forced himself to stay silent through the working itself, some rare disciplin
 He watched Orwick's breathing steady by careful degrees, color returning to features that had gone alarmingly slack only minutes earlier, and felt something in his own chest ease alongside it. He had spent the last several hours convinced that nothing in his own considerable arsenal could touch whatever had taken hold of his soldier. Watching a stranger's blade succeed where his own gift had failed entirely left him with relief, and with something uncomfortably close to humility besides — an emotion he had no intention of examining too closely while an angel still knelt within arm's reach of him.
 
 Her work stirred every story he had ever heard about Sentinels of the In-Between, tales that painted them as humorless, unbending soldiers with no patience for anything as chaotic as his own temperament. The stories had not prepared him for the actual precision of her working, or for the sheer focus she brought to a soldier who was not even her own to protect. None of the accounts he had heard over the centuries had mentioned this kind of focus, which left him wondering, briefly, how many of the other stories he took for granted about her kind were similarly incomplete. He tucked the thought away, unwilling to let his own surprise show any more plainly than it likely already had.
-
-## The Provocation
 
 The tension between them eased only slightly once Orwick's condition began, visibly, to stabilize, and Vem, recovering some of his usual temperament now that the immediate crisis had passed, could not resist testing the strange new arrangement they had apparently fallen into. "Relax, sentinel," he said, watching her work with an ease that bordered deliberately on provocation. "I don't bite. Unless asked."
 
@@ -40,23 +32,17 @@ He retreated a step regardless, an old reflex for self-preservation overriding w
 
 The rest of his own squad kept a careful distance from the exchange, several of them exchanging glances that suggested, to Vem's eye, a similar read on the situation. He did not comment on their evident amusement at his retreat. He had a reputation to maintain among them, whatever momentary indignity this particular standoff had actually cost him, and intended to recover at least some of it before the day was finished.
 
-## When It Actually Worked
-
 The fissure's next assault arrived without warning, a fresh instability tearing open beneath a cluster of soldiers from both patrols at once. Thoria identified the pull it was exerting on the nearest soul within reach, chose her point of severance, and brought Alther through it in one deliberate cut. Vem moved in the same instant, Tiltas driving a controlled collapse directly beneath the tear's leading edge, destabilizing the ground fast enough to buy Thoria the extra half-second her own working actually needed.
 
 Neither move alone would have closed the threat in time. Together, staff and blade arriving at the same instability from two directions Thoria had not planned and Vem had not announced, the tear sealed itself as abruptly as it had opened, soldiers from both sides left standing, shaken but intact, on ground that had nearly claimed several of them a moment earlier. Thoria felt something settle in her own chest that she did not immediately have a name for as the demon beside her lowered his staff, his expression, for once, entirely without its usual performance.
 
 She ran the exchange back through her own mind in the moment's immediate aftermath, cataloguing exactly how the two workings had actually complemented each other — Tiltas buying her the fraction of a second Alther's own working genuinely needed, timed with a precision she doubted had been fully deliberate on his part and yet had arrived exactly when it needed to regardless. She had coordinated with soldiers under her own command for centuries, had built entire tactical doctrines around the kind of complementary timing this exchange had just demonstrated without either of them planning it. She had never once expected to find it, unplanned and unannounced, in a demon she had been threatening to abandon to the fissure only minutes earlier.
 
-## What Vem Made of It
-
 Vem found himself replaying the exchange with something closer to genuine surprise than he cared to admit. He had thrown the working on instinct, trusting his own read of the collapsing ground more than any actual coordination with the angel working beside him. That instinct had happened to align, precisely and usefully, with whatever she had been doing at the exact same moment. He did not know whether to call that coincidence or something else. She straightened from the now-sealed tear, and he decided he was not yet ready to examine the question too closely.
 
 Neither of them remarked on what had just happened, the closest thing to genuine coordination either patrol had managed since falling into this fissure together. Vem returned to his own squad without comment, watching from the corner of his attention as Thoria did much the same on her own side, both of them settling back into the wary, separate postures that had defined every previous hour of this uneasy arrangement.
 
 Something had shifted regardless, however little Vem intended to acknowledge it — and however little Thoria appeared inclined to do so either. More than once over the stretch that followed, Vem's attention drifted toward the Sentinel's position without the tactical situation strictly requiring it. Whatever this fissure eventually demanded of both of them, he judged, he would rather have her beside him than against him. He said nothing of it to anyone, least of all to her.
-
-## An Unspoken Respect
 
 Thoria caught herself, later, tracking Vem as he directed his own soldiers through a stretch of unstable ground with a competence she had not expected from someone whose reputation, what little of it she actually knew, suggested chaos rather than genuine skill. She said nothing of the observation either, tucking it away alongside everything else about this fissure she had not expected to learn.
 

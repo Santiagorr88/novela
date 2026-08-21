@@ -1,7 +1,5 @@
 # Chapter 3 — Verdict of Dawn
 
-## The Herald Runs
-
 Tamiel had been a sentinel of the Empyrean Gates for less than a century, and in all that time he had never been trusted to carry news anyone cared about. Most of his duties involved logging the comings and goings of supply couriers and reporting nothing of consequence to anyone. He carried this news at a dead run, wings folded tight against the wind, because a scout further out on the approach road had grabbed his shoulder and said only: *he's coming back, and he's carrying something.* Nothing more. Tamiel had not stopped to ask what.
 
 The approach road wound down through three tiers of open terrace before it reached the Gate proper, and he took the most direct line he could manage, ignoring the stairs entirely, wings beating hard enough that his arms ached by the second tier. Below him the Bastion unfolded in its usual quiet order — patrols on their rounds, clerks moving between archive halls, the ordinary business of a realm that did not yet know anything had changed.
@@ -13,8 +11,6 @@ She dismissed him with a nod rather than a word, already turning to relay the me
 Word moved faster than he could run. By the time he reached the Gate proper, angels were already gathering along the terraces above it, drawn by nothing he could name — no bell had rung, no order given. They simply came, the way a crowd gathers before it knows what it is gathering for, drifting in from side halls and duty posts in twos and threes until the rail above the Gate was lined three deep.
 
 ---
-
-## The Arrival
 
 Tamiel found a place at the rail beside a dozen others and watched the horizon the way everyone else was watching it, waiting for a shape to resolve out of the light. The waiting went on longer than he expected. Conversation rose and fell around him — half-formed theories about what the scout could possibly have meant, someone insisting it had to be a captured relic, someone else certain it was nothing at all, an overreaction to a trick of the desert haze. Tamiel said little. He kept his eyes on the horizon and let the theories wash past him.
 
@@ -32,8 +28,6 @@ Tamiel watched him go, watched the sword's cold light recede down the avenue and
 
 ---
 
-## A Healer's First Look
-
 The council chamber had not been built to hold a weapon like this one, and Miguel felt that fact settle over the room the moment he crossed its threshold. He had stood in this hall a thousand times before, had reported victories and losses within these same walls without once feeling that the room itself was reacting to him. It reacted now. Every polished surface seemed to lean, however slightly, toward the light in his hands.
 
 Solmire's light did not fight the chamber's own radiance so much as quietly outclass it — the ancient, careful engravings along the walls, wrought over centuries to catch and hold the Bastion's glow, suddenly looked labored beside the sword's effortless brightness. No one in the chamber remarked on it aloud, but Miguel saw more than one gaze drift from the walls to the blade and stay there. Miguel set the blade across both palms and held it out, less an offering than a statement of fact.
@@ -48,8 +42,6 @@ The aide said nothing. He took a half-step back instead, putting a little more d
 
 Miguel heard the exchange and felt something in his chest — not the old wound, which Solmire had already silenced, but something newer, quieter, that he chose not to examine. He had known Raphael for longer than he could easily measure, had watched him diagnose fatal wounds from across a battlefield with a glance, and he had never once heard that particular note of uncertainty in his voice before. He filed it away rather than answer it, the way he had begun filing away several things since Serephis, and let the moment pass.
 
-## Council of Archangels
-
 Uriel closed the distance next without breaking stride. He clapped a hand to Miguel's shoulder hard enough to rock him half a step, his grin wide enough that Miguel took it for genuine. "You went into the desert chasing ghosts and came back with *that*. I'll admit it — I doubted you." He inspected the blade with a soldier's direct interest, his gaze following its edge. If he shared the room's unease, Miguel could see no sign of it.
 
 Gabriel said nothing. He stood a little apart from the others, near enough to see but not near enough to be counted among those pressing close. Gabriel's silence unsettled Miguel for a different reason than Raphael's had. From the fixed attention in his brother's face, Miguel suspected that Solmire's resonance disturbed him. The note admitted no harmony, an aberration within a hall devoted to sacred resonance.
@@ -61,8 +53,6 @@ Gabriel did not say any of this aloud. He only watched the sword the way a man w
 When Gabriel remained silent, the others began asking questions. A tactician Miguel had worked with for decades wanted to know how quickly the blade could be deployed to the eastern front, already sketching deployment lines in the air with one hand. An archivist asked, with poorly concealed excitement, whether Solmire might be catalogued alongside the great weapons of the first age, or whether it belonged in some category of its own. Miguel answered mechanically, without giving the questions his full attention.
 
 He accepted Uriel's approval and answered what he could. Raphael's unease and Gabriel's silence did nothing to diminish his momentum. The council ended without resolution, as councils about unprecedented things generally did — a promise to reconvene once more was known, a general agreement that the sword's power was, at minimum, an asset worth understanding fully before it was put to further use. The archivists filed out first, then the tacticians, then Uriel with a last approving nod. Miguel was left, for the first time since Serephis, without an immediate task in front of him.
-
-## The Weight of a Throne
 
 He found himself in an antechamber off the main hall, alone for a rare handful of minutes, Solmire still resting across his palms. He had not sat since returning. He did not sit now, but he let himself, briefly, consider how quickly the others had begun treating him as an authority. Even Uriel's easy confidence had seemed deferential, though Miguel was unsure whether he welcomed it.
 

@@ -1,7 +1,5 @@
 # Chapter 11 — Crossings
 
-## The First Doubt
-
 The march back began in silence, unbroken by even the ordinary murmur of soldiers relieved to be heading home, the whole legion moving as one quiet, careful body across the twilit ground behind him. Somewhere in the first hour of it, Miguel looked down at his own hand and did not, for one unbearable instant, recognize it.
 
 It was a small thing — a gauntleted hand, his own, closing and opening around Solmire's hilt exactly as it always did. He had looked at this hand ten thousand times before, in ten thousand ordinary moments — signing orders, gripping a hilt, resting on a brother's shoulder — and had never once needed to confirm that it belonged to him. But for that one instant, the hand did not feel like something he was moving. It felt like something that had already decided to move, and had simply informed him of the decision afterward, the way a report arrives once the outcome is already settled. He stared at it longer than the moment warranted, the sword's hum steady and satisfied against his palm, and felt something cold move through him that had nothing to do with the desert wind.
@@ -11,8 +9,6 @@ Then, for less than a heartbeat, the hand was not his at all. It was slender whe
 He kept walking, because there was nothing else to do with legs that already knew the way home, and turned the fragment over in his mind without managing to make it any smaller. Nothing in the archive of his own memory offered him a match for that hand, and he could not say why he was so certain a match ought to exist somewhere at all. It remained a stranger's hand, unplaceable, and yet it had felt, in that single borrowed instant, more entitled to Solmire than he had ever once let himself feel in all the years he had carried it. He glanced down at his own hand again, twice more before the march ended, and each time it was only his own hand again, steady and familiar, offering him no further explanation for what it had shown him.
 
 ---
-
-## What Camael Doesn't Say
 
 Camael watched the ranks file past him on the return march, faces set in the same stunned quiet that had settled over the whole legion since the strike, and said nothing to any of them. He had seen soldiers go quiet after a hard loss before. He had never seen them go quiet after a victory this clean, and the difference unsettled him more than he was willing to admit to anyone currently walking beside him. He fell into step at the rear of the column, watching the backs of soldiers who would normally be trading stories by now, comparing kills, already turning the day into something they could carry home and repeat. None of that happened today.
 
@@ -24,15 +20,11 @@ Jeremiel did not press further, and from the way he let the silence stand rather
 
 ---
 
-## A Hollow Victory
-
 The plane was secured, its remaining shadow-beings scattered beyond the ridgelines, exactly as the mission's stated objective had required, every measurable goal of the operation met without incident or complication. No one called it a victory.
 
 Miguel walked at the head of the column, Solmire sheathed at last, its hum finally muffled beneath layers of leather and metal, and felt the silence behind him as a physical weight he had never once felt after any battle before this one. There had been quiet retreats before — hard-won ones, costly ones, campaigns where every soldier walking behind him had earned that silence through loss. This quiet carried a different texture entirely, heavier and more accusing than grief had ever been. He did not turn to look at the soldiers behind him. He was not certain, walking back toward the Bastion with that unfamiliar hand still cold in his memory, that he wanted to see what their faces held, or that he would know what to say to them if their faces held what he suspected. The gates of the Bastion rose ahead of them eventually, gleaming and untroubled in the ordinary way they always did, and Miguel found the sight of them offered none of the relief it usually did. He passed through them anyway, because the column behind him needed somewhere to go, and because standing still in the open ground outside them would have answered no question he actually knew how to ask.
 
 ---
-
-## A Report Heaven Doesn't Want
 
 Ophaniel received the incident summary two days later, already drafted for her by a hand higher up the chain than her own, arriving with none of the raw field notes she usually worked from, and was asked, gently but unmistakably, to shape her chronicle entry around it.
 
@@ -40,25 +32,17 @@ The summary described the shadow-plane assault as a decisive victory against a p
 
 ---
 
-## An Unshakeable Memory
-
 Sariel had not been able to put down the memory of that feeling in the four days since Navarion, no matter how deliberately he had thrown himself back into ordinary duty in the meantime, and on the fifth day, he stopped trying to put it down at all.
 
 He filed a report claiming his current target had crossed into a neighboring jurisdiction, a fabrication he constructed carefully enough that it would hold for perhaps a week before someone checked it closely enough to notice the discrepancy. It was the first false report he had filed in his entire long service, and he felt the weight of that violation clearly even as he committed it, his hand steady on the parchment despite what the words themselves cost him. He diverted his path back toward the university anyway, telling himself this was still duty, still the work of a hunter following a scent — even though no scent he carried the proper language for had ever pulled at him quite like this one continued to.
 
-## Old Halls, New Fears
-
 He passed near the basement archive on his way across the campus, close enough to notice, without quite meaning to, a faint disturbance in the air that had nothing to do with the young man he had actually come here for — a low, unfamiliar hum bleeding up faintly through the old stonework, the kind of anomaly a leyline sometimes left behind when it ran closer to the surface than it should. It was not strong enough to warrant a detour, and he had no orders concerning it, and no time to spare for a mystery that was not the one he had risked his standing to come chase. Sariel filed the sensation away as background noise, unconnected to his purpose here, and continued on toward the quad without investigating it any further, though some small, cataloguing part of his mind noted the exact location regardless, the way it noted most anomalies out of long habit rather than any real interest.
-
-## Observation
 
 He found a vantage point on a rooftop across from the quad, sheltered from view by an old chimney stack, and settled in to watch, his senses tuned past the ordinary range that let him see spiritual signatures the way mortals saw color.
 
 Arin Cross, for the better part of an hour, did nothing remarkable at all. He sat through a lecture, bored by the look of it, taking notes that trailed off into idle doodles somewhere around the halfway mark. He spoke briefly with a classmate outside a library, unremarkable words about an assignment neither of them seemed particularly invested in, and then went on his way alone. To any eye but Sariel's, he was exactly what he appeared to be — an ordinary young man moving through an ordinary, forgettable day. Beneath that ordinary surface, visible only through the lens Sariel had spent centuries training, Sariel perceived a density of dormant power unlike any he had encountered before. He watched it for the better part of an hour and saw it shift only once, a flicker so brief he might have imagined it, gone again before he could fix its shape in his mind. Sariel had hunted reincarnated souls across a hundred cities, in every corner of this world and several others. He had never once seen anything that read like this.
 
 He made himself catalogue it the way he catalogued every target, in the same clipped mental shorthand he had used for a thousand assignments before this one, if only to keep the observation from tipping into something less professional. Density: unassessed, likely far beyond any single classification he carried a name for. Behavior: fully consistent with an ordinary mortal, no detectable awareness of the dormant power Sariel perceived in him. Risk: unknown, pending further observation. The categories held for exactly as long as it took him to write them down in his mind and no longer; underneath the shorthand sat a question his long service had never once required him to ask before, about what kind of soul could carry a weight like that and never once notice it was there.
-
-## A Name Almost Spoken
 
 He nearly told Aziel about it that same evening, back at the small outpost the two of them shared between assignments, a fellow captain he trusted as much as he trusted anyone in his long, solitary service, the words already halfway formed on his tongue before he caught them and swallowed them back down entirely.
 

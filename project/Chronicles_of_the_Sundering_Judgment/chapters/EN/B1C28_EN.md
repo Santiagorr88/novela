@@ -1,14 +1,10 @@
 # B1C28 – The Echo of the Sword
 
-## 1. The Broken Firmament
-
 Weeks had passed, and the sky still had not forgiven itself.
 
 Above the Temple of Shattered Light, the vault healed in strange, uneven cycles — a wound that scarred over only to split open again at the next dusk, weeping thin light onto stone that had already drunk too much of it. The temple's outer walls stood, but only just: cracked pillars propped against each other like soldiers holding a line no one had ordered them to hold. Inside, the hum of ordinary duty had returned — triage rosters, rationed provisions, watch rotations chalked and rechalked on broken slate — but it moved through the halls like breath through a body missing a lung. Everyone did their part. No one spoke of the part that was missing.
 
 Banners hung at half their old height, not from ceremony but because there was no one left tall enough, in spirit, to raise them further.
-
-## 2. What Camael Does Not Say
 
 In what remained of his quarters, Camael was not attending the council. He had been asked twice; he had answered twice; he had not moved.
 
@@ -19,8 +15,6 @@ A runner found him there. "Commander. They're waiting for you in the hall."
 "They already know what they'll decide," Camael said, not looking up. "I don't need to be in the room to agree to it."
 
 The runner didn't press him. Camael turned the blade once in the failing light, checked an edge that did not need checking, and kept polishing a sword that would never again cut anything but the silence around it.
-
-## 3. A Council of the Fallen
 
 In the mustering hall, four of them stood around a map that no longer matched the territory it depicted.
 
@@ -60,8 +54,6 @@ Every eye went to Gabriel. He met each of them in turn, and then he nodded, slow
 
 No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, patient work he would once have handed to a junior officer without a second thought, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched her own shadow flicker against the wall, tracing futures that kept refusing to agree with each other.
 
-## 4. The Victor's Burden
-
 Far from the temple, in a hollow the demons had already begun calling a throne room out of habit rather than truth, Belial sat with Lament across his knees and a burn across his palm that would not fade.
 
 He had reached for Solmire too, over Miguel's fallen body, certain that a victor's hands were owed both blades. His fingers had not even closed around the hilt before the sword's light answered — a white flare that seared his palm to the bone and threw his hand back before he could take hold of anything at all. It skittered from the impact, gone, lost somewhere in the ordinary dirt of a world that would take its time deciding whether to give it back. He had not felt fear in that instant. He had felt refused, which was worse.
@@ -84,8 +76,6 @@ He kept returning, uninvited, to the last exchange: the commander who had thrown
 
 "Rebuild the lines," he told the lieutenant. "Let them believe I'm resting. I am not resting."
 
-## 5. Whispers on a Mortal Plane
-
 On Earth, in three places that had no reason to notice one another, the same hour turned.
 
 In the quiet upper stacks of Navarion University's library, a young man named Arin Cross went down mid-stride, both hands seizing at nothing, phantom pain lancing through palms that had never once held a spear. He knelt among books scattered across an aisle he didn't remember stumbling into, breath ragged, certain — with no evidence he could point to — that something enormous had just changed shape somewhere far above him.
@@ -96,8 +86,6 @@ And on a mountain no map recorded, in a place where the wind itself had learned 
 
 Azael's eyes were wide now, pale and searching, taking in a world that had gone on entirely without him and had, in doing so, forgotten he had ever been part of it. He did not speak. There was no one there to speak to. He simply rose, joints unbending for the first time in an age, and took one deliberate step down the slope — the first step of a journey none of the three of them yet knew they were walking toward each other.
 
-## 6. The Echo of a Name
-
 Later, when the hum of the hall's small labors had settled into something almost like peace, Gabriel withdrew alone to a side chapel and let his back slide down a cracked column until the stone took his weight.
 
 He let the pain move through him — the physical kind, and the other kind, the kind with no wound to point to. He closed his eyes and saw the spear again, that ancient vibration under Miguel's last strike, a resonance that had not felt infernal so much as *stolen*. He made himself a promise disguised as a note: find out what that weapon is. Find out where it came from before it finds its way back here.
@@ -107,8 +95,6 @@ He pressed his forehead to the cold marble.
 "Come back," he said, to no one who could yet hear him. "Or teach me how to lead without you."
 
 Outside, the sky flickered and, for once, did not immediately tear itself open again. Gabriel took that for what it was — not an answer, only a pause — and let it be enough for tonight.
-
-## 7. Decades Later
 
 The briny air came off the water like a slow, cool breath, the kind that hadn't yet decided whether the day would belong to the sun or the low clouds still deciding above it. Gulls cried somewhere past the tideline. Far off, a boat knocked twice against a dock, marking the start of someone's ordinary morning.
 

@@ -1,7 +1,5 @@
 # B1C22 – The Eve of Ruin
 
-## The Opening Salvo
-
 Uriel stood at the center of the Bastion's war room when the first reports began arriving, close together and wrong in a way that made no immediate sense against anything his long service had prepared him to expect. No single front had fallen. A dozen had, nearly simultaneously, garrisons across the length of Heaven's defensive line buckling within moments of each other with no visible cause any crystalline screen could yet identify.
 
 He had commanded through sieges, through ambushes, through every conventional shape war had ever taken across his considerable service. This bore none of those shapes. The first wave, whatever it actually was, had carried no visible weapon and required no physical breach — garrisons that had held firm through worse simply stopped fighting, weapons lowering in hands that had raised them without hesitation only minutes before. Lament, Uriel already knew — coldly, and before a single confirming report reached him — had found its full voice at last, and that voice needed nothing so crude as a blade to do its work — only despair, carried directly into soldiers who had never raised a weapon against it and never would.
@@ -10,8 +8,6 @@ The war room around him filled quickly with the clipped, overlapping urgency of 
 
 He had faced Belial across a battlefield more times than he cared to count, had traded blows with him directly on at least three occasions he could recall without effort. He had never once, in any of those encounters, sensed anything from his opponent that hinted he was capable of this. Whatever Belial had returned from the Weeping Sepulcher carrying, it had changed the shape of what this war actually was, and Uriel understood, standing amid the mounting chaos of his own war room, that working out the why of it would matter far less in the coming hours than simply surviving it.
 
-## What Fell at Xylo's Gate
-
 A sentinel posted along the wall at Xylo's Gate felt the wave arrive not as any force pressing against his body, but as memory — every doubt he had ever buried beneath the plain, uncomplicated language of duty rising all at once, fully formed, impossible to set back down. He remembered, in a rush that hit harder than any physical wound ever had, every order he had ever followed without fully believing in its cause, every comrade he had watched fall for reasons that had stopped making sense to him long before tonight.
 
 His hands opened before any decision reached them. The weapon he had carried without complaint for longer than he cared to count struck the stone at his feet, and he did not reach to retrieve it. He stood instead amid the gathering chaos of his own garrison, weaponless, the doubt that had arrived alongside the wave pressing down on him with a weight far heavier than the halberd he had just let fall, and found he had no immediate wish to pick either one back up.
@@ -19,8 +15,6 @@ His hands opened before any decision reached them. The weapon he had carried wit
 Around him, soldiers he had trained beside for years mirrored the same collapse in their own ways, some sinking to their knees, others simply standing motionless with expressions that suggested they, too, had just been handed something they could not immediately set back down. No enemy stood visibly before any of them. Whatever had struck the garrison had come from somewhere no stone wall could stand against, harder to defend than any gate they had spent years learning to hold, and none of the training that had prepared them for a physical assault offered them anything useful against this one.
 
 He thought, standing there amid the wreckage of his own resolve, of the particular doubt that had surfaced clearest among everything the wave had unearthed — a question he had buried decades earlier about whether the cause he served still deserved the certainty he had once given it without hesitation. The question had never fully left him, he understood now, only gone quiet beneath the accumulated weight of duty and habit. Tonight it had found its voice again, louder than any defense he still had left to answer it with.
-
-## The Shattered Front
 
 The reports continued to flood the war room faster than any single mind could properly absorb them, crystalline screens flaring one after another with news that grew progressively worse with each new arrival. *The garrison at Xylo's Gate has laid down its arms.* *The Adamant Guard is not responding. They are weeping.*
 
@@ -32,8 +26,6 @@ A junior officer near him read a fresh report aloud in a voice that had begun, a
 
 He crossed to the officer's station and studied the silent sector's last transmission himself, searching the brief, fragmented message for anything that might clarify what exactly "silent" meant in this particular case — retreat, collapse, or something worse that no one remaining in that garrison had survived long enough to report. The message offered nothing further. He set the question aside for now, alongside a dozen others currently accumulating faster than the war room's considerable resources could answer them, and turned his attention back to whatever remained actionable among tonight's mounting catalogue of failure.
 
-## What Uriel Could Not Fight
-
 He shouted orders anyway, decades of command reflex overriding the growing certainty that the orders themselves had nowhere useful to land. Reinforcements to Xylo's Gate. A counter-formation along the Adamant line. Every command that had served him faithfully across centuries of conventional warfare, thrown now at an enemy that answered to none of it, because the enemy in question had no physical position for reinforcements to hold or counter-formations to break.
 
 He had built his entire reputation on decisive, immediate assault — fire enough to purify anything foolish enough to stand in its path, a solution that had answered every threat he had faced without exception until tonight. This threat offered him nothing to burn. It moved through his own soldiers' doubts and memories, spaces his considerable flame had no way of reaching, and left him standing at the center of his own war room with orders forming and dying on his tongue before he could find anyone left capable of receiving them.
@@ -41,8 +33,6 @@ He had built his entire reputation on decisive, immediate assault — fire enoug
 He considered, briefly, marching to the nearest front himself, Ignis Lux in hand, trusting that his own presence might steady soldiers whose will had buckled where their courage had not. He abandoned the thought almost as quickly as it arrived. Whatever was moving through his garrisons tonight answered to nothing his own flame had ever been built to counter, and a commander who charged blindly into a battle he did not understand risked compounding tonight's losses rather than reversing them. The realization cost him something to accept, a stillness that sat uneasily against every instinct centuries of decisive action had trained into him.
 
 For the first time since this war had begun, Uriel had nothing left worth commanding, and stood in the war room's gathering chaos with his hands empty of anything resembling a solution.
-
-## A Call to Duty
 
 Gabriel found his brother exactly where he expected to, seated in silence in a corner of the Bastion far removed from the war room's mounting panic, and did not immediately speak. He had come with no speech prepared, no argument assembled to counter whatever resistance Miguel might still be carrying from the night Iofiel had read them the prophecy. He had come only with the truth, and judged, standing there, that the truth alone would have to be enough.
 
@@ -53,8 +43,6 @@ Gabriel said quietly, "He has the spear. He is breaking them."
 He did not frame it as an order. He had given Miguel enough orders across the length of this war to know precisely how little weight an order carried against whatever currently held his brother in this silence. What he offered instead was simply a fact, delivered without embellishment, a weight he intended his brother to carry alongside him rather than beneath him.
 
 He watched Miguel's expression for some sign of how the fact had landed, and found little he could confidently read in it — not refusal, not yet acceptance, something quieter than either, something he had no name to give it. He had learned, across the length of their shared service, when to press his brother further and when silence itself did more work than any additional word could manage. Tonight called plainly for the latter. He said nothing further, and did not move to leave, content to let the fact settle in the space between them for as long as Miguel needed it to.
-
-## The Weight of the Sword
 
 Miguel looked past Gabriel toward the far wall, where Solmire still rested against the stone exactly where he had kicked her days earlier, untouched since. He understood what she was — something cursed and alien, forged before the Divine Word itself, wielding him as readily as he wielded her. He understood, with equal clarity, that whatever she was, she remained the only power in his possession capable of meeting Lament on anything resembling equal terms.
 

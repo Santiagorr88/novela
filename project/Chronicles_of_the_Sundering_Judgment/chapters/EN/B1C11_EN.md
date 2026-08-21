@@ -1,22 +1,16 @@
 # B1C11 – The Devil's Gambit
 
-## What Can Be Afforded to Lose
-
 Belial reviewed the loyalty rolls with an unnamed adjutant in a side chamber of the war citadel, his questions arriving in the same unhurried, administrative rhythm he had used a hundred times before for matters of genuine supply and rotation. Who answered to whom. Who would be missed, and by how many, and for how long. The adjutant read the answers back without a flicker of suspicion, apparently taking Belial for nothing more than a commander thorough enough to know his own chain of command down to its smallest link.
 
 Belial already knew what the ledgers would tell him before the adjutant finished reading. Aamon was Commander of the Infernal Legions, a rank that made his loss a real cost to Hell's war footing, not a convenient fiction Belial could tell himself to make the coming betrayal easier. He let the adjutant finish anyway, because certainty, even certainty he did not need, was a discipline worth keeping. He asked after Aamon's captains next, one by one, noting which of them owed their positions to Aamon directly and which merely served under him out of rank and convenience — the difference mattered, though he gave the adjutant no reason to suspect why. Ruach hung heavy and quiet at his hip, its promise of doubt-bearing blows unused for now, and Belial decided, with the same cold self-interest he had spent at the Tower of the Eternals, that Aamon's real cost was simply not a cost he intended to carry himself.
 
 He did not hesitate over that decision, and did not revisit it. He thanked the adjutant, dismissed him without further comment, and sat alone for a while afterward turning the final shape of the plan over in his mind, checking it the way a soldier checks a blade before a fight he has already decided to win.
 
-## A Feigned Loyalty
-
 He found Aamon in his throne hall an hour later, and inclined his head with the unhurried courtesy of a man who had decided, for reasons entirely his own, that a commander operating in another Lord's theater was owed the formality of an announced visit rather than a summons. It cost him nothing to grant, and it let Aamon go on believing the visit meant more than it did. The hall itself had clearly been built with performances like this one in mind, its high obsidian columns arranged so that anyone standing before the throne had to look up to be seen at all — a design Belial suspected Aamon had commissioned himself, though it had never seemed worth the trouble of asking.
 
 "Commander," Belial said, "I've found something worth your attention. A celestial convoy, moving through a corridor no one but me seems to be watching." He laid out the plan with careful precision, an ambush timed to a narrow dimensional crossing, framed at every turn to flatter the exact appetite he had studied in Aamon for years — glory sung for eras, a strike personal enough to be remembered as Aamon's alone. He understated the risk wherever understating it would go unquestioned, and inflated the reward wherever inflating it would land soft on ears already hungry to hear it.
 
 He had rehearsed the presentation more than once before walking into this hall, though nothing in his manner tonight would have betrayed that rehearsal to anyone watching. Each pause landed exactly where a pause would seem natural rather than calculated. Each detail he withheld until Aamon's own questions drew it out of him, so that the commander could feel himself sharpening the plan rather than simply receiving it whole. Belial had learned, across years of serving beneath commanders who valued their own cleverness above almost anything else, that the surest way to sell a lie was never to hand it over finished — only to hand over enough of it that the mark would insist on finishing the rest himself, and would defend the finished version afterward as though it had been his own from the start.
-
-## Commander Aamon
 
 Aamon listened with his arms crossed and his expression unreadable, in what Belial recognized as the same guarded calculation Aamon brought to any gift he had not asked for and had not yet decided how much it would cost him to accept, and by the time Belial finished speaking, that expression had already begun to shift into something closer to appetite.
 
@@ -28,8 +22,6 @@ He rose from his throne as he spoke, pacing the length of the hall in what Belia
 
 ---
 
-## What Andras Almost Sees
-
 Andras watched from the edge of the hall, silent, the way he watched most things that were not yet his to act on. Aamon's enthusiasm rose beat by beat as he reworked Belial's ambush into a plan he now called his own, and Andras found himself unable to look away from how clean the whole exchange had been.
 
 He knew the shape of a well-laid trap better than almost anyone in Aamon's service, because laying them was the entire substance of his own work — the blade no one saw coming, the danger dressed up as an opportunity. Something about the ease of Belial's presentation sat wrong with him in a way he could not yet name to his own satisfaction, a smoothness that read, to his professionally suspicious eye, less like genuine intelligence and more like a performance rehearsed until it no longer looked rehearsed at all.
@@ -40,15 +32,11 @@ He turned the thought over once, carefully, and set it back down again just as c
 
 ---
 
-## The Bait
-
 Belial spent the following day threading the plan's details through channels he kept in reserve for leaks like this one — a double agent here, a compromised courier there, each one carrying a fragment convincing enough to be believed and incomplete enough to seem accidentally overheard rather than deliberately handed over.
 
 He needed Heaven to answer for real, not merely to have the coordinates land somewhere angelic hands might find them. A trap sold to Aamon on Belial's word alone was fragile; a trap confirmed by an actual celestial response, however small, would carry a weight no amount of persuasion could match on its own. He worked the leak carefully over the following hours, patient in a way few of his rivals would have credited him with, watching each thread take hold and waiting for the one response that would tell him the bait had been swallowed exactly where he needed it swallowed.
 
 He chose his agents the way he chose everything else in this scheme, with an eye toward what each of them could plausibly be believed to know and nothing more. Neither agent knew the other existed, and neither knew the true purpose behind the errand they carried out — a precaution Belial had learned to treat as reflex rather than choice, long before this particular scheme had ever taken shape in his mind. The compromised courier carried only a fragment, a partial route stripped of any coordinate specific enough to raise real alarm on its own. The double agent carried a second fragment, close enough to the first to corroborate it without ever quite completing the picture either fragment alone would have suggested. Information handed over whole invited scrutiny; information gathered in careful pieces invited belief.
-
-## Marching to the Trap
 
 The response came before the day was out — a shift in celestial patrol patterns subtle enough to escape most eyes, but confirmation enough that Aamon, by every visible sign, treated the news as final proof that the convoy was real and the timing was his to seize. Belial received the same report with far less relief and far more satisfaction, the last piece of the trap settling into place exactly where he had left room for it.
 

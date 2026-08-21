@@ -1,7 +1,5 @@
 # B1N01 – What the Choir Won't Sing
 
-## The Assignment
-
 Daith had expected another routine translation when Gabriel's summons reached the archive, another fragment of the Codex Mortalis waiting to be catalogued and filed alongside the thousands that had come before it. What Iofiel actually handed him, once he and Kurel had been shown into her scriptorium, was a single sheet of corrupted hymn-script, its edges scorched, its middle stanzas legible only in patches. "We need it translated in full," Iofiel told them both, her own exhaustion plain in the careful way she set the fragment down rather than simply passing it across. "Whatever it says, Gabriel needs the complete text, not a summary. This one matters more than most."
 
 Daith had already begun assessing the fragment's condition before she finished speaking, the ordinary professional habit of a man who had spent centuries reducing chaos like this into something a court of law could actually use. His eyes moved automatically across the scorched margins, cataloguing the extent of the damage the way he catalogued everything — by degree, by category, by what could reasonably be salvaged and what could not. Whatever this hymn actually contained, the shape of the work in front of him looked, at first glance, entirely ordinary.
@@ -11,8 +9,6 @@ Kurel, beside him, made no such immediate move. He only looked at the fragment f
 "You already don't like it," Daith said, more observation than question. Kurel did not answer immediately, his gaze still fixed on the scorched parchment. "I don't know what it is yet," he said finally. "That's different from not liking it. Give me the afternoon before you ask me again."
 
 Daith let the remark go, unwilling to spend the first minutes of a new assignment arguing about a feeling Kurel had not even bothered to justify yet. He had learned, across their years working the same archive, that pressing Kurel before he was ready rarely produced anything worth the friction it cost. Better, in his experience, to let the man reach whatever conclusion he was reaching in his own time, and address it directly once he actually had something concrete to say about it.
-
-## What the First Reading Showed
 
 They worked side by side once Iofiel left them to it, and within the first hour Daith understood exactly how differently they intended to approach the same page. He transcribed letter by letter, mechanical and precise, cross-referencing each surviving character against known liturgical script the moment it appeared legible, building the translation outward from certainty toward the gaps rather than the reverse. Kurel did nothing of the sort. He read the hymn aloud instead, low and unhurried, several times over, before he ever let his fingers touch the parchment itself, as though the words needed to be heard before they could safely be handled.
 
@@ -24,8 +20,6 @@ It was not an unfamiliar arrangement between them. They had worked side by side 
 
 He worked in silence for a while after that, filling in the more legible stretches of the hymn's opening stanzas, cross-referencing each fragment of surviving script against the archive's older liturgical records with the same steady confidence that had carried him through every translation before this one. The work went slowly, as damaged fragments always did, but it went the way work always went — forward, incrementally, toward a completed and defensible record.
 
-## The First Friction
-
 The difference stopped being merely stylistic within the hour. Daith reached a clean stretch of legible text near the hymn's middle and moved, without pausing to consult Kurel, to seal the section and mark it complete — standard procedure for any passage that met the archive's threshold for confident translation. Kurel's hand closed over the parchment before Daith's seal touched it. "Not yet," he said, quiet but immovable. "There's a name in there. I want to hear it again before you lock it into the record."
 
 "It's legible, Kurel. That's the entire threshold. I'm not required to wait for your instincts on top of it." Daith kept his voice level, though something in Kurel's refusal had already begun to needle at the edge of his patience. "A name that resists being pronounced isn't something procedure gets to overrule," Kurel said. "You seal it now, and whatever it is stays sealed the way we first understood it — wrongly, if we're wrong. I'd rather be slow than certain and mistaken."
@@ -35,8 +29,6 @@ Daith withdrew his hand from the parchment, though not the argument itself. "Sho
 "Read it aloud," Kurel said. "Not scanned. Spoken." Daith obliged more out of exasperation than genuine curiosity, reading the line at his usual brisk pace, and heard nothing in his own voice worth remarking on. "There. Nothing. Whatever you're hearing, Kurel, I'm not hearing it too." Kurel's expression did not change, patient in a way that read, to Daith, as its own quiet form of stubbornness. "Then read it again. Slower this time. I'm not asking you to believe me. I'm asking you to actually listen before you decide there's nothing to hear."
 
 Daith read it again, if only to close the argument rather than out of any real expectation the second reading would differ from the first. This time, faint but unmistakable, he heard his own voice catch on the final syllable of the line's last word, some small, involuntary hitch he could not immediately account for. He read it a third time to be certain, and the hitch repeated itself, precisely where it had the second time, though the exact sound of the word itself seemed, absurdly, to shift slightly between attempts. He set the parchment down without comment, some of his earlier certainty visibly shaken, though he was not yet willing to say so aloud.
-
-## The Word That Would Not Be Spoken
 
 Kurel watched Daith set the parchment down and read, in the sudden care of the gesture, that whatever certainty had carried his colleague through the last hour had just taken a real blow. He had heard the same shift happen on his very first pass through this stanza, hours ago, though he had said nothing of it then, unwilling to raise an alarm before he understood what exactly he was raising it about. Watching Daith's composure falter against evidence Daith himself had just produced seemed, to Kurel, confirmation enough that his own instinct had not been misplaced.
 

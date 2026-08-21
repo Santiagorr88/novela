@@ -1,7 +1,5 @@
 # B1F03 – A War Nobody Declares
 
-## The Confrontation
-
 Malthus found Stolas exactly where his own informants had finally placed him, standing at the edge of Threll's household with an unhurried confidence Malthus read as a man who no longer felt any need to hide his purpose. The confirmation stung more than Malthus cared to admit, even to himself. He had suspected the wavering loyalty was real. Seeing Vepar's own instrument standing openly in the middle of it, evidently already finished with whatever business had brought him here, made the suspicion considerably harder to hold at arm's length.
 
 "You've been busy," Malthus said, drawing Maleth's chalk from beneath his sleeve and marking the first line of the circle at his feet without yet committing to closing it. Stolas regarded him with a dry, unbothered attention that struck Malthus as entirely too composed for a man just caught in the act. "Busy is one word for it," Stolas said. "Thorough is the one I'd choose myself." Malthus felt something in his own composure sharpen past the point he generally preferred to hold it at. "A ward broken doesn't stay broken forever, Stolas. What one hand seals, another hand can seal again — you've only bought yourself a little time, not the ground itself."
@@ -9,8 +7,6 @@ Malthus found Stolas exactly where his own informants had finally placed him, st
 "Ground your own household forgot existed," Stolas said, unhurried, as though the distinction mattered more than the trespass itself. "I only found what was already lying open, Malthus. If you'd rather I hadn't, perhaps someone should have kept better watch over what belonged to you in the first place." The observation struck exactly where Malthus suspected Stolas had meant it to strike. Malthus recognized the uncomfortable truth folded into it, a discomfort he had no immediate intention of admitting aloud.
 
 "That's not an answer," Malthus said. "It's a justification. There's a difference, whatever your grimoire tells you." Stolas's expression did not change, though something in his posture shifted, weight settling more evenly, a stillness Malthus read as a man no longer expecting this conversation to end without violence. "Then let's not waste more words on the distinction," he said. "You came here for a confrontation. I'd rather not disappoint you."
-
-## The Clash
 
 Stolas raised Umbra Manus before Malthus had finished the circle, the grimoire's pages already parting to whatever malediction its opening promised. Malthus abandoned the half-drawn ring and traced a rapid sigil in the air instead, ash and blood gathering from nowhere and everywhere at once into a shield-glyph that hardened just as Stolas's spell reached it. The malediction struck the glyph and unraveled rather than broke it, time bleeding backward off its surface in a way that left the air around them briefly, visibly wrong before settling.
 
@@ -22,15 +18,11 @@ Neither of them spoke during the exchange, the silence between spells carrying i
 
 A third exchange followed, faster than the first two, Malthus driving a sigil of unmaking directly at the grimoire itself rather than at Stolas's person, hoping to force the scholar to choose between defending his weapon and defending himself. Stolas chose neither cleanly, twisting aside at the last possible moment while Umbra Manus absorbed only a glancing edge of the working, the pages flickering dark for an instant before settling again. The cost of that near miss showed plainly on Stolas's face for the first time since the confrontation began, a flicker of something Malthus read as cracks beneath the composure his opening remarks had promised.
 
-## Foras Intervenes
-
 "Enough."
 
 The single word carried weight enough to still Malthus mid-motion, Foras's presence filling the courtyard's edge with the particular serene authority Malthus had served under for centuries and never once seen genuinely challenged. Foras did not raise his voice further. He rarely needed to. "Faith rots quickest when replaced by pride, Malthus — and Vepar is only waiting for ours to blind us badly enough to hand him the excuse he needs. Don't give it to him. Contain this with patience, not with rage; patience is the one superiority no one can ever take from you."
 
 Malthus lowered the half-formed sigil still hovering at his fingertips, the heat of the confrontation cooling rapidly beneath his lord's quiet reproach. He understood the correction even as it stung, understood it the way he understood any of Foras's parables — not as weakness, but as a deliberate refusal to hand an enemy exactly the justification that enemy was searching for. He watched Stolas across the courtyard, unwilling to look away first, and saw the other Captain make no further move either, Umbra Manus closing itself without any visible instruction that Malthus could detect.
-
-## What Stolas Withdrew With
 
 Stolas felt the confrontation end the moment Foras's voice reached the courtyard, something in its quality of command settling the matter more thoroughly than any further exchange of spells could have. He had not come here for a fight, whatever the last several minutes had actually produced. He had come for confirmation, and confirmation, in the form of Threll's household now openly declaring where its loyalty actually lay, he had already gotten well before Malthus arrived to interrupt the process.
 
@@ -40,8 +32,6 @@ The exchange had cost him more than the earlier excavation had, the same familia
 
 He inclined his head toward Foras with the particular careful respect one commander's Captain generally showed toward another commander entirely, and withdrew without offering Malthus anything further by way of explanation or apology, unwilling to linger any longer than the moment strictly required. There was, in Stolas's own private accounting, nothing left here worth explaining any further. The excavation had already yielded everything it was going to yield. Whatever remained now belonged to the two commanders whose court this quarrel actually concerned, not to the Captains who had merely carried out their instructions.
 
-## What Foras Lost
-
 Malthus received the formal confirmation within the week, delivered through the same quiet channels that had first brought him word of the trouble — Threll's household had severed its remaining ties to Foras entirely, the old forgotten pact finally honored openly rather than left to linger in ambiguous silence. It was, weighed against the raw strength of Foras's remaining household, a minor loss. It was also, Malthus understood clearly, the first loss of its exact kind Foras's court had suffered in longer than Malthus could easily recall, a small, real crack where none had existed before.
 
 He considered, reading the confirmation a second time, whether he might have prevented it entirely had he moved a day or two sooner, had he brought the ward-seal fragment to Foras's attention the moment he found it rather than choosing to handle the matter quietly himself first. He did not linger on the question long. Regret accomplished nothing that clear-eyed accounting could not accomplish better, and he had learned, across centuries in Foras's service, that dwelling on a decision already made rarely improved the decisions still to come.
@@ -49,8 +39,6 @@ He considered, reading the confirmation a second time, whether he might have pre
 He thought, too, of Corvin, and of the binding he had sealed only days before this entire matter came to a head — a small, deliberate reminder to himself that loyalty, properly tended, could still be secured even in a court currently unsettled enough to lose men like Threll. One loyalty lost. One loyalty freshly bound. The accounting, weighed honestly, was not entirely one-sided, whatever the raw numbers of the confrontation itself might have suggested to anyone watching from outside.
 
 He carried the news to his own quarters that evening, weighing it against everything the confrontation had cost and everything it had, in the end, actually prevented. Foras appeared undiminished in every way that mattered — his command intact, his position secure, his composure, whatever the court's whispers had suggested in the days after Belial's return, showing no visible sign of genuine doubt. The loss of a single wavering Squad Leader was a small sting next to the open war Foras's restraint had just quietly avoided.
-
-## The Crack in the Front
 
 Malthus reported the full accounting to Foras personally, the loss of Threll a quiet, bitter footnote to an otherwise contained afternoon. Foras received it without visible disappointment, the same serene composure he brought to every part of his command settling over the news the way it settled over everything else. "A small price," Foras said, "for keeping the larger war exactly where it belongs — against Heaven, not against ourselves." Malthus said nothing further, though he suspected, hearing it, that his lord's calm might cost him something Foras would never openly admit to carrying.
 

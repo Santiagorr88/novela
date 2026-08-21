@@ -1,7 +1,5 @@
 # B1H04 – What Goes Unspoken
 
-## The Fissure's Edge
-
 Thoria reached the boundary of the unstable ground with three of her own soldiers still standing behind her, all of them bloodied, none of them in any state she would have called fit for further combat. The fissure's strange light thinned noticeably here, the ground beneath her boots finally holding still instead of shifting underfoot the way it had for most of the last several hours. She allowed herself a single measured breath before turning to take stock of what remained of her patrol.
 
 They had lost no one. She counted that a genuine victory, weighing it against every worse outcome this ground had threatened at one point or another since they first fell into it. Her own shoulder throbbed where something unseen had struck her during the last collapse, a wound she had not yet found time to examine properly, and she filed the discomfort away behind the same discipline that had carried her through worse. One of her soldiers walked with a pronounced limp, favoring a leg that had taken the worst of an earlier fall; another kept a hand pressed to a gash along his ribs that had stopped bleeding only recently. None of it, she judged, running through the same rapid accounting she performed after any engagement, would require more than time and a proper healer once they reached ground that answered to ordinary rules again.
@@ -12,8 +10,6 @@ She looked back once at the ground they were leaving, the strange light still mo
 
 She would need to write a full accounting of it regardless, whatever shape that accounting eventually took. Her own command expected a report from every engagement, charted or otherwise, and this one would be no exception merely because she lacked the vocabulary to describe half of what had actually happened. She set the problem aside for later consideration, unwilling to let it claim any more of her attention than it had already earned while soldiers on both sides still needed tending.
 
-## What Neither of Them Said
-
 Vem crossed the remaining distance between the two patrols alone, some instinct telling him the moment called for exactly one person from each side rather than the two full groups facing each other again. Thoria met him partway, and for a long moment neither of them spoke, Vem himself still working through what the last several hours had actually cost.
 
 He studied her in the fissure's thinning light, taking in the shoulder she was favoring without comment, the blood already dried dark along one side of her jaw. Whatever words might have belonged to this silence, none of them arrived. For once, entirely without anything to say, he let the absence sit — the kind of silence that would have struck him as strange in any other circumstance and struck him now as exactly right.
@@ -21,8 +17,6 @@ He studied her in the fissure's thinning light, taking in the shoulder she was f
 He was accustomed to filling silences of every kind, tense or otherwise, with whatever commentary happened to occur to him in the moment. He had built something of a reputation on that habit, for better or worse, across the length of his service. This quiet, standing across from a Sentinel who had bled alongside his own soldiers without either of them fully choosing it, resisted every attempt his mind made to fit words to it. He let it resist him.
 
 Thoria held his gaze without offering anything herself, something in her stillness suggesting an old discipline that kept her from filling silence merely because it had grown long. Whatever this ground had asked of her today, Vem judged from the set of her shoulders, she had not yet settled on how to carry it forward, any more than he had. The quiet between them stretched, neither uncomfortable nor easy, simply present, and neither of them moved to end it. Whatever accounting either of them would eventually owe their own commanders, he suspected, this particular moment belonged to neither report.
-
-## The Story Thoria Would Tell
 
 She turned the coming conversation over in her mind before either patrol had fully finished regrouping, already anticipating the questions her own command would ask once she returned. They would want to know how her soldiers had survived a fissure with no charted cause, and she would need an account that satisfied that question without inviting a second one she had far less appetite to answer.
 
@@ -32,8 +26,6 @@ She weighed the cost of that omission against the cost of the alternative — a 
 
 Neither option sat entirely comfortably. She chose the quieter one; it joined everything else about this ground she had no intention of explaining in full. It was not the first account she had ever shaped carefully for an audience unlikely to appreciate its full complexity, though it was, she admitted to herself, among the more consequential.
 
-## The Story Vem Would Tell
-
 Vem ran through his own version of the same calculation while Thoria stood silent a few paces away, apparently occupied with calculations of her own, and arrived at a conclusion that amused him less than it usually would have. His own command back home rewarded results and had considerably less patience for the particulars of how those results had actually been reached. A report crediting an angel's blade for saving one of his own soldiers would not read as gratitude to anyone above him. It would read as weakness, and weakness, in his corner of things, tended to invite exactly the kind of attention he had spent centuries learning to avoid.
 
 He could describe Orwick's recovery honestly enough in its broad strokes — a threat identified, a threat neutralized, a soldier returned to duty. He saw no particular need to specify whose blade had done the neutralizing, or to mention the half-second of borrowed timing that had sealed the tear threatening both patrols together. It was not the whole truth. It was, he judged, close enough to the truth that mattered to the people who would actually be reading it.
@@ -42,8 +34,6 @@ He turned the omission over a moment longer, testing it the way he tested any pl
 
 He glanced once toward Thoria, working through what he guessed was some version of the same private arithmetic, and found himself grimly amused by how neatly their two silences would fit together once both patrols finally separated. Neither of them, he suspected, had any real incentive to tell the fuller version. That suited him well enough. It was not the kind of arrangement he could have proposed to her outright, not with any words either of them would have found comfortable, but he saw no reason it needed proposing at all. Some agreements, he had learned across a long service, worked better left entirely unspoken.
 
-## What Vem Left Behind
-
 Before turning back to his own soldiers, Vem crossed the last few paces toward the spot where Thoria had knelt over Orwick during the working, and set something down on the unstable ground without comment — a small, worn whetstone from his own kit, the kind any soldier carried to keep an edge true between engagements. He said nothing about it, offered no explanation, and did not wait to see whether she noticed the gesture before he had already turned away.
 
 Thoria noticed regardless, glancing down at the stone once Vem's back was turned. Its edge had worn smooth in a way that suggested years of use, carried, she guessed, through more engagements than she could count from a single glance. She understood the gesture for what it plainly was, whatever he might have called it if pressed — not a gift exactly, and certainly not an apology, but something closer to an acknowledgment offered in the only currency he seemed to trust enough to spend on it. She left it where it lay for a moment, weighing whether picking it up meant accepting more than she was ready to name, then bent and retrieved it anyway, tucking it away without a word to anyone in her own patrol.
@@ -51,8 +41,6 @@ Thoria noticed regardless, glancing down at the stone once Vem's back was turned
 She turned the stone over once in her palm before pocketing it fully, its worn edge catching briefly against her thumb. It was a small thing, by any reasonable measure, and she saw no need to make more of it than it was. She saw no need, either, to leave it behind.
 
 Whether Vem had noticed her retrieve it, she had no way of knowing from where she stood, and found she did not especially need to.
-
-## A Pact Neither Will Name
 
 Vem, for his part, resisted an urge that had risen in him more than once over the course of the retreat — some old habit demanding a final remark thrown back over his shoulder, the kind of parting line he would ordinarily have found impossible to leave unspoken. He had a dozen candidates ready by the time his soldiers reached the passage home, each one discarded in turn as somehow smaller than whatever this particular parting actually called for. He said nothing. He kept walking.
 

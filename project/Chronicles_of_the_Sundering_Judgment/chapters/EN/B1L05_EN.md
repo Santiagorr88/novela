@@ -1,22 +1,16 @@
 # B1L05 – The True Tomb
 
-## Across the Real Threshold
-
 The channel ended in a doorway that had not existed, as far as Belial could tell, until the exact moment he stood in front of it — not carved, not built, simply present where a moment before there had been only smooth crystal wall. He paused before it a moment, one hand resting against the frame, listening for any further warning the plane might care to offer him, and aware of how easily this could have been another test disguised as an entrance rather than a genuine one.
 
 He stepped through into a chamber colder than anything the outer plane had shown him, the air here carrying less salt and more of something Belial could only think of as pressure, a weight against his chest that had nothing to do with his still-mending ribs. No chiming crystal answered his footsteps here in this innermost room. The silence here was total, heavier than any silence he had crossed through so far in this plane.
 
 The chamber's walls held none of the jagged black crystal that had marked every other part of this plane, smooth instead, worn to a grey so pale it caught no light at all. He stood a moment just inside the threshold, letting his eyes adjust to a darkness that never quite resolved into anything he could call true dark, breath fogging faintly in air cold enough to make the sensation strange to him, and felt, for the first time since crossing into the Weeping Sepulcher, a reluctance to take the next step forward.
 
-## The Tomb of the Forgotten
-
 At the chamber's center stood a single slab of grey, featureless stone, unmarked by any name or inscription, standing alone in a room otherwise entirely empty, no altar, no guard, nothing at all to mark its significance beyond the weight already pressing against Belial's chest. Resting atop it lay a spear so plain it took Belial a moment to accept that this was actually the thing he had bled for.
 
 No ornament. No radiance worth the name — only a faint, pale glow along its edge, dark metal otherwise, a weapon that made no claim at all to the kind of power Belial had spent his whole ambition chasing. He circled the slab once, studying it from every angle a commander might use to size up an unfamiliar opponent, boots silent against stone that swallowed even the small sound of his footsteps, and found nothing in any of those angles that changed his first impression. It looked, if anything, like something a common soldier might have carried, not a weapon a scholar's fragment had called a thing of painful truth.
 
 His first reaction was contempt, quick and instinctive, the same reflex that would have greeted any lesser demon presenting him with a gift this humble. He had crossed a plane of guardians and grief for this, bled for this, humiliated himself before a thing made of crystalized sorrow for this — and the reward waiting at the end of it looked like it belonged in some mortal armory, forgotten among a hundred others just as plain. Weeks of careful planning, a Commander's life spent to open the door, two separate journeys through a plane that had already put him on the ground once — all of it, apparently, in service of this single unremarkable length of dark metal. The contempt did not survive long against contact with what the spear actually radiated once he let himself feel past its plainness — an old, bottomless sorrow, patient and enormous, that pressed against him the way gravity presses rather than the way a threat presses. It was not weak. It felt restrained, perhaps deliberately so, and the restraint itself felt like the most dangerous thing in the room.
-
-## The First Touch
 
 He reached for it anyway. Wanting had never waited on his own consent before, and it did not start now — the moment his fingers closed around the shaft, the vision took him whole.
 
@@ -34,15 +28,11 @@ The voice did not correct him. It did not offer him comfort or challenge either.
 
 Belial found, on the second asking, that his answer no longer arrived as quickly. He opened his mouth to repeat the same words and stopped himself. The question, he realized, had not actually been asking what he had assumed it was asking. He said nothing further. The silence that followed, stretching long enough that Belial understood no further answer was coming, felt like the only reply the spear meant to give him — and it left him with the uncomfortable sense that his first answer had already told the weapon everything it needed to know about him.
 
-## The Almost-Retreat
-
 Something in that silence nearly succeeded where the guardian's blows had failed. Belial felt his grip loosen, fractionally, an instinct rising in him that he did not immediately recognize as fear because he had not felt anything close to fear in longer than he cared to measure. It arrived the way fear always arrived for men who had trained themselves out of feeling it directly — sideways, disguised as a reasonable question about whether this particular prize was worth its price.
 
 He took one half-step back from the slab, spear still in hand but no longer fully claimed, something in him weighing, with genuine and uncomfortable seriousness, whether this particular prize was worth whatever the room seemed to be warning him it would cost. He thought, in that half-step, of Foras cultivating loyalty back home while he stood here bargaining with his own nerve, and of every commander he had ever watched hesitate at the threshold of something that would cost them more than they had budgeted for. In anyone under his own command, he would have called this weakness and ended the man's career over it without a second thought. He found the judgment harder to make stick against himself, standing inside the hesitation rather than watching it from a safe distance — a sympathy that changed nothing about how badly it still needed shaking off.
 
 The hesitation lasted only a moment, brief enough that no one watching would have noticed it at all. It lasted long enough, though, that he would remember it afterward as the closest he came in this entire chamber to walking away with nothing.
-
-## Worthy Through Pride
 
 He tightened his grip instead, both hands closing hard around the shaft, and let the old, familiar anger take over where his uncertainty had failed him. The sorrow pressed harder against him as he did, as though it understood exactly what he was refusing.
 
@@ -51,8 +41,6 @@ He tightened his grip instead, both hands closing hard around the shaft, and let
 He said it again, louder, as though volume alone might finish the work conviction should have done on its own. "My will is my own." His voice echoed once against walls that had swallowed every other sound he had made in this chamber, the single exception in an otherwise total silence. The sorrow did not retreat from the declaration. It simply sat there, patient, unmoved by his insistence, exactly as it had sat there through every vision before this one — and Belial understood, dimly, that he was not actually arguing with the spear at all. He was arguing with himself, and losing every exchange, and refusing anyway to let the loss show on his face.
 
 He did not surrender to the sorrow the way some other claimant might have. He simply refused to let it finish what it had started in him, burying the recognition under willpower alone, and wrenched the spear fully free of the slab with a motion that cost him far more than the muscle behind it. His hands shook, briefly, once the weapon came free — not from any weakness in his grip, but from the sheer effort of holding a door shut against something that had, for one long moment, come very close to forcing its way through anyway.
-
-## What the Chamber Releases
 
 The moment the spear left the stone, the chamber's grief shifted — not toward him with hostility, but toward him with something that felt, uncomfortably, like recognition, as though the room itself had simply been waiting to see who would prove stubborn enough to claim what it guarded. The pale glow along the spear's edge brightened faintly in his hand, what felt like a small, private acknowledgment, seeming to ask nothing further of him and offer nothing further in return, dimming again a moment later to the same quiet light it had carried when he first found it resting on the slab.
 

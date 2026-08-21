@@ -1,7 +1,5 @@
 # B1C23 – The Despairing Front
 
-## The Bulwark
-
 Camael held the center of the line with the Unbroken arrayed on either side of him, veterans every one, disciplined past the point where fear had ever managed to find lasting purchase in any of them. Weapons steady, formation unbroken, every soldier along this stretch of the defensive perimeter stood exactly where centuries of drill had taught them to stand, waiting on a fight that would, to Camael's eye, satisfy an appetite their long service had trained into them.
 
 He felt no dread in the waiting, only the familiar, coiled readiness that preceded every battle he had ever led them into. Whatever Belial intended to throw against this stretch of line, Camael trusted the Unbroken to meet it the same way they had met every threat before it — with force answered by greater force, an equation that had held, without exception, across the long length of this war.
@@ -9,8 +7,6 @@ He felt no dread in the waiting, only the familiar, coiled readiness that preced
 The line stretched further than any single glance could take in, ranks of veterans standing shoulder to shoulder along ground the Unbroken had held through engagement after engagement, never once yielding a position they had been ordered to keep. Camael had built this legion himself, soldier by soldier, across centuries of relentless training and harder-fought campaigns, until the name Unbroken had stopped being an aspiration and become, simply, an accurate description of what they had proven themselves to be. He walked the line now with the same restless energy he brought to any waiting period before a fight, checking formation, checking morale, finding both exactly where he expected them to be.
 
 He had faced worse odds than tonight's numbers suggested, had held ground against forces far larger than whatever Belial was currently massing beyond the horizon. Ramiel hummed faintly in his grip, eager in the particular way she always grew eager before a fight worth having, and Camael allowed himself, for the last calm moment before whatever came next, the simple satisfaction of a soldier standing exactly where he belonged, surrounded by soldiers he trusted absolutely.
-
-## Jeremiel's Bad Joke
 
 Jeremiel worked a whetstone along Diké's edge a few paces from Camael's position, unhurried, his attention split evenly between the blade and the mood of the soldiers gathered near him. "If Hell's cooks are half as bad as ours," he said, loud enough for the nearest ranks to catch it, "Belial's army will surrender from the food alone before we ever raise a weapon." A ripple of laughter moved through the soldiers nearest him, tension easing by some small, measurable degree despite everything currently massing beyond the horizon.
 
@@ -24,15 +20,11 @@ Camael considered the question with the same seriousness he gave any question Je
 
 He did not say the rest of what the question had briefly stirred in him — that naming an enemy was, for Camael, most of the work of defeating it, and that some part of him had spent the walk up to this line searching for the shape of whatever waited on the other side of it without success. Belial he could name. Belial he understood, in the plain, uncomplicated way one warrior understands another built for force and consequence. Lament, the primordial spear Belial had returned from the Sepulcher carrying, Camael had heard only fragments about, secondhand and unconfirmed, and found the uncertainty far harder to sit with than any confirmed threat would have been.
 
-## The Wave of Sorrow
-
 The pulse arrived from the direction of Belial's own advancing vanguard, without sound, without any physical force a shield or blade could have met. It moved through the gathered ranks like a wave of pure hopelessness, indifferent to the discipline that had carried these soldiers through every previous threat they had ever faced together.
 
 Camael felt it pass through his own chest and braced against it instinctively, the same reflex that had carried him through every previous threat this war had thrown at him. It did not strike like a blow. It settled instead, cold and total, somewhere flesh and bone had no defense for, and for one disorienting moment the truth of it landed whole and unwelcome — exactly what Lament had actually been forged to do.
 
 He held his own footing against it through what he could only credit to centuries of discipline layered thick enough to absorb even something this unfamiliar, though the effort cost him more than any physical exertion ever had. Along the line to either side of him, he heard weapons beginning to shift in grips that had held them steady only moments earlier, a low, spreading unease rippling outward through ranks whose long history together held no precedent for this — wavering against a threat that hadn't yet even fully arrived.
-
-## The Collapse
 
 Jeremiel went down first, tears already tracking silently down a face that had been laughing only minutes earlier, Diké slipping from fingers that had held her steady through a hundred engagements as his knees found the ground without a sound. Camael saw him fall before he registered any other soldier faltering, the sight of it landing with a force no physical wound from Jeremiel could have carried.
 
@@ -46,8 +38,6 @@ He recognized several of the fallen even at this distance, faces he had trained 
 
 Some, disarmed and unseeing in the middle of ground still contested by an advancing enemy, would not survive what came next. He could not yet spare the attention to grieve that fact. He could only watch it beginning to happen, powerless in a way his long service had never once prepared him to be.
 
-## The Useless Attempt
-
 Camael moved through the wreckage of his own formation still standing by pure force of will, and did the only thing he had ever known how to do in the face of a faltering line — he led. He seized two soldiers by the shoulders, hauling them bodily upright, shouting orders that had rallied broken formations more times than he could count across the length of his considerable service, trusting the one thing that had always worked before — his own presence — to return to them whatever the wave had taken.
 
 It did nothing. One of the soldiers, back on his knees within seconds of being forced upright, looked up at Camael with an expression that carried neither defiance nor cowardice — only what looked to Camael like a sorrow so complete it left no room for anything else. Camael felt something close to genuine fear take hold in him for the first time in the entire encounter — not fear of dying, a possibility he had made his peace with centuries ago, but fear that the one tool his entire existence had been built around, the sheer force of his own leadership, had simply stopped mattering against whatever this actually was.
@@ -57,8 +47,6 @@ He tried a second soldier, and then a third, repeating the only approach he had 
 He released the soldier's shoulders slowly, understanding arriving with a weight heavier than any physical blow he had ever absorbed. Command meant nothing here. Courage meant nothing here. Whatever answered a threat like this, it was not going to be anything Camael currently carried in his own considerable arsenal.
 
 He stood there a moment longer amid his broken formation, Ramiel silent and useless in his own grip, and felt something in himself harden into a resolve colder than the fury that usually carried him through a losing engagement. He could not out-force what had just moved through this line. He understood that now, completely, in a way no report or warning could have taught him beforehand. What remained to him was smaller than he would have liked, and he intended to use every remaining piece of it regardless.
-
-## A Commander's Resolve
 
 He stood amid his broken formation and forced the understanding into something he could still act on, some fragment of his old resolve reasserting itself even against everything he had just watched fail. He could not fix what had already happened to Jeremiel and the others scattered across the churned ground around him. He could, at minimum, make certain the rest of Heaven's command understood exactly what they were now facing.
 

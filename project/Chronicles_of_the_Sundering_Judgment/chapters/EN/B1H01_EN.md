@@ -1,7 +1,5 @@
 # B1H01 – The Rift That Shouldn't Exist
 
-## The Ordinary Patrol
-
 Thoria led her patrol along the border plane's quiet edge exactly the way she led every patrol along it, unhurried and thorough, her eyes moving in the same steady, unblinking sweep she brought to any stretch of ground she had been given to watch. The assignment carried no urgency worth the name — a routine reconnaissance of drift patterns along a boundary that had given Heaven no trouble in longer than most of the soldiers under her command had served. She preferred assignments like this one, in her own quiet way. They rewarded exactly the discipline she had built her entire reputation on — patient, incorruptible, immune to the particular laziness that crept in only after enough uneventful rotations convinced a soldier vigilance was optional.
 
 She held the patrol to its usual formation, checking each soldier's position with the same unblinking attention she gave everything else, Alther resting easy at her side rather than drawn. There was nothing here today that warranted the blade's readiness. She kept it close regardless. She had learned long ago that the day discipline slackened because nothing seemed to require it was invariably the day something finally did.
@@ -10,8 +8,6 @@ The border plane stretched quiet and unremarkable in every direction, the kind o
 
 She called a brief halt near the plane's midpoint, as she always did, to let the rear guard confirm their instruments against the patrol's official charts. It was, like everything else about today, entirely routine — the kind of small, unremarkable check that had turned up nothing worth the pause in all her long service. She held the halt anyway, unwilling to let habit erode into carelessness simply because the habit had never yet been rewarded with anything more than confirmation of what she already expected to find.
 
-## The Anomaly
-
 The ground beneath the patrol's rear guard folded inward without warning, a silent, instantaneous collapse that no instrument any of them carried had registered even a moment before it happened. Thoria turned in time to see three of her soldiers vanish into a tear that had not existed an instant earlier, the space where solid ground had been now simply gone, replaced by something that read, to her trained eye, as neither plane nor void but some unstable seam between the two.
 
 She did not hesitate. She crossed the remaining distance and followed her soldiers through the tear before it could close, Alther drawn now, long discipline insisting the blade would matter wherever this led even before she had any evidence to support it. The fall through the seam lasted only a moment, disorienting and entirely without direction, and then solid ground returned beneath her feet in a place that resembled nothing she had ever charted in all her centuries of routine border patrol.
@@ -19,8 +15,6 @@ She did not hesitate. She crossed the remaining distance and followed her soldie
 The remaining members of her patrol followed close behind, either choosing to cross as she had or caught by the same collapsing ground before it finished sealing itself shut. She did a rapid accounting the moment her own feet found solid footing again, relief settling briefly and privately in her chest when the count came back complete — every soldier who had entered the border plane with her this morning had made it through the tear intact, however disoriented the crossing had left them.
 
 The terrain around her offered nothing familiar to orient against. The light here moved wrong, shifting in slow, uneven pulses that answered to no source she could identify, and the ground itself carried a faint, persistent instability underfoot, as though the very concept of solid footing had not been fully decided here yet. She had crossed strange terrain before, across a service long enough to have seen more of it than most soldiers under her command could easily imagine. Nothing in that long service had felt quite like this — not hostile exactly, only fundamentally, unsettlingly undecided about what it actually was.
-
-## What Vem Was Actually Doing
 
 Vem had not expected the assault to go this smoothly, and had said as much, loudly, to anyone in his own strike team still close enough to hear him over the collapsing structure they were currently bringing down around a minor angelic supply cache. Tiltas hummed warm in his grip, the staff's own pleasure at this particular flavor of controlled devastation running up his arm in a satisfaction he never bothered hiding, whoever found it distasteful. Ground was, in Vem's own considered opinion, always more interesting the moment you stopped treating it as something fixed.
 
@@ -34,19 +28,13 @@ He landed hard on ground that felt, even through the disorientation of the fall 
 
 He felt, cataloguing the scene with the quick, instinctive read he brought to any unfamiliar situation, something closer to fascination than alarm. An angelic patrol, here, wherever here actually was, looking as thoroughly deposited and disoriented as his own squad had been only moments before. The coincidence struck him as more curious than threatening, at least in the first instant of actually processing it, though he understood well enough that the angels across the strange terrain from him were unlikely to share his particular enthusiasm for how genuinely odd this entire situation had just become.
 
-## First Contact
-
 Thoria's patrol reassembled around her within the new terrain's disorienting first minutes, three soldiers found and accounted for, formation reforming along the familiar lines of their training even in ground none of them recognized. She caught the demonic presence before she saw it clearly, Alther's own particular resonance sharpening in her grip the way it always sharpened near a soul-parasite bond worth severing, and raised the blade fully the moment silhouettes resolved out of the strange, shifting light on the far side of the terrain.
 
 "Defensive formation... Do not engage yet — nobody knows what this place actually is," she called to her own soldiers, voice carrying the flat, unhurried authority she brought to any command. From the demons' side, a voice answered back, looser and less guarded than her own, carrying an edge of something that sounded to Thoria like amusement layered awkwardly over obvious confusion. "Hey, sentinel — if this is an ambush, it's the worst-planned one I've seen in centuries!" Neither side closed the distance. Both held their ground instead, weapons ready, neither committing to the strike the moment plainly seemed to be building toward.
 
-## What Neither Side Attacked
-
 Thoria held her position, her eyes fixed on the demon who had spoken with the same unblinking attention she gave any unknown threat, weighing what sounded like genuine confusion in his voice against the practiced readiness of his stance. Something in the terrain itself unsettled her more than the demons currently facing her across it, a wrongness in the ground and light both that no drill, no rotation, no stretch of her long service had prepared her to properly categorize. She did not lower Alther. She also did not give the order to advance, some old discipline insisting that whatever this place actually was mattered more, in this exact moment, than whichever side happened to be standing on the other end of it.
 
 The ground shifted again beneath both groups at once, a slow, groaning instability that drew visible attention from both groups away from the standoff and toward the ground. Across the terrain, the restless demon lowered the staff he had been holding leveled at her patrol and turned it instead toward the ground itself, calling something sharp to his own squad that carried the cadence of an order rather than a taunt. Thoria understood, feeling the same instability move beneath her own boots, that the terrain represented a threat neither side currently had any real answer for. Whatever brought both patrols here, whatever this unstable, unfamiliar seam between planes actually was, it plainly did not care which side any of them had arrived on.
-
-## An Uneasy Pause
 
 "Your ground's doing that too?" the demon called across the distance, some of his earlier bravado thinning into what sounded, to Thoria's ear, like genuine unease. Thoria did not answer immediately, weighing the wisdom of any exchange at all against the plain, mounting evidence that neither side could currently afford to treat the other as the primary danger. "It is," she said finally, flat and clipped. "Hold your position. Whatever this place is, attacking each other in the middle of it seems considerably less urgent than surviving it."
 

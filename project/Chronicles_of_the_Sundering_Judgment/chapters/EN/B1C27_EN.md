@@ -1,7 +1,5 @@
 # B1C27 – The Sound of Retreat
 
-## The Unthinkable Sight
-
 Gabriel stood at the command dais watching the crystalline screen flicker and die at the exact moment Belial's final blow landed, the connection severed cleanly the instant Solmire's light went dark. He had not needed the screen to know what had happened. He had felt it, the same way every angel gathered on this dais had felt it, a collective absence tearing through something Gabriel had never before had cause to question the permanence of.
 
 Around him, the assembled archangels absorbed the moment each in their own particular silence. Uriel's jaw hung slack, what looked to Gabriel like some retort or command dying unspoken before it could fully form. Raphael closed his eyes against the impact, what looked to Gabriel like private grief crossing his features, unhidden from the others present. Gabriel simply stared at the darkened screen, his own light flickering, unbidden, like a candle caught in a wind it had no defense against, and understood, standing amid soldiers who had witnessed nothing like this in the whole of their long service, that whatever came next would fall to him to decide.
@@ -11,8 +9,6 @@ The dais itself had fallen entirely silent, aides and tacticians alike frozen in
 He had spent this entire war standing at his brother's side rather than ahead of him, content in a role better suited to counsel than to command. Nothing about that arrangement had prepared him, standing here now with every gaze on the dais turned toward him, for a silence this heavy, expecting him alone to fill it.
 
 He allowed himself one long breath before speaking, a private moment he did not intend to share with anyone currently watching him for guidance. His brother was gone from this field, in whatever sense gone actually meant for a soul who had carried Solmire this long. Grieving that fact properly would have to wait. The soldiers filling this dais, and the far larger number still scattered across a dozen collapsing fronts, needed a commander more than they needed a grieving brother, and Gabriel understood which of those two roles this particular moment actually required of him.
-
-## The Choice
 
 Uriel's voice tore through the dais's stunned quiet, his earlier apparent shock giving way, all at once, to a fury that seemed to Gabriel considerably safer for Uriel to feel than grief. "To arms! We will avenge him!"
 
@@ -28,8 +24,6 @@ He weighed, in the same brief span of consideration, exactly what kind of comman
 
 He held Uriel's gaze a moment longer, allowing his fellow archangel whatever space he needed to arrive at the same conclusion on his own terms, and watched Uriel's fury settle by degrees into what looked, to Gabriel's eye, much closer to grief. He felt a flash of gratitude that the argument had not needed to run any further than it already had. Every soul on this dais had already lost more tonight than any of them had fully begun to reckon with, and Gabriel had no wish to spend what remained of their collective strength convincing them of a decision most of them, to judge by the way Uriel's shoulders finally dropped, had already reached on their own.
 
-## The Horn of Sorrow
-
 Gabriel turned to the herald standing rigid at his side and gave the order in a voice steadier than he currently felt. "Sound the retreat."
 
 The herald stared back at him, uncomprehending, as though some part of the instruction had refused to register at all. No one serving in this army had ever heard that particular order given, not once across the entirety of its long history. "Sound it," Gabriel repeated, his voice finally cracking under the weight of an instruction he had never once expected to give in all his centuries of service.
@@ -40,8 +34,6 @@ Gabriel listened to the note fade into the distance, carrying with it an order h
 
 He watched the herald lower the horn, the young angel's hands visibly unsteady around an instrument that had never before demanded anything like tonight's note from him. Gabriel found nothing he could offer by way of comfort that would not sound, in this particular moment, hollower than the silence following the note's own fade. He found he could not yet fully grieve that cost either, setting it aside instead alongside everything else tonight had already asked of him to carry for later.
 
-## The Long Road Home
-
 A soldier posted along one of the war's more distant fronts heard the horn's single mournful note arrive from somewhere far behind his own position, and felt the ground beneath his understanding of the entire war shift the instant he recognized what it actually meant. He had trained his whole existence to march toward that horn's call. Nothing in that training had prepared him for what it now demanded of him instead.
 
 He lowered his weapon without further instruction needed, the same silence settling visibly over every soldier near him along the line. There was no panic in the withdrawal that followed, no scattered rout — only a disciplined, hollowed-out grief carrying them backward across ground they had held and protected for longer than most of them could properly reckon.
@@ -49,8 +41,6 @@ He lowered his weapon without further instruction needed, the same silence settl
 Rearguards formed without being ordered to form them. The wounded were gathered and carried without a single voice raised in complaint. He fell into step alongside soldiers he had fought beside across this entire campaign, none of them speaking, every face around him wearing what looked to him like the same weight the horn's single note had settled over the entire rank at once. He glanced back once toward the ground they were abandoning, territory he had personally helped hold through engagements bloodier than tonight's collapse, and found he had no particular wish to look back a second time.
 
 They were, the soldier understood, marching backward now as an army that had lost a great deal more than a single battle, and as the disciplined column stretched out ahead of him toward home, he suspected none of them yet knew the full measure of what that loss was actually going to cost.
-
-## The Price of Victory
 
 Belial approached the fallen sword slowly, too exhausted by the duel's own cost to hurry even toward a prize this significant, Lament's grief still pulsing dully through him with every step he took across the ash-grey plain. He glanced once toward Miguel's motionless form as he crossed the intervening distance, feeling nothing so simple as satisfaction at the sight, only a tired, distant acknowledgment that the war's central obstacle had finally been removed from his path.
 
@@ -63,8 +53,6 @@ The two opposing energies shrieked against each other somewhere inside him, and 
 He cradled his burned hand against his chest, the wound already healing slower than any injury he had ever sustained in battle, and searched the ash around him for any sign of where the sword had gone, finding nothing — no glow, no telltale disturbance in the grey dust, nothing to mark where a weapon capable of matching Lament itself had simply vanished into the ordinary ground. She had rejected him with a violence he had not remotely anticipated, a final act of irreverent defiance from a blade that had apparently not finished fighting simply because her wielder had. Force alone, it seemed, was not going to be enough to claim what remained of her.
 
 His smile, when it finally came, belonged to a man who had won the entire world, and felt, even as he smiled, his own mind beginning to fracture under exactly what that victory had cost him.
-
-## The Silence
 
 Gabriel stood at the Empyrean Gates as the last of the retreating soldiers filed past him, watching each face carry what looked to him like the same hollowed grief the horn's single note had first announced hours earlier. He had given the order that brought them home. He had not yet found any way to make that order feel like anything other than a betrayal of everything this army had once believed itself incapable of doing.
 

@@ -1,7 +1,5 @@
 # Chapter 12 — A Silence in Heaven
 
-## The Incident
-
 Sariel had been watching Arin Cross for the better part of a week now, in hours taken from a service record that had never once, before this, required a lie to sustain it. He told himself each morning that today would be the day he found nothing further worth the risk, and each evening proved him wrong in some small, gnawing way he could not yet name.
 
 The delivery truck came around the corner of the quad too fast, its brakes already screaming before Sariel's eye fully registered the danger, and the crowd of students ahead of it scattered in every direction at once, too slow, too many of them, the gap between the truck and the nearest of them closing faster than any of them could outrun. Arin Cross did not run. He stood exactly where he had been standing a moment before, and raised one hand, not toward the truck exactly but somewhere just short of it, the gesture unhurried in a way that made no sense against the speed of the thing bearing down on him.
@@ -10,13 +8,9 @@ The truck stopped. It did not skid to a stop, did not lurch or fishtail the way 
 
 Sariel had spent his entire long service cataloguing power by its shape — the hungry pull of a demon, the ordered radiance of an angel, the thin, borrowed glow of a mortal soul carrying some fragment of a former life. Whatever had just moved through that boy belonged to none of those shapes. It had not felt claimed by anyone, not angel, not demon, not any category his training had ever equipped him to name, and for one disorienting moment he found himself unable to decide whether what he had just witnessed frightened him more than it fascinated him.
 
-## Whispers Among the Crowd
-
 The students around the truck were still screaming, some of them, though the scream had already curdled into something closer to disbelieving laughter by the time Sariel could make himself move from the rooftop.
 
 He kept to the shadows of the buildings as he came down, close enough to hear fragments without being seen hearing them, and every fragment said some version of the same impossible thing. *Did you see that. He didn't even touch it. It just stopped, like it hit a wall that wasn't there.* One student, pale and shaking, kept repeating the same four words to anyone who would listen — *he stopped the truck* — as though saying it enough times might make it settle into something ordinary. It did not settle. By the time Sariel had circled back to a vantage point near the library steps, the story had already outpaced him, passed from mouth to mouth faster than he could track its spread, each retelling a little more certain of what it had seen than the last. He understood, standing there listening to a rumor take its first uncertain steps into the world, that whatever had just happened here would not stay contained to this quad for very long.
-
-## A Moment of Lucidity
 
 Arin blinked, staring down at his own outstretched hand as though it belonged to someone else entirely, and Sariel recognized the confusion on his face immediately — it was the exact confusion he had studied for a week now, the look of a man waking from a dream he could not quite recall the shape of.
 
@@ -24,13 +18,9 @@ He lowered the hand slowly, turned it over once, and shook his head, the gesture
 
 ---
 
-## The Empty Throne
-
 Remiel stood near the edge of the war room and let the argument wash past her unanswered, the Spiral of Prophecy dim and quiet at her side, offering her nothing today that the room's own tension did not already make plain enough without it.
 
 Miguel's chair sat empty at the head of the long table, exactly as it had sat empty for three days running, its high back catching the room's cold light in a way that made the absence somehow louder than any voice raised around it. The other archangels argued over troop movements and border reports with a hesitancy Remiel had rarely heard from any of them before, each proposal offered and countered without the terrible certainty that had once made these meetings brief. She had watched two messengers turn back from Miguel's sealed chambers already that morning, refused entry by a barrier of light that answered no knock and explained itself to no one. Remiel did not need the Spiral to read what sat over this room. She had seen this particular kind of quiet before, in armies about to lose a war they did not yet know they were losing.
-
-## Those Who Wait Outside
 
 She found herself near Miguel's chambers again by midday, not summoned there by any order but drawn by the same restlessness that seemed to have settled over half the Bastion since the shadow-plane's retreat, and discovered she was not the only one who had come.
 
@@ -38,27 +28,19 @@ A handful of officers and petitioners already stood along the corridor outside t
 
 ---
 
-## The Sword's Hum
-
 Miguel knelt before the small altar in his sealed chambers, Solmire laid flat across it, and tried, for what felt like the hundredth time since the shadow-plane, to form a prayer his own mind would let him finish.
 
 He had knelt like this a thousand times before in his long service, and prayer had never once failed to come when he reached for it — a simple opening of himself toward something larger, patient and familiar as breath. It did not come now. He tried the oldest words first, the ones that had carried him through every doubt he could remember having before this one, and found them sitting dead and unfamiliar on his tongue, as though the shape of them had been borrowed by someone who no longer remembered how to give them back. Every time he tried to shape the first words of it, Solmire's hum rose beneath his thoughts instead, low and insistent, filling the space where the beginning of a prayer should have been with something that felt less like interruption and more like substitution, as if the sword had decided prayer itself was no longer necessary between them. He opened his eyes and looked at the blade lying quiet and radiant across the altar's stone, its light the only illumination left in the darkened room, and felt, not for the first time this week, that he was kneeling before the wrong altar entirely. He stayed there anyway, because leaving would have meant admitting there was nothing left in this room capable of answering him, and some stubborn, exhausted part of him was not yet ready to admit that out loud, even to himself.
 
 ---
 
-## A Council of Two
-
 Gabriel found Uriel already waiting in the small observatory at the edge of the Bastion, a forgotten room neither of them had visited more than once or twice in centuries, chosen precisely because no one would think to look for either of them here.
 
 Uriel was not pacing, which unsettled Gabriel more than pacing would have. He stood instead at the room's single window, watching the slow wheel of stars beyond the Bastion's edge with a stillness that sat badly on a man Gabriel had known, across every century of their shared service, as restless and quick to anger rather than quiet like this. "You felt it too, then," Uriel said, without turning. "Whatever happened out there." It was not a question, and Gabriel did not answer it as one. He crossed the small room and stood beside his brother at the window, and for a long moment neither of them spoke at all, the silence between them doing more work than either was yet willing to do with words. "He killed a neutral, Gabriel," Uriel said finally, his voice low and stripped of its usual fire. "On a hunch. On a *reading*. That is not justice. I don't know what that is anymore, but it is not justice."
 
-## The Unthinkable Question
-
 Gabriel let the accusation settle in the space between them before he answered it, aware that whatever he said next would carry a weight neither of them could easily set back down afterward.
 
 "He is still our commander," Gabriel said. "Still our brother." Uriel turned from the window at last, and Gabriel found, in his brother's face, none of the certainty he had expected to find there — only the same exhausted uncertainty that had been keeping Gabriel from sleep for three nights running. "He is," Uriel agreed. "But if the sword is leading him somewhere none of us can follow, what is our duty then? To him, or to everyone standing behind him?" Gabriel had no answer ready for that, and the absence of one frightened him more than any answer could have. He looked out at the wheeling stars instead, buying himself a silence he hoped might pass for thought rather than the plain fact that he simply did not know, and understood, standing there beside his brother in a room built for watching things too distant to touch, that the question itself had already changed something between the two of them that would not easily change back.
-
-## Gabriel Raises Vox Aeternum
 
 The silence stretched long enough that Gabriel felt it demanding something more of him than thought alone could offer, and when he finally turned back from the window, he found Uriel watching him with an expression that already seemed to know what he was about to do before Gabriel had fully decided it himself. His hand drifted, briefly, toward the sealed parchment still riding against his ribs — the Council's authorization, carried and never once produced, for exactly this kind of failure. He let it stay where it was. Whatever it permitted him to do to his brother, it was not, he understood now, what this moment actually asked of him.
 
