@@ -63,7 +63,7 @@
 
 ---
 
-### ⚖️ Zadquiel — *Commander of Just Retribution*  
+### ⚖️ Zadkiel — *Commander of Just Retribution*  
 > “My silence is your last chance.”
 
 - **Title:** Arbiter of Divine Verdict  
@@ -107,7 +107,7 @@
 - **Combat Style:** Battlefield organizer and moral anchor; strikes where needed most.  
 
 ---
-#### Captains under Zadquiel:
+#### Captains under Zadkiel:
 
 ### 📚 Iofiel — *Captain / Wisdom Keeper*  
 > “Knowledge forgotten is justice delayed.”
@@ -188,7 +188,7 @@
 
 ---
 
-#### Leaders under **Anael** (Captain) → **Zadquiel** (Commander):
+#### Leaders under **Anael** (Captain) → **Zadkiel** (Commander):
 
 ---
 
@@ -332,7 +332,7 @@
 - **Weapon:** *Fervor* — A crystal shard that channels ambient emotion.  
 - **Personality:** Passionate, reactive, unpredictable but effective.  
 
-#### Leaders under **Iofiel** (Captain) → **Zadquiel** (Commander):
+#### Leaders under **Iofiel** (Captain) → **Zadkiel** (Commander):
 
 ---
 
@@ -381,7 +381,7 @@
 
 ---
 
-#### Leaders under **Anael** (Captain) → **Zadquiel** (Commander):
+#### Leaders under **Anael** (Captain) → **Zadkiel** (Commander):
 
 ---
 
@@ -430,7 +430,7 @@
 
 ---
 
-#### Leaders under **Barachiel** (Captain) → **Zadquiel** (Commander):
+#### Leaders under **Barachiel** (Captain) → **Zadkiel** (Commander):
 
 ---
 
