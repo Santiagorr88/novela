@@ -2,7 +2,7 @@
 
 ## The Confrontation
 
-Malthus found Stolas exactly where his own informants had finally placed him, standing at the edge of Threll's household with the unhurried confidence of a man who no longer felt any need to hide his purpose. The confirmation stung more than Malthus cared to admit, even to himself. He had suspected the wavering loyalty was real. Seeing Vepar's own instrument standing openly in the middle of it, evidently already finished with whatever business had brought him here, made the suspicion considerably harder to hold at arm's length.
+Malthus found Stolas exactly where his own informants had finally placed him, standing at the edge of Threll's household with an unhurried confidence Malthus read as a man who no longer felt any need to hide his purpose. The confirmation stung more than Malthus cared to admit, even to himself. He had suspected the wavering loyalty was real. Seeing Vepar's own instrument standing openly in the middle of it, evidently already finished with whatever business had brought him here, made the suspicion considerably harder to hold at arm's length.
 
 "You've been busy," Malthus said, drawing Maleth's chalk from beneath his sleeve and marking the first line of the circle at his feet without yet committing to closing it. Stolas regarded him with a dry, unbothered attention that struck Malthus as entirely too composed for a man just caught in the act. "Busy is one word for it," Stolas said. "Thorough is the one I'd choose myself." Malthus felt something in his own composure sharpen past the point he generally preferred to hold it at. "A ward broken doesn't stay broken forever, Stolas. What one hand seals, another hand can seal again — you've only bought yourself a little time, not the ground itself."
 

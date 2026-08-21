@@ -38,7 +38,7 @@ Leraje considered this, and let it go with a plain, unbothered shrug — the shr
 
 "Leraje removes her," Naamah said, "cleanly, exactly as she's described — no trail, no spectacle, a death the town can spend its grief arguing about instead of avenging. That happens first, quietly, and it happens alone." She watched Leraje's mouth curve, the small, satisfied confirmation of a professional told her method was the one being trusted. "Once the commander who was holding that province together is gone and the grief has had a season to curdle on its own, the town is yours, Phenex. Not the killing — the after. Whatever the doubt leaves standing, once faith has already started doing your work for you before you've lifted a brush."
 
-Phenex weighed this a moment, head tilted, the look of a man deciding whether he'd just been insulted or complimented and finding he couldn't yet tell the difference. "You're giving me the ruins instead of the building."
+Phenex weighed this a moment, head tilted — the look, Naamah judged, of a man deciding whether he'd just been insulted or complimented and finding he couldn't yet tell the difference. "You're giving me the ruins instead of the building."
 
 "I'm giving you a canvas already primed," Naamah said. "You've told me yourself, more than once, that you do your best work on something that's still standing when you arrive. A town half-broken by grief it doesn't understand the source of is still standing, Captain. It's simply already listening for whoever tells it what its own doubt means." She let the offer sit exactly as certain as it needed to sound. "I'd have thought you'd prefer an audience that's already half-persuaded before you've said a word."
 

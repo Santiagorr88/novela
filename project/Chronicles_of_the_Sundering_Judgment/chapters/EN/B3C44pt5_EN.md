@@ -6,7 +6,7 @@ Agares, in Amy's long experience of him, never simply told her what he wanted. H
 
 "And Flauros."
 
-"Flauros ensures the rope has a cost attached, for whoever declines to use it honestly." Agares's smile didn't move, though something underneath it did — the particular satisfaction of a man who enjoyed watching a mechanism he'd designed run exactly as intended. "I find the two of you complement each other rather more usefully than either of you would admit unprompted. Bring me the truth, Captain. Arranged however you like. I've never once found a lie worth the trouble when the truth, told in the right order, does considerably more damage on its own."
+"Flauros ensures the rope has a cost attached, for whoever declines to use it honestly." Agares's smile didn't move, though something underneath it did — what Amy read as the particular satisfaction of a man who enjoyed watching a mechanism he'd designed run exactly as intended. "I find the two of you complement each other rather more usefully than either of you would admit unprompted. Bring me the truth, Captain. Arranged however you like. I've never once found a lie worth the trouble when the truth, told in the right order, does considerably more damage on its own."
 
 ---
 
