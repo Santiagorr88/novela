@@ -12,8 +12,9 @@ SRC_DIR = os.path.join(BASE, LANG)
 OUT_HTML = os.path.join(BASE, f"Libro1_{LANG}.html")
 OUT_PDF = os.path.join(BASE, f"Libro1_{LANG}.pdf")
 
-TITLE = "CHRONICLES OF THE SUNDERING JUDGMENT" if LANG == "EN" else "CRÓNICAS DEL JUICIO DEL CISMA"
-SUBTITLE = "Book One" if LANG == "EN" else "Libro Uno"
+SERIES_TITLE = "CHRONICLES OF JUDGMENT" if LANG == "EN" else "LAS CRÓNICAS DEL JUICIO"
+BOOK_LABEL = "Book One" if LANG == "EN" else "Libro Uno"
+BOOK_TITLE = "THE ECHO OF THE SWORD" if LANG == "EN" else "EL ECO DE LA ESPADA"
 TOC_LABEL = "Contents" if LANG == "EN" else "Índice"
 
 
@@ -114,9 +115,10 @@ body { font-family: 'Libertine', 'Georgia', serif; font-size: 11.3pt; line-heigh
 </head>
 <body>
 <div class="cover">
-  <div class="kicker">{SUBTITLE}</div>
-  <h1>{TITLE}</h1>
+  <div class="kicker">{SERIES_TITLE}</div>
+  <h1>{BOOK_TITLE}</h1>
   <div class="rule"></div>
+  <div class="subtitle">{BOOK_LABEL}</div>
 </div>
 <div class="toc">
   <h2>{TOC_LABEL}</h2>
