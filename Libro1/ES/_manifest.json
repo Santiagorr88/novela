@@ -1,0 +1,326 @@
+[
+  {
+    "n": 1,
+    "file": "01_A_Wound_in_the_World.md",
+    "source": "B1Cap01_EN.md",
+    "title": "Una Herida en el Mundo"
+  },
+  {
+    "n": 2,
+    "file": "02_The_Tree_Outside_Time.md",
+    "source": "B1Cap02_EN.md",
+    "title": "El Árbol Fuera del Tiempo"
+  },
+  {
+    "n": 3,
+    "file": "03_Verdict_of_Dawn.md",
+    "source": "B1Cap03_EN.md",
+    "title": "Veredicto del Alba"
+  },
+  {
+    "n": 4,
+    "file": "04_The_First_Swing.md",
+    "source": "B1Cap04_EN.md",
+    "title": "El Primer Golpe"
+  },
+  {
+    "n": 5,
+    "file": "05_Solmires_Judgment.md",
+    "source": "B1Cap05_EN.md",
+    "title": "El Juicio de Solmire"
+  },
+  {
+    "n": 6,
+    "file": "06_Whispers_in_the_Burning_Halls.md",
+    "source": "B1Cap06_EN.md",
+    "title": "Susurros en los Salones Ardientes"
+  },
+  {
+    "n": 7,
+    "file": "07_Hunter_of_Echoes.md",
+    "source": "B1Cap07_EN.md",
+    "title": "Cazador de Ecos"
+  },
+  {
+    "n": 8,
+    "file": "08_The_Weight_of_a_Crown_of_Light.md",
+    "source": "B1Cap08_EN.md",
+    "title": "El Peso de una Corona de Luz"
+  },
+  {
+    "n": 9,
+    "file": "09_The_Price_of_Knowledge.md",
+    "source": "B1Cap09_EN.md",
+    "title": "El Precio del Conocimiento"
+  },
+  {
+    "n": 10,
+    "file": "10_A_Crack_in_the_Divine.md",
+    "source": "B1Cap10_EN.md",
+    "title": "Una Grieta en lo Divino"
+  },
+  {
+    "n": 11,
+    "file": "11_Crossings.md",
+    "source": "B1Cap11_EN.md",
+    "title": "Cruces"
+  },
+  {
+    "n": 12,
+    "file": "12_A_Silence_in_Heaven.md",
+    "source": "B1Cap12_EN.md",
+    "title": "Un Silencio en el Cielo"
+  },
+  {
+    "n": 13,
+    "file": "13_The_Devils_Gambit.md",
+    "source": "B1C11_EN.md",
+    "title": "El Gambito del Diablo"
+  },
+  {
+    "n": 14,
+    "file": "14_Dreams_of_Laughter.md",
+    "source": "B1C12_EN.md",
+    "title": "Sueños de Risa"
+  },
+  {
+    "n": 15,
+    "file": "15_The_Price_of_Truth.md",
+    "source": "B1C13_EN.md",
+    "title": "El Precio de la Verdad"
+  },
+  {
+    "n": 16,
+    "file": "16_The_First_Threshold.md",
+    "source": "B1L01_EN.md",
+    "title": "El Primer Umbral"
+  },
+  {
+    "n": 17,
+    "file": "17_What_the_Council_Wont_Decide.md",
+    "source": "B1L02_EN.md",
+    "title": "Lo Que el Consejo No Decidirá"
+  },
+  {
+    "n": 18,
+    "file": "18_Those_Waiting_for_a_Stumble.md",
+    "source": "B1L03_EN.md",
+    "title": "Los Que Esperan un Tropiezo"
+  },
+  {
+    "n": 19,
+    "file": "19_The_Descent.md",
+    "source": "B1L04_EN.md",
+    "title": "El Descenso"
+  },
+  {
+    "n": 20,
+    "file": "20_The_True_Tomb.md",
+    "source": "B1L05_EN.md",
+    "title": "La Verdadera Tumba"
+  },
+  {
+    "n": 21,
+    "file": "21_What_Winning_Costs.md",
+    "source": "B1L06_EN.md",
+    "title": "Lo Que Cuesta Ganar"
+  },
+  {
+    "n": 22,
+    "file": "22_What_Should_Not_Have_Burned.md",
+    "source": "B1V01_EN.md",
+    "title": "Lo Que No Debió Arder"
+  },
+  {
+    "n": 23,
+    "file": "23_A_Gift_With_No_Name.md",
+    "source": "B1V02_EN.md",
+    "title": "Un Don Sin Nombre"
+  },
+  {
+    "n": 24,
+    "file": "24_The_Trail_That_Shouldnt_Be_There.md",
+    "source": "B1V03_EN.md",
+    "title": "El Rastro Que No Debería Estar Ahí"
+  },
+  {
+    "n": 25,
+    "file": "25_What_Desire_Promises.md",
+    "source": "B1V04_EN.md",
+    "title": "Lo Que Promete el Deseo"
+  },
+  {
+    "n": 26,
+    "file": "26_Two_Offers.md",
+    "source": "B1V05_EN.md",
+    "title": "Dos Ofertas"
+  },
+  {
+    "n": 27,
+    "file": "27_A_Fissure_in_the_Light.md",
+    "source": "B1C15_EN.md",
+    "title": "Una Fisura en la Luz"
+  },
+  {
+    "n": 28,
+    "file": "28_What_the_Choir_Wont_Sing.md",
+    "source": "B1N01_EN.md",
+    "title": "Lo Que el Coro No Cantará"
+  },
+  {
+    "n": 29,
+    "file": "29_The_Discrepancy.md",
+    "source": "B1N02_EN.md",
+    "title": "La Discrepancia"
+  },
+  {
+    "n": 30,
+    "file": "30_What_Remains_Unnamed.md",
+    "source": "B1N03_EN.md",
+    "title": "Lo Que Queda Sin Nombre"
+  },
+  {
+    "n": 31,
+    "file": "31_The_Island_That_Appears_on_No_Map.md",
+    "source": "B1T01_EN.md",
+    "title": "La Isla Que No Aparece en Ningún Mapa"
+  },
+  {
+    "n": 32,
+    "file": "32_The_One_Already_Watching.md",
+    "source": "B1T02_EN.md",
+    "title": "El Que Ya Estaba Observando"
+  },
+  {
+    "n": 33,
+    "file": "33_The_Riddles_With_No_Answer.md",
+    "source": "B1T03_EN.md",
+    "title": "Los Acertijos Sin Respuesta"
+  },
+  {
+    "n": 34,
+    "file": "34_What_Neither_of_Them_Keeps.md",
+    "source": "B1T04_EN.md",
+    "title": "Lo Que Ninguno de los Dos Conserva"
+  },
+  {
+    "n": 35,
+    "file": "35_The_Price_of_Absence.md",
+    "source": "B1F01_EN.md",
+    "title": "El Precio de la Ausencia"
+  },
+  {
+    "n": 36,
+    "file": "36_What_the_Tide_Smells.md",
+    "source": "B1F02_EN.md",
+    "title": "Lo Que la Marea Huele"
+  },
+  {
+    "n": 37,
+    "file": "37_A_War_Nobody_Declares.md",
+    "source": "B1F03_EN.md",
+    "title": "Una Guerra Que Nadie Declara"
+  },
+  {
+    "n": 38,
+    "file": "38_The_Irreverent_Judgment.md",
+    "source": "B1C17_EN.md",
+    "title": "El Juicio Irreverente"
+  },
+  {
+    "n": 39,
+    "file": "39_The_Rift_That_Shouldnt_Exist.md",
+    "source": "B1H01_EN.md",
+    "title": "La Grieta Que No Debería Existir"
+  },
+  {
+    "n": 40,
+    "file": "40_What_Not_Even_He_Can_Control.md",
+    "source": "B1H02_EN.md",
+    "title": "Lo Que Ni Siquiera Él Puede Controlar"
+  },
+  {
+    "n": 41,
+    "file": "41_A_Truce_Neither_Will_Admit_To.md",
+    "source": "B1H03_EN.md",
+    "title": "Una Tregua Que Ninguno Admitirá"
+  },
+  {
+    "n": 42,
+    "file": "42_What_Goes_Unspoken.md",
+    "source": "B1H04_EN.md",
+    "title": "Lo Que Queda Sin Decir"
+  },
+  {
+    "n": 43,
+    "file": "43_Three_Were_Forged.md",
+    "source": "B1C18_EN.md",
+    "title": "Tres Fueron Forjadas"
+  },
+  {
+    "n": 44,
+    "file": "44_A_Truth_Offered.md",
+    "source": "B1C19_EN.md",
+    "title": "Una Verdad Ofrecida"
+  },
+  {
+    "n": 45,
+    "file": "45_The_Master_of_Lament.md",
+    "source": "B1C20_EN.md",
+    "title": "El Maestro de Lament"
+  },
+  {
+    "n": 46,
+    "file": "46_The_Summit.md",
+    "source": "B1C21_EN.md",
+    "title": "La Cumbre"
+  },
+  {
+    "n": 47,
+    "file": "47_The_Eve_of_Ruin.md",
+    "source": "B1C22_EN.md",
+    "title": "La Víspera de la Ruina"
+  },
+  {
+    "n": 48,
+    "file": "48_The_Despairing_Front.md",
+    "source": "B1C23_EN.md",
+    "title": "El Frente de la Desesperación"
+  },
+  {
+    "n": 49,
+    "file": "49_The_Sundered_Sky.md",
+    "source": "B1C24_EN.md",
+    "title": "El Cielo Desgarrado"
+  },
+  {
+    "n": 50,
+    "file": "50_The_Resonance.md",
+    "source": "B1C25_EN.md",
+    "title": "La Resonancia"
+  },
+  {
+    "n": 51,
+    "file": "51_The_Fall.md",
+    "source": "B1C26_EN.md",
+    "title": "La Caída"
+  },
+  {
+    "n": 52,
+    "file": "52_The_Sound_of_Retreat.md",
+    "source": "B1C27_EN.md",
+    "title": "El Toque de Retirada"
+  },
+  {
+    "n": 53,
+    "file": "53_Sparks_for_the_Numb.md",
+    "source": "B1C27pt5_EN.md",
+    "title": "Chispas para los Entumecidos"
+  },
+  {
+    "n": 54,
+    "file": "54_The_Echo_of_the_Sword.md",
+    "source": "B1C28_EN.md",
+    "title": "El Eco de la Espada"
+  }
+]
