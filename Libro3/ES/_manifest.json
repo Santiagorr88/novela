@@ -1,0 +1,314 @@
+[
+  {
+    "n": 1,
+    "file": "01_The_Divine_Jester.md",
+    "source": "B3C01_EN.md",
+    "title": "El Bufón Divino"
+  },
+  {
+    "n": 2,
+    "file": "02_The_Unraveling.md",
+    "source": "B3C02_EN.md",
+    "title": "El Deshilachamiento"
+  },
+  {
+    "n": 3,
+    "file": "03_A_Path_to_Hell.md",
+    "source": "B3C03_EN.md",
+    "title": "Un Camino al Infierno"
+  },
+  {
+    "n": 4,
+    "file": "04_The_First_Lesson_Laughter.md",
+    "source": "B3C04_EN.md",
+    "title": "La Primera Lección: Reír"
+  },
+  {
+    "n": 5,
+    "file": "05_A_Council_of_Fear.md",
+    "source": "B3C05_EN.md",
+    "title": "Un Concilio del Miedo"
+  },
+  {
+    "n": 6,
+    "file": "06_The_Storm_of_Sorrows.md",
+    "source": "B3C06_EN.md",
+    "title": "La Tormenta de las Penas"
+  },
+  {
+    "n": 7,
+    "file": "07_The_Sword_Remembers.md",
+    "source": "B3C07_EN.md",
+    "title": "La Espada Recuerda"
+  },
+  {
+    "n": 8,
+    "file": "08_The_Whispering_Scars.md",
+    "source": "B3C08_EN.md",
+    "title": "Las Cicatrices Susurrantes"
+  },
+  {
+    "n": 9,
+    "file": "09_Judgment_Not_Wrath.md",
+    "source": "B3C09_EN.md",
+    "title": "Juicio, No Ira"
+  },
+  {
+    "n": 10,
+    "file": "10_The_Summits_End.md",
+    "source": "B3C10_EN.md",
+    "title": "El Fin de la Cumbre"
+  },
+  {
+    "n": 11,
+    "file": "11_Readiness_Not_Disobedience.md",
+    "source": "B3C10pt5_EN.md",
+    "title": "Disposición, No Desobediencia"
+  },
+  {
+    "n": 12,
+    "file": "12_The_In-Between_War.md",
+    "source": "B3C11_EN.md",
+    "title": "La Guerra del Entremedio"
+  },
+  {
+    "n": 13,
+    "file": "13_The_Heart_of_Hell.md",
+    "source": "B3C12_EN.md",
+    "title": "El Corazón del Infierno"
+  },
+  {
+    "n": 14,
+    "file": "14_Reading_the_Scars.md",
+    "source": "B3C13_EN.md",
+    "title": "Leyendo las Cicatrices"
+  },
+  {
+    "n": 15,
+    "file": "15_The_Convergence.md",
+    "source": "B3C14_EN.md",
+    "title": "La Convergencia"
+  },
+  {
+    "n": 16,
+    "file": "16_The_Three_Forgotten.md",
+    "source": "B3C15_EN.md",
+    "title": "Los Tres Olvidados"
+  },
+  {
+    "n": 17,
+    "file": "17_The_Sages_Plan.md",
+    "source": "B3C16_EN.md",
+    "title": "El Plan del Sabio"
+  },
+  {
+    "n": 18,
+    "file": "18_The_Road_to_Dis.md",
+    "source": "B3C17_EN.md",
+    "title": "El Camino a Dis"
+  },
+  {
+    "n": 19,
+    "file": "19_The_Duel_of_Truth_and_Pride.md",
+    "source": "B3C18_EN.md",
+    "title": "El Duelo de la Verdad y el Orgullo"
+  },
+  {
+    "n": 20,
+    "file": "20_The_Spark_of_Defiance.md",
+    "source": "B3C19_EN.md",
+    "title": "La Chispa del Desafío"
+  },
+  {
+    "n": 21,
+    "file": "21_The_Commanders_Return.md",
+    "source": "B3C20_EN.md",
+    "title": "El Regreso del Comandante"
+  },
+  {
+    "n": 22,
+    "file": "22_A_Council_of_War_and_Faith.md",
+    "source": "B3C21_EN.md",
+    "title": "Un Concilio de Guerra y Fe"
+  },
+  {
+    "n": 23,
+    "file": "23_The_Tear_of_Faith.md",
+    "source": "B3C22_EN.md",
+    "title": "La Lágrima de Fe"
+  },
+  {
+    "n": 24,
+    "file": "24_A_Truce_of_Shadows_and_Light.md",
+    "source": "B3C23_EN.md",
+    "title": "Una Tregua de Sombras y Luz"
+  },
+  {
+    "n": 25,
+    "file": "25_The_Logic_of_the_Adversary.md",
+    "source": "B3C24_EN.md",
+    "title": "La Lógica del Adversario"
+  },
+  {
+    "n": 26,
+    "file": "26_The_Unlikely_Scouts.md",
+    "source": "B3C25_EN.md",
+    "title": "Los Exploradores Improbables"
+  },
+  {
+    "n": 27,
+    "file": "27_The_World_That_Was.md",
+    "source": "B3C26_EN.md",
+    "title": "El Mundo Que Fue"
+  },
+  {
+    "n": 28,
+    "file": "28_The_Concordat_of_Ash.md",
+    "source": "B3C27_EN.md",
+    "title": "El Concordato de Ceniza"
+  },
+  {
+    "n": 29,
+    "file": "29_The_Uneasy_Vanguard.md",
+    "source": "B3C28_EN.md",
+    "title": "La Vanguardia Incómoda"
+  },
+  {
+    "n": 30,
+    "file": "30_Whose_Idea_This_Was_Already.md",
+    "source": "B3C28pt5_EN.md",
+    "title": "De Quién Fue la Idea, Al Final"
+  },
+  {
+    "n": 31,
+    "file": "31_What_No_One_Came_Back_For.md",
+    "source": "B3C28pt6_EN.md",
+    "title": "Lo Que Nadie Volvió a Buscar"
+  },
+  {
+    "n": 32,
+    "file": "32_Two_Ways_to_Ruin_a_Man.md",
+    "source": "B3C28pt7_EN.md",
+    "title": "Dos Formas de Arruinar a un Hombre"
+  },
+  {
+    "n": 33,
+    "file": "33_The_Nexus_Path.md",
+    "source": "B3C29_EN.md",
+    "title": "El Sendero del Nexo"
+  },
+  {
+    "n": 34,
+    "file": "34_The_Fleet_of_Dawn_and_Dusk.md",
+    "source": "B3C30_EN.md",
+    "title": "La Flota del Alba y el Ocaso"
+  },
+  {
+    "n": 35,
+    "file": "35_The_War_Against_Nothingness.md",
+    "source": "B3C31_EN.md",
+    "title": "La Guerra Contra la Nada"
+  },
+  {
+    "n": 36,
+    "file": "36_The_Fallens_Debt.md",
+    "source": "B3C31pt5_EN.md",
+    "title": "La Deuda del Caído"
+  },
+  {
+    "n": 37,
+    "file": "37_The_Nexus_of_All_Things.md",
+    "source": "B3C32_EN.md",
+    "title": "El Nexo de Todas las Cosas"
+  },
+  {
+    "n": 38,
+    "file": "38_The_Forge_of_Balance.md",
+    "source": "B3C33_EN.md",
+    "title": "La Forja del Equilibrio"
+  },
+  {
+    "n": 39,
+    "file": "39_The_Final_Confrontation.md",
+    "source": "B3C34_EN.md",
+    "title": "La Confrontación Final"
+  },
+  {
+    "n": 40,
+    "file": "40_The_Sundering_Judgment.md",
+    "source": "B3C35_EN.md",
+    "title": "El Juicio del Cisma"
+  },
+  {
+    "n": 41,
+    "file": "41_The_Quiet_Battlefield.md",
+    "source": "B3C36_EN.md",
+    "title": "El Campo de Batalla Silencioso"
+  },
+  {
+    "n": 42,
+    "file": "42_The_Sovereigns_Farewell.md",
+    "source": "B3C37_EN.md",
+    "title": "La Despedida de los Soberanos"
+  },
+  {
+    "n": 43,
+    "file": "43_The_Unchained_Soul.md",
+    "source": "B3C38_EN.md",
+    "title": "El Alma Desencadenada"
+  },
+  {
+    "n": 44,
+    "file": "44_The_Tempered_Flame.md",
+    "source": "B3C39_EN.md",
+    "title": "La Llama Templada"
+  },
+  {
+    "n": 45,
+    "file": "45_The_Echo_of_Pride.md",
+    "source": "B3C40_EN.md",
+    "title": "El Eco del Orgullo"
+  },
+  {
+    "n": 46,
+    "file": "46_The_Whispering_Dawn.md",
+    "source": "B3C41_EN.md",
+    "title": "El Alba Susurrante"
+  },
+  {
+    "n": 47,
+    "file": "47_The_Final_Verse.md",
+    "source": "B3C42_EN.md",
+    "title": "El Verso Final"
+  },
+  {
+    "n": 48,
+    "file": "48_The_Parting_of_Ways.md",
+    "source": "B3C43_EN.md",
+    "title": "La Separación de los Caminos"
+  },
+  {
+    "n": 49,
+    "file": "49_The_New_Pantheon.md",
+    "source": "B3C44_EN.md",
+    "title": "El Nuevo Panteón"
+  },
+  {
+    "n": 50,
+    "file": "50_What_the_Cube_Found.md",
+    "source": "B3C44pt5_EN.md",
+    "title": "Lo Que Encontró el Cubo"
+  },
+  {
+    "n": 51,
+    "file": "51_The_Door_No_One_Sealed.md",
+    "source": "B3C44pt6_EN.md",
+    "title": "La Puerta Que Nadie Selló"
+  },
+  {
+    "n": 52,
+    "file": "52_The_Silent_Guardians.md",
+    "source": "B3C45_EN.md",
+    "title": "Los Guardianes Silenciosos"
+  }
+]

@@ -1,0 +1,59 @@
+# Capítulo 8 — Un Eco en los Archivos
+
+La propuesta que Mikel había presentado al jefe de departamento tres semanas atrás se leía, sobre el papel, como una continuación natural de su trabajo existente —*Ecos Mitológicos en la Historia Militar Premoderna*, un estudio de las narrativas populares que crecían en torno a campañas reales, el modo en que la leyenda se adhería al hecho hasta que los dos se volvían inseparables—. Era el tipo de título que no levantaba cejas y no requería explicación, el tipo de investigación en la que un hombre podía desaparecer durante meses sin que a nadie se le ocurriera preguntar qué buscaba en realidad. Había elegido las palabras con cuidado, del modo específico y culpable en que un hombre elige una mentira que se propone seguir contándose a sí mismo tanto como a todos los demás.
+
+No estaba, si era honesto con la versión de sí mismo que solo emergía a las dos de la madrugada, investigando ya ecos de guerra. Investigaba algo para lo que todavía no tenía una palabra adecuada —una forma persistente y contradictoria que seguía emergiendo cada vez que dejaba que su mente divagara demasiado lejos del material que se suponía debía enseñar, una sensación de que el juicio con el que soñaba noche tras noche no era la historia completa, solo la parte que había resultado caerle a él—. Se descubría, más mañanas de las que no, sentado en su oficina con una pila de antologías de folclore que no tenían nada que ver con su campo real, persiguiendo una única idea a medio formar por cada cultura que se hubiera molestado alguna vez en escribir algo sobre los hombres y dioses que dispensaban veredictos: que en algún lugar, en algún relato que todavía no había encontrado, el juicio y la misericordia podían no haber sido opuestos en absoluto. Todavía no sabía qué buscaba lo bastante bien como para darle un nombre adecuado. Solo sabía que cuando encontrara el hilo correcto, algo en su pecho —esa misma ausencia vieja y familiar— lo reconocería antes de que su mente lo alcanzara.
+
+---
+
+Encontró la nota al pie un martes, en las profundidades de la colección especial de la universidad, en una sección de los estantes tan rara vez visitada que la bibliotecaria tuvo que consultar un libro de registro en papel solo para localizar el estante. El libro en sí era poco notable —una etnografía impresa de forma privada sobre una cultura isleña, el tipo de proyecto de vanidad académica que se imprimía en ediciones de doscientos ejemplares y luego se olvidaba todo el mundo salvo el patrimonio que lo había financiado—. Mikel lo había sacado casi al azar, siguiendo un rastro de citas tres fuentes alejado de cualquier cosa relevante, y estuvo a punto de devolverlo a su sitio dos veces antes de que su ojo se posara sobre una única línea enterrada en una nota al pie cerca del final del tercer capítulo.
+
+*Los isleños hablan de un herrero del cielo que forjó una espada no de la ira divina, sino de la risa de una estrella.*
+
+La leyó dos veces, y luego una tercera, el vello de los brazos erizándosele de un modo que no tenía nada que ver con el pobre control climático del archivo. El autor había descartado la línea como "disparate fantasioso, probablemente una corrupción de un mito de creación más convencional", y había seguido adelante sin pensarlo dos veces. Mikel no pudo seguir adelante. Se quedó sentado con el libro abierto sobre las rodillas durante lo que se sintió como minutos y resultó, cuando por fin miró el reloj, haber sido la mayor parte de una hora, la luz por los altos ventanales del archivo desplazándose de la mañana a primera hora de la tarde sin que él notara pasarla.
+
+---
+
+Había estado sentado ahí el tiempo suficiente como para que la archivera lo notara. Era alguien a quien conocía sobre todo de vista y con algún gesto ocasional de cabeza en el pasillo —competente, un poco de lengua afilada, el tipo de persona que dirigía los estantes profundos con el cuidado propietario y callado de alguien que consideraba toda la colección al menos en parte responsabilidad suya—. Se detuvo al final de su mesa con un carrito de devoluciones equilibrado sobre una cadera y lo miró un largo momento antes de hablar.
+
+—Lleva sentado con ese mismo libro desde antes de mi hora de almuerzo —dijo—. O es lo más cautivador que tiene esta colección, o se ha quedado dormido con los ojos abiertos. He visto a profesores hacer ambas cosas.
+
+—Folclore comparado —dijo Mikel, lo cual era cierto del modo en que una media verdad es cierta, técnicamente exacto y del todo engañoso—. Estoy siguiendo un rastro de citas para un proyecto nuevo. Resulta que va más hondo de lo que esperaba.
+
+—Folclore comparado. —Ella alzó una ceja, sin creerle del todo y sin querer decirlo del todo abiertamente—. No ha publicado absolutamente nada sobre folclore en nueve años, Ardon. Usted hace asedios. Hace guarniciones condenadas. ¿Está escribiendo una novela en secreto y escondiéndola detrás de una propuesta de beca?
+
+—¿Pensaría peor de mí si así fuera?
+
+—Pensaría que por fin está haciendo algo con sus tardes además de corregir. —Miró el libro propiamente por primera vez, el lomo agrietado y la portada desteñida y manchada de agua, y algo en su expresión viró hacia la curiosidad genuina—. Toda esa sección, honestamente... ya nadie vuelve aquí. Tuve que revisar el registro en papel para encontrarle una signatura, porque ni siquiera está bien en el catálogo digital. La última vez que alguien pidió algo de ese estante fue hace más de veinte años, según el registro, y ni siquiera reconozco el nombre que firmó la salida. Algún investigador visitante, creo. Mucho antes de mi época aquí.
+
+—¿Recuerda qué investigaba?
+
+—Ni idea. El registro solo tiene un nombre y una fecha. Ya nadie escribe *por qué*, ni siquiera entonces. —Se encogió de hombros, ya girándose de vuelta hacia su carrito—. Avíseme si necesita ayuda para encontrar algo más aquí abajo. Es agradable tener una razón para desempolvar una sección que nadie recuerda que existe.
+
+Lo dejó con el detalle del registro asentado de forma extraña en su mente, un pequeño hecho suelto sin uso obvio todavía. No sabía por qué importaba que alguien más hubiera estado alguna vez exactamente donde él estaba de pie, persiguiendo algo en este mismo rincón olvidado del archivo. Lo guardó de todos modos, del mismo modo en que había aprendido a guardar el dolor en su pecho y los sueños que no lograba ubicar —no comprendido, simplemente sostenido, con la teoría callada de que la comprensión terminaría por alcanzarlo si se negaba a soltar nada de ello primero.
+
+---
+
+La nota al pie, una vez que la persiguió como es debido, se abría a un pasaje más largo que casi había pasado por alto en su primera lectura —una descripción, de segunda mano y claramente adornada por generaciones de repetición, de un arma que "juzgaba con gozo irreverente", forjada por un herrero al que los isleños llamaban, en una frase que no se traducía limpiamente, algo más cercano a *el que se ríe de lo que el mundo toma en serio*. Los juicios de la espada, insistía el texto, eran absolutos —ningún criminal contra el que se volviera escapaba jamás a su veredicto— y sin embargo, ni una sola vez, en ninguna versión de la historia que el autor había recogido, había dejado atrás duelo. Solo, extrañamente, alivio. Un peso levantado en vez de una herida infligida.
+
+Era el opuesto preciso y exacto de todo lo que Mikel recordaba del único juicio que había sentido caer sobre su propio cuerpo en un sueño —una lanza de oscuridad pura, de un color equivocado, clavándose en él sin risa alguna en ella, solo una crueldad vieja y paciente. Leyó el pasaje una cuarta vez, tratando de reconciliar los dos, y no pudo. No tenía evidencia de que las dos cosas siquiera estuvieran relacionadas. Solo sabía, con una certeza que todavía no podía justificarle a nadie, y mucho menos a sí mismo, que quería que lo estuvieran.
+
+---
+
+El texto nombraba un lugar antes de agotarse en más especulación que el autor claramente no había confiado lo suficiente como para comprometerse con ella con seguridad: una isla, envuelta en suficiente leyenda contradictoria y mito de navegación como para que el autor hubiera dedicado un párrafo entero simplemente a catalogar las formas en que distintos informantes discrepaban sobre dónde, precisamente, podía encontrarse. Un anciano juraba que se encontraba a tres días de navegación más allá de un arrecife que no aparecía en ningún mapa. Otro insistía en que no podía encontrarse navegando hacia ella en absoluto, solo navegando lejos de otra cosa y dejando que la isla lo encontrara a uno. El autor había tirado la toalla, en una prosa que cargaba la exasperación particular de un académico que había esperado geografía simple y había recibido un acertijo. Turein. Mikel se quedó mirando el nombre hasta que dejó de parecer una colección de letras y empezó a parecer, en cambio, el primer suelo firme que había pisado en semanas. No un mito. No un sentimiento al que no podía ponerle nombre. Un lugar, en un mapa, por poco fiable que ese mapa resultara ser —y en algún sitio al que por fin podría caminar en vez de simplemente quedarse quieto esperando que el próximo sueño le dijera más de lo que le había dicho el último.
+
+Cerró el libro con manos que no estaban del todo firmes, y no lo devolvió al estante.
+
+---
+
+Llamó a la oficina del decano desde la suya antes de poder disuadirse a sí mismo, ensayando la petición dos veces en su cabeza antes de dejarse marcar, y entregó la excusa de investigación de campo que había preparado con una fluidez que lo sorprendió —no porque fuera difícil de decir, sino porque salió sonando, incluso a su propio oído, casi enteramente cierta.
+
+—Turein. —El decano repitió el nombre con el escepticismo llano particular de un hombre que jamás lo había oído antes—. Seré honesto, Ardon, tuve que mirar un mapa dos veces recién para confirmar que existe. ¿Está seguro de que esto vale el presupuesto de viajes del departamento?
+
+—Creo que podría ser la investigación más importante que he hecho en años —dijo Mikel, y escuchó, en la distancia, cuán extraña sonaba la frase saliendo de su propia boca —sincera de un modo que sus habituales reservas académicas jamás se permitían.
+
+Hubo una pausa en la línea, lo bastante larga como para que Mikel se preguntara si la llamada se había cortado. —¿Sabe? —dijo el decano por fin, algo casi más gentil colándose en su voz—, en diez años, jamás le ha pedido a este departamento ni siquiera un solo día libre. Ni por enfermedad, ni por familia, nada. Diez años de asistencia perfectamente puntual, y jamás tuve que pensar en usted faltando a una clase. Así que voy a autorizar el permiso —por supuesto que sí— pero tengo que preguntar, de profesor a profesor y no de decano a facultad por un segundo: ¿está usted realmente bien?
+
+—Estoy bien —dijo Mikel, y escuchó, incluso mientras lo decía, cuán poca convicción cargaban las palabras, del modo en que suena distinta una moneda cuando es falsa, una fracción de tono desviada de la verdad de un modo que no podía nombrarse del todo pero que sin duda podía oírse. El decano no insistió. Mikel sospechó, colgando unos minutos después con el permiso aprobado y un vuelo ya medio reservado en su mente, que la falta de insistencia era su propio tipo de respuesta —una persona más que había notado algo cambiando en él y había decidido, por alguna mezcla de respeto e inquietud, no hacer la pregunta una segunda vez.
+
+Se quedó sentado con el teléfono en la mano un rato más después de que terminara la llamada, mirando el libro viejo todavía abierto en su escritorio en la página de la nota al pie, y se permitió sentir, durante el lapso de exactamente un aliento contenido, algo que no era del todo esperanza y no era del todo miedo, pero se sentaba lo bastante cerca de ambos como para que ya no pudiera distinguir cuál de los dos estaba ganando.

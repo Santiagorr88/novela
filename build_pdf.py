@@ -1,21 +1,43 @@
 #!/usr/bin/env python3
-"""Build an editorial-quality PDF for Book I from the numbered chapter .md files."""
+"""Build an editorial-quality PDF for any book (1-3) from its numbered chapter .md files.
+
+Usage: python3 build_pdf.py <book_num> <LANG>
+  e.g. python3 build_pdf.py 1 EN
+       python3 build_pdf.py 2 ES
+"""
 import json
 import os
 import re
 import subprocess
 import sys
 
-LANG = sys.argv[1] if len(sys.argv) > 1 else "EN"
+BOOK_NUM = sys.argv[1] if len(sys.argv) > 1 else "1"
+LANG = sys.argv[2] if len(sys.argv) > 2 else "EN"
+
 BASE = os.path.dirname(os.path.abspath(__file__))
-SRC_DIR = os.path.join(BASE, LANG)
-OUT_HTML = os.path.join(BASE, f"Libro1_{LANG}.html")
-OUT_PDF = os.path.join(BASE, f"Libro1_{LANG}.pdf")
+BOOK_DIR = os.path.join(BASE, f"Libro{BOOK_NUM}")
+SRC_DIR = os.path.join(BOOK_DIR, LANG)
+OUT_HTML = os.path.join(BOOK_DIR, f"Libro{BOOK_NUM}_{LANG}.html")
+OUT_PDF = os.path.join(BOOK_DIR, f"Libro{BOOK_NUM}_{LANG}.pdf")
 
 SERIES_TITLE = "CHRONICLES OF JUDGMENT" if LANG == "EN" else "LAS CRÓNICAS DEL JUICIO"
-BOOK_LABEL = "Book One" if LANG == "EN" else "Libro Uno"
-BOOK_TITLE = "THE ECHO OF THE SWORD" if LANG == "EN" else "EL ECO DE LA ESPADA"
 TOC_LABEL = "Contents" if LANG == "EN" else "Índice"
+
+BOOK_LABELS_EN = {"1": "Book One", "2": "Book Two", "3": "Book Three"}
+BOOK_LABELS_ES = {"1": "Libro Uno", "2": "Libro Dos", "3": "Libro Tres"}
+BOOK_TITLES_EN = {
+    "1": "THE ECHO OF THE SWORD",
+    "2": "THE FORGOTTEN VOICES",
+    "3": "THE THROBBING VOID",
+}
+BOOK_TITLES_ES = {
+    "1": "EL ECO DE LA ESPADA",
+    "2": "LAS VOCES OLVIDADAS",
+    "3": "EL VACÍO PALPITANTE",
+}
+
+BOOK_LABEL = (BOOK_LABELS_EN if LANG == "EN" else BOOK_LABELS_ES)[BOOK_NUM]
+BOOK_TITLE = (BOOK_TITLES_EN if LANG == "EN" else BOOK_TITLES_ES)[BOOK_NUM]
 
 
 def md_inline(text):
