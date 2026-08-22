@@ -34,7 +34,7 @@ Vepar met her at the perimeter himself, Marea resting across one forearm the way
 
 Vepar studied her a long moment, the same unhurried study she imagined he gave a stretch of open water before deciding whether it was worth crossing. "You want to handle the politics of it."
 
-"I want to make certain the politics don't happen to you without your say in the matter. There's a difference, and I suspect you already know which one you'd rather have." She kept her voice level, offering him nothing that asked to be believed on faith alone — only the plain shape of a trade he could weigh on its own terms. "I'll carry the account back myself. You keep the command. I'll simply make sure the court understands what the command has actually accomplished, instead of guessing at it from a supply ledger."
+"I want to make certain the politics don't happen to you without your say in the matter. Those are two very different fates, and I'd wager you've already decided which one you'd rather have." She kept her voice level, offering him nothing that asked to be believed on faith alone — only the plain shape of a trade he could weigh on its own terms. "I'll carry the account back myself. You keep the command. I'll simply make sure the court understands what the command has actually accomplished, instead of guessing at it from a supply ledger."
 
 "And what does that cost me?"
 

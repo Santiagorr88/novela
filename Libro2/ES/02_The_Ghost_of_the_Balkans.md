@@ -48,7 +48,7 @@ Encontró el tipo de bar que esta ciudad todavía tenía —medio iluminado, med
 
 El hombre dos taburetes más allá ya había pasado bien la sobriedad, el borracho suelto y filosófico de alguien que parecía no tener ningún sitio urgente donde estar y, calculó Arin, todos los motivos para no querer estar lo bastante sobrio como para recordarlo. Había sido soldado alguna vez —se notaba en el modo en que todavía se sentaba, columna recta incluso desplomado, ojos siguiendo la puerta por costumbre mucho después de que el peligro que le había enseñado a hacerlo hubiera desaparecido. Miró a Arin dos veces antes de hablar, la segunda mirada más larga que la primera.
 
-—Tienes esa mirada —dijo el veterano, no del todo a él, no del todo a la sala.
+—Conozco esa mirada fija —dijo el veterano, no del todo a él, no del todo a la sala.
 
 —¿Qué mirada?
 

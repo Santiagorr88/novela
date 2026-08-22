@@ -34,7 +34,7 @@ Vepar la recibió él mismo en el perímetro, Marea descansando sobre un antebra
 
 Vepar la estudió un largo momento, el mismo examen sin prisa que ella imaginó que le daba a una extensión de mar abierto antes de decidir si valía la pena cruzarla. —Quieres manejar la política de esto.
 
-—Quiero asegurarme de que la política no te ocurra a ti sin que tengas voz en el asunto. Hay una diferencia, y sospecho que ya sabes cuál preferirías tener. —Mantuvo la voz nivelada, sin ofrecerle nada que pidiera ser creído solo por fe —solo la forma llana de un trato que él podía sopesar en sus propios términos—. Yo misma llevaré el relato de vuelta. Tú conservas el mando. Simplemente me aseguraré de que la corte comprenda lo que el mando en realidad ha logrado, en lugar de adivinarlo a partir de un libro de suministros.
+—Quiero asegurarme de que la política no te ocurra a ti sin que tengas voz en el asunto. Son dos destinos muy distintos, y apostaría a que ya has decidido cuál preferirías. —Mantuvo la voz nivelada, sin ofrecerle nada que pidiera ser creído solo por fe —solo la forma llana de un trato que él podía sopesar en sus propios términos—. Yo misma llevaré el relato de vuelta. Tú conservas el mando. Simplemente me aseguraré de que la corte comprenda lo que el mando en realidad ha logrado, en lugar de adivinarlo a partir de un libro de suministros.
 
 —¿Y qué me cuesta eso?
 

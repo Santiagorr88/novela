@@ -52,7 +52,7 @@ The chamber did not fall silent all at once. It simply began to, weapon by weapo
 
 "You would take his word over the evidence of your own eyes?" Uriel said. "Over everything we've fought for? Over every soldier we've buried believing the line between Heaven and Hell meant something worth dying for?"
 
-"I would take my own eyes as the evidence," Gabriel said, "because I have looked into them, and I have found nothing in them that resembles a lie." He turned, addressing the wider chamber now rather than Uriel alone. "I am not asking anyone here to simply trust blindly. I am asking this council to weigh what we've just heard honestly, the way we would weigh any testimony brought before us, rather than dismissing it because the shape of the truth happens to be uncomfortable."
+"I would take my own eyes as the evidence," Gabriel said, "because I have looked into Michael's with them, and I have found nothing there that resembles a lie." He turned, addressing the wider chamber now rather than Uriel alone. "I am not asking anyone here to simply trust blindly. I am asking this council to weigh what we've just heard honestly, the way we would weigh any testimony brought before us, rather than dismissing it because the shape of the truth happens to be uncomfortable."
 
 He paused, letting that settle before continuing. "I prayed for my brother's return every day of this war. I never once expected the answer to arrive shaped like this. But an answer that arrives in a shape you didn't expect is not, by that fact alone, a lie. Sometimes it is simply larger than the question you thought you were asking, and it falls to the rest of us to grow large enough to actually receive it."
 

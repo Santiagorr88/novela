@@ -48,7 +48,7 @@ He found the kind of bar this city still had — half-lit, half-empty, the other
 
 The man two stools down was already well past sober, the loose, philosophical drunk of a man who seemed to have nowhere urgent to be and, Arin guessed, every reason not to want to be sober enough to remember it. He'd been a soldier once — it showed in the way he still sat, spine straight even slumped, eyes tracking the door out of habit long after the danger that had taught him to do it was gone. He glanced at Arin twice before he spoke, the second glance longer than the first.
 
-"You've got that look," the veteran said, not quite to him, not quite to the room.
+"I know that stare," the veteran said, not quite to him, not quite to the room.
 
 "What look."
 

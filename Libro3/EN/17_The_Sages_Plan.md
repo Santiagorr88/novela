@@ -12,7 +12,7 @@ Michael took the sanctuary in slowly, unwilling to let its strangeness pass with
 
 Azael settled onto a flat stone at the sanctuary's center, and the other three arranged themselves around him without any visible signal passing between them. Ereloth and Thaeriel each found their places as though returning to something long familiar; Michael simply followed their lead, falling into the open space between them without needing to be told where it was. He studied each of their faces in turn, unhurried, before he finally spoke.
 
-"It has a name," he said, calm in a way that made the words land heavier rather than lighter. "Thamorak. The Throbbing Void." He paused, letting the name settle into the stillness around them. "But it is not an 'it.' It is a 'we.'"
+"It has a name," Azael said, calm in a way that made the words land heavier rather than lighter. "Thamorak. The Throbbing Void." He paused, letting the name settle into the stillness around them. "But it is not an 'it.' It is a 'we.'"
 
 Michael felt the weight of that correction before he understood its full meaning. Azael continued, his voice never rising, never hurrying toward the difficulty of what he was actually saying. "It is the scar tissue of the First Sundering," he said. "The echo of our own unbalanced principles, given enough time and enough neglect to grow past anything we could still recognize as ourselves. Judgment without mercy. Creation without purpose. Justice without compassion." He looked at Thaeriel as he said the first, at Ereloth as he said the second, and let the third settle onto no one in particular, or perhaps onto all three of them equally. "It has grown into a hunger now, cancerous and vast, feeding on everything that once held meaning for us."
 
