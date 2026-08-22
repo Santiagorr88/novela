@@ -260,7 +260,7 @@ Confirmado contra la sinopsis (`prompt_universo.md`, secciones "META NARRATIVE" 
 - `L1/43_Three_Were_Forged.md` *(la profecía entra en escena, sin nombres)*
 - `L1/46_The_Summit.md` *(la figura de la cumbre, deliberadamente sin nombrar — cero nombres propios en el archivo)*
 - `L2/06_Whispers_of_the_Summit.md` *(POV Azael, sin nombrar)*
-- `L2/14_The_Herb_of_Stillness.md` *(Mikel visita al Sabio)*
+- `L2/14_The_Herb_of_Stillness.md` *(⚠️ corrección KG 2026-08-22: NO hay visita de Mikel al Sabio en la prosa — el capítulo es la intervención remota durante el ataque del callejón, par de `L2/06`)*
 - `L2/42_The_Still_Point_of_the_Turning_World.md`, `L2/43_A_Memory_of_Three.md` *(la revelación cuidadosa de Azael)*
 - `L3/10_The_Summits_End.md` *(primer POV directo de Azael; "Azael" liberado como término)*
 - `L3/14_Reading_the_Scars.md`
@@ -428,7 +428,7 @@ Confirmado contra la sinopsis (`prompt_universo.md`, secciones "META NARRATIVE" 
 **Anclas rotativas**: Lyra (centinela), Barachiel (Captain), el guardián sin nombre de Elysia Minor, Seren (piloto novata), Margaret Hollis (bibliotecaria), la archivista, Elena Voss / Dr. Amara Osei / Padre Dominic.
 **Arco**: manifestaciones escaladas del Vacío desde una patrulla fronteriza hasta una nebulosa → revelación de su origen (el choque Michael-Lucifer *dio carácter*, pero la resonancia accidental de las tres armas fue la causa mecánica — jerarquía causal de dos capas, ver riesgo documentado en B3C13) → reintegración como entropía natural → efectos del nuevo equilibrio en el mundo mortal.
 - `L1/30_What_Remains_Unnamed.md` *(la primera mención corrupta, sin nombre)*
-- `L1/43_Three_Were_Forged.md` *("...y si los tres despiertan, ÉL despertará también")*
+- `L1/43_Three_Were_Forged.md` *(la profecía de las tres armas — ⚠️ corrección KG 2026-08-22: la cláusula "si los tres despiertan, ÉL despertará también" NO existe en la prosa de este capítulo ni de ninguno; es herencia del lore file. En prosa, el vínculo armas→Vacío lo establece Azael en `L3/17`)*
 - `L2/50_The_Unaccounted_Variable.md` *(el Enforcer "negado, no muerto")*
 - `L3/02_The_Unraveling.md` *(POV Lyra)*
 - `L3/08_The_Whispering_Scars.md` *(POV Barachiel; muere enviando el aviso)*
@@ -512,7 +512,7 @@ Se agrupan por función (dar primera escena a personajes fichados sin aparicione
 | **Lyra** | Ángel centinela menor | No muere; única superviviente de su puesto (`Libro3/EN/02_The_Unraveling.md`). Sus compañeros **Corym** y **Othiel** son consumidos por el Vacío en ese mismo capítulo | Viva. ⚠️ El repaso final registró un "hilo de Lyra sin recoger" como hallazgo — verificar que la corrección quedó cerrada |
 | **Seren** | Piloto angélica novata | No muere (`Libro3/EN/34_The_Fleet_of_Dawn_and_Dusk.md`) | Viva. Personaje de un solo capítulo, sin arco pendiente |
 | **Margaret Hollis** | Bibliotecaria humana anciana, moribunda | **Muere en `Libro3/EN/43_The_Unchained_Soul.md`** y, bajo el ciclo ya reescrito, **elige** permanecer como espíritu guardián de su biblioteca en vez de descanso o nueva vida | Guardiana consciente de su biblioteca. Es la demostración íntima del nuevo mecanismo del ciclo |
-| **El "Enforcer" de Belial** (sin nombre) + su escuadra (8 soldados) | Fuerza de élite de Belial | **"Denegados", no muertos, en `Libro2/EN/50_The_Unaccounted_Variable.md`** — sin cuerpos, sin esencia recuperable; la piscina de escrutinio se niega tres veces a mostrar el momento | Borrados. Belial nunca averigua qué ocurrió. ⚠️ Hilo abierto: el texto nunca confirma si fue el Vacío o Ereloth |
+| **El "Enforcer" de Belial** (sin nombre) + su escuadra (8 soldados) | Fuerza de élite de Belial | **"Denegados", no muertos, en `Libro2/EN/50_The_Unaccounted_Variable.md`** — sin cuerpos, sin esencia recuperable; la piscina de escrutinio se niega tres veces a mostrar el momento | Borrados. Belial nunca averigua qué ocurrió. ⚠️ Hilo abierto: el texto nunca confirma la causa *(corrección KG 2026-08-22: el candidato en página es el Vacío o **Azael** — la congelación gris de `L2/42-43` —, no Ereloth)* |
 | **Foras** | Commander / Peste Espiritual, bajo Belial | No muere. Debilitado políticamente por la muerte de Malthus (`Libro2/EN/28`, `Libro2/EN/29`) | Vivo. Marchando una cuarta vez sobre la fortaleza vacía de Belial y fracasando una cuarta vez (`Libro3/EN/50`, `Libro3/EN/51`) — hundido en el dogma |
 | **Vepar** | Commander / Control Marítimo, bajo Belial (masculino, translúcido, tridente *Marea*) | No muere. Negocia con Gabriel (`Libro3/EN/24`), construye confianza real con Camael (`Libro3/EN/29`) | Vivo y ascendente. Rehúsa competir por el trono vacío de Belial, ocupado con la flota y su lealtad a comandantes angélicos (`Libro3/EN/49`, `Libro3/EN/51`) |
 | **Camael** | Commander / Fuerza Pura, espada *Ramiel* | No muere. Entrega su Lágrima de Fe (un guardapelo) en `Libro3/EN/23_The_Tear_of_Faith.md` | Vivo. Ordena la retirada gemela con Vepar (`Libro3/EN/41`); su arco fue explícitamente cerrado tras detectarse "sin cierre" en el repaso final |

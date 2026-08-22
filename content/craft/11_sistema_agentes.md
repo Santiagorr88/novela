@@ -82,6 +82,6 @@ Por eso la plantilla de ficha (03) tiene el campo **"Forma de hablar"** como obl
 - ✅ Memoria compartida de hilos y vida/muerte: `design_notes/2026-08-22_coherence_audit_thread_map.md`
 - ✅ Fichas centralizadas: `content/lore/personajes.md` (registro + perfiles)
 - ✅ Patrón coordinador + especialistas paralelos: probado en las tres auditorías de 2026-08
-- ⏳ Grafo de conocimiento sistemático: no existe todavía como documento — **construirlo es prerequisito recomendado antes de escribir Saga II** (y opcionalmente retro-construirlo para la trilogía como pasada de auditoría del área 11 de `10_auditoria_editorial.md`)
+- ✅ Grafo de conocimiento: **construido el 2026-08-22** — `content/lore/grafo_conocimiento.md` (27 hechos, 5 dominios, informes de detalle en `design_notes/2026-08-22_kg*.md`). Resultado de la retro-construcción: 1 violación firme (Turein) + 2 errores de memoria de proyecto corregidos. Mantenerlo vivo según sus reglas al escribir obra nueva
 - ⏳ Grafo de relaciones explícito: hoy está implícito en `personajes.md`; formalizarlo cuando el elenco de la obra nueva lo pida
 - ⏳ Fichas de voz por personaje A/B: los rasgos existen dispersos en la prosa; consolidarlos en las fichas al empezar obra nueva
