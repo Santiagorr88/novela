@@ -20,7 +20,7 @@ The figure's gaze moved to him, unhurried, and something in its expression — A
 
 ---
 
-"One to suffer." The figure turned, slow and deliberate, toward Mikel, and Mikel felt his own breath catch at the plain, unhurried certainty in its gaze. "One to create." It didn't finish the third line with a gesture toward either of them, letting the words trail instead toward the wider dark of the corridor beyond, toward everything neither man could see from where they stood.
+"One to suffer." The figure's attention didn't settle on either man this time — it turned instead toward the wider dark of the corridor beyond, the same place its gaze would rest a moment later for the line that followed. "One to create." Neither word came with a gesture toward Mikel or Arin, and Mikel felt the absence of that certainty almost as unsettling as Arin's had been a moment ago — two roles spoken into the dark for someone neither of them yet knew.
 
 ---
 

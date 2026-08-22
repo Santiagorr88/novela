@@ -20,7 +20,7 @@ La mirada de la figura se desplazó hacia él, sin prisa, y algo en su expresió
 
 ---
 
-—Uno para sufrir. —La figura se giró, lenta y deliberada, hacia Mikel, y Mikel sintió que se le cortaba el aliento ante la llana y sin prisas certeza de su mirada—. Uno para crear. —No terminó la tercera línea con un gesto hacia ninguno de los dos, dejando las palabras arrastrarse en cambio hacia la oscuridad más amplia del corredor más allá, hacia todo lo que ninguno de los dos hombres podía ver desde donde estaban.
+—Uno para sufrir. —La atención de la figura no se posó esta vez en ninguno de los dos hombres; se volvió en cambio hacia la oscuridad más amplia del corredor, el mismo punto donde descansaría su mirada un momento después, para la línea que seguía—. Uno para crear. —Ninguna de las dos palabras vino acompañada de un gesto hacia Mikel o hacia Arin, y Mikel sintió la ausencia de esa certeza casi tan inquietante como lo había sido la de Arin un momento antes: dos papeles pronunciados hacia la oscuridad, para alguien que ninguno de los dos conocía todavía.
 
 ---
 

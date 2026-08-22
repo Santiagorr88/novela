@@ -1,8 +1,9 @@
-# CHRONICLES OF THE SUNDERING JUDGMENT — UNIVERSE & LORE (UNIFIED HOUSE STYLE)
+# CHRONICLES OF JUDGMENT — UNIVERSE & LORE (UNIFIED HOUSE STYLE)
 
-Universe Title: Chronicles of the Sundering Judgment
+Series Title (official, both languages): *Chronicles of Judgment* / *Las Crónicas del Juicio* — decided 2026-08-21, applied to both published covers (`Libro1/Libro1_EN.pdf`, `Libro1_ES.pdf`). The earlier working name "Chronicles of the Sundering Judgment" is retired as the outer/marketing title — do not use it on covers, back matter, or synopses.
+> **Internal terminology is unaffected**: "The Sundering Judgment" remains the in-story name of the trilogy's climactic event (the compiled Book III's Chapter 40, source file `B3C35`/`Libro3/EN/40_The_Sundering_Judgment.md`, Spanish "El Juicio del Cisma"). Never rename that chapter or the event itself — only the saga's outer title changed.
 Genre: Theological high-fantasy • Metaphysical epic • Apocalyptic mystery
-Narrative Scope: Epic trilogy (Book I: B1C01–B1C28 • Book II: B2C01–B2C40 • Book III: B3C01–… Finale)
+Narrative Scope: Epic trilogy — 159 chapter-units across three books. Internal authoring/continuity codes reset per book (B1C01…, B2C01…, B3C01…) and are what this document and the lore trackers reference throughout. The *published* reading order is a separate, derived layer: `Libro1/EN` (54 chapters), `Libro2/EN` (53), `Libro3/EN` (52) — sequentially renumbered "Chapter N" files built from these same source chapters via each book's `_manifest.json`, interleaving the internal core chapters with their lettered/`pt#` interludes in true reading order.
 
 # GLOBAL GENERATION DIRECTIVE — SINGLE HOUSE STYLE ACROSS THE TRILOGY
 - Maintain ONE consistent narrative voice in all three books.
@@ -63,7 +64,7 @@ DIALOGUE & SUBTEXT
 
 
 ## 📚 META NARRATIVE – CORE TRILOGY ARC  
-**Series Title:** *Chronicles of the Sundering Judgment*
+**Series Title:** *Chronicles of Judgment* / *Las Crónicas del Juicio* (see official title note at top of file)
 
 > The trilogy explores the collapse of a cosmic order built on judgment, reincarnation, and obedience. When three ancient beings—**The Forgotten**—resurface, their ancestral weapons (*Solmire*, *Lament*, and *Aetheris*) reawaken a truth that predates divine law: **absolute judgment destroys as much as it protects**. Their return reopens wounds from the first celestial war and triggers the rise of **Thamorak**, the embodiment of imbalance. Across three volumes, divine structures unravel, and a new path toward redemption must be forged.
 
@@ -464,7 +465,7 @@ A tomb sealed by paradox: the more you resist its pull, the deeper you fall into
 
 ---
 
-### 🌫️ Valley Inverted  
+### 🌫️ Inverted Valley  
 **Type:** Entropic anomaly  
 **Location:** Between Planes—Reality Failure Zone
 
@@ -489,7 +490,7 @@ A reverse-gravity expanse where cause and effect unravel. Trees grow upside down
 2. Solmire was created by Ereloth out of pure, undirected joy — not as a joke aimed at anyone or anything, and not in anger at the Judgment.  
 3. Aetheris is broken; Azael must rebuild it to seal or balance Thamorak.  
 4. The Forgotten are proto-archangels whose war shattered Heaven and Hell.  
-5. Thamorak is the result of that rupture: sum of extremes, incarnation of imbalance.
+5. Thamorak has a two-layer cause, both required: the accidental resonance of all three ancestral weapons is the *mechanical* cause; the Michael–Lucifer duel that triggers it only gives it character/shape, it does not cause it alone. Neither Michael nor Lucifer "caused" Thamorak individually — no character carries a prior guardian/wildcard role toward it, and Michael specifically learns of Thamorak's existence for the first time in `Libro3/EN/17_The_Sages_Plan.md`. *(Corrected 2026-08-22 — the earlier "sum of extremes" framing was imprecise enough that it produced a real prose contradiction in `Libro3/EN/22_A_Council_of_War_and_Faith.md`, which had assigned Michael a pre-existing containment role; flagged for a prose fix separately.)*
 
 ---
 
@@ -512,17 +513,18 @@ A reverse-gravity expanse where cause and effect unravel. Trees grow upside down
 >
 > **Strict pacing rule**: the reader must not learn any of this before the specific chapter where a given Forgotten is actually revealed. Before that chapter, only extremely light, trivial-seeming mentions are allowed — details a reader could brush past without suspecting anything (e.g. a stray phrase, a background detail), never anything that reads as a planted clue. If a line feels like foreshadowing on a first read, cut it or push it later.
 
-- How did Belial acquire Thaeriel’s weapon?  
-- Who truly forged the ancestral weapons? *(known to us: Trilogy Mysteries #1-3 and each Forgotten's profile — this entry tracks reader-reveal timing only)*  
-- Why do some humans reincarnate faster than others?  
-- What lies beyond the cycle? Who designed it?  
-- Who placed the seals on the Tower of the Eternal?  
-- What is the “laughter” that forged Solmire?  
-- Who was the demon commander who sacrificed himself?  
-- What events led to the final battle?  
-- Did anyone suspect the Forgotten's return?
-- Michael’s dreams in his human form?  
-- How is the reincarnation system explained in-universe?
+> **Status update (2026-08-22)**: the trilogy is now fully written (159 chapters, all 3 books), so this list's original purpose — gating what a *future* chapter is allowed to reveal — is largely moot. Verified against the finished prose:
+
+- ✅ How did Belial acquire Thaeriel's weapon? — paid off (`Libro1/EN/16-21`, the Lament arc).
+- ✅ Who truly forged the ancestral weapons? — paid off per book (Trilogy Mysteries #1-3, each Forgotten's profile).
+- ✅ What is the "laughter" that forged Solmire? — paid off (`Libro3/EN/01_The_Divine_Jester.md` and after).
+- ✅ Did anyone suspect the Forgotten's return? — paid off (Belial senses "something ancient" from Book I on).
+- ✅ Michael's dreams in his human form? — paid off, recurring thread from `Libro1/EN/54` through Book II.
+- ✅ What events led to the final battle? / How is the reincarnation system explained in-universe? — covered, diffused across the text rather than one reveal scene.
+- ⚠️ **"Who placed the seals on the Tower of the Eternal[s]?"** — the location is real and used (`Libro1/EN/06`, `/13`, `Libro2/EN/17`, correct name is plural: **"Tower of the Eternals"**), but nothing in any of those chapters treats it as *sealed* — it's an archive of records Belial consults and Gabriel later investigates. The "seals" framing never made it into prose. Reword or drop this entry; it doesn't match what got written.
+- ⚠️ **"Who was the demon commander who sacrificed himself?"** — almost certainly refers to the commander who "thrown himself between the final blow and the throat it was meant for" in `Libro1/EN/54` — but that's **Jeremiel**, Camael's captain, who is angelic, not demonic (confirmed in the death registry, `design_notes/2026-08-22_coherence_audit_thread_map.md`). This entry is either a stale mismatch from early brainstorming or was never meant to point at Jeremiel — needs a decision, not a mechanical fix.
+- ❌ **"Why do some humans reincarnate faster than others?"** — genuinely never addressed on-page anywhere in the 159 chapters (confirmed by full-corpus search). Not a pacing gap, an actual gap: either cut it as an abandoned worldbuilding thread, or keep it as a deliberate open hook for a possible Saga II.
+- **"What lies beyond the cycle? Who designed it?"** — partially covered (the cycle's origin as post-First-Sundering containment is stated as fact in "Reincarnation Cycle" above), but "what lies beyond it" specifically is never explored on-page. Same choice as the item above: cut, or keep as a Saga II hook.
 
 ---
 

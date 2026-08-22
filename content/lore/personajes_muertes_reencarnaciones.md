@@ -2,7 +2,9 @@
 
 Documento vivo — registro de qué personaje del elenco ya fichado (capitanes, comandantes, líderes de escuadra) muere, cuándo, y su arco de reencarnación si aplica. Todos los personajes usados aquí ya tenían ficha en `prompt_universo.md`, ninguno es invención nueva — solo se activan sus arcos.
 
-## Nael — primer caso, piloto de la subtrama de reencarnación
+> ⚠️ **SUPERADO (2026-08-22)**: la subtrama de Nael/"Nathaniel Vale" que sigue a continuación **nunca se escribió**. En la prosa aprobada (`Libro1/EN/05_Solmires_Judgment.md`), Nael es herida en Zaphor'el y **sanada por Raphael — sobrevive explícitamente** ("Word of Nael's survival had already spread"). "Nathaniel" no aparece en ninguno de los 159 capítulos de la trilogía. Esto se detectó como contradicción real durante la auditoría de coherencia narrativa de 2026-08-22 (`design_notes/2026-08-22_coherence_audit_thread_map.md`, Hallazgo #1). El plan de abajo queda como registro histórico de una idea descartada — **no citarlo como canon**. Si se quiere retomar la subtrama de reencarnación de Nael en el futuro, tendría que escribirse desde cero, ya que la prosa actual la cierra con ella con vida.
+
+## Nael — primer caso, piloto de la subtrama de reencarnación (plan descartado, ver nota arriba)
 
 **Ficha original**: Squad Leader / Battle Motivation, bajo Jeremiel (Captain) → Camael (Commander). *"Purpose turns fear into fire."* Arma: *Coragio*, guantelete que contagia motivación con cada golpe. Personalidad: alentador, audaz, inquebrantable bajo presión.
 
