@@ -24,6 +24,8 @@
 | 7 | [07_descripcion.md](07_descripcion.md) | Los cinco sentidos, adjetivos y adverbios, dosificación |
 | 8 | [08_tiempo_narrativo.md](08_tiempo_narrativo.md) | Duración (elipsis, resumen, escena, pausa, digresión), orden, anacronías |
 | 9 | [09_espacio.md](09_espacio.md) | Marco, objetos, percepción sensorial del espacio |
+| 10 | [10_auditoria_editorial.md](10_auditoria_editorial.md) | Protocolo de auditoría completa: regla fundamental (error real vs. decisión estilística), sistema de gravedad, 11 áreas con su estado en la trilogía, ficha por capítulo, protocolo por bloques, informe final con puntuación |
+| 11 | [11_sistema_agentes.md](11_sistema_agentes.md) | Arquitectura multiagente (especialistas + coordinador, 3 fases), subsistema de personajes con niveles A/B/C/D, y las tres bases compartidas: biblia de personajes, grafo de relaciones, grafo de conocimiento |
 
 ## Cómo usar esta carpeta
 
