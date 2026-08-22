@@ -88,7 +88,7 @@ Azael's eyes were wide now, pale and searching, taking in a world that had gone 
 
 Later, when the hum of the hall's small labors had settled into something almost like peace, Gabriel withdrew alone to a side chapel and let his back slide down a cracked column until the stone took his weight.
 
-He let the pain move through him — the physical kind, and the other kind, the kind with no wound to point to. He closed his eyes and saw the spear again, that ancient vibration under Miguel's last strike, a resonance that had not felt infernal so much as *stolen*. He made himself a promise disguised as a note: find out what that weapon is. Find out where it came from before it finds its way back here.
+He let the pain move through him — the physical kind, and the other kind, the kind with no wound to point to. He closed his eyes and saw the spear again, that ancient vibration under Miguel's last strike, a resonance that had not felt infernal so much as *stolen*. He made himself a promise disguised as a note: find out the rest of what that weapon is — who had forged it, and why. Find out where it came from before it finds its way back here.
 
 He pressed his forehead to the cold marble.
 
@@ -110,13 +110,13 @@ The man in the hammock watched him pass at a distance, and something crossed his
 
 "Well, well…" he murmured, to no one, tasting the words before he let them go. "Who'd have thought you'd end up here."
 
-The young man never heard it. He was too far down the shoreline, too far inside his own head, chasing a thought that had surfaced with the last wave and was already receding with the next, to notice he was being watched at all.
+The young man was too far down the shoreline to hear him, too far inside his own head, chasing a thought that had surfaced with the last wave and was already receding with the next, to notice he was being watched at all.
 
 The man in the hammock took a slow sip from his glass, still watching the white-haired figure grow smaller down the shoreline, and let the rest of the thought finish on its own, quiet and amused and entirely for himself.
 
-"I suppose," he said, to no one, "it's time to get back in the game."
+"I suppose it's time to get back in the game," he added.
 
-The young man never heard that either. The distance between them held, unbroken, the whole length of the beach. The sky flickered, once, far out past the water. A gull cried somewhere in the distance.
+The distance between them held, unbroken, the whole length of the beach. The sky flickered, once, far out past the water. A gull cried somewhere in the distance.
 
 **The End of Book One.**
 

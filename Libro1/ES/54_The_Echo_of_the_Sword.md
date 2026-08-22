@@ -88,7 +88,7 @@ Los ojos de Azael estaban ahora bien abiertos, pálidos y buscando, tomando en s
 
 Más tarde, cuando el zumbido de las pequeñas labores del salón se había asentado en algo casi parecido a la paz, Gabriel se retiró solo a una capilla lateral y dejó que su espalda resbalara por una columna agrietada hasta que la piedra sostuvo su peso.
 
-Dejó que el dolor lo atravesara —el tipo físico, y el otro tipo, el que no tiene herida que señalar—. Cerró los ojos y volvió a ver la lanza, aquella vibración antigua bajo el último golpe de Miguel, una resonancia que no se había sentido infernal tanto como *robada*. Se hizo a sí mismo una promesa disfrazada de anotación: averiguar qué es esa arma. Averiguar de dónde vino antes de que encuentre el camino de vuelta hasta aquí.
+Dejó que el dolor lo atravesara —el tipo físico, y el otro tipo, el que no tiene herida que señalar—. Cerró los ojos y volvió a ver la lanza, aquella vibración antigua bajo el último golpe de Miguel, una resonancia que no se había sentido infernal tanto como *robada*. Se hizo a sí mismo una promesa disfrazada de anotación: averiguar el resto de lo que era esa arma —quién la había forjado, y por qué—. Averiguar de dónde vino antes de que encuentre el camino de vuelta hasta aquí.
 
 Presionó la frente contra el mármol frío.
 
@@ -110,12 +110,12 @@ El hombre de la hamaca lo vio pasar a distancia, y algo cruzó su rostro que era
 
 —Vaya, vaya... —murmuró, para nadie, saboreando las palabras antes de dejarlas ir—. Quién habría pensado que terminarías aquí.
 
-El joven jamás lo oyó. Estaba demasiado lejos por la orilla, demasiado dentro de su propia cabeza, persiguiendo un pensamiento que había salido a la superficie con la última ola y ya se retiraba con la siguiente, como para notar siquiera que lo observaban.
+El joven estaba demasiado lejos por la orilla como para oírlo, demasiado dentro de su propia cabeza, persiguiendo un pensamiento que había salido a la superficie con la última ola y ya se retiraba con la siguiente, como para notar siquiera que lo observaban.
 
 El hombre de la hamaca tomó un sorbo lento de su vaso, todavía observando a la figura de cabello blanco empequeñecerse por la orilla, y dejó que el resto del pensamiento se completara solo, callado y divertido y por completo para sí mismo.
 
-—Supongo —dijo, para nadie— que es hora de volver al juego.
+—Supongo que es hora de volver al juego —añadió.
 
-El joven tampoco oyó eso. La distancia entre ambos se mantuvo, ininterrumpida, a lo largo de toda la playa. El cielo parpadeó, una vez, muy lejos más allá del agua. Una gaviota chilló en algún lugar a la distancia.
+La distancia entre ambos se mantuvo, ininterrumpida, a lo largo de toda la playa. El cielo parpadeó, una vez, muy lejos más allá del agua. Una gaviota chilló en algún lugar a la distancia.
 
 **Fin del Libro Uno.**
