@@ -8,7 +8,7 @@ Banners hung at half their old height, not from ceremony but because there was n
 
 In what remained of his quarters, Camael was not attending the council. He had been asked twice; he had answered twice; he had not moved.
 
-He sat on an overturned shield, a whetstone in one hand and a stranger's sword in the other — Jeremiel's short blade, *Diké*, still notched from the last front it had ever held. Camael drew the stone along the edge with the same unhurried rhythm he used on his own weapons before a campaign, though this blade would see no more campaigns and both of them knew it. He had already cleaned the armor of eleven soldiers who had not come back. This was the twelfth piece, and the one he had saved for last.
+He sat on an overturned shield, a whetstone in one hand and a stranger's sword in the other — Jeremiel's short blade, *Diké*, still notched from the last front it had ever held. Camael drew the stone along the edge with the same steady, practiced rhythm he used on his own weapons before a campaign, though this blade would see no more campaigns and both of them knew it. He had already cleaned the armor of eleven soldiers who had not come back. This was the twelfth piece, and the one he had saved for last.
 
 A runner found him there. "Commander. They're waiting for you in the hall."
 

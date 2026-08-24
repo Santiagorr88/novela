@@ -6,15 +6,15 @@ He stood over the tactical map a long moment before Vepar's arrival, studying th
 
 He had told Michael, not long ago, that he fought for home rather than dogma. Standing here now, waiting on an enemy commander he was about to ask his own soldiers to trust, at least provisionally, he found the distinction mattered more than it ever had before. Dogma would have kept him on the far side of this canvas divide, arguing principle instead of terrain. Home required him to actually win the war, whatever uncomfortable alliances that turned out to cost him along the way.
 
-He heard Vepar's approach before he saw him, footsteps deliberate on the packed earth outside, unhurried in the same way Camael had come to recognize across three prior meetings on opposing sides of a battlefield gap. This would be their fourth. It would also, he understood, be the first where neither of them was trying to kill the other.
+He heard Vepar's approach before he saw him, footsteps deliberate on the packed earth outside, in the same even rhythm Camael had come to recognize across three prior meetings on opposing sides of a battlefield gap. This would be their fourth. It would also, he understood, be the first where neither of them was trying to kill the other.
 
-He had spent the better part of the morning preparing for this meeting the same way he prepared for any engagement — studying what little his own scouts had gathered on the marshal's tactics, weighing the man's known patience against his own, deciding in advance which concessions he could actually afford to make before the negotiation forced his hand into making worse ones. None of that preparation had accounted for the particular strangeness of standing here now, waiting to argue strategy rather than swing a blade, with an enemy he'd twice already met across open ground and once watched share his own unshaped dread at something neither of their armies could touch.
+He had spent the better part of the morning preparing for this meeting the same way he prepared for any engagement — studying what little his own scouts had gathered on the marshal's tactics, weighing the man's known patience against his own, deciding in advance which concessions he could afford to make before the negotiation forced his hand into making worse ones. None of that preparation had accounted for the particular strangeness of standing here now, waiting to argue strategy rather than swing a blade, with an enemy he'd twice already met across open ground and once watched share his own unshaped dread at something neither of their armies could touch.
 
 "Commander," Vepar said, stepping through the seam where gold and red light met, his trident resting easy across one forearm.
 
-"Marshal," Camael answered, and gestured toward the map without further ceremony. Whatever this alliance required of either of them, he had no intention of wasting it on pleasantries he doubted either of them actually valued.
+"Marshal," Camael answered, and gestured toward the map without further ceremony. Whatever this alliance required of either of them, he had no intention of wasting it on pleasantries he doubted either of them valued.
 
-He noted, watching Vepar cross the last stretch of canvas floor toward him, that the demon carried none of the ceremony Camael had half braced himself for after years of hearing Hell's commanders described in council briefings as creatures of spectacle and threat. Vepar simply walked, unhurried and unadorned, and set the butt of his trident lightly against the ground beside the map table, the gesture carrying more quiet authority than any display could have managed.
+He noted, watching Vepar cross the last stretch of canvas floor toward him, that the demon carried none of the ceremony Camael had half braced himself for after years of hearing Hell's commanders described in council briefings as creatures of spectacle and threat. Vepar simply walked, unadorned, and set the butt of his trident lightly against the ground beside the map table, the gesture carrying more quiet authority than any display could have managed.
 
 ---
 
@@ -30,23 +30,23 @@ Vepar studied the map a moment before answering, tracing the marked sectors with
 
 ---
 
-Camael held Vepar's gaze across the map, watching the demon's translucent features for whatever reaction his own words had actually landed, and found nothing there but the same unbothered stillness Vepar had apparently brought to every exchange between them so far. He had expected mockery, or at least the particular contempt he'd heard described in every report filed on Hell's commanders. He found instead something closer to genuine disagreement, delivered without theater, and understood that this particular fight would need to be won on the argument's own merits rather than on whatever moral high ground he might otherwise have assumed came free with it.
+Camael held Vepar's gaze across the map, watching the demon's cold, glass-still face for whatever reaction his own words had landed, and found nothing there but the same unbothered stillness Vepar had apparently brought to every exchange between them so far. He had expected mockery, or at least the particular contempt he'd heard described in every report filed on Hell's commanders. He found instead something closer to genuine disagreement, delivered without theater, and understood that this particular fight would need to be won on the argument's own merits rather than on whatever moral high ground he might otherwise have assumed came free with it.
 
 "The innocent die every day," Vepar said, his voice carrying none of the heat Camael had braced himself for. "They have died every day since long before either of our courts existed, in numbers your wall will do nothing to change. Your sentimentality is a weakness that will get us all consumed, Commander, and I would rather insult you now than bury you later for the sake of a courtesy neither of us actually needs."
 
 "It isn't sentimentality to refuse a strategy that treats soldiers as bait," Camael said. "I've buried enough good soldiers already without volunteering more of them as a lure for something we don't even fully understand yet."
 
-"And I've buried more of mine than you have years in your current command," Vepar answered, flat and unhurried. "Grief is not a strategy. It's a luxury neither side can currently afford."
+"And I've buried more of mine than you have years in your current command," Vepar answered, flat and even. "Grief is not a strategy. It's a luxury neither side can currently afford."
 
 "Then tell me what you'd actually call it, when the strategy you're proposing spends soldiers as deliberately as mine tries to spare them," Camael said. "Because from where I'm standing, that's not efficiency. That's just grief, dressed up in colder language."
 
 ---
 
-Vepar watched the words land, expecting the reaction he'd have gotten from nearly any other angelic officer he'd crossed swords with across the long centuries of this war — a raised voice, an offended tone, a hasty retreat into doctrine for its own sake. Camael offered him none of it. The man simply stood there, jaw set, weighing the accusation with the same unhurried care he'd apparently brought to every other point of this exchange, and Vepar found himself recalibrating, somewhere in that silence, exactly how much of his own opening position he actually still wanted to defend.
+Vepar watched the words land, expecting the reaction he'd have gotten from nearly any other angelic officer he'd crossed swords with across the long centuries of this war — a raised voice, an offended tone, a hasty retreat into doctrine for its own sake. Camael offered him none of it. The man simply stood there, jaw set, weighing the accusation with the same deliberate care he'd apparently brought to every other point of this exchange, and Vepar found himself recalibrating, somewhere in that silence, how much of his own opening position he still wanted to defend.
 
-Camael said nothing for a long moment, and Vepar let the silence hold rather than fill it himself, curious, in a way he hadn't expected to be walking into this tent, to see what the angel actually did with the space he'd been given.
+Camael said nothing for a long moment, and Vepar let the silence hold rather than fill it himself, curious, in a way he hadn't expected to be walking into this tent, to see what the angel did with the space he'd been given.
 
-He studied the map again while he waited, tracing the sectors Camael had marked in gold with a more critical eye now that the opening exchange had actually told him something useful about the man across from him. Whatever else this commander was, he wasn't the kind who retreated into doctrine simply because an argument had grown uncomfortable. Vepar had met a great many officers on both sides of this war who folded the moment their first position came under real pressure. This one, he judged, was not going to be one of them, and he found himself, grudgingly, recalculating how much of his own opening demand he'd actually need to defend before this negotiation reached anything resembling a real conclusion.
+He studied the map again while he waited, tracing the sectors Camael had marked in gold with a more critical eye now that the opening exchange had told him something useful about the man across from him. Whatever else this commander was, he wasn't the kind who retreated into doctrine simply because an argument had grown uncomfortable. Vepar had met a great many officers on both sides of this war who folded the moment their first position came under real pressure. This one, he judged, was not going to be one of them.
 
 ---
 
@@ -54,7 +54,7 @@ Camael weighed the argument in the quiet that followed, setting Vepar's cold log
 
 "A compromise, then," Camael said. "We establish a forward shield — a defensible line, not a static one. Your forces use it as a staging ground, striking out from behind it when the opportunity actually presents itself, rather than sacrificing realms wholesale to manufacture that opportunity. We hold. You hit. Neither of us gets everything the other finds distasteful about their own approach."
 
-Vepar considered the revised sector lines a long moment, his translucent features giving nothing further away, the trident shifting once against his forearm as he studied the map's new shape. Camael read something reluctant in the length of that pause, a hesitation the marshal seemed to have no intention of naming aloud. It cost him something visible, Camael thought, watching him weigh it — the particular cost of a man trading the cleaner brutality of his original plan for a shape this compromised.
+Vepar considered the revised sector lines a long moment, his expression giving nothing further away, the trident shifting once against his forearm as he studied the map's new shape. Camael read something reluctant in the length of that pause, a hesitation the marshal seemed to have no intention of naming aloud. It cost him something visible, Camael thought, watching him weigh it — the particular cost of a man trading the cleaner brutality of his original plan for a shape this compromised.
 
 "It will do," Vepar said finally, tapping the map once with two fingers, a gesture that closed the point rather than truly conceding it.
 

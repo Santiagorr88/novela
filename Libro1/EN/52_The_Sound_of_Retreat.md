@@ -8,9 +8,9 @@ The dais itself had fallen entirely silent, aides and tacticians alike frozen in
 
 He had spent this entire war standing at his brother's side rather than ahead of him, content in a role better suited to counsel than to command. Nothing about that arrangement had prepared him, standing here now with every gaze on the dais turned toward him, for a silence this heavy, expecting him alone to fill it.
 
-He allowed himself one long breath before speaking, a private moment he did not intend to share with anyone currently watching him for guidance. His brother was gone from this field, in whatever sense gone actually meant for a soul who had carried Solmire this long. Grieving that fact properly would have to wait. The soldiers filling this dais, and the far larger number still scattered across a dozen collapsing fronts, needed a commander more than they needed a grieving brother, and Gabriel understood which of those two roles this particular moment actually required of him.
+He allowed himself one long breath before speaking, a private moment he did not intend to share with anyone currently watching him for guidance. His brother was gone from this field, in whatever sense gone actually meant for a soul who had carried Solmire this long. Grieving that fact properly would have to wait. The soldiers filling this dais, and the far larger number still scattered across a dozen collapsing fronts, needed a commander more than they needed a grieving brother, and Gabriel understood which of those two roles this particular moment required of him.
 
-Uriel's voice tore through the dais's stunned quiet, his earlier apparent shock giving way, all at once, to a fury that seemed to Gabriel considerably safer for Uriel to feel than grief. "To arms! We will avenge him!"
+Uriel's voice tore through the dais's stunned quiet, his earlier apparent shock giving way, all at once, to a fury that seemed to Gabriel far safer for Uriel to feel than grief. "To arms! We will avenge him!"
 
 Gabriel raised a hand before the command could gather any further momentum, his own authority settling into the vacuum Miguel's fall had just torn open with a certainty he had not expected to feel this quickly. "No," he said, quiet but entirely unshakable. "Look."
 
@@ -40,7 +40,7 @@ He lowered his weapon without further instruction needed, the same silence settl
 
 Rearguards formed without being ordered to form them. The wounded were gathered and carried without a single voice raised in complaint. He fell into step alongside soldiers he had fought beside across this entire campaign, none of them speaking, every face around him wearing what looked to him like the same weight the horn's single note had settled over the entire rank at once. He glanced back once toward the ground they were abandoning, territory he had personally helped hold through engagements bloodier than tonight's collapse, and found he had no particular wish to look back a second time.
 
-They were, the soldier understood, marching backward now as an army that had lost a great deal more than a single battle, and as the disciplined column stretched out ahead of him toward home, he suspected none of them yet knew the full measure of what that loss was actually going to cost.
+They were, the soldier understood, marching backward now as an army that had lost a great deal more than a single battle, and as the disciplined column stretched out ahead of him toward home, he suspected none of them yet knew the full measure of what that loss was going to cost.
 
 Belial approached the fallen sword slowly, too exhausted by the duel's own cost to hurry even toward a prize this significant, Lament's grief still pulsing dully through him with every step he took across the ash-grey plain. He glanced once toward Miguel's motionless form as he crossed the intervening distance, feeling nothing so simple as satisfaction at the sight, only a tired, distant acknowledgment that the war's central obstacle had finally been removed from his path.
 
@@ -60,4 +60,4 @@ He gave the final command once the last soldier had crossed the threshold, and t
 
 He stood there a long while after the sound had finally faded, alone at the threshold of a Bastion whose gates, across its entire history, had never before needed to close against anything. He thought of Miguel, of the brother who would not be walking through those gates behind the rest of them tonight or any night after, and allowed himself, finally, in the privacy this closed courtyard now afforded him, the grief he had spent the entire retreat setting carefully aside.
 
-The silence that settled over the Bastion in the gates' aftermath was heavier and more absolute than any silence Gabriel had known in all his centuries of service, and he felt, standing alone within it, the true weight of exactly what tonight had actually cost them settle in to stay.
+The silence that settled over the Bastion in the gates' aftermath was heavier and more absolute than any silence Gabriel had known in all his centuries of service, and he felt, standing alone within it, the true weight of exactly what tonight had cost them settle in to stay.

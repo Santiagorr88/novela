@@ -40,7 +40,7 @@ Vepar studied her a long moment, the same unhurried study she imagined he gave a
 
 "Very little you'll notice losing." She smiled, and meant enough of it to make the rest convincing. "A few hours of my time, spent talking to people whose good opinion has never once helped you win a battle and never will. I imagine you'd rather I spent those hours than you did."
 
-He was quiet again, and she watched the calculation settle behind his stillness — not suspicion exactly, she judged, but the relief of a man glad to be handed an exit from a room he'd never wanted to enter in the first place. "Handle it, then," Vepar said finally, the words carrying no more weight than he'd have given an order to shift a supply line. "I've a fleet that needs me considerably more than a court does." He turned back toward the anchored ships without ceremony, already done with the conversation, and, she was certain, did not yet see exactly how much he had just handed her.
+He was quiet again, and she watched the calculation settle behind his stillness — not suspicion exactly, she judged, but the relief of a man glad to be handed an exit from a room he'd never wanted to enter in the first place. "Handle it, then," Vepar said finally, the words carrying no more weight than he'd have given an order to shift a supply line. "I've a fleet that needs me far more than a court does." He turned back toward the anchored ships without ceremony, already done with the conversation, and, she was certain, did not yet see exactly how much he had just handed her.
 
 ---
 
@@ -52,7 +52,7 @@ She had not gone twenty paces before Stolas reached him, and the valley carried 
 
 "Stories are the only thing that survives long enough to matter at court, Marshal. You know that better than most of us — you've spent this entire war refusing to bother learning it."
 
-Vepar said nothing further that carried far enough for her to catch, and Stolas didn't press it again. She read the rest from his back rather than his words — a man who had said what he meant to say and decided, apparently, that a captain's doubt had never once changed a marshal's mind about anything that mattered to him less than the sea itself. She kept walking. Whatever Stolas understood about what he'd just watched her do, he understood it alone, and she found she preferred it that way. An unclaimed suspicion cost her nothing — no more than an unclaimed month had cost Vepar, before tonight, anything he'd noticed losing.
+Vepar said nothing further that carried far enough for her to catch, and Stolas didn't press it again. She read the rest from his back rather than his words — a man who had said what he meant to say and decided, apparently, that a captain's doubt had never changed a marshal's mind about anything that mattered to him less than the sea itself. She kept walking. Whatever Stolas understood about what he'd just watched her do, he understood it alone, and she found she preferred it that way. An unclaimed suspicion cost her nothing — no more than an unclaimed month had cost Vepar, before tonight, anything he'd noticed losing.
 
 ---
 
@@ -68,7 +68,7 @@ A murmur moved through the assembled court, appreciative, already reshaping itse
 
 One of the older lords, a thin, suspicious presence near the dais who made a habit of doubting anything that arrived already this polished, was not so easily folded into the murmur. "And Vepar confirms all this himself, Duchess? Or only you?"
 
-"Send a courier to ask him yourself, my lord, if my word doesn't satisfy you." She let the offer sit in the open, unhurried, exactly as certain as it needed to sound. "He'll tell you precisely what I've told you, in fewer words and considerably less patiently. I'd simply rather the throne heard it now than three days from now, filtered through whatever a marshal decides is worth his own time to write down." The old lord held her gaze a moment longer, and whatever he'd been looking for in it, he let it go, settling back into the court's general appetite for a story that had already, by then, decided which shape it preferred to keep.
+"Send a courier to ask him yourself, my lord, if my word doesn't satisfy you." She let the offer sit in the open, exactly as certain as it needed to sound. "He'll tell you precisely what I've told you, in fewer words and considerably less patiently. I'd simply rather the throne heard it now than three days from now, filtered through whatever a marshal decides is worth his own time to write down." The old lord held her gaze a moment longer, and whatever he'd been looking for in it, he let it go, settling back into the court's general appetite for a story that had already, by then, decided which shape it preferred to keep.
 
 ---
 

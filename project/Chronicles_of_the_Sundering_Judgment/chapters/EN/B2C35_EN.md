@@ -6,13 +6,13 @@ Mikel found himself unwilling to be the one who broke the silence first, the pen
 
 Arin stood a short distance off, arms loose at his sides, his own silence carrying a different weight than Mikel's, more exhaustion in it now than caution. He'd spent the last hour running through every threat assessment his training could offer him, and none of them had prepared him for the particular quiet that settled over a man once the actual danger had finally passed. His shoulder still ached where the enforcer's blow had landed, a dull, insistent reminder that tonight had cost him something real, whatever else it had also handed him.
 
-He looked at Mikel across the empty corridor, still catching his own breath, and found, for the first time since he'd first laid eyes on this soft-handed academic, that the sharpest edge of the distrust he'd carried into their first exchange had dulled considerably. He tried, briefly, to summon back the flat, professional wariness that had carried him through a decade of first meetings with strangers considerably less trustworthy than this one. Some of it still answered the call. Enough of it didn't that he no longer read the man across from him as any kind of immediate threat, whatever the last hour had actually settled between them and whatever it hadn't.
+He looked at Mikel across the empty corridor, still catching his own breath, and found, for the first time since he'd first laid eyes on this soft-handed academic, that the sharpest edge of the distrust he'd carried into their first exchange had dulled. He tried, briefly, to summon back the flat, professional wariness that had carried him through a decade of first meetings with strangers far less trustworthy than this one. Some of it still answered the call. Enough of it didn't that he no longer read the man across from him as any kind of immediate threat, whatever the last hour had actually settled between them and whatever it hadn't.
 
 ---
 
-Mikel met his gaze and held it, and something passed between them that neither man tried to put into words — not friendship exactly, not yet, but the particular, cautious respect of two people who had just watched each other prove considerably more than either had expected walking in. Mikel thought of the killer's eyes he'd catalogued in that first frightened glance through the shattered door, and found he could no longer see only that in the man standing across from him now. He thought, too, of the shelving fragment still leaned against the corridor wall behind him, and of the strange, unhesitating certainty with which his own hand had wielded it. Whatever Arin had seen in that moment, watching him fight, Mikel suspected it had changed something in the other man's assessment of him just as thoroughly as tonight had changed his own assessment of Arin.
+Mikel met his gaze and held it, and something passed between them that neither man tried to put into words — not friendship exactly, not yet, but the particular, cautious respect of two people who had just watched each other prove more than either had expected walking in. Mikel thought of the killer's eyes he'd catalogued in that first frightened glance through the shattered door, and found he could no longer see only that in the man standing across from him now. He thought, too, of the shelving fragment still leaned against the corridor wall behind him, and of the strange, unhesitating certainty with which his own hand had wielded it. Whatever Arin had seen in that moment, watching him fight, Mikel suspected it had changed something in the other man's assessment of him just as thoroughly as tonight had changed his own assessment of Arin.
 
-Neither of them moved to close the distance still separating them. It wasn't hostility keeping the space open, Mikel understood, studying the careful set of Arin's shoulders — it was simply the honest recognition that respect earned in a single desperate hour wasn't yet the same thing as trust earned properly, over time, the slower way trust was actually supposed to be built. He found, standing there in the settling quiet with the last of the dust still drifting somewhere behind him, that he didn't mind the distance at all. It felt, if anything, considerably more honest than pretending an hour of shared violence had already settled something that would actually need more than one single night to settle properly.
+Neither of them moved to close the distance still separating them. It wasn't hostility keeping the space open, Mikel understood, studying the careful set of Arin's shoulders — it was simply the honest recognition that respect earned in a single desperate hour wasn't yet the same thing as trust earned properly, over time, the slower way trust was actually supposed to be built. He found, standing there in the settling quiet with the last of the dust still drifting somewhere behind him, that he didn't mind the distance at all. It felt, if anything, more honest than pretending an hour of shared violence had already settled something that would actually need more than one single night to settle properly.
 
 ---
 
@@ -30,7 +30,7 @@ Neither man said anything further for a long moment, letting the admission sit b
 
 "So what now?" Mikel asked, the question carrying less certainty than he'd meant it to.
 
-Arin considered the question longer than its size seemed to warrant. "I need to understand what I actually am before I go looking for whatever's supposed to be mine. There's something out there I've never claimed, not properly, not the way I think I'm meant to. Something that isn't just my own two hands, whatever it turns out to be. I've felt the edges of it before, in fights that should have gone worse than they did, and never once let myself ask why. I'm not ready for it yet. When I am, I'm going to find it."
+Arin considered the question longer than its size seemed to warrant. "I need to know what I am before I go looking for what's supposed to be mine. Something that isn't just my own two hands. I've felt its edges before, in fights that should've gone worse than they did. I'm not ready. When I am, I'll find it."
 
 "That makes two of us," Mikel said. "I keep dreaming about a sword I've never held. I think, before tonight, I'd have told you that was just stress. I'm not sure I believe that anymore. Whatever it is, I don't think I'm ready to go looking for it either. Not without understanding what I'm actually walking toward first. My whole life is built around understanding things properly before I act on them. I don't intend to abandon that now, of all moments."
 
@@ -38,7 +38,7 @@ They stood a moment in the quiet that followed. Neither pushed the other for mor
 
 ---
 
-"For now," Arin said, "I think we walk separate roads. Not because I don't trust you. Because whatever this is, I don't think either of us is ready to carry someone else's half of it yet."
+"For now," Arin said, "we walk separate roads. Not distrust. Just — neither of us is ready to carry the other half of this yet."
 
 Mikel found he agreed, more readily than he expected to. "Separate roads," he repeated. "Same direction, eventually." He offered his hand, an oddly formal gesture given everything the two of them had just survived together, and found Arin took it without hesitation.
 
@@ -78,7 +78,7 @@ Neither man spoke the promise aloud. Standing there in the last of the settling 
 
 ---
 
-Arin turned first, walking back the way he'd come without a final word. His footsteps faded quickly into the dark of the passage behind him, unhurried and even, the same pace he'd have used walking away from any ordinary job. He didn't look back. Looking back, he'd learned across a decade of harder departures than this one, rarely made a parting easier, only longer. Whatever waited at the end of this new search, he'd face it the same disciplined way he faced everything else.
+Arin turned first, walking back the way he'd come without a final word. His footsteps faded quickly into the dark of the passage behind him, measured and even, the same pace he'd have used walking away from any ordinary job. He didn't look back. Looking back, he'd learned across a decade of harder departures than this one, rarely made a parting easier, only longer. Whatever waited at the end of this new search, he'd face it the same disciplined way he faced everything else.
 
 ---
 

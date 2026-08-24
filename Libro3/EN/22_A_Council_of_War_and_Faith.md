@@ -2,7 +2,7 @@
 
 The council chamber held every Archangel Heaven still counted among its ranks, arranged in a wide circle beneath a ceiling that opened onto stars no mortal astronomer had ever charted. Ereloth had stayed behind at the gates, unwilling, he'd said, to spend his considerable charm on an audience that hadn't actually asked for it yet, content to wait and see what this particular room decided before he bothered introducing himself to it. Michael stood at its center instead, Azael a silent, unmoving presence just behind his left shoulder, and let his gaze move once across the assembled faces before he began — Gabriel, composed but watchful; Uriel, arms crossed, Ignis Lux resting unlit against one shoulder; Raphael, hands folded, expression carefully unreadable; a dozen others whose names Michael had once known as easily as his own. More than one gaze in the room caught on the blade resting easy in his grip before it ever settled on his face — Solmire, found at last, and with it a search Orifiel and Laila's people had carried across half a world for longer than either of them had liked admitting, finally, quietly, over.
 
-He had stood in this chamber more times than he could easily count, in ages that no longer felt entirely his to claim, and had never once stood here as anything other than certain. The uncertainty now was its own strange weight, unfamiliar even after everything the last month had taught him to carry. He thought, briefly, of every lecture he'd delivered to a room full of skeptical students who had no idea what they were actually looking at, and found the memory steadied him more than he'd expected it to. He set the uncertainty aside as best he could and began.
+He had stood in this chamber more times than he could easily count, in ages that no longer felt entirely his to claim, and had never stood here as anything other than certain. The uncertainty now was its own strange weight, unfamiliar even after everything the last month had taught him to carry. He thought, briefly, of every lecture he'd delivered to a room full of skeptical students who had no idea what stood at the front of it, and found the memory steadied him more than he'd expected it to. He set the uncertainty aside as best he could and began.
 
 He told them everything. He spoke of the Forgotten — Ereloth, Thaeriel, Azael, never himself among their number, a distinction he made plain and repeated twice to ensure no one in the chamber mistook the shape of it. He spoke of his own long role as guardian and wildcard within the reincarnation cycle, a piece that had never quite belonged to either side of the war cleanly. He spoke of the cycle's true purpose, a cage built with care rather than cruelty, meant to contain rather than punish. And he spoke, last and most carefully, of Thamorak — the echo of an ancient failure neither he nor anyone in the chamber had known existed until his own duel with Lucifer had given the wound its shape, now waking hungry after an age of patient dormancy.
 
@@ -10,7 +10,7 @@ He kept the telling as plain as he could manage, resisting the urge to soften an
 
 Azael said nothing throughout the telling. He simply stood, silent and imposing, his presence alone lending weight to a story that would have sounded, from Michael's voice alone, like the ravings of a man too long removed from sanity to trust. Michael found himself grateful for that silence more than he'd expected to be, a steadying anchor at his back while he laid out a history far larger and stranger than anything this chamber had likely prepared itself to hear.
 
-He watched the council's faces as he spoke, tracking the shift from polite attention to something considerably more uneasy the further into the history he went. He had rehearsed this testimony a dozen times on the road here, in his own head, and found now that none of the rehearsals had adequately prepared him for how it actually felt to say all of it aloud, in this exact room, to these exact faces.
+He watched the council's faces as he spoke, tracking the shift from polite attention to something much more uneasy the further into the history he went. He had rehearsed this testimony a dozen times on the road here, in his own head, and found now that none of the rehearsals had adequately prepared him for how it felt to say all of it aloud, in this exact room, to these exact faces.
 
 ---
 
@@ -20,7 +20,7 @@ He watched the chamber take that in, a dozen expressions shifting through disbel
 
 "I need a tear of your purest faith," he said. "And I need you to prepare your armies to fight alongside the legions of Hell."
 
-The silence that followed lasted only a moment before it broke entirely. Michael had expected the reaction. He had rehearsed several versions of the argument he'd need to make in its aftermath, on the long walk here, weighing which order might land the request most gently. None of the rehearsed versions survived contact with the actual noise now filling the chamber around him.
+The silence that followed lasted only a moment before it broke. Michael had expected the reaction. He had rehearsed several versions of the argument he'd need to make in its aftermath, on the long walk here, weighing which order might land the request most gently. None of the rehearsed versions survived contact with the actual noise now filling the chamber around him.
 
 ---
 
@@ -40,7 +40,7 @@ The chamber held on the edge of something Michael had no clean way to stop, a do
 
 He looked past the immediate danger of it, searching the wider circle for whatever ground still remained to stand on, and found every gaze in the chamber had turned, almost as one, toward a single figure who had not yet spoken a word since Michael's testimony ended.
 
-Gabriel stood very still, his gaze fixed entirely on Michael's face, no part of him turning toward the fire and fury spreading through the chamber around him. Michael held that gaze and offered nothing but the plain, unguarded truth of everything he'd just told this room, nothing performed, nothing softened for easier swallowing.
+Gabriel stood very still, his gaze fixed on Michael's face, no part of him turning toward the fire and fury spreading through the chamber around him. Michael held that gaze and offered nothing but the plain, unguarded truth of everything he'd just told this room, nothing performed, nothing softened for easier swallowing.
 
 "He speaks the truth," Gabriel said finally, his voice carrying clearly through the noise despite its quiet, even register. "I believe him."
 
@@ -60,4 +60,4 @@ Michael watched the chamber's tension shift, not vanishing entirely but loosenin
 
 Raphael was the first to speak into the settling quiet, his voice measured in a way that carried its own particular authority. "If even half of what's been said here is true, this council has larger concerns tonight than settling old scores over who fell and who stayed." He looked toward Michael, something careful and evaluating in his expression, though he offered nothing further to soften or sharpen it. "Let the chamber breathe before it decides anything further. A threat this size deserves more than a shouting match to answer it properly."
 
-A murmur of agreement moved through the chamber, quieter than the fury that had preceded it but no less real for that. Michael felt something in his own chest ease slightly, not victory, not yet, but the first real sign that this council might actually finish hearing him out before deciding what to do with everything he'd brought them. In the careful quiet that followed, he understood he had, for now, been granted exactly the space he'd come here asking for — nothing more, and nothing guaranteed beyond this single, fragile moment of the council actually willing to listen.
+A murmur of agreement moved through the chamber, quieter than the fury that had preceded it but no less real for that. Michael felt something in his own chest ease slightly, not victory, not yet, but the first real sign that this council might finish hearing him out before deciding what to do with everything he'd brought them. In the careful quiet that followed, he understood he had, for now, been granted exactly the space he'd come here asking for — nothing more, and nothing guaranteed beyond this single, fragile moment of the council actually willing to listen.

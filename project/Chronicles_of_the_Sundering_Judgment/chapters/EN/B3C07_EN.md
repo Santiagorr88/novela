@@ -20,7 +20,7 @@ The flood slowed eventually, the way any flood eventually does, leaving behind n
 
 ---
 
-He raised the sword, and the light along its blade caught his attention before anything else did, because it was wrong, in the best possible way, for everything he remembered it being. Solmire's light had always been white before, absolute and cold, a judgment that admitted no argument and left no room for anything softer standing beside it. This light was gold instead, warm at its core, streaked with faint color that shifted as he moved the blade, the same unhurried shift a sky goes through in the last few minutes before a sunrise fully commits to itself.
+He raised the sword, and the light along its blade caught his attention before anything else did, because it was wrong, in the best possible way, for everything he remembered it being. Solmire's light had always been white before, absolute and cold, a judgment that admitted no argument and left no room for anything softer standing beside it. This light was gold instead, warm at its core, streaked with faint color that shifted as he moved the blade, the same slow shift a sky goes through in the last few minutes before a sunrise fully commits to itself.
 
 He held it a long moment, turning the blade slowly to watch the light change, and found himself thinking less about what it could do to an enemy and more about what it seemed to be offering instead. It didn't feel like a weapon anymore, not primarily. It felt like a promise, made to him personally, that whatever came next didn't have to be fought the way he'd once fought everything.
 
@@ -30,7 +30,7 @@ He lowered it slowly, unwilling to let the moment pass without giving it its due
 
 ---
 
-Ereloth's footsteps announced him before his voice did, unhurried across the sand the way he approached most things, his bare feet leaving no mark behind him even now, and Mikel turned to find him watching with an expression that had shed every trace of its usual performance. The easy grin was gone. In its place sat something quieter, something that looked, for the first time since Mikel had met him, entirely without irony.
+Ereloth's footsteps announced him before his voice did, easy and slow across the sand the way he approached most things, his bare feet leaving no mark behind him even now, and Mikel turned to find him watching with an expression that had shed every trace of its usual performance. The easy grin was gone. In its place sat something quieter, something that looked, for the first time since Mikel had met him, entirely without irony.
 
 "There he is," Ereloth said. He said it the way a man says something he's been waiting a long while to be able to say honestly. "Welcome back, brother."
 
@@ -54,10 +54,10 @@ Mikel looked down at the blade again, following Ereloth's attention, and saw wha
 
 ---
 
-They stood together a while longer on the quiet black sand, the storm behind them fully spent, its howling faded to something closer to an ordinary tide against an ordinary shore. Somewhere out past the water, gulls had begun circling again, drawn by whatever ordinary business gulls found worth circling for, entirely unbothered by the fact that a storm the size of a small nation had just finished breaking apart above their heads. Mikel found he wasn't in any particular hurry to leave. He had spent so much of the last month chasing one answer after another, each one leading immediately to the next open question, that the plain fact of having actually arrived somewhere felt worth sitting with a little longer before moving on to whatever came after it.
+They stood together a while longer on the quiet black sand, the storm behind them fully spent, its howling faded to something closer to an ordinary tide against an ordinary shore. Somewhere out past the water, gulls had begun circling again, drawn by whatever ordinary business gulls found worth circling for, unbothered by the fact that a storm the size of a small nation had just finished breaking apart above their heads. Mikel found he wasn't in any particular hurry to leave. He had spent so much of the last month chasing one answer after another, each one leading immediately to the next open question, that the plain fact of having arrived somewhere felt worth sitting with a little longer before moving on to whatever came after it.
 
 "What now?" he asked eventually, breaking the comfortable silence they'd settled into without quite meaning to.
 
 Ereloth looked out at the water, considering the question with more weight than his usual answers carried. "Now you're ready for the part where the real work starts. Thaeriel's still down in the dark, doing his own version of this. And there's a third one waiting on us both, somewhere, whether either of us has actually met him yet or not." He glanced sideways, something almost gentle in it. "But that's tomorrow's problem, brother. Today, you get to just be whole for a while. Let's not rush past that part too quickly. You've earned it."
 
-Mikel nodded, and found, standing there with a sword that finally felt like his own held loosely at his side, that he agreed completely. He sat down on the black sand without any particular ceremony, and after a moment Ereloth joined him, the two of them simply watching the water for a while, saying nothing further, the gulls still circling somewhere out past the last of the retreating clouds. It was, Mikel thought, a strange sort of victory — no fanfare, no cheering crowd, just an ordinary quiet shared with the one person who'd actually understood what today had cost him to reach.
+Mikel nodded, and found, standing there with a sword that finally felt like his own held loosely at his side, that he agreed completely. He sat down on the black sand without any particular ceremony, and after a moment Ereloth joined him, the two of them simply watching the water for a while, saying nothing further, the gulls still circling somewhere out past the last of the retreating clouds. It was, Mikel thought, a strange sort of victory — no fanfare, no cheering crowd, just an ordinary quiet shared with the one person who'd understood what today had cost him to reach.

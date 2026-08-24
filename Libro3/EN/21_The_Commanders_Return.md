@@ -2,13 +2,13 @@
 
 The golden gates of the Celestial City rose ahead of them as the road finally cleared its last rise, catching a light that had no true source and needed none, exactly as Michael remembered them from a life he'd spent so long unable to properly recall. He registered the sight before his mind had finished processing it — not the clean satisfaction of a commander returning to his post, but something closer to grief, sharp and unexpected, grief for every version of himself that had stood at this exact threshold across ages he could barely count.
 
-He had stood here as a young soldier once, certain of every answer the world had ever bothered to ask him. He had stood here again as something older, something wearier, carrying doubts he'd never once admitted to anyone standing near enough to hear them. He stood here now as neither of those men entirely, and neither one fully absent from him either, and found the layered weight of every prior arrival settling into his chest at once, heavier than he'd expected a simple homecoming to feel.
+He had stood here as a young soldier once, certain of every answer the world had ever bothered to ask him. He had stood here again as something older, something wearier, carrying doubts he'd never admitted to anyone standing near enough to hear them. He stood here now as neither of those men entirely, and neither one fully absent from him either, and found the layered weight of every prior arrival settling into his chest at once, heavier than he'd expected a simple homecoming to feel.
 
 He did not approach the way he once would have, shoulders squared, stride certain, a Commander returning to claim what was rightfully his. He walked instead the way a penitent son walks toward a door he has no right to expect will still open for him, humble in a manner that felt, for the first time in longer than he could measure, entirely honest rather than performed.
 
 Azael walked beside him in silence, his presence steady and unreadable, offering nothing that might rush Michael past whatever he needed to feel standing here. Ereloth walked on his other side, whistling some cheerful, entirely inappropriate tune under his breath, and Michael found, despite everything weighing on him, that the absurdity of it steadied him more than solemn silence would have.
 
-He thought, walking the last stretch of road toward those gates, of every version of this homecoming he'd rehearsed in his own head across the long journey here — dignified returns, tearful reunions, cold receptions he'd braced himself against without knowing which one he'd actually face. None of the versions he'd imagined had prepared him for how simply strange it felt to stand here now, mortal memory and ancient rank sitting uneasily together in the same chest, neither one quite willing to let the other lead.
+He thought, walking the last stretch of road toward those gates, of every version of this homecoming he'd rehearsed in his own head across the long journey here — dignified returns, tearful reunions, cold receptions he'd braced himself against without knowing which one he'd face. None of the versions he'd imagined had prepared him for how simply strange it felt to stand here now, mortal memory and ancient rank sitting uneasily together in the same chest, neither one quite willing to let the other lead.
 
 ---
 
@@ -32,21 +32,21 @@ Gabriel took a step closer, close enough now that Michael could see the fine tre
 
 Gabriel's expression flickered at that, something almost like a smile crossing his face before it faded again. "Always efficient," he said. "Even after everything."
 
-Whatever Gabriel might have said next was lost entirely to the sound of approaching wingbeats and armored footsteps, a phalanx of warriors descending on the gate's inner courtyard with a speed that left no room to mistake their purpose. At their head walked a figure Michael recognized immediately by the fire already gathering along the length of his weapon, flame catching and spreading with the particular hunger of something built specifically to consume.
+Whatever Gabriel might have said next was lost to the sound of approaching wingbeats and armored footsteps, a phalanx of warriors descending on the gate's inner courtyard with a speed that left no room to mistake their purpose. At their head walked a figure Michael recognized immediately by the fire already gathering along the length of his weapon, flame catching and spreading with the particular hunger of something built specifically to consume.
 
 ---
 
 Uriel stopped a dozen paces off, his warriors fanning out behind him in a formation that left no ambiguity about their intent, Ignis Lux blazing bright enough now to throw sharp shadows across the courtyard's golden stone. His face held none of Gabriel's uncertain hope, only a mask of cold, absolute fury, weapon already lit before a single word had been exchanged between them.
 
-Michael remembered him from a hundred old briefings, quick to anger and quicker still to act on it, a soldier's soldier who had never once pretended patience was a virtue he particularly valued. He remembered too that this same anger had always arrived alongside a fierce, unwavering defense of whoever Uriel had decided was worth defending — the two had never once shown up separately, in every version of him Michael could recall. That memory, at least, offered him something familiar to hold onto in a courtyard that otherwise felt considerably stranger than he'd braced himself for.
+Michael remembered him from a hundred old briefings, quick to anger and quicker still to act on it, a soldier's soldier who had never pretended patience was a virtue he particularly valued. He remembered too that this same anger had always arrived alongside a fierce, unwavering defense of whoever Uriel had decided was worth defending — the two had never shown up separately, in every version of him Michael could recall. That memory, at least, offered him something familiar to hold onto in a courtyard that otherwise felt stranger than he'd braced himself for.
 
-"Traitor," Uriel said, the word arriving low and hard, more accusation than greeting. "You fell. You are tainted by mortality, and you stand here beside..." His gaze moved to Ereloth and Azael both, contempt sharpening further at whatever he found there. "...things that are not of the Host."
+"Traitor," Uriel said, the word arriving low and hard. "You fell. You are tainted by mortality, and you stand here beside..." His gaze moved to Ereloth and Azael both, contempt sharpening further at whatever he found there. "...things that are not of the Host."
 
 Michael felt Gabriel go rigid beside him, his gaze flicking once toward Uriel and back again without a single word offered in either direction. Michael found he couldn't fault the silence. He would have hesitated too, standing in Gabriel's place with this much uncertainty pressed against a thousand years of hope.
 
 ---
 
-Michael did not reach for Solmire. He simply held Uriel's gaze, steady and unhurried, the way he'd learned to hold a room's attention across nine years of teaching rather than through the old, easy authority of rank alone.
+Michael did not reach for Solmire. He simply held Uriel's gaze, steady, the way he'd learned to hold a room's attention across nine years of teaching rather than through the old, easy authority of rank alone.
 
 "I have not come to fight, Uriel," he said. "I have come to speak a truth that affects all of us — every soldier standing in this courtyard, every soul on either side of a war that has cost this realm more than anyone currently fighting it has properly reckoned with."
 
@@ -66,7 +66,7 @@ Gabriel stepped forward into the space between them before either could speak ag
 
 Uriel's gaze cut toward Gabriel, something old and unresolved flickering behind it, some argument the two of them had clearly had before and never fully settled. Michael watched the exchange pass between his two brothers, one careful and deliberate, one hot and immediate, and found himself witnessing the visible signs of a conflict that had plainly predated his own return by some considerable measure, whatever its actual source turned out to be.
 
-Uriel held his position a long moment, flame still gathered along Ignis Lux's length, his gaze moving once more across Azael's silent stillness and Ereloth's carefully neutral expression before settling back on Michael himself. Michael watched his jaw work once, twice, some private reckoning playing out across features he remembered as being considerably less complicated the last time he'd stood in this exact courtyard.
+Uriel held his position a long moment, flame still gathered along Ignis Lux's length, his gaze moving once more across Azael's silent stillness and Ereloth's carefully neutral expression before settling back on Michael himself. Michael watched his jaw work once, twice, some private reckoning playing out across features he remembered as being less complicated the last time he'd stood in this exact courtyard.
 
 "The council, then," Uriel said finally, the flame along his weapon guttering down, though not extinguishing entirely. "But know this. If what you bring us proves to be the lie I still suspect it is, I will finish what I came here today already prepared to do."
 

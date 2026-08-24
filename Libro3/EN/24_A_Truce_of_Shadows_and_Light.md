@@ -16,11 +16,9 @@ Gabriel's own silver robes stood in stark contrast against that cold, translucen
 
 "Spare me your poetics, Herald," Vepar said, cutting through the sentence without raising his voice at all, the interruption landing with a coldness that needed no volume to carry its full weight. "We are not here to be friends. We are here because a third party is trying to burn down the game board. Let us speak of troop dispositions and kill-zones."
 
-He set the trident down carefully against a fallen column, the gesture deliberate and unhurried despite the bluntness of his words, and gestured toward the low stone table where Gabriel's charts already waited.
+He set the trident down carefully against a fallen column, the gesture deliberate and precise despite the bluntness of his words, and gestured toward the low stone table where Gabriel's charts already waited.
 
 Gabriel absorbed the correction without visible offense, filing it away as useful information rather than insult. He had walked into this negotiation prepared for several different tones a demon marshal might adopt. This particular bluntness, at least, offered him something concrete to work with rather than the theatrical menace he'd half expected instead.
-
-He set aside the remainder of his careful opening entirely, adjusting his approach mid-thought with the same practiced ease he'd once relied on across centuries of councils that rarely went the way he'd planned them. If Vepar wanted pragmatism, Gabriel found he could offer that just as readily as poetry, whatever his own preference between the two actually was.
 
 "Troop dispositions, then," Gabriel said, and gestured toward the low stone table where he'd already laid out a set of star-charts, waiting.
 
@@ -46,7 +44,7 @@ Vepar studied him a long moment before responding, his translucent features givi
 
 ---
 
-They worked through the finer details of the exchange for some while after that, the negotiation settling into a rhythm considerably less adversarial than its opening had promised, each concession weighed and traded with an efficiency that struck Gabriel as the mark of a commander who had, whatever his history, learned long ago how to actually get difficult work done. Gabriel found himself, somewhere in the middle of that steady exchange, no longer bracing for the next sharp interruption, the rhythm of the negotiation itself settling into something closer to genuine cooperation than he had expected walking in.
+They worked through the finer details of the exchange for some while after that, the negotiation settling into a rhythm considerably less adversarial than its opening had promised, each concession weighed and traded with an efficiency that struck Gabriel as the mark of a commander who had, whatever his history, learned long ago how to actually get difficult work done. Gabriel found himself, somewhere in the middle of that steady exchange, no longer bracing for the next sharp interruption.
 
 The tremor arrived without warning, a faint shudder passing through the ruined stone beneath their feet, distant and brief but unmistakable in its wrongness. Gabriel felt it as a pressure behind his own eyes, the same particular wrongness he'd learned to associate with the echoes Thamorak sent rippling outward whenever it claimed some fresh corner of the realm. He steadied himself against the low stone table, waiting for the sensation to pass, and found it fading more slowly than the smaller tremors he'd already grown accustomed to sensing from a safer distance.
 

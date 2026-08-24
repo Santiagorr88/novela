@@ -1,10 +1,10 @@
 # Chapter 17 — A Mission into Memory
 
-Gabriel chose the old observatory for the meeting, not the council chamber, and he chose it specifically because Camael's report was only three hours old and he had not yet decided how much of it he was ready to say out loud in front of a room that would immediately split itself into factions over the telling. The observatory sat at the highest spire of the Bastion, forgotten by everyone except the handful of scholars who still climbed to it to chart stars no one below had looked at in centuries, and the air up here was thin and cold in a way that suited exactly the kind of conversation Gabriel had summoned Sariel to have.
+Gabriel chose the old observatory for the meeting, not the council chamber, and he chose it specifically because Camael's report was only three hours old and he had not yet decided how much of it he was ready to say out loud in front of a room that would immediately split itself into factions over the telling. The observatory sat at the highest spire of the Bastion, forgotten by everyone except the handful of scholars who still climbed to it to chart stars no one below had looked at in centuries, and the air up here was thin and cold in a way that suited the kind of conversation Gabriel had summoned Sariel to have.
 
 He had spent the three hours since Camael's departure alone with the star-map, tracing constellations he'd charted himself a thousand years ago and no longer fully trusted, turning the shape of the problem over from every angle he could find the patience for. A council divided three ways over a sword and a cycle and a missing soul could not be handed a fourth crisis it had no framework to absorb, not yet, not until Gabriel understood enough of it himself to keep the telling from tearing what little cohesion the council had left clean in half.
 
-Sariel arrived without announcing himself, the way Gabriel had come to expect from him, a habit Gabriel took to be born of a lifetime spent hunting things that would flee the moment they heard him coming. He said nothing at first, only waited at the threshold until Gabriel turned from the star-map to acknowledge him, patient in the particular, contained way of a man who had long since stopped needing to fill silence with unnecessary words.
+Sariel arrived without announcing himself, the way Gabriel had come to expect from him, a habit Gabriel took to be born of a lifetime spent hunting things that would flee the moment they heard him coming. He said nothing at first, only waited at the threshold until Gabriel turned from the star-map to acknowledge him, patient in the contained way of a man who had long since stopped needing to fill silence with unnecessary words.
 
 Gabriel studied him a moment before speaking, the way he'd learned to study every soldier he was about to send somewhere he couldn't follow. Sariel had changed little across the centuries Gabriel had known him — the same economy of movement, the same eyes that catalogued a room before the rest of him had finished crossing its threshold, a hunter's habits worn so deep into him they no longer looked like habits at all. It was easy, working alongside a man that steady for so long, to forget how much that steadiness had cost him to build.
 
@@ -24,15 +24,15 @@ He told it plainly, without the softening he might once have used on a lesser pi
 
 ---
 
-Sariel was quiet a moment, turning the request over with the same patient, methodical attention Gabriel had watched him bring to every hunt across the centuries they'd known each other. "Why me. You have investigators, Gabriel — scholars trained for exactly this kind of work, people who read old texts for a living instead of tracking down what refuses to be found."
+Sariel was quiet a moment, turning the request over with the same methodical attention Gabriel had watched him bring to every hunt across the centuries they'd known each other. "Why me. You have investigators, Gabriel — scholars trained for exactly this kind of work, people who read old texts for a living instead of tracking down what refuses to be found."
 
-"Because you hunt the reincarnated for a living, Sariel. No one on this council understands better than you what it means for something to return without a single memory of what it once was." Gabriel met his eyes directly, wanting him to hear the whole of it and not just the flattering half. "If these weapons carry a buried history, you'll know how to recognize the shape of a secret that doesn't want to be found. That's not scholarship. That's instinct built over centuries of chasing exactly this kind of silence. I need that instinct in the Tower, not a library index."
+"Because you hunt the reincarnated for a living, Sariel. No one on this council understands better than you what it means for something to return without a single memory of what it once was." Gabriel met his eyes directly, wanting him to hear the whole of it and not just the flattering half. "If these weapons carry a buried history, you'll know how to recognize the shape of a secret that doesn't want to be found. That isn't scholarship — it's instinct, built over centuries of chasing this kind of silence. I need that instinct in the Tower, not a library index."
 
 Something shifted, briefly, behind Sariel's usually unreadable composure — not quite surprise, but something close to it. "I've spent longer than I care to count learning to find what wants to stay lost," he said. "I hadn't thought of it as anything Heaven considered useful outside of its original purpose."
 
 "It's the most useful thing you carry," Gabriel said. "I should have told you that a long time before tonight."
 
-"Most of the council sees the hunting itself and stops looking further than that," Sariel said, in a tone that sounded to Gabriel more like acceptance than bitterness. "A reincarnated soul that's grown dangerous gets found, gets judged, gets whatever the case requires. No one asks what it costs to learn the shape of an absence well enough to track it across a hundred different faces, a hundred different lives that never once remember the one before it. I stopped expecting anyone to ask a long time ago."
+"Most of the council sees the hunting itself and stops looking further than that," Sariel said, in a tone that sounded to Gabriel more like acceptance than bitterness. "A reincarnated soul that's grown dangerous gets found, gets judged, gets whatever the case requires. No one asks what it costs to learn the shape of an absence well enough to track it across a hundred different faces, a hundred different lives that never remember the one before it. I stopped expecting anyone to ask a long time ago."
 
 "I'm asking now," Gabriel said. "Late, I know. But I'm asking."
 
@@ -64,9 +64,11 @@ Gabriel didn't thank him for that. He'd learned, across the long years of Sariel
 
 "There's a question I should have asked you before now, and haven't," Gabriel said instead, quieter. "In all the years you've spent hunting the reincarnated — have you ever once found one who remembered anything at all, before you found them?"
 
-Sariel considered the question with the same unhurried care he gave everything. "No," he said. "Not once. Whatever it costs a soul to cross back into a new life, it seems to cost the memory first, every time, without exception." Something flickered behind his composure, brief and unreadable. "I've sometimes wondered whether that's mercy or theft. I've never settled on an answer either way."
+Sariel considered the question with the same care he gave everything. "No," he said. "Not once. Whatever it costs a soul to cross back into a new life, it seems to cost the memory first, every time, without exception." Something flickered behind his composure, brief and unreadable. "I've sometimes wondered whether that's mercy or theft. I've never settled on an answer either way."
 
 "Neither have I," Gabriel admitted. "I find myself hoping, more than I'd like to admit, that whatever you find in that Tower doesn't answer the question for us. Some mercies are easier to live with unexamined."
+
+Sariel offered no answer to that. He inclined his head once and turned for the stairs, one hand already finding the door.
 
 "Then go carefully," Gabriel said. "That much, at least, I am allowed to ask of you."
 
