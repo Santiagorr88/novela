@@ -10,7 +10,7 @@ Mikel sintió las palabras asentarse en él de un modo extraño, menos como info
 
 Arin mantuvo su posición unos pasos atrás, los brazos todavía sueltos a los costados, observando el intercambio con la misma atención cautelosa que le habría dado a cualquier negociación cuyas apuestas todavía no comprendiera. Había pasado una década aprendiendo a leer lo que la gente no decía con el mismo cuidado que lo que sí decía, y todo en el fraseo de la figura le decía que esta era una conversación construida enteramente sobre cuidadosas omisiones. Se sorprendió catalogando a la figura del modo en que habría catalogado cualquier cantidad desconocida entrando en un trabajo —fuerzas sin probar, motivos poco claros, la particular inquietud de estar cerca de algo cuyos límites reales todavía no tenía forma de medir. Nada en ella se leía como hostil. Ese hecho por sí solo lo inquietaba más de lo que lo habría hecho una hostilidad abierta, dado cuán poco más de esta noche había seguido algún patrón en el que realmente confiara. Notó, en la distancia, que su propio pulso todavía no se había asentado del todo tras la pelea, y descubrió que no lograba distinguir cuánto de eso era adrenalina restante y cuánto era simplemente estar de pie tan cerca de lo que fuera que la figura realmente era.
 
-—Qué se rompió —repitió Arin, plano, probando las palabras en busca del peso que pretendían llevar—. Eso tampoco es una respuesta. Es solo una pregunta distinta.
+—Qué se rompió —repitió Arin, plano, probando las palabras en busca del peso que pretendían llevar—. Sigue sin ser una respuesta. Solo una pregunta distinta.
 
 —Es la única pregunta que merece la pena hacer esta noche —dijo la figura—. El resto seguirá, con el tiempo, tanto si alguno de los dos las busca como si no.
 

@@ -28,7 +28,7 @@ Gabriel no retrocedió, y no alzó la voz para ordenar calma a la cámara, del m
 
 No lo dirigió hacia Uriel. Lo dejó escapar en cambio hacia el aire entre ambos, una nota que no era del todo sonido ni del todo ninguna otra cosa para la que tuviera palabras, y sintió a toda la cámara responderle a la vez —cada superficie, cada columna, cada respiración contenida en la sala estremeciéndose bajo un único tono perfecto antes de que el tono mismo se resolviera en un silencio tan completo que se sintió, por un momento, como la ausencia de la propia sala—.
 
-Nadie resultó herido. Gabriel se había asegurado de eso antes de dejar que la nota lo abandonara, guiándola con cuidado lejos de cada ser vivo apiñado contra aquellas paredes, y contenerla con esa precisión le había costado más de lo que le habría costado dejarla salir sin más. Pero dos columnas cerca del arco oriental de la cámara, ya debilitadas por meses de una guerra cuyos daños este Bastión nunca había terminado de reparar, cedieron una grieta más, un largo y bajo gemido de piedra asentándose el único sonido que quedó en la sala una vez que el eco del himno por fin murió.
+Nadie resultó herido. Gabriel se había asegurado de eso antes de dejar que la nota lo abandonara, guiándola con cuidado lejos de cada ser vivo apiñado contra aquellas paredes, y contenerla con esa precisión le había costado más de lo que le habría costado dejarla salir sin más. Pero dos columnas cerca del arco oriental de la cámara, ya debilitadas por meses de una guerra cuyos daños este Bastión nunca había terminado de reparar, cedieron una grieta más, un largo y bajo gemido de piedra asentándose el único sonido que quedó en la sala una vez que el eco del himno por fin murió, un polvo fino de piedra vieja cayendo en la quietud repentina y asentándose, seco y mineral, sobre cada rostro vuelto hacia arriba debajo de él.
 
 ---
 
@@ -50,7 +50,7 @@ Gabriel no sintió el estancamiento como una derrota personal, no exactamente. L
 
 ---
 
-Encontró a Sariel después en el mirador oculto sobre el muro occidental del Bastión, una cornisa estrecha alisada por la cantidad de consejos de ángeles que hubieran estado de pie allí antes que él buscando el mismo tipo de quietud, con vista a un cosmos demasiado vasto para que ningún mirador único lo abarcara propiamente. Sariel llegó a su llamado sin cuestionarlo, como siempre hacía, y se quedó junto a él un rato en silencio antes de que ninguno de los dos hablara.
+Encontró a Sariel después en el mirador oculto sobre el muro occidental del Bastión, una cornisa estrecha alisada por la cantidad de consejos de ángeles que hubieran estado de pie allí antes que él buscando el mismo tipo de quietud, el viento aquí arriba más fino y más limpio que cualquier cosa que hubiera ofrecido el aire de la cámara, con vista a un cosmos demasiado vasto para que ningún mirador único lo abarcara propiamente. Sariel llegó a su llamado sin cuestionarlo, como siempre hacía, y se quedó junto a él un rato en silencio antes de que ninguno de los dos hablara.
 
 Gabriel lo estudió un momento primero, sopesando lo que estaba a punto de pedir contra todo lo que Sariel ya le había dado a esta misión —la Torre, el residuo que Rafael le había extraído después, la promesa de paciencia que el propio Gabriel había hecho apenas unas noches atrás—. Sariel estaba de pie más erguido ahora de lo que había estado aquella noche, su equilibrio del todo recuperado, y Gabriel se permitió confiar en la mejora lo suficiente como para preguntar lo que había venido a preguntar.
 

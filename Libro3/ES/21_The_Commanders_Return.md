@@ -8,7 +8,7 @@ No se acercó del modo en que alguna vez lo habría hecho, los hombros cuadrados
 
 Azael caminaba a su lado en silencio, su presencia firme e ilegible, sin ofrecer nada que pudiera apresurar a Miguel más allá de lo que necesitara sentir de pie ahí. Ereloth caminaba a su otro lado, silbando alguna tonada alegre y del todo inapropiada entre dientes, y Miguel descubrió, a pesar de todo lo que pesaba sobre él, que lo absurdo de aquello lo serenaba más de lo que lo habría hecho un silencio solemne.
 
-Pensó, caminando el último tramo de camino hacia esas puertas, en cada versión de este regreso que había ensayado en su propia cabeza a lo largo del largo viaje hasta aquí —retornos dignos, reencuentros con lágrimas, recibimientos fríos contra los que se había preparado sin saber cuál acabaría enfrentando en realidad—. Ninguna de las versiones que había imaginado lo había preparado para lo sencillamente extraño que se sentía estar de pie aquí ahora, memoria mortal y rango antiguo sentados con incomodidad juntos dentro del mismo pecho, ninguno de los dos del todo dispuesto a dejar que el otro guiara.
+Pensó, caminando el último tramo de camino hacia esas puertas, en cada versión de este regreso que había ensayado en su propia cabeza a lo largo del largo viaje hasta aquí —retornos dignos, reencuentros con lágrimas, recibimientos fríos contra los que se había preparado sin saber cuál acabaría enfrentando—. Ninguna de las versiones que había imaginado lo había preparado para lo sencillamente extraño que se sentía estar de pie aquí ahora, memoria mortal y rango antiguo sentados con incomodidad juntos dentro del mismo pecho, ninguno de los dos del todo dispuesto a dejar que el otro guiara.
 
 ---
 
@@ -32,21 +32,21 @@ Gabriel dio un paso más cerca, lo bastante cerca ahora como para que Miguel pud
 
 La expresión de Gabriel titiló ante eso, algo casi como una sonrisa cruzando su rostro antes de desvanecerse de nuevo. —Siempre eficiente —dijo—. Incluso después de todo.
 
-Lo que fuera que Gabriel hubiera dicho después se perdió por completo bajo el sonido de aleteos que se acercaban y pisadas acorazadas, una falange de guerreros descendiendo sobre el patio interior de la puerta con una velocidad que no dejaba lugar a confundir su propósito. A su cabeza caminaba una figura que Miguel reconoció de inmediato por el fuego que ya se acumulaba a lo largo de su arma, la llama prendiendo y extendiéndose con el hambre particular de algo construido específicamente para consumir.
+Lo que fuera que Gabriel hubiera dicho después se perdió bajo el sonido de aleteos que se acercaban y pisadas acorazadas, una falange de guerreros descendiendo sobre el patio interior de la puerta con una velocidad que no dejaba lugar a confundir su propósito. A su cabeza caminaba una figura que Miguel reconoció de inmediato por el fuego que ya se acumulaba a lo largo de su arma, la llama prendiendo y extendiéndose con el hambre particular de algo construido específicamente para consumir.
 
 ---
 
 Uriel se detuvo a una docena de pasos, sus guerreros abriéndose en abanico tras él en una formación que no dejaba ambigüedad alguna sobre su intención, Ignis Lux ardiendo ahora lo bastante brillante como para proyectar sombras filosas sobre la piedra dorada del patio. Su rostro no llevaba nada de la esperanza incierta de Gabriel, solo una máscara de furia fría y absoluta, el arma ya encendida antes de que se hubiera cruzado una sola palabra entre ellos.
 
-Miguel lo recordaba de un centenar de viejos informes, rápido para la ira y más rápido todavía para actuar según ella, un soldado de soldados que jamás había fingido que la paciencia fuera una virtud que valorara particularmente. Recordó también que esa misma ira siempre había llegado junto a una defensa feroz e inquebrantable de quienquiera que Uriel hubiera decidido que valía la pena defender —las dos jamás se habían presentado por separado, en ninguna versión de él que Miguel pudiera recordar—. Ese recuerdo, al menos, le ofrecía algo familiar a lo que aferrarse en un patio que, por lo demás, se sentía considerablemente más extraño de lo que se había preparado para enfrentar.
+Miguel lo recordaba de un centenar de viejos informes, rápido para la ira y más rápido todavía para actuar según ella, un soldado de soldados que jamás había fingido que la paciencia fuera una virtud que valorara particularmente. Recordó también que esa misma ira siempre había llegado junto a una defensa feroz e inquebrantable de quienquiera que Uriel hubiera decidido que valía la pena defender —las dos jamás se habían presentado por separado, en ninguna versión de él que Miguel pudiera recordar—. Ese recuerdo, al menos, le ofrecía algo familiar a lo que aferrarse en un patio que, por lo demás, se sentía más extraño de lo que se había preparado para enfrentar.
 
-—Traidor —dijo Uriel, la palabra llegando baja y dura, más acusación que saludo—. Caíste. Estás manchado de mortalidad, y te paras aquí junto a... —Su mirada se movió hacia Ereloth y Azael por igual, el desprecio afilándose más ante lo que fuera que encontrara ahí—. ...cosas que no son de la Hueste.
+—Traidor —dijo Uriel, la palabra llegando baja y dura—. Caíste. Estás manchado de mortalidad, y te paras aquí junto a... —Su mirada se movió hacia Ereloth y Azael por igual, el desprecio afilándose más ante lo que fuera que encontrara ahí—. ...cosas que no son de la Hueste.
 
 Miguel sintió a Gabriel ponerse rígido a su lado, la mirada de este saltando una vez hacia Uriel y de vuelta sin una sola palabra ofrecida en ninguna dirección. Miguel descubrió que no podía reprocharle el silencio. Él también habría vacilado, de estar en el lugar de Gabriel con tanta incertidumbre presionada contra mil años de esperanza.
 
 ---
 
-Miguel no fue por Solmire. Sencillamente sostuvo la mirada de Uriel, firme y sin prisa, del modo en que había aprendido a sostener la atención de una sala a lo largo de nueve años enseñando, más que mediante la vieja y fácil autoridad del rango solo.
+Miguel no fue por Solmire. Sencillamente sostuvo la mirada de Uriel, firme, del modo en que había aprendido a sostener la atención de una sala a lo largo de nueve años enseñando, más que mediante la vieja y fácil autoridad del rango solo.
 
 —No he venido a pelear, Uriel —dijo—. He venido a decir una verdad que nos afecta a todos —a cada soldado de pie en este patio, a cada alma a ambos lados de una guerra que le ha costado a este reino más de lo que nadie que la esté combatiendo actualmente ha reconocido como corresponde.
 
@@ -66,7 +66,7 @@ Gabriel dio un paso adelante hacia el espacio entre ambos antes de que ninguno d
 
 La mirada de Uriel se cortó hacia Gabriel, algo viejo y sin resolver titilando tras ella, alguna discusión que ambos habían tenido claramente antes y jamás terminado de resolver. Miguel observó el intercambio pasar entre sus dos hermanos, uno cuidadoso y deliberado, otro ardiente e inmediato, y se descubrió presenciando los signos visibles de un conflicto que claramente había existido antes de su propio regreso en alguna medida considerable, fuera cual fuese su fuente real.
 
-Uriel mantuvo su posición un largo momento, la llama todavía reunida a lo largo de Ignis Lux, la mirada moviéndose una vez más por la quietud silenciosa de Azael y la expresión cuidadosamente neutra de Ereloth antes de volver a fijarse en el propio Miguel. Miguel vio su mandíbula trabajar una vez, dos veces, algún ajuste de cuentas privado desplegándose por unos rasgos que recordaba considerablemente menos complicados la última vez que se había erguido en este mismo patio.
+Uriel mantuvo su posición un largo momento, la llama todavía reunida a lo largo de Ignis Lux, la mirada moviéndose una vez más por la quietud silenciosa de Azael y la expresión cuidadosamente neutra de Ereloth antes de volver a fijarse en el propio Miguel. Miguel vio su mandíbula trabajar una vez, dos veces, algún ajuste de cuentas privado desplegándose por unos rasgos que recordaba menos complicados la última vez que se había erguido en este mismo patio.
 
 —El concilio, entonces —dijo Uriel finalmente, la llama a lo largo de su arma apagándose, aunque sin extinguirse del todo—. Pero sabe esto. Si lo que nos traes resulta ser la mentira que todavía sospecho que es, terminaré lo que vine hoy aquí ya preparado para hacer.
 

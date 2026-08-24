@@ -40,7 +40,7 @@ Vepar la estudió un largo momento, el mismo examen sin prisa que ella imaginó 
 
 —Muy poco que notarás perder. —Sonrió, y puso en ello lo suficiente como para hacer creíble el resto—. Unas horas de mi tiempo, gastadas hablando con gente cuya buena opinión nunca te ha ayudado a ganar una batalla y nunca lo hará. Imagino que preferirías que fuera yo quien gastara esas horas, y no tú.
 
-Volvió a guardar silencio, y ella observó cómo el cálculo se asentaba detrás de su quietud —no exactamente sospecha, juzgó, sino el alivio de un hombre contento de que le tendieran una salida de una sala en la que nunca había querido entrar—. —Encárgate tú entonces —dijo Vepar finalmente, las palabras sin más peso del que habría dado a una orden de desplazar una línea de suministro—. Tengo una flota que me necesita considerablemente más que una corte. —Se volvió hacia los barcos fondeados sin ceremonia, ya desentendido de la conversación, y, estaba ella segura, todavía sin ver exactamente cuánto acababa de entregarle.
+Volvió a guardar silencio, y ella observó cómo el cálculo se asentaba detrás de su quietud —no exactamente sospecha, juzgó, sino el alivio de un hombre contento de que le tendieran una salida de una sala en la que nunca había querido entrar—. —Encárgate tú entonces —dijo Vepar finalmente, las palabras sin más peso del que habría dado a una orden de desplazar una línea de suministro—. Tengo una flota que me necesita mucho más que una corte. —Se volvió hacia los barcos fondeados sin ceremonia, ya desentendido de la conversación, y, estaba ella segura, todavía sin ver exactamente cuánto acababa de entregarle.
 
 ---
 
@@ -68,7 +68,7 @@ Un murmullo recorrió la corte reunida, apreciativo, ya remodelándose alrededor
 
 Uno de los señores más viejos, una presencia delgada y suspicaz cerca del estrado que tenía por costumbre dudar de cualquier cosa que llegara ya tan pulida, no se dejó plegar tan fácilmente al murmullo. —¿Y Vepar confirma todo esto él mismo, Duquesa? ¿O solo tú?
 
-—Enviad un correo a preguntárselo vos mismo, mi señor, si mi palabra no os satisface. —Dejó que la oferta se sostuviera en el aire, sin prisa, exactamente tan segura como necesitaba sonar—. Os dirá con precisión lo que os he dicho yo, con menos palabras y considerablemente menos paciencia. Simplemente prefiero que el trono lo oiga ahora a que lo oiga dentro de tres días, filtrado a través de lo que un mariscal decida que vale su propio tiempo poner por escrito. —El viejo señor sostuvo su mirada un momento más, y fuera lo que fuese lo que hubiera estado buscando en ella, lo dejó ir, acomodándose de nuevo en el apetito general de la corte por una historia que ya, para entonces, había decidido qué forma prefería conservar.
+—Enviad un correo a preguntárselo vos mismo, mi señor, si mi palabra no os satisface. —Dejó que la oferta se sostuviera en el aire, exactamente tan segura como necesitaba sonar—. Os dirá con precisión lo que os he dicho yo, con menos palabras y considerablemente menos paciencia. Simplemente prefiero que el trono lo oiga ahora a que lo oiga dentro de tres días, filtrado a través de lo que un mariscal decida que vale su propio tiempo poner por escrito. —El viejo señor sostuvo su mirada un momento más, y fuera lo que fuese lo que hubiera estado buscando en ella, lo dejó ir, acomodándose de nuevo en el apetito general de la corte por una historia que ya, para entonces, había decidido qué forma prefería conservar.
 
 ---
 

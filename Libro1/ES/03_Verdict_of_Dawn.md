@@ -22,7 +22,7 @@ Los ángeles más cercanos a la puerta reaccionaron primero, y no todos de la mi
 
 Reconoció a los dos veteranos de vista, aunque no de nombre —habían montado guardia en esa misma puerta más tiempo del que él llevaba de vida, tanto tiempo que Tamiel jamás los había visto fuera de servicio—. Ninguno de los dos habló. Ninguno apartó la mirada de Miguel mientras se acercaba, y ninguno se unió al murmullo de los centinelas jóvenes a su lado.
 
-Miguel atravesó la Puerta sin romper el paso, sin reconocer en absoluto a la multitud reunida. No alzó la vista hacia la baranda, no miró hacia los centinelas jóvenes que murmuraban ni hacia los veteranos cautelosos, no pareció, de hecho, ver a ninguno de ellos. Sus ojos permanecieron fijos en algún punto más allá de los edificios que tenía delante, en un lugar que solo él podía ver. La multitud se abrió para dejarlo pasar sin que se lo pidiera, del modo en que el agua se aparta ante algo que se mueve con suficiente certeza detrás.
+Miguel atravesó la Puerta sin romper el paso, sin reconocer en absoluto a la multitud reunida. No alzó la vista hacia la baranda, no miró hacia los centinelas jóvenes que murmuraban ni hacia los veteranos cautelosos, no pareció, de hecho, ver a ninguno de ellos. Sus ojos permanecieron fijos en algún punto más allá de los edificios que tenía delante, en un lugar que solo él podía ver. La multitud se abrió para dejarlo pasar sin que se lo pidiera.
 
 Tamiel lo vio alejarse, vio la luz fría de la espada retroceder por la avenida y el oro ordinario del Bastión reafirmarse lentamente a su paso, y comprendió, de un modo que no habría podido explicarle a la arconte ni a nadie más, que fuera lo que fuese lo que le había ocurrido a su comandante en aquel desierto, no había regresado del todo.
 

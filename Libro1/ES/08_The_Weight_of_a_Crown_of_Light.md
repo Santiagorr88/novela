@@ -12,7 +12,7 @@ Se descubrió conmovida por él, genuina y completamente, del modo en que la con
 
 ---
 
-Miguel estaba limpiando a Solmire cuando Gabriel lo encontró, el paño de luz pura moviéndose a lo largo de la hoja en trazos lentos y sin prisa, y no alzó la vista cuando su hermano entró. Sus aposentos privados se habían ido despojando en los últimos meses, notó con distancia, despojados de la mayor parte de lo que alguna vez los había atestado —viejos mapas de campaña, algunos recuerdos de siglos de servicio compartido, cartas que nunca había llegado a responder del todo, todo ello retirado en silencio sin que él hubiera decidido nunca retirarlo.
+Miguel estaba limpiando a Solmire cuando Gabriel lo encontró, el paño de luz pura moviéndose a lo largo de la hoja en trazos lentos, y no alzó la vista cuando su hermano entró. Sus aposentos privados se habían ido despojando en los últimos meses, notó con distancia, despojados de la mayor parte de lo que alguna vez los había atestado —viejos mapas de campaña, algunos recuerdos de siglos de servicio compartido, cartas que nunca había llegado a responder del todo, todo ello retirado en silencio sin que él hubiera decidido nunca retirarlo.
 
 —Las tropas necesitan tus palabras, hermano —dijo Gabriel, la voz cargando calidez genuina bajo la preocupación—, no solo tu espada. La moral se adelgaza, más de lo que dejan ver los informes. Te siguen porque te aman, no porque teman decepcionar a una leyenda.
 
@@ -58,7 +58,7 @@ El concilio de guerra se reunió temprano a la mañana siguiente, y Miguel lleg�
 
 —Su naturaleza es su crimen. La espada misma lo ve. —Miguel no alzó la voz. No lo necesitaba, ya no, no en esta sala—. Eso basta.
 
-Uriel abrió la boca para objetar y después, visiblemente, lo reconsideró, algún cálculo pasando tras sus ojos que Miguel no se molestó en intentar leer. La cerró de nuevo sin una palabra, y Miguel tomó nota del silencio sin detenerse en lo que lo había producido, ya devolviendo la atención al mapa. Nadie más en la sala habló en contra de la orden. Se dio, y la sala la absorbió del modo en que las salas habían aprendido a absorber todo lo que Miguel decía ahora —sin discusión, sin más comentario, el asunto ya resuelto antes de que nadie hubiera terminado de discrepar.
+Uriel abrió la boca para objetar y después, visiblemente, lo reconsideró, algún cálculo pasando tras sus ojos que Miguel no se molestó en intentar leer. La cerró de nuevo sin una palabra, y Miguel tomó nota del silencio sin detenerse en lo que lo había producido, ya devolviendo la atención al mapa. Nadie más en la sala habló en contra de la orden. Se dio, y la sala la absorbió del modo en que las salas habían aprendido a absorber todo lo que Miguel decía ahora —sin discusión, el asunto ya resuelto antes de que nadie hubiera terminado de discrepar.
 
 ---
 

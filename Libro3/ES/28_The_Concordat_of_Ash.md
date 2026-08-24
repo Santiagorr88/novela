@@ -2,7 +2,7 @@
 
 Gabriel cruzó el páramo gris y silencioso que alguna vez había sido el prado occidental de Elysia Minor, con su propia guardia de honor retenida en el borde de la ceniza por orden expresa suya, lo bastante cerca para responder si hacía falta y lo bastante lejos como para dejar claro que aquel encuentro no debía presenciarse de cerca. Vio a Lucifer ya esperando cerca del centro del páramo, solo, en lo que a Gabriel le pareció el mismo despliegue deliberado, su propia comitiva retenida igual de lejos en el borde opuesto.
 
-Él mismo había elegido aquel terreno, contra las objeciones de más de un consejero cauteloso que había argumentado que un mundo neutral, no tocado por la pérdida reciente, serviría mejor a la negociación. Gabriel había discrepado. Cualquier acuerdo que los dos lograran forjar hoy necesitaba construirse sobre un terreno que recordara con exactitud lo que en verdad estaba en juego, no sobre alguna distancia cómoda que dejara a cualquiera de los dos bandos olvidarlo con demasiada facilidad.
+Él mismo había elegido aquel terreno, contra las objeciones de más de un consejero cauteloso que había argumentado que un mundo neutral, no tocado por la pérdida reciente, serviría mejor a la negociación. Gabriel había discrepado. Cualquier acuerdo que los dos lograran forjar hoy necesitaba construirse sobre un terreno que recordara lo que estaba en juego, no sobre alguna distancia cómoda que dejara a cualquiera de los dos bandos olvidarlo con demasiada facilidad.
 
 Ninguno habló mientras Gabriel cerraba la distancia restante. La ceniza cedía bajo cada paso, fina e incolora, todo lo que quedaba de una tierra que alguna vez había hecho crecer flores silvestres que nadie había necesitado plantar.
 
@@ -32,7 +32,7 @@ Lucifer inclinó la cabeza, el gesto escueto y práctico. —Vepar y Camael coor
 
 ---
 
-Gabriel estudió a Lucifer un momento en el silencio que siguió, leyendo en su quietud algo que no había esperado encontrar en aquel encuentro en particular —no triunfo, no el cálculo frío contra el que se había preparado en el camino hasta allí, sino una quietud que se parecía, con la misma claridad que cualquier otra cosa que Gabriel hubiera aprendido a leer, a un duelo cuidadosamente contenido—. Había oído mucho, de segunda mano, sobre el desprecio particular que Lucifer aportaba a cada trato con el Cielo, transmitido a través de enviados e informes capturados a lo largo de una era de guerra indirecta. Al enfrentarlo directamente por primera vez, se descubrió incapaz de nombrar de inmediato qué había cambiado entre la reputación y el hombre que en realidad tenía delante.
+Gabriel estudió a Lucifer un momento en el silencio que siguió, leyendo en su quietud algo que no había esperado encontrar en aquel encuentro en particular —no triunfo, no el cálculo frío contra el que se había preparado en el camino hasta allí, sino una quietud que se parecía, con la misma claridad que cualquier otra cosa que Gabriel hubiera aprendido a leer, a un duelo cuidadosamente contenido—. Había oído mucho, de segunda mano, sobre el desprecio particular que Lucifer aportaba a cada trato con el Cielo, transmitido a través de enviados e informes capturados a lo largo de una era de guerra indirecta. Al enfrentarlo directamente por primera vez, se descubrió incapaz de nombrar de inmediato qué había cambiado entre la reputación y el hombre que tenía delante.
 
 —¿Recuerdas la primera canción de la creación, hermano? —preguntó Lucifer, la voz más queda de lo que había sido un instante antes.
 
@@ -44,7 +44,7 @@ Gabriel sintió la pregunta caer con más peso del que esperaba, el propio trata
 
 —He tenido mucho tiempo para reconsiderar a qué estoy dado. —La mirada de Lucifer derivó, brevemente, hacia el horizonte donde la ceniza por fin cedía a suelo ordinario—. Ver a todo un reino de almas dulces e inmerecedoras simplemente dejar de existir tiende a afinar el aprecio de un hombre por la poesía que todavía le quede dentro.
 
-Gabriel no dijo nada por un momento, dejando que la confesión se asentara entre ellos sin respuesta. Había esperado, al pisar aquel campo, pasar la mayor parte del encuentro guardándose exactamente del tipo de manipulación sobre el que Lucifer había construido siglos de reputación. Se encontró, en cambio, simplemente escuchando, sin voluntad de interrumpir lo que fuera que aquella honestidad en particular le estuviera costando de verdad al hombre que tenía enfrente.
+Gabriel no dijo nada por un momento, dejando que la confesión se asentara entre ellos sin respuesta. Había esperado, al pisar aquel campo, pasar la mayor parte del encuentro guardándose del tipo de manipulación sobre el que Lucifer había construido siglos de reputación. Se encontró, en cambio, simplemente escuchando, sin voluntad de interrumpir lo que fuera que aquella honestidad en particular le estuviera costando al hombre que tenía enfrente.
 
 —Yo también perdí a alguien allí, en cierto modo —dijo Gabriel finalmente—. No un alma bajo mi cuidado directo. Pero yo mismo estuve en aquella cresta, más de una vez. Conocí el nombre del guardián, en algún momento. Ahora descubro que no puedo recordarlo, y eso me perturba más de lo que esperaba.
 
@@ -52,7 +52,7 @@ Gabriel no dijo nada por un momento, dejando que la confesión se asentara entre
 
 Lucifer observó cómo las palabras se asentaban en la expresión cuidadosamente compuesta de Gabriel, un viejo duelo aflorando también ahí, lo bastante claro como para que Lucifer no sintiera necesidad de preguntar si el recuerdo había hecho mella. No había pronunciado en voz alta aquel recuerdo en particular ante nadie desde hacía más tiempo del que le importaba medir, no había esperado, al pisar aquella ceniza hoy, terminar gastándolo ahí, entre todos los lugares posibles, ante el único ser que quedaba que quizá todavía recordara la canción original lo bastante bien como para reconocer su eco.
 
-Había ensayado una docena de aperturas distintas para aquel encuentro en el camino hasta allí, cada una calculada para establecer el tono exacto que quería que llevara la negociación. Ninguna de las versiones ensayadas incluía aquel recuerdo en particular. Descubrió, tras pronunciarlo de todos modos, que no lamentaba la desviación, fuera lo que fuese lo que revelara sobre la distancia que de otro modo se había esforzado tanto en mantener con cuidado.
+Había ensayado una docena de aperturas distintas para aquel encuentro en el camino hasta allí, cada una calculada para establecer el tono exacto que quería que llevara la negociación. Ninguna de las versiones ensayadas incluía aquel recuerdo en particular. Tras pronunciarlo de todos modos, no lamentaba la desviación, fuera lo que fuese lo que revelara sobre la distancia que de otro modo se había esforzado tanto en mantener con cuidado.
 
 Gabriel no ofreció respuesta inmediata. Simplemente asintió, una vez, y dejó que el momento pasara sin más palabras que lo abarrotaran.
 
@@ -60,7 +60,7 @@ Gabriel no ofreció respuesta inmediata. Simplemente asintió, una vez, y dejó 
 
 Ninguno de los dos ofreció una mano. Lucifer extendió la suya en cambio, palma hacia arriba, y un pergamino de fuego negro floreció sobre ella, una llama que no desprendía calor alguno que Gabriel pudiera sentir desde donde estaba. Gabriel extendió su propia mano en respuesta, y un pergamino de luz blanca tomó forma sobre su palma, firme e inquebrantable contra el cielo gris ceniza.
 
-Gabriel estudió los dos pergaminos un momento antes de dejarlos cerrar la distancia entre ambos, sopesando, por última vez, todo aquello a lo que este acuerdo lo ataría en realidad. No encontró en sí mismo ninguna vacilación que valiera la pena atender. Cualquiera que fuese el costo final de esta alianza para cualquiera de los dos bandos, el costo de rechazarla ahora, después de todo lo que ya había visto ocurrirle a Elysia Minor, sería claramente peor.
+Gabriel estudió los dos pergaminos un momento antes de dejarlos cerrar la distancia entre ambos, sopesando, por última vez, todo aquello a lo que este acuerdo lo ataría. No encontró en sí mismo ninguna vacilación que valiera la pena atender. Cualquiera que fuese el costo final de esta alianza para cualquiera de los dos bandos, el costo de rechazarla ahora, después de todo lo que ya había visto ocurrirle a Elysia Minor, sería claramente peor.
 
 Los dos pergaminos derivaron el uno hacia el otro, encontrándose en el espacio vacío entre sus dos manos extendidas, y se fundieron en un solo documento de energía gris arremolinada, ni negro ni blanco sino algo enteramente nuevo, forjado a partir de ambos sin pertenecer del todo a ninguno. El Concordato de Ceniza se asentó, completo, suspendido en el aire quieto entre ellos, su superficie atrapando la misma luz gris que cubría el campo de ceniza extendido a su alrededor.
 
@@ -88,12 +88,12 @@ Su propia comitiva se cerró a su alrededor en cuanto los alcanzó, las pregunta
 
 ---
 
-Gabriel lo vio marcharse, la distancia entre ambos ensanchándose paso a paso hasta que la figura de Lucifer por fin se difuminó en el páramo gris que separaba a sus dos guardias en espera. Se volvió hacia su propia comitiva solo cuando Lucifer hubo cruzado por completo la distancia, sin voluntad de ser el primero en ofrecer la espalda en aquel intercambio en particular. Pensó, mientras caminaba de regreso por la ceniza que alguna vez había sostenido los suaves prados de Elysia Minor, que fuera lo que fuese lo que este concordato lograra mantener unido, al menos se había construido sobre algo honesto.
+Gabriel lo vio marcharse, la distancia entre ambos ensanchándose paso a paso hasta que la figura de Lucifer por fin se difuminó en el páramo gris que separaba a sus dos guardias en espera. Se volvió hacia su propia comitiva solo cuando Lucifer hubo cruzado por completo la distancia, sin voluntad de ser el primero en ofrecer la espalda en aquel intercambio en particular. Fuera lo que fuese lo que este concordato lograra mantener unido, pensó, mientras caminaba de regreso por la ceniza que alguna vez había sostenido los suaves prados de Elysia Minor, al menos se había construido sobre algo honesto.
 
 Alcanzó a su propia guardia en espera y la encontró observándolo con la particular atención cuidadosa de soldados inseguros de qué informe esperar de un encuentro tan sin precedentes. No les ofreció nada dramático, solo el hecho llano de que el acuerdo ahora se sostenía entre dos cortes que habían pasado una era negándose entre sí siquiera una palabra civil.
+
+—Está hecho —dijo Gabriel, haciendo eco de las propias palabras finales de Lucifer sin proponérselo del todo—. Enviad aviso al concilio. Avanzamos desde aquí.
 
 Una de las guardias más jóvenes, una mujer que se había unido a su guardia de honor hacía tan poco que Gabriel todavía a veces se sorprendía olvidando su nombre, estudió su rostro un momento antes de hacer la pregunta que los demás parecían demasiado cautos para pronunciar en voz alta. —¿Se sostendrá, Heraldo?
 
 Gabriel consideró la pregunta más tiempo del que su simpleza exigía en rigor, sopesando una respuesta que ofreciera falso consuelo contra una que no ofreciera ninguno en absoluto. —No lo sé —dijo finalmente, decidiendo que la verdad la serviría mejor que cualquiera de las dos—. Sé que necesita sostenerse. Por ahora, eso tendrá que bastar como respuesta.
-
-—Está hecho —dijo Gabriel, haciendo eco de las propias palabras finales de Lucifer sin proponérselo del todo—. Enviad aviso al concilio. Avanzamos desde aquí.

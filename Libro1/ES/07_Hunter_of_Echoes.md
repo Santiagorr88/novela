@@ -1,6 +1,6 @@
 # Capítulo 7 — Cazador de Ecos
 
-Camael lo encontró en el patio de entrenamiento, la lanza ya en la mano, y no perdió tiempo en preámbulos. —Hay un demonio enmascarándose en un huésped humano, en una ciudad llamada Navarion. Te quiero a ti en esto. —Lo dijo del modo en que decía la mayoría de las órdenes en el patio de entrenamiento, ya medio girado para marcharse, como si el asunto ya se hubiera resuelto antes de llegar.
+Camael lo encontró en el patio de entrenamiento, la lanza ya en la mano, y no perdió tiempo en preámbulos. —Hay un demonio enmascarándose en un huésped humano, en una ciudad llamada Navarion. Te quiero a ti en esto. —Lo dijo ya medio girado para marcharse, como si el asunto ya se hubiera resuelto antes de llegar.
 
 Sariel no alzó la vista de Penumbra, pasando un paño por su filo más por costumbre que por necesidad, el movimiento ininterrumpido por la interrupción. —¿Por qué yo?
 

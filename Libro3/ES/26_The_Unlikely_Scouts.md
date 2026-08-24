@@ -10,7 +10,7 @@ Estudió al recién llegado un momento antes de hablar, catalogando lo que podí
 
 —Andras —dijo, no una pregunta.
 
-—Sariel. —La voz del demonio llevaba una diversión seca y sin prisa que no hacía nada por suavizar el filo ensombrecido de la capucha que todavía escondía cualquier expresión que hubiera debajo—. Observen la anomalía. Informen. No se maten entre ustedes. —Extendió ambas manos levemente, palmas afuera—. Me dijeron que esa última parte podría resultar la más difícil.
+—Sariel. —La voz del demonio llevaba una diversión seca y relajada que no hacía nada por suavizar el filo ensombrecido de la capucha que todavía escondía cualquier expresión que hubiera debajo—. Observen la anomalía. Informen. No se maten entre ustedes. —Extendió ambas manos levemente, palmas afuera—. Me dijeron que esa última parte podría resultar la más difícil.
 
 ---
 
@@ -66,7 +66,7 @@ Andras sintió lo extraño de ese ritmo sin detenerse a examinarlo demasiado de 
 
 Llegaron a la terraza inferior con el colono a salvo entre ellos, respirando con dificultad, la anormalidad de la zona nula desvaneciéndose en la distancia tras ellos por fin. Sariel soltó el agarre del hombro del hombre una vez que el peligro inmediato había pasado, observándolo tropezar agradecido hacia un grupo de vecinos que esperaban y que ya habían comenzado a reunirse al sonido del alboroto. Observó el reencuentro un momento más de lo estrictamente necesario, algún peso viejo y familiar aflojándose levemente en su propio pecho ante la escena de un alma más traída a salvo a través de un peligro que había sido enviado a responder.
 
-Andras se enderezó desde su propia posición agachada, sacudiendo la grava de piedra pálida de una manga con cuidado sin prisa. —Tus instintos se sostuvieron —dijo, las palabras cayendo sin nada de la sequedad anterior, algo más cercano al reconocimiento llano en su lugar.
+Andras se enderezó desde su propia posición agachada, sacudiendo la grava de piedra pálida de una manga con cuidado desenvuelto. —Tus instintos se sostuvieron —dijo, las palabras cayendo sin nada de la sequedad anterior, algo más cercano al reconocimiento llano en su lugar.
 
 —Tu velocidad fue... —Sariel se detuvo, sopesando la palabra con cuidado antes de decidirse por ella—. Adecuada.
 

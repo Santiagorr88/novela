@@ -16,11 +16,9 @@ Las propias túnicas plateadas de Gabriel contrastaban marcadamente contra ese p
 
 —Ahórrame tu poesía, Heraldo —dijo Vepar, cortando la frase sin alzar la voz en absoluto, la interrupción cayendo con una frialdad que no necesitaba volumen para llevar todo su peso—. No estamos aquí para ser amigos. Estamos aquí porque un tercero intenta quemar el tablero de juego. Hablemos de disposiciones de tropas y zonas de matanza.
 
-Depositó el tridente con cuidado contra una columna caída, el gesto deliberado y sin prisa a pesar de la brusquedad de sus palabras, y señaló hacia la mesa baja de piedra donde las cartas de Gabriel ya esperaban.
+Depositó el tridente con cuidado contra una columna caída, el gesto deliberado y preciso a pesar de la brusquedad de sus palabras, y señaló hacia la mesa baja de piedra donde las cartas de Gabriel ya esperaban.
 
 Gabriel absorbió la corrección sin ofensa visible, archivándola como información útil en vez de insulto. Había entrado en esta negociación preparado para varios tonos distintos que un mariscal demonio pudiera adoptar. Esta brusquedad en particular, al menos, le ofrecía algo concreto con qué trabajar en vez de la amenaza teatral que había esperado a medias en su lugar.
-
-Dejó a un lado por completo el resto de su cuidadosa apertura, ajustando su enfoque a mitad de pensamiento con la misma facilidad ensayada en la que había confiado alguna vez a lo largo de siglos de concilios que rara vez salían como los había planeado. Si Vepar quería pragmatismo, Gabriel descubrió que podía ofrecerlo con la misma facilidad que la poesía, fuera cual fuese su propia preferencia entre las dos en realidad.
 
 —Disposiciones de tropas, entonces —dijo Gabriel, y señaló hacia la mesa baja de piedra donde ya había extendido un conjunto de cartas estelares, esperando.
 
@@ -46,7 +44,7 @@ Vepar lo estudió un largo momento antes de responder, sus rasgos translúcidos 
 
 ---
 
-Trabajaron los detalles más finos del intercambio durante un rato después de eso, la negociación asentándose en un ritmo considerablemente menos hostil de lo que su apertura había prometido, cada concesión sopesada e intercambiada con una eficiencia que a Gabriel le pareció la marca de un comandante que, fuera cual fuese su historia, había aprendido hacía tiempo cómo hacer avanzar en verdad un trabajo difícil. Gabriel se descubrió, en algún punto de ese intercambio constante, ya no preparándose para la siguiente interrupción cortante, el ritmo mismo de la negociación asentándose en algo más cercano a una cooperación genuina de lo que había esperado al entrar.
+Trabajaron los detalles más finos del intercambio durante un rato después de eso, la negociación asentándose en un ritmo considerablemente menos hostil de lo que su apertura había prometido, cada concesión sopesada e intercambiada con una eficiencia que a Gabriel le pareció la marca de un comandante que, fuera cual fuese su historia, había aprendido hacía tiempo cómo hacer avanzar en verdad un trabajo difícil. Gabriel se descubrió, en algún punto de ese intercambio constante, ya no preparándose para la siguiente interrupción cortante.
 
 El temblor llegó sin aviso, una sacudida tenue pasando a través de la piedra en ruinas bajo sus pies, distante y breve pero inconfundible en su desacierto. Gabriel lo sintió como una presión tras sus propios ojos, el mismo desacierto particular que había aprendido a asociar con los ecos que Thamorak enviaba ondulando hacia afuera cada vez que reclamaba algún rincón fresco del reino. Se estabilizó contra la mesa baja de piedra, esperando a que la sensación pasara, y descubrió que se desvanecía más despacio que los temblores más pequeños a los que ya se había acostumbrado a percibir desde una distancia más segura.
 

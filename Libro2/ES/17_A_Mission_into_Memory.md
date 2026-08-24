@@ -1,10 +1,10 @@
 # Capítulo 17 — Una misión hacia la memoria
 
-Gabriel eligió el viejo observatorio para el encuentro, no la cámara del concilio, y lo eligió específicamente porque el informe de Camael tenía solo tres horas y todavía no había decidido cuánto de él estaba dispuesto a decir en voz alta delante de una sala que se dividiría de inmediato en facciones al oírlo. El observatorio se alzaba en la aguja más alta del Bastión, olvidado por todos salvo el puñado de eruditos que todavía subían hasta él para cartografiar estrellas que nadie abajo había mirado en siglos, y el aire aquí arriba era fino y frío de un modo que convenía exactamente al tipo de conversación para la que Gabriel había convocado a Sariel.
+Gabriel eligió el viejo observatorio para el encuentro, no la cámara del concilio, y lo eligió específicamente porque el informe de Camael tenía solo tres horas y todavía no había decidido cuánto de él estaba dispuesto a decir en voz alta delante de una sala que se dividiría de inmediato en facciones al oírlo. El observatorio se alzaba en la aguja más alta del Bastión, olvidado por todos salvo el puñado de eruditos que todavía subían hasta él para cartografiar estrellas que nadie abajo había mirado en siglos, y el aire aquí arriba era fino y frío de un modo que convenía al tipo de conversación para la que Gabriel había convocado a Sariel.
 
 Había pasado las tres horas desde la partida de Camael a solas con el mapa estelar, trazando constelaciones que él mismo había cartografiado mil años atrás y en las que ya no confiaba del todo, dándole vueltas a la forma del problema desde cada ángulo para el que pudiera reunir paciencia. A un concilio dividido en tres direcciones por una espada y un ciclo y un alma desaparecida no se le podía entregar una cuarta crisis para la que no tenía marco alguno con que absorberla, no todavía, no hasta que el propio Gabriel entendiera lo suficiente de ella como para que el contarla no partiera en dos limpiamente la poca cohesión que le quedaba al concilio.
 
-Sariel llegó sin anunciarse, del modo en que Gabriel había llegado a esperar de él, un hábito que Gabriel atribuía a toda una vida dedicada a cazar cosas que huirían en el instante en que lo oyeran llegar. No dijo nada al principio, solo esperó en el umbral hasta que Gabriel se volvió del mapa estelar para reconocerlo, paciente del modo particular y contenido de un hombre que hacía mucho había dejado de necesitar llenar el silencio con palabras innecesarias.
+Sariel llegó sin anunciarse, del modo en que Gabriel había llegado a esperar de él, un hábito que Gabriel atribuía a toda una vida dedicada a cazar cosas que huirían en el instante en que lo oyeran llegar. No dijo nada al principio, solo esperó en el umbral hasta que Gabriel se volvió del mapa estelar para reconocerlo, paciente del modo contenido de un hombre que hacía mucho había dejado de necesitar llenar el silencio con palabras innecesarias.
 
 Gabriel lo estudió un momento antes de hablar, del modo en que había aprendido a estudiar a cada soldado al que estaba a punto de enviar a algún lugar al que no podía seguirlo. Sariel había cambiado poco a lo largo de los siglos que Gabriel llevaba conociéndolo —la misma economía de movimiento, los mismos ojos que catalogaban una sala antes de que el resto de él terminara de cruzar su umbral, hábitos de cazador tan profundamente arraigados en él que ya no parecían hábitos en absoluto—. Era fácil, trabajando junto a un hombre tan firme durante tanto tiempo, olvidar cuánto le había costado construir esa firmeza.
 
@@ -24,9 +24,9 @@ Se lo contó con llaneza, sin la suavización que en otro tiempo podría haber u
 
 ---
 
-Sariel guardó silencio un momento, dándole vueltas a la petición con la misma atención paciente y metódica que Gabriel lo había visto llevar a cada cacería a lo largo de los siglos que se conocían. —¿Por qué yo? Tienes investigadores, Gabriel… eruditos entrenados exactamente para este tipo de trabajo, gente que lee textos antiguos para ganarse la vida en lugar de rastrear lo que se niega a que lo encuentren.
+Sariel guardó silencio un momento, dándole vueltas a la petición con la misma atención metódica que Gabriel lo había visto llevar a cada cacería a lo largo de los siglos que se conocían. —¿Por qué yo? Tienes investigadores, Gabriel… eruditos entrenados exactamente para este tipo de trabajo, gente que lee textos antiguos para ganarse la vida en lugar de rastrear lo que se niega a que lo encuentren.
 
-—Porque tú cazas a los reencarnados para ganarte la vida, Sariel. Nadie en este concilio entiende mejor que tú lo que significa que algo regrese sin un solo recuerdo de lo que fue una vez. —Gabriel sostuvo su mirada directamente, queriendo que oyera todo aquello y no solo la mitad halagadora—. Si estas armas cargan una historia enterrada, tú sabrás reconocer la forma de un secreto que no quiere que lo encuentren. Eso no es erudición. Es instinto construido a lo largo de siglos de perseguir exactamente este tipo de silencio. Necesito ese instinto en la Torre, no un índice de biblioteca.
+—Porque tú cazas a los reencarnados para ganarte la vida, Sariel. Nadie en este concilio entiende mejor que tú lo que significa que algo regrese sin un solo recuerdo de lo que fue una vez. —Gabriel sostuvo su mirada directamente, queriendo que oyera todo aquello y no solo la mitad halagadora—. Si estas armas cargan una historia enterrada, tú sabrás reconocer la forma de un secreto que no quiere que lo encuentren. Eso no es erudición: es instinto, construido a lo largo de siglos de perseguir este tipo de silencio. Necesito ese instinto en la Torre, no un índice de biblioteca.
 
 Algo se desplazó, brevemente, tras la compostura habitualmente ilegible de Sariel —no exactamente sorpresa, pero algo cercano—. —He pasado más tiempo del que me interesa contar aprendiendo a encontrar lo que quiere quedarse perdido —dijo—. No había pensado en eso como algo que el Cielo considerara útil fuera de su propósito original.
 
@@ -64,9 +64,11 @@ Gabriel no le dio las gracias por eso. Había aprendido, a lo largo de los largo
 
 —Hay una pregunta que debería haberte hecho antes de ahora, y no lo he hecho —dijo Gabriel en cambio, más bajo—. En todos los años que has pasado cazando a los reencarnados… ¿alguna vez encontraste a uno que recordara algo en absoluto, antes de encontrarlo tú?
 
-Sariel consideró la pregunta con el mismo cuidado sin prisa que le daba a todo. —No —dijo—. Ni una vez. Sea lo que sea que le cueste a un alma cruzar de vuelta a una nueva vida, parece costarle primero la memoria, cada vez, sin excepción. —Algo destelló tras su compostura, breve e ilegible—. A veces me he preguntado si eso es piedad o robo. Nunca me he decidido por una respuesta en ningún sentido.
+Sariel consideró la pregunta con el mismo cuidado que le daba a todo. —No —dijo—. Ni una vez. Sea lo que sea que le cueste a un alma cruzar de vuelta a una nueva vida, parece costarle primero la memoria, cada vez, sin excepción. —Algo destelló tras su compostura, breve e ilegible—. A veces me he preguntado si eso es piedad o robo. Nunca me he decidido por una respuesta en ningún sentido.
 
 —Yo tampoco —admitió Gabriel—. Me descubro esperando, más de lo que me gustaría admitir, que lo que encuentres en esa Torre no nos responda la pregunta. Algunas piedades son más fáciles de vivir sin examinar.
+
+Sariel no ofreció respuesta a eso. Inclinó la cabeza una vez y se volvió hacia las escaleras, una mano ya buscando la puerta.
 
 —Entonces ve con cuidado —dijo Gabriel—. Eso, al menos, sí puedo pedírtelo.
 

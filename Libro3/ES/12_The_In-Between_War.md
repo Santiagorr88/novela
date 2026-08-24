@@ -1,14 +1,14 @@
 # Capítulo 12 — La Guerra del Entremedio
 
-Camael sostuvo la vanguardia en el borde del Entremedio, donde la luz de la frontera del Cielo se adelgazaba en algo más cercano al ocaso que al día, y observó a la flota demoníaca formarse al otro lado de la brecha en filas lo bastante precisas como para sugerir un mariscal que valoraba la disciplina por encima del espectáculo. Había comandado enfrentamientos durante más tiempo del que le importaba numerar, en tramos de espacio disputado más feos que este, y hacía mucho había dejado de esperar que alguno de ellos se sintiera como algo distinto del trabajo. Revisó su propia formación una vez, no encontró fallo en ella, y se permitió exactamente la cantidad de satisfacción que el momento en verdad ameritaba —que, según su propio criterio de siempre, era muy poca.
+Camael sostuvo la vanguardia en el borde del Entremedio, donde la luz de la frontera del Cielo se adelgazaba en algo más cercano al ocaso que al día, y observó a la flota demoníaca formarse al otro lado de la brecha en filas lo bastante precisas como para sugerir un mariscal que valoraba la disciplina por encima del espectáculo. Había comandado enfrentamientos durante más tiempo del que le importaba numerar, en tramos de espacio disputado más feos que este, y hacía mucho había dejado de esperar que alguno de ellos se sintiera como algo distinto del trabajo. Revisó su propia formación una vez, no encontró fallo en ella, y se permitió exactamente la cantidad de satisfacción que el momento ameritaba —que, según su propio criterio de siempre, era muy poca.
 
 —¿Números? —preguntó, sin apartar la mirada de la brecha.
 
 —Igualados, casi —respondió su ayudante—. Su mariscal también mantiene posición. Nos espera tanto como nosotros a él.
 
-Camael había combatido contra una docena de comandantes a través de esa misma brecha a lo largo de los siglos, la mayoría contentos con cargar en el instante en que el orgullo se lo permitía. Este mantenía su línea con una paciencia que Camael reconoció, incómodamente, como un espejo de la suya propia. Archivó la observación en lugar de detenerse en ella, del modo en que archivaba todo detalle que pudiera importar después y ninguno que importara ahora, y esperó la orden que pondría fin a la espera.
+Camael había combatido contra una docena de comandantes a través de esa misma brecha a lo largo de los siglos, la mayoría contentos con cargar en el instante en que el orgullo se lo permitía. Este mantenía su línea con una paciencia que Camael reconoció, incómodamente, como un espejo de la suya propia. Dejó de lado la observación en lugar de detenerse en ella, del modo en que dejaba de lado todo detalle que pudiera importar después y ninguno que importara ahora, y esperó la orden que pondría fin a la espera.
 
-Había perdido soldados en este mismo tramo de terreno antes, nombres que todavía cargaba sin necesitar que se los recordaran, y había aprendido a través de aquellas pérdidas a confiar en la aritmética llana de la preparación por encima de cualquier cosa que se pareciera a la esperanza. Repasó la formación de nuevo en su mente, revisó las líneas de reserva, confirmó que los sanadores estuvieran posicionados donde un enfrentamiento largo en verdad los necesitaría en vez de donde la costumbre simplemente esperaba que estuvieran. Nada de aquello era trabajo inspirador. Nunca lo había necesitado así. Era, sencillamente, el trabajo que mantenía al menor número posible de sus soldados de convertirse en nombres de una lista de la que ya cargaba demasiados.
+Había perdido soldados en este mismo tramo de terreno antes, nombres que todavía cargaba sin necesitar que se los recordaran, y había aprendido a través de aquellas pérdidas a confiar en la aritmética llana de la preparación por encima de cualquier cosa que se pareciera a la esperanza. Repasó la formación de nuevo en su mente, revisó las líneas de reserva, confirmó que los sanadores estuvieran posicionados donde un enfrentamiento largo en verdad los necesitaría en vez de donde la costumbre esperaba que estuvieran. Nada de aquello era trabajo inspirador. Nunca lo había necesitado así. Era, sencillamente, el trabajo que mantenía al menor número posible de sus soldados de convertirse en nombres de una lista de la que ya cargaba demasiados.
 
 —No nos están probando —añadió su ayudante, observando las mismas filas quietas que Camael observaba—. Ese mariscal no es de esa clase.
 
@@ -28,7 +28,7 @@ Su tridente, Marea, descansaba sobre un antebrazo, su longitud atrapando la poca
 
 —¿Ya has combatido contra este antes? —preguntó su segundo, asintiendo hacia las filas doradas al otro lado de la brecha.
 
-—Dos veces —dijo Vepar—. No ganó ninguna de las dos, y tampoco perdió limpiamente. Ese es el tipo de enemigo que vale la pena en verdad observar, en vez de simplemente cargar contra él. —Mantuvo los ojos en la formación quieta del ángel, paciente, sin premura, y esperó a ver a cuál de los dos se le agotaba primero esa paciencia.
+—Dos veces —dijo Vepar—. No ganó ninguna de las dos, y tampoco perdió limpiamente. Ese es el tipo de enemigo que vale la pena en verdad observar, en vez de simplemente cargar contra él. —Mantuvo los ojos en la formación quieta del ángel, paciente, y esperó a ver a cuál de los dos se le agotaba primero esa paciencia.
 
 ---
 
@@ -36,7 +36,7 @@ La brecha entre las dos flotas no anunció lo que venía a continuación con nin
 
 —Informe —dijo, y oyó su propia voz salir más firme de lo que el suelo se sentía en ese momento bajo él.
 
-—No... señor, no registra en nada. Simplemente no está ahí.
+—No... señor, nada lo detecta. Cada instrumento responde como si lo hubiéramos apuntado al aire vacío.
 
 No tenía ninguna orden lista para una amenaza sin forma, sin números, sin arma visible. Había pasado toda su larga carrera construyendo una mente hecha para clasificar exactamente este tipo de brecha y la encontró, por un momento genuinamente desconocido, sin ofrecerle absolutamente nada con qué trabajar.
 
@@ -68,7 +68,7 @@ Vepar respondió un latido después con fuego infernal propio, una ola negra y r
 
 —Mariscal —dijo de nuevo su segundo, y esta vez ya no quedaba pregunta táctica alguna en la palabra, solo el miedo llano y sin ocultar de un soldado observando a su comandante quedarse sin respuestas en tiempo real.
 
-Vepar no tenía respuesta que darle. Comprendió, observando al agujero continuar su crecimiento paciente e indiferente, que ni el fuego ni la luz habían sido jamás el tipo correcto de arma para lo que en verdad era esto. Sus legiones sostuvieron su formación detrás de él sin necesitar que se les dijera, la misma disciplina que había pasado décadas inculcándoles sirviendo ahora un propósito para el que jamás los había entrenado —permanecer quietos, armas bajas, frente a un enemigo que se negaba a ser un enemigo en ninguna forma que un soldado pudiera en verdad combatir.
+Vepar no tenía respuesta que darle. Comprendió, observando al agujero continuar su crecimiento paciente e indiferente, que ni el fuego ni la luz habían sido jamás el tipo correcto de arma para lo que era esto. Sus legiones sostuvieron su formación detrás de él sin necesitar que se les dijera, la misma disciplina que había pasado décadas inculcándoles sirviendo ahora un propósito para el que jamás los había entrenado —permanecer quietos, armas bajas, frente a un enemigo que se negaba a ser un enemigo en ninguna forma que un soldado pudiera en verdad combatir.
 
 Pensó, brevemente, en cada campaña que había peleado y ganado por simple y paciente desgaste, agotando lo que fuera que estuviera frente a él hasta que finalmente cediera. Comprendió, observando a la ausencia silenciosa continuar su expansión sin premura, que el desgaste en sí mismo no significaba nada para una cosa que consumía el propio intento de desgastarla.
 
@@ -78,7 +78,7 @@ Pensó, brevemente, en cada campaña que había peleado y ganado por simple y pa
 
 Camael miró a través de la brecha que se ensanchaba y encontró a Vepar mirándolo de vuelta desde el lado lejano de ella, lo bastante cerca ya, con el crecimiento del agujero devorando la distancia entre sus dos flotas, como para leer el rostro del otro comandante sin necesitar ningún instrumento que lo ayudara. Fuera lo que fuese lo que había esperado ver ahí —triunfo, desprecio, la satisfacción particular de un enemigo observándolo fallar— nada de eso estaba presente. Lo que vio en cambio se parecía, tan llanamente como cualquier expresión que jamás hubiera aprendido a leer en un campo de batalla, al miedo.
 
-Pensó en cada informe que había escuchado sobre el actual mariscal del Infierno, cada reporte que había pintado al hombre como calculador, despiadado, por completo cómodo intercambiando soldados por ventaja. Ninguno de aquellos informes lo había preparado para un rostro tan abiertamente perturbado, y descubrió, estudiándolo, que el descubrimiento lo perturbaba considerablemente más que cualquier sorpresa táctica que el mariscal pudiera haberle tendido en su lugar. No dio la orden de cargar. Mantuvo sus filas donde estaban, observando crecer la ausencia silenciosa, y descubrió que ya no tenía ninguna respuesta lista para de qué dirección venía en verdad el peligro real.
+Pensó en cada informe que había escuchado sobre el actual mariscal del Infierno, cada reporte que había pintado al hombre como calculador, despiadado, por completo cómodo intercambiando soldados por ventaja. Ninguno de aquellos informes lo había preparado para un rostro tan abiertamente perturbado, y descubrió, estudiándolo, que el descubrimiento lo perturbaba más que cualquier sorpresa táctica que el mariscal pudiera haberle tendido en su lugar. No dio la orden de cargar. Mantuvo sus filas donde estaban, observando crecer la ausencia silenciosa, y descubrió que ya no tenía ninguna respuesta lista para de qué dirección venía en verdad el peligro real.
 
 ---
 
