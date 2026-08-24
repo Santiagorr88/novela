@@ -42,6 +42,14 @@ Michael closed his eyes as his own share arrived, doubt and fallibility settling
 
 ---
 
+Michael felt the fragment arrive as absence first — not doubt, not yet, just a hole where certainty had always stood guard, the same threshold he had once been armored against down to the last unbending inch of himself. For a heartbeat there was only that: the guard gone, the wall unmanned, nothing yet rushing in to take its place.
+
+Then the doubt itself, arriving all at once instead of gently, and it did not feel like anything falling apart. It felt like a threshold — a door standing open where he had only ever known a bricked wall. He had spent nine years learning to live beside not-knowing without collapsing under it, a classroom of children whose questions he never fully answered, a woman he had loved without ever being sure of tomorrow. He had thought he'd already made his peace with the limits of what he could be certain of. What arrived now went further than that. This was not accepting a limit he couldn't remove. This was consenting to become the kind of being who might be wrong and act anyway, might love and lose and choose it again, forever, with no old certainty left to rescue him from the choosing.
+
+His hand did not shake on Solmire's grip. He noticed that, distantly, and let it matter to him less than it once would have. Certainty had never made him brave. This might.
+
+---
+
 The act was complete. Azael looked at the three of them a long moment, each one changed now in ways none of them would likely finish measuring for years, and found he had nothing left to say that plain gratitude couldn't cover more honestly than any grander speech. He thought of the valley where he'd first gathered them, of the mountain sanctuary that had held their earliest, most difficult conversations, of the long, careful road that had led all four of them to this exact fulcrum. He understood that whatever came next for the three of them, he would not be present to witness it in any shape they would still recognize as him. He offered them a small, serene smile instead of the words he couldn't currently find, trusting the gesture to say plainly enough what his voice, for once, did not seem equal to carrying.
 
 His physical form began to dissolve, not outward into absence but inward, folding toward something larger than the shape he'd carried through his long existence. He felt his own hands lose their familiar edges first, the fingers that had held Aetheris broken for so many centuries simply ceasing to hold a shape distinct from the staff itself. He felt no fear in the losing of it, only a quiet, settling curiosity, the particular calm of a man watching a question he'd carried his whole life finally begin answering itself, patiently, in the unhurried way he'd always somehow known it eventually would.

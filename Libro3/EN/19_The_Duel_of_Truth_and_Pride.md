@@ -22,7 +22,7 @@ He studied the pale, patient figure standing alone against his entire assembled 
 
 ---
 
-Thaeriel watched the demon lord's display without any particular concern for the fire or the ranks arrayed behind it, reading instead the strain beneath the performance — a confidence built on repetition rather than conviction, the kind that cracked the moment someone declined to be impressed by it. He had judged a hundred men who wore power the way Belial wore his armor, loud and theatrical, and had learned, across every one of them, that the theater usually meant less than the man performing it wanted it to mean.
+Thaeriel watched the demon lord's display without any particular concern for the fire or the ranks arrayed behind it, reading instead the strain beneath the performance — a confidence built on repetition rather than conviction, the kind that cracked the moment someone declined to be impressed by it. He had judged a hundred men who wore power the way Belial wore his armor, loud and theatrical, and had learned, across every one of them, that the theater usually meant less than the man performing it wanted it to mean. Even standing this close to Belial's black fire, the cold of the plaza never fully lifted — a dry, biting cold that had nothing to do with any weather he'd crossed to reach it, the same faint taste of old iron sitting on his tongue that had greeted him since the gates.
 
 He felt no anger standing here, only the plain, settled weight of purpose finally arriving at its destination. Whatever this confrontation cost him, and he already understood it would cost him plenty, it would cost him honestly, in service of something worth the price.
 
@@ -40,7 +40,7 @@ He forced himself upright through sheer stubbornness, refusing to let his own le
 
 ---
 
-Thaeriel felt the backlash reach him too, familiar and unwelcome, an old weight he had carried for ages longer than the man currently staggering in front of him had existed to measure. It did not move him. He had long since stopped expecting this particular grief to ever feel like anything less than exactly this heavy.
+Thaeriel felt the backlash reach him too, familiar and unwelcome, an old weight he had carried for ages longer than the man currently staggering in front of him had existed to measure. It did not move him. Behind Belial, the watching legions had gone utterly still, that same held, suppressed quiet he'd felt settle over the whole city since the gates — thousands of soldiers keeping their breath and their fear equally contained, as though sound itself might cost something here that none of them were willing to pay. He had long since stopped expecting this particular grief to ever feel like anything less than exactly this heavy.
 
 "You feel it now," he said. "Every time you've pointed it away from yourself. It was never actually gone. You only stopped being the one paying for it."
 
@@ -72,6 +72,6 @@ He thought, in the ragged space between one swing and the next, of every argumen
 
 ---
 
-Thaeriel watched him falter and felt no satisfaction in the sight, only the plain, settled certainty that whatever came next in this duel had already been decided several exchanges ago, the instant Belial's own fury had finally started working against him instead of for him. He thought of every judgment he'd ever handed down that had ended in relief rather than triumph, the quiet understanding that exposing a lie was rarely the same thing as celebrating its exposure. This felt no different. A man was coming apart in front of him, one truth at a time, and there was nothing in that unmaking worth taking pleasure in, however necessary it had turned out to be.
+Thaeriel watched him falter and felt no satisfaction in the sight, only the plain, settled certainty that whatever came next in this duel had already been decided several exchanges ago, the instant Belial's own fury had finally started working against him instead of for him. He thought of every judgment he'd ever handed down that had ended in relief rather than triumph, the quiet understanding that exposing a lie was rarely the same thing as celebrating its exposure. This felt no different, the same dry cold of the plaza settling deeper into him with every truth he let pass through, as though Dis itself grew colder in proportion to how much of its pride came undone. A man was coming apart in front of him, one truth at a time, and there was nothing in that unmaking worth taking pleasure in, however necessary it had turned out to be.
 
 He held his position, unmoved, a mirror turned steadily toward a man who had spent centuries constructing every possible reason not to look into one, and waited to see how much further pride alone could carry someone who had just been shown exactly how little of it had ever been his own.

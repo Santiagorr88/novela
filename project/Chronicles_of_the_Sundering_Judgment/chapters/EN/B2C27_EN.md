@@ -28,7 +28,7 @@ Gabriel did not step back, and he did not raise his voice to order the chamber t
 
 He did not aim it at Uriel. He let it loose into the air between them instead, a note that was not quite sound and not quite anything else he had words for, and felt the whole chamber answer it at once — every surface, every column, every drawn breath in the room shuddering under a single perfect tone before the tone itself resolved into a silence so complete it felt, for a moment, like the absence of the room entirely.
 
-No one was harmed. Gabriel had made certain of that before he'd let the note leave him, steering it carefully away from every living thing crowded along those walls, and holding it back that precisely had taken more out of him than releasing it plainly would have. But two columns near the chamber's eastern arch, already weakened by months of a war whose damage this Bastion had never fully repaired, gave way one crack further, a long low groan of settling stone the only sound left in the room once the hymn's echo had finally died.
+No one was harmed. Gabriel had made certain of that before he'd let the note leave him, steering it carefully away from every living thing crowded along those walls, and holding it back that precisely had taken more out of him than releasing it plainly would have. But two columns near the chamber's eastern arch, already weakened by months of a war whose damage this Bastion had never fully repaired, gave way one crack further, a long low groan of settling stone the only sound left in the room once the hymn's echo had finally died, a fine dust of old stone drifting down into the sudden quiet and settling, dry and mineral, on every upturned face below it.
 
 ---
 
@@ -50,7 +50,7 @@ Gabriel didn't feel the stalemate as a personal defeat, not really. What he felt
 
 ---
 
-He found Sariel afterward at the hidden vantage point above the Bastion's western wall, a narrow ledge worn smooth by however many councils of angels had stood there before him seeking the same kind of quiet, overlooking a cosmos too vast for any single vantage to properly hold. Sariel arrived at his summons without question, as he always did, and stood beside him a while in silence before either of them spoke.
+He found Sariel afterward at the hidden vantage point above the Bastion's western wall, a narrow ledge worn smooth by however many councils of angels had stood there before him seeking the same kind of quiet, the wind up here thinner and cleaner than anything the chamber's air had offered, overlooking a cosmos too vast for any single vantage to properly hold. Sariel arrived at his summons without question, as he always did, and stood beside him a while in silence before either of them spoke.
 
 Gabriel studied him a moment first, weighing what he was about to ask against everything Sariel had already given this mission — the Tower, the residue Raphael had drawn out of him afterward, the promise of patience Gabriel himself had made only nights ago. Sariel stood straighter now than he had that night, his balance fully returned, and Gabriel let himself trust the improvement enough to ask what he'd come here to ask.
 

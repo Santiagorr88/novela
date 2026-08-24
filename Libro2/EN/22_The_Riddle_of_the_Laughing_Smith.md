@@ -2,7 +2,7 @@
 
 The light kept sinking regardless of what Mikel decided to do about it, and he made his peace with that the way he'd made his peace with every other impossible constraint this island had handed him since the fog first swallowed the mainland behind him. He returned to the anvil with the last honest hour of daylight he could count on, and laid both hands flat against its worn, ancient face this time instead of one, some instinct insisting that the earlier, tentative touch hadn't been enough to ask the stone whatever question it was still refusing to answer.
 
-The warmth came first, faint and impossible in metal this old, this thoroughly abandoned — a ghost of heat with no visible source, the residue of a forge fire that should have gone cold centuries before anyone alive today had been born. He held his palms against it a long moment, feeling it pulse very faintly beneath his skin, patient in a way that felt less like coincidence and more like something old finally noticing it had company.
+The warmth came first, faint and impossible in metal this old, this thoroughly abandoned — a ghost of heat with no visible source, carrying with it the faint smell of hot metal and something sharper underneath, almost like ozone, the smell of air changing right before a spark catches — the residue of a forge fire that should have gone cold centuries before anyone alive today had been born. He held his palms against it a long moment, feeling it pulse very faintly beneath his skin, patient in a way that felt less like coincidence and more like something old finally noticing it had company.
 
 He thought of every ruin he'd ever studied properly, every excavation where stone this age had long since surrendered whatever warmth its makers had once poured into it. None of them had prepared him for this. This forge did not feel abandoned the way ruins felt abandoned. It felt, beneath his palms, more like something merely resting between one use and the next. He glanced once toward the tree line, gauging how much of the fading light he still had left to spend here, and pressed his hands more firmly against the stone.
 
@@ -26,7 +26,7 @@ For the first time since this search had begun, the question that mattered wasn'
 
 ---
 
-He searched the anvil's surface properly this time, working outward from the exact spot where his palms had rested, rather than the base and surrounding stone he'd already combed bare hours earlier. The inscription revealed itself only when he cleared away a fine layer of ash that had settled, undisturbed, into a shallow groove worn into the metal — letters in a script his eyes recognized from the old ethnography's footnote, faint but legible once the ash lifted clear.
+He searched the anvil's surface properly this time, working outward from the exact spot where his palms had rested, rather than the base and surrounding stone he'd already combed bare hours earlier. The inscription revealed itself only when he cleared away a fine layer of ash that had settled, undisturbed, into a shallow groove worn into the metal — ash that smelled, absurdly, still faintly of smoke, as though the fire that made it had gone out only hours ago — letters in a script his eyes recognized from the old ethnography's footnote, faint but legible once the ash lifted clear.
 
 *I am a verdict given not with anger, but with joy. I cannot be claimed by wrath, only by laughter.*
 

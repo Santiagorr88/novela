@@ -63,3 +63,7 @@ Este documento es el tracker vivo de la Parte 2, análogo a `book1_part1_expande
 - Naming convention nueva para las tramas: `B1V0N` (Vual), `B1T0N` (Turein), `B1N0N` (Necrópolis), `B1H0N` (Hollowseam), `B1F0N` (Foras/Vepar) — prefijo de una letra + número de dos dígitos, coherente con el prefijo `B1L0N` ya usado para Lament.
 - Los personajes nuevos de esta parte (Corin Vasse, Krass, Vual, Cassiel, Selm, Kurel, Daith, Vem, Thoria, Malthus, Stolas) ya tienen ficha en `prompt_universo.md`/`personajes.md` — verificar cada uno antes de escribir su primer capítulo, siguiendo la disciplina ya aplicada en toda la Parte 1.
 - Mantener el objetivo de 2.250-3.000 palabras/capítulo salvo indicación distinta del propio beat-plan.
+
+---
+
+> **Nota (2026-08-23)**: en el compilado `Libro1/EN/` se aplicaron tres fusiones de capítulos aprobadas por el autor tras la auditoría de ritmo (28+29 Necrópolis, 31+33 Turein/Cassiel, 35+36 Foras/Vepar), reduciendo el libro de 54 a 51 capítulos. Este documento describe el orden de las UNIDADES FUENTE originales (códigos B1*), que se conservan sin fusionar en `project/.../chapters/EN/` como archivo histórico. El orden de lectura canónico del compilado es `Libro1/EN/_manifest.json`.

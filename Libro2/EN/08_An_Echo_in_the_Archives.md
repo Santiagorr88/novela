@@ -6,7 +6,7 @@ He was not, if he was honest with the version of himself that only surfaced at t
 
 ---
 
-He found the footnote on a Tuesday, deep in the university's special collections, in a section of the stacks so rarely visited that the librarian had to consult a paper ledger to locate the shelf at all. The book itself was unremarkable — a privately printed ethnography of an island culture, the kind of academic vanity project that got printed in editions of two hundred and then forgotten by everyone except the estate that had funded it. Mikel had pulled it almost at random, following a citation trail three sources removed from anything relevant, and had nearly set it back down twice before his eye caught on a single line buried in a footnote near the end of the third chapter.
+He found the footnote on a Tuesday, deep in the university's special collections, in a section of the stacks so rarely visited that the air itself smelled of old paper and undisturbed dust, and the librarian had to consult a paper ledger to locate the shelf at all. The book itself was unremarkable — a privately printed ethnography of an island culture, the kind of academic vanity project that got printed in editions of two hundred and then forgotten by everyone except the estate that had funded it. Mikel had pulled it almost at random, following a citation trail three sources removed from anything relevant, and had nearly set it back down twice before his eye caught on a single line buried in a footnote near the end of the third chapter.
 
 *The islanders speak of a sky-smith who forged a sword not from divine rage, but from a star's laughter.*
 
@@ -42,7 +42,7 @@ It was the exact opposite of everything Mikel remembered from the only judgment 
 
 The text named a place before it exhausted itself into further speculation the author clearly hadn't trusted enough to commit to with confidence: an island, shrouded in enough contradictory legend and navigational myth that the author had spent an entire paragraph simply cataloguing the ways different informants disagreed about where, precisely, it could be found. One elder swore it lay three days' sail past a reef that appeared on no chart. Another insisted it could not be found by sailing toward it at all, only by sailing away from something else and letting the island find you instead. The author had thrown up his hands, in prose that carried the particular exasperation of a scholar who'd expected simple geography and been handed a riddle. Turein. Mikel stared at the name until it stopped looking like a collection of letters and started looking, instead, like the first solid ground he'd stood on in weeks. Not a myth. Not a feeling he couldn't name. A place, on a map, however unreliable that map might prove to be — and somewhere he might finally be able to walk toward instead of sitting still and waiting for the next dream to tell him more than the last one had.
 
-He closed the book with hands that weren't entirely steady, and did not return it to the shelf.
+He closed the book with hands that weren't entirely steady, the dry, papery smell of it still caught in the back of his throat, and did not return it to the shelf.
 
 ---
 
