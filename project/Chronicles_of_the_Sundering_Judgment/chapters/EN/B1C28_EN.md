@@ -64,7 +64,7 @@ He had won. He told himself that in the particular tone one uses on a fact that 
 
 The lieutenant stopped ten paces out. Those who came closer rarely did it twice. "The Host awaits orders. No one has claimed command."
 
-"And what are you waiting for?" Belial did not look up from the ruined hand, flexing it once, testing how much of the pain was real and how much was the spear's doing. He set his palm flat against the haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief, wearing hunger as a disguise.
+"And what are you waiting for?" Belial did not look up from the ruined hand, flexing it once, testing how much of the pain was real and how much was the spear's doing. He set his palm flat against the haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief. Not his. The spear's.
 
 He did not have a name for that yet. He filed the absence of a name away, the way he filed away every advantage he had not yet learned how to use.
 
@@ -72,9 +72,9 @@ He kept returning, uninvited, to the last exchange: the commander who had thrown
 
 "For someone to claim it. If not you, it will be another. The captains are already counting swords."
 
-"Let them count. Swords tire before pride does." Belial rose, and let the spear's butt drag a thin line through the ash at his feet. "Find out where this spear came from. Bring me the name of the one who forged it. Nothing else."
+"Let them count. Swords tire before pride does." Belial rose, and let the spear's butt drag a thin line through the ash at his feet. "Find out who forged this spear. Bring me a name. Nothing else."
 
-"Rebuild the lines," he told the lieutenant. "Let them believe I'm resting. I am not resting."
+"Rebuild the lines," he told the lieutenant. "Let them believe I'm resting."
 
 On Earth, in three places that had no reason to notice one another, the same hour turned.
 

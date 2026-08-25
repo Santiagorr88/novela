@@ -64,7 +64,7 @@ Había ganado. Se lo dijo a sí mismo en el tono particular que se usa para un h
 
 El teniente se detuvo a diez pasos. Los que se acercaban más no solían hacerlo dos veces. —La Hueste espera órdenes. Nadie ha reclamado el mando.
 
-—¿Y tú qué esperas? —Belial no levantó la vista de la mano arruinada, flexionándola una vez, probando cuánto del dolor era real y cuánto era obra de la lanza. Apoyó de todos modos la palma plana contra el asta. El zumbido bajo su piel se agudizó, y por un instante no deseado, oyó —bajo el apetito interminable de la lanza— algo que no era hambre en absoluto. Algo casi como pena, disfrazada de hambre.
+—¿Y tú qué esperas? —Belial no levantó la vista de la mano arruinada, flexionándola una vez, probando cuánto del dolor era real y cuánto era obra de la lanza. Apoyó de todos modos la palma plana contra el asta. El zumbido bajo su piel se agudizó, y por un instante no deseado, oyó —bajo el apetito interminable de la lanza— algo que no era hambre en absoluto. Algo casi como pena. No suya. De la lanza.
 
 Todavía no tenía un nombre para eso. Archivó la ausencia de un nombre, del mismo modo en que archivaba toda ventaja que todavía no había aprendido a usar.
 
@@ -72,9 +72,9 @@ Volvía, sin ser invitado, al último intercambio: el comandante que se había a
 
 —Que alguien lo haga. Si no sois vos, será otro. Los capitanes ya cuentan espadas.
 
-—Que cuenten. Las espadas se cansan antes que el orgullo. —Belial se levantó, y dejó que el regatón de la lanza trazara una línea delgada por la ceniza a sus pies—. Averigua de dónde salió esta lanza. Tráeme el nombre del que la forjó. Nada más.
+—Que cuenten. Las espadas se cansan antes que el orgullo. —Belial se levantó, y dejó que el regatón de la lanza trazara una línea delgada por la ceniza a sus pies—. Averigua quién forjó esta lanza. Tráeme un nombre. Nada más.
 
-—Reconstruye las líneas —le dijo al teniente—. Que crean que estoy descansando. No estoy descansando.
+—Reconstruye las líneas —le dijo al teniente—. Que crean que estoy descansando.
 
 En la Tierra, en tres lugares que no tenían motivo alguno para notarse entre sí, la misma hora dio la vuelta.
 
