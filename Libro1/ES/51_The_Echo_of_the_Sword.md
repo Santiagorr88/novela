@@ -6,13 +6,13 @@ Sobre el Templo de la Luz Quebrada, la bóveda sanaba en ciclos extraños y desi
 
 Los estandartes colgaban a la mitad de su antigua altura, no por ceremonia sino porque ya no quedaba nadie lo bastante alto, de espíritu, para alzarlos más.
 
-En lo que quedaba de sus aposentos, Camael no asistía al consejo. Se lo habían pedido dos veces; había respondido dos veces; no se había movido.
+En lo que quedaba de sus aposentos, Camael no asistía al consejo. Se lo habían pedido dos veces; respondido dos veces; y no se movió en ninguna.
 
 Estaba sentado sobre un escudo volcado, una piedra de afilar en una mano y en la otra la espada de un desconocido —la hoja corta de Jeremiel, *Diké*, todavía mellada del último frente que hubiera sostenido jamás—. Camael pasaba la piedra por el filo con el mismo ritmo firme y ensayado que usaba en sus propias armas antes de una campaña, aunque esta hoja no vería más campañas y ambos lo sabían. Ya había limpiado la armadura de once soldados que no habían vuelto. Esta era la duodécima pieza, y la que había guardado para el final.
 
 Un mensajero lo encontró ahí. —Comandante. Lo esperan en el salón.
 
-—Ya saben lo que van a decidir —dijo Camael, sin alzar la vista—. No necesito estar en la sala para estar de acuerdo.
+—Ya saben lo que van a decidir —replico Camael, sin alzar la vista—. No necesito estar en la sala para estar de acuerdo.
 
 El mensajero no insistió. Camael giró la hoja una vez bajo la luz menguante, revisó un filo que no necesitaba revisión, y siguió puliendo una espada que jamás volvería a cortar nada más que el silencio a su alrededor.
 
@@ -22,15 +22,15 @@ Gabriel había apoyado el estandarte astillado contra el altar en vez de alzarlo
 
 —No podemos seguir desangrando recursos en guardias para un enemigo que no se ha movido en tres semanas —dijo Uriel.
 
-—No se ha ido, Uriel. Está eligiendo su momento. —La voz de Camael: había venido después de todo, silencioso hasta ese momento, apoyado en el umbral con la espada pulida de Jeremiel tendida sobre ambas palmas como una ofrenda—. Belial no descansa. Recalcula.
+—No se ha ido, Uriel. Está eligiendo su momento. —era la voz de Camael: había venido después de todo, silencioso hasta ese momento, apoyado en el umbral con la espada pulida de Jeremiel tendida sobre ambas palmas como una ofrenda—. El Infierno no descansa. Recalcula.
 
-Zadkiel entró último, un manuscrito chamuscado bajo un brazo, el mango de Decretum raspando suavemente contra el suelo con cada paso. —El ciclo no está roto —dijo, sin preámbulo—. Pero está más doblado de lo que jamás lo he medido. No sé qué cuesta doblarlo de vuelta.
+Zadkiel entró último, un manuscrito chamuscado bajo un brazo, el mango de Decretum raspando suavemente contra el suelo con cada paso. —El ciclo no está roto —dijo, sin preámbulos—. Pero está más doblado de lo que jamás lo he medido.
 
-—¿Alguien va a decir el resto? —Esa era Cassiel, desde un rincón en sombras, los brazos cruzados con la fuerza suficiente para acallar un temblor—. El General se ha ido. Dígalo con claridad o seguiremos planificando alrededor de un agujero que ninguno de nosotros ha nombrado.
+—¿Alguien va a decir el resto? —Respondio Cassiel, desde un rincón en la sombra con los brazos cruzados con la fuerza suficiente para acallar un temblor—. El General se ha ido. Díganlo con claridad o seguiremos planificando alrededor de un agujero que ninguno de nosotros ha nombrado.
 
 La vela entre ellos vaciló y se sostuvo.
 
-Gabriel exhaló como si la palabra le costara un ala. —Miguel volverá a caer a ese mundo —dijo—. Y cuando despierte allí, no recordará nada de esto. Resistimos hasta entonces. Por mucho que eso tarde.
+Gabriel exhaló como si la palabra le costara un ala. —Miguel caerá a ese mundo —dijo—. Y cuando despierte allí, no recordará nada de esto. Resistimos hasta entonces. Por mucho que eso tarde.
 
 —Resistir también sin su espada. —La voz de Iofiel apenas se oía, pero la sala se acalló para escucharla—. Solmire está perdida en la Tierra. Podrían pasar siglos antes de que se la encuentre.
 
@@ -108,7 +108,7 @@ Jamás le había contado esa palabra a nadie. Algunas mañanas ni siquiera estab
 
 El hombre de la hamaca lo vio pasar a distancia, y algo cruzó su rostro que era, inconfundiblemente, reconocimiento —no del rostro en sí, que jamás había visto antes en su vida, sino de lo que había detrás de él—. Conocía ese peso particular cuando lo sentía cerca, del modo en que una sala llena de desconocidos todavía puede contener una sola nota familiar. No se levantó. No lo llamó. Alzó su vaso en cambio, y el hielo dentro sonó suave y pequeño, como una campana oída bajo el agua.
 
-—Vaya, vaya... —murmuró, para nadie, saboreando las palabras antes de dejarlas ir—. Quién habría pensado que terminarías aquí.
+—Vaya, vaya... —murmuró, para sí mismo, saboreando las palabras antes de dejarlas ir—. Quién habría pensado que terminarías aquí.
 
 El joven estaba demasiado lejos por la orilla como para oírlo, demasiado dentro de su propia cabeza, persiguiendo un pensamiento que había salido a la superficie con la última ola y ya se retiraba con la siguiente, como para notar siquiera que lo observaban.
 
@@ -116,6 +116,6 @@ El hombre de la hamaca tomó un sorbo lento de su vaso, todavía observando a la
 
 —Supongo que es hora de volver al juego —añadió.
 
-La distancia entre ambos se mantuvo, ininterrumpida, a lo largo de toda la playa. El cielo parpadeó, una vez, muy lejos más allá del agua. Una gaviota chilló en algún lugar a la distancia.
+La distancia entre ambos se mantuvo, a lo largo de toda la playa. El cielo parpadeó, a lo lejos, más allá del agua, una gaviota chilló en la distancia.
 
 **Fin del Libro Uno.**

@@ -6,13 +6,13 @@ Above the Temple of Shattered Light, the vault healed in strange, uneven cycles 
 
 Banners hung at half their old height, not from ceremony but because there was no one left tall enough, in spirit, to raise them further.
 
-In what remained of his quarters, Camael was not attending the council. He had been asked twice; he had answered twice; he had not moved.
+In what remained of his quarters, Camael was not attending the council. He had been asked twice; answered twice; and moved for neither.
 
 He sat on an overturned shield, a whetstone in one hand and a stranger's sword in the other — Jeremiel's short blade, *Diké*, still notched from the last front it had ever held. Camael drew the stone along the edge with the same steady, practiced rhythm he used on his own weapons before a campaign, though this blade would see no more campaigns and both of them knew it. He had already cleaned the armor of eleven soldiers who had not come back. This was the twelfth piece, and the one he had saved for last.
 
 A runner found him there. "Commander. They're waiting for you in the hall."
 
-"They already know what they'll decide," Camael said, not looking up. "I don't need to be in the room to agree to it."
+"They already know what they'll decide," Camael replied, not looking up. "I don't need to be in the room to agree to it."
 
 The runner didn't press him. Camael turned the blade once in the failing light, checked an edge that did not need checking, and kept polishing a sword that would never again cut anything but the silence around it.
 
@@ -22,15 +22,15 @@ Gabriel had propped the splintered banner against the altar rather than raise it
 
 "We can't keep bleeding resources on watches for an enemy that hasn't moved in three weeks," Uriel said.
 
-"He's not gone, Uriel. He's choosing his moment." Camael's voice — he had come after all, silent until now, leaning in the doorway with Jeremiel's polished sword laid across both palms like an offering. "Belial doesn't rest. He recalculates."
+"He's not gone, Uriel. He's choosing his moment." Camael's voice — he had come after all, silent until now, leaning in the doorway with Jeremiel's polished sword laid across both palms like an offering. "Hell doesn't rest. It recalculates."
 
-Zadkiel entered last, a charred manuscript under one arm, Decretum's haft scraping softly against the floor with each step. "The cycle isn't broken," he said, without preamble. "But it's bent further than I've ever measured it. I don't know what it costs to bend it back."
+Zadkiel entered last, a charred manuscript under one arm, Decretum's haft scraping softly against the floor with each step. "The cycle isn't broken," he said, without preamble. "But it's bent further than I've ever measured it."
 
 "Is anyone going to say the rest of it?" That was Cassiel, from a shadowed corner, arms crossed hard enough to still a tremor. "The General is gone. Say it plainly or we'll keep planning around a hole none of us have named."
 
 The candle between them guttered and held.
 
-Gabriel exhaled like the word cost him a wing. "Miguel will fall into that world again," he said. "And when he wakes there, he won't remember any of this. We hold until then. However long that is."
+Gabriel exhaled like the word cost him a wing. "Miguel will fall into that world," he said. "And when he wakes there, he won't remember any of this. We hold until then. However long that is."
 
 "Hold without his sword, too." Iofiel's voice barely carried, but the room quieted to hear it. "Solmire is lost on Earth. It may be centuries before it's found."
 
@@ -108,7 +108,7 @@ He had never told anyone that word. He wasn't sure, some mornings, that it was e
 
 The man in the hammock watched him pass at a distance, and something crossed his face that was, unmistakably, recognition — not of the face itself, which he had never seen before in his life, but of what stood behind it. He knew that particular weight when he felt it near him, the way a room full of strangers can still hold one familiar note. He didn't get up. He didn't call out. He lifted his glass instead, and the ice inside it rang soft and small, like a bell heard underwater.
 
-"Well, well…" he murmured, to no one, tasting the words before he let them go. "Who'd have thought you'd end up here."
+"Well, well…" he murmured, to himself, tasting the words before he let them go. "Who'd have thought you'd end up here."
 
 The young man was too far down the shoreline to hear him, too far inside his own head, chasing a thought that had surfaced with the last wave and was already receding with the next, to notice he was being watched at all.
 
@@ -116,7 +116,7 @@ The man in the hammock took a slow sip from his glass, still watching the white-
 
 "I suppose it's time to get back in the game," he added.
 
-The distance between them held, unbroken, the whole length of the beach. The sky flickered, once, far out past the water. A gull cried somewhere in the distance.
+The distance between them held the whole length of the beach. The sky flickered, far out past the water, and a gull cried in the distance.
 
 **The End of Book One.**
 
