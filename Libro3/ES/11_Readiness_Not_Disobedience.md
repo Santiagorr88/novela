@@ -18,7 +18,7 @@ El soldado no le dio las gracias. Kushiel había dejado hacía mucho de esperar 
 
 ---
 
-Thariel esperaba en la cresta cuando Kushiel llegó a ella, de pie muy quieto, en la quietud que Kushiel había aprendido a leer como la de alguien que ya había decidido cuánto de su propia urgencia mostrar antes de haberse ganado el derecho a mostrar alguna. No sostenía nada en las manos. Fuera lo que fuese lo que había venido a entregar, ya había decidido que no necesitaba un documento que lo cargara.
+Thariel esperaba en la cresta cuando Kushiel llegó a ella, de pie muy quieto, en la quietud que Kushiel había aprendido a leer como la de alguien que ya había decidido cuánto de su propia urgencia mostrar antes de haberse ganado el derecho a mostrar alguna. No sostenía nada en las manos. Lo que había venido a entregar, ya había decidido que no necesitaba un documento que lo cargara.
 
 —Querrás esto antes de que el resto del frente lo oiga de segunda mano —dijo Thariel.
 

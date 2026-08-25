@@ -1,6 +1,6 @@
 Chapter 21. The Commander's Return.
 
-The golden gates of the Celestial City rose ahead of them as the road finally cleared its last rise, catching a light that had no true source and needed none, exactly as Michael remembered them from a life he'd spent so long unable to properly recall. He registered the sight before his mind had finished processing it — not the clean satisfaction of a commander returning to his post, but something closer to grief, sharp and unexpected, grief for every version of himself that had stood at this exact threshold across ages he could barely count.
+The golden gates of the Celestial City rose ahead of them as the road finally cleared its last rise, catching a light that had no true source and needed none, exactly as Michael remembered them from a life he'd spent so long unable to recall. He registered the sight before his mind had finished processing it — not the clean satisfaction of a commander returning to his post, but something closer to grief, sharp and unexpected, grief for every version of himself that had stood at this exact threshold across ages he could barely count.
 
 He had stood here as a young soldier once, certain of every answer the world had ever bothered to ask him. He had stood here again as something older, something wearier, carrying doubts he'd never admitted to anyone standing near enough to hear them. He stood here now as neither of those men entirely, and neither one fully absent from him either, and found the layered weight of every prior arrival settling into his chest at once, heavier than he'd expected a simple homecoming to feel.
 
@@ -8,19 +8,19 @@ He did not approach the way he once would have, shoulders squared, stride certai
 
 Azael walked beside him in silence, his presence steady and unreadable, offering nothing that might rush Michael past whatever he needed to feel standing here. Ereloth walked on his other side, whistling some cheerful, entirely inappropriate tune under his breath, and Michael found, despite everything weighing on him, that the absurdity of it steadied him more than solemn silence would have.
 
-He thought, walking the last stretch of road toward those gates, of every version of this homecoming he'd rehearsed in his own head across the long journey here — dignified returns, tearful reunions, cold receptions he'd braced himself against without knowing which one he'd face. None of the versions he'd imagined had prepared him for how simply strange it felt to stand here now, mortal memory and ancient rank sitting uneasily together in the same chest, neither one quite willing to let the other lead.
+He thought, walking the last stretch of road toward those gates, of every version of this homecoming he'd rehearsed in his own head across the long journey here — dignified returns, tearful reunions, cold receptions he'd braced himself against without knowing which one he'd face. None of the versions he'd imagined had prepared him for how strange it felt to stand here now, mortal memory and ancient rank sitting uneasily together in the same chest, neither one quite willing to let the other lead.
 
 ...
 
 The gates opened before Michael had raised a hand to announce himself, swinging wide on their own as though something behind them had already sensed exactly who now stood waiting on this side. A single figure emerged first, moving faster than the careful dignity Michael remembered him usually keeping, robes catching the gate's light as he crossed the threshold.
 
-Gabriel stopped a few paces out, staring at him with an expression Michael had no ready name for — recognition and disbelief, neither one settling long enough for Michael to read which one currently held the upper hand. Michael felt his brother's gaze move slowly across his own face, lingering at his eyes longer than anywhere else. The old Commander who had once stood at this gate had carried nothing behind his eyes but certainty. This new stillness carried something else entirely, the particular weight of nine years spent teaching lecture halls full of students who had no idea what they were actually looking at, of grading essays by lamplight, of learning slowly and painfully what it meant to simply be a man rather than a title.
+Gabriel stopped a few paces out, staring at him with an expression Michael had no ready name for — recognition and disbelief, neither one settling long enough for Michael to read which one held the upper hand. Michael felt his brother's gaze move slowly across his own face, lingering at his eyes longer than anywhere else. The old Commander who had once stood at this gate had carried nothing behind his eyes but certainty. This new stillness carried something else entirely, the particular weight of nine years spent teaching lecture halls full of students who had no idea what they were actually looking at, of grading essays by lamplight, of learning slowly and painfully what it meant to simply be a man rather than a title.
 
 "Michael?" Gabriel said, the single word carrying a thousand years of hope and doubt in equal, trembling measure.
 
 "It's me," Michael said. "All of me, this time. Not just the parts I let myself remember."
 
-He watched something shift behind Gabriel's eyes at that, the tension in his brother's shoulders easing by a fraction Michael doubted Gabriel had noticed himself. He remembered, distantly, fragments of a desert and a broken man who couldn't yet remember his own name, and Gabriel's voice steady above him through all of it. He looked at his brother now, at the same steadiness still holding, and found himself wondering, for the first time, what maintaining it had actually required.
+He watched something shift behind Gabriel's eyes at that, the tension in his brother's shoulders easing by a fraction Michael doubted Gabriel had noticed himself. He remembered, distantly, fragments of a desert and a broken man who couldn't yet remember his own name, and Gabriel's voice steady above him through all of it. He looked at his brother now, at the same steadiness still holding, and found himself wondering, for the first time, what maintaining it had required.
 
 ...
 
@@ -46,7 +46,7 @@ Michael felt Gabriel go rigid beside him, his gaze flicking once toward Uriel an
 
 ...
 
-Michael did not reach for Solmire. He simply held Uriel's gaze, steady, the way he'd learned to hold a room's attention across nine years of teaching rather than through the old, easy authority of rank alone.
+Michael did not reach for Solmire. He held Uriel's gaze, steady, the way he'd learned to hold a room's attention across nine years of teaching rather than through the old, easy authority of rank alone.
 
 "I have not come to fight, Uriel. I have come to speak a truth that affects all of us — every soldier standing in this courtyard, every soul on either side of a war that has cost this realm more than anyone currently fighting it has properly reckoned with."
 
@@ -64,7 +64,7 @@ Uriel did not lower his weapon. But something in his stance shifted, fractionall
 
 Gabriel stepped forward into the space between them before either could speak again, his voice level despite the tension still crackling through the courtyard. "A council costs us nothing but time. And time, unlike blood, can still be spent and recovered both. Let him speak, Uriel. If he's lying, the council will see it plainly enough, and you'll have lost nothing by waiting the length of one hearing to prove it."
 
-Uriel's gaze cut toward Gabriel, something old and unresolved flickering behind it, some argument the two of them had clearly had before and never fully settled. Michael watched the exchange pass between his two brothers, one careful and deliberate, one hot and immediate, and found himself witnessing the visible signs of a conflict that had plainly predated his own return by some considerable measure, whatever its actual source turned out to be.
+Uriel's gaze cut toward Gabriel, something old and unresolved flickering behind it, some argument the two of them had clearly had before and never fully settled. Michael watched the exchange pass between his two brothers, one careful and deliberate, one hot and immediate, and found himself witnessing the visible signs of a conflict that had plainly predated his own return by some considerable measure, whatever its source turned out to be.
 
 Uriel held his position a long moment, flame still gathered along the halberd's length, his gaze moving once more across Azael's silent stillness and Ereloth's carefully neutral expression before settling back on Michael himself. Michael watched his jaw work once, twice, some private reckoning playing out across features he remembered as being less complicated the last time he'd stood in this exact courtyard.
 
@@ -72,6 +72,6 @@ Uriel held his position a long moment, flame still gathered along the halberd's 
 
 Michael inclined his head, accepting the terms without argument. "That's all I'm asking for. The chance to be heard before I'm judged." He had walked a very long road to reach exactly this offer, and found, hearing it finally granted, that it was worth every mile it had cost him.
 
-He looked once more at Gabriel, at the careful hope still visible beneath his brother's practiced composure, and felt, standing at the threshold of the home he'd once commanded and then forgotten entirely, the first real certainty he'd carried since setting out on this road that he might actually be given the chance to explain everything that had brought him back to it.
+He looked once more at Gabriel, at the careful hope still visible beneath his brother's practiced composure, and felt, standing at the threshold of the home he'd once commanded and then forgotten entirely, the first real certainty he'd carried since setting out on this road that he might be given the chance to explain everything that had brought him back to it.
 
-Beside him, Ereloth had finally stopped whistling, the sudden quiet where the tune had been oddly fitting against everything that had just happened here. Azael said nothing at all, standing exactly as still as he had the entire walk up to these gates, the same steady calm he seemed to carry into every room he entered.
+Beside him, Ereloth had finally stopped whistling, the sudden quiet where the tune had been oddly fitting against everything that had just happened here. Azael said nothing, standing exactly as still as he had the entire walk up to these gates, the same steady calm he seemed to carry into every room he entered.

@@ -24,7 +24,7 @@ Mikel felt something cold settle behind his sternum. He recognized pieces of it 
 *Their love became pride, and pride became a game,*
 *and the game broke the first toy they were given — a world without a name.*
 
-The verse ended there, unresolved, hanging on a chord Milo let ring out longer than it needed to. Mikel searched the words for himself and found nothing. Three brothers. Three roles, each one accounted for, each one recognizable in some dim, half-remembered way. He was not one of them. He ran through the verse a second time in his head, checking each line the way he'd have checked a translation against its source, in case he'd missed his own reflection somewhere in the words. He hadn't. He felt the absence of himself in that song more sharply than he'd felt anything the ballad had named, and he didn't understand why that should unsettle him more than the parts he did recognize, but it did.
+The verse ended there, unresolved, hanging on a chord Milo let ring out longer than it needed to. Mikel searched the words for himself and found nothing. Three brothers. Three roles, each one accounted for, each one recognizable, dim and half-remembered. He was not one of them. He ran through the verse a second time in his head, checking each line the way he'd have checked a translation against its source, in case he'd missed his own reflection somewhere in the words. He hadn't. He felt the absence of himself in that song more sharply than he'd felt anything the ballad had named, and he didn't understand why that should unsettle him more than the parts he did recognize, but it did.
 
 "Who wrote that," Mikel asked, when the chord had finally faded. "Really. Not a folk tune. Not something you picked up on the road."
 

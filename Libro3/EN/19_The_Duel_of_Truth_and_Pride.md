@@ -4,7 +4,7 @@ Belial stood before his assembled legions in the central plaza of Dis, every sol
 
 This same display had ended a dozen challenges before they'd properly begun, rivals reconsidering their ambitions the instant they'd seen exactly what waited for them if they pressed further. He held the pose a moment longer than strictly necessary, letting the fire climb higher, waiting for the same flicker of doubt he'd learned to expect from anyone standing where the Judge currently stood.
 
-Thaeriel's gaze passed over the assembled legions as though they simply weren't there.
+Thaeriel's gaze passed over the assembled legions as though they weren't there.
 
 "You are holding something that is not yours," Thaeriel said, calm in a way that unsettled Belial more than any roar could have managed. "It weeps for its true purpose."
 
@@ -12,7 +12,7 @@ Belial felt something cold move through him at the words, quickly buried beneath
 
 "It endures you," Thaeriel said. "That isn't the same thing."
 
-Belial had spent three centuries learning not to let words land where they weren't invited. He felt this one land anyway, deeper than he cared to examine, and answered the only way he currently trusted himself to.
+Belial had spent three centuries learning not to let words land where they weren't invited. He felt this one land anyway, deeper than he cared to examine, and answered the only way he trusted himself to.
 
 He studied the pale, patient figure standing alone against his entire assembled force, searching for whatever flaw he'd built his confidence around finding. He found none. No fear in the stance, no calculation behind the eyes, nothing that resembled the particular arrogance of a man overestimating his own chances. That absence unsettled him more than open hostility would have. He had faced arrogance a thousand times and knew exactly how to break it. He had no ready answer for whatever this was, and the not-knowing sat in his chest heavier than any challenge his legions had ever faced.
 
@@ -34,13 +34,13 @@ He had walked a long road to reach this exact plaza, through legions and lies an
 
 Belial charged rather than answer a third time, Lamentum lowered and burning, every ounce of fury he could summon driving the strike home. The spear met Thaeriel's aura and something gave way at the point of contact — not violence, not impact, but a flood, sudden and total, the weapon's true nature pouring backward into the hand that had misused it for so long. He felt the pain of every soul it had ever taken unjustly, the grief of every vow it had watched broken and never been permitted to properly mourn. An ocean of sorrow he had spent centuries directing outward crashed back into him all at once, undiluted, unfiltered, entirely his own to feel for the first time since he'd first closed his hand around the shaft.
 
-He staggered, the spear's weight suddenly unbearable in a grip that had carried it easily for centuries, and found himself, for one humiliating instant, unable to remember why he'd ever believed carrying it made him strong. Every soldier's face he had ever seen fall beneath this spear surfaced at once, no longer a tally of victories but a ledger of debts he had never paused to acknowledge. He had known, in some careful, walled-off part of himself, that the weapon grieved. He had never once let himself understand what it actually grieved for.
+He staggered, the spear's weight suddenly unbearable in a grip that had carried it easily for centuries, and found himself, for one humiliating instant, unable to remember why he'd ever believed carrying it made him strong. Every soldier's face he had ever seen fall beneath this spear surfaced at once, no longer a tally of victories but a ledger of debts he had never paused to acknowledge. He had known, in some careful, walled-off part of himself, that the weapon grieved. He had never once let himself understand what it grieved for.
 
 He forced himself upright through sheer stubbornness, refusing to let his own legions watch him kneel before a single blow had even properly landed. Whatever this was, he told himself, it would pass the way every difficult thing eventually passed, provided he refused to stop standing through it. He had built his entire reputation on that exact refusal, and saw no reason, whatever this fight turned out to demand of him, to abandon it now.
 
 ---
 
-Thaeriel felt the backlash reach him too, familiar and unwelcome, an old weight he had carried for ages longer than the man currently staggering in front of him had existed to measure. It did not move him. Behind Belial, the watching legions had gone utterly still, that same held, suppressed quiet he'd felt settle over the whole city since the gates — thousands of soldiers keeping their breath and their fear equally contained, as though sound itself might cost something here that none of them were willing to pay. He had long since stopped expecting this particular grief to ever feel like anything less than exactly this heavy.
+Thaeriel felt the backlash reach him too, familiar and unwelcome, an old weight he had carried for ages longer than the man staggering in front of him had existed to measure. It did not move him. Behind Belial, the watching legions had gone utterly still, that same held, suppressed quiet he'd felt settle over the whole city since the gates — thousands of soldiers keeping their breath and their fear equally contained, as though sound itself might cost something here that none of them were willing to pay. He had long since stopped expecting this particular grief to ever feel like anything less than exactly this heavy.
 
 "You feel it now," he said. "Every time you've pointed it away from yourself. It was never actually gone. You only stopped being the one paying for it."
 
@@ -48,9 +48,9 @@ He did not press the advantage. He held his ground, patient, and let Belial reco
 
 ---
 
-Belial recovered and attacked again, and again after that, each strike carrying more raw fury than technique, driven less by strategy than by the plain, desperate need to make this stillness in front of him finally react to something. He drove blow after blow toward a target that kept refusing to be a target at all, and felt, somewhere around the tenth exchange, a cold and unwelcome pattern settling into him. He was not losing a fight. He was simply failing to start one, over and over, against an opponent who had never needed to engage him to remain in control of what was happening here.
+Belial recovered and attacked again, and again after that, each strike carrying more raw fury than technique, driven less by strategy than by the plain, desperate need to make this stillness in front of him finally react to something. He drove blow after blow toward a target that kept refusing to be a target, and felt, somewhere around the tenth exchange, a cold and unwelcome pattern settling into him. He was not losing a fight. He was failing to start one, over and over, against an opponent who had never needed to engage him to remain in control of what was happening here.
 
-He struck again anyway, because stopping felt, in that moment, worse than continuing. His soldiers watched from their ranks, silent, and he found himself, somewhere beneath the fury still driving his arm, acutely aware of every eye currently fixed on a fight he was visibly failing to win. He had built his entire command on the certainty that his legions never saw him falter. Whatever else this duel cost him, that certainty was already bleeding out with every wasted swing.
+He struck again anyway, because stopping felt, in that moment, worse than continuing. His soldiers watched from their ranks, silent, and he found himself, somewhere beneath the fury still driving his arm, acutely aware of every eye fixed on a fight he was visibly failing to win. He had built his entire command on the certainty that his legions never saw him falter. Whatever else this duel cost him, that certainty was already bleeding out with every wasted swing.
 
 ---
 
@@ -58,7 +58,7 @@ Thaeriel met each blow with an economy that offered nothing for Belial's rage to
 
 "I am not your enemy," he said, catching another desperate blow on a forearm that shouldn't have been able to stop it. "I am only what happens when something this heavy finally stops being ignored."
 
-He felt no cruelty in the exposure, only the plain necessity of it. A man could not be asked to set down a lie he had never been made to see clearly. Every truth he pressed into Belial now was, in its own way, a kindness disguised as an injury, the only path he currently knew of toward the honest reckoning this duel had been called to produce. He had learned that lesson slowly, across every verdict that had ever cost him something to deliver, and saw no reason to expect this one to prove any gentler than the rest.
+He felt no cruelty in the exposure, only the plain necessity of it. A man could not be asked to set down a lie he had never been made to see clearly. Every truth he pressed into Belial now was, in its own way, a kindness disguised as an injury, the only path he knew of toward the honest reckoning this duel had been called to produce. He had learned that lesson slowly, across every verdict that had ever cost him something to deliver, and saw no reason to expect this one to prove any gentler than the rest.
 
 ---
 
@@ -68,7 +68,7 @@ Somewhere beneath the rest, oldest of all, surfaced a smaller and more mundane t
 
 His strikes grew wilder still, each one landing with less force than the last despite the fury behind it, exhaustion beginning to outpace his rage. He wanted, with a desperation that frightened him more than the fight itself had, for this stillness in front of him to end, one way or another, before another shard of truth found its way home.
 
-He thought, in the ragged space between one swing and the next, of every argument he'd ever won by simply talking louder than whoever stood across from him, every rival he'd outlasted not through superior strength but through sheer, relentless refusal to yield the floor. None of those old tactics offered him anything useful here. Volume meant nothing to a man who never raised his voice. Refusal to yield meant nothing to an opponent who had never needed the ground Belial was so desperately trying to hold.
+He thought, in the ragged space between one swing and the next, of every argument he'd ever won by talking louder than whoever stood across from him, every rival he'd outlasted not through superior strength but through sheer, relentless refusal to yield the floor. None of those old tactics offered him anything useful here. Volume meant nothing to a man who never raised his voice. Refusal to yield meant nothing to an opponent who had never needed the ground Belial was so desperately trying to hold.
 
 ---
 

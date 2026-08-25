@@ -52,7 +52,7 @@ Ereloth managed something close to his usual grin at that, though it didn't quit
 
 "I wasn't attempting comfort. I was attempting honesty. I've found, across a very long life, that the two rarely arrive together."
 
-Thaeriel said nothing, though Michael caught the way his jaw tightened, the particular stillness of a man weighing a cost he'd already half expected to pay and finding the sum somehow heavier than the estimate. He had watched that same stillness settle over Thaeriel once before, in the moment just before he'd walked alone into Dis. Some costs announced themselves early, and made a man carry the weight of them long before the reckoning arrived.
+Thaeriel said nothing, though Michael caught the way his jaw tightened, the particular stillness of a man weighing a cost he'd already half expected to pay and finding the sum heavier than the estimate. He had watched that same stillness settle over Thaeriel once before, in the moment just before he'd walked alone into Dis. Some costs announced themselves early, and made a man carry the weight of them long before the reckoning arrived.
 
 Michael looked at the locket resting against his own chest, the single tear of solidified grief-turned-faith sealed inside it, and understood, holding Azael's steady gaze, that whatever waited for them at the center of all things, none of them were walking toward it whole. He thought of Camael forging that locket in the long watch after the fleet returned from the In-Between, of every soldier who had trusted a wall or a strike order to mean something against an enemy neither doctrine could touch. Their sacrifices had bought exactly what Azael had promised and nothing more — time, not victory — and Michael found he could not, in good conscience, let that borrowed time run out unspent.
 
@@ -62,7 +62,7 @@ Weighing that cost against the alternative — a war fought forever against a wo
 
 Azael inclined his head, once, and the projection above the stone began, slowly, to turn.
 
-Michael watched it turn a while longer, the collapsed image of the Nexus drawing his gaze the way a held breath draws attention to itself, and found himself thinking of every council he'd sat through in the gilded halls of Heaven, chambers built for grand pronouncements and careful diplomacy both. None of those rooms had prepared him for a council this quiet, stripped down to four beings and a single flat stone, deciding a cost none of the assembled armies outside would ever fully understand the shape of. He supposed that was fitting, in its own way. Some decisions were never meant to be made in front of a crowd.
+Michael watched it turn a while longer, and found himself thinking of every council he'd sat through in the gilded halls of Heaven, chambers built for grand pronouncements and careful diplomacy both. None of those rooms had prepared him for a council this quiet, stripped down to four beings and a single flat stone, deciding a cost none of the assembled armies outside would ever fully understand the shape of. Some decisions were never meant to be made in front of a crowd.
 
 "When do we leave?" he asked.
 

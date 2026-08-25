@@ -4,7 +4,7 @@ Camael había elegido él mismo la ubicación exacta de la tienda, a horcajadas 
 
 Se quedó de pie sobre el mapa táctico un largo momento antes de la llegada de Vepar, estudiando los sectores en disputa marcados en hilo dorado y negro, y se descubrió pensando, no por primera vez esa semana, en cada soldado que aquel mapa en concreto representaba en abstracto —nombres que todavía cargaba sin necesitar que se los recordaran, bajas que se habían ido acumulando mucho antes de que esta alianza en particular se volviera necesaria—. Ya había enterrado suficientes de ellos como para que las cuidadosas líneas del mapa ya no le parecieran tanto estrategia como un libro de deudas todavía pendientes.
 
-Le había dicho a Miguel, no hacía mucho, que él luchaba por el hogar antes que por el dogma. De pie aquí ahora, esperando a un comandante enemigo al que estaba a punto de pedirles a sus propios soldados que confiaran, al menos provisionalmente, descubrió que la distinción importaba más de lo que jamás le había importado antes. El dogma lo habría mantenido en el lado lejano de esta división de lona, discutiendo principios en vez de terreno. El hogar exigía que ganara la guerra de verdad, cualesquiera que fuesen las incómodas alianzas que eso terminara costándole por el camino.
+Le había dicho a Miguel, no hacía mucho, que él luchaba por el hogar antes que por el dogma. De pie aquí ahora, esperando a un comandante enemigo al que estaba a punto de pedirles a sus propios soldados que confiaran, al menos provisionalmente, descubrió que la distinción importaba más de lo que jamás le había importado antes. El dogma lo habría mantenido en el lado lejano de esta división de lona, discutiendo principios en vez de terreno. El hogar exigía que ganara la guerra, cualesquiera que fuesen las incómodas alianzas que eso terminara costándole por el camino.
 
 Oyó a Vepar acercarse antes de verlo, pasos deliberados sobre la tierra apisonada afuera, con el mismo ritmo uniforme que Camael había llegado a reconocer a lo largo de tres encuentros previos en lados opuestos de una brecha de batalla. Este sería el cuarto. También sería, comprendió, el primero en el que ninguno de los dos intentaba matar al otro.
 
@@ -18,7 +18,7 @@ Notó, viendo a Vepar cruzar el último tramo de suelo de lona hacia él, que el
 
 ---
 
-Vepar estudió el mapa un momento antes de responder, trazando los sectores marcados con una mirada más que con un dedo, catalogando la forma de cualquier propuesta que Camael claramente ya hubiera construido a su alrededor. Se había enfrentado a este comandante en particular tres veces ya, dos en terreno parejo y una interrumpida por un horror que ninguno de los dos bandos había estado preparado para nombrar, y había llegado, a lo largo de esos tres encuentros, a esperar en él una cautela que Vepar en general encontraba tediosa en oficiales menores y meramente inconveniente en los mejores. Dejó el juicio de lado por ahora, sin voluntad de dejar que viejas suposiciones de campo de batalla decidieran una negociación antes de que hubiera comenzado como es debido.
+Vepar estudió el mapa un momento antes de responder, trazando los sectores marcados con una mirada más que con un dedo, catalogando la forma de cualquier propuesta que Camael claramente ya hubiera construido a su alrededor. Se había enfrentado a este comandante en particular tres veces ya, dos en terreno parejo y una interrumpida por un horror que ninguno de los dos bandos había estado preparado para nombrar, y había llegado, a lo largo de esos tres encuentros, a esperar en él una cautela que Vepar en general encontraba tediosa en oficiales menores y meramente inconveniente en los mejores. Dejó el juicio de lado por ahora, sin voluntad de dejar que viejas suposiciones de campo de batalla decidieran una negociación antes de que hubiera comenzado.
 
 —Un muro —dijo Camael, señalando una línea defensiva trazada en oro a lo largo de la frontera en disputa—, aquí. Sostenemos los reinos clave —los de población activa, los que todavía vale la pena defender— y dejamos que la entidad se agote contra una posición que controlamos.
 
@@ -30,7 +30,7 @@ Vepar estudió el mapa un momento antes de responder, trazando los sectores marc
 
 ---
 
-Camael sostuvo la mirada de Vepar sobre el mapa, observando el rostro frío e inmóvil como el cristal del demonio en busca de cualquier reacción que sus propias palabras hubieran provocado, y no encontró ahí nada más que la misma quietud imperturbable que Vepar aparentemente había traído a cada intercambio entre ellos hasta ahora. Había esperado burla, o al menos el desprecio particular que había oído describir en cada informe presentado sobre los comandantes del Infierno. Encontró en cambio algo más cercano a un desacuerdo genuino, entregado sin teatro, y comprendió que esta pelea en particular necesitaría ganarse por los propios méritos del argumento y no por cualquier terreno moral elevado que de otro modo hubiera asumido que venía gratis con él.
+Camael sostuvo la mirada de Vepar sobre el mapa, observando el rostro frío e inmóvil como el cristal del demonio en busca de cualquier reacción que sus propias palabras hubieran provocado, y no encontró ahí nada más que la misma quietud imperturbable que Vepar había traído a cada intercambio entre ellos hasta ahora. Había esperado burla, o al menos el desprecio particular que había oído describir en cada informe presentado sobre los comandantes del Infierno. Encontró en cambio algo más cercano a un desacuerdo genuino, entregado sin teatro, y comprendió que esta pelea en particular necesitaría ganarse por los propios méritos del argumento y no por cualquier terreno moral elevado que de otro modo hubiera asumido que venía gratis con él.
 
 —Los inocentes mueren todos los días —dijo Vepar, la voz sin nada del calor para el que Camael se había preparado—. Han muerto todos los días desde mucho antes de que existiera cualquiera de nuestras dos cortes, en números que tu muro no hará nada por cambiar. Tu sentimentalismo es una debilidad que nos hará consumir a todos, comandante, y prefiero insultarte ahora a enterrarte después por el bien de una cortesía que ninguno de los dos necesita en realidad.
 
@@ -42,7 +42,7 @@ Camael sostuvo la mirada de Vepar sobre el mapa, observando el rostro frío e in
 
 ---
 
-Vepar vio caer las palabras, esperando la reacción que habría obtenido de casi cualquier otro oficial angélico con el que hubiera cruzado espadas a lo largo de los largos siglos de esta guerra —una voz alzada, un tono ofendido, una retirada apresurada hacia la doctrina por la doctrina misma—. Camael no le ofreció nada de eso. El hombre simplemente se quedó ahí, la mandíbula apretada, sopesando la acusación con el mismo cuidado deliberado que aparentemente había traído a cada otro punto de este intercambio, y Vepar se descubrió recalculando, en algún lugar de ese silencio, cuánto de su propia posición inicial todavía quería defender.
+Vepar vio caer las palabras, esperando la reacción que habría obtenido de casi cualquier otro oficial angélico con el que hubiera cruzado espadas a lo largo de los largos siglos de esta guerra —una voz alzada, un tono ofendido, una retirada apresurada hacia la doctrina por la doctrina misma—. Camael no le ofreció nada de eso. El hombre simplemente se quedó ahí, la mandíbula apretada, sopesando la acusación con el mismo cuidado deliberado que había traído a cada otro punto de este intercambio, y Vepar se descubrió recalculando, en algún lugar de ese silencio, cuánto de su propia posición inicial todavía quería defender.
 
 Camael no dijo nada por un largo momento, y Vepar dejó que el silencio se sostuviera en lugar de llenarlo él mismo, curioso, de un modo que no había esperado sentir al entrar en esta tienda, por ver qué hacía el ángel con el espacio que se le había dado.
 
@@ -66,7 +66,7 @@ Vepar ya se había girado hacia la costura donde se encontraban la luz dorada y 
 
 —Discuto como un hombre que ha visto fallar lo suficiente de él como para saber que no debe confiar en él por completo. Eso no es lo mismo que no creer en nada.
 
-Vepar no dijo nada más a eso, solo inclinó la cabeza una vez, el gesto ilegible, y dio un paso de vuelta por completo hacia la luz roja que lo esperaba.
+Vepar no dijo nada más a eso, solo inclinó la cabeza una vez, el gesto ilegible, y dio un paso de vuelta hacia la luz roja que lo esperaba.
 
 ---
 
