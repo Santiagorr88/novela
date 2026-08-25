@@ -10,3 +10,7 @@ Texto limpio para narración/TTS, generado desde Libro1/EN/ (canónico).
   como silencio breve).
 - Regenerable: si la prosa EN cambia, volver a ejecutar el script de
   generación (ver historial git de esta carpeta).
+
+**Pronunciación**: la guía canónica de todos los nombres inventados está en
+`../../audiolibro_guia_pronunciacion.md` (raíz del proyecto) — leerla antes
+de grabar el primer episodio o configurar el TTS.
