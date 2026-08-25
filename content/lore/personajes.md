@@ -9,7 +9,7 @@
 
 
 <details>
-<summary>👑 <strong>Miguel – Supreme Commander of Heaven</strong></summary>
+<summary>👑 <strong>Miguel – General of Heaven</strong></summary>
 
 > “Order is light. Faith, its shield.”
 

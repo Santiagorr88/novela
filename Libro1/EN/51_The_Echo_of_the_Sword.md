@@ -26,7 +26,7 @@ Gabriel had propped the splintered banner against the altar rather than raise it
 
 Zadkiel entered last, a charred manuscript under one arm, Decretum's haft scraping softly against the floor with each step. "The cycle isn't broken," he said, without preamble. "But it's bent further than I've ever measured it. I don't know what it costs to bend it back."
 
-"Is anyone going to say the rest of it?" That was Cassiel, from a shadowed corner, arms crossed hard enough to still a tremor. "The Supreme Commander is gone. Say it plainly or we'll keep planning around a hole none of us have named."
+"Is anyone going to say the rest of it?" That was Cassiel, from a shadowed corner, arms crossed hard enough to still a tremor. "The General is gone. Say it plainly or we'll keep planning around a hole none of us have named."
 
 The candle between them guttered and held.
 

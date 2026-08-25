@@ -14,7 +14,7 @@ Toda novela tiene UNA historia principal, resumible en pocas palabras. Debe cons
 2. Mantener su atención.
 3. Ir satisfaciendo las expectativas creadas.
 
-> Ejemplo del proyecto — Libro I: *Miguel, Comandante Supremo del Cielo, encuentra una espada viviente de juicio radiante cuyos veredictos inhumanos lo aíslan de la compasión hasta hacerlo caer; su caída deja la espada perdida en la Tierra y a él condenado a renacer sin memoria.* Si la historia principal de una obra nueva no se puede resumir así de limpio, todavía no está lista para escribirse.
+> Ejemplo del proyecto — Libro I: *Miguel, General de la Hueste Celestial, encuentra una espada viviente de juicio radiante cuyos veredictos inhumanos lo aíslan de la compasión hasta hacerlo caer; su caída deja la espada perdida en la Tierra y a él condenado a renacer sin memoria.* Si la historia principal de una obra nueva no se puede resumir así de limpio, todavía no está lista para escribirse.
 
 ## Las historias secundarias
 

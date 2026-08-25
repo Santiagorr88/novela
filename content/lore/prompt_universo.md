@@ -73,7 +73,7 @@ DIALOGUE & SUBTEXT
 ### 📘 Book I: *The Echo of the Sword*  
 **Theme:** Zeal, duty, and the fall from grace.
 
-Miguel, Heaven’s Supreme Commander, discovers *Solmire*—a living sword of radiant judgment. Wielding it brings decisive victories, but its inhuman verdicts isolate him from compassion and divine communion. The sword begins to guide Miguel more than he guides it. Meanwhile, the demon lord Belial senses something ancient in the weapon’s resonance and begins his own pursuit of forgotten power.
+Miguel, Heaven’s General, discovers *Solmire*—a living sword of radiant judgment. Wielding it brings decisive victories, but its inhuman verdicts isolate him from compassion and divine communion. The sword begins to guide Miguel more than he guides it. Meanwhile, the demon lord Belial senses something ancient in the weapon’s resonance and begins his own pursuit of forgotten power.
 
 > *This volume explores how zealotry emerges from certainty, and how justice without understanding becomes universal condemnation.*
 

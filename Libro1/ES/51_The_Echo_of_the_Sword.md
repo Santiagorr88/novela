@@ -26,7 +26,7 @@ Gabriel había apoyado el estandarte astillado contra el altar en vez de alzarlo
 
 Zadkiel entró último, un manuscrito chamuscado bajo un brazo, el mango de Decretum raspando suavemente contra el suelo con cada paso. —El ciclo no está roto —dijo, sin preámbulo—. Pero está más doblado de lo que jamás lo he medido. No sé qué cuesta doblarlo de vuelta.
 
-—¿Alguien va a decir el resto? —Esa era Cassiel, desde un rincón en sombras, los brazos cruzados con la fuerza suficiente para acallar un temblor—. El Comandante Supremo se ha ido. Dígalo con claridad o seguiremos planificando alrededor de un agujero que ninguno de nosotros ha nombrado.
+—¿Alguien va a decir el resto? —Esa era Cassiel, desde un rincón en sombras, los brazos cruzados con la fuerza suficiente para acallar un temblor—. El General se ha ido. Dígalo con claridad o seguiremos planificando alrededor de un agujero que ninguno de nosotros ha nombrado.
 
 La vela entre ellos vaciló y se sostuvo.
 
