@@ -1,16 +1,13 @@
-# Audiolibro — Book 2 (English)
+# Audiolibro — Libro 2
 
-Texto limpio para narración/TTS, generado desde Libro2/EN/ (canónico).
+- `en/capitulo_NN.txt` — texto limpio de narración en inglés (canónico: Libro2/EN/)
+- `es/capitulo_NN.txt` — texto limpio de narración en español (canónico: Libro2/ES/)
 
-- Un archivo por capítulo: audiolibro_capitulo_NN.txt, en orden de lectura.
-- Primera línea hablada: "Chapter N. Título."
-- Sin markdown: cursivas/negritas eliminadas conservando el texto.
-- Cambios de escena marcados con una línea "..." (los motores TTS la
-  interpretan como pausa sin vocalizarla; un narrador humano la lee
-  como silencio breve).
-- Regenerable: si la prosa EN cambia, volver a ejecutar el script de
-  generación (ver historial git de esta carpeta).
+Convenciones (ambos idiomas):
+- Primera línea hablada: "Chapter N. Título." / "Capítulo N. Título."
+- Sin markdown; cursivas aplanadas a texto.
+- Cambios de escena como línea "..." (pausa TTS no vocalizada).
 
-**Pronunciación**: la guía canónica de todos los nombres inventados está en
-`../../audiolibro_guia_pronunciacion.md` (raíz del proyecto) — leerla antes
-de grabar el primer episodio o configurar el TTS.
+Pronunciación EN: ver `../../audiolibro_guia_pronunciacion.md` (raíz del proyecto).
+Voces piloto probadas: en-US-AndrewMultilingualNeural (EN) · es-ES-AlvaroNeural (ES).
+Regenerable desde los canónicos si la prosa cambia.
