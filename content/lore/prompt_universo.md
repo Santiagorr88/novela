@@ -25,7 +25,7 @@ Narrative Scope: Epic trilogy — 159 chapter-units across three books. Internal
 
 # CANON & CONTINUITY RULES
 - Respect deaths, reincarnations, and metaphysical laws already established.
-- Chapters must flow into the status of B1C28 (Heaven’s retreat; Solmire lost; Belial with Lament; Miguel reincarnated).
+- Chapters must flow into the status of B1C28 (Heaven’s retreat; Solmire lost; Belial with Lamentum; Miguel reincarnated).
 - Numbering resets per book (B2C01…, B3C01…).
 - No explicit spoilers ahead of schedule.
 
@@ -66,7 +66,7 @@ DIALOGUE & SUBTEXT
 ## 📚 META NARRATIVE – CORE TRILOGY ARC  
 **Series Title:** *Chronicles of Judgment* / *Las Crónicas del Juicio* (see official title note at top of file)
 
-> The trilogy explores the collapse of a cosmic order built on judgment, reincarnation, and obedience. When three ancient beings—**The Forgotten**—resurface, their ancestral weapons (*Solmire*, *Lament*, and *Aetheris*) reawaken a truth that predates divine law: **absolute judgment destroys as much as it protects**. Their return reopens wounds from the first celestial war and triggers the rise of **Thamorak**, the embodiment of imbalance. Across three volumes, divine structures unravel, and a new path toward redemption must be forged.
+> The trilogy explores the collapse of a cosmic order built on judgment, reincarnation, and obedience. When three ancient beings—**The Forgotten**—resurface, their ancestral weapons (*Solmire*, *Lamentum*, and *Aetheris*) reawaken a truth that predates divine law: **absolute judgment destroys as much as it protects**. Their return reopens wounds from the first celestial war and triggers the rise of **Thamorak**, the embodiment of imbalance. Across three volumes, divine structures unravel, and a new path toward redemption must be forged.
 
 ---
 
@@ -82,7 +82,7 @@ Miguel, Heaven’s General, discovers *Solmire*—a living sword of radiant judg
 ### 📙 Book II: *The Forgotten Voices*  
 **Theme:** Identity, conspiracy, and fragmented truth.
 
-Following Miguel’s fall and Belial’s corruption of the spear *Lament*, the echoes of The Forgotten begin to stir. Arin Cross (*Thaeriel*), a mercenary, and Mikel Ardon (the reincarnated Miguel), both begin to awaken memories of a divine past. Iofiel uncovers fragments of the *Codex Mortalis*, revealing a prophecy of three pre-Judgment weapons. Earth becomes the new battleground as Heaven, Hell, and ancient memories converge.
+Following Miguel’s fall and Belial’s corruption of the spear *Lamentum*, the echoes of The Forgotten begin to stir. Arin Cross (*Thaeriel*), a mercenary, and Mikel Ardon (the reincarnated Miguel), both begin to awaken memories of a divine past. Iofiel uncovers fragments of the *Codex Mortalis*, revealing a prophecy of three pre-Judgment weapons. Earth becomes the new battleground as Heaven, Hell, and ancient memories converge.
 
 > *Here the war expands beyond battlefield conflict into existential crisis—between memory and reincarnation, freedom and fate.*
 
@@ -143,9 +143,9 @@ Permanent death for angels or demons requires two conditions:
 
 - An ordinary death of the human incarnation (accident, illness, old age, killed by any other means) does **not** count as Final Death — the soul simply re-enters the reincarnation cycle and is reborn again, memory-wiped, as usual. Only a strike with the matching weapon/resonance erases it permanently.
 - This is why no soul in this cosmology is truly eternal by default: it *can* be made to disappear for good — but only through this specific, two-part act, never by chance.
-- **Exception for the Forgotten:** ordinary angels/demons can be struck down with "one of equivalent resonance," but a Forgotten's Final Death requires **their own weapon specifically** — Solmire for Ereloth, Lamentun for Thaeriel, Aetheris for Azael — wielded against their human incarnation. No substitute resonance suffices, since the weapon is an extension of the Forgotten who forged it, not an interchangeable tool.
+- **Exception for the Forgotten:** ordinary angels/demons can be struck down with "one of equivalent resonance," but a Forgotten's Final Death requires **their own weapon specifically** — Solmire for Ereloth, Lamentum for Thaeriel, Aetheris for Azael — wielded against their human incarnation. No substitute resonance suffices, since the weapon is an extension of the Forgotten who forged it, not an interchangeable tool.
 
-> This makes the ancestral weapons (Solmire, Lament, Aetheris) both tools of creation and extinction. They do not simply kill—they erase presence across time.
+> This makes the ancestral weapons (Solmire, Lamentum, Aetheris) both tools of creation and extinction. They do not simply kill—they erase presence across time.
 
 ---
 
@@ -225,7 +225,7 @@ A towering entity of serene gravity. Half of his body glows with celestial gold,
 
 ### 🔥 Thaeriel – *The Righteous Blade*  
 **Aspect:** Righteous Suffering  
-**Weapon:** Lamentun (Lamentum), Spear of Pure Pain — leaves spiritual wounds that never heal; pierces truth  
+**Weapon:** Lamentum (Lamentum), Spear of Pure Pain — leaves spiritual wounds that never heal; pierces truth  
 **Human Alias:** Arin Cross, lone mercenary hunting war criminals  
 **Symbol:** A spear dripping both blood and light  
 **Archetype:** The Fallen Executioner  
@@ -246,7 +246,7 @@ A burning angel of pale fire, wrapped in endless chains that move with him—not
 
 **Narrative Role:**  
 - Antihero torn between vengeance and redemption.  
-- Must face both Belial and himself to reclaim Lament.  
+- Must face both Belial and himself to reclaim Lamentum.  
 - Catalyst for forced alliance between Heaven, Hell, and the Forgotten.
 
 **Death-State Polarity (his specific case, per the general law above):**  
@@ -264,7 +264,7 @@ A burning angel of pale fire, wrapped in endless chains that move with him—not
   | Name     | Weapon   | Principle        | Risk                |
   |----------|----------|------------------|---------------------|
   | Ereloth  | Solmire  | Irreverent Light | Apathy or Vanity    |
-  | Thaeriel | Lamentun | Righteous Pain   | Blind Judgment      |
+  | Thaeriel | Lamentum | Righteous Pain   | Blind Judgment      |
   | Azael    | Aetheris | Equilibrium      | Despair (Nihilism)  |
 
 - When wielded by their creator, these weapons reach full resonance.  
@@ -297,7 +297,7 @@ A burning angel of pale fire, wrapped in endless chains that move with him—not
 | Weapon   | Original Wielder | Current Holder     | Essence        | Notes                                      |
 |----------|------------------|---------------------|----------------|--------------------------------------------|
 | Solmire  | Ereloth           | Miguel (former)     | Living Light   | Drawn from the Tree Outside Time           |
-| Lamentun | Thaeriel          | Belial (corrupted)  | Burning Truth  | Unleashed in the Sepulcher of Sorrow       |
+| Lamentum | Thaeriel          | Belial (corrupted)  | Burning Truth  | Unleashed in the Sepulcher of Sorrow       |
 | Aetheris | Azael             | Dormant             | Soul Balance   | Broken during the First Sundering          |
 
 - These weapons were forged **before divine law**, during the raw chaos of creation.  
@@ -366,13 +366,13 @@ and count how long it takes him to answer his own name."*
 
 ---
 
-**Fragment IV — Lament's Curse**  
+**Fragment IV — Lamentum's Curse**  
 *"Pain is not punishment.  
 Pain is the memory of order, carried by whoever holds it.  
 But the hand that steals what it cannot bear  
 will find that memory does not forget the thief."*
 
-> New information: foreshadows that anyone who takes Lament without being its rightful bearer will be punished by the weapon itself, not just by circumstance — relevant to whoever ends up holding it without earning it.
+> New information: foreshadows that anyone who takes Lamentum without being its rightful bearer will be punished by the weapon itself, not just by circumstance — relevant to whoever ends up holding it without earning it.
 
 ---
 
@@ -451,15 +451,15 @@ A labyrinthine city of tombs where fallen angels are not buried—but remembered
 
 ---
 
-### 🔥 Sepulcher of Sorrow (Tomb of Lament)  
+### 🔥 Sepulcher of Sorrow (Tomb of Lamentum)  
 **Type:** Weapon reliquary  
 **Location:** Infernal middle-tier plane, corrupted by intrusion
 
 **Description:**  
-A tomb sealed by paradox: the more you resist its pull, the deeper you fall into it. Here, Lament was buried and later corrupted by Belial. The realm shifts based on guilt and regret. The ground whispers in tongues that belong to no known time.
+A tomb sealed by paradox: the more you resist its pull, the deeper you fall into it. Here, Lamentum was buried and later corrupted by Belial. The realm shifts based on guilt and regret. The ground whispers in tongues that belong to no known time.
 
 **Narrative Use:**  
-- Thaeriel must descend here to reclaim Lament.  
+- Thaeriel must descend here to reclaim Lamentum.  
 - Belial confronts his past within the tomb’s illusions.  
 - Plane begins to fracture under Thamorak’s rising influence.
 
@@ -479,7 +479,7 @@ A reverse-gravity expanse where cause and effect unravel. Trees grow upside down
 
 ---
 
-> ⚠️ NOTE: Locations may evolve or collapse based on the balance between Solmire, Lament, and Aetheris. Maps are unreliable. Memory is often more accurate than geography.
+> ⚠️ NOTE: Locations may evolve or collapse based on the balance between Solmire, Lamentum, and Aetheris. Maps are unreliable. Memory is often more accurate than geography.
 
 
 ## 🔎 TRILOGY MYSTERIES
@@ -515,7 +515,7 @@ A reverse-gravity expanse where cause and effect unravel. Trees grow upside down
 
 > **Status update (2026-08-22)**: the trilogy is now fully written (159 chapters, all 3 books), so this list's original purpose — gating what a *future* chapter is allowed to reveal — is largely moot. Verified against the finished prose:
 
-- ✅ How did Belial acquire Thaeriel's weapon? — paid off (`Libro1/EN/16-21`, the Lament arc).
+- ✅ How did Belial acquire Thaeriel's weapon? — paid off (`Libro1/EN/16-21`, the Lamentum arc).
 - ✅ Who truly forged the ancestral weapons? — paid off per book (Trilogy Mysteries #1-3, each Forgotten's profile).
 - ✅ What is the "laughter" that forged Solmire? — paid off (`Libro3/EN/01_The_Divine_Jester.md` and after).
 - ✅ Did anyone suspect the Forgotten's return? — paid off (Belial senses "something ancient" from Book I on).

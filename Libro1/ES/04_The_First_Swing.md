@@ -44,7 +44,7 @@ Cruzó el terreno purificado para llegar hasta él, sus botas las primeras en pe
 
 La sala de guerra se sentía distinta con Solmire presente, aunque Camael, llegando tarde y ocupando su lugar junto al muro, no habría podido decir de inmediato por qué. La sala misma no había cambiado —la misma mesa larga marcada por siglos de mapas fijados y retirados, las mismas lámparas cansadas a lo largo de los muros— pero algo en cómo se sentaban los demás a su alrededor se había desplazado, un sutil reordenamiento de la atención que ahora apuntaba todo hacia el hombre a la cabecera.
 
-Miguel estaba ahí de pie, Solmire descansando con la punta hacia abajo contra el suelo a su lado, y expuso el plan para recuperar Zaphor'el con una confianza que llenó la sala antes de que hubiera terminado una sola frase.
+Miguel estaba ahí de pie, la espada descansando con la punta hacia abajo contra el suelo a su lado, y expuso el plan para recuperar Zaphor'el con una confianza que llenó la sala antes de que hubiera terminado una sola frase.
 
 —Nos movemos dentro de la semana —dijo Miguel—. Compromiso total: Solmire despeja la vanguardia, las legiones sostienen lo que despeja. Zaphor'el cae en días, no en meses. —Trazó el avance planeado sobre el mapa con un dedo, sin prisa, como si el resultado fuera ya un asunto de registro y no una batalla todavía por librar.
 
@@ -60,7 +60,7 @@ Miguel reconoció la advertencia con un breve gesto de cabeza y no dejó que lo 
 
 La mano de Uriel cayó plana sobre la mesa, decisiva, el sonido lo bastante agudo como para sobresaltar a algunos de los oficiales más jóvenes junto al muro. —Entonces está decidido.
 
-Gabriel no había hablado ni una sola vez desde que comenzó el concilio, y Camael lo notó del modo en que notaba la mayoría de los silencios —un hecho archivado en vez de actuado—. Estaba de pie cerca de la ventana en lugar de la mesa, los brazos cruzados, la atención fija en Solmire donde descansaba contra el suelo en vez de en el mapa o en el plan que se construía a su alrededor.
+Gabriel no había hablado ni una sola vez desde que comenzó el concilio, y Camael lo notó del modo en que notaba la mayoría de los silencios —un hecho archivado en vez de actuado—. Estaba de pie cerca de la ventana en lugar de la mesa, los brazos cruzados, la atención fija en la espada donde descansaba contra el suelo en vez de en el mapa o en el plan que se construía a su alrededor.
 
 Observó la mirada de Uriel derivar hacia Gabriel y quedarse ahí un momento. Uriel abrió la boca una vez, como para preguntar directamente si Gabriel tenía algo que añadir, y después pareció pensarlo mejor. Camael no habría sabido decir qué lo detuvo —si fue el impulso general de la sala, o algo en la quietud de Gabriel que hizo que la pregunta se sintiera indeseada incluso antes de formularse—. Uriel volvió a mirar el mapa, y el silencio pasó sin comentario, absorbido en una sala que ya avanzaba hacia el sí.
 

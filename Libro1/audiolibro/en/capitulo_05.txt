@@ -4,13 +4,13 @@ Joran had been fighting under Nael's banner for less than a year, and in that ye
 
 The crystalline towers ahead had long since stopped looking like the city they must once have been. Corruption had grown through them like frost through glass, veins of pulsating flesh threading between spires that still, in places, caught the light the way something beautiful once had. Infernal war machines ground forward across the plain, and lesser demons swarmed the gaps between them, and Joran's arm ached from a morning that showed no sign of becoming an afternoon. Somewhere to his left, a soldier he did not know screamed a name that was not answered, and he made himself not look, because looking cost time he did not have to spare.
 
-Nael held the center of the line, Coragio flaring gold with every strike, her voice cutting clean through the din each time she called a formation. Joran had seen soldiers rally to that voice who had nothing left to rally with. He was one of them.
+Nael held the center of the line, Audacia flaring gold with every strike, her voice cutting clean through the din each time she called a formation. Joran had seen soldiers rally to that voice who had nothing left to rally with. He was one of them.
 
 The war machine came from an angle no one had covered. Joran saw it a half-second before it struck the ground beside Nael, close enough that he felt the heat of it from three ranks back, and he was already shouting for her to fall back before the dust had settled.
 
 "Fall back!" His voice cracked on it. "Nael, fall back!"
 
-She did not. Blood ran from somewhere along her hairline, and she held the line anyway, Coragio still raised, still glowing. "If I fall back, they all fall back." Her eyes found Joran's for one moment, steady despite everything. "Not yet."
+She did not. Blood ran from somewhere along her hairline, and she held the line anyway, her gauntlet still raised, still glowing. "If I fall back, they all fall back." Her eyes found Joran's for one moment, steady despite everything. "Not yet."
 
 She fell three seconds later, cut down from the flank while her attention was still fixed on holding the center. Joran did not see the blow land. He heard it, and turned in time to see her go down, and felt something in the line around him buckle at the sound of it — not a rout, not yet, but the particular silence that comes just before one. Around him, soldiers who had been holding formation on Nael's voice alone suddenly had nothing to hold it on, and Joran felt the gap where her banner had flown a moment ago like a wound of his own.
 

@@ -1,10 +1,10 @@
 # Chapter 26 — The Unlikely Scouts
 
-Sariel stood on a desolate moon at the edge of a small, scattered settlement, Penumbra held loose in one hand, its point resting against the pale dust underfoot. A handful of colonists moved through their evening routines further down the slope, unaware that some among them likely carried souls that had already lived and died and forgotten themselves more than once before. He had catalogued the settlement's layout the moment he'd arrived, an old habit that served him better than instinct alone ever had.
+Sariel stood on a desolate moon at the edge of a small, scattered settlement, his spear held loose in one hand, its point resting against the pale dust underfoot. A handful of colonists moved through their evening routines further down the slope, unaware that some among them likely carried souls that had already lived and died and forgotten themselves more than once before. He had catalogued the settlement's layout the moment he'd arrived, an old habit that served him better than instinct alone ever had.
 
 He had worked assignments like this one alone for longer than he cared to measure, tracking the quiet, scattered echoes of reincarnated souls across worlds too small and too forgotten to warrant much attention from anyone else in his chain of command. He had never once, across all those solitary years, expected to be assigned a demon as a working partner. The order had arrived without room for argument, and he had learned long ago that arguing with orders wasted time better spent simply executing them well.
 
-A flicker of shadow resolved into a second figure a few paces off, arriving with no warning and no visible transit, simply present where a moment before there had been nothing. Every trained response in Sariel's body read the arrival as an ambush before his conscious mind caught up and corrected it. He held Penumbra steady regardless, unwilling to let old instinct override the plain fact of his current orders.
+A flicker of shadow resolved into a second figure a few paces off, arriving with no warning and no visible transit, simply present where a moment before there had been nothing. Every trained response in Sariel's body read the arrival as an ambush before his conscious mind caught up and corrected it. He held it steady regardless, unwilling to let old instinct override the plain fact of his current orders.
 
 He studied the newcomer a moment before speaking, cataloguing what he could of the figure now standing a few paces off — a hood and shifting cowl of shadow that gave up nothing but the sharp, angular suggestion of a jawline beneath it, a stillness of his own that carried a very different quality than Sariel's, coiled rather than settled, ready to move in any direction at the smallest provocation.
 
@@ -26,9 +26,9 @@ Andras studied the angel across from him, cataloguing the spear held loose but r
 
 Sariel studied him a moment longer before answering, weighing the offer against every instinct still telling him this partnership was a mistake waiting to reveal itself. He found no immediate reason to refuse the practical suggestion underneath the demon's dry delivery, whatever reservations still sat behind it. "We start with the settlement. Then the zone."
 
-They approached the shimmering boundary together, keeping a careful distance from its edge, and Sariel began working the settlement's perimeter with the same slow, methodical patience he brought to every hunt. He moved among the nearest colonists one at a time, searching not for the zone itself but for any soul among them that might already be carrying the particular resonance Penumbra recognized on contact — the only thing the spear had ever been capable of telling him, close range and nothing further.
+They approached the shimmering boundary together, keeping a careful distance from its edge, and Sariel began working the settlement's perimeter with the same slow, methodical patience he brought to every hunt. He moved among the nearest colonists one at a time, searching not for the zone itself but for any soul among them that might already be carrying the particular resonance the spear recognized on contact — the only thing it had ever been capable of telling him, close range and nothing further.
 
-He worked through six colonists without result, Penumbra's point resting briefly against each shoulder in turn, finding nothing more than the ordinary, unremarkable resonance of a soul that had only ever lived once. He did not hurry the process. A hunt rushed carelessly missed exactly the details a patient hunt would have caught, and he had buried too many careless mistakes across his long service to risk repeating one now. Each colonist accepted the brief contact without complaint, most of them barely pausing in whatever task had occupied them before he arrived.
+He worked through six colonists without result, its point resting briefly against each shoulder in turn, finding nothing more than the ordinary, unremarkable resonance of a soul that had only ever lived once. He did not hurry the process. A hunt rushed carelessly missed exactly the details a patient hunt would have caught, and he had buried too many careless mistakes across his long service to risk repeating one now. Each colonist accepted the brief contact without complaint, most of them barely pausing in whatever task had occupied them before he arrived.
 
 Andras watched the process a while before his patience visibly thinned. "Your way is too slow." Without further warning, he flung a small, cursed dagger directly at the shimmering boundary.
 
@@ -44,13 +44,13 @@ The zone surged without warning, expanding in a single violent pulse that cut of
 
 He moved without further hesitation, closing the distance across ground that had already begun trembling faintly underfoot, every trained instinct narrowing down to the single, immediate task in front of him.
 
-A shape began pulling itself loose from the wrongness at the boundary's edge, formless and hungry, no clear outline Sariel's trained eye could properly fix on. He crossed the remaining distance and pressed Penumbra briefly against the colonist's trembling shoulder, confirming in the same instant what he'd already begun to suspect. A reincarnated soul, terrified and disoriented, understanding nothing of what was happening around him. Not a threat. Nothing more than that — Penumbra told him nothing of direction, nothing of escape, only the plain, confirmed fact of what the man actually was.
+A shape began pulling itself loose from the wrongness at the boundary's edge, formless and hungry, no clear outline Sariel's trained eye could properly fix on. He crossed the remaining distance and pressed the spear briefly against the colonist's trembling shoulder, confirming in the same instant what he'd already begun to suspect. A reincarnated soul, terrified and disoriented, understanding nothing of what was happening around him. Not a threat. Nothing more than that — it told him nothing of direction, nothing of escape, only the plain, confirmed fact of what the man actually was.
 
 Sariel understood immediately that the spear's confirmation, useful as it was, offered him no path forward on its own. Whatever got the three of them clear of this collapsing ground would need to come from somewhere other than the weapon currently in his hand.
 
 "There," the colonist said, pointing with a shaking hand toward a narrow crevice in the rock face behind them, a path Sariel had no way of knowing existed on his own. "I grew up on this slope. That crack leads down to the lower terrace. I've used it a hundred times."
 
-Sariel followed the man's pointing hand and understood immediately why Penumbra alone would never have found this path. The spear told him what a soul was. It had never once told him anything about the ground that soul had actually lived its life walking.
+Sariel followed the man's pointing hand and understood immediately why it alone would never have found this path. The spear told him what a soul was. It had never once told him anything about the ground that soul had actually lived its life walking.
 
 ---
 
@@ -76,7 +76,7 @@ Andras huffed something that might, in a more expressive man, have qualified as 
 
 "No. I don't imagine you do." He glanced back toward the settlement, where the rescued colonist was already being folded into an embrace by someone who looked, from this distance, like family. "For what it's worth, I didn't expect you to move that fast toward a stranger. Most of your kind hesitates a beat too long, weighing whether the risk is actually worth it first."
 
-"He wasn't a stranger," Sariel said. "Not once Penumbra confirmed what he was." He let that stand as the whole of his answer, unwilling to elaborate further on a distinction he suspected Andras would need to sit with a while before actually understanding it.
+"He wasn't a stranger," Sariel said. "Not once the spear confirmed what he was." He let that stand as the whole of his answer, unwilling to elaborate further on a distinction he suspected Andras would need to sit with a while before actually understanding it.
 
 Neither of them moved to close the small distance still standing between them, and neither, Sariel noted, seemed inclined to pretend the distance had shrunk any further than the day's events had actually earned. He did not trust Andras. He suspected the feeling ran both directions without needing to be confirmed aloud. But something had passed between them today all the same, small and grudging and entirely real, and Sariel found, turning back toward the settlement to file his report, that he no longer needed to distrust the shape of it quite as completely as he had this morning.
 

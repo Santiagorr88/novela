@@ -43,7 +43,7 @@
 39. [Chapter 39 — What Goes Unspoken](39_What_Goes_Unspoken.md)
 40. [Chapter 40 — Three Were Forged](40_Three_Were_Forged.md)
 41. [Chapter 41 — A Truth Offered](41_A_Truth_Offered.md)
-42. [Chapter 42 — The Master of Lament](42_The_Master_of_Lament.md)
+42. [Chapter 42 — The Master of Lamentum](42_The_Master_of_Lament.md)
 43. [Chapter 43 — The Summit](43_The_Summit.md)
 44. [Chapter 44 — The Eve of Ruin](44_The_Eve_of_Ruin.md)
 45. [Chapter 45 — The Despairing Front](45_The_Despairing_Front.md)

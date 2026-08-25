@@ -20,7 +20,7 @@ He told it plainly, without the softening he might once have used on a lesser pi
 
 "The Tower of the Eternals."
 
-Gabriel nodded once. "The Tower of the Eternals. Belial did not simply stumble upon Lament. Something led him to it, and whatever that something was, it left a trail — a record he consulted, a name he learned, a reason he knew exactly where to look when the rest of us were still fighting a war we thought we understood. I want that trail. I want to know precisely what he knows that we don't, before it costs us anything more than it already has."
+Gabriel nodded once. "The Tower of the Eternals. Belial did not simply stumble upon Lamentum. Something led him to it, and whatever that something was, it left a trail — a record he consulted, a name he learned, a reason he knew exactly where to look when the rest of us were still fighting a war we thought we understood. I want that trail. I want to know precisely what he knows that we don't, before it costs us anything more than it already has."
 
 ---
 

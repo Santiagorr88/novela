@@ -36,7 +36,7 @@ Lo que fuera que Gabriel hubiera dicho después se perdió bajo el sonido de ale
 
 ---
 
-Uriel se detuvo a una docena de pasos, sus guerreros abriéndose en abanico tras él en una formación que no dejaba ambigüedad alguna sobre su intención, Ignis Lux ardiendo ahora lo bastante brillante como para proyectar sombras filosas sobre la piedra dorada del patio. Su rostro no llevaba nada de la esperanza incierta de Gabriel, solo una máscara de furia fría y absoluta, el arma ya encendida antes de que se hubiera cruzado una sola palabra entre ellos.
+Uriel se detuvo a una docena de pasos, sus guerreros abriéndose en abanico tras él en una formación que no dejaba ambigüedad alguna sobre su intención, su arma ardiendo ahora lo bastante brillante como para proyectar sombras filosas sobre la piedra dorada del patio. Su rostro no llevaba nada de la esperanza incierta de Gabriel, solo una máscara de furia fría y absoluta, el arma ya encendida antes de que se hubiera cruzado una sola palabra entre ellos.
 
 Miguel lo recordaba de un centenar de viejos informes, rápido para la ira y más rápido todavía para actuar según ella, un soldado de soldados que jamás había fingido que la paciencia fuera una virtud que valorara particularmente. Recordó también que esa misma ira siempre había llegado junto a una defensa feroz e inquebrantable de quienquiera que Uriel hubiera decidido que valía la pena defender —las dos jamás se habían presentado por separado, en ninguna versión de él que Miguel pudiera recordar—. Ese recuerdo, al menos, le ofrecía algo familiar a lo que aferrarse en un patio que, por lo demás, se sentía más extraño de lo que se había preparado para enfrentar.
 
@@ -66,7 +66,7 @@ Gabriel dio un paso adelante hacia el espacio entre ambos antes de que ninguno d
 
 La mirada de Uriel se cortó hacia Gabriel, algo viejo y sin resolver titilando tras ella, alguna discusión que ambos habían tenido claramente antes y jamás terminado de resolver. Miguel observó el intercambio pasar entre sus dos hermanos, uno cuidadoso y deliberado, otro ardiente e inmediato, y se descubrió presenciando los signos visibles de un conflicto que claramente había existido antes de su propio regreso en alguna medida considerable, fuera cual fuese su fuente real.
 
-Uriel mantuvo su posición un largo momento, la llama todavía reunida a lo largo de Ignis Lux, la mirada moviéndose una vez más por la quietud silenciosa de Azael y la expresión cuidadosamente neutra de Ereloth antes de volver a fijarse en el propio Miguel. Miguel vio su mandíbula trabajar una vez, dos veces, algún ajuste de cuentas privado desplegándose por unos rasgos que recordaba menos complicados la última vez que se había erguido en este mismo patio.
+Uriel mantuvo su posición un largo momento, la llama todavía reunida a lo largo de la alabarda, la mirada moviéndose una vez más por la quietud silenciosa de Azael y la expresión cuidadosamente neutra de Ereloth antes de volver a fijarse en el propio Miguel. Miguel vio su mandíbula trabajar una vez, dos veces, algún ajuste de cuentas privado desplegándose por unos rasgos que recordaba menos complicados la última vez que se había erguido en este mismo patio.
 
 —El concilio, entonces —dijo Uriel finalmente, la llama a lo largo de su arma apagándose, aunque sin extinguirse del todo—. Pero sabe esto. Si lo que nos traes resulta ser la mentira que todavía sospecho que es, terminaré lo que vine hoy aquí ya preparado para hacer.
 

@@ -29,7 +29,7 @@
 | # | Hecho | Estado final |
 |---|-------|--------------|
 | H1 | Solmire forjada por Ereloth, por alegría pura | Conocido por los cuatro del Nexo + Consejo (L3/22) + Codex (L3/47) |
-| H2 | Lament forjada por Thaeriel, robada por Belial | Ídem; Belial lo aprende del propio Thaeriel en el duelo (L3/19). **Lucifer nunca lo sabe** (L2/10, sostenido toda la obra) |
+| H2 | Lamentum forjada por Thaeriel, robada por Belial | Ídem; Belial lo aprende del propio Thaeriel en el duelo (L3/19). **Lucifer nunca lo sabe** (L2/10, sostenido toda la obra) |
 | H3 | Aetheris existe, rota, de Azael | Revelada en L3/17; reforjada en L3/38 |
 | H4 | Las armas son pre-Judgment | Cadena: Iofiel (L1/43) → Miguel+Gabriel (L1/44) → Consejo (L2/26→46) → todos |
 | H5 | Ubicación de cada arma por época | Tablas por época en kg1; destinos finales limpios (colina / Sepulcro / equilibrio) |
@@ -59,7 +59,7 @@
 
 | # | Hecho | Estado final |
 |---|-------|--------------|
-| H17 | Belial asesinó a Aamon (sigilo + Ruach) | La verdad completa la tiene el CIELO (Sariel lee el Tower, L2/23→26), no el Infierno. Lucifer nunca lo sabe. Registros físicos siguen en el Tower — **el secreto más reactivable para Saga II** |
+| H17 | Belial asesinó a Aamon (sigilo + Dubium) | La verdad completa la tiene el CIELO (Sariel lee el Tower, L2/23→26), no el Infierno. Lucifer nunca lo sabe. Registros físicos siguen en el Tower — **el secreto más reactivable para Saga II** |
 | H18 | El Codex del inframundo mortal es falso (Agares) | Circuito cerrado: Agares/Vual/Nymos/Lucifer. Nadie lo descubre jamás; muere de obsolescencia (L3/50) |
 | H19 | El Enforcer fue "denegado" — causa desconocida | Verificado: NADIE afirma la causa en página. Ambigüedad deliberada intacta. Candidato en página: el Vacío o **Azael** (L2/42-43) |
 | H20 | Charon Corp (cosecha de almas) | **El Cielo nunca la conoce.** Solo Infierno + Arin (conocimiento operativo total). Muere por decreto propio (L2/50) |

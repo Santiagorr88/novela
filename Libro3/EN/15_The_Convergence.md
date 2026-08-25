@@ -8,7 +8,7 @@ This morning's drill had started ordinarily enough, the same patient repetition 
 
 "Again," Ereloth said, already resetting his stance, grinning the particular grin he wore whenever he intended to make a lesson out of something Michael hadn't yet noticed was a lesson.
 
-Michael obliged him, and felt it the instant their blades met — not the clean, cold judgment Solmire had always hummed with in his hand before, that familiar note of absolute verdict he'd carried since the day he first lifted the sword from wherever the world had kept it waiting for him. This was warmer. It ran through the blade like a low current finding its way toward something specific, a longing rather than a verdict, pulling gently but insistently in a direction he hadn't consciously chosen to face.
+Michael obliged him, and felt it the instant their blades met — not the clean, cold judgment the blade had always hummed with in his hand before, that familiar note of absolute verdict he'd carried since the day he first lifted the sword from wherever the world had kept it waiting for him. This was warmer. It ran through the blade like a low current finding its way toward something specific, a longing rather than a verdict, pulling gently but insistently in a direction he hadn't consciously chosen to face.
 
 He lowered the sword, more startled by the change than by anything Ereloth's blade had managed to do to him all morning.
 

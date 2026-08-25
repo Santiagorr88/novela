@@ -34,7 +34,7 @@ Vepar stood at the head of his own dark bridge, watching the same tactical displ
 
 He studied the readiness reports scrolling past him, each one confirming what he'd already suspected — that his own Legions, whatever residual hatred still simmered in their ranks, had held their discipline through the crossing exactly as ordered. He allowed himself, briefly, something close to respect for that discipline, an emotion he generally reserved for enemies rather than his own soldiers, and found the distinction between the two categories mattering less today than it once had.
 
-Marea rested across his forearm, unused since the negotiation that had settled this fleet's exact shape, and he found himself, studying the assembled black ranks stretching out beneath his bridge, considering how few of the officers currently holding formation had ever spoken to an angel outside the context of trying to kill one. Whatever came of today's crossing, he suspected that particular fact was about to change for a great many of them, whether the outcome ahead proved to be victory or simple survival.
+His trident rested across his forearm, unused since the negotiation that had settled this fleet's exact shape, and he found himself, studying the assembled black ranks stretching out beneath his bridge, considering how few of the officers currently holding formation had ever spoken to an angel outside the context of trying to kill one. Whatever came of today's crossing, he suspected that particular fact was about to change for a great many of them, whether the outcome ahead proved to be victory or simple survival.
 
 "Formations holding, Marshal," his second reported.
 

@@ -6,7 +6,7 @@ Gusion mismo no necesitaba semejante cortesía. Se mantenía de pie del modo en 
 
 —Dilo otra vez —dijo ella—, la parte sobre el escudo.
 
-—La línea avanzada de Camael, sosteniendo posición en el borde del valle, con las alas de ataque de Vepar lanzando incursiones desde detrás de ella. —Gusion dejó el informe sobre un escritorio que era, en verdad, solo el recuerdo de un escritorio, su pluma —la de verdad, *Veritas Inversa*, nunca lejos de su mano incluso cuando no le quedaba nada que firmar— dando un golpecito contra su propio reflejo—. Ya no es un rumor. Tres correos distintos han contado ahora la misma forma de la historia, de manera independiente. Se sostiene. Lleva semanas sosteniéndose.
+—La línea avanzada de Camael, sosteniendo posición en el borde del valle, con las alas de ataque de Vepar lanzando incursiones desde detrás de ella. —Gusion dejó el informe sobre un escritorio que era, en verdad, solo el recuerdo de un escritorio, su pluma, nunca lejos de su mano incluso cuando no le quedaba nada que firmar, dando un golpecito contra su propio reflejo—. Ya no es un rumor. Tres correos distintos han contado ahora la misma forma de la historia, de manera independiente. Se sostiene. Lleva semanas sosteniéndose.
 
 —¿Y el trono lo sabe cómo?
 
@@ -22,7 +22,7 @@ El borde del valle no se parecía en nada a la corte que había dejado atrás, y
 
 Encontró el propio campamento de reunión de Vepar un poco más adelante, una cicatriz de tierra negra apisonada en el borde del Valle Invertido donde su flota fondeaba entre incursiones, y se dejó ver a la distancia exacta que hacía innecesario un anuncio. Había vestido la visita con la mayor sencillez que sabía —sin procesión, sin heraldo, Neriah plegado lo bastante cerca de sus hombros como para leerse, ante cualquiera que mirara, como nada más que una capa inusualmente fina—. El espectáculo lo habría hecho suspicaz. Había aprendido, mucho antes de esta guerra en particular, que la vía más segura hacia la confianza de un soldado era llegar pareciendo alguien a quien ya no le queda nada por demostrar.
 
-Vepar la recibió él mismo en el perímetro, Marea descansando sobre un antebrazo del modo en que sospechó que siempre lo hacía, sus rasgos translúcidos revelando exactamente tan poco como le habían advertido los informes que harían. —Duquesa —dijo, el título cayendo sin demasiado peso en ningún sentido—. La corte del Infierno no suele molestarse en enviar a nadie tan pulido a un campamento de reunión. Aquí escaseamos un poco los espejos.
+Vepar la recibió él mismo en el perímetro, su tridente descansando sobre un antebrazo del modo en que sospechó que siempre lo hacía, sus rasgos translúcidos revelando exactamente tan poco como le habían advertido los informes que harían. —Duquesa —dijo, el título cayendo sin demasiado peso en ningún sentido—. La corte del Infierno no suele molestarse en enviar a nadie tan pulido a un campamento de reunión. Aquí escaseamos un poco los espejos.
 
 —No he venido por los espejos. —Dejó que el silencio se sostuviera un momento, observándolo del modo en que observaba a cualquiera que valiera la paciencia —no por lo que decía, sino por lo que le costaba mantener su quietud—. He venido porque llevas un mes sosteniendo una línea que el trono apenas comprende que existe, mariscal, y nadie en esa corte se ha molestado en preguntar qué te está costando en realidad mantenerla en pie.
 

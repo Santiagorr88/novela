@@ -48,7 +48,7 @@ She crossed the chamber's length without hurrying, and let the light kindle at h
 
 Gabriel read the four short lines twice, his expression settling into something Selaphiel recognized from centuries of watching him receive bad news calmly rather than well. Iofiel came to stand beside him within the space of a breath, her reading fast and hungry, the look, to Selaphiel's eye, of a scholar finding a source she'd never thought to search for inside a chorus hall's closing rite. "This is Codex structure," she said. "The meter alone — no liturgist invented this cadence independently. This has been hiding inside your dawn devotion since before either of us held our current rank."
 
-Raziel had gone very quiet, Ignotus still open but no longer receiving any of his attention, his gaze fixed instead on the old hymnal page over Gabriel's shoulder.
+Raziel had gone very quiet, the tome still open but no longer receiving any of his attention, his gaze fixed instead on the old hymnal page over Gabriel's shoulder.
 
 "Some verses are sung because singing them is safer than reading them," he said finally, and Selaphiel heard no triumph in it, only what sounded like the flat certainty of a man watching an argument he'd already made prove itself without his help. "A congregation that chants a warning every dawn without understanding it is a congregation that's kept safe from the warning, not ignorant of it. She just proved my point without meaning to." He looked at Selaphiel directly for the first time since she'd entered the room. "You didn't decode anything tonight, Commander. You found out how long this council has already been protecting itself from a truth it wasn't ready to hold. And you're standing here handing it back to us anyway."
 
@@ -60,7 +60,7 @@ The argument that followed didn't resolve so much as run itself down to nothing,
 
 "The fragments go to the full council," Gabriel said finally, when neither voice had anything left to add that the other hadn't already answered twice over. "Openly. Selaphiel's find alongside Iofiel's translation, both of them, with whatever caution either of you thinks the presentation still needs attached to it." He looked at Raziel as he said it, not unkindly. "We are already fracturing over far less than this, Raziel. I won't add a withheld truth to a council that's already short on the ones we've told it plainly."
 
-"Then tell it plainly," Raziel said, and something in his voice had gone quieter, worn thinner than the argument alone accounted for. "I'll yield the point on her fragment. I won't fight you on releasing it." He closed Ignotus with a care that didn't match the flatness of his tone, the tome's scorched pages settling shut beneath his hand. "But there is a verse deeper in that text than either of them has reached yet, Gabriel, and I am not giving it to this council tonight, or to you, however long you keep asking."
+"Then tell it plainly," Raziel said, and something in his voice had gone quieter, worn thinner than the argument alone accounted for. "I'll yield the point on her fragment. I won't fight you on releasing it." He closed the tome with a care that didn't match the flatness of his tone, the tome's scorched pages settling shut beneath his hand. "But there is a verse deeper in that text than either of them has reached yet, Gabriel, and I am not giving it to this council tonight, or to you, however long you keep asking."
 
 ---
 

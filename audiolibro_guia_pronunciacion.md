@@ -58,30 +58,33 @@ La progresión Miguel → Mikel → Michael es deliberada: son ecos del mismo no
 
 | Nombre | Pronunciación | Nota |
 |---|---|---|
+Tras la pasada de armas (2026-08-25), los nombres supervivientes se dicen **en latín en ambos idiomas**. Los nombres viejos (Lament, Ruach, Marea, Aflame, Diké, Coragio, Empath, Anamnesis) ya no existen en la prosa.
+
+| Nombre | Pronunciación | Nota |
+|---|---|---|
 | **Solmire** | SOL-meer | dos sílabas |
-| **Lament** | luh-MENT | palabra inglesa normal |
-| **Lamentun** | luh-MEN-tun | forma antigua de Lament |
+| **Lamentum** | lah-MEN-toom | latín (antes *Lament*) |
 | **Aetheris** | EE-ther-iss | como *aether* inglés |
-| Ruach | ROO-ak | ch gutural suavizada a k |
+| Dubium | DOO-bee-oom | latín (antes *Ruach*, maza de Belial) |
 | Ignis Lux | IG-niss LUKS | latín |
 | Decretum | deh-KREE-tum | latín |
 | Veritas | VEHR-ih-tass | latín |
 | Vox Aeternum | VOKS ay-TER-num | latín |
-| Marea | mah-RAY-ah | el tridente de Vepar |
+| Aestus | ES-toos | latín (antes *Marea*, tridente de Vepar) |
 | Ramiel | RAM-ee-el | la espada de Camael |
-| Diké | dee-KAY | griego, dos sílabas |
-| Coragio | koh-RAH-jee-oh | |
+| Iustitia | yoos-TIH-tee-ah | latín (antes *Diké*) |
+| Audacia | ow-DAH-kee-ah | latín (antes *Coragio*) |
 | Penumbra | peh-NUM-bruh | inglés estándar |
 | Skarth | SKARTH | una sílaba |
 | Laberynthus | lab-eh-RIN-thus | |
-| Aflame | uh-FLAYM | inglés normal (látigo de Flauros) |
+| Flagrum | FLAH-groom | latín (antes *Aflame*, látigo de Flauros) |
 | Chordis | KOR-diss | ch = k |
 | Fulmen | FUL-men | latín |
 | Equitas | EH-kwih-tass | latín |
-| Fortex / Dolorim / Deseum | FOR-teks / doh-LOR-im / deh-SAY-um | |
-| Anamnesis | an-am-NEE-siss | griego |
+| Memoria | meh-MOH-ree-ah | latín (antes *Anamnesis*, espada de Ezequiel) |
 | Silens | SY-lenz | |
-| Empath | EM-path | inglés normal |
+| Affectus | ah-FEK-toos | latín (antes *Empath*, flechas de Krass) |
+| Ruinor / Ascua / Mnemosyn | roo-ee-NOR / AHS-kwah / NEM-oh-sin | sin entrada latina — pendientes de decisión |
 
 ## 4. Lugares
 
@@ -133,6 +136,6 @@ Amara Osei → ah-MAH-rah oh-SAY · Elena Voss → eh-LAY-nah VOSS · Margaret H
 
 ## Avisos específicos para TTS
 
-- Verificar en una prueba corta: **Thaeriel vs Thariel** (personajes distintos), **Charon** (que no lo lea "CHAR-on"), **Mnemosyn** (M muda), **Diké** (que no lo lea "dike"), y la tríada **Miguel/Mikel/Michael**.
+- Verificar en una prueba corta: **Thaeriel vs Thariel** (personajes distintos), **Charon** (que no lo lea "CHAR-on"), **Mnemosyn** (M muda), **Lamentum** (que no lo lea como el inglés *lament*), y la tríada **Miguel/Mikel/Michael**.
 - Si el motor permite diccionario de pronunciación/lexemas personalizados, cargar las secciones 1-5 como entradas fijas; la 7 solo si el modelo tropieza.
 - El marcador de escena `...` de los archivos de narración debe producir pausa, no voz — verificar en la misma prueba.

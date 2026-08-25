@@ -8,7 +8,7 @@ El ejercicio de esta mañana había comenzado con la ordinariez de siempre, la m
 
 —Otra vez —dijo Ereloth, ya reajustando su postura, con la sonrisa particular que llevaba siempre que tenía intención de hacer una lección de algo que Miguel todavía no había notado que era una lección.
 
-Miguel lo complació, y lo sintió en el instante en que sus hojas se encontraron —no el juicio limpio y frío con el que Solmire siempre había zumbado en su mano antes, aquella nota familiar de veredicto absoluto que había cargado desde el día en que por primera vez alzó la espada de donde fuera que el mundo la hubiera mantenido esperándolo—. Esto era más cálido. Corría a través de la hoja como una corriente baja encontrando su camino hacia algo específico, un anhelo más que un veredicto, tirando con suavidad pero insistencia en una dirección que no había elegido conscientemente encarar.
+Miguel lo complació, y lo sintió en el instante en que sus hojas se encontraron —no el juicio limpio y frío con el que la hoja siempre había zumbado en su mano antes, aquella nota familiar de veredicto absoluto que había cargado desde el día en que por primera vez alzó la espada de donde fuera que el mundo la hubiera mantenido esperándolo—. Esto era más cálido. Corría a través de la hoja como una corriente baja encontrando su camino hacia algo específico, un anhelo más que un veredicto, tirando con suavidad pero insistencia en una dirección que no había elegido conscientemente encarar.
 
 Bajó la espada, más sobresaltado por el cambio que por cualquier cosa que la hoja de Ereloth hubiera logrado hacerle en toda la mañana.
 

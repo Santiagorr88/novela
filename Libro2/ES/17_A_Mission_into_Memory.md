@@ -20,7 +20,7 @@ Se lo contó con llaneza, sin la suavización que en otro tiempo podría haber u
 
 —La Torre de los Eternos.
 
-Gabriel asintió una vez. —La Torre de los Eternos. Belial no se topó sin más con Lament. Algo lo llevó hasta ella, y fuera lo que fuese ese algo, dejó un rastro —un registro que consultó, un nombre que aprendió, una razón por la que sabía exactamente dónde buscar cuando el resto de nosotros todavía peleábamos una guerra que creíamos entender—. Quiero ese rastro. Quiero saber con precisión qué sabe él que nosotros no, antes de que nos cueste algo más de lo que ya nos ha costado.
+Gabriel asintió una vez. —La Torre de los Eternos. Belial no se topó sin más con Lamentum. Algo lo llevó hasta ella, y fuera lo que fuese ese algo, dejó un rastro —un registro que consultó, un nombre que aprendió, una razón por la que sabía exactamente dónde buscar cuando el resto de nosotros todavía peleábamos una guerra que creíamos entender—. Quiero ese rastro. Quiero saber con precisión qué sabe él que nosotros no, antes de que nos cueste algo más de lo que ya nos ha costado.
 
 ---
 

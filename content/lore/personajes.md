@@ -102,7 +102,7 @@
 > “Faith is a formation too.”
 
 - **Height:** 2.00 m  
-- **Weapon:** Short sword *Diké* — Strengthens morale and tactical precision.  
+- **Weapon:** Short sword *Iustitia* — Strengthens morale and tactical precision.  
 - **Personality:** Strategic, patient, diplomatic.  
 - **Combat Style:** Battlefield organizer and moral anchor; strikes where needed most.  
 
@@ -293,7 +293,7 @@
 > “Purpose turns fear into fire.”
 
 - **Appearance:** Banner flowing from back; glowing sigils across torso.  
-- **Weapon:** *Coragio* — A gauntlet that spreads motivation with each strike.  
+- **Weapon:** *Audacia* — A gauntlet that spreads motivation with each strike.  
 - **Personality:** Encouraging, bold, unshakable under pressure.  
 
 ---
@@ -548,7 +548,7 @@
 > “Only those who forget honor can be wounded by me.”
 
 - **Height:** 1.95 m  
-- **Weapon:** *Anamnesis* — A blade that only harms those who betrayed their path.  
+- **Weapon:** *Memoria* — A blade that only harms those who betrayed their path.  
 - **Personality:** Rigid, disciplined, steeped in tradition.  
 - **Combat Style:** Duelist of precision; a living museum of martial mastery.  
 
@@ -1633,7 +1633,7 @@
 > “Feel this.”
 
 - **Appearance:** Body tattooed with raw emotions.  
-- **Weapon:** *Empath* — Arrows that induce love, hate or despair.  
+- **Weapon:** *Affectus* — Arrows that induce love, hate or despair.  
 - **Personality:** Dramatic, unpredictable, mood‑driven.  
 
 ---
@@ -1766,7 +1766,7 @@
 > “Let every feeling burn.”
 
 - **Height:** 1.90 m  
-- **Weapon:** *Aflame* — Whip that scorches emotions before flesh.  
+- **Weapon:** *Flagrum* — Whip that scorches emotions before flesh.  
 - **Personality:** Furious, impatient, seeks to ignite all.  
 - **Combat Style:** Conflagrations that consume morale and matter alike.  
 
@@ -2031,7 +2031,7 @@
 
 - **Height:** 2.40 m  
 - **Appearance:** Living black armor, glowing tattoos, arrogant golden eyes.  
-- **Weapon:** *Ruach* — Mace that strikes the soul; each impact does more than physical harm: it injects doubt.  
+- **Weapon:** *Dubium* — Mace that strikes the soul; each impact does more than physical harm: it injects doubt.  
 - **Personality:** Narcissistic, cruel strategist; convinced power is the sole real tongue.  
 - **Combat Style:** Warlord. Commands from the front and feeds on his enemies’ ego.  
 
@@ -2053,7 +2053,7 @@
 
 - **Height:** 2.08 m  
 - **Appearance:** Body translucent like briny water; long hair floating even on land.  
-- **Weapon:** *Marea* — Trident that controls vital and environmental fluids.  
+- **Weapon:** *Aestus* — Trident that controls vital and environmental fluids.  
 - **Personality:** Cold, distant, calculating; voice echoes like the deep sea.  
 - **Combat Style:** Drowns battlefields in shifting currents of blood and brine.  
 

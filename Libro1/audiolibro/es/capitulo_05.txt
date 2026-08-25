@@ -4,13 +4,13 @@ Joran llevaba combatiendo bajo el estandarte de Nael menos de un año, y en ese 
 
 Las torres cristalinas por delante habían dejado de parecerse hacía mucho a la ciudad que alguna vez debieron de ser. La corrupción había crecido a través de ellas como escarcha a través del vidrio, vetas de carne pulsante entretejidas entre agujas que aún, en algunos lugares, atrapaban la luz del modo en que algo hermoso lo había hecho antes. Máquinas de guerra infernales avanzaban trituradoras por la llanura, y demonios menores enjambraban los huecos entre ellas, y el brazo de Joran dolía de una mañana que no daba señales de convertirse en tarde. En algún lugar a su izquierda, un soldado al que no conocía gritó un nombre que nadie contestó, y se obligó a no mirar, porque mirar costaba un tiempo que no le sobraba.
 
-Nael sostenía el centro de la línea, Coragio destellando en oro con cada golpe, su voz cortando limpia a través del estruendo cada vez que ordenaba una formación. Joran había visto a soldados reagruparse ante esa voz cuando ya no les quedaba nada con qué reagruparse. Él era uno de ellos.
+Nael sostenía el centro de la línea, Audacia destellando en oro con cada golpe, su voz cortando limpia a través del estruendo cada vez que ordenaba una formación. Joran había visto a soldados reagruparse ante esa voz cuando ya no les quedaba nada con qué reagruparse. Él era uno de ellos.
 
 La máquina de guerra llegó desde un ángulo que nadie había cubierto. Joran la vio medio segundo antes de que golpeara el suelo junto a Nael, lo bastante cerca como para sentir su calor tres filas atrás, y ya estaba gritándole que retrocediera antes de que se asentara el polvo.
 
 —¡Retrocede! —Se le quebró la voz—. ¡Nael, retrocede!
 
-Ella no lo hizo. Sangre le corría desde algún punto del nacimiento del pelo, y sostuvo la línea de todos modos, Coragio todavía en alto, todavía resplandeciendo. —Si retrocedo, todos retroceden. —Sus ojos encontraron los de Joran por exactamente un instante, firmes a pesar de todo—. Todavía no.
+Ella no lo hizo. Sangre le corría desde algún punto del nacimiento del pelo, y sostuvo la línea de todos modos, el guantelete todavía en alto, todavía resplandeciendo. —Si retrocedo, todos retroceden. —Sus ojos encontraron los de Joran por exactamente un instante, firmes a pesar de todo—. Todavía no.
 
 Cayó tres segundos después, derribada por el flanco mientras su atención seguía fija en sostener el centro. Joran no vio caer el golpe. Lo oyó, y se giró a tiempo de verla desplomarse, y sintió algo en la línea a su alrededor ceder al sonido de ello —no una desbandada, todavía no, pero sí ese silencio particular que llega justo antes de una—. A su alrededor, soldados que habían mantenido la formación solo por la voz de Nael de pronto no tenían nada con qué mantenerla, y Joran sintió el hueco donde su estandarte había ondeado un momento antes como una herida propia.
 

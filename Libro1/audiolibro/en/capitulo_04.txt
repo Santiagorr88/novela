@@ -44,7 +44,7 @@ He crossed the cleansed ground to reach him, his boots the first to disturb the 
 
 The war room felt different with Solmire present, though Camael, arriving late and taking his place along the wall, could not immediately say why. The room itself had not changed — the same long table scarred by centuries of maps pinned and unpinned, the same tired lamps along the walls — but something in how the others sat around it had shifted, a subtle reordering of attention that all pointed now toward the man at its head.
 
-Miguel stood there, Solmire resting point-down against the floor beside him, and laid out the plan to reclaim Zaphor'el with a confidence that filled the room before he had finished a single sentence.
+Miguel stood there, the sword resting point-down against the floor beside him, and laid out the plan to reclaim Zaphor'el with a confidence that filled the room before he had finished a single sentence.
 
 "We move within the week," Miguel said. "Full commitment — Solmire clears the vanguard, the legions hold what it clears. Zaphor'el falls in days, not months." He traced the planned advance across the map with one finger, as though the outcome were already a matter of record rather than a battle yet to be fought.
 
@@ -60,7 +60,7 @@ Miguel acknowledged the warning with a short nod and did not let it slow him. "N
 
 Uriel's hand came down flat on the table, decisive, the sound of it sharp enough that a few of the younger officers along the wall startled. "Then it's settled."
 
-Gabriel had not spoken once since the council began, and Camael noticed it the way he noticed most silences — worth keeping, not yet worth acting on. He stood near the window rather than the table, arms folded, his attention fixed on Solmire where it rested against the floor rather than on the map or the plan being built around it.
+Gabriel had not spoken once since the council began, and Camael noticed it the way he noticed most silences — worth keeping, not yet worth acting on. He stood near the window rather than the table, arms folded, his attention fixed on the sword where it rested against the floor rather than on the map or the plan being built around it.
 
 He watched Uriel's gaze drift toward Gabriel and hold there for a moment. Uriel opened his mouth once, as if to ask directly whether Gabriel had anything to add, and then seemed to think better of it. Camael could not have said what stopped him — the momentum of the room, or something in Gabriel's stillness that made the question feel unwelcome before it was even asked. Uriel looked back to the map, and the silence passed without comment, absorbed into a room already moving toward yes.
 
