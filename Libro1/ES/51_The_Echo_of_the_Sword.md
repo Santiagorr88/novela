@@ -8,7 +8,7 @@ Los estandartes colgaban a la mitad de su antigua altura, no por ceremonia sino 
 
 En lo que quedaba de sus aposentos, Camael no asistía al consejo. Se lo habían pedido dos veces; respondido dos veces; y no se movió en ninguna.
 
-Estaba sentado sobre un escudo volcado, una piedra de afilar en una mano y en la otra la espada de un desconocido —la hoja corta de Jeremiel, *Diké*, todavía mellada del último frente que hubiera sostenido jamás—. Camael pasaba la piedra por el filo con el mismo ritmo firme y ensayado que usaba en sus propias armas antes de una campaña, aunque esta hoja no vería más campañas y ambos lo sabían. Ya había limpiado la armadura de once soldados que no habían vuelto. Esta era la duodécima pieza, y la que había guardado para el final.
+Estaba sentado sobre un escudo volcado, una piedra de afilar en una mano y en la otra la espada de un desconocido —la hoja corta de Jeremiel, todavía mellada del último frente que hubiera sostenido jamás—. Camael pasaba la piedra por el filo con el mismo ritmo firme y ensayado que usaba en sus propias armas antes de una campaña, aunque esta hoja no vería más campañas y ambos lo sabían. Ya había limpiado la armadura de once soldados que no habían vuelto. Esta era la duodécima pieza, y la que había guardado para el final.
 
 Un mensajero lo encontró ahí. —Comandante. Lo esperan en el salón.
 
@@ -24,7 +24,7 @@ Gabriel había apoyado el estandarte astillado contra el altar en vez de alzarlo
 
 —No se ha ido, Uriel. Está eligiendo su momento. —era la voz de Camael: había venido después de todo, silencioso hasta ese momento, apoyado en el umbral con la espada pulida de Jeremiel tendida sobre ambas palmas como una ofrenda—. El Infierno no descansa. Recalcula.
 
-Zadkiel entró último, un manuscrito chamuscado bajo un brazo, el mango de Decretum raspando suavemente contra el suelo con cada paso. —El ciclo no está roto —dijo, sin preámbulos—. Pero está más doblado de lo que jamás lo he medido.
+Zadkiel entró último, un manuscrito chamuscado bajo un brazo, el mango de su bastón raspando suavemente contra el suelo con cada paso. —El ciclo no está roto —dijo, sin preámbulos—. Pero está más doblado de lo que jamás lo he medido.
 
 —¿Alguien va a decir el resto? —Respondio Cassiel, desde un rincón en la sombra con los brazos cruzados con la fuerza suficiente para acallar un temblor—. El General se ha ido. Díganlo con claridad o seguiremos planificando alrededor de un agujero que ninguno de nosotros ha nombrado.
 
@@ -34,7 +34,7 @@ Gabriel exhaló como si la palabra le costara un ala. —Miguel caerá a ese mun
 
 —Resistir también sin su espada. —La voz de Iofiel apenas se oía, pero la sala se acalló para escucharla—. Solmire está perdida en la Tierra. Podrían pasar siglos antes de que se la encuentre.
 
-—Siglos. —Elom, cerca del fondo, dejó que su guantelete Chordis chispeara y se apagara, los hilos rotos de cien conexiones cercenadas todavía zumbando débilmente a través de él—. Nuestras líneas se construirán y reconstruirán cien veces antes de eso.
+—Siglos. —Elom, cerca del fondo, dejó que su guantelete chispeara y se apagara, los hilos rotos de cien conexiones cercenadas todavía zumbando débilmente a través de él—. Nuestras líneas se construirán y reconstruirán cien veces antes de eso.
 
 —No tenemos alternativa —dijo Zadkiel—. Si el ciclo se sostiene, él regresa. Si no... —No terminó. Decretum golpeó el suelo una vez, un sonido como el de un juicio depositado con cuidado en vez de dictado.
 
@@ -54,33 +54,33 @@ Todas las miradas se volvieron hacia Gabriel. Sostuvo cada una de ellas por turn
 
 Nadie vitoreó. Pero Rafael volvió a sus listas de triaje con la espalda más recta, y Uriel encendió de nuevo los braseros de guardia, un trabajo paciente que alguna vez habría delegado a un oficial subalterno sin pensarlo dos veces, e Iofiel y Zadkiel desenrollaron una vez más el mapa maltrecho, marcando refugios que todavía pudieran sostenerse. En el rincón, Barachiel murmuraba viejas plegarias hacia escuadrones dispersos demasiado lejos para oírlas. Anael se movía entre los heridos del alma en vez de entre los simplemente quebrados de hueso, dejando pequeñas chispas de sentir en manos demasiado entumecidas para pedirlas. Remiel observaba su propia sombra parpadear contra la pared, trazando futuros que seguían negándose a coincidir entre sí.
 
-Lejos del templo, en una hondonada que los demonios ya habían empezado a llamar sala del trono por costumbre más que por verdad, Belial estaba sentado con Lament atravesada sobre las rodillas y una quemadura en la palma que no se desvanecía.
+Lejos del templo, en una hondonada que los demonios ya habían empezado a llamar sala del trono por costumbre más que por verdad, Belial estaba sentado con Lamentum atravesada sobre las rodillas y una quemadura en la palma que no se desvanecía.
 
 Él también había extendido la mano hacia Solmire, sobre el cuerpo caído de Miguel, seguro de que a las manos de un vencedor se le debían ambas hojas. Sus dedos ni siquiera habían terminado de cerrarse en torno a la empuñadura cuando la luz de la espada respondió —un destello blanco que le abrasó la palma hasta el hueso y le lanzó la mano hacia atrás antes de que pudiera aferrar nada en absoluto—. Salió despedida por el impacto, perdida en algún lugar de la tierra ordinaria de un mundo que se tomaría su tiempo para decidir si la devolvería. No había sentido miedo en ese instante. Se había sentido rechazado, que era peor.
 
-Lament, al menos, no lo había rechazado. Pero tampoco lo dejaba descansar —sus runas desplazándose lentas e inquietas contra su pierna, un zumbido negro enhebrándose hacia arriba por su brazo hasta la base del cráneo, un silencio que esperaba para volver a convertirse en sonido.
+La lanza, al menos, no lo había rechazado. Pero tampoco lo dejaba descansar —sus runas desplazándose lentas e inquietas contra su pierna, un zumbido negro enhebrándose hacia arriba por su brazo hasta la base del cráneo, un silencio que esperaba para volver a convertirse en sonido.
 
 Había ganado. Se lo dijo a sí mismo en el tono particular que se usa para un hecho que ya no se siente suficiente.
 
-—Esperaba usted un triunfo —dijo un teniente, manteniéndose a una distancia prudente—, y se sienta aquí a cuidarse una mano quemada como si estuviera de luto.
+Un teniente aguardaba a la distancia exacta que exige sobrevivir a un señor del Orgullo. —Mi señor esperaba un triunfo. Y vela una mano quemada como quien vela a un muerto.
 
-—Me siento aquí —dijo Belial, flexionando una vez la mano arruinada, probando cuánto del dolor era real y cuánto era obra de Lament— porque extendí la mano hacia una hoja que decidió que no me la había ganado, y me quedo sosteniendo una lanza que se niega a dejarme olvidar el gesto. —Apoyó de todos modos la palma plana contra el asta de Lament. El zumbido bajo su piel se agudizó, y por un instante no deseado, oyó —bajo el apetito interminable de la lanza— algo que no era hambre en absoluto. Algo casi como pena, disfrazada de hambre.
+—Me siento aquí —dijo Belial, flexionando una vez la mano arruinada, probando cuánto del dolor era real y cuánto era obra de la lanza— porque extendí la mano hacia una hoja que decidió que no me la había ganado, y me quedo sosteniendo una lanza que se niega a dejarme olvidar el gesto. —Apoyó de todos modos la palma plana contra el asta de la lanza. El zumbido bajo su piel se agudizó, y por un instante no deseado, oyó —bajo el apetito interminable de la lanza— algo que no era hambre en absoluto. Algo casi como pena, disfrazada de hambre.
 
 Todavía no tenía un nombre para eso. Archivó la ausencia de un nombre, del mismo modo en que archivaba toda ventaja que todavía no había aprendido a usar.
 
-Volvía, sin ser invitado, al último intercambio: el comandante que se había arrojado entre el golpe final y la garganta a la que iba destinado. Una criatura criada para nada más que la obediencia, gastándose sin que se lo pidieran. Belial había visto morir a miles de los suyos en servicio y jamás se había preguntado por qué. Se lo preguntaba ahora. Era una pregunta inconveniente, y sospechaba —con la incomodidad particular de quien nota una grieta antes de poder nombrar qué hay detrás de ella— que Lament la había puesto ahí.
+Volvía, sin ser invitado, al último intercambio: el comandante que se había arrojado entre el golpe final y la garganta a la que iba destinado. Una criatura criada para nada más que la obediencia, gastándose sin que se lo pidieran. Belial había visto morir a miles de los suyos en servicio y jamás se había preguntado por qué. Se lo preguntaba ahora. Era una pregunta inconveniente, y sospechaba —con la incomodidad particular de quien nota una grieta antes de poder nombrar qué hay detrás de ella— que la lanza la había puesto ahí.
 
-—Podría simplemente estar complacido —ofreció el teniente, con cuidado—. La Hueste no tiene comandante. El campo es suyo por defecto, aunque todavía no de nombre.
+—La Hueste no tiene General. El campo es vuestro. —Cada palabra medida como un paso sobre hielo—. Falta solo que lo toméis.
 
-—Un campo sobre el que no puedo pararme sin que una mano quemada me recuerde lo que costó. —Belial se levantó, y dejó que el regatón de Lament trazara una línea delgada por la ceniza a sus pies —ni del todo reverente, ni del todo descuidado—. Una victoria que cuesta tanta reflexión no fue lo bastante barata como para llamarla victoria. Averigua qué era esa lanza antes de ser mía. Quiero un nombre para lo que estoy cargando.
+—Un campo sobre el que no puedo pararme sin que una mano quemada me recuerde lo que costó. —Belial se levantó, y dejó que el regatón de la lanza trazara una línea delgada por la ceniza a sus pies —ni del todo reverente, ni del todo descuidado—. Una victoria que cuesta tanta reflexión no fue lo bastante barata como para llamarla victoria. Averiguad de dónde salió esa lanza. Quiero el nombre de la mano que la forjó.
 
-—Reconstruyan las líneas —le dijo al teniente—. Que crean que estoy descansando. No estoy descansando.
+—Reconstruyan las líneas —le dijo al teniente—. Que crean que estoy descansando.
 
 En la Tierra, en tres lugares que no tenían motivo alguno para notarse entre sí, la misma hora dio la vuelta.
 
-En las silenciosas estanterías superiores de la biblioteca de la Universidad de Navarion, un joven llamado Arin Cross cayó a mitad de un paso, ambas manos crispándose sobre nada, un dolor fantasma atravesando unas palmas que jamás habían sostenido una lanza. Se arrodilló entre libros dispersos por un pasillo al que no recordaba haber tropezado, la respiración entrecortada, seguro —sin ninguna prueba que pudiera señalar— de que algo enorme acababa de cambiar de forma en algún lugar muy por encima de él.
+En las silenciosas estanterías superiores de la biblioteca de la Universidad de Navarion, un joven cayó a mitad de un paso, ambas manos crispándose sobre nada, un dolor fantasma atravesando unas palmas que jamás habían sostenido una lanza. Se arrodilló entre libros dispersos por un pasillo al que no recordaba haber tropezado, la respiración entrecortada, seguro —sin ninguna prueba que pudiera señalar— de que algo enorme acababa de cambiar de forma en algún lugar muy por encima de él.
 
-En un apartamento apretado a dos continentes de distancia, un músico llamado Milo Ray se detuvo a mitad de afinar una cuerda de su guitarra, la cabeza ladeada, persiguiendo un sonido que nadie más en la habitación podía oír: un zumbido grave y discordante, a medio romper y extrañamente creativo, como un acorde para el que ningún instrumento en la Tierra hubiera sido construido. Pasaría el resto de la noche intentando, y fracasando, encontrarlo de nuevo.
+En un apartamento apretado a dos continentes de distancia, un músico se detuvo a mitad de afinar una cuerda de su guitarra, la cabeza ladeada, persiguiendo un sonido que nadie más en la habitación podía oír: un zumbido grave y discordante, a medio romper y extrañamente creativo, como un acorde para el que ningún instrumento en la Tierra hubiera sido construido. Pasaría el resto de la noche intentando, y fracasando, encontrarlo de nuevo.
 
 Y en una montaña que ningún mapa registraba, en un lugar donde el viento mismo había aprendido a moverse en silencio por respeto, una figura que no había abierto los ojos en cinco mil años los abrió.
 
@@ -92,7 +92,7 @@ Dejó que el dolor lo atravesara —el tipo físico, y el otro tipo, el que no t
 
 Presionó la frente contra el mármol frío.
 
-—Vuelve —dijo, a nadie que todavía pudiera oírlo—. O enséñame a liderar sin ti.
+—Vuelve —dijo, sin que nadie que todavía pudiera oírlo—. O enséñame a liderar sin ti.
 
 Afuera, el cielo parpadeó y, por una vez, no volvió a desgarrarse de inmediato. Gabriel lo tomó por lo que era —no una respuesta, solo una pausa— y dejó que fuera suficiente por esta noche.
 
@@ -116,6 +116,6 @@ El hombre de la hamaca tomó un sorbo lento de su vaso, todavía observando a la
 
 —Supongo que es hora de volver al juego —añadió.
 
-La distancia entre ambos se mantuvo, a lo largo de toda la playa. El cielo parpadeó, a lo lejos, más allá del agua, una gaviota chilló en la distancia.
+Playa abajo, el joven rozó el colgante de su garganta sin saber por qué. La palabra seguía ahí, tibia bajo el pulso: *Miguel*. Algún día —no hoy, ni mañana— alguien vendría a pronunciarla en voz alta. El hombre de la hamaca pensaba estar delante cuando ocurriera.
 
 **Fin del Libro Uno.**

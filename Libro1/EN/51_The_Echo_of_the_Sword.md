@@ -8,7 +8,7 @@ Banners hung at half their old height, not from ceremony but because there was n
 
 In what remained of his quarters, Camael was not attending the council. He had been asked twice; answered twice; and moved for neither.
 
-He sat on an overturned shield, a whetstone in one hand and a stranger's sword in the other — Jeremiel's short blade, *Diké*, still notched from the last front it had ever held. Camael drew the stone along the edge with the same steady, practiced rhythm he used on his own weapons before a campaign, though this blade would see no more campaigns and both of them knew it. He had already cleaned the armor of eleven soldiers who had not come back. This was the twelfth piece, and the one he had saved for last.
+He sat on an overturned shield, a whetstone in one hand and a stranger's sword in the other — Jeremiel's short blade, still notched from the last front it had ever held. Camael drew the stone along the edge with the same steady, practiced rhythm he used on his own weapons before a campaign, though this blade would see no more campaigns and both of them knew it. He had already cleaned the armor of eleven soldiers who had not come back. This was the twelfth piece, and the one he had saved for last.
 
 A runner found him there. "Commander. They're waiting for you in the hall."
 
@@ -24,7 +24,7 @@ Gabriel had propped the splintered banner against the altar rather than raise it
 
 "He's not gone, Uriel. He's choosing his moment." Camael's voice — he had come after all, silent until now, leaning in the doorway with Jeremiel's polished sword laid across both palms like an offering. "Hell doesn't rest. It recalculates."
 
-Zadkiel entered last, a charred manuscript under one arm, Decretum's haft scraping softly against the floor with each step. "The cycle isn't broken," he said, without preamble. "But it's bent further than I've ever measured it."
+Zadkiel entered last, a charred manuscript under one arm, the haft of his staff scraping softly against the floor with each step. "The cycle isn't broken," he said, without preamble. "But it's bent further than I've ever measured it."
 
 "Is anyone going to say the rest of it?" That was Cassiel, from a shadowed corner, arms crossed hard enough to still a tremor. "The General is gone. Say it plainly or we'll keep planning around a hole none of us have named."
 
@@ -34,7 +34,7 @@ Gabriel exhaled like the word cost him a wing. "Miguel will fall into that world
 
 "Hold without his sword, too." Iofiel's voice barely carried, but the room quieted to hear it. "Solmire is lost on Earth. It may be centuries before it's found."
 
-"Centuries." Elom, near the back, let his gauntlet Chordis spark and dim, the broken threads of a hundred severed connections still humming faint through it. "Our lines will be built and rebuilt a hundred times before then."
+"Centuries." Elom, near the back, let his gauntlet spark and dim, the broken threads of a hundred severed connections still humming faint through it. "Our lines will be built and rebuilt a hundred times before then."
 
 "We have no alternative," Zadkiel said. "If the cycle holds, he returns. If it doesn't—" He didn't finish. Decretum met the floor once, a sound like judgment set carefully down rather than delivered.
 
@@ -54,25 +54,25 @@ Every eye went to Gabriel. He met each of them in turn, and then he nodded, slow
 
 No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, patient work he would once have handed to a junior officer without a second thought, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched her own shadow flicker against the wall, tracing futures that kept refusing to agree with each other.
 
-Far from the temple, in a hollow the demons had already begun calling a throne room out of habit rather than truth, Belial sat with Lament across his knees and a burn across his palm that would not fade.
+Far from the temple, in a hollow the demons had already begun calling a throne room out of habit rather than truth, Belial sat with Lamentum across his knees and a burn across his palm that would not fade.
 
 He had reached for Solmire too, over Miguel's fallen body, certain that a victor's hands were owed both blades. His fingers had not even closed around the hilt before the sword's light answered — a white flare that seared his palm to the bone and threw his hand back before he could take hold of anything at all. It skittered from the impact, gone, lost somewhere in the ordinary dirt of a world that would take its time deciding whether to give it back. He had not felt fear in that instant. He had felt refused, which was worse.
 
-Lament, at least, had not refused him. It simply would not let him rest either — its runes shifting slow and restless against his leg, a black hum threading up through his arm and into the base of his skull, a silence that was waiting to become sound again.
+The spear, at least, had not refused him. It simply would not let him rest either — its runes shifting slow and restless against his leg, a black hum threading up through his arm and into the base of his skull, a silence that was waiting to become sound again.
 
 He had won. He told himself that in the particular tone one uses on a fact that no longer feels like enough.
 
-"You expected a triumph," said a lieutenant, hovering at a careful distance, "and you sit here nursing a burned hand as if in mourning."
+A lieutenant waited at the exact distance that surviving a Lord of Pride requires. "My lord expected a triumph. And keeps vigil over a burned hand as one keeps vigil over the dead."
 
-"I sit here," Belial said, flexing the ruined hand once, testing how much of the pain was real and how much was Lament's doing, "because I reached for a blade that decided I hadn't earned it, and I'm left holding a spear that refuses to let me forget the reaching." He set his palm flat against Lament's haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief, wearing hunger as a disguise.
+"I sit here," Belial said, flexing the ruined hand once, testing how much of the pain was real and how much was the spear's doing, "because I reached for a blade that decided I hadn't earned it, and I'm left holding a spear that refuses to let me forget the reaching." He set his palm flat against the spear's haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief, wearing hunger as a disguise.
 
 He did not have a name for that yet. He filed the absence of a name away, the way he filed away every advantage he had not yet learned how to use.
 
-He kept returning, uninvited, to the last exchange: the commander who had thrown himself between the final blow and the throat it was meant for. A creature bred for nothing but obedience, spending itself without being asked to. Belial had watched thousands of his own die in service and never once wondered why. He wondered now. It was an inconvenient question, and he suspected — with the particular unease of someone noticing a crack before he can name what's behind it — that Lament had put it there.
+He kept returning, uninvited, to the last exchange: the commander who had thrown himself between the final blow and the throat it was meant for. A creature bred for nothing but obedience, spending itself without being asked to. Belial had watched thousands of his own die in service and never once wondered why. He wondered now. It was an inconvenient question, and he suspected — with the particular unease of someone noticing a crack before he can name what's behind it — that the spear had put it there.
 
-"You could simply be pleased," the lieutenant offered, carefully. "The Host has no commander. The field is yours by default, if not yet by name."
+"The Host has no General. The field is yours." Each word measured like a step onto ice. "It remains only to be taken."
 
-"A field I can't stand on without a burned hand to remind me what it cost." Belial rose, and let Lament's butt drag a thin line through the ash at his feet — not quite reverent, not quite careless. "Victory that costs this much thought wasn't cheap enough to call victory. Find out what that spear was before it was mine. I want a name for what I'm carrying."
+"A field I can't stand on without a burned hand to remind me what it cost." Belial rose, and let the spear's butt drag a thin line through the ash at his feet — not quite reverent, not quite careless. "Victory that costs this much thought wasn't cheap enough to call victory. Find out where that spear came from. I want the name of the hand that forged it."
 
 "Rebuild the lines," he told the lieutenant. "Let them believe I'm resting. I am not resting."
 
@@ -116,7 +116,7 @@ The man in the hammock took a slow sip from his glass, still watching the white-
 
 "I suppose it's time to get back in the game," he added.
 
-The distance between them held the whole length of the beach. The sky flickered, far out past the water, and a gull cried in the distance.
+Down the shoreline, the young man's hand rose to the pendant at his throat without his knowing why. The word was still there, warm beneath his pulse: *Miguel*. Someday — not today, not tomorrow — someone would come to speak it aloud. The man in the hammock intended to be there when it happened.
 
 **The End of Book One.**
 
