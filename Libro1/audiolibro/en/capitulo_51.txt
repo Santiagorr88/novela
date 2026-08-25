@@ -68,7 +68,7 @@ The lieutenant stopped ten paces out. Those who came closer rarely did it twice.
 
 He did not have a name for that yet. He filed the absence of a name away, the way he filed away every advantage he had not yet learned how to use.
 
-He kept returning, uninvited, to the last exchange: the commander who had thrown himself between the final blow and the throat it was meant for. A creature bred for nothing but obedience, spending itself without being asked to. Belial had watched thousands of his own die in service and never once wondered why. He wondered now. It was an inconvenient question, and he suspected — with the particular unease of someone noticing a crack before he can name what's behind it — that the spear had put it there.
+The thought kept returning uninvited: the commander who had thrown himself between the final blow and the throat it was meant for. A creature bred for nothing but obedience, spending itself without being asked to. Belial had watched thousands of his own die in service and never once wondered why they did it. Now he wondered. It was an inconvenient question, and he suspected — with the particular unease of someone noticing a crack before he can name what's behind it — that the spear had put it there.
 
 "For someone to claim it. If not you, it will be another. The captains are already counting swords."
 

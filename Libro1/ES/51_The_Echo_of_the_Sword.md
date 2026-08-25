@@ -68,7 +68,7 @@ El teniente se detuvo a diez pasos. Los que se acercaban más no solían hacerlo
 
 Todavía no tenía un nombre para eso. Archivó la ausencia de un nombre, del mismo modo en que archivaba toda ventaja que todavía no había aprendido a usar.
 
-Volvía, sin ser invitado, al último intercambio: el comandante que se había arrojado entre el golpe final y la garganta a la que iba destinado. Una criatura criada para nada más que la obediencia, gastándose sin que se lo pidieran. Belial había visto morir a miles de los suyos en servicio y jamás se había preguntado por qué. Se lo preguntaba ahora. Era una pregunta inconveniente, y sospechaba —con la incomodidad particular de quien nota una grieta antes de poder nombrar qué hay detrás de ella— que la lanza la había puesto ahí.
+El pensamiento volvía sin que lo invitara: el comandante que se había arrojado entre el golpe final y la garganta a la que iba destinado. Una criatura criada para nada más que la obediencia, gastándose sin que nadie se lo pidiera. Belial había visto morir a miles de los suyos en servicio y jamás se había preguntado por qué lo hacían. Ahora se lo preguntaba. Era una pregunta inconveniente, y sospechaba —con la incomodidad particular de quien nota una grieta antes de poder nombrar qué hay detrás de ella— que la lanza la había puesto ahí.
 
 —Que alguien lo haga. Si no sois vos, será otro. Los capitanes ya cuentan espadas.
 
