@@ -20,7 +20,7 @@ The one who stepped through last carried himself differently from the rest — a
 
 He stopped a careful distance back from the fighting line his soldiers had already formed, hands loose at his sides, the particular stillness Arin read as a commander who preferred to let others absorb the risk of the opening move. Whatever rank he held, it plainly excused him from the kind of work the eight soldiers arrayed in front of him were about to be asked to do. He studied both of them a moment longer, the way a man studies a ledger he already knows will balance in his favor.
 
-"Lord Belial will be pleased," the enforcer said, his voice carrying an artificial evenness that unsettled Arin more than any battle cry would have. "The fallen Commander and the renegade Judge, in the same room, saving us the trouble of finding you separately." He raised one hand toward the soldiers arrayed behind him. "Take them."
+"Lord Belial will be pleased," the enforcer said, his voice carrying an artificial evenness that unsettled Arin more than any battle cry would have. "The two signatures, in the same room, saving us the trouble of finding you separately." He raised one hand toward the soldiers arrayed behind him. "Take them."
 
 ---
 

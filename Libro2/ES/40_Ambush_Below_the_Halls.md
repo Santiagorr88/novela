@@ -20,7 +20,7 @@ El que entró último se comportaba de un modo distinto al resto —a su propio 
 
 Se detuvo a una distancia prudente de la línea de combate que sus soldados ya habían formado, las manos sueltas a sus costados, la quietud particular que Arin leyó como la de un comandante que prefería dejar que otros absorbieran el riesgo del primer movimiento. Fuera cual fuese su rango, claramente lo eximía del tipo de trabajo que los ocho soldados desplegados frente a él estaban a punto de tener que hacer. Los estudió a ambos un momento más, del modo en que un hombre estudia un libro de cuentas que ya sabe que le será favorable.
 
-—El Señor Belial estará complacido —dijo el ejecutor, su voz llevando una uniformidad artificial que inquietó a Arin más de lo que lo habría hecho cualquier grito de guerra—. El Comandante caído y el Juez renegado, en la misma habitación, ahorrándonos la molestia de encontrarlos por separado. —Alzó una mano hacia los soldados dispuestos detrás de él—. Tomadlos.
+—El Señor Belial estará complacido —dijo el ejecutor, su voz llevando una uniformidad artificial que inquietó a Arin más de lo que lo habría hecho cualquier grito de guerra—. Las dos firmas, en la misma habitación, ahorrándonos la molestia de encontrarlas por separado. —Alzó una mano hacia los soldados dispuestos detrás de él—. Tomadlos.
 
 ---
 
