@@ -62,17 +62,17 @@ The spear, at least, had not refused him. It simply would not let him rest eithe
 
 He had won. He told himself that in the particular tone one uses on a fact that no longer feels like enough.
 
-A lieutenant waited at the exact distance that surviving a Lord of Pride requires. "My lord expected a triumph. And keeps vigil over a burned hand as one keeps vigil over the dead."
+The lieutenant stopped ten paces out. Those who came closer rarely did it twice. "The Host awaits orders. No one has claimed command."
 
-"I sit here," Belial said, flexing the ruined hand once, testing how much of the pain was real and how much was the spear's doing, "because I reached for a blade that decided I hadn't earned it, and I'm left holding a spear that refuses to let me forget the reaching." He set his palm flat against the spear's haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief, wearing hunger as a disguise.
+"And what are you waiting for?" Belial did not look up from the ruined hand, flexing it once, testing how much of the pain was real and how much was the spear's doing. He set his palm flat against the haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief, wearing hunger as a disguise.
 
 He did not have a name for that yet. He filed the absence of a name away, the way he filed away every advantage he had not yet learned how to use.
 
 He kept returning, uninvited, to the last exchange: the commander who had thrown himself between the final blow and the throat it was meant for. A creature bred for nothing but obedience, spending itself without being asked to. Belial had watched thousands of his own die in service and never once wondered why. He wondered now. It was an inconvenient question, and he suspected — with the particular unease of someone noticing a crack before he can name what's behind it — that the spear had put it there.
 
-"The Host has no General. The field is yours." Each word measured like a step onto ice. "It remains only to be taken."
+"For someone to claim it. If not you, it will be another. The captains are already counting swords."
 
-"A field I can't stand on without a burned hand to remind me what it cost." Belial rose, and let the spear's butt drag a thin line through the ash at his feet — not quite reverent, not quite careless. "Victory that costs this much thought wasn't cheap enough to call victory. Find out where that spear came from. I want the name of the hand that forged it."
+"Let them count. Swords tire before pride does." Belial rose, and let the spear's butt drag a thin line through the ash at his feet. "Find out where this spear came from. Bring me the name of the one who forged it. Nothing else."
 
 "Rebuild the lines," he told the lieutenant. "Let them believe I'm resting. I am not resting."
 

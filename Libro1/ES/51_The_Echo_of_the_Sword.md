@@ -62,19 +62,19 @@ La lanza, al menos, no lo había rechazado. Pero tampoco lo dejaba descansar —
 
 Había ganado. Se lo dijo a sí mismo en el tono particular que se usa para un hecho que ya no se siente suficiente.
 
-Un teniente aguardaba a la distancia exacta que exige sobrevivir a un señor del Orgullo. —Mi señor esperaba un triunfo. Y vela una mano quemada como quien vela a un muerto.
+El teniente se detuvo a diez pasos. Los que se acercaban más no solían hacerlo dos veces. —La Hueste espera órdenes. Nadie ha reclamado el mando.
 
-—Me siento aquí —dijo Belial, flexionando una vez la mano arruinada, probando cuánto del dolor era real y cuánto era obra de la lanza— porque extendí la mano hacia una hoja que decidió que no me la había ganado, y me quedo sosteniendo una lanza que se niega a dejarme olvidar el gesto. —Apoyó de todos modos la palma plana contra el asta de la lanza. El zumbido bajo su piel se agudizó, y por un instante no deseado, oyó —bajo el apetito interminable de la lanza— algo que no era hambre en absoluto. Algo casi como pena, disfrazada de hambre.
+—¿Y tú qué esperas? —Belial no levantó la vista de la mano arruinada, flexionándola una vez, probando cuánto del dolor era real y cuánto era obra de la lanza. Apoyó de todos modos la palma plana contra el asta. El zumbido bajo su piel se agudizó, y por un instante no deseado, oyó —bajo el apetito interminable de la lanza— algo que no era hambre en absoluto. Algo casi como pena, disfrazada de hambre.
 
 Todavía no tenía un nombre para eso. Archivó la ausencia de un nombre, del mismo modo en que archivaba toda ventaja que todavía no había aprendido a usar.
 
 Volvía, sin ser invitado, al último intercambio: el comandante que se había arrojado entre el golpe final y la garganta a la que iba destinado. Una criatura criada para nada más que la obediencia, gastándose sin que se lo pidieran. Belial había visto morir a miles de los suyos en servicio y jamás se había preguntado por qué. Se lo preguntaba ahora. Era una pregunta inconveniente, y sospechaba —con la incomodidad particular de quien nota una grieta antes de poder nombrar qué hay detrás de ella— que la lanza la había puesto ahí.
 
-—La Hueste no tiene General. El campo es vuestro. —Cada palabra medida como un paso sobre hielo—. Falta solo que lo toméis.
+—Que alguien lo haga. Si no sois vos, será otro. Los capitanes ya cuentan espadas.
 
-—Un campo sobre el que no puedo pararme sin que una mano quemada me recuerde lo que costó. —Belial se levantó, y dejó que el regatón de la lanza trazara una línea delgada por la ceniza a sus pies —ni del todo reverente, ni del todo descuidado—. Una victoria que cuesta tanta reflexión no fue lo bastante barata como para llamarla victoria. Averiguad de dónde salió esa lanza. Quiero el nombre de la mano que la forjó.
+—Que cuenten. Las espadas se cansan antes que el orgullo. —Belial se levantó, y dejó que el regatón de la lanza trazara una línea delgada por la ceniza a sus pies—. Averigua de dónde salió esta lanza. Tráeme el nombre del que la forjó. Nada más.
 
-—Reconstruyan las líneas —le dijo al teniente—. Que crean que estoy descansando.
+—Reconstruye las líneas —le dijo al teniente—. Que crean que estoy descansando. No estoy descansando.
 
 En la Tierra, en tres lugares que no tenían motivo alguno para notarse entre sí, la misma hora dio la vuelta.
 
