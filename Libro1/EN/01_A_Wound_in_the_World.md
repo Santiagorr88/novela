@@ -4,13 +4,13 @@ Miguel had been crossing Serephis for days. The heat fused the sand into sheets 
 
 He did not tell himself he was chasing a weapon. He told himself he was chasing an answer: the ache would be the scar of some battle scrubbed from his memory, and understanding it would be enough to go home whole. He had not examined that hope in days. He preferred not to know how much of it was left.
 
-The dune broke apart under his boot and there was stone.
+The dune broke apart under his boot. Beneath it was stone.
 
-He stopped. Not for the wound — the pull never changed — but because the stone was cut, not shattered. A paving block, its edge still square. He brushed the sand away with two fingers: a second block beside the first, a third beyond it. A buried road, running straight toward the horizon he was already walking.
+He stopped. Not for the wound — the pull never changed — but because the stone was cut, not shattered. A paving block, its edge still square. He brushed the sand away with two fingers: a second block beside the first, a third beyond it. A buried road, running straight toward the same horizon he was already headed for.
 
 Serephis had not always been empty.
 
-He knew this the way he knew most things about the deep past: doctrine, not memory. A kingdom here, before the Fall. He had never learned its name. At some council, someone had told him the desert was not a ruin but a weapon: a people who could no longer win their war had unmade their own land rather than hand it over — burned the water table, salted the air, and let the wind do the rest for a thousand years. He hadn't believed it then. It sounded like the kind of story armies tell each other to make retreat sound like strategy.
+He knew this the way he knew most things about the deep past: doctrine, not memory. A kingdom here, before the Fall. He had never learned its name. At some council, someone had told him the desert was not a ruin but a weapon: a people who could no longer win their war had unmade their own land rather than hand it over — drained the water table, salted the earth, and let the wind do the rest for a thousand years. He hadn't believed it then. It sounded like the kind of story armies tell each other to make retreat sound like strategy.
 
 He believed it now, crouched over a road built for feet that had stopped walking it before his own kind had names.
 
@@ -34,7 +34,7 @@ The shift from envoy to brother struck deeper than any order could have. For one
 
 He had lived a version of this moment before. That was why he could not make himself turn around.
 
-Onyx Gates had cost him his wing. The siege went wrong the way sieges go wrong when solid ground stops being solid, and Miguel came out of it on his back in a collapsing fortress, unable to feel the arm that should have been screaming. Gabriel found him there. No one sent him: he broke from a command post he had no reason to leave, and found him. Three nights he knelt beside him in the dark, cauterizing what could be cauterized with nothing but his own light and his own hands, talking the whole time about nothing — old songs, a joke about Uriel's temper, the taste of something they'd once eaten on a world neither of them could name anymore. Silence, he said afterward, was the thing that let wounds decide they were fatal.
+Onyx Gates had cost him his wing. The siege went wrong the way sieges go wrong when solid ground stops being solid, and Miguel came out of it on his back in a collapsing fortress, unable to feel the arm that should have been screaming with pain. Gabriel found him there. No one sent him: he broke from a command post he had no reason to leave, and found him. Three nights he knelt beside him in the dark, cauterizing what could be cauterized with nothing but his own light and his own hands, talking the whole time about nothing — old songs, a joke about Uriel's temper, the taste of something they'd once eaten on a world neither of them could name anymore. Silence, he said afterward, was the thing that let wounds decide they were fatal.
 
 Miguel asked him, once the fortress finally stopped groaning, why he hadn't sent a healer.
 
@@ -54,7 +54,7 @@ Gabriel did not argue. His light dimmed a fraction. A single tear of light trace
 
 The heat and the silence returned, heavier than before. He let the regret surface once, fully, and set it aside. The choice was made. He marched on.
 
-He walked for days through unchanging desert, until it changed without warning. One step on burning sand; the next, on cool moss. The oppressive air gave way to a stillness with a metallic tang, like the moment after lightning. He had reached the grove. Trees with leaves of pale metal rose in ranks, casting an even light that threw no shadow at all — none, anywhere. His tactical mind said: *ambush*. Nothing in creation was this perfect. His hand drifted to where a sword hilt should have waited, and only measured his own vulnerability. Here was the answer he had come for. He would not let the perfection deceive him.
+He walked for days through unchanging desert, until it changed without warning. One step on burning sand; the next, on cool moss. The oppressive air gave way to a stillness with a metallic tang, like the moment after lightning. He had reached the grove. Trees with leaves of pale metal rose in ranks, casting an even light that threw no shadow at all — none, anywhere. His tactical mind said: *ambush*. Nothing in creation was this perfect. His hand went, out of old habit, to the hilt of a sword he was not carrying. Here was the answer he had come for. He would not let the perfection deceive him.
 
 The silence watched. He tried to recite a verse of the Divine Song, the exercise he had centered himself with before a thousand battles, and could not recall the words. Every leaf that cracked under his boots sounded like a shout in a library. He felt measured, and did not know by whom, or for what.
 
@@ -62,10 +62,10 @@ He saw it first as a flaw in the light: one of the trees, some forty paces off, 
 
 "I have come for what is mine," Miguel said, and heard, even as he said it, how little he knew of the claim he was making.
 
-The figure did not answer. Its stillness was answer enough, and it left Miguel's certainty small and borrowed beside it. He advanced toward the grove's center, waiting for the line he was not meant to cross. The line never came. The figure did not follow or block him: it turned, smooth and soundless, to keep facing him as he passed, like a compass needle. Miguel kept walking, that gaze resting on his back long after the trees hid it.
+The figure did not answer. Its stillness was answer enough, and Miguel's certainty seemed suddenly small, and borrowed. He advanced toward the grove's center, waiting for the line he was not meant to cross. The line never came. The figure did not follow or block him: it turned, smooth and soundless, to keep facing him as he passed, like a compass needle. Miguel kept walking, that gaze resting on his back long after the trees hid it.
 
 At the heart of the grove stood a great ash with bark the color of cooled lava, its roots sunk into a pool of light. Driven into the trunk was a sword. Not forged metal: living light, made solid. The instant he saw it, the ache in his chest went silent. A name rose in his mind unbidden, not remembered but *rediscovered*: *Solmire.* He did not think *that is a sword*. He thought, with absolute and terrifying recognition: *that is what was taken from me.*
 
-He stopped before the ash. His hand trembled as he raised it. For a heartbeat, the name *Miguel* felt like a title someone else had given him to wear. A low hum built behind his eyes, resonant with the hollow beneath his ribs. His fingers stopped inches from the hilt. If he touched this, would he still be himself afterward? Or only an extension of the blade's will?
+He stopped before the ash. His hand trembled as he raised it. For a heartbeat, the name *Miguel* felt like a borrowed title. A low hum built behind his eyes, resonant with the hollow beneath his ribs. His fingers stopped inches from the hilt. If he touched this, would he still be himself afterward? Or only an extension of the blade's will?
 
 The moment skin met hilt, the grove vanished.
