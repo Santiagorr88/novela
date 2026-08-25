@@ -1,8 +1,8 @@
 # B1C28 – The Echo of the Sword
 
-Weeks had passed, and the sky still had not forgiven itself.
+Weeks had passed.
 
-Above the Temple of Shattered Light, the vault healed in strange, uneven cycles — a wound that scarred over only to split open again at the next dusk, weeping thin light onto stone that had already drunk too much of it. The temple's outer walls stood, but only just: cracked pillars propped against each other like soldiers holding a line no one had ordered them to hold. Inside, the hum of ordinary duty had returned — triage rosters, rationed provisions, watch rotations chalked and rechalked on broken slate — but it moved through the halls like breath through a body missing a lung. Everyone did their part. No one spoke of the part that was missing.
+Above the Temple of Shattered Light, the vault healed in strange, uneven cycles — a wound that scarred over only to split open again at the next dusk, weeping thin light onto stone that had already drunk too much of it. The temple's outer walls still stood, cracked pillars propped against each other, holding a line no one had ordered them to hold. Inside, the hum of ordinary duty had returned — triage rosters, rationed provisions, watch rotations chalked and rechalked on broken slate. Everyone did their part. No one spoke of the part that was missing.
 
 Banners hung at half their old height, not from ceremony but because there was no one left tall enough, in spirit, to raise them further.
 
@@ -82,7 +82,7 @@ In the quiet upper stacks of Navarion University's library, a young man named Ar
 
 In a cramped apartment two continents away, a musician named Milo Ray stopped tuning his guitar mid-string, head tilted, chasing a sound no one else in the room could hear: a low, discordant hum, half-broken and strangely creative, like a chord no instrument on Earth had been built to play. He would spend the rest of the night trying, and failing, to find it again.
 
-And on a mountain no map recorded, in a place where the wind itself had learned to move quietly out of respect, a figure who had not opened his eyes in five thousand years opened them.
+And on a mountain no map recorded, a figure who had not opened his eyes in five thousand years opened them.
 
 Azael's eyes were wide now, pale and searching, taking in a world that had gone on entirely without him and had, in doing so, forgotten he had ever been part of it. He did not speak. There was no one there to speak to. He simply rose, joints unbending for the first time in an age, and took one deliberate step down the slope — the first step of a journey none of the three of them yet knew they were walking toward each other.
 
@@ -96,17 +96,17 @@ He pressed his forehead to the cold marble.
 
 Outside, the sky flickered and, for once, did not immediately tear itself open again. Gabriel took that for what it was — not an answer, only a pause — and let it be enough for tonight.
 
-The briny air came off the water like a slow, cool breath, the kind that hadn't yet decided whether the day would belong to the sun or the low clouds still deciding above it. Gulls cried somewhere past the tideline. Far off, a boat knocked twice against a dock, marking the start of someone's ordinary morning.
+The briny air came off the water, cool and unhurried, the kind that hadn't yet decided whether the day would belong to the sun or the low clouds still gathering above it. Gulls cried somewhere past the tideline. Far off, a boat knocked twice against a dock, marking the start of someone's ordinary morning.
 
 Between two leaning palms, a hammock swayed on threads gone pale from salt and sun. In it, a bronzed man in an open shirt and dark glasses lay with the particular ease of someone who has spent a very long time watching without once feeling the need to interfere. A guitar with one string missing rested against the trunk beside him; a half-empty glass sweated into the sand. He could not have told you his own name. He had stopped needing one a long time ago.
 
-Down the shoreline, a young man walked the exact seam where the sea met the land, his bare feet sinking only for a moment before the next wave smoothed the sand back into forgetting. His hair had gone white far too early for his age. He walked with his chin level and his eyes moving — reading the water the way some people read a room — and every so often his hand rose without his permission to touch a small metal pendant at his throat, as if it were an anchor, or a question he hadn't worked out how to ask yet. Since he was a child he had dreamed of burning towers and torn wings, of a blade that sang in a language no school had ever taught him. He always woke with his pulse loud in his ears and a single word sitting warm in his chest, half-remembered, like something whispered to him underwater:
+Down the shoreline, a young man walked the exact seam where the sea met the land, his bare feet sinking only for a moment before the next wave smoothed the sand back into forgetting. His hair had gone white far too early for his age. He walked with his chin level and his eyes moving, and every so often his hand rose without his permission to touch a small metal pendant at his throat, as if it were an anchor, or a question he hadn't worked out how to ask yet. Since he was a child he had dreamed of burning towers and torn wings, of a blade that sang in a language no school had ever taught him. He always woke with his pulse loud in his ears and a single word sitting warm in his chest, half-remembered:
 
 *Miguel.*
 
 He had never told anyone that word. He wasn't sure, some mornings, that it was even a word at all.
 
-The man in the hammock watched him pass at a distance, and something crossed his face that was, unmistakably, recognition — not of the face itself, which he had never seen before in his life, but of what stood behind it. He knew that particular weight when he felt it near him, the way a room full of strangers can still hold one familiar note. He didn't get up. He didn't call out. He lifted his glass instead, and the ice inside it rang soft and small, like a bell heard underwater.
+The man in the hammock watched him pass at a distance, and something crossed his face that was, unmistakably, recognition — not of the face itself, which he had never seen before in his life, but of what stood behind it. He knew that particular weight when he felt it near him. He didn't get up. He didn't call out. He lifted his glass instead, and the ice inside it rang soft and small, like a bell heard underwater.
 
 "Well, well…" he murmured, to himself, tasting the words before he let them go. "Who'd have thought you'd end up here."
 

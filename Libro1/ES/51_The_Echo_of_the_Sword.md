@@ -1,8 +1,8 @@
 # Capítulo 51 — El Eco de la Espada
 
-Habían pasado semanas, y el cielo todavía no se había perdonado a sí mismo.
+Habían pasado semanas.
 
-Sobre el Templo de la Luz Quebrada, la bóveda sanaba en ciclos extraños y desiguales —una herida que cicatrizaba solo para volver a abrirse en el siguiente ocaso, derramando una luz delgada sobre una piedra que ya había bebido demasiado de ella—. Los muros exteriores del templo se mantenían en pie, pero apenas: columnas resquebrajadas apoyándose unas contra otras como soldados sosteniendo una línea que nadie les había ordenado sostener. Adentro, el zumbido del deber ordinario había vuelto —listas de triaje, provisiones racionadas, turnos de guardia escritos y reescritos con tiza sobre pizarra rota— pero se movía por los pasillos como el aliento a través de un cuerpo al que le falta un pulmón. Todos cumplían su parte. Nadie hablaba de la parte que faltaba.
+Sobre el Templo de la Luz Quebrada, la bóveda sanaba en ciclos extraños y desiguales —una herida que cicatrizaba solo para volver a abrirse en el siguiente ocaso, derramando una luz delgada sobre una piedra que ya había bebido demasiado de ella—. Los muros exteriores del templo se mantenían en pie, columnas resquebrajadas apoyándose unas contra otras, sosteniendo una línea que nadie les había ordenado sostener. Adentro, el zumbido del deber ordinario había vuelto —listas de triaje, provisiones racionadas, turnos de guardia escritos y reescritos con tiza sobre pizarra rota—. Todos cumplían su parte. Nadie hablaba de la parte que faltaba.
 
 Los estandartes colgaban a la mitad de su antigua altura, no por ceremonia sino porque ya no quedaba nadie lo bastante alto, de espíritu, para alzarlos más.
 
@@ -82,7 +82,7 @@ En las silenciosas estanterías superiores de la biblioteca de la Universidad de
 
 En un apartamento apretado a dos continentes de distancia, un músico se detuvo a mitad de afinar una cuerda de su guitarra, la cabeza ladeada, persiguiendo un sonido que nadie más en la habitación podía oír: un zumbido grave y discordante, a medio romper y extrañamente creativo, como un acorde para el que ningún instrumento en la Tierra hubiera sido construido. Pasaría el resto de la noche intentando, y fracasando, encontrarlo de nuevo.
 
-Y en una montaña que ningún mapa registraba, en un lugar donde el viento mismo había aprendido a moverse en silencio por respeto, una figura que no había abierto los ojos en cinco mil años los abrió.
+Y en una montaña que ningún mapa registraba, una figura que no había abierto los ojos en cinco mil años los abrió.
 
 Los ojos de Azael estaban ahora bien abiertos, pálidos y buscando, tomando en su mirada un mundo que había continuado por completo sin él y que, al hacerlo, había olvidado que alguna vez formó parte de él. No habló. No había nadie ahí a quien hablarle. Simplemente se levantó, las articulaciones desdoblándose por primera vez en toda una era, y dio un paso deliberado ladera abajo —el primer paso de un viaje que ninguno de los tres sabía todavía que caminaba hacia los otros dos.
 
@@ -96,17 +96,17 @@ Presionó la frente contra el mármol frío.
 
 Afuera, el cielo parpadeó y, por una vez, no volvió a desgarrarse de inmediato. Gabriel lo tomó por lo que era —no una respuesta, solo una pausa— y dejó que fuera suficiente por esta noche.
 
-El aire salobre llegaba desde el agua como un aliento lento y fresco, del tipo que todavía no había decidido si el día pertenecería al sol o a las nubes bajas que todavía deliberaban arriba. Las gaviotas chillaban en algún lugar más allá de la línea de marea. A lo lejos, un bote golpeó dos veces contra un muelle, marcando el inicio de la mañana ordinaria de alguien.
+El aire salobre llegaba desde el agua, fresco y sereno, del tipo que todavía no había decidido si el día pertenecería al sol o a las nubes bajas que todavía se reunían arriba. Las gaviotas chillaban en algún lugar más allá de la línea de marea. A lo lejos, un bote golpeó dos veces contra un muelle, marcando el inicio de la mañana ordinaria de alguien.
 
 Entre dos palmeras inclinadas, una hamaca se mecía sobre hilos decolorados por la sal y el sol. En ella yacía un hombre bronceado, camisa abierta y gafas oscuras, con la soltura particular de alguien que ha pasado muchísimo tiempo observando sin sentir jamás la necesidad de intervenir. Una guitarra a la que le faltaba una cuerda descansaba contra el tronco a su lado; un vaso a medio vaciar sudaba sobre la arena. No habría podido decirte su propio nombre. Había dejado de necesitar uno hacía mucho tiempo.
 
-Más abajo por la orilla, un joven caminaba exactamente por la costura donde el mar se encontraba con la tierra, los pies descalzos hundiéndose solo un momento antes de que la siguiente ola alisara la arena de vuelta al olvido. Su cabello había encanecido demasiado temprano para su edad. Caminaba con la barbilla nivelada y los ojos en movimiento —leyendo el agua del modo en que algunas personas leen una habitación— y de vez en cuando su mano se alzaba sin su permiso para tocar un pequeño colgante de metal en su garganta, como si fuera un ancla, o una pregunta que todavía no había logrado formular. Desde niño había soñado con torres en llamas y alas desgarradas, con una hoja que cantaba en un idioma que ninguna escuela le había enseñado jamás. Siempre despertaba con el pulso resonándole en los oídos y una sola palabra alojada, cálida, en el pecho, medio recordada, como algo susurrado bajo el agua:
+Más abajo por la orilla, un joven caminaba exactamente por la costura donde el mar se encontraba con la tierra, los pies descalzos hundiéndose solo un momento antes de que la siguiente ola alisara la arena de vuelta al olvido. Su cabello había encanecido demasiado temprano para su edad. Caminaba con la barbilla nivelada y los ojos en movimiento, y de vez en cuando su mano se alzaba sin su permiso para tocar un pequeño colgante de metal en su garganta, como si fuera un ancla, o una pregunta que todavía no había logrado formular. Desde niño había soñado con torres en llamas y alas desgarradas, con una hoja que cantaba en un idioma que ninguna escuela le había enseñado jamás. Siempre despertaba con el pulso resonándole en los oídos y una sola palabra alojada, cálida, en el pecho, medio recordada:
 
 *Miguel.*
 
 Jamás le había contado esa palabra a nadie. Algunas mañanas ni siquiera estaba seguro de que fuera en verdad una palabra.
 
-El hombre de la hamaca lo vio pasar a distancia, y algo cruzó su rostro que era, inconfundiblemente, reconocimiento —no del rostro en sí, que jamás había visto antes en su vida, sino de lo que había detrás de él—. Conocía ese peso particular cuando lo sentía cerca, del modo en que una sala llena de desconocidos todavía puede contener una sola nota familiar. No se levantó. No lo llamó. Alzó su vaso en cambio, y el hielo dentro sonó suave y pequeño, como una campana oída bajo el agua.
+El hombre de la hamaca lo vio pasar a distancia, y algo cruzó su rostro que era, inconfundiblemente, reconocimiento —no del rostro en sí, que jamás había visto antes en su vida, sino de lo que había detrás de él—. Conocía ese peso particular cuando lo sentía cerca. No se levantó. No lo llamó. Alzó su vaso en cambio, y el hielo dentro sonó suave y pequeño, como una campana oída bajo el agua.
 
 —Vaya, vaya... —murmuró, para sí mismo, saboreando las palabras antes de dejarlas ir—. Quién habría pensado que terminarías aquí.
 

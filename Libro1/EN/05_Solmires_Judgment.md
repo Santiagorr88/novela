@@ -36,7 +36,7 @@ The plaza she emerged into was not the plaza she remembered. The corruption was 
 
 An old man beside her reached out and touched the nearest wall, testing it as though it might not be solid. It was. He drew his hand back anyway, and said nothing, and Mira understood, watching his face, that whatever had won this battle for them had not left behind a version of home she recognized.
 
-A child nearby began to cry, the sound sharp and strange against the surrounding hush, and an adult hurried to quiet him, glancing around as though the silence itself might take offense at being broken. Mira crossed to what had once been the fountain at the plaza's center, dry now and scoured as clean as everything else, and found she could not remember what it had looked like before, only that it had looked like something, and that this was not it.
+A child nearby began to cry, the sound sharp and strange against the surrounding hush, and an adult hurried to quiet him, glancing around as if the crying alone might be enough to bring something worse back. Mira crossed to what had once been the fountain at the plaza's center, dry now and scoured as clean as everything else, and found she could not remember what it had looked like before, only that it had looked like something, and that this was not it.
 
 ---
 
