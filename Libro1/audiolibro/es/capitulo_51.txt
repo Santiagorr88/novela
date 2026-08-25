@@ -12,7 +12,7 @@ Estaba sentado sobre un escudo volcado, una piedra de afilar en una mano y en la
 
 Un mensajero lo encontró ahí. —Comandante. Lo esperan en el salón.
 
-—Ya saben lo que van a decidir —replico Camael, sin alzar la vista—. No necesito estar en la sala para estar de acuerdo.
+—Ya saben lo que van a decidir —replicó Camael, sin alzar la vista—. No necesito estar en la sala para estar de acuerdo.
 
 El mensajero no insistió. Camael giró la hoja una vez bajo la luz menguante, revisó un filo que no necesitaba revisión, y siguió puliendo una espada que jamás volvería a cortar nada más que el silencio a su alrededor.
 
