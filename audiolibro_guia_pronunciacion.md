@@ -75,7 +75,6 @@ Tras la pasada de armas (2026-08-25), los nombres supervivientes se dicen **en l
 | Iustitia | yoos-TIH-tee-ah | latín (antes *Diké*) |
 | Audacia | ow-DAH-kee-ah | latín (antes *Coragio*) |
 | Penumbra | peh-NUM-bruh | inglés estándar |
-| Skarth | SKARTH | una sílaba |
 | Laberynthus | lab-eh-RIN-thus | |
 | Flagrum | FLAH-groom | latín (antes *Aflame*, látigo de Flauros) |
 | Chordis | KOR-diss | ch = k |
@@ -84,7 +83,8 @@ Tras la pasada de armas (2026-08-25), los nombres supervivientes se dicen **en l
 | Memoria | meh-MOH-ree-ah | latín (antes *Anamnesis*, espada de Ezequiel) |
 | Silens | SY-lenz | |
 | Affectus | ah-FEK-toos | latín (antes *Empath*, flechas de Krass) |
-| Ruinor / Ascua / Mnemosyn | roo-ee-NOR / AHS-kwah / NEM-oh-sin | sin entrada latina — pendientes de decisión |
+
+Skarth, Memnón, Ruinor, Ascua y Mnemosyn ya no se nombran en la prosa (decisión del autor, 2026-08-25): sus armas aparecen solo como descripción genérica.
 
 ## 4. Lugares
 
@@ -136,6 +136,6 @@ Amara Osei → ah-MAH-rah oh-SAY · Elena Voss → eh-LAY-nah VOSS · Margaret H
 
 ## Avisos específicos para TTS
 
-- Verificar en una prueba corta: **Thaeriel vs Thariel** (personajes distintos), **Charon** (que no lo lea "CHAR-on"), **Mnemosyn** (M muda), **Lamentum** (que no lo lea como el inglés *lament*), y la tríada **Miguel/Mikel/Michael**.
+- Verificar en una prueba corta: **Thaeriel vs Thariel** (personajes distintos), **Charon** (que no lo lea "CHAR-on"), **Lamentum** (que no lo lea como el inglés *lament*), y la tríada **Miguel/Mikel/Michael**.
 - Si el motor permite diccionario de pronunciación/lexemas personalizados, cargar las secciones 1-5 como entradas fijas; la 7 solo si el modelo tropieza.
 - El marcador de escena `...` de los archivos de narración debe producir pausa, no voz — verificar en la misma prueba.

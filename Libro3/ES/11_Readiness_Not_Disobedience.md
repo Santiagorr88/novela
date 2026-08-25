@@ -8,7 +8,7 @@ Las rodillas del soldado ya habían encontrado aquel suelo calcinado para cuando
 
 —Pensé... —La voz del soldado se quebró en la segunda palabra y no se recuperó para la tercera—. Pensé que era la señal, comandante. Pensé que ya estábamos perdidos.
 
-—Pensaste. —Kushiel dejó que la cabeza de Ruinor descansara contra el suelo entre ellos, lo bastante cerca como para que el soldado pudiera sentir el calor bajo y contenido que todavía despedía el metal tras el ejercicio de una hora antes—. Cincuenta hombres sostuvieron la línea medio segundo más que tú, ante la misma bengala, con la misma duda en el pecho. La diferencia entre ellos y tú no es el valor. Es que esperaron la orden antes de decidir que la batalla había terminado. —Se agachó, llevando sus ojos de brasero a la altura de los del hombre arrodillado—. No castigo el miedo. El miedo es honesto. Castigo a los hombres que dejan que decida por ellos antes de que yo haya tenido oportunidad de hacerlo.
+—Pensaste. —Kushiel dejó que la cabeza del martillo descansara contra el suelo entre ellos, lo bastante cerca como para que el soldado pudiera sentir el calor bajo y contenido que todavía despedía el metal tras el ejercicio de una hora antes—. Cincuenta hombres sostuvieron la línea medio segundo más que tú, ante la misma bengala, con la misma duda en el pecho. La diferencia entre ellos y tú no es el valor. Es que esperaron la orden antes de decidir que la batalla había terminado. —Se agachó, llevando sus ojos de brasero a la altura de los del hombre arrodillado—. No castigo el miedo. El miedo es honesto. Castigo a los hombres que dejan que decida por ellos antes de que yo haya tenido oportunidad de hacerlo.
 
 Lo alzó la anchura de una mano sobre el suelo y lo dejó caer, una vez, en la tierra a la longitud completa de un cuerpo de la forma arrodillada del soldado —no un golpe, solo la promesa de uno, lo bastante cerca como para que la onda expansiva le traqueteara los dientes al hombre—. Donde aterrizó el martillo, la tierra se hundió hacia adentro y siguió hundiéndose, un pequeño cráter todavía devorando sus propios bordes mucho después de que el sonido del impacto ya hubiera muerto.
 
@@ -36,7 +36,7 @@ Kushiel no dijo nada por un momento. Bajo la cresta, el ejercicio continuaba sin
 
 ---
 
-Kemuel los encontró ahí unos minutos después, subiendo el último tramo de la cresta a dos zancadas por vez, Ascua todavía envainada pero su mano descansando sobre ella del modo en que Kushiel había aprendido hacía tiempo a leer como una decisión ya medio tomada. —La cara de Thariel cuando pasó junto a mi columna —dijo Kemuel— no era una cara que llevara buenas noticias. ¿Qué cantó el coro esta vez?
+Kemuel los encontró ahí unos minutos después, subiendo el último tramo de la cresta a dos zancadas por vez, la hoja todavía envainada pero su mano descansando sobre ella del modo en que Kushiel había aprendido hacía tiempo a leer como una decisión ya medio tomada. —La cara de Thariel cuando pasó junto a mi columna —dijo Kemuel— no era una cara que llevara buenas noticias. ¿Qué cantó el coro esta vez?
 
 —Gabriel ha hecho retroceder a su consejo —dijo Kushiel—. Les dijo que la guerra real ocurre en algún lugar que no pueden alcanzar, y que su papel ahora es observar, no combatir.
 

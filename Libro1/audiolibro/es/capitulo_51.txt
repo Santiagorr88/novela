@@ -18,7 +18,7 @@ El mensajero no insistió. Camael giró la hoja una vez bajo la luz menguante, r
 
 En el salón de reunión, cuatro de ellos estaban de pie en torno a un mapa que ya no coincidía con el territorio que representaba.
 
-Gabriel había apoyado el estandarte astillado contra el altar en vez de alzarlo; no lograba, esta semana, creer lo suficiente en el gesto como para levantarlo más alto. Rafael se inclinaba sobre la mesa de piedra, los dedos todavía teñidos levemente de luz prestada, catalogando pérdidas con una voz aplanada por la repetición. Uriel caminaba de un lado a otro, arrastrando la punta de su lanza por el mármol en un surco que él mismo se había encargado de labrar ahí durante los últimos días. Iofiel permanecía aparte, cerca de una columna fracturada, sosteniendo cerca un báculo gastado de madera de Memnón, como si soltarlo pudiera soltar también todo lo demás que todavía mantenía unido.
+Gabriel había apoyado el estandarte astillado contra el altar en vez de alzarlo; no lograba, esta semana, creer lo suficiente en el gesto como para levantarlo más alto. Rafael se inclinaba sobre la mesa de piedra, los dedos todavía teñidos levemente de luz prestada, catalogando pérdidas con una voz aplanada por la repetición. Uriel caminaba de un lado a otro, arrastrando la punta de su lanza por el mármol en un surco que él mismo se había encargado de labrar ahí durante los últimos días. Iofiel permanecía aparte, cerca de una columna fracturada, sosteniendo cerca un báculo gastado, como si soltarlo pudiera soltar también todo lo demás que todavía mantenía unido.
 
 —No podemos seguir desangrando recursos en guardias para un enemigo que no se ha movido en tres semanas —dijo Uriel.
 

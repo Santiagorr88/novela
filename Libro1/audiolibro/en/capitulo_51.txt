@@ -18,7 +18,7 @@ The runner didn't press him. Camael turned the blade once in the failing light, 
 
 In the mustering hall, four of them stood around a map that no longer matched the territory it depicted.
 
-Gabriel had propped the splintered banner against the altar rather than raise it; he could not, this week, make himself believe in the gesture enough to lift it higher. Raphael leaned over the stone table, fingers still faintly stained with borrowed light, cataloguing losses in a voice gone flat from repetition. Uriel paced, dragging his spear-tip along the marble in a groove he'd worn there himself over the past several days. Iofiel stood apart, near a fractured pillar, a battered staff of Memnon-wood held close, as though letting go of it might let go of everything else she was still holding together.
+Gabriel had propped the splintered banner against the altar rather than raise it; he could not, this week, make himself believe in the gesture enough to lift it higher. Raphael leaned over the stone table, fingers still faintly stained with borrowed light, cataloguing losses in a voice gone flat from repetition. Uriel paced, dragging his spear-tip along the marble in a groove he'd worn there himself over the past several days. Iofiel stood apart, near a fractured pillar, a battered staff held close, as though letting go of it might let go of everything else she was still holding together.
 
 "We can't keep bleeding resources on watches for an enemy that hasn't moved in three weeks," Uriel said.
 

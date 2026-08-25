@@ -36,7 +36,7 @@ She found the council chamber's outer door standing open, which it almost never 
 
 "—and I am telling you, Gabriel, that a council which hands out fire before it has taught anyone to hold it is not being generous. It's being careless, and calling the carelessness virtue because virtue is easier to defend in front of Uriel." Raziel stood near the star-map with Ignotus open across one forearm, the tome's pages catching the low chamber light and throwing it back scorched at the edges, the way Selaphiel had seen them do before, whenever he'd been reading too long without pause. His robe carried its usual restless inscriptions, symbols that seemed to resettle themselves every time Selaphiel let her eyes drift too long across any single one. "Iofiel translates a fragment on a Tuesday and by Friday half the lower captains think they understand a text that has outlived seven separate Heavens. That is not disclosure. That is arson with a sermon attached."
 
-"I have released three sentences, Raziel, not the whole of the Codex," Iofiel said, not looking up from the fragment-sphere she was still coaxing toward legibility, Memnón's hum threading low and patient beneath her words. "Sentences that already explain half of what this council has spent months failing to explain on its own."
+"I have released three sentences, Raziel, not the whole of the Codex," Iofiel said, not looking up from the fragment-sphere she was still coaxing toward legibility, her staff's hum threading low and patient beneath her words. "Sentences that already explain half of what this council has spent months failing to explain on its own."
 
 "Half an explanation is worse than none. It teaches a room to stop asking the other half of the question."
 
