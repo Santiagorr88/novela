@@ -40,7 +40,7 @@ La mirada de Vepar se afiló levemente ante eso. No dijo nada, dejando que el si
 
 —Control del pasaje, a cambio de inteligencia compartida sobre movimientos de tropas a lo largo de la frontera disputada —dijo Gabriel—. Un gesto de buena fe. Algo lo bastante concreto como para probar que esta tregua vale más que el papel en el que estaría escrita de otro modo, especialmente para cualquier soldado de cualquiera de los dos bandos que todavía dude de si vale la pena honrarla en absoluto.
 
-Vepar lo estudió un largo momento antes de responder, sus rasgos translúcidos sin revelar nada más, la misma quietud que Gabriel ya había llegado a esperar de él a lo largo de cada intercambio hasta ahora. Dio un único y pequeño asentimiento, apenas perceptible, y Gabriel leyó algo cercano al respeto en la economía de ello. —Aceptable —dijo—. Por ahora.
+Vepar lo estudió un largo momento antes de responder, sus rasgos translúcidos sin revelar nada más, la misma quietud que Gabriel ya había llegado a esperar de él a lo largo de cada intercambio hasta ahora. Dio un único y pequeño asentimiento, apenas perceptible, y Gabriel leyó algo cercano al respeto en la economía de ello. —Aceptable. Por ahora.
 
 ---
 

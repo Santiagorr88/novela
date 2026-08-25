@@ -16,11 +16,11 @@ Lucifer watched the angel cross the last stretch of ash toward him, unhurried, h
 
 "Let us be clear," Lucifer said, none of his usual, silken charm present in the words at all. "This is not a reconciliation. It is a temporary cessation of our own hostilities to face a common threat. Nothing more, and nothing less."
 
-"Agreed," Gabriel said. "Our forces will coordinate under a shared objective, but each keeps its own chain of authority. Neither of us answers to the other beyond what this specific threat requires."
+"Agreed. Our forces will coordinate under a shared objective, but each keeps its own chain of authority. Neither of us answers to the other beyond what this specific threat requires."
 
 Lucifer inclined his head, the gesture spare and businesslike. "Vepar and Camael will coordinate the details. I have no interest in managing every skirmish personally, and I doubt you do either."
 
-"I don't," Gabriel said. "I have enough to manage already." He thought, briefly, of the council chamber he'd left behind, of Uriel's still-simmering distrust and the delicate work of holding a fractured command together while asking it to trust an ancient enemy. Lucifer's court, he suspected, was managing a version of the exact same difficulty.
+"I don't. I have enough to manage already." He thought, briefly, of the council chamber he'd left behind, of Uriel's still-simmering distrust and the delicate work of holding a fractured command together while asking it to trust an ancient enemy. Lucifer's court, he suspected, was managing a version of the exact same difficulty.
 
 "Then we understand each other," Lucifer said. "That's more than I expected to manage today."
 
@@ -28,7 +28,7 @@ Lucifer inclined his head, the gesture spare and businesslike. "Vepar and Camael
 
 "I expected a great deal of ceremony I have no patience left for." Lucifer's mouth curved, briefly, into something that wasn't quite a smile. "Speeches about ancient grievances, carefully worded apologies neither of us actually means. I'm relieved to find you've apparently lost your taste for that particular theater as thoroughly as I have."
 
-"The theater seemed like a poor use of the time we don't have," Gabriel said. "Elysia Minor didn't wait for either of us to finish arguing about who owed whom an apology before it stopped existing. I doubt whatever's coming next will wait either."
+"The theater seemed like a poor use of the time we don't have. Elysia Minor didn't wait for either of us to finish arguing about who owed whom an apology before it stopped existing. I doubt whatever's coming next will wait either."
 
 ...
 
@@ -38,7 +38,7 @@ Gabriel studied Lucifer a moment in the silence that followed, reading in his st
 
 Gabriel felt the question land with more weight than he'd expected, the address itself catching him off guard more than the words that followed it. It had been an age since anyone had called him that, longer still since the one calling him that had been Lucifer. He remembered the song clearly, in the particular way he remembered very little else from that same distant age, a melody that had once held the whole of creation together in a single unbroken chord before anything had ever thought to break from it. "I do," he said, once he'd found his voice again.
 
-"This," Lucifer said, gesturing at the gray waste stretching in every direction around them, "is its echo. The silence that follows the music, once every note has finally stopped." He held Gabriel's gaze a moment longer. "We must not let it become permanent."
+Lucifer gestured at the gray waste stretching in every direction around them. "This is its echo. The silence that follows the music, once every note has finally stopped." He held Gabriel's gaze a moment longer. "We must not let it become permanent."
 
 "You never struck me as a man given to metaphor, Lucifer," Gabriel said, though the words carried none of the accusation they might have carried from him a year ago.
 
@@ -66,7 +66,7 @@ The two scrolls drifted toward each other, meeting in the empty space between th
 
 "It is done," Lucifer said.
 
-"May it be enough," Gabriel answered.
+"May it be enough."
 
 ...
 
@@ -78,7 +78,7 @@ He glanced once more at the gray waste around him before he turned fully away, c
 
 He turned first, his own retinue already stirring at the edge of the waste, readying to receive him back, and paused once, looking back over one shoulder. "I don't expect this to make us friends, Herald."
 
-"No," Gabriel said. "I wouldn't expect that either."
+"No. I wouldn't expect that either."
 
 "Good." Something almost like the ghost of his old charm returned to Lucifer's voice, brief and dry. "It would make the eventual return to hostilities considerably more awkward."
 

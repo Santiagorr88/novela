@@ -12,13 +12,13 @@ The silence that followed Raphael's last words settled over the chamber — not 
 
 Raphael crossed the emptying chamber to him with none of the fire Uriel would have carried making the same walk, his healing-green light dimmed to something closer to candlelight than blaze. He stopped an arm's length off, close enough that the words wouldn't carry to whatever remained of the dispersing captains, and studied Orifiel a moment before he spoke, the careful study of a man uncertain whether the door in front of him would open at all.
 
-"You held your silence again," Raphael said, the words carrying no edge, only the plain shape of a thing he'd noticed and decided to say aloud.
+"You held your silence again." The words carried no edge, only the plain shape of a thing he'd noticed and decided to say aloud.
 
 "I usually do," Orifiel said. "It rarely changes what the wall is asked to hold the next morning."
 
 "I would like to change that, this once, if you'll let me ask it plainly." Raphael's gaze went, briefly, to the fused shield along Orifiel's arm, then back to his face. "The outer wards have stood generations without needing every soldier they're given. I don't know your arithmetic the way I know a soul's. I only know enough to guess there's slack in it somewhere I haven't earned the right to ask for." He paused, and something in his composure slipped, just slightly, into something closer to what it actually was. "I'm asking anyway, Orifiel. I have run out of other doors to knock on this week."
 
-Orifiel considered the request the way he considered every request that touched the wall — turning it over fully before answering, never faster than that, whatever the asker's patience could bear. "If you wish to strike them, you must go through me first," he said at last, "and no one has offered to try." He let it land a moment before he softened it, fractionally, the only concession his voice ever seemed to make. "That is not a refusal, Raphael. It is the only shape my answer has ever had. Ask me again once I've counted what the wall can actually spare, and I will give you a truer one than a line I've been saying since before you were the healer standing in front of me now."
+Orifiel considered the request the way he considered every request that touched the wall — turning it over fully before answering, never faster than that, whatever the asker's patience could bear. "If you wish to strike them, you must go through me first, and no one has offered to try." He let it land a moment before he softened it, fractionally, the only concession his voice ever seemed to make. "That is not a refusal, Raphael. It is the only shape my answer has ever had. Ask me again once I've counted what the wall can actually spare, and I will give you a truer one than a line I've been saying since before you were the healer standing in front of me now."
 
 He did not say, because it had not yet fully formed enough to say aloud, that no one asking him that question in all his centuries at this wall had ever asked for something quite this small, or quite this strange to weigh against a line that had never needed weighing before.
 

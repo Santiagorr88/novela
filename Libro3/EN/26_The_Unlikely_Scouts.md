@@ -24,13 +24,13 @@ Andras studied the angel across from him, cataloguing the spear held loose but r
 
 ---
 
-Sariel studied him a moment longer before answering, weighing the offer against every instinct still telling him this partnership was a mistake waiting to reveal itself. He found no immediate reason to refuse the practical suggestion underneath the demon's dry delivery, whatever reservations still sat behind it. "We start with the settlement," he said. "Then the zone."
+Sariel studied him a moment longer before answering, weighing the offer against every instinct still telling him this partnership was a mistake waiting to reveal itself. He found no immediate reason to refuse the practical suggestion underneath the demon's dry delivery, whatever reservations still sat behind it. "We start with the settlement. Then the zone."
 
 They approached the shimmering boundary together, keeping a careful distance from its edge, and Sariel began working the settlement's perimeter with the same slow, methodical patience he brought to every hunt. He moved among the nearest colonists one at a time, searching not for the zone itself but for any soul among them that might already be carrying the particular resonance Penumbra recognized on contact — the only thing the spear had ever been capable of telling him, close range and nothing further.
 
 He worked through six colonists without result, Penumbra's point resting briefly against each shoulder in turn, finding nothing more than the ordinary, unremarkable resonance of a soul that had only ever lived once. He did not hurry the process. A hunt rushed carelessly missed exactly the details a patient hunt would have caught, and he had buried too many careless mistakes across his long service to risk repeating one now. Each colonist accepted the brief contact without complaint, most of them barely pausing in whatever task had occupied them before he arrived.
 
-Andras watched the process a while before his patience visibly thinned. "Your way is too slow," he said, and without further warning, flung a small, cursed dagger directly at the shimmering boundary.
+Andras watched the process a while before his patience visibly thinned. "Your way is too slow." Without further warning, he flung a small, cursed dagger directly at the shimmering boundary.
 
 The blade vanished the instant it crossed the edge, swallowed without sound or resistance, gone as completely as if it had never been thrown at all.
 
@@ -72,9 +72,9 @@ Andras straightened from his own crouch, dusting pale stone grit from one sleeve
 
 Andras huffed something that might, in a more expressive man, have qualified as a laugh. "High praise, from an angel."
 
-"Accurate praise," Sariel said. "I don't offer the other kind."
+"Accurate praise. I don't offer the other kind."
 
-"No," Andras said. "I don't imagine you do." He glanced back toward the settlement, where the rescued colonist was already being folded into an embrace by someone who looked, from this distance, like family. "For what it's worth, I didn't expect you to move that fast toward a stranger. Most of your kind hesitates a beat too long, weighing whether the risk is actually worth it first."
+"No. I don't imagine you do." He glanced back toward the settlement, where the rescued colonist was already being folded into an embrace by someone who looked, from this distance, like family. "For what it's worth, I didn't expect you to move that fast toward a stranger. Most of your kind hesitates a beat too long, weighing whether the risk is actually worth it first."
 
 "He wasn't a stranger," Sariel said. "Not once Penumbra confirmed what he was." He let that stand as the whole of his answer, unwilling to elaborate further on a distinction he suspected Andras would need to sit with a while before actually understanding it.
 

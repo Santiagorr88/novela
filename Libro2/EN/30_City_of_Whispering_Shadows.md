@@ -30,7 +30,7 @@ The security guard he approached the next evening carried himself with the parti
 
 The guard hesitated, visibly weighing whether the honest answer was worth the risk of sounding unstable. "There's a guy in sunglasses," he said finally, "who shows up and disappears near doors that are supposed to be locked. I haven't reported it, because it sounds insane, and I've gone fifteen years here without saying anything insane out loud."
 
-"It's not insane," Arin said, offering nothing further to explain why he believed it so readily.
+"It's not insane." Arin offered nothing further to explain why he believed it so readily.
 
 The guard studied him a moment, some of his composure visibly slipping. "You realize how that sounds, coming from an investigator."
 

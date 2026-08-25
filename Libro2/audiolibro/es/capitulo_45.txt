@@ -14,7 +14,7 @@ Gabriel dejó que las palabras se asentaran del todo antes de volver a hablar. D
 
 —Las dos anomalías que he estado rastreando desde antes de la Ciudad Gris —dijo Gabriel, sobre todo para sí mismo—. Se han encontrado. Y algo más los encontró a ambos en el mismo instante.
 
-—No tengo un nombre para él —dijo Sariel—. No creo que lo ofreciera, por lo poco que alcancé a oír. Fuera lo que fuese, no estaba ahí para ser interrogado. Estaba ahí para terminar algo antes de que acabara de ocurrir.
+—No tengo un nombre para él. No creo que lo ofreciera, por lo poco que alcancé a oír. Fuera lo que fuese, no estaba ahí para ser interrogado. Estaba ahí para terminar algo antes de que acabara de ocurrir.
 
 —¿Habló?
 

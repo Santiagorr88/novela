@@ -8,7 +8,7 @@ Gabriel let the accusation sit a moment before he answered it, unwilling to gran
 
 "And if what you found breaks something none of us can put back together?"
 
-"Then at least we'll know what broke it," Gabriel said, "instead of discovering the crack only once it's already swallowed something we couldn't afford to lose."
+"Then at least we'll know what broke it, instead of discovering the crack only once it's already swallowed something we couldn't afford to lose."
 
 Uriel's aura flared brighter, the particular restless light Gabriel had learned to read as a debate moving somewhere Uriel hadn't planned for it to go. "You speak as though ignorance were the only alternative to whatever Sariel dragged back from Hell's own archive. There is a third option, Gabriel. We could simply trust the law as it was given to us, rather than treating every silence in it as an invitation to go digging."
 
@@ -34,7 +34,7 @@ No one in the chamber answered that. Gabriel watched Zadkiel return to his seat 
 
 ---
 
-Zadkiel resumed his argument once the chamber had settled, and Gabriel noted, listening, that the evidence carried a different weight now than it had carried an hour ago. "Souls are reincarnating with fragments of memory that shouldn't survive the crossing," Zadkiel said. "Humans are being born with traits that belong to angels or demons who never earned them through any life actually lived. I have three separate reports this month alone of children born recognizing prayers in languages they've never been taught, of soldiers with no military training who move through combat as though their bodies remember a war their minds have no record of. The law I have spent my existence enforcing was built on a boundary that held absolutely, and I have counted more places than this council has been willing to admit where that boundary no longer holds."
+Zadkiel resumed his argument once the chamber had settled, and Gabriel noted, listening, that the evidence carried a different weight now than it had carried an hour ago. "Souls are reincarnating with fragments of memory that shouldn't survive the crossing. Humans are being born with traits that belong to angels or demons who never earned them through any life actually lived. I have three separate reports this month alone of children born recognizing prayers in languages they've never been taught, of soldiers with no military training who move through combat as though their bodies remember a war their minds have no record of. The law I have spent my existence enforcing was built on a boundary that held absolutely, and I have counted more places than this council has been willing to admit where that boundary no longer holds."
 
 "And what you just did," Gabriel said quietly, "is proof the boundary still holds somewhere. That the tool built to enforce it hasn't broken along with everything else."
 
@@ -56,12 +56,12 @@ He told them plainly what he intended — to act without waiting for consensus a
 
 Iofiel had said little through most of the exchange, standing near the chamber's old, worn altar with her staff held close, her attention fixed on some distant point Gabriel couldn't follow. She studied Gabriel a long moment before the meeting dissolved, something searching in her expression that hadn't fully resolved itself yet. "Does what we saw today change anything about the plan? Zadkiel doubting his own power, out loud, in front of the entire council?"
 
-Gabriel considered the question with the full weight it deserved before he answered it. "It changes that I can no longer pretend only Uriel is frightened," he said. "I made this decision believing I was the only one carrying real doubt into it. I understand now that I was simply the only one willing to say so plainly. That doesn't change what I intend to do. It changes how alone I thought I was doing it."
+Gabriel considered the question with the full weight it deserved before he answered it. "It changes that I can no longer pretend only Uriel is frightened. I made this decision believing I was the only one carrying real doubt into it. I understand now that I was simply the only one willing to say so plainly. That doesn't change what I intend to do. It changes how alone I thought I was doing it."
 
 He thought, saying it, of every year he'd spent assuming his own composure was a stronger version of what everyone else in this council felt. Today had taught him otherwise. Zadkiel's hands had trembled, however briefly, and Gabriel understood now that the stillness he'd always credited to strength alone had never been quite that simple for any of them, himself included.
 
 Iofiel said nothing further, and the three of them sat a while longer in the old chamber's patient quiet, each seeming, to Gabriel, to carry the same unspoken understanding that whatever came next, none of them would be facing it with the certainty any of them had once assumed came standard with their rank.
 
-Raphael was the one to break it, his voice carrying none of the earlier caution from his first question. "Then we plan properly," he said. "Not tonight, not exhausted and still reeling from what Zadkiel just showed the entire council. Tomorrow, with clear heads, and with every piece of what Sariel brought back from the Tower laid out in front of us before we commit to a single move." He looked between the two of them, something steady in his own expression despite how difficult the evening had visibly been, judging by the strain still in both their faces. "Fear is not the same as recklessness, Gabriel. I would rather we moved carefully and afraid than boldly and blind."
+Raphael was the one to break it, his voice carrying none of the earlier caution from his first question. "Then we plan properly. Not tonight, not exhausted and still reeling from what Zadkiel just showed the entire council. Tomorrow, with clear heads, and with every piece of what Sariel brought back from the Tower laid out in front of us before we commit to a single move." He looked between the two of them, something steady in his own expression despite how difficult the evening had visibly been, judging by the strain still in both their faces. "Fear is not the same as recklessness, Gabriel. I would rather we moved carefully and afraid than boldly and blind."
 
 Gabriel nodded once, accepting the correction without argument, and let the old chamber's quiet close back over the three of them a final time before any of them rose to leave.

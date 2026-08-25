@@ -42,7 +42,7 @@ No estaba exagerando, comprendió Miguel dentro de la primera hora de caminata. 
 
 Miguel no había notado el momento exacto en que aquello había ocurrido, pero descubrió, contrastando la observación con su propio recuerdo de la última hora, que era cierto. Había dejado de consultar al sol. Había dejado de intentar razonar su camino hacia un destino sobre el que no tenía información real. Simplemente estaba caminando, la corriente cálida en la empuñadura de Solmire guiando sus pies con una confianza que no había ganado mediante ningún esfuerzo deliberado propio. Se sentía, curiosamente, menos como seguir una orden que como recordar el camino a casa hacia un lugar que en realidad nunca había visitado antes.
 
-Se detuvieron a beber agua al mediodía, en la sombra delgada de un saliente apenas lo bastante ancho como para cobijarlos a ambos, y Ereloth lo estudió un largo momento antes de volver a hablar. —Sigues teniendo cara de hombre esperando a que alguien le diga que lo está haciendo mal —dijo—. Nadie va a decirte eso. No hay una forma equivocada de seguir esta corriente en particular. Solo está el seguirla, o no.
+Se detuvieron a beber agua al mediodía, en la sombra delgada de un saliente apenas lo bastante ancho como para cobijarlos a ambos, y Ereloth lo estudió un largo momento antes de volver a hablar. —Sigues teniendo cara de hombre esperando a que alguien le diga que lo está haciendo mal. Nadie va a decirte eso. No hay una forma equivocada de seguir esta corriente en particular. Solo está el seguirla, o no.
 
 —Viejos hábitos —admitió Miguel.
 

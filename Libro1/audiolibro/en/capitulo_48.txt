@@ -26,7 +26,7 @@ He had won duels before through patience rather than force, had learned long ago
 
 He lowered Lament fractionally, not in retreat but in something closer to deliberate patience, the way a hunter lowers a blade once the prey has already stopped running. Words, he understood, would do more damage here than another physical exchange, however evenly matched that exchange had proven so far.
 
-"This power was never yours," Belial said, Lament held steady, the words carrying nothing of a shout and everything of a simple, devastating observation.
+Belial held Lament steady. "This power was never yours." The words carried nothing of a shout, and everything of a simple, devastating observation.
 
 Miguel held Solmire aloft, and answered — not with the confidence Miguel had displayed earlier in the war, but with something closer to a prayer than an assertion. "Then tell me whose it is."
 

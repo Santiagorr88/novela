@@ -14,7 +14,7 @@ The archivist found him there most afternoons now, and today she arrived with tw
 
 She said it plainly, once the silence had stretched long enough that filling it herself apparently seemed the kinder option: "I don't know what you're looking for, Ardon, but whatever it is, it's been looking for you too, for months now. It shows."
 
-Mikel wrapped both hands around the cup more for something to hold onto than for the warmth of it, and found himself, for once, not immediately reaching for a way to deflect the observation. "I'm starting to think it was looking for me long before I noticed anything was missing," he said.
+Mikel wrapped both hands around the cup more for something to hold onto than for the warmth of it, and found himself, for once, not immediately reaching for a way to deflect the observation. "I'm starting to think it was looking for me long before I noticed anything was missing."
 
 It wasn't a full confession. It was the closest he'd come to one in longer than he could easily measure, and he watched something in her expression settle at hearing it — not satisfaction exactly, but what looked, to Mikel, like the quiet of someone who had been waiting a long time for even this much honesty and had, unexpectedly, received it.
 

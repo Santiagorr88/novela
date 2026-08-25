@@ -8,7 +8,7 @@ He heard his own voice do something it always did on this kind of material — d
 
 He blinked. The lecture hall came back into focus a half-second late, the way a room does after you've stood up too fast — dust motes hanging gold in a shaft of window light that, for the length of that same half-second, had seemed to carry something like a spark of impossible blue, there and gone before his eyes could commit to having seen it. A trick of tired eyes. He'd been sleeping badly. He said as much to himself, silently, in the same reasonable tone he used to explain the reading to a room of undergraduates, and did not entirely believe it any more than half of them believed the reading mattered.
 
-"Read chapters four and five for Thursday," he said, twelve minutes before the hour was properly up, and let them go — which he never did, not in nine years of teaching this course — and told himself, gathering his own notes with hands that were not quite steady, that it was because he'd covered the material efficiently today. Not because he needed the room emptied before anyone thought to look too closely at him.
+"Read chapters four and five for Thursday." He let them go twelve minutes before the hour was properly up — which he never did, not in nine years of teaching this course — and told himself, gathering his own notes with hands that were not quite steady, that it was because he'd covered the material efficiently today. Not because he needed the room emptied before anyone thought to look too closely at him.
 
 ---
 
@@ -20,7 +20,7 @@ He was gathering his notes when he realized one seat was still occupied. A stude
 
 "Do you ever dream about wars you didn't live through?" She flushed immediately, a blotchy color climbing her throat, as if hearing the question out loud had confirmed how strange it sounded. "Not like — not history-brain, not 'I read about it and now I'm thinking about it before bed.' Like you were *there*. Like it's a memory and not a dream at all, except it can't be, because none of it ever happened to me. I've been having them for weeks now, and I thought, you study this for a living, maybe it's normal, maybe it happens to everyone who spends enough time in it, and I didn't know who else to ask that wouldn't think I was—" She stopped herself before the sentence could finish.
 
-Mikel felt something in his chest go very still, the stillness of a man standing at the edge of a step he can't see the bottom of. "It's your mind organizing what it's absorbed," he said, and heard the answer come out smoothly, generically, exactly the shape he'd have handed any student asking any strange question in the three minutes before he needed to be somewhere else. "History has a way of feeling personal once you've spent enough hours living inside it on the page. It doesn't mean anything more than that."
+Mikel felt something in his chest go very still, the stillness of a man standing at the edge of a step he can't see the bottom of. "It's your mind organizing what it's absorbed." He heard the answer come out smoothly, generically, exactly the shape he'd have handed any student asking any strange question in the three minutes before he needed to be somewhere else. "History has a way of feeling personal once you've spent enough hours living inside it on the page. It doesn't mean anything more than that."
 
 She nodded, visibly relieved, her shoulders dropping half an inch, and thanked him, and gathered the rest of her things, and left him alone with the echo of her own question still standing in the room after she'd gone.
 
@@ -48,9 +48,9 @@ His hand found the fragment on the nightstand instead — it always did, some ni
 
 He was still holding it, turning it slowly against his palm, when his phone lit up and buzzed against the nightstand — a colleague from the department, one of the few who still bothered to call instead of text, as if the effort of it were its own small act of care.
 
-"You're up," the voice on the other end said, when Mikel picked up. "Good. Come get a drink with me tomorrow. I'm not asking you to plan it — I'm asking you to show up."
+Mikel picked up on the second ring. The voice on the other end skipped hello entirely, the way it always did. "You're up. Good. Come get a drink with me tomorrow. I'm not asking you to plan it — I'm asking you to show up."
 
-"Can't," Mikel said, already reaching for the excuse that came easiest. "I've got marking to catch up on."
+"Can't." Mikel was already reaching for the excuse that came easiest. "I've got marking to catch up on."
 
 A pause, just long enough to make clear it wasn't believed. "You've been saying that for a month, Ardon. You sleep like garbage — don't tell me you don't, I've seen you in the corridor at eight in the morning looking like you lost a fight with the night. You cancel everything. And you've been walking around all month like a man three weeks behind on something nobody assigned him." A breath, softer. "I'm not going to make you talk about it. I just want you to know I'm here, if you ever decide you want to."
 

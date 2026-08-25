@@ -10,7 +10,7 @@ Gabriel lo estudió un momento antes de hablar, del modo en que había aprendido
 
 —Me convocaste fuera del concilio —dijo Sariel—. Eso no es poca cosa, viniendo de ti.
 
-—No —convino Gabriel—. No lo es. Lo que tengo que contarte todavía no está listo para esa sala, y puede que nunca lo esté, dependiendo de lo que traigas de vuelta de donde estoy a punto de enviarte.
+—No. No lo es. Lo que tengo que contarte todavía no está listo para esa sala, y puede que nunca lo esté, dependiendo de lo que traigas de vuelta de donde estoy a punto de enviarte.
 
 ---
 
@@ -20,7 +20,7 @@ Se lo contó con llaneza, sin la suavización que en otro tiempo podría haber u
 
 —La Torre de los Eternos.
 
-—La Torre de los Eternos —confirmó Gabriel—. Belial no se topó sin más con Lament. Algo lo llevó hasta ella, y fuera lo que fuese ese algo, dejó un rastro —un registro que consultó, un nombre que aprendió, una razón por la que sabía exactamente dónde buscar cuando el resto de nosotros todavía peleábamos una guerra que creíamos entender—. Quiero ese rastro. Quiero saber con precisión qué sabe él que nosotros no, antes de que nos cueste algo más de lo que ya nos ha costado.
+Gabriel asintió una vez. —La Torre de los Eternos. Belial no se topó sin más con Lament. Algo lo llevó hasta ella, y fuera lo que fuese ese algo, dejó un rastro —un registro que consultó, un nombre que aprendió, una razón por la que sabía exactamente dónde buscar cuando el resto de nosotros todavía peleábamos una guerra que creíamos entender—. Quiero ese rastro. Quiero saber con precisión qué sabe él que nosotros no, antes de que nos cueste algo más de lo que ya nos ha costado.
 
 ---
 
@@ -30,11 +30,11 @@ Sariel guardó silencio un momento, dándole vueltas a la petición con la misma
 
 Algo se desplazó, brevemente, tras la compostura habitualmente ilegible de Sariel —no exactamente sorpresa, pero algo cercano—. —He pasado más tiempo del que me interesa contar aprendiendo a encontrar lo que quiere quedarse perdido —dijo—. No había pensado en eso como algo que el Cielo considerara útil fuera de su propósito original.
 
-—Es lo más útil que llevas contigo —dijo Gabriel—. Debería habértelo dicho mucho antes de esta noche.
+—Es lo más útil que llevas contigo. Debería habértelo dicho mucho antes de esta noche.
 
 —La mayoría del concilio ve la cacería misma y no mira más allá de eso —dijo Sariel, en un tono que a Gabriel le sonó más a aceptación que a amargura—. Un alma reencarnada que se ha vuelto peligrosa se encuentra, se juzga, recibe lo que el caso requiera. Nadie pregunta qué cuesta aprender la forma de una ausencia lo bastante bien como para rastrearla a través de un centenar de rostros distintos, un centenar de vidas distintas que nunca recuerdan la que hubo antes. Dejé de esperar que alguien preguntara hace mucho tiempo.
 
-—Lo pregunto ahora —dijo Gabriel—. Tarde, lo sé. Pero lo pregunto.
+—Lo pregunto ahora. Tarde, lo sé. Pero lo pregunto.
 
 ---
 

@@ -32,7 +32,7 @@ It mattered, Naamah thought, considerably more than either of them currently und
 
 "Because Verrow's Hold is exactly far enough from anywhere I currently need Hell's hand to look steady," Naamah said, offering as much of the true answer as cost her nothing to give. "A closer target buys the same morale collapse and a considerably worse set of questions about who authorized it, and from where. I'd rather you both did excellent work somewhere no one's currently watching closely enough to misread it." She let that settle, watching Leraje weigh it and, apparently, find it sufficient. "You're welcome to keep asking me why. I simply won't always have finished deciding how much of the answer is yours to hear."
 
-Leraje considered this, and let it go with a plain, unbothered shrug — the shrug, Naamah judged, of someone who'd gotten more of an answer than she'd expected and had no further use for the rest. "Fair enough," she said. "You're the one who pays for the arrows."
+Leraje considered this, and let it go with a plain, unbothered shrug — the shrug, Naamah judged, of someone who'd gotten more of an answer than she'd expected and had no further use for the rest. "Fair enough. You're the one who pays for the arrows."
 
 ---
 
@@ -44,7 +44,7 @@ Phenex weighed this a moment, head tilted — the look, Naamah judged, of a man 
 
 Something shifted behind his theatrical composure, Naamah judged — real calculation replacing performance for the length of a breath. "That's not efficiency," he said slowly, to Leraje rather than to Naamah, "that's dramaturgy. I take back what I said about audiences."
 
-"I didn't take back anything," Leraje said. "I just get to go first."
+"I didn't take back anything. I just get to go first."
 
 They left within the hour, Leraje already gone before Phenex had finished a second circuit of the gallery admiring its light, and Naamah let the room settle back into whatever shape it preferred when no one was left to want anything from it. She had told them both the truth, in the same narrow, exact way she told anyone anything — a commander's morale, a province's grief, a town's doubt, all of it real, none of it a lie either of them could later hold against her. What she hadn't told them, because neither had thought to ask the question that would have required it, was that Verrow's Hold itself mattered to her considerably less than the fact that two captains with appetites this incompatible had just agreed, in her hall, to work in sequence rather than in competition, because she had asked them to and given each of them a reason that cost the other nothing to grant.
 

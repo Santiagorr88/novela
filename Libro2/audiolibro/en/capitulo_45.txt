@@ -14,7 +14,7 @@ Gabriel let the words settle fully before he finally spoke again. Two signals, o
 
 "The two anomalies I've been tracking since before the Grey City," Gabriel said, mostly to himself. "They've found each other. And something else found them both at the same moment."
 
-"I don't have a name for him," Sariel said. "I don't think he offered one, from what little I overheard. Whatever he is, he wasn't there to be questioned. He was there to end something before it finished happening."
+"I don't have a name for him. I don't think he offered one, from what little I overheard. Whatever he is, he wasn't there to be questioned. He was there to end something before it finished happening."
 
 "Did he speak?"
 

@@ -16,7 +16,7 @@ Camael was quiet long enough that Gabriel wondered whether he'd misjudged the of
 
 "I'm asking you to guard people who are trying not to," Gabriel said. "It isn't the same task. I don't think it's an easier one, either."
 
-Camael considered that a while longer, one hand still resting on Ramiel's hilt out of old habit rather than any actual need, and something in his shoulders eased by a degree Gabriel had not seen settle there once across the entire preceding week. "I don't know the first thing about keeping a peace," Camael said. "I know a great deal more about keeping a line."
+Camael considered that a while longer, one hand still resting on Ramiel's hilt out of old habit rather than any actual need, and something in his shoulders eased by a degree Gabriel had not seen settle there once across the entire preceding week. "I don't know the first thing about keeping a peace. I know a great deal more about keeping a line."
 
 "So did I, a year ago," Gabriel said. "I expect we'll both learn it the same way — badly, at first, and then somewhat less badly."
 

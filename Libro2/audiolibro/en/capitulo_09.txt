@@ -34,7 +34,7 @@ It was not, strictly, necessary. He could have run the operation lean, harvested
 
 Belial did not answer immediately. He let his hand rest against Lament's haft instead, feeling the familiar hum sharpen faintly beneath his palm, and thought of a battlefield weeks gone now, of reaching for a second prize he'd believed, in that single arrogant instant, already his. The light that had answered him had not been a fight. It had been a verdict, delivered before his fingers had even finished closing, and the burn it left behind had healed weeks ago in every sense except the one that mattered.
 
-"No," he said finally. "Not yet."
+"No. Not yet."
 
 The sorcerer's mouth opened a fraction and closed again — a rehearsed question weighed, in the end, and judged too expensive to spend.
 

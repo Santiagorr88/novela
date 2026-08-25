@@ -20,7 +20,7 @@ He caught his balance and glanced back, just once, toward the man whose voice ha
 
 "No idea," Mikel shouted back, not breaking his own rhythm, already tracking the shift in the enemy line with the same cold clarity that had let him call the last warning in time. "But it's working. So shut up and flank." He drove the shelving fragment into a demon's exposed side without breaking stride, the motion no more deliberate than any other word in the sentence.
 
-"Bossy for a professor," Arin said, already moving to cover the angle Mikel had called.
+"Bossy for a professor." Arin was already moving to cover the angle Mikel had called.
 
 "Ask me about it later. Assuming there's a later." Mikel didn't have breath left to spare on anything cleverer than that, and found he didn't especially mind.
 

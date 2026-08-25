@@ -30,7 +30,7 @@ El guardia de seguridad al que se acercó la noche siguiente se comportaba con e
 
 El guardia dudó, sopesando visiblemente si la respuesta honesta valía el riesgo de sonar inestable. —Hay un tipo con gafas de sol —dijo finalmente— que aparece y desaparece cerca de puertas que se supone que están cerradas. No lo he reportado, porque suena a locura, y llevo quince años aquí sin decir nada así de loco en voz alta.
 
-—No es locura —dijo Arin, sin ofrecer nada más para explicar por qué lo creía tan fácilmente.
+—No es locura. —Arin no ofreció nada más para explicar por qué lo creía tan fácilmente.
 
 El guardia lo estudió un momento, parte de su compostura visiblemente resbalando. —Te das cuenta de cómo suena eso, viniendo de un investigador.
 

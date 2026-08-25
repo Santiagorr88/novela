@@ -44,7 +44,7 @@ Pensó, al ver a Lucifer absorberla, en cada título formal que cualquiera de lo
 
 ---
 
-La boca de Lucifer se curvó en algo que no era del todo una sonrisa, triste y extraña de un modo que Gabriel se descubrió incapaz de leer por completo. —Una elección de palabras interesante —dijo Lucifer—. No tengo ninguna intención de "estar bien", Gabriel. El bienestar jamás fue un estado que me resultara de mucha utilidad, incluso antes de que empezara todo esto. Simplemente pretendo ser. —Sostuvo la mirada de Gabriel un momento, algo irónico entrando en su expresión pese al cansancio todavía visible debajo—. Dejaré el bienestar para ti y tu concilio. Entiendo que le sienta considerablemente mejor a tu bando de lo que jamás le sentó al mío.
+La boca de Lucifer se curvó en algo que no era del todo una sonrisa, triste y extraña de un modo que Gabriel se descubrió incapaz de leer por completo. —Una elección de palabras interesante. No tengo ninguna intención de "estar bien", Gabriel. El bienestar jamás fue un estado que me resultara de mucha utilidad, incluso antes de que empezara todo esto. Simplemente pretendo ser. —Sostuvo la mirada de Gabriel un momento, algo irónico entrando en su expresión pese al cansancio todavía visible debajo—. Dejaré el bienestar para ti y tu concilio. Entiendo que le sienta considerablemente mejor a tu bando de lo que jamás le sentó al mío.
 
 —Entonces eso tendrá que bastar —dijo Gabriel.
 

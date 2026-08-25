@@ -34,7 +34,7 @@ No era, estrictamente, necesario. Podría haber llevado la operación de forma a
 
 Belial no respondió de inmediato. Dejó descansar la mano contra el asta de Lament en cambio, sintiendo el zumbido familiar afilarse débilmente bajo su palma, y pensó en un campo de batalla ya semanas atrás, en alcanzar un segundo premio que había creído, en ese único instante arrogante, ya suyo. La luz que le había respondido no había sido una pelea. Había sido un veredicto, entregado antes de que sus dedos terminaran siquiera de cerrarse, y la quemadura que dejó había sanado semanas atrás en todos los sentidos salvo el que importaba.
 
-—No —dijo por fin—. Todavía no.
+—No. Todavía no.
 
 La boca del hechicero se abrió una fracción y volvió a cerrarse —una pregunta ensayada, sopesada al final, y juzgada demasiado costosa para gastarla.
 

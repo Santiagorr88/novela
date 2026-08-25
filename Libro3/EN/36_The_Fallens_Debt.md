@@ -58,8 +58,8 @@ He thought of every account he'd ever read of Lucifer's Fall, written by scholar
 
 "Well," Ereloth said finally, his voice quieter than its usual register. "I did not expect to owe him anything today."
 
-"Neither did I," Michael said.
+"Neither did I."
 
-Azael studied the calm space ahead a long moment before speaking, his own broken fragments of Aetheris resting quiet in his lap, pale wood catching what little light reached this stretch of the crossing. "Debts of this size rarely announce themselves as debts until they're already owed," he said. "I suspect this one will matter again, before the end of whatever comes next."
+Azael studied the calm space ahead a long moment before speaking, his own broken fragments of Aetheris resting quiet in his lap, pale wood catching what little light reached this stretch of the crossing. "Debts of this size rarely announce themselves as debts until they're already owed. I suspect this one will matter again, before the end of whatever comes next."
 
 No one answered that directly. Michael turned his own attention toward the calm dark ahead, where the Nexus of All Things waited for whatever the four of them had brought to offer it, and found he had no better answer to give than the sage's own — only the plain, steady work of moving forward regardless.

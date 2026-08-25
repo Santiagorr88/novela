@@ -16,7 +16,7 @@ Miguel absorbió las palabras sin sorpresa —él mismo lo había sospechado, vi
 
 Azael alzó una mano, y el aire sobre la piedra plana se llenó de una imagen lenta y giratoria del cosmos, reinos y estrellas representados en luz tenue y a la deriva. Miguel observó la imagen resolverse más, y vio, recorriendo la oscuridad representada, no una sola forma hambrienta sino una red extendida de fracturas capilares, cada una ramificándose en grietas más pequeñas cuanto más tiempo la observaba, alcanzando cada vez más lejos en todo lo que representaba la proyección.
 
-—No se puede matar un defecto —dijo Azael, observando las fracturas extenderse con la misma quietud paciente que aportaba a todo lo demás en este lugar—. Hay que sanarlo.
+Azael observaba las fracturas extenderse con la misma quietud paciente que aportaba a todo lo demás en este lugar. —No se puede matar un defecto. Hay que sanarlo.
 
 Thaeriel se movió a su lado, un pequeño gesto cansado que Miguel leyó como reconocimiento antes que como sorpresa —había vivido más cerca de esta cicatriz que ninguno de ellos, más cerca incluso que Azael, y Miguel sospechó que la honestidad llana del planteamiento le caía con una familiaridad que ninguno de los demás compartía—. El cristal que había sacado de Dis atrapó la poca luz que ofrecía el santuario mientras se movía, una pequeña chispa contenida de negro y oro todavía visible en su centro, descansando ahora en una bolsa sencilla sujeta a su cinturón.
 
@@ -28,9 +28,9 @@ La proyección de Azael se contrajo hacia adentro con su gesto, la red extendida
 
 —Y pretendes que vayamos ahí —dijo Miguel. No era del todo una pregunta.
 
-—Pretendo que vayamos ahí —confirmó Azael—. El camino no está guardado por nada que una hoja o una luz puedan responder de forma significativa. Está guardado por la paradoja —conceptos construidos específicamente para deshacer una mente no preparada para sostenerlos, contradicciones con el peso suficiente detrás como para deshacer a quien camine sin el ancla adecuada para resistirlas—. Los estudió a cada uno por turno, sopesando algo que Miguel no lograba leer del todo detrás de la quietud de su expresión—. Ninguno de nosotros camina ese sendero sin ancla. Eso, al menos, tengo intención de asegurarlo.
+—Pretendo que vayamos ahí. El camino no está guardado por nada que una hoja o una luz puedan responder de forma significativa. Está guardado por la paradoja —conceptos construidos específicamente para deshacer una mente no preparada para sostenerlos, contradicciones con el peso suficiente detrás como para deshacer a quien camine sin el ancla adecuada para resistirlas—. Los estudió a cada uno por turno, sopesando algo que Miguel no lograba leer del todo detrás de la quietud de su expresión—. Ninguno de nosotros camina ese sendero sin ancla. Eso, al menos, tengo intención de asegurarlo.
 
-—¿Qué tipo de paradoja —preguntó Miguel— deshace una mente?
+—¿Qué tipo de paradoja deshace una mente?
 
 —El tipo que no ofrece ninguna respuesta que una mente pueda en verdad sostener —dijo Azael—. Una pregunta con dos respuestas verdaderas que no pueden ser ambas ciertas a la vez. Una elección donde negarse a elegir es en sí misma la elección, y cuesta exactamente lo mismo que habría costado elegir mal. Una vez, hace mucho, caminé lo bastante cerca de ese límite como para saber lo que le hace a una voluntad no preparada para él. No pretendo que ninguno de nosotros aprenda esa lección del mismo modo en que yo la aprendí.
 
@@ -40,17 +40,17 @@ Miguel sintió cómo la forma de lo que se les estaba pidiendo se asentaba en el
 
 Los miró entonces a los tres juntos, una mirada larga y nivelada bajo la cual Miguel se descubrió incapaz de mantenerse del todo firme, y dejó que el silencio se estirara antes de terminarlo.
 
-—Pero el yunque —dijo Azael— serán vuestras propias almas.
+—Pero el yunque serán vuestras propias almas.
 
 Nadie habló de inmediato. Las palabras se asentaron en Miguel lentamente, el peso completo de ellas llegando solo después de que la primera conmoción ya hubiera pasado. Había esperado sacrificio. Comprendió, al oírlo nombrado con esta llaneza, que todavía no había comprendido lo que ese sacrificio iba a costarles a todos.
 
-Ereloth fue el primero en romper el silencio, y cuando lo hizo, su voz no llevaba nada de su ligereza habitual en absoluto. —Bueno —dijo—. Supongo que esa es una forma de asegurarse de que ninguno de nosotros entre a medias.
+Ereloth fue el primero en romper el silencio, y cuando lo hizo, su voz no llevaba nada de su ligereza habitual en absoluto. —Bueno. Supongo que esa es una forma de asegurarse de que ninguno de nosotros entre a medias.
 
 —Se os permite tenerle miedo —dijo Azael, sin ninguna suavidad particular acompañando la observación, simplemente enunciándola como un hecho llano más entre los demás que ya había expuesto—. Yo mismo lo tengo, más de lo que le he dejado ver a ninguno de vosotros hasta ahora. El miedo no descalifica a una mano para el trabajo. Solo significa que la mano comprende hacia qué en verdad se está extendiendo.
 
 Ereloth logró algo cercano a su sonrisa habitual ante eso, aunque no le llegó del todo al resto del rostro como solía hacerlo. —Reconfortante, viniendo de ti.
 
-—No intentaba reconfortar —dijo Azael—. Intentaba ser honesto. He descubierto, a lo largo de una vida muy larga, que las dos cosas rara vez llegan juntas.
+—No intentaba reconfortar. Intentaba ser honesto. He descubierto, a lo largo de una vida muy larga, que las dos cosas rara vez llegan juntas.
 
 Thaeriel no dijo nada, aunque Miguel captó cómo se le tensaba la mandíbula, la quietud particular de un hombre sopesando un costo que ya esperaba a medias pagar y descubriendo que la suma era de algún modo más pesada que la estimación. Había visto asentarse esa misma quietud sobre Thaeriel una vez antes, en el instante justo antes de que entrara solo en Dis. Algunos costos se anunciaban temprano, y hacían que un hombre cargara con su peso mucho antes de que llegara el ajuste de cuentas.
 

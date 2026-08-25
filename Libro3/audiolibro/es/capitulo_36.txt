@@ -58,8 +58,8 @@ Pensó en cada relato que había leído jamás sobre la Caída de Lucifer, escri
 
 —Bueno —dijo Ereloth finalmente, la voz más queda que su registro habitual—. No esperaba deberle nada a él hoy.
 
-—Yo tampoco —dijo Miguel.
+—Yo tampoco.
 
-Azael estudió el espacio calmado por delante un largo momento antes de hablar, sus propios fragmentos rotos de Aetheris descansando en silencio sobre su regazo, la madera pálida atrapando la poca luz que alcanzaba este tramo del cruce. —Las deudas de este tamaño rara vez se anuncian como deudas hasta que ya se deben —dijo—. Sospecho que esta volverá a importar, antes del final de lo que sea que venga después.
+Azael estudió el espacio calmado por delante un largo momento antes de hablar, sus propios fragmentos rotos de Aetheris descansando en silencio sobre su regazo, la madera pálida atrapando la poca luz que alcanzaba este tramo del cruce. —Las deudas de este tamaño rara vez se anuncian como deudas hasta que ya se deben. Sospecho que esta volverá a importar, antes del final de lo que sea que venga después.
 
 Nadie respondió eso directamente. Miguel volvió su propia atención hacia la oscuridad calmada por delante, donde el Nexo de Todas las Cosas esperaba lo que fuera que los cuatro hubieran traído para ofrecerle, y descubrió que no tenía mejor respuesta que dar que la del propio sabio —solo el trabajo llano y firme de seguir adelante de todos modos.

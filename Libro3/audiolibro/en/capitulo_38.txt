@@ -4,7 +4,7 @@ Michael's hand had barely closed again after releasing the Tear from its locket,
 
 "They don't trust each other yet," Michael said, watching the unsteady dance with the same wariness Azael felt settling into his own chest, his voice quiet enough that it barely disturbed the fulcrum's own patient silence.
 
-"They were never meant to trust each other," Azael said. "Only to remember that they came from the same place, before either of them learned what it meant to be opposed." He studied the widening orbit a moment longer, weighing the risk of what came next against the certainty that nothing gentler would suffice.
+"They were never meant to trust each other. Only to remember that they came from the same place, before either of them learned what it meant to be opposed." He studied the widening orbit a moment longer, weighing the risk of what came next against the certainty that nothing gentler would suffice.
 
 He thought, watching the two lights circle each other with mounting wariness, of every failed attempt he'd made across the centuries to explain this working to himself before he'd ever had the actual pieces in hand to attempt it. He had known, in the abstract, that faith and defiance would resist each other at first contact. He had not fully understood, until this exact moment, how much that resistance would resemble two old enemies bracing for a fight neither of them had asked for.
 

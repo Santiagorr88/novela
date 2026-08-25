@@ -6,7 +6,7 @@ He had read every report that described its earlier, smaller manifestations — 
 
 ---
 
-He gave the order without further hesitation, unwilling to let the sight of it cost him the momentum this crossing had spent so much to earn. "All ships, engage," he said, and felt the fleet answer as a single body, gold and black hulls surging forward together across the last stretch of open space that remained.
+He gave the order without further hesitation, unwilling to let the sight of it cost him the momentum this crossing had spent so much to earn. "All ships, engage." He felt the fleet answer as a single body, gold and black hulls surging forward together across the last stretch of open space that remained.
 
 Something old and clean rose in him as the ships broke into their attack vectors, a fury he recognized from a thousand smaller battles but had never once felt aimed at a target this vast. He had buried enough soldiers to distrust anger as a strategy. He let himself feel it anyway, this once, because the alternative — facing this thing with nothing but cold calculation — struck him as its own kind of surrender.
 
@@ -36,7 +36,7 @@ He had commanded soldiers through losses that still weighed on him years afterwa
 
 A black-hulled cruiser near the formation's flank took the same fate a moment later, its crew's readiness reports simply ceasing mid-transmission, no final cry, no wreckage left to mark where they'd been standing only seconds before. Camael heard Vepar's voice cut across the shared channel a moment after, sharper than the flat calm he'd carried through every prior exchange between them.
 
-"We lost the *Hollow Crown*," Vepar said. "No warning. No resistance offered. It simply stopped being there." A pause, brief but unmistakable, before the next order came. "Tighten formation. Do not let a single ship drift far enough to face this alone."
+"We lost the *Hollow Crown*. No warning. No resistance offered. It simply stopped being there." A pause, brief but unmistakable, before the next order came. "Tighten formation. Do not let a single ship drift far enough to face this alone."
 
 ---
 

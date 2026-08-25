@@ -10,15 +10,15 @@ Daith ya había empezado a evaluar el estado del fragmento antes de que ella ter
 
 Trabajaron uno junto al otro una vez que Iofiel los dejó a solas con ello, y en el transcurso de la hora Daith comprendió con exactitud cuán distinto pretendían abordar la misma página. Él transcribía letra por letra, mecánico y preciso, construyendo la traducción hacia afuera desde la certeza hacia las lagunas. Kurel leyó el himno en voz alta, en cambio, bajo y varias veces seguidas, antes siquiera de dejar que sus dedos tocaran el pergamino —como si las palabras necesitaran ser oídas antes de poder manejarse con seguridad.
 
-—Estás perdiendo el tiempo —dijo Daith, no sin amabilidad—. La transcripción no avanzará más rápido por recitarse primero.
+—Estás perdiendo el tiempo —no había filo en ello, solo la certeza llana que Daith le ponía a casi todo—. La transcripción no avanzará más rápido por recitarse primero.
 
-—No se trata de velocidad —dijo Kurel, sin alzar la vista—. Un nombre que se resiste a ser pronunciado no se revela ante un hombre con prisa.
+—No se trata de velocidad —Kurel no alzó la vista—. Un nombre que se resiste a ser pronunciado no se revela ante un hombre con prisa.
 
 No era un arreglo desconocido entre ellos. Habían trabajado codo a codo en docenas de fragmentos a lo largo de los años, la precisión de Daith y la paciencia de Kurel asentándose, más a menudo que no, en un ritmo que producía un trabajo que ninguno de los dos habría podido lograr solo. Daith no veía ninguna razón para que hoy se comportara de forma distinta.
 
 La diferencia dejó de ser meramente estilística en el transcurso de la hora. Daith alcanzó un tramo limpio de texto legible cerca de la mitad del himno y se dispuso, sin pausar a consultar con Kurel, a sellar la sección —procedimiento estándar para cualquier pasaje que alcanzara el umbral del archivo—. La mano de Kurel se cerró sobre el pergamino antes de que el sello lo tocara.
 
-—Todavía no —dijo, tranquilo pero inamovible—. Ahí hay un nombre. Quiero oírlo de nuevo antes.
+—Todavía no —tranquilo, pero inamovible—. Ahí hay un nombre. Quiero oírlo de nuevo antes.
 
 —Es legible, Kurel. Ese es todo el umbral. Muéstrame, entonces, si hay algo aquí que en realidad merezca retenerlo, en lugar de pedirme que lo acepte con fe.
 
@@ -26,7 +26,7 @@ Kurel accedió, girando el fragmento para que la sección disputada quedara fren
 
 —Léelo en voz alta, entonces. No escaneado. Hablado.
 
-Daith accedió más por exasperación que por curiosidad, leyendo la línea a su ritmo habitual y ágil, y no oyó nada que mereciera comentario. —Ahí lo tienes. Nada. —Kurel solo esperó, paciente de un modo que a Daith le pareció su propia forma silenciosa de terquedad—. Otra vez —dijo—. Más despacio.
+Daith accedió más por exasperación que por curiosidad, leyendo la línea a su ritmo habitual y ágil, y no oyó nada que mereciera comentario. —Ahí lo tienes. Nada. —Kurel solo esperó, paciente de un modo que a Daith le pareció su propia forma silenciosa de terquedad—. Otra vez. Más despacio.
 
 Daith lo leyó una segunda vez, aunque solo fuera por cerrar la discusión. Esta vez, tenue pero inconfundible, oyó su propia voz atascarse en la sílaba final de la última palabra de la línea —un pequeño tropiezo involuntario que no lograba explicarse—. La leyó una tercera vez para asegurarse, y el tropiezo se repitió, precisamente en el mismo lugar que la segunda vez, aunque el sonido de la palabra misma parecía, absurdamente, desplazarse entre intentos. Dejó el pergamino sin comentario, parte de su certeza anterior visiblemente sacudida.
 
@@ -34,7 +34,7 @@ Kurel no dijo nada. Él había oído el mismo desplazamiento en su propio primer
 
 —El pasado no olvida —dijo Daith, recuperando la compostura con más filo que certeza—. Yo tampoco. Transcribimos lo que hay aquí, entero, o no lo transcribimos en absoluto.
 
-—Lo que hay aquí incluye una palabra que se corrompe a sí misma cada vez que alguien la dice en voz alta —dijo Kurel—. ¿Vas a transcribir eso también, o vas a fingir que no acabas de oírlo suceder?
+—Lo que hay aquí incluye una palabra que se corrompe a sí misma cada vez que alguien la dice en voz alta. ¿Vas a transcribir eso también, o vas a fingir que no acabas de oírlo suceder?
 
 Daith no tuvo una respuesta inmediata. —Cada nombre es una llave —añadió Kurel, más callado ahora—. No sé qué puerta estamos abriendo. Tú tampoco.
 
@@ -44,7 +44,7 @@ Daith no tuvo una respuesta inmediata. —Cada nombre es una llave —añadió K
 
 Daith mantuvo su silencio un momento más antes de responder, terreno cedido sin que el argumento en sí se concediera. —Entonces dime qué hacemos con un himno que no quiere ser leído.
 
-Ninguno de los dos tenía una respuesta preparada. El scriptorium se había quedado en silencio a su alrededor en algún momento durante la discusión, los demás asistentes de Iofiel hacía tiempo idos por el día, la luz de las velas adelgazándose hacia los estantes lejanos hasta que el olor a cera era casi lo único que quedaba en la sala además de ellos dos y el fragmento entre ambos. —Tenemos tiempo antes de que Gabriel necesite esto —dijo Kurel—. No mucho. Suficiente para ser cuidadosos en lugar de meramente rápidos. —Daith miró los bordes chamuscados un largo momento—. Entonces lo usamos —dijo. No era un acuerdo. Era lo más cercano a ello que Kurel había obtenido de él en toda la velada.
+Ninguno de los dos tenía una respuesta preparada. El scriptorium se había quedado en silencio a su alrededor en algún momento durante la discusión, los demás asistentes de Iofiel hacía tiempo idos por el día, la luz de las velas adelgazándose hacia los estantes lejanos hasta que el olor a cera era casi lo único que quedaba en la sala además de ellos dos y el fragmento entre ambos. —Tenemos tiempo antes de que Gabriel necesite esto —dijo Kurel—. No mucho. Suficiente para ser cuidadosos en lugar de meramente rápidos. Daith miró los bordes chamuscados un largo momento. —Entonces lo usamos. No era un acuerdo. Era lo más cercano a ello que Kurel había obtenido de él en toda la velada.
 
 ---
 
@@ -52,7 +52,7 @@ Daith regresó a la mañana siguiente sin estar más cerca de una respuesta, y d
 
 Alcanzó la estrofa a media mañana, diciéndose que simplemente era el siguiente paso razonable en una asignación ya retrasada, y empezó a transcribirla letra por letra —sin esperar la aprobación de Kurel, sin anunciar que había decidido proceder—. Alcanzar la estrofa sin preguntar era su propio argumento. Preguntar habría significado arriesgarse a otra negativa.
 
-La mano de Kurel cayó sobre el pergamino antes de que la pluma de Daith llegara a la palabra disputada. —Quita la mano —dijo Daith, un filo de rabia genuina en la voz por primera vez—. —No hasta que me digas por qué tienes tanta prisa —dijo Kurel, sin moverla.
+La mano de Kurel cayó sobre el pergamino antes de que la pluma de Daith llegara a la palabra disputada. —Quita la mano —dijo Daith, un filo de rabia genuina en la voz por primera vez—. —No hasta que me digas por qué tienes tanta prisa. No la movió.
 
 —Estoy haciendo mi trabajo.
 
@@ -60,7 +60,7 @@ La mano de Kurel cayó sobre el pergamino antes de que la pluma de Daith llegara
 
 Daith abrió la boca para objetar y descubrió que no tenía ninguna réplica preparada. En efecto, había sido exactamente eso. —No acordamos que necesitara más atención, Kurel. Tú decidiste que sí. Te he dado el beneficio de la duda desde ayer. En algún punto eso se agota. —Siguió adelante, el argumento que había ensayado la noche anterior encontrando por fin su forma en voz alta—. Hay un precedente para esto. El testimonio de Perren: un pacto dejado ambiguo porque alguien decidió que la cautela pesaba más que la completitud, y le costó caro a la gente que necesitaba ese registro entero. Te lo he citado antes. Te lo cito ahora.
 
-Kurel consideró aquello más tiempo del que consideraba la mayoría de las cosas. —Perren se terminó demasiado tarde para importar —dijo—. Este se terminaría demasiado pronto para ser cierto. Prefiero esperar antes que pronunciar un nombre sin que ninguno de los dos comprenda qué costaría responderlo. Creo que tú también lo sabes, en algún lugar debajo de lo seguro que intentas sonar.
+Kurel consideró aquello más tiempo del que consideraba la mayoría de las cosas. —Perren se terminó demasiado tarde para importar. Este se terminaría demasiado pronto para ser cierto. Prefiero esperar antes que pronunciar un nombre sin que ninguno de los dos comprenda qué costaría responderlo. Creo que tú también lo sabes, en algún lugar debajo de lo seguro que intentas sonar.
 
 La acusación cayó más cerca de la verdad de lo que Daith estaba dispuesto a conceder en voz alta, y no dijo nada durante un momento, el silencio haciendo más trabajo del que cualquier argumento adicional podría haber hecho. Kurel no presionó la ventaja. Solo esperó, paciente de un modo que siempre había inquietado a Daith más de lo que podría haberlo hecho una confrontación directa.
 

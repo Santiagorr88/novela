@@ -8,7 +8,7 @@ A black hull drifted close enough off her port side that she could make out the 
 
 "Still not used to it," Torin said over the comm, his voice carrying the same disbelief she felt sitting in her own chest. He'd flown twelve years longer than she had, had fought Hell's ships in earnest more times than she could count. "Never thought I'd see the day I was glad to have one of them on my flank instead of in front of my guns."
 
-"Doesn't feel real," Seren said, and found, saying it aloud, that the admission steadied her more than she'd expected it to.
+"Doesn't feel real." Saying the words aloud, Seren found the admission steadied her more than she'd expected it to.
 
 "Focus on your instruments," Torin said, not unkindly. "Real or not, it's the fleet we've got."
 
@@ -22,11 +22,11 @@ He thought of every soldier under his command who had questioned this alliance i
 
 "All formations report ready, Commander," his second said.
 
-Camael studied the display a moment longer, weighing the scale of the order he was about to give against every casualty report he'd read across the long weeks leading to this exact hour. "Signal the advance," he said. "Full formation, standard interval. We hold nothing back today."
+Camael studied the display a moment longer, weighing the scale of the order he was about to give against every casualty report he'd read across the long weeks leading to this exact hour. "Signal the advance. Full formation, standard interval. We hold nothing back today."
 
 He had spent the better part of the crossing's final night reviewing the casualty projections his own analysts had prepared, numbers no soldier under his command would ever see written out so plainly. He had read them anyway, once, in full, because he judged it his own burden to carry rather than theirs, and had set the report aside only once he'd finished, unwilling to let its weight slow the orders he still needed to give this morning.
 
-His voice carried across the fleet-wide channel a moment later, steady and level in the particular way he'd learned commanded more confidence than any louder delivery ever managed. "Host of Heaven," he said. "Hold your line. Trust the ships beside you, whatever color their hulls carry today. We move as one formation, or we do not move at all."
+His voice carried across the fleet-wide channel a moment later, steady and level in the particular way he'd learned commanded more confidence than any louder delivery ever managed. "Host of Heaven. Hold your line. Trust the ships beside you, whatever color their hulls carry today. We move as one formation, or we do not move at all."
 
 ---
 

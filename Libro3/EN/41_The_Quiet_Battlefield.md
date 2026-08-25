@@ -34,7 +34,7 @@ Neither of them spoke immediately. Camael studied the marshal's face across the 
 
 "I had a plan ready for the next three engagements," Vepar said, something almost bewildered entering his usual clipped delivery, his voice slower than Camael had ever once heard it across their entire alliance. "I don't currently have one ready for this."
 
-"Neither do I," Camael said. "I don't think either of us has fought a war that actually ended before, rather than simply paused long enough for both sides to draw breath before the next one started."
+"Neither do I. I don't think either of us has fought a war that actually ended before, rather than simply paused long enough for both sides to draw breath before the next one started."
 
 He studied the ruined formation stretching out behind Vepar's own image, black hulls scarred and diminished from what they'd been at the crossing's start, and thought of his own fleet's matching losses, ships and soldiers he would need to account for properly once the shock of survival had finally worn off enough to let him. He thought too of the Baron who had fought beside him on this very hull only hours ago, wondered whether the man's own ship had survived the crossing intact, and found himself, for the first time since this alliance had first been struck, genuinely hoping the answer was yes.
 
@@ -54,7 +54,7 @@ He heard the order relayed down through his own ranks, soldiers who had spent th
 
 "For what it's worth," Vepar added, his tone still carrying none of its usual clipped efficiency, "your forces held better than I expected them to going into this. I don't offer that observation lightly."
 
-"Neither do yours," Camael said. "I'd stand beside them again, if it ever came to that."
+"Neither do yours. I'd stand beside them again, if it ever came to that."
 
 Vepar studied him a moment through the flickering channel, something unreadable passing behind his translucent features, and offered no reply beyond a single, small nod before the screen finally went dark.
 

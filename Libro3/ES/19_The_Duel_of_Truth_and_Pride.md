@@ -8,7 +8,7 @@ La mirada de Thaeriel pasó sobre las legiones reunidas como si sencillamente no
 
 —Sostienes algo que no es tuyo —dijo Thaeriel, sereno de un modo que inquietó a Belial más de lo que cualquier rugido habría logrado—. Llora por su verdadero propósito.
 
-Belial sintió algo frío moverse a través de él con esas palabras, rápidamente enterrado bajo la ira, en la que confiaba más que en lo que fuera que ese frío hubiera sido. —Me responde a mí —dijo—. Me ha respondido a mí desde antes de que tuvieras piernas con las que caminar hasta aquí.
+Belial sintió algo frío moverse a través de él con esas palabras, rápidamente enterrado bajo la ira, en la que confiaba más que en lo que fuera que ese frío hubiera sido. —Me responde a mí. Me ha respondido a mí desde antes de que tuvieras piernas con las que caminar hasta aquí.
 
 —Te tolera —dijo Thaeriel—. No es lo mismo.
 

@@ -4,7 +4,7 @@ La mano de Miguel apenas había vuelto a cerrarse tras liberar la Lágrima de su
 
 —Todavía no confían la una en la otra —dijo Miguel, observando la danza inestable con la misma cautela que Azael sentía asentarse en su propio pecho, la voz lo bastante baja como para apenas perturbar el silencio paciente del propio fulcro.
 
-—Nunca estuvieron destinadas a confiar la una en la otra —dijo Azael—. Solo a recordar que vinieron del mismo lugar, antes de que ninguna de las dos aprendiera lo que significaba estar enfrentada. —Estudió la órbita que se ensanchaba un momento más, sopesando el riesgo de lo que venía a continuación contra la certeza de que nada más suave bastaría.
+—Nunca estuvieron destinadas a confiar la una en la otra. Solo a recordar que vinieron del mismo lugar, antes de que ninguna de las dos aprendiera lo que significaba estar enfrentada. —Estudió la órbita que se ensanchaba un momento más, sopesando el riesgo de lo que venía a continuación contra la certeza de que nada más suave bastaría.
 
 Pensó, mientras observaba a las dos luces girar la una en torno a la otra con cautela creciente, en cada intento fallido que había hecho a lo largo de los siglos por explicarse a sí mismo esta obra antes de tener siquiera las piezas reales en la mano para intentarla. Había sabido, en abstracto, que la fe y el desafío se resistirían al primer contacto. No había comprendido del todo, hasta este momento exacto, cuánto se parecería esa resistencia a la de dos viejos enemigos preparándose para una pelea que ninguno de los dos había pedido.
 

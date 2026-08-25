@@ -20,7 +20,7 @@ Miguel ofreció un saludo más llano, inclinando la cabeza con el respeto partic
 
 La mirada de Azael se movió hacia él brevemente, sin premura, tomándole la medida sin nada de la cautela que Miguel medio había esperado de un ser que había pasado tanto tiempo apartado de cualquiera que se le pareciera. Fuera lo que fuese lo que Azael encontró en aquel breve estudio pareció satisfacerlo. No dijo nada más a Miguel directamente, pero el silencio tampoco cargaba ningún desaire, solo el llano y paciente reconocimiento de una presencia más que el valle había estado esperando todo este tiempo.
 
-Azael los estudió a ambos un largo momento antes de finalmente hablar, su voz llegando baja y pareja, sin cargar nada de la urgencia que las propias palabras sugerían. —Llegan tarde —dijo—. La herida se ha infectado. —Hizo una pausa, y algo en su expresión se suavizó por una fracción demasiado pequeña como para nombrarla con precisión—. Pero están aquí ahora. Eso es lo que importa.
+Azael los estudió a ambos un largo momento antes de finalmente hablar, su voz llegando baja y pareja, sin cargar nada de la urgencia que las propias palabras sugerían. —Llegan tarde. La herida se ha infectado. —Hizo una pausa, y algo en su expresión se suavizó por una fracción demasiado pequeña como para nombrarla con precisión—. Pero están aquí ahora. Eso es lo que importa.
 
 No se levantó a recibirlos. Miguel comprendió, observando la quietud que se mantenía a su alrededor incluso ahora, que levantarse jamás había sido el punto de este encuentro, y que fuera cual fuese la autoridad que Azael portaba jamás había dependido de ponerse de pie para hacerla valer.
 

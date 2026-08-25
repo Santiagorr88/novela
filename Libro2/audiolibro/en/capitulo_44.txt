@@ -68,7 +68,7 @@ Mikel considered that against the dreams, the pendant, the prophecy that had see
 
 "If we're waking up," he said, "I'd like to know what we're waking up into. Before it's finished happening to me rather than something I actually understood."
 
-"So would I," Arin said. "I don't think either of us gets that luxury tonight."
+"So would I. I don't think either of us gets that luxury tonight."
 
 "No," Mikel agreed. "I don't suppose we do." Saying it out loud was easier than he'd expected. Some part of him had apparently been waiting for exactly this conversation for longer than he'd let himself admit.
 

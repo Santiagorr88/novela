@@ -30,7 +30,7 @@ Gabriel took a step closer, close enough now that Michael could see the fine tre
 
 "I heard something," Michael said. "I didn't understand it, for the longest time. I think I do now." He paused, weighing how much of the last month deserved to be spoken here, at a gate, before he'd even properly crossed the threshold. "I have a great deal to explain. I'd rather explain it once, to everyone who needs to hear it, than piece by piece to whoever finds me first."
 
-Gabriel's expression flickered at that, something almost like a smile crossing his face before it faded again. "Always efficient," he said. "Even after everything."
+Gabriel's expression flickered at that, something almost like a smile crossing his face before it faded again. "Always efficient. Even after everything."
 
 Whatever Gabriel might have said next was lost to the sound of approaching wingbeats and armored footsteps, a phalanx of warriors descending on the gate's inner courtyard with a speed that left no room to mistake their purpose. At their head walked a figure Michael recognized immediately by the fire already gathering along the length of his weapon, flame catching and spreading with the particular hunger of something built specifically to consume.
 
@@ -48,7 +48,7 @@ Michael felt Gabriel go rigid beside him, his gaze flicking once toward Uriel an
 
 Michael did not reach for Solmire. He simply held Uriel's gaze, steady, the way he'd learned to hold a room's attention across nine years of teaching rather than through the old, easy authority of rank alone.
 
-"I have not come to fight, Uriel," he said. "I have come to speak a truth that affects all of us — every soldier standing in this courtyard, every soul on either side of a war that has cost this realm more than anyone currently fighting it has properly reckoned with."
+"I have not come to fight, Uriel. I have come to speak a truth that affects all of us — every soldier standing in this courtyard, every soul on either side of a war that has cost this realm more than anyone currently fighting it has properly reckoned with."
 
 Uriel's flame flared brighter at that, though his stance held, weapon still raised, still ready. "You expect me to simply believe you've returned pure of heart, after everything you abandoned this Host to become?"
 
@@ -62,7 +62,7 @@ Uriel did not lower his weapon. But something in his stance shifted, fractionall
 
 ---
 
-Gabriel stepped forward into the space between them before either could speak again, his voice level despite the tension still crackling through the courtyard. "A council costs us nothing but time," he said. "And time, unlike blood, can still be spent and recovered both. Let him speak, Uriel. If he's lying, the council will see it plainly enough, and you'll have lost nothing by waiting the length of one hearing to prove it."
+Gabriel stepped forward into the space between them before either could speak again, his voice level despite the tension still crackling through the courtyard. "A council costs us nothing but time. And time, unlike blood, can still be spent and recovered both. Let him speak, Uriel. If he's lying, the council will see it plainly enough, and you'll have lost nothing by waiting the length of one hearing to prove it."
 
 Uriel's gaze cut toward Gabriel, something old and unresolved flickering behind it, some argument the two of them had clearly had before and never fully settled. Michael watched the exchange pass between his two brothers, one careful and deliberate, one hot and immediate, and found himself witnessing the visible signs of a conflict that had plainly predated his own return by some considerable measure, whatever its actual source turned out to be.
 
@@ -70,7 +70,7 @@ Uriel held his position a long moment, flame still gathered along Ignis Lux's le
 
 "The council, then," Uriel said finally, the flame along his weapon guttering down, though not extinguishing entirely. "But know this. If what you bring us proves to be the lie I still suspect it is, I will finish what I came here today already prepared to do."
 
-Michael inclined his head, accepting the terms without argument. "That's all I'm asking for," he said. "The chance to be heard before I'm judged." He had walked a very long road to reach exactly this offer, and found, hearing it finally granted, that it was worth every mile it had cost him.
+Michael inclined his head, accepting the terms without argument. "That's all I'm asking for. The chance to be heard before I'm judged." He had walked a very long road to reach exactly this offer, and found, hearing it finally granted, that it was worth every mile it had cost him.
 
 He looked once more at Gabriel, at the careful hope still visible beneath his brother's practiced composure, and felt, standing at the threshold of the home he'd once commanded and then forgotten entirely, the first real certainty he'd carried since setting out on this road that he might actually be given the chance to explain everything that had brought him back to it.
 

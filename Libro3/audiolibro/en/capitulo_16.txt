@@ -20,7 +20,7 @@ Michael offered a plainer greeting, inclining his head with the particular respe
 
 Azael's gaze moved to him briefly, unhurried, taking his measure with none of the wariness Michael had half expected from a being who had spent this long apart from anyone resembling him. Whatever Azael found in that brief study seemed to satisfy him. He said nothing further to Michael directly, but the silence carried no dismissal in it either, only the plain, patient acknowledgment of one more presence the valley had been expecting all along.
 
-Azael studied them both a long moment before he finally spoke, his voice arriving low and even, carrying none of the urgency the words themselves suggested. "You are late," he said. "The wound has festered." He paused, and something in his expression softened by a fraction too small to name precisely. "But you are here now. That is what matters."
+Azael studied them both a long moment before he finally spoke, his voice arriving low and even, carrying none of the urgency the words themselves suggested. "You are late. The wound has festered." He paused, and something in his expression softened by a fraction too small to name precisely. "But you are here now. That is what matters."
 
 He did not rise to greet them. Michael understood, watching the stillness that held around him even now, that rising had never been the point of this meeting, and that whatever authority Azael carried had never depended on standing to assert it.
 

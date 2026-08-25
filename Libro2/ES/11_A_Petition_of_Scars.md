@@ -6,13 +6,13 @@ Cruzó el largo de la cámara reconstruida con la economía particular de un hom
 
 Gabriel se levantó para recibirlo a medio camino, y Camael leyó la preocupación en el rostro de su viejo amigo antes de que ninguno de los dos hubiera dicho una sola palabra —no sorpresa por el estado de la armadura, sino la preocupación más profunda y más antigua de un hombre que ve llegar a alguien a quien aprecia ya agotado—. Era una mirada a la que Camael se había acostumbrado casi demasiado a recibir de él en los últimos años, y nunca había terminado de decidir si le molestaba o si agradecía en silencio que alguien todavía se molestara en dársela.
 
-—Vienes directo del frente —dijo Gabriel. No era una pregunta.
+—Vienes directo del frente. —No era una pregunta.
 
 —Vengo directo de ver a seis de mis exploradores fallar en traer de vuelta a un séptimo —dijo Camael—. Directo me pareció la única dirección que valía la pena tomar. No pensé que esto pudiera esperar a que me arreglara antes, y encuentro, cuanto más se alarga esta guerra, que me queda cada vez menos paciencia para parecer presentable de todos modos.
 
 La mirada de Gabriel se movió una vez, brevemente, sobre la quemadura en su hombro, y algo en su expresión se tensó. —Eso debería haberse atendido antes de que cruzaras.
 
-—Se atenderá cuando tenga una hora que dedicarle —dijo Camael—. No he tenido una hora que dedicarle a nada que no sea este concilio en más tiempo del que me interesa contar.
+—Se atenderá cuando tenga una hora que dedicarle. No he tenido una hora que dedicarle a nada que no sea este concilio en más tiempo del que me interesa contar.
 
 ---
 
@@ -24,7 +24,7 @@ Un murmullo recorrió todo el largo de la cámara, lo bastante callado como para
 
 Gabriel estudió la jaula un largo momento, algo grave asentándose sobre unas facciones que no habían recuperado del todo su antiguo brillo desde la retirada. —Zadkiel querrá examinarlo él mismo.
 
-—Zadkiel puede examinarlo tanto tiempo como necesite —dijo Camael—. Solo pido que este concilio deje de tratar sus advertencias como una hipótesis mientras yo entierro soldados sobre la fuerza de aquello en lo que ya se han convertido. He leído sus informes, Gabriel. Todos, dos veces, porque la primera lectura nunca terminaba de convencerme del modo en que necesitaba estar convencido. Esto me convenció. Preferiría que este concilio llegara a la misma conclusión mirando lo que traje que esperando a que uno de mi propia gente se convierta en el siguiente espécimen.
+La voz de Camael se mantuvo llana. —Zadkiel puede examinarlo tanto tiempo como necesite. Solo pido que este concilio deje de tratar sus advertencias como una hipótesis mientras yo entierro soldados sobre la fuerza de aquello en lo que ya se han convertido. He leído sus informes, Gabriel. Todos, dos veces, porque la primera lectura nunca terminaba de convencerme del modo en que necesitaba estar convencido. Esto me convenció. Preferiría que este concilio llegara a la misma conclusión mirando lo que traje que esperando a que uno de mi propia gente se convierta en el siguiente espécimen.
 
 ---
 
@@ -36,15 +36,15 @@ Camael asintió una vez, un movimiento pequeño y contenido, y no dijo nada más
 
 ---
 
-—Bien —dijo Uriel, antes de que el silencio tras aquel intercambio pudiera asentarse del todo, su aura ya iluminándose en los bordes de su armadura—. Ahora tenemos pruebas. No teoría, no la cautela cuidadosa de Zadkiel sobre una crisis que todavía no consigue describirle a este concilio a su entera satisfacción. Pruebas, en una jaula, de que el mundo se está desmoronando exactamente al ritmo que llevo advirtiendo que lo haría.
+—Bien. —El aura de Uriel ya se iluminaba en los bordes de su armadura, antes de que el silencio tras aquel intercambio pudiera asentarse del todo—. Ahora tenemos pruebas. No teoría, no la cautela cuidadosa de Zadkiel sobre una crisis que todavía no consigue describirle a este concilio a su entera satisfacción. Pruebas, en una jaula, de que el mundo se está desmoronando exactamente al ritmo que llevo advirtiendo que lo haría.
 
-—Es prueba de la crisis de Zadkiel —dijo Camael, girándose para encararlo directamente—, no prueba de tu solución para ella. No traje a esta criatura aquí para armar tu argumento, Uriel. La traje porque estoy cansado de enterrar soldados bajo un concilio que debate política mientras a mí ya se me ha agotado la paciencia para el debate. —Dejó que eso calara, y luego siguió, la voz ganando la llaneza de un hombre que expone un caso que ha ensayado demasiadas veces en la oscuridad como para suavizarlo ahora—. No le pido a este concilio que marche sobre el Infierno. Le pido que deje de tratar la contención como la posición por defecto simplemente porque es la más cómoda. Cada semana que pasamos deliberando es una semana que la frontera paga en soldados sobre los que después tengo que escribir cartas. Me gustaría, por una vez, escribir menos de esas cartas.
+—Es prueba de la crisis de Zadkiel —Camael se giró para encararlo directamente—, no prueba de tu solución para ella. No traje a esta criatura aquí para armar tu argumento, Uriel. La traje porque estoy cansado de enterrar soldados bajo un concilio que debate política mientras a mí ya se me ha agotado la paciencia para el debate. —Dejó que eso calara, y luego siguió, la voz ganando la llaneza de un hombre que expone un caso que ha ensayado demasiadas veces en la oscuridad como para suavizarlo ahora—. No le pido a este concilio que marche sobre el Infierno. Le pido que deje de tratar la contención como la posición por defecto simplemente porque es la más cómoda. Cada semana que pasamos deliberando es una semana que la frontera paga en soldados sobre los que después tengo que escribir cartas. Me gustaría, por una vez, escribir menos de esas cartas.
 
 Recorrió la cámara con la mirada mientras lo decía, encontrando los ojos de capitanes que jamás habían montado guardia en el terreno que estaba describiendo, y dejó que el silencio tras sus palabras cargara por sí solo el peso que necesitara cargar. —No digo esto para avergonzar a nadie en esta sala. Lo digo porque he pasado once noches viendo a soldados bajo mi mando sostener una línea contra algo que ninguno de nosotros entiende del todo, y he llegado a creer que el mayor peligro que enfrenta este concilio no es moverse demasiado deprisa. Es confundir el lenguaje cuidadoso con la acción cuidadosa, y llamar suficiente a lo primero.
 
-—Entonces respalda la campaña que ya he propuesto —dijo Uriel— y no escribirás ninguna, porque habremos terminado con la amenaza antes de que vuelva a alcanzar a tus exploradores una segunda vez.
+—Entonces respalda la campaña que ya he propuesto, y no escribirás ninguna, porque habremos terminado con la amenaza antes de que vuelva a alcanzar a tus exploradores una segunda vez.
 
-—No dije que respaldara tu campaña —dijo Camael—. Dije que estaba cansado de enterrar soldados. No son la misma frase, por mucho que te gustaría oírlas como una sola.
+Camael no pestañeó. —No dije que respaldara tu campaña. Dije que estaba cansado de enterrar soldados. No son la misma frase, por mucho que te gustaría oírlas como una sola.
 
 ---
 

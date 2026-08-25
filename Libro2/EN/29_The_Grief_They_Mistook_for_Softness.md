@@ -24,7 +24,7 @@ He learned about Malthus an hour later, from a runner too tired to soften the de
 
 Marbas found Raum still in the workshop, the soldier gone, the room carrying the particular hush Marbas had come to associate with Raum's work — not silence exactly, but the sense of a sound recently finished. "You've heard," Marbas said, and didn't wait for confirmation. "Which means you've also already worked out what it's going to cost the rest of us if we don't move on it first."
 
-"I've worked out that I built an ending tonight I didn't ask my own hands to build," Raum said, "and that it kept walking back toward Foras no matter which direction I sent it. I'd call that a warning, if I believed in those the way the court likes to pretend I do."
+"I've worked out that I built an ending tonight I didn't ask my own hands to build, and that it kept walking back toward Foras no matter which direction I sent it. I'd call that a warning, if I believed in those the way the court likes to pretend I do."
 
 "You believe in whatever's useful to believe in at the moment you say it. So do I. Call it professional respect." Marbas leaned against the workbench, arms folded, the posture of a man about to propose something he'd already half-decided regardless of the answer. "Malthus's legion is sitting three sectors east with nobody's name on its requisitions. I intend to have my name on them by morning — new implants, faster obedience, soldiers who don't need a captain's charisma to hold formation because they won't have the option to disobey in the first place. It's an improvement Foras should have authorized years ago. Grief buys me the window to authorize it myself and apologize for the paperwork later."
 

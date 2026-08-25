@@ -26,7 +26,7 @@ Había ganado duelos antes a través de la paciencia y no de la fuerza, había a
 
 Bajó a Lament fraccionalmente, no en retirada sino en algo más cercano a una paciencia deliberada, del modo en que un cazador baja la hoja una vez que la presa ya ha dejado de correr. Las palabras, comprendió, harían aquí más daño que otro intercambio físico, por muy igualado que ese intercambio hubiera demostrado ser hasta el momento.
 
-—Este poder nunca fue tuyo —dijo Belial, Lament sostenida con firmeza, las palabras sin nada de un grito y con todo el peso de una observación simple y devastadora.
+Belial sostuvo a Lament con firmeza. —Este poder nunca fue tuyo. —Las palabras no llevaban nada de un grito, sino todo el peso de una observación simple y devastadora.
 
 Miguel sostuvo a Solmire en alto, y respondió —no con la confianza que Miguel había mostrado antes en esta guerra, sino con algo más cercano a una plegaria que a una afirmación—: —Entonces dime de quién es.
 

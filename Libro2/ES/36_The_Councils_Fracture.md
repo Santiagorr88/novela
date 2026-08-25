@@ -8,13 +8,13 @@ Uriel entró sin esperar a ser anunciado, Camael medio paso detrás de él y las
 
 Las palabras cayeron exactamente con la fuerza que Gabriel juzgó que Uriel había pretendido que cayeran, y Gabriel dejó que cayeran sin flaquear ante ellas, consciente de que cada ojo en la cámara medía su respuesta antes de que él diera una. —Le estás pidiendo a este consejo que me despoje del mando en medio de la crisis más grave que ha enfrentado este Coro desde el Cisma —dijo—. Dilo con claridad, Uriel, si eso es en verdad lo que pretendes pedir.
 
-—Le estoy pidiendo a este consejo que recuerde que tiene columna vertebral —dijo Uriel—. Has tenido toda la ventaja que el conocimiento podía comprarte, y has gastado esa ventaja en cautela. No voy a pasar un día más viendo cómo la cautela nos hace perder una guerra que todavía podríamos ganar.
+—Le estoy pidiendo a este consejo que recuerde que tiene columna vertebral. Has tenido toda la ventaja que el conocimiento podía comprarte, y has gastado esa ventaja en cautela. No voy a pasar un día más viendo cómo la cautela nos hace perder una guerra que todavía podríamos ganar.
 
-—¿Y qué habrías hecho tú de otro modo —preguntó Gabriel— con la misma información, el mismo día en que yo la recibí?
+—¿Y qué habrías hecho tú de otro modo, con la misma información, el mismo día en que yo la recibí?
 
 —Me habría movido. Habría enviado a todos los capitanes que pudiéramos permitirnos a Navarion en la hora en que Sariel regresó de ese archivo, en lugar de debatir una semana entera qué significaban sus hallazgos. —El aura de Uriel palpitó más brillante, el viejo fuego volviendo a su voz junto con ella—. Recoges información del modo en que la recoge un erudito, Gabriel, como si comprender del todo una amenaza fuera lo mismo que sobrevivirla. El Infierno no espera a que terminemos de leer.
 
-—Y si te hubieras movido en esa hora, y te hubieras movido mal —dijo Gabriel—, ¿cuántos de esos capitanes estarían de pie en esta cámara hoy para oírte decirlo?
+—Y si te hubieras movido en esa hora, y te hubieras movido mal, ¿cuántos de esos capitanes estarían de pie en esta cámara hoy para oírte decirlo?
 
 Uriel no tuvo respuesta inmediata para eso, y la ausencia de una se quedó en la sala un momento más de lo que a ninguno de los dos hombres pareció resultarle del todo cómodo.
 
@@ -34,7 +34,7 @@ Nadie resultó herido. Gabriel se había asegurado de eso antes de dejar que la 
 
 El silencio se mantuvo un largo momento antes de que Uriel lo rompiera, y cuando finalmente habló, ya no quedaba nada de su fuego anterior en la voz. —No sabía que podías hacer eso.
 
-—Yo tampoco quería saberlo —dijo Gabriel. Su propia voz salió más baja de lo que había pretendido, más silenciosa y más áspera que un momento antes, un esfuerzo cuyo verdadero costo el resto de la cámara no podía medir, aunque sospechaba que varios de ellos lo estaban adivinando ahora de todos modos—. Guarda el resto de tu desafío, Uriel, para un día en que en verdad quieras la respuesta que acabas de recibir.
+—Yo tampoco quería saberlo. —Su propia voz salió más baja de lo que había pretendido, más silenciosa y más áspera que un momento antes, un esfuerzo cuyo verdadero costo el resto de la cámara no podía medir, aunque sospechaba que varios de ellos lo estaban adivinando ahora de todos modos—. Guarda el resto de tu desafío, Uriel, para un día en que en verdad quieras la respuesta que acabas de recibir.
 
 Uriel sostuvo su mirada un largo momento, algo ilegible moviéndose detrás de sus ojos, y no dijo nada más. No retiró el Rito. Solo retrocedió medio paso, la mano en el asta de Ignis Lux por fin aflojándose, y dejó que el silencio se sostuviera como la única respuesta que le quedaba por dar.
 
@@ -60,9 +60,9 @@ Gabriel lo estudió un momento primero, sopesando lo que estaba a punto de pedir
 
 —Navarion. Obsérvala, y observa las dos anomalías que convergen sobre ella, sin revelarte a menos que sus propias almas estén en peligro de ser borradas. Estoy harto de adivinar qué son a partir de informes traídos de segunda mano por exploradores asustados y textos archivados con tres eras de antigüedad. Es la misma paciencia que te prometí hace unas noches: observar, no infiltrarte. Solo necesito que observes en un lugar al que el propio consejo ya no tiene autoridad para enviarte.
 
-Sariel lo estudió un largo momento, algo indagador en su expresión que no tenía nada que ver con la misión en sí. —Me estás pidiendo que desobedezca a un consejo que en realidad nunca te dio una orden que desobedecer —dijo—. Es una traición extraña, si es que es traición en absoluto.
+Sariel lo estudió un largo momento, algo indagador en su expresión que no tenía nada que ver con la misión en sí. —Me estás pidiendo que desobedezca a un consejo que en realidad nunca te dio una orden que desobedecer. Es una traición extraña, si es que es traición en absoluto.
 
-—Es la única clase que me queda para ofrecerle a cualquiera de los dos —dijo Gabriel.
+—Es la única clase que me queda para ofrecerle a cualquiera de los dos.
 
 ---
 

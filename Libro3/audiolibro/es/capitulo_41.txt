@@ -34,7 +34,7 @@ Ninguno de los dos habló de inmediato. Camael estudió el rostro del mariscal a
 
 —Tenía un plan listo para los próximos tres enfrentamientos —dijo Vepar, algo casi desconcertado entrando en su entrega habitual y cortante, la voz más lenta de lo que Camael se la había oído jamás en toda su alianza—. En este momento no tengo ninguno listo para esto.
 
-—Yo tampoco —dijo Camael—. No creo que ninguno de los dos haya luchado antes una guerra que en realidad terminara, en vez de simplemente detenerse el tiempo suficiente para que ambos bandos tomaran aire antes de que empezara la siguiente.
+—Yo tampoco. No creo que ninguno de los dos haya luchado antes una guerra que en realidad terminara, en vez de simplemente detenerse el tiempo suficiente para que ambos bandos tomaran aire antes de que empezara la siguiente.
 
 Estudió la formación destrozada que se extendía detrás de la propia imagen de Vepar, cascos negros marcados y disminuidos respecto de lo que habían sido al inicio de la travesía, y pensó en las pérdidas equivalentes de su propia flota, naves y soldados que tendría que contabilizar como es debido una vez que la conmoción de la supervivencia por fin cediera lo suficiente para permitírselo. Pensó también en el Barón que había luchado a su lado en este mismo casco apenas unas horas antes, se preguntó si la propia nave del hombre habría sobrevivido intacta a la travesía, y se descubrió, por primera vez desde que se selló esta alianza, deseando con sinceridad que la respuesta fuera sí.
 
@@ -54,7 +54,7 @@ Oyó la orden transmitirse a través de sus propias filas, soldados que habían 
 
 —Para lo que valga —añadió Vepar, el tono todavía sin nada de su habitual eficiencia cortante—, tus fuerzas resistieron mejor de lo que esperaba al entrar en esto. No ofrezco esa observación a la ligera.
 
-—Tampoco las tuyas —dijo Camael—. Volvería a ponerme a su lado, si alguna vez llegara a eso.
+—Tampoco las tuyas. Volvería a ponerme a su lado, si alguna vez llegara a eso.
 
 Vepar lo estudió un momento a través del canal parpadeante, algo indescifrable cruzando detrás de sus rasgos translúcidos, y no ofreció más respuesta que un único y pequeño asentimiento antes de que la pantalla por fin se apagara.
 

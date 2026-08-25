@@ -42,7 +42,7 @@ He wasn't exaggerating, Michael realized within the first hour of walking. Erelo
 
 Michael hadn't noticed the exact moment that had happened, but found, testing the observation against his own memory of the last hour, that it was true. He'd stopped consulting the sun. He'd stopped trying to reason his way toward a destination he had no actual information about. He was simply walking, the warm current in Solmire's hilt guiding his feet with a confidence he hadn't earned through any deliberate effort of his own. It felt, oddly, less like following an order than like remembering the way home to a place he'd never actually visited before.
 
-They stopped for water at midday, in the thin shade of an outcropping barely wide enough to shelter them both, and Ereloth studied him for a long moment before speaking again. "You keep looking like a man waiting for someone to tell him he's doing it wrong," he said. "Nobody's going to tell you that. There's no wrong way to follow this particular current. There's only following it, or not."
+They stopped for water at midday, in the thin shade of an outcropping barely wide enough to shelter them both, and Ereloth studied him for a long moment before speaking again. "You keep looking like a man waiting for someone to tell him he's doing it wrong. Nobody's going to tell you that. There's no wrong way to follow this particular current. There's only following it, or not."
 
 "Old habits," Michael admitted.
 

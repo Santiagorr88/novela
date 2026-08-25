@@ -16,11 +16,11 @@ Lucifer observó al ángel cruzar el último tramo de ceniza hacia él, sin pris
 
 —Seamos claros —dijo Lucifer, sin ninguno de sus habituales encantos sedosos presentes en las palabras—. Esto no es una reconciliación. Es un cese temporal de nuestras propias hostilidades para enfrentar una amenaza común. Nada más, y nada menos.
 
-—De acuerdo —dijo Gabriel—. Nuestras fuerzas coordinarán bajo un objetivo compartido, pero cada una conserva su propia cadena de mando. Ninguno de los dos responde ante el otro más allá de lo que exija esta amenaza específica.
+—De acuerdo. Nuestras fuerzas coordinarán bajo un objetivo compartido, pero cada una conserva su propia cadena de mando. Ninguno de los dos responde ante el otro más allá de lo que exija esta amenaza específica.
 
 Lucifer inclinó la cabeza, el gesto escueto y práctico. —Vepar y Camael coordinarán los detalles. No tengo interés en gestionar personalmente cada escaramuza, y dudo que tú tampoco.
 
-—No lo tengo —dijo Gabriel—. Ya tengo bastante que gestionar. —Pensó, brevemente, en la cámara del concilio que había dejado atrás, en la desconfianza todavía hirviendo de Uriel y en el delicado trabajo de mantener unido un mando fracturado mientras le pedía que confiara en un enemigo ancestral. La corte de Lucifer, sospechaba, gestionaba una versión de exactamente la misma dificultad.
+—No lo tengo. Ya tengo bastante que gestionar. —Pensó, brevemente, en la cámara del concilio que había dejado atrás, en la desconfianza todavía hirviendo de Uriel y en el delicado trabajo de mantener unido un mando fracturado mientras le pedía que confiara en un enemigo ancestral. La corte de Lucifer, sospechaba, gestionaba una versión de exactamente la misma dificultad.
 
 —Entonces nos entendemos —dijo Lucifer—. Es más de lo que esperaba lograr hoy.
 
@@ -28,7 +28,7 @@ Lucifer inclinó la cabeza, el gesto escueto y práctico. —Vepar y Camael coor
 
 —Esperaba una gran cantidad de ceremonia para la que ya no me queda paciencia. —La boca de Lucifer se curvó, brevemente, en algo que no era del todo una sonrisa—. Discursos sobre agravios antiguos, disculpas cuidadosamente redactadas que ninguno de los dos siente en realidad. Me alivia comprobar que, al parecer, has perdido el gusto por ese teatro particular tan por completo como yo.
 
-—El teatro me pareció un mal uso del tiempo que no tenemos —dijo Gabriel—. Elysia Minor no esperó a que ninguno de los dos termináramos de discutir quién le debía una disculpa a quién antes de dejar de existir. Dudo que lo que venga después espere tampoco.
+—El teatro me pareció un mal uso del tiempo que no tenemos. Elysia Minor no esperó a que ninguno de los dos termináramos de discutir quién le debía una disculpa a quién antes de dejar de existir. Dudo que lo que venga después espere tampoco.
 
 ---
 
@@ -38,7 +38,7 @@ Gabriel estudió a Lucifer un momento en el silencio que siguió, leyendo en su 
 
 Gabriel sintió la pregunta caer con más peso del que esperaba, el propio tratamiento tomándolo más desprevenido que las palabras que lo siguieron. Había pasado una era desde que alguien lo llamara así, más todavía desde que quien lo llamaba así hubiera sido Lucifer. Recordaba la canción con claridad, del modo particular en que recordaba muy poco más de aquella misma era distante, una melodía que alguna vez había sostenido la totalidad de la creación en un único acorde ininterrumpido antes de que nada hubiera pensado siquiera en romper con ella. —Lo recuerdo —dijo, una vez que recuperó la voz.
 
-—Esto —dijo Lucifer, señalando el páramo gris que se extendía en cada dirección a su alrededor— es su eco. El silencio que sigue a la música, una vez que cada nota por fin se ha detenido. —Sostuvo la mirada de Gabriel un momento más—. No debemos dejar que se vuelva permanente.
+Lucifer señaló el páramo gris que se extendía en cada dirección a su alrededor. —Esto es su eco. El silencio que sigue a la música, una vez que cada nota por fin se ha detenido. —Sostuvo la mirada de Gabriel un momento más—. No debemos dejar que se vuelva permanente.
 
 —Nunca me pareciste hombre dado a la metáfora, Lucifer —dijo Gabriel, aunque las palabras no llevaban nada de la acusación que habrían llevado viniendo de él hace un año.
 
@@ -66,7 +66,7 @@ Los dos pergaminos derivaron el uno hacia el otro, encontrándose en el espacio 
 
 —Está hecho —dijo Lucifer.
 
-—Que sea suficiente —respondió Gabriel.
+—Que sea suficiente.
 
 ---
 
@@ -78,7 +78,7 @@ Miró una vez más el páramo gris a su alrededor antes de darse la vuelta por c
 
 Se giró primero, su propia comitiva ya agitándose en el borde del páramo, preparándose para recibirlo de vuelta, y se detuvo una vez, mirando por encima del hombro. —No espero que esto nos haga amigos, Heraldo.
 
-—No —dijo Gabriel—. Yo tampoco lo esperaría.
+—No. Yo tampoco lo esperaría.
 
 —Bien. —Algo parecido al fantasma de su viejo encanto regresó a la voz de Lucifer, breve y seco—. Haría el eventual regreso a las hostilidades considerablemente más incómodo.
 

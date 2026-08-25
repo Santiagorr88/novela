@@ -68,7 +68,7 @@ Mikel consideró eso frente a los sueños, el colgante, la profecía que había 
 
 —Si estamos despertando —dijo—, me gustaría saber a qué estamos despertando. Antes de que termine de pasarme en lugar de ser algo que realmente entendí.
 
-—A mí también —dijo Arin—. No creo que ninguno de los dos tenga ese lujo esta noche.
+—A mí también. No creo que ninguno de los dos tenga ese lujo esta noche.
 
 —No —coincidió Mikel—. Supongo que no. —Decirlo en voz alta fue más fácil de lo que esperaba. Alguna parte de él, al parecer, había estado esperando exactamente esta conversación durante más tiempo del que se había permitido admitir.
 

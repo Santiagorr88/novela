@@ -12,7 +12,7 @@ Camael entered without waiting for an invitation, closing the door behind him wi
 
 Gabriel inclined his head and stepped toward the door without argument, Azael following a beat behind him, silent as always. Camael waited until the door had closed fully before he spoke again, his voice rough in a way Michael hadn't heard from him before, worn down by something that hadn't finished wearing yet, Michael guessed.
 
-"I commanded the fleet at the In-Between," Camael said. "I saw our light and their fire swallowed by... nothing." He paused, jaw working once before he continued. "My faith is not in scripture or prophecy, Michael. My faith is in the shield wall. It is in the angel standing next to me."
+"I commanded the fleet at the In-Between. I saw our light and their fire swallowed by... nothing." He paused, jaw working once before he continued. "My faith is not in scripture or prophecy, Michael. My faith is in the shield wall. It is in the angel standing next to me."
 
 Michael said nothing, letting the silence stretch rather than pressing Camael toward whatever came next. He remembered Camael from a hundred old campaigns, a commander who had never once wasted words on anything beyond what a briefing strictly required. This silence felt different from that old economy, heavier, and Michael found himself reading it as the particular quiet of a man still searching for words large enough to hold what he needed to say.
 
@@ -28,7 +28,7 @@ Camael was quiet a moment before answering. "Legions on both sides, mine and the
 
 ---
 
-Camael reached up and unclasped a plain steel locket from around his neck, turning it once in his fingers before he spoke again. "I forged this myself," he said. "By hand, during the long watch after the fleet came back from the In-Between. It wasn't planned. I needed something to do with my hands while my mind was still working through what we'd seen out there. Metalwork was the only thing that kept me from sitting in the dark replaying it."
+Camael reached up and unclasped a plain steel locket from around his neck, turning it once in his fingers before he spoke again. "I forged this myself. By hand, during the long watch after the fleet came back from the In-Between. It wasn't planned. I needed something to do with my hands while my mind was still working through what we'd seen out there. Metalwork was the only thing that kept me from sitting in the dark replaying it."
 
 He held the locket a moment longer before opening it, his eyes lingering on its plain steel casing longer than the object itself seemed to warrant. Michael watched the pause and read it, cautiously, as a man revisiting a memory he hadn't looked at quite this closely in some time. "I've made a few things with my hands over the centuries. Never anything quite like this one. I'm still not sure what compelled me to keep it once it was finished, rather than setting it aside with everything else from that night."
 

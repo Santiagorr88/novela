@@ -38,7 +38,7 @@ Gabriel found his brother in a corner of the Bastion far removed from the war ro
 
 He had spent the walk from the war room turning over exactly how to frame what he had come to say, discarding one approach after another as either too forceful or too gentle for what tonight required. He was not here to command his brother back into a fight Miguel had every reason to fear. He was here because the war currently unraveling across a dozen fronts left him no honest alternative to asking, and because he suspected, reading the stillness that had settled over his brother, that his brother already understood the shape of what was coming before a single word passed between them.
 
-Gabriel said quietly, "He has the spear. He is breaking them."
+Gabriel kept his voice quiet. "He has the spear. He is breaking them."
 
 He did not frame it as an order. He had given Miguel enough orders across the length of this war to know precisely how little weight an order carried against whatever currently held his brother in this silence. What he offered instead was simply a fact, delivered without embellishment, a weight he intended his brother to carry alongside him rather than beneath him.
 

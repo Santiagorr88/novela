@@ -8,7 +8,7 @@ Thaeriel's gaze passed over the assembled legions as though they simply weren't 
 
 "You are holding something that is not yours," Thaeriel said, calm in a way that unsettled Belial more than any roar could have managed. "It weeps for its true purpose."
 
-Belial felt something cold move through him at the words, quickly buried beneath the anger he trusted more than whatever that coldness had been. "It answers to me," he said. "It has answered to me for longer than you've had legs to walk here on."
+Belial felt something cold move through him at the words, quickly buried beneath the anger he trusted more than whatever that coldness had been. "It answers to me. It has answered to me for longer than you've had legs to walk here on."
 
 "It endures you," Thaeriel said. "That isn't the same thing."
 

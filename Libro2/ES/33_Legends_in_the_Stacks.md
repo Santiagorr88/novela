@@ -14,7 +14,7 @@ La archivista lo encontraba allí la mayoría de las tardes ahora, y hoy llegó 
 
 Lo dijo llanamente, una vez que el silencio se hubo alargado lo suficiente como para que llenarlo ella misma pareciera, aparentemente, la opción más amable: —No sé qué estás buscando, Ardon, pero sea lo que sea, también te ha estado buscando a ti, desde hace meses. Se nota.
 
-Mikel envolvió ambas manos alrededor de la taza más por tener algo a lo que sujetarse que por el calor de ella, y se descubrió, por una vez, sin buscar inmediatamente una forma de desviar la observación. —Estoy empezando a pensar que me buscaba desde mucho antes de que yo notara que faltaba algo —dijo.
+Mikel envolvió ambas manos alrededor de la taza más por tener algo a lo que sujetarse que por el calor de ella, y se descubrió, por una vez, sin buscar inmediatamente una forma de desviar la observación. —Estoy empezando a pensar que me buscaba desde mucho antes de que yo notara que faltaba algo.
 
 No era una confesión completa. Era lo más cerca que había llegado a una en más tiempo del que podía medir fácilmente, y observó cómo algo en la expresión de ella se asentaba al oírlo —no exactamente satisfacción, sino lo que le pareció a Mikel la quietud de alguien que había estado esperando mucho tiempo hasta esta poca honestidad y, inesperadamente, la había recibido.
 

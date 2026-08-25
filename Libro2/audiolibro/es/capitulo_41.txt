@@ -20,7 +20,7 @@ Recuperó el equilibrio y echó una mirada atrás, solo una vez, hacia el hombre
 
 —Ni idea —gritó Mikel de vuelta, sin romper su propio ritmo, ya rastreando el cambio en la línea enemiga con la misma frialdad clara que le había permitido gritar la última advertencia a tiempo—. Pero está funcionando. Así que cállate y flanquea. —Hundió el fragmento de estantería en el costado expuesto de un demonio sin romper el paso, el movimiento no menos deliberado que cualquier otra palabra de la frase.
 
-—Mandón para ser profesor —dijo Arin, ya moviéndose para cubrir el ángulo que Mikel había señalado.
+—Mandón para ser profesor. —Ya se movía para cubrir el ángulo que Mikel había señalado.
 
 —Pregúntame por eso después. Asumiendo que haya un después. —Mikel no tenía aliento de sobra para nada más ingenioso que eso, y descubrió que no le importaba especialmente.
 

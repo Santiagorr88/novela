@@ -10,7 +10,7 @@ The Void's attention shifted the instant Azael's own settled on it, a vast, pati
 
 "It knows we're here," Thaeriel said quietly, his voice carrying none of its usual flatness, something closer to genuine unease moving beneath it.
 
-"It has always known," Azael said. "It simply hadn't yet decided we were worth its full attention."
+"It has always known. It simply hadn't yet decided we were worth its full attention."
 
 He studied the vast, patient awareness a moment longer, measuring how little he understood about a thing this old, despite every year he'd spent studying wounds of one kind or another. He had faced grief before, and rage, and every smaller cousin of the despair currently turning its attention toward them. He suspected, watching it settle fully onto the four of them now, that none of those prior encounters had prepared him for something that carried no anger at all, only the flat, exhausted certainty of a thing that had simply stopped believing anything could ever change.
 

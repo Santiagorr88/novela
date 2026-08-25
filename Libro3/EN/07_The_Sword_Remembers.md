@@ -32,7 +32,7 @@ He lowered it slowly, unwilling to let the moment pass without giving it its due
 
 Ereloth's footsteps announced him before his voice did, easy and slow across the sand the way he approached most things, his bare feet leaving no mark behind him even now, and Mikel turned to find him watching with an expression that had shed every trace of its usual performance. The easy grin was gone. In its place sat something quieter, something that looked, for the first time since Mikel had met him, entirely without irony.
 
-"There he is," Ereloth said. He said it the way a man says something he's been waiting a long while to be able to say honestly. "Welcome back, brother."
+"There he is." Ereloth said it the way a man says something he's been waiting a long while to be able to say honestly. "Welcome back, brother."
 
 Mikel turned to face him fully, the sand shifting slightly beneath his feet, Solmire's warm light still playing faintly along the blade at his side. He was not, he understood, standing here as the stern Commander who had once measured the world by verdicts alone. He was not standing here as the burdened, careful professor either, the man who had spent nine years quietly convinced that something essential was missing from him and had never quite found the nerve to go looking for it directly. He was both of those men at once, combined into something neither of them had ever managed to be entirely on his own, and the combining felt, standing here, less like a loss than like a debt finally settled after years of paying the wrong amount.
 

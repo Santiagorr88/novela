@@ -32,7 +32,7 @@ La bajó despacio, sin querer dejar pasar el momento sin darle su debido peso, y
 
 Los pasos de Ereloth lo anunciaron antes que su voz, fácil y lento sobre la arena del modo en que se acercaba a la mayoría de las cosas, sus pies descalzos sin dejar marca alguna tras él ni siquiera ahora, y Mikel se giró para encontrarlo observando con una expresión que se había despojado de todo rastro de su actuación habitual. La sonrisa fácil había desaparecido. En su lugar había algo más callado, algo que parecía, por primera vez desde que Mikel lo conocía, del todo sin ironía.
 
-—Ahí está —dijo Ereloth. Lo dijo del modo en que un hombre dice algo que lleva mucho tiempo esperando poder decir con honestidad—. Bienvenido de vuelta, hermano.
+—Ahí está. —Lo dijo del modo en que un hombre dice algo que lleva mucho tiempo esperando poder decir con honestidad—. Bienvenido de vuelta, hermano.
 
 Mikel se giró para encararlo por completo, la arena desplazándose ligeramente bajo sus pies, la luz cálida de Solmire todavía jugando tenue a lo largo de la hoja a su lado. No estaba, comprendió, de pie aquí como el severo Comandante que alguna vez había medido el mundo solo por veredictos. Tampoco estaba de pie aquí como el profesor cargado y cuidadoso, el hombre que había pasado nueve años en silencio convencido de que le faltaba algo esencial y que nunca había reunido del todo el valor para ir a buscarlo directamente. Era ambos hombres a la vez, combinados en algo que ninguno de los dos había logrado ser jamás por completo por su cuenta, y la combinación se sentía, de pie aquí, menos como una pérdida que como una deuda por fin saldada tras años de pagar la cantidad equivocada.
 

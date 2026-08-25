@@ -24,13 +24,13 @@ Andras estudió al ángel frente a él, catalogando la lanza sostenida con soltu
 
 ---
 
-Sariel lo estudió un momento más antes de responder, sopesando la oferta contra cada instinto que todavía le decía que esta asociación era un error esperando a revelarse. No encontró razón inmediata para rechazar la sugerencia práctica bajo la entrega seca del demonio, fueran cuales fuesen las reservas que todavía se ocultaban detrás. —Comenzamos con el asentamiento —dijo—. Después la zona.
+Sariel lo estudió un momento más antes de responder, sopesando la oferta contra cada instinto que todavía le decía que esta asociación era un error esperando a revelarse. No encontró razón inmediata para rechazar la sugerencia práctica bajo la entrega seca del demonio, fueran cuales fuesen las reservas que todavía se ocultaban detrás. —Comenzamos con el asentamiento. Después la zona.
 
 Se acercaron juntos al límite reluciente, manteniendo una distancia cuidadosa de su borde, y Sariel comenzó a trabajar el perímetro del asentamiento con la misma paciencia lenta y metódica que llevaba a cada cacería. Se movió entre los colonos más cercanos uno a la vez, buscando no la zona misma sino cualquier alma entre ellos que ya pudiera llevar la resonancia particular que Penumbra reconocía al contacto —lo único que la lanza había sido capaz de decirle jamás, a corta distancia y nada más.
 
 Recorrió a seis colonos sin resultado, la punta de Penumbra descansando brevemente contra cada hombro por turno, sin encontrar nada más que la resonancia ordinaria e insignificante de un alma que solo había vivido una vez. No apresuró el proceso. Una cacería apurada con descuido pasaba por alto exactamente los detalles que una cacería paciente habría captado, y había enterrado demasiados errores descuidados a lo largo de su largo servicio como para arriesgarse a repetir uno ahora. Cada colono aceptó el breve contacto sin queja, la mayoría apenas deteniéndose en la tarea que los había ocupado antes de que él llegara.
 
-Andras observó el proceso un rato antes de que su paciencia se adelgazara visiblemente. —Tu forma es demasiado lenta —dijo, y sin más aviso, lanzó una pequeña daga maldita directamente al límite reluciente.
+Andras observó el proceso un rato antes de que su paciencia se adelgazara visiblemente. —Tu forma es demasiado lenta. —Sin más aviso, lanzó una pequeña daga maldita directamente al límite reluciente.
 
 La hoja se desvaneció en el instante en que cruzó el borde, tragada sin sonido ni resistencia, ida por completo como si jamás la hubieran lanzado.
 
@@ -72,9 +72,9 @@ Andras se enderezó desde su propia posición agachada, sacudiendo la grava de p
 
 Andras resopló algo que, en un hombre más expresivo, podría haber calificado como risa. —Alto elogio, viniendo de un ángel.
 
-—Elogio preciso —dijo Sariel—. No ofrezco del otro tipo.
+—Elogio preciso. No ofrezco del otro tipo.
 
-—No —dijo Andras—. No imagino que lo hagas. —Miró de vuelta hacia el asentamiento, donde el colono rescatado ya estaba siendo envuelto en un abrazo por alguien que parecía, desde esta distancia, familia—. Para que conste, no esperaba que te movieras tan rápido hacia un extraño. La mayoría de los de tu clase vacila un compás de más, sopesando primero si el riesgo en verdad vale la pena.
+—No. No imagino que lo hagas. —Miró de vuelta hacia el asentamiento, donde el colono rescatado ya estaba siendo envuelto en un abrazo por alguien que parecía, desde esta distancia, familia—. Para que conste, no esperaba que te movieras tan rápido hacia un extraño. La mayoría de los de tu clase vacila un compás de más, sopesando primero si el riesgo en verdad vale la pena.
 
 —No era un extraño —dijo Sariel—. No una vez que Penumbra confirmó qué era. —Dejó que eso quedara como toda su respuesta, sin voluntad de elaborar más sobre una distinción con la que sospechaba que Andras necesitaría sentarse un rato antes de comprenderla en verdad.
 

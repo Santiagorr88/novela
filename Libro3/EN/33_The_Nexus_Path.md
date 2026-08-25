@@ -16,7 +16,7 @@ Michael absorbed the words without surprise — he had suspected as much himself
 
 Azael raised one hand, and the air above the flat stone filled with a slow, turning image of the cosmos, realms and stars rendered in faint, drifting light. Michael watched the image resolve further, and saw, running through the rendered dark, not a single hungry shape but a spreading lattice of hairline fractures, each one branching into smaller cracks the longer he watched, reaching further into everything the projection depicted.
 
-"You cannot kill a flaw," Azael said, watching the fractures spread with the same patient stillness he brought to everything else in this place. "You must mend it."
+Azael watched the fractures spread with the same patient stillness he brought to everything else in this place. "You cannot kill a flaw. You must mend it."
 
 Thaeriel shifted beside him, a small, tired motion Michael read as recognition rather than surprise — he had lived closer to this scar than any of them, closer even than Azael, and Michael suspected the flat honesty of the framing landed on him with a familiarity none of the rest of them shared. The crystal he'd carried out of Dis caught what little light the sanctuary offered as he moved, a small, banked spark of black and gold still visible at its center, resting now in a plain pouch fastened at his belt.
 
@@ -28,9 +28,9 @@ Azael's projection drew inward at his gesture, the spreading lattice of fracture
 
 "And you mean for us to go there," Michael said. It wasn't quite a question.
 
-"I mean for us to go there," Azael confirmed. "The path is not guarded by anything a blade or a light could meaningfully answer. It is guarded by paradox — concepts built specifically to unmake a mind unprepared to hold them, contradictions with enough weight behind them to unravel whoever walks in without the right anchor to hold against them." He studied each of them in turn, weighing something Michael couldn't fully read behind the stillness of his expression. "None of us walks that path unanchored. That much, at least, I intend to make certain of."
+"I mean for us to go there. The path is not guarded by anything a blade or a light could meaningfully answer. It is guarded by paradox — concepts built specifically to unmake a mind unprepared to hold them, contradictions with enough weight behind them to unravel whoever walks in without the right anchor to hold against them." He studied each of them in turn, weighing something Michael couldn't fully read behind the stillness of his expression. "None of us walks that path unanchored. That much, at least, I intend to make certain of."
 
-"What kind of paradox," Michael asked, "unmakes a mind?"
+"What kind of paradox unmakes a mind?"
 
 "The kind that offers no answer a mind can actually hold," Azael said. "A question with two true answers that cannot both be true at once. A choice where refusing to choose is itself the choice, and costs exactly as much as choosing wrongly would have. I have walked close enough to that boundary once before, long ago, to know what it does to a will unprepared for it. I do not intend for any of us to learn that lesson the same way I did."
 
@@ -40,17 +40,17 @@ Michael felt the shape of what was being asked of them settle into the silence b
 
 He looked at the three of them together then, a long, level look that Michael found himself unable to hold entirely steady under, and let the silence stretch before he finished it.
 
-"But the anvil," Azael said. "The anvil will be your own souls."
+"But the anvil. The anvil will be your own souls."
 
 No one spoke immediately. The words settled into Michael slowly, the full weight of them arriving only after the first shock had already passed. He had expected sacrifice. He understood, hearing it named this plainly, that he had not yet understood what sacrifice was going to cost any of them.
 
-Ereloth was the first to break the silence, and when he did, his voice carried none of its usual lightness at all. "Well," he said. "I suppose that's one way to make sure none of us walks in half-hearted."
+Ereloth was the first to break the silence, and when he did, his voice carried none of its usual lightness at all. "Well. I suppose that's one way to make sure none of us walks in half-hearted."
 
 "You're allowed to be afraid of it," Azael said, without any particular gentleness attached to the observation, simply stating it as one more plain fact among the others he'd already laid out. "I am, myself, more than I've let any of you see so far. Fear doesn't disqualify a hand from the work. It only means the hand understands what it's actually reaching for."
 
 Ereloth managed something close to his usual grin at that, though it didn't quite reach the rest of his face the way it normally did. "Comforting, coming from you."
 
-"I wasn't attempting comfort," Azael said. "I was attempting honesty. I've found, across a very long life, that the two rarely arrive together."
+"I wasn't attempting comfort. I was attempting honesty. I've found, across a very long life, that the two rarely arrive together."
 
 Thaeriel said nothing, though Michael caught the way his jaw tightened, the particular stillness of a man weighing a cost he'd already half expected to pay and finding the sum somehow heavier than the estimate. He had watched that same stillness settle over Thaeriel once before, in the moment just before he'd walked alone into Dis. Some costs announced themselves early, and made a man carry the weight of them long before the reckoning arrived.
 

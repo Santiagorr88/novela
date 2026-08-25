@@ -16,7 +16,7 @@ Camael guardó silencio el tiempo suficiente como para que Gabriel se preguntara
 
 —Te estoy pidiendo que custodies a gente que intenta no hacerlo —dijo Gabriel—. No es la misma tarea. Tampoco creo que sea más fácil.
 
-Camael lo consideró un rato más, una mano todavía descansando sobre la empuñadura de Ramiel por viejo hábito y no por necesidad real, y algo en sus hombros se aflojó un grado que Gabriel no había visto asentarse ahí ni una sola vez en toda la semana anterior. —No sé lo primero sobre mantener una paz —dijo Camael—. Sé muchísimo más sobre mantener una línea.
+Camael lo consideró un rato más, una mano todavía descansando sobre la empuñadura de Ramiel por viejo hábito y no por necesidad real, y algo en sus hombros se aflojó un grado que Gabriel no había visto asentarse ahí ni una sola vez en toda la semana anterior. —No sé lo primero sobre mantener una paz. Sé muchísimo más sobre mantener una línea.
 
 —Yo tampoco, hace un año —dijo Gabriel—. Supongo que ambos la aprenderemos del mismo modo: mal, al principio, y después algo menos mal.
 

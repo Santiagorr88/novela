@@ -12,7 +12,7 @@ Camael entró sin esperar invitación, cerrando la puerta tras él con el mismo 
 
 Gabriel inclinó la cabeza y se dirigió hacia la puerta sin discusión, Azael siguiéndolo un compás detrás, silencioso como siempre. Camael esperó hasta que la puerta se hubo cerrado del todo antes de volver a hablar, su voz áspera de un modo que Miguel no le había oído antes, desgastada por algo que todavía no había terminado de desgastar, sospechó Miguel.
 
-—Mandé la flota en el Entremedio —dijo Camael—. Vi nuestra luz y su fuego tragados por... nada. —Se detuvo, la mandíbula trabajando una vez antes de continuar—. Mi fe no está en las escrituras ni en la profecía, Miguel. Mi fe está en el muro de escudos. Está en el ángel de pie a mi lado.
+—Mandé la flota en el Entremedio. Vi nuestra luz y su fuego tragados por... nada. —Se detuvo, la mandíbula trabajando una vez antes de continuar—. Mi fe no está en las escrituras ni en la profecía, Miguel. Mi fe está en el muro de escudos. Está en el ángel de pie a mi lado.
 
 Miguel no dijo nada, dejando que el silencio se extendiera en vez de presionar a Camael hacia lo que viniera después. Lo recordaba de un centenar de viejas campañas, un comandante que jamás había desperdiciado una palabra en nada más allá de lo que un informe requiriera estrictamente. Este silencio se sentía distinto de aquella vieja economía, más pesado, y Miguel se descubrió leyéndolo como la calma particular de un hombre que todavía buscaba palabras lo bastante grandes para sostener lo que necesitaba decir.
 
@@ -28,7 +28,7 @@ Camael guardó silencio un momento antes de responder. —Legiones de ambos band
 
 ---
 
-Camael alzó la mano y desabrochó un relicario de acero liso de su cuello, girándolo una vez entre los dedos antes de volver a hablar. —Lo forjé yo mismo —dijo—. A mano, durante la larga vigilia después de que la flota volviera del Entremedio. No fue planeado. Necesitaba algo que hacer con las manos mientras mi mente todavía procesaba lo que habíamos visto allá afuera. El trabajo con metal era lo único que me impedía sentarme en la oscuridad a repetirlo una y otra vez.
+Camael alzó la mano y desabrochó un relicario de acero liso de su cuello, girándolo una vez entre los dedos antes de volver a hablar. —Lo forjé yo mismo. A mano, durante la larga vigilia después de que la flota volviera del Entremedio. No fue planeado. Necesitaba algo que hacer con las manos mientras mi mente todavía procesaba lo que habíamos visto allá afuera. El trabajo con metal era lo único que me impedía sentarme en la oscuridad a repetirlo una y otra vez.
 
 Sostuvo el relicario un momento más antes de abrirlo, los ojos deteniéndose en su carcasa de acero liso más tiempo del que el objeto mismo parecía justificar. Miguel observó la pausa y la leyó, con cautela, como un hombre revisitando un recuerdo que no había mirado tan de cerca en algún tiempo. —He hecho algunas cosas con las manos a lo largo de los siglos. Jamás nada del todo como esta. Todavía no estoy seguro de qué me obligó a conservarla una vez terminada, en vez de dejarla a un lado con todo lo demás de esa noche.
 

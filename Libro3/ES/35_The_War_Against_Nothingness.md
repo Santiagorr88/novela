@@ -6,7 +6,7 @@ Había leído cada informe que describía sus manifestaciones anteriores, más p
 
 ---
 
-Dio la orden sin más vacilación, sin voluntad de dejar que la visión de aquello le costara el impulso que este cruce había gastado tanto en ganar. —Todas las naves, ataquen —dijo, y sintió a la flota responder como un solo cuerpo, cascos dorados y negros avanzando juntos a través del último tramo de espacio abierto que quedaba.
+Dio la orden sin más vacilación, sin voluntad de dejar que la visión de aquello le costara el impulso que este cruce había gastado tanto en ganar. —Todas las naves, ataquen. —Sintió a la flota responder como un solo cuerpo, cascos dorados y negros avanzando juntos a través del último tramo de espacio abierto que quedaba.
 
 Algo viejo y limpio se alzó en él mientras las naves se abrían en sus vectores de ataque, una furia que reconocía de un millar de batallas más pequeñas pero que nunca antes había sentido dirigida contra un blanco de esta magnitud. Había enterrado suficientes soldados como para desconfiar de la ira como estrategia. De todos modos se permitió sentirla, esta vez, porque la alternativa —enfrentar a esta cosa con nada más que cálculo frío— le pareció su propio tipo de rendición.
 
@@ -36,7 +36,7 @@ Había mandado a soldados a través de pérdidas que todavía le pesaban años d
 
 Un crucero de casco negro cerca del flanco de la formación sufrió el mismo destino un momento después, los informes de disposición de su tripulación simplemente cesando a media transmisión, sin grito final, sin restos que marcaran dónde habían estado de pie apenas segundos antes. Camael oyó la voz de Vepar cortar a través del canal compartido un momento después, más afilada que la calma plana que había mantenido en cada intercambio previo entre ellos.
 
-—Perdimos la *Corona Hueca* —dijo Vepar—. Sin aviso. Sin resistencia ofrecida. Simplemente dejó de estar ahí. —Una pausa, breve pero inconfundible, antes de que llegara la siguiente orden—. Cerrad formación. No dejéis que ni una sola nave se aleje lo bastante como para enfrentar esto sola.
+—Perdimos la *Corona Hueca*. Sin aviso. Sin resistencia ofrecida. Simplemente dejó de estar ahí. —Una pausa, breve pero inconfundible, antes de que llegara la siguiente orden—. Cerrad formación. No dejéis que ni una sola nave se aleje lo bastante como para enfrentar esto sola.
 
 ---
 

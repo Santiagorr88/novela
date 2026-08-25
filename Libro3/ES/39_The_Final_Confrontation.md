@@ -10,7 +10,7 @@ La atención del Vacío se desplazó en el instante en que la propia de Azael se
 
 —Sabe que estamos aquí —dijo Thaeriel en voz baja, la voz sin nada de su llaneza habitual, algo más cercano a un desasosiego genuino moviéndose debajo.
 
-—Siempre lo ha sabido —dijo Azael—. Simplemente todavía no había decidido que mereciéramos toda su atención.
+—Siempre lo ha sabido. Simplemente todavía no había decidido que mereciéramos toda su atención.
 
 Estudió la conciencia vasta y paciente un momento más, midiendo lo poco que comprendía sobre algo tan antiguo, pese a todos los años que había pasado estudiando heridas de una u otra clase. Había enfrentado antes el duelo, y la ira, y cada primo menor de la desesperación que ahora volvía su atención hacia ellos. Sospechó, al verla posarse por completo sobre los cuatro ahora, que ninguno de esos encuentros anteriores lo había preparado para algo que no llevaba ira alguna, solo la certeza plana y exhausta de una cosa que simplemente había dejado de creer que algo pudiera cambiar jamás.
 

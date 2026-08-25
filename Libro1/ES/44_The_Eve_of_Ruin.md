@@ -38,7 +38,7 @@ Gabriel encontró a su hermano en un rincón del Bastión bien alejado del páni
 
 Había pasado el trayecto desde la sala de guerra dándole vueltas a exactamente cómo enmarcar lo que había venido a decir, descartando un enfoque tras otro por demasiado forzado o demasiado suave para lo que esta noche exigía. No estaba aquí para ordenarle a su hermano que volviera a una pelea que Miguel tenía todo el derecho de temer. Estaba aquí porque la guerra que en ese momento se deshacía a lo largo de una docena de frentes no le dejaba ninguna alternativa honesta salvo preguntar, y porque sospechaba, leyendo la quietud que se había asentado sobre su hermano, que su hermano ya comprendía la forma de lo que se avecinaba antes de que se cruzara una sola palabra entre ellos.
 
-Gabriel dijo en voz baja: —Tiene la lanza. Los está quebrando.
+Gabriel mantuvo la voz baja. —Tiene la lanza. Los está quebrando.
 
 No lo enmarcó como una orden. Había dado suficientes órdenes a Miguel a lo largo de esta guerra como para saber con precisión cuán poco peso llevaba una orden contra lo que fuera que en ese momento mantenía a su hermano en aquel silencio. Lo que le ofrecía en cambio era simplemente un hecho, entregado sin adornos, un peso que pretendía que su hermano llevara junto a él, no debajo de él.
 
