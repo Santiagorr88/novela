@@ -78,9 +78,9 @@ The thought kept returning uninvited: the commander who had thrown himself betwe
 
 On Earth, in three places that had no reason to notice one another, the same hour turned.
 
-In the quiet upper stacks of Navarion University's library, a young man named Arin Cross went down mid-stride, both hands seizing at nothing, phantom pain lancing through palms that had never once held a spear. He knelt among books scattered across an aisle he didn't remember stumbling into, breath ragged, certain — with no evidence he could point to — that something enormous had just changed shape somewhere far above him.
+In the quiet upper stacks of Navarion University's library, a young man went down mid-stride, both hands seizing at nothing, phantom pain lancing through palms that had never once held a spear. He knelt among books scattered across an aisle he didn't remember stumbling into, breath ragged, certain — with no evidence he could point to — that something enormous had just changed shape somewhere far above him.
 
-In a cramped apartment two continents away, a musician named Milo Ray stopped tuning his guitar mid-string, head tilted, chasing a sound no one else in the room could hear: a low, discordant hum, half-broken and strangely creative, like a chord no instrument on Earth had been built to play. He would spend the rest of the night trying, and failing, to find it again.
+In a cramped apartment two continents away, a musician stopped tuning his guitar mid-string, head tilted, chasing a sound no one else in the room could hear: a low, discordant hum, half-broken and strangely creative, like a chord no instrument on Earth had been built to play. He would spend the rest of the night trying, and failing, to find it again.
 
 And on a mountain no map recorded, a figure who had not opened his eyes in five thousand years opened them.
 
