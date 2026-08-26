@@ -66,6 +66,16 @@ The Council did not deny Uriel's urgency entirely, nor did it grant Gabriel the 
 
 Gabriel accepted the compromise with a nod that told Iofiel he'd expected nothing better and hoped for nothing worse. Uriel accepted it more grudgingly, arms folded in a posture Iofiel read as a man counting it a delay rather than a decision, though he offered no further argument once the room had settled. Zadkiel inclined his head once, apparently satisfied the standard of evidence had been met halfway, and gathered the hammer back into his grip as he rose without another word.
 
+He did not follow the others toward the door. He stayed at Iofiel's end of the table a moment longer than the meeting required, Decretum still loose in one hand, and waited until the room's attention had moved elsewhere before he spoke.
+
+"One more thing, while I have you." His voice carried none of the weight it had held minutes before — flat, procedural, the tone he used for anything he considered administrative rather than urgent. "The reincarnation counts. Last reporting cycle, against the one before it. Do you have the number, or only the estimate?"
+
+Iofiel blinked, caught off guard by how far the question sat from everything the room had just spent an hour arguing about. "The number. Sariel's reports are precise about that, if nothing else." She gave it to him — a modest rise, nothing that would have troubled anyone reading it in isolation.
+
+Zadkiel said nothing for a moment. He did not ask her to repeat it, and he did not explain why he wanted it. "Thank you," he said finally, and turned the number over once more before setting it aside the way he set aside every fact that had not yet earned an explanation. "Keep the next cycle's count ready for me when it comes in."
+
+It was a small enough request that she might have forgotten it by evening. She found that she hadn't. She could not have said what stayed with her about it — only that Zadkiel rarely asked for numbers he did not intend to use, and had given her, this time, no hint at all of what for.
+
 Iofiel watched the three of them disperse toward their separate corners of the room, already speaking with aides about logistics that had nothing to do with the fragment she'd brought here, and felt the strange anticlimax that always follows a decision this hard-won — all that argument, distilled down to a single scout and a quiet nod from three men who would likely not think of this meeting again until the scout's report came back. The meeting broke apart around her in the ordinary, unceremonious way meetings always did, the fragment she had spent weeks uncovering already folded into a single procedural line item on someone else's list.
 
 Iofiel remained behind after the room emptied, her staff still against her shoulder, and let herself sit with the arithmetic of what had just happened.

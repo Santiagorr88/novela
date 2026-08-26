@@ -1,5 +1,23 @@
 # Chapter 45 — The Despairing Front
 
+The night before the line formed, Camael found Jeremiel exactly where he expected to find him — seated on an overturned crate near the picket fires, Iustitia laid bare across his knees, a whetstone moving in slow, familiar strokes along its edge. It was the same stone Jeremiel had been carrying for longer than either of them could accurately place anymore — borrowed, by Jeremiel's own account, from Camael's own kit some three campaigns back, and never once returned despite Camael's regular, half-serious demands for it.
+
+"You're still carrying that," Camael said, more statement than question, settling onto the crate beside him.
+
+"You're still asking for it back." Jeremiel didn't look up from the blade. "One of these days I might actually give it to you. Ruin the whole arrangement."
+
+It was an old joke between them, worn as smooth as the stone itself — Camael pretending each time to want it returned, Jeremiel pretending each time to consider it, neither of them ever following through, because the asking had become its own kind of ritual, steadier than either of them would have admitted aloud. Camael held out his hand anyway, tonight, on impulse he didn't examine too closely.
+
+Jeremiel studied the offered hand a moment, then set the whetstone into it — not tossed, not handed off carelessly, but placed, the way a man sets down something he means to be careful with. "Keep it a night, then," he said. "You can give it back tomorrow, once this is over."
+
+"And if I decide to keep it instead?"
+
+"Then I'll know exactly where to find it." Jeremiel picked Iustitia back up, testing the edge against his thumb, satisfied. "You've never once kept anything of mine you didn't mean to give back eventually."
+
+Camael turned the stone once in his palm, feeling the worn hollow at its center where two men's hands had shaped it smoother than it had any right to be, and said nothing, because there was nothing in that particular silence that needed saying.
+
+---
+
 Camael held the center of the line with the Unbroken arrayed on either side of him, veterans every one, disciplined past the point where fear had ever found lasting purchase in any of them. Weapons steady, formation unbroken, every soldier along this stretch of the defensive perimeter held the place centuries of drill had taught them to hold, waiting on a fight their years in the line had trained them to want.
 
 He felt no dread in the waiting, only the familiar, coiled readiness that preceded every battle he had led them into. Whatever Belial intended to throw against this line, Camael trusted the Unbroken to meet it the way they'd met every threat before — force answered by greater force, an equation that had held, without exception, across this war.

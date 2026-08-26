@@ -1,5 +1,19 @@
 # Capítulo 33 — El Precio de la Ausencia
 
+Nocthel había reunido a los reclutas una hora antes del amanecer, en el anfiteatro excavado en la roca negra bajo los propios salones de Foras, porque una convocación realizada ante una audiencia de uno no enseñaba nada, y una convocación realizada ante una audiencia de cuarenta podía, si se ejecutaba correctamente, convertirse en el tipo de historia que los soldados repetirían durante un siglo. Había ensayado la invocación de la forma en que ensayaba cada invocación: en voz alta, a solas, tres veces la noche anterior, cada pasada añadiendo un adorno que su voz nunca habría logrado justificar si no lo hubiera ensayado antes.
+
+Alzó Lur a sus labios con ambas manos, sosteniendo la pausa un latido más de lo que el ritual estrictamente exigía, y dejó que la primera nota recorriera la longitud del anfiteatro antes de que la segunda se le uniera. Los reclutas se quedaron en silencio de esa forma particular en que los reclutas se quedan en silencio ante algo que todavía no saben si temer. Nocthel había querido que, para la tercera nota, ya tuvieran su respuesta.
+
+Lo que respondió, en cambio, era pequeño.
+
+Llegó bajo, a ras del suelo del anfiteatro, más insecto que entidad, sus muchas patas repiqueteando contra la roca negra en un ritmo que ninguna invocación había especificado, y avanzó directo hacia las botas de Nocthel con lo que solo podía leerse, incluso para un demonio poco inclinado a leer nada tan ordinario como la intención de un animal, como hambre. La segunda nota de Nocthel murió en algún punto de su garganta. Retrocedió un paso, la túnica enganchándose torpemente en la campana del cuerno, y los reclutas —cuarenta de ellos, silenciosos un momento antes por pavor— rompieron en una risa que ningún rango de la corte del Infierno tenía autoridad para sofocar.
+
+Recuperó suficiente compostura para desterrar a la criatura antes de que le alcanzara el tobillo, y salvó la dignidad que le quedaba declarando, ante nadie que le creyera, que el ejercicio había puesto a prueba la disciplina de los reclutas bajo una variable inesperada. La corte de Foras encontró considerablemente más graciosa la versión sin la declaración, y la contó durante casi una semana.
+
+Malthus, cruzando la pasarela superior del anfiteatro camino a los asuntos de su propia mañana, alcanzó a ver el final con medio ojo y no rompió el paso. Tenía corrientes más grandes que leer que el orgullo herido de un Heraldo.
+
+---
+
 Malthus sintió el cambio en la corte del Infierno a los pocos días del regreso de Belial con Lamentum, mucho antes de que nadie en el séquito de Foras se atreviera a pronunciar en voz alta la palabra debilidad, y mucho antes de que el propio Foras pareciera notarlo. Llegó de la forma en que estas cosas siempre llegaban entre los de su especie, no como desafío abierto sino como un sutil recálculo en cómo los demás se portaban en presencia de su señor —una fracción menos de deferencia en una reverencia, una fracción más de confianza en los mensajeros que antes habrían esperado a ser convocados—. Malthus había servido a Foras con lealtad a través de siglos de cortes no más tranquilas que esta, y la lealtad, en su experiencia, no era excusa para la ceguera ante aquello de lo que se suponía debía proteger.
 
 Foras seguía siendo exactamente el comandante que siempre había sido. La percepción que la corte tenía de él era un asunto separado, y la percepción, desatendida, tenía una forma de convertirse en su propia realidad sin importar la verdad debajo de ella. Malthus había visto a cortes girar por mucho menos que una sola derrota humillante —no porque un señor hubiera fallado a su séquito, sino porque suficientes demonios habían calculado, cada uno por su cuenta, que la apuesta más segura yacía en otra parte—. No tenía intención de dejar que esa aritmética siguiera su curso sin oposición.

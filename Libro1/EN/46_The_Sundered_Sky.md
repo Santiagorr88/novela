@@ -18,6 +18,18 @@ Raphael worked without pause inside a celestial infirmary hastily converted into
 
 He knelt beside a soldier who had arrived among the first wave, a veteran he recognized from campaigns far older than tonight's crisis, and pressed Veritas gently against a chest that rose and fell steadily despite the emptiness written across the soldier's face. The staff's light found what remained of the man's will to continue and coaxed it, gradually, back toward presence. It was slow work, slower than any physical healing Raphael had ever performed, and he gave it the same patient attention regardless, aware that rushing this kind of restoration risked losing whatever fragile progress each careful minute bought.
 
+He moved to the next soldier before the thought could settle further, and found this one waiting for him already braced, not in relief but in something closer to refusal. The soldier's hand came up as Veritas's light reached for him, closing around the staff's shaft and pushing it firmly aside — not a flinch, not the reflex of a man in pain, but a deliberate, steady rejection Raphael had rarely met from anyone he'd come to heal.
+
+"Leave it," the soldier said, low enough that it barely carried past the two of them. His eyes were dry now, though the tracks of earlier tears still marked his face. "I don't want it gone yet."
+
+Raphael held the staff where it was, neither withdrawing it nor pressing forward. "It isn't punishment, what you're carrying. There's no virtue in keeping it."
+
+"I know that." The soldier's jaw tightened. "One of ours went down beside me tonight. If this goes quiet" — he nodded, barely, at his own chest — "he goes with it. I'm not ready to let go of both at once."
+
+It was not, Raphael understood, a refusal born of fear, and nothing in his long service had ever taught him to press past a soul that knew exactly what it was choosing and chose it anyway. He had healed grief before by simply outlasting a man's resistance to it, patient work that eventually won through even the most stubborn refusals. This felt different, and he trusted the difference enough not to test it.
+
+He withdrew Veritas without another word, no argument, no further offer of the light the soldier had just refused. He stayed a moment longer than the refusal strictly required, kneeling there in a silence that asked nothing further of either of them, and let the soldier keep what he had chosen to keep. Then he rose, and moved on to the next soldier waiting in the line, carrying the small, unresolved weight of a man he hadn't been permitted to help.
+
 He felt the losing shape of the battle even here, removed as this sanctuary was from the fighting itself, in the sheer volume of soldiers arriving faster than he could restore them, each new arrival adding to a queue that showed no sign of shortening no matter how steadily he worked. He had faced overwhelming tides before across his long service, had always found some way to hold a line through sheer, unglamorous persistence. Tonight offered him nothing so encouraging.
 
 He glanced up, briefly, at the line of newly arrived soldiers still waiting for whatever attention he could eventually spare, and calculated, with the same clear-eyed honesty he brought to any hard assessment, exactly how far behind that arithmetic had left him. For every soul he coaxed back from the hollow it had left behind, two more arrived in the same condition. He returned his attention to the soldier under Veritas's glow rather than dwell on the calculation, understanding that however much ground he was losing elsewhere, the soul in front of him still deserved the whole of his attention.

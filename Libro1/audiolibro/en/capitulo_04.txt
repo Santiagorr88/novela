@@ -42,6 +42,22 @@ Camael had wagered ten on Miguel fumbling the blade, sure enough of it at the ti
 
 He crossed the cleansed ground to reach him, his boots the first to disturb the pale dust since it had settled. He approached anyway, because approaching was his duty, and offered the kind of blunt congratulation that came naturally to him. Miguel accepted it with a nod that felt, to Camael, both entirely familiar and subtly wrong — the same economy of movement Miguel had always carried into a victory, but underneath it now a stillness that unsettled Camael more than the swing itself had. He did not say this aloud. There would be time later to decide whether the unease was worth voicing. For now there was only the walk back, retracing the same ridge they had crested an hour before with an entirely different expectation of what they would find, and the soldier beside him, uncharacteristically quiet, no longer interested in collecting on the wager either of them had made.
 
+Uriel was waiting at the war room's outer door when Camael reached it, one shoulder against the frame, arms crossed in a way that meant he'd been standing there on purpose rather than passing through. "I hear a green transfer took ten off you and hasn't had the nerve to collect."
+
+"Word travels."
+
+"Word travels exactly that fast when a commander loses a wager in front of half a garrison." Uriel fell into step beside him, grinning. "I'll give you a better one. Zaphor'el falls in six days. Not five, not seven. Six."
+
+"Everyone in the garrison already expects days, not months." Camael did not break stride. "That's not a wager. That's just agreeing with the mood out loud."
+
+"Then put weight behind it. Twenty, on six exactly." Uriel held out his hand before Camael had agreed to anything, the way he offered most things — already certain, already moving.
+
+Camael looked at the hand a moment longer than the offer strictly required. He had just watched a soldier decline to collect a debt owed him fair and square, and some part of him, still raw from a sword he'd been sure would fumble and hadn't, did not much want to be proven wrong about anything else this week. "Twenty," he said anyway, and took the hand, because turning Uriel down in a doorway had never once been worth the argument that followed refusing him. "You're a fool if you think a number that clean survives contact with a real siege."
+
+"Everyone's a fool until the number's right." Uriel clapped him once on the shoulder and went on ahead toward the doors, already certain, the way he was certain about most things until the moment he wasn't.
+
+Neither of them mentioned it again. Not that week, not once in all the days the offensive actually took. Whatever became of it, later, neither man said — and neither man asked.
+
 The war room felt different with Solmire present, though Camael, arriving late and taking his place along the wall, could not immediately say why. The room itself had not changed — the same long table scarred by centuries of maps pinned and unpinned, the same tired lamps along the walls — but something in how the others sat around it had shifted, a subtle reordering of attention that all pointed now toward the man at its head.
 
 Miguel stood there, the sword resting point-down against the floor beside him, and laid out the plan to reclaim Zaphor'el with a confidence that filled the room before he had finished a single sentence.

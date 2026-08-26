@@ -66,6 +66,16 @@ El Consejo no negó del todo la urgencia de Uriel, ni le concedió a Gabriel tod
 
 Gabriel aceptó el compromiso con un gesto que le dijo a Iofiel que no había esperado nada mejor ni temido nada peor. Uriel lo aceptó de mala gana, los brazos cruzados en una postura que Iofiel leyó como la de un hombre que lo contaba como una demora en lugar de una decisión, aunque no ofreció más argumentos una vez que la sala se hubo asentado. Zadkiel inclinó la cabeza una vez, aparentemente satisfecho de que el estándar de evidencia se hubiera cumplido a medio camino, y recogió el martillo de vuelta en su puño al levantarse sin otra palabra.
 
+No siguió a los demás hacia la puerta. Se quedó junto al extremo de la mesa donde estaba Iofiel un momento más de lo que la reunión exigía, Decretum todavía suelto en una mano, y esperó a que la atención de la sala se desplazara hacia otra parte antes de hablar.
+
+—Una cosa más, ya que la tengo aquí. —Su voz no cargaba nada del peso que había tenido minutos antes: plana, procedimental, el tono que usaba para cualquier cosa que considerara administrativa en vez de urgente—. Las cifras de reencarnación. El último ciclo de reportes, contra el anterior. ¿Tiene el número, o solo la estimación?
+
+Iofiel parpadeó, tomada por sorpresa ante lo lejos que estaba la pregunta de todo lo que la sala acababa de pasar una hora discutiendo. —El número. Los informes de Sariel son precisos en eso, si en nada más. —Se lo dio: un aumento modesto, nada que hubiera inquietado a nadie que lo leyera aislado.
+
+Zadkiel no dijo nada por un momento. No le pidió que lo repitiera, y no explicó para qué lo quería. —Gracias —dijo por fin, y le dio otra vuelta al número antes de dejarlo a un lado del modo en que dejaba a un lado todo hecho que aún no se había ganado una explicación—. Tenga listo el conteo del próximo ciclo cuando llegue.
+
+Era una petición lo bastante pequeña como para que la hubiera olvidado hacia el anochecer. Descubrió que no. No habría sabido decir qué la hizo quedarse con ella —solo que Zadkiel rara vez pedía números que no pensaba usar, y esta vez no le había dado ninguna pista de para qué.
+
 Iofiel observó a los tres dispersarse hacia sus rincones separados de la sala, ya hablando con ayudantes sobre logística que no tenía nada que ver con el fragmento que había traído aquí, y sintió el extraño anticlímax que siempre sigue a una decisión tan difícilmente ganada —toda esa discusión, destilada finalmente en un único explorador y un asentimiento silencioso de tres hombres que probablemente no volverían a pensar en esta reunión hasta que llegara el informe del explorador—. La reunión se disolvió a su alrededor del modo ordinario y sin ceremonia en que siempre se disuelven las reuniones, el fragmento que había pasado semanas descubriendo ya plegado en una sola línea procedimental en la lista de otra persona.
 
 Iofiel se quedó atrás una vez que la sala se vació, el bastón todavía contra su hombro, y se permitió sentarse con la aritmética de lo que acababa de suceder.

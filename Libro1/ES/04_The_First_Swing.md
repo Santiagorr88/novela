@@ -42,6 +42,22 @@ Camael había apostado diez a que Miguel dejaba caer la hoja, lo bastante seguro
 
 Cruzó el terreno purificado para llegar hasta él, sus botas las primeras en perturbar el polvo pálido e intacto desde que se había asentado. Se acercó de todos modos, porque acercarse era su deber, y ofreció el tipo de felicitación directa que le salía con naturalidad. Miguel la aceptó con un gesto de cabeza que le pareció a Camael, a la vez, enteramente familiar y sutilmente equivocado —la misma economía de movimiento que Miguel siempre había llevado consigo hacia una victoria, pero debajo de ella ahora una quietud que inquietó a Camael más que el golpe mismo—. No lo dijo en voz alta. Habría tiempo después, se dijo, para decidir si la inquietud valía la pena expresarla. Por ahora solo estaba el camino de regreso, recorriendo de nuevo la misma cresta que habían coronado una hora antes con una expectativa enteramente distinta de lo que encontrarían, y el soldado a su lado, inusualmente callado, ya sin interés en cobrar la apuesta que ambos habían hecho.
 
+Uriel esperaba junto a la puerta exterior de la sala de guerra cuando Camael llegó, un hombro apoyado contra el marco, los brazos cruzados de un modo que decía que llevaba ahí un rato a propósito y no de paso. —Me dicen que un transferido verde te sacó diez y no ha tenido el valor de cobrarlos.
+
+—Las noticias vuelan.
+
+—Vuelan justo así de rápido cuando un comandante pierde una apuesta delante de media guarnición. —Uriel cayó en su paso, sonriendo—. Te doy una mejor. Zaphor'el cae en seis días. Ni cinco, ni siete. Seis.
+
+—Ya toda la guarnición espera días, no meses. —Camael no rompió el paso—. Eso no es una apuesta. Eso es solo estar de acuerdo con el ambiente en voz alta.
+
+—Entonces ponle peso encima. Veinte, a que son seis exactos. —Uriel tendió la mano antes de que Camael hubiera aceptado nada, del modo en que ofrecía la mayoría de las cosas: ya seguro, ya en movimiento.
+
+Camael miró la mano un momento más de lo que la oferta exigía en realidad. Acababa de ver a un soldado negarse a cobrar una deuda que le debían limpiamente, y alguna parte de él, todavía escaldada por una espada que había estado seguro que fallaría y no había fallado, no tenía muchas ganas de equivocarse en algo más esta semana. —Veinte —dijo de todos modos, y estrechó la mano, porque negarle algo a Uriel en un pasillo nunca había valido la discusión que seguía a negárselo—. Eres un tonto si crees que un número tan limpio sobrevive el contacto con un asedio de verdad.
+
+—Todos son tontos hasta que el número acierta. —Uriel le dio una palmada en el hombro y siguió de largo hacia las puertas, ya seguro, del modo en que estaba seguro de la mayoría de las cosas hasta el momento en que dejaba de estarlo.
+
+Ninguno de los dos volvió a mencionarlo. Ni esa semana, ni una sola vez en todos los días que en realidad duró la ofensiva. En qué terminó, más tarde, ninguno de los dos lo dijo —y ninguno de los dos preguntó.
+
 La sala de guerra se sentía distinta con Solmire presente, aunque Camael, llegando tarde y ocupando su lugar junto al muro, no habría podido decir de inmediato por qué. La sala misma no había cambiado —la misma mesa larga marcada por siglos de mapas fijados y retirados, las mismas lámparas cansadas a lo largo de los muros— pero algo en cómo se sentaban los demás a su alrededor se había desplazado, un sutil reordenamiento de la atención que ahora apuntaba todo hacia el hombre a la cabecera.
 
 Miguel estaba ahí de pie, la espada descansando con la punta hacia abajo contra el suelo a su lado, y expuso el plan para recuperar Zaphor'el con una confianza que llenó la sala antes de que hubiera terminado una sola frase.

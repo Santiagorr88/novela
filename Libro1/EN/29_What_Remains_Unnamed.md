@@ -43,3 +43,13 @@ The struck-through working transcription went into the archive's deepest records
 It would remain there, Daith supposed, until further evidence made a defensible reading possible — not lost, not destroyed, only unresolved. Someday, perhaps, someone might possess enough evidence and understanding to finish what the two of them had chosen, deliberately, to leave undone.
 
 Daith closed the record drawer himself that evening, the small metal click of it settling into place feeling, for reasons he did not examine too closely, more final than the sound alone should have carried. Whoever eventually opened this drawer again, he thought, it would not be him. That would have to be someone else's discovery to make.
+
+---
+
+Iofiel remained in her chambers long after Daith and Kurel's footsteps had faded down the corridor, the hymn's fair copy still open on the table where she'd set it after filing the rest of the day's reports. She read the redacted stanza once more, the single editorial word standing in for whatever the corrupted line had actually carried. *Illegible.* She had accepted the word from Kurel and Daith without pressing further, the same way she accepted a hundred such words a year from a hundred other archivists — a judgment call made by people she trusted to make it honestly, in a discipline old enough that she had long since stopped expecting every fragment recovered whole.
+
+She drew Memnón across the page's edge, not invoking the staff's working, only resting it there the way she sometimes did when a thought needed company rather than magic. The gesture told her nothing the staff wasn't asked to tell. It steadied her anyway.
+
+She opened the drawer where the day's reports would join the rest of the archive's permanent record, and paused with the hymn's fair copy still in her hand. Somewhere in this room, in the shelves stretching beyond it, in the deeper vaults below the scriptorium she had never fully catalogued in all her centuries of trying, other reports carried that same word. She had never counted them. She found herself wanting to now, and immediately after, wondering what the number would actually tell her if she had it — how many drawers in this archive held that same single word standing in for something no one had ever gone back to recover, and whether anyone, in a hundred years or a thousand, would ever open one of them again.
+
+She filed the hymn where it belonged, beside every other report her archive held that admitted, in its own careful language, to not quite knowing what it had failed to preserve. She closed the drawer. The question outlived the gesture, the way it always did, and she let it, because she had no better place to put it than the same silence the stanza itself had been given.
