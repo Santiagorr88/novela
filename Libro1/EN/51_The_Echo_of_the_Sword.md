@@ -40,7 +40,7 @@ Gabriel exhaled like the word cost him a wing. "Miguel will fall into that world
 
 "Then send someone to look for it," Uriel said. "The sword. Solmire doesn't need a war to be found — it needs a search party and enough patience to comb an entire world."
 
-"And when we find it," Iofiel said, "who carries it? None of us were meant to. It answered to him and to no one else — you saw what it did to lesser hands in the old records. A search that ends in the wrong grip could cost us worse than losing it altogether."
+"And when we find it," Iofiel said, "who carries it? None of us were meant to. It answered to whoever it had chosen to carry it, and to no one else — you saw what it did to hands it hadn't chosen, in the old records. A search that ends in the wrong grip could cost us worse than losing it altogether."
 
 "So we do nothing." Uriel's spear-tip stopped its pacing groove and struck the marble once, sharp.
 
@@ -60,7 +60,7 @@ He had reached for Solmire too, over Miguel's fallen body, certain that a victor
 
 The spear, at least, had not refused him. It simply would not let him rest either — its runes shifting slow and restless against his leg, a black hum threading up through his arm and into the base of his skull, a silence that was waiting to become sound again.
 
-He had won. He told himself that in the particular tone one uses on a fact that no longer feels like enough.
+He had won. Lucifer had won it for him and let him keep the word. He told himself that in the particular tone one uses on a fact that no longer feels like enough.
 
 The lieutenant stopped ten paces out. Those who came closer rarely did it twice. "The Host awaits orders. No one has claimed command."
 

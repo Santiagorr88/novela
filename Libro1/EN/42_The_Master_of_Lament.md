@@ -49,3 +49,21 @@ He had spent the days since testing it against opponent after opponent, refining
 "We will not break their shields," he said, his voice carrying easily across the assembled ranks, Lamentum's edge catching what little light the fortress offered and turning it the color of old grief. "We will break their hearts."
 
 The legions answered with a roar that shook the fortress walls. Belial felt, standing at their head with the spear finally answering his will, more satisfaction than peace — a war he hadn't yet finished fighting against the weapon in his own hand, folded now into the war he intended to win against everyone still foolish enough to stand against him.
+
+He found Lucifer in the throne room rather than the library, a distinction worth noting before he crossed the threshold. His king received him among a scatter of courtiers too well trained to listen openly to anything they hadn't been invited to hear, seated with the loose, unbothered elegance of someone who had never once needed to sit up straighter to be taken seriously. The hall's ordinary murmur thinned to nothing the moment Belial's shadow crossed the doorway, courtiers finding somewhere else to look, the whole room settling into a stillness built entirely around the man on the dais.
+
+Belial knelt and set Lamentum across both palms, point turned aside, haft toward his king.
+
+Lucifer studied the spear a long moment before he studied its bearer. "The weapon that broke a dozen garrisons in a single night," he said, without a trace of mockery, which somehow made it worse, "and its master kneels to hand it away. Tell me why."
+
+"It answers to Hell." Belial kept his eyes on the haft rather than the man above him. "It should answer to Hell's throne."
+
+"You spent weeks learning to survive her. Weeks I watched you master a grief no other hand in my service could have carried an hour." Lucifer rose, and crossed the short distance between them unhurried, black wings pulling what little light the hall held toward him rather than away. "Ambitious men do not usually give away the one thing that finally made them irreplaceable."
+
+Belial said nothing. There was no answer that wouldn't have cost him more than the silence did.
+
+Lucifer's fingers closed around the haft, just above Belial's own, and did not immediately take the weight. "Loyal ones don't, either. Which leaves me curious which of the two I'm currently watching kneel in front of me." He lifted the spear free at last. Belial felt the absence of it before he registered that his own fingers had opened — a lightness where the grief-weight had sat for weeks, gone in a single motion, and beneath the relief, something that felt uncomfortably close to loss.
+
+"I told you once there were old songs about weapons like this." Lucifer turned the spear in his own grip, testing a weight he had never carried before. "I find I would rather hold the answer than hear it secondhand. They will not expect me on that field, and that alone is worth more than one more Lord bleeding himself dry against Heaven's Champion for a victory the histories will forget by the second age." His gaze had already drifted past Belial, toward the doors. "You found her. You broke her to your will before I ever took an interest. That will not go unremembered, whatever field she ends this war on."
+
+Belial bowed his head, and told himself the gesture was gratitude, and did not entirely believe it. He had spent weeks learning to survive the one weapon that had made him feared by his own officers, and had just knelt, of his own choosing, to hand the whole of that mastery to the one throne even his ambition had never once considered challenging. It was obedience, offered freely and without complaint, exactly as it always had been. It cost him more than any of the weeks he'd spent bleeding for her in the training hall, and he left the throne room telling himself the cost had been worth it — in the same tone he would later use, on a distant ash-grey plain, to tell himself he had won.

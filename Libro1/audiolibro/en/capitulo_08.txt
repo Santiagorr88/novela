@@ -42,7 +42,7 @@ He had come here seeking connection, the way he always had before, on nights whe
 
 Raphael had not yet left when the thought finally forced its way out of Miguel, quieter than he intended, almost involuntary, the words escaping some guarded place before he had fully decided to speak them. "If I fall, do I return knowing who I was? Or does the cycle take that too?"
 
-Raphael set his staff carefully aside and lowered himself to sit nearer the altar, considering the question with the particular care he gave to anything Miguel asked in this kind of voice. "The cycle isn't cruel, Miguel. It's only honest. What comes back isn't what left. It's what left, beginning again."
+Raphael set his staff carefully aside and lowered himself to sit nearer the altar, considering the question with the particular care he gave to anything Miguel asked in this kind of voice. "The cycle isn't cruel, Miguel. It's only honest. Divine Law made it so: what comes back isn't what left. It's what left, beginning again."
 
 Miguel turned that answer over for longer than he wanted to admit needing to, the plain words settling somewhere he had not expected them to land. It offered no comfort, and he understood, hearing it, that it had not been meant to. "That's not an answer that actually helps."
 

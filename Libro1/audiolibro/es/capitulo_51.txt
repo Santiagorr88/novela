@@ -40,7 +40,7 @@ Gabriel exhaló como si la palabra le costara un ala. —Miguel caerá a ese mun
 
 —Entonces envíen a alguien a buscarla —dijo Uriel—. La espada. Solmire no necesita una guerra para ser encontrada, necesita una partida de búsqueda y la paciencia suficiente para peinar un mundo entero.
 
-—Y cuando la encontremos —dijo Iofiel—, ¿quién la carga? Ninguno de nosotros estaba destinado a hacerlo. Le respondía a él y a nadie más; ya vieron lo que les hizo a manos menores en los registros antiguos. Una búsqueda que termine en el puño equivocado podría costarnos peor que perderla del todo.
+—Y cuando la encontremos —dijo Iofiel—, ¿quién la carga? Ninguno de nosotros estaba destinado a hacerlo. Le respondía a quien había elegido para llevarla, y a nadie más; ya vieron lo que les hizo a las manos que no había elegido, en los registros antiguos. Una búsqueda que termine en el puño equivocado podría costarnos peor que perderla del todo.
 
 —Entonces no hacemos nada. —La punta de la lanza de Uriel detuvo su surco de ir y venir y golpeó el mármol una vez, seca.
 
@@ -60,7 +60,7 @@ Lejos del templo, en una hondonada que los demonios ya habían empezado a llamar
 
 La lanza, al menos, no lo había rechazado. Pero tampoco lo dejaba descansar —sus runas desplazándose lentas e inquietas contra su pierna, un zumbido negro enhebrándose hacia arriba por su brazo hasta la base del cráneo, un silencio que esperaba para volver a convertirse en sonido.
 
-Había ganado. Se lo dijo a sí mismo en el tono particular que se usa para un hecho que ya no se siente suficiente.
+Había ganado. Lucifer lo había ganado por él y le había dejado quedarse con la palabra. Se lo dijo a sí mismo en el tono particular que se usa para un hecho que ya no se siente suficiente.
 
 El teniente se detuvo a diez pasos. Los que se acercaban más no solían hacerlo dos veces. —La Hueste espera órdenes. Nadie ha reclamado el mando.
 

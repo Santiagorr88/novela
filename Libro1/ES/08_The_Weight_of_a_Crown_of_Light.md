@@ -42,7 +42,7 @@ Había venido buscando conexión, del modo en que siempre lo había hecho antes,
 
 Rafael todavía no se había marchado cuando el pensamiento finalmente se abrió paso fuera de Miguel, más callado de lo que pretendía, casi involuntario, las palabras escapando de algún lugar resguardado antes de que hubiera decidido del todo pronunciarlas. —Si caigo, ¿regreso sabiendo quién fui? ¿O el ciclo se lleva eso también?
 
-Rafael dejó su báculo con cuidado a un lado y se sentó más cerca del altar, considerando la pregunta con el cuidado particular que reservaba para cualquier cosa que Miguel preguntara con ese tono de voz. —El ciclo no es cruel, Miguel. Solo es honesto. Lo que regresa no es lo que partió. Es lo que partió, comenzando de nuevo.
+Rafael dejó su báculo con cuidado a un lado y se sentó más cerca del altar, considerando la pregunta con el cuidado particular que reservaba para cualquier cosa que Miguel preguntara con ese tono de voz. —El ciclo no es cruel, Miguel. Solo es honesto. La Ley Divina lo dispuso así: lo que regresa no es lo que partió. Es lo que partió, comenzando de nuevo.
 
 Miguel le dio vueltas a esa respuesta más tiempo del que quería admitir necesitar, las palabras sencillas asentándose en un lugar donde no había esperado que cayeran. No ofrecía consuelo, y comprendió, al oírla, que no había sido esa la intención. —Esa no es una respuesta que en realidad ayude.
 

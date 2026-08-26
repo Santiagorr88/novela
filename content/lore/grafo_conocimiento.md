@@ -29,7 +29,7 @@
 | # | Hecho | Estado final |
 |---|-------|--------------|
 | H1 | Solmire forjada por Ereloth, por alegría pura | Conocido por los cuatro del Nexo + Consejo (L3/22) + Codex (L3/47) |
-| H2 | Lamentum forjada por Thaeriel, robada por Belial | Ídem; Belial lo aprende del propio Thaeriel en el duelo (L3/19). **Lucifer nunca lo sabe** (L2/10, sostenido toda la obra) |
+| H2 | Lamentum forjada por Thaeriel, robada por Belial | Ídem; Belial lo aprende del propio Thaeriel en el duelo (L3/19). **Lucifer nunca lo sabe** (L2/10, sostenido toda la obra). Matiz (2026-08-26): Lucifer la portó brevemente en el duelo final de Libro I (B1C47-48) — sintió su pena, jamás su origen ni su forjador; el arma le comunicó sensación, no conocimiento, igual que le había ocurrido a Belial durante sus semanas de entrenamiento (cap. 42). Su investigación de L2/10 nace de esa inquietud sin resolver, no la resuelve |
 | H3 | Aetheris existe, rota, de Azael | Revelada en L3/17; reforjada en L3/38 |
 | H4 | Las armas son pre-Judgment | Cadena: Iofiel (L1/43) → Miguel+Gabriel (L1/44) → Consejo (L2/26→46) → todos |
 | H5 | Ubicación de cada arma por época | Tablas por época en kg1; destinos finales limpios (colina / Sepulcro / equilibrio) |

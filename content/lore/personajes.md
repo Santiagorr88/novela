@@ -1304,6 +1304,7 @@
 - **Weapon:** None fixed — gestures, words and occult sigils make the very world obey.  
 - **Personality:** Charismatic, elegant, ruthlessly manipulative; preaches absolute freedom.  
 - **Combat Style:** Never strikes head‑on; corrupts, divides and deceives, often posing as an ally until the truth comes too late.  
+- **The documented exception:** Lucifer does not fight — this is a fixed point of his character, not an unwritten habit. When he takes the field himself, once in an age, both armies read it as a declaration: whatever is about to happen matters more than his usual distance can afford. He carried Lamentum, briefly, to duel and kill Miguel in Book I's climax (B1C47–48) — Belial's spear, taken from Belial's own hand the night before the battle — and ceded it back to Belial immediately afterward. He did not keep it, and did not linger on the field once the duel ended. It remains the only recorded instance of Lucifer fighting a war in person.
 
 ---
 
@@ -2034,6 +2035,7 @@
 - **Weapon:** *Dubium* — Mace that strikes the soul; each impact does more than physical harm: it injects doubt.  
 - **Personality:** Narcissistic, cruel strategist; convinced power is the sole real tongue.  
 - **Combat Style:** Warlord. Commands from the front and feeds on his enemies’ ego.  
+- **Lamentum:** Found and claimed the spear at the Weeping Sepulcher, and was the one who mastered her grief through weeks of costly training (B1C21–42). Handed her to Lucifer on the eve of Book I's climax — obedience and ambition offered in the same gesture — so that his king, not he, fought and killed Miguel with her. Lucifer returned Lamentum to him immediately after, a reward for the finding and the mastering that Belial never earned back through combat. He carries her again from that point on, including into Books II and III.
 
 ---
 
