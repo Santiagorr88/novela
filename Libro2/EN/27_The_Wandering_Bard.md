@@ -1,6 +1,6 @@
 # Chapter 27 — The Wandering Bard
 
-Milo Ray sat cross-legged on the grass near the university's main gate, barefoot despite the cool of the afternoon, his cracked guitar balanced across one knee. His sun-bleached hair had gone loose from whatever knot he'd tied it into that morning, and he hadn't bothered fixing it. He played without any particular audience in mind, the way he always played, letting a chord find its own shape before he decided whether to follow it or abandon it for another.
+Milo Ray sat cross-legged on the grass near the university's main gate, barefoot despite the cool of the afternoon, his cracked guitar balanced across one knee. His sun-bleached hair had gone loose from the knot he'd tied it into that morning, and he hadn't bothered fixing it. He played without any particular audience in mind, the way he always played, letting a chord find its own shape before he decided whether to follow it or abandon it for another.
 
 A withered flower drooped in a chipped clay pot someone had left forgotten on the low wall beside him, its petals brown and curled at the edges, abandoned there by some student who'd given up on it weeks ago and never gotten around to throwing it out. Milo let his fingers land on a chord that had nothing especially remarkable about it to anyone listening.
 
@@ -8,15 +8,15 @@ The flower straightened. Color bled back into its petals in a slow, unhurried bl
 
 Students passed along the gravel path behind him in ordinary streams, most of them too absorbed in their own conversations to spare the music more than a passing glance, and none of them noticed the flower. That suited him fine. He had never done any of this for the noticing.
 
-He did this often, in whatever city he happened to be passing through, at whatever hour the mood found him — a chord here, a small kindness there, spent on flowers and strangers alike without any particular accounting of the cost. He never kept careful track of how much of himself he gave away this way. Counting it had always felt, to him, like the fastest way to stop wanting to give it.
+He did this often, in whatever city he happened to be passing through, at any hour the mood found him — a chord here, a small kindness there, spent on flowers and strangers alike without any particular accounting of the cost. He never kept careful track of how much of himself he gave away this way. Counting it had always felt, to him, like the fastest way to stop wanting to give it.
 
 ---
 
-A student dropped onto the bench nearby some while later, the particular collapsed posture Milo read as someone who had been running on caffeine and deadline panic for longer than was healthy. He didn't ask permission to sit close enough to listen. Milo never minded when they didn't. He shifted the song without announcing the shift, something looser now, something with more air in it.
+A student dropped onto the bench nearby some while later, the particular collapsed posture Milo read as someone who had been running on caffeine and deadline panic for longer than was healthy. He didn't ask permission to sit close enough to listen. Milo never minded when they didn't. He shifted the song without announcing the shift — looser now, more air in it.
 
 "You know the pigeons outside the library have tenure," Milo said, mid-chord, not looking up from the strings. "Nobody's seen a syllabus from any of them in years, and the university still hasn't found the paperwork to let them go." He let the line sit a beat before he finished it. "I asked one for its office hours once. It told me Thursdays, which is either a very specific lie or the most honest thing anyone on this campus has told me all semester."
 
-The student laughed despite himself, the reluctant, surprised laugh of someone who hadn't planned on finding anything funny today. Milo laughed with him, unguarded and real, the specific brightness of it catching the student's laughter and pulling it further out of him than the joke alone had earned. By the time it faded, the student's shoulders had dropped a full measurable inch, some of the panic visibly loosened out of him, and he sat there a moment breathing in a way that felt, for the first time all afternoon, like it had cost him nothing.
+The student laughed despite himself, the reluctant, surprised laugh of someone who hadn't planned on finding anything funny today. Milo laughed with him, unguarded and real, the specific brightness of it catching the student's laughter and pulling it further out of him than the joke alone had earned. By the time it faded, the student's shoulders had dropped a full measurable inch, some of the panic visibly loosened out of him, and he sat there breathing, for the first time all afternoon, like it had cost him nothing.
 
 "I had three deadlines due yesterday," the student admitted, apropos of nothing, the particular confession of what struck Milo as someone who suddenly felt safe enough near a stranger to say the true thing out loud. "I haven't laughed since Tuesday. I didn't think I was going to today either."
 
@@ -26,7 +26,7 @@ The student laughed despite himself, the reluctant, surprised laugh of someone w
 
 Milo's gaze drifted, mid-song, toward the university's main library, its old stone face visible past the gate and the quad beyond it. He held the look a beat longer than idle curiosity would have accounted for, something patient and expectant behind the mismatched eyes, and then let it go, folding the moment back into the melody without breaking stride.
 
-He did this often enough, lately, that he'd have noticed the pattern in anyone else. In himself, he let it happen, the way he let most things happen — without asking them to explain themselves first. He could not have said, if pressed, what he was watching that stone building for. He only knew that ignoring a pull like this one rarely ended in anything worth the ignoring, and had learned, without needing to know why, to let it keep his attention a beat longer than the moment strictly required.
+He did this often enough, lately, that he'd have noticed the pattern in anyone else. In himself, he let it happen, the way he let most things happen — without asking them to explain themselves first. He could not have said, if pressed, what he was watching that stone building for. He only knew that ignoring a pull like this one rarely ended in anything worth the ignoring, and had learned, without needing to know why, to let it keep his attention a beat longer than strictly necessary.
 
 The library gave nothing back this time either, its windows dark against the afternoon light, its doors opening and closing on students who meant nothing to the waiting he was doing. A pair of librarians crossed the quad toward the building's side entrance, deep in some argument about a misfiled collection, and he watched them go without much interest, the way a man watches weather pass that has nothing to do with him. He let his attention settle back into the song without further comment to himself about it, patient in the quiet way that had always come easier to him than it had any right to.
 
@@ -38,19 +38,19 @@ The library gave nothing back this time either, its windows dark against the aft
 
 "That's not really an answer." The student said it with a small, tired smile, more amused than annoyed, the particular indulgence people tended to extend to street musicians who talked in circles instead of straight lines.
 
-"It's the only honest one I've got today." He struck a new chord, letting it hang in the air a moment before resolving it. "Ask me again on a day when I'm feeling less honest. I'll probably lie to you properly, and you'll like that answer a great deal more."
+"It's the only honest one I've got today." He struck a new chord, letting it hang in the air before resolving it. "Ask me again on a day when I'm feeling less honest. I'll probably lie to you properly, and you'll like that answer a great deal more."
 
 "How does someone lie *properly*?"
 
 "Carefully. And only ever in service of something kinder than the truth would have managed on its own." He shrugged, as though the distinction were the most obvious thing in the world and slightly embarrassing to have to explain. "A bad lie protects the liar. A good one protects everybody else. I've gotten fairly skilled at telling the difference, mostly by getting the first kind wrong often enough to learn better."
 
-The student laughed again, seeming uncertain whether he was being teased or told something true wrapped up as a joke, and didn't push further. "That's a weird way to talk about yourself," he said instead, but there was no real edge in it, only the mild curiosity of someone who'd decided, somewhere in the last few minutes, that this stranger was worth being a little curious about.
+The student laughed again, seeming uncertain whether he was being teased or told a truth wrapped up as a joke, and didn't push further. "That's a weird way to talk about yourself," he said instead, but there was no real edge in it, only the mild curiosity of someone who'd decided, somewhere in the last few minutes, that this stranger was worth being a little curious about.
 
 "I've had a lot of practice," Milo said, and left it there, offering nothing further to confirm or deny which version of the joke the student had just heard. Milo let him sit with that uncertainty. It suited him better than a straight answer would have.
 
 ---
 
-The discordant note arrived without warning, a single wrong chord slipping into the middle of an otherwise cheerful progression, his fingers catching wrong for half a heartbeat before correcting themselves. It was such a small thing that the student didn't seem to notice, already lost back in whatever thoughts had brought him to the bench. Milo noticed. He always noticed, the way a man notices a draft from a door he thought he'd closed.
+The discordant note arrived without warning, a single wrong chord slipping into the middle of an otherwise cheerful progression, his fingers catching wrong for half a heartbeat before correcting themselves. It was such a small thing that the student didn't seem to notice, already lost back in the thoughts that had brought him to the bench. Milo noticed. He always noticed, the way a man notices a draft from a door he thought he'd closed.
 
 He held very still for the length of that one wrong note, feeling something distant and unbalanced pull at him from two directions at once, faint enough that he couldn't have named either source if pressed to try. One pull felt old, familiar in the vague way a scar is familiar. The other felt new, sharper, and he found himself, for one unguarded instant, wanting to reach toward it and pulling his hand back from the reaching before he'd decided to.
 
@@ -60,11 +60,11 @@ His fingers found their way back to the melody's proper shape, and the song cont
 
 ---
 
-The light had gone gold by the time he finally packed the guitar away, taking his time about it the way he took his time about everything, easing it into its battered case with the careful, familiar motions of long practice. The student had wandered off some while ago, lighter than he'd arrived, the tension visibly gone out of his shoulders in a way it hadn't been an hour before. That seemed, to Milo, a fair enough trade.
+The light had gone gold by the time he finally packed the guitar away, taking his time about it the way he took his time about everything, easing it into its battered case with the careful, familiar motions of long practice. The student had wandered off some while ago, lighter than he'd arrived, the tension visibly gone out of his shoulders, more than it had been an hour before. That seemed, to Milo, a fair enough trade.
 
-He sat a moment longer on the low wall after the case was latched, in no particular hurry to be anywhere else tonight, the stone at his back still holding the day's warmth against his palms, watching the evening crowd of students thin toward whatever dinners and deadlines waited for each of them beyond the gate. None of them looked twice at him. Most nights, none of them ever did, and he had long since stopped finding anything strange in that. A man who spent his afternoons handing out small, unremarkable kindnesses rarely earned a second glance for doing it. He had never wanted the glance in exchange. The moment was always the whole of the payment he was after.
+He sat a while longer on the low wall after the case was latched, in no particular hurry to be anywhere else tonight, the stone at his back still holding the day's warmth against his palms, watching the evening crowd of students thin toward whatever dinners and deadlines waited for each of them beyond the gate. None of them looked twice at him. Most nights, none of them ever did, and he had long since stopped finding anything strange in that. A man who spent his afternoons handing out small, unremarkable kindnesses rarely earned a second glance for doing it. He had never wanted the glance in exchange. The moment was always the whole of the payment he was after.
 
-Milo lingered a moment longer at the gate before he left, looking back once more toward the library's old stone face, the same patient, expectant look he'd worn earlier in the afternoon. He said nothing to anyone in particular, because there was no one left nearby to hear it, and let the words out anyway, quiet and low.
+Milo lingered a while longer at the gate before he left, looking back once more toward the library's old stone face, the same patient, expectant look he'd worn earlier in the afternoon. He said nothing to anyone in particular, because there was no one left nearby to hear it, and let the words out anyway, quiet and low.
 
 "Not yet," he said. "But soon."
 

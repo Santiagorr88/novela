@@ -20,7 +20,7 @@ He rose then, without hurry, and crossed to the center of the chamber where ever
 
 He paused, letting his gaze move across the assembled lords before continuing. "What is coming is not tyranny. It is the end of every system, ours and theirs both, the end of the very concept of a system worth rebelling against in the first place. It is the Void. A final, silent, universal 'No.'" His voice sharpened, just slightly, the first real edge he'd allowed into it since he'd begun speaking. "And I, who am the eternal 'Yes' of the self, will not allow it."
 
-He let those words hold in the silence a moment, patient, confident they would prove more persuasive over time than any louder argument could have managed. He had built an entire long reign on that particular confidence, and had never once, across the whole of it, found reason to abandon the strategy for something louder.
+He let those words hold in the silence a moment, patient, confident they would prove more persuasive over time than any louder argument could have managed. He had built an entire long reign on that particular confidence, and had never, across the whole of it, found reason to abandon the strategy for something louder.
 
 A murmur moved through the gathered lords at that, quieter than the restless muttering that had greeted his entrance, something closer to genuine consideration than outright dismissal. He let it run its course, in no rush, watching the assembled faces for whatever sign might tell him how far the argument had traveled before the inevitable challenge arrived to test it.
 
@@ -66,4 +66,4 @@ He returned to his throne without further ceremony, and watched the assembled lo
 
 He settled back into his throne, alone now in the emptying hall, and allowed himself, for the length of one unwitnessed breath, to feel the full weight of everything tonight had cost him to accomplish. The alliance would hold. He had made certain of that, in the only language this particular room had ever reliably understood. Whatever came next in Hell's long and uncertain part of this war, at least the council itself no longer stood as an obstacle to facing it.
 
-He closed his eyes a moment, alone with the settling quiet of his own throne room, and let himself set down, briefly, the particular weight of ruling a court that had needed reminding, once again, exactly what survival required of it. Tomorrow would bring its own fresh demands soon enough. Tonight, for just this one unwitnessed moment, he allowed himself to sit with the silence he'd finally earned.
+He closed his eyes for a while, alone with the settling quiet of his own throne room, and let himself set down, briefly, the particular weight of ruling a court that had needed reminding, once again, exactly what survival required of it. Tomorrow would bring its own fresh demands soon enough. Tonight, for just this one unwitnessed moment, he allowed himself to sit with the silence he'd finally earned.

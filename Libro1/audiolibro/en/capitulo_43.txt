@@ -30,6 +30,6 @@ The wind rose in the crack's aftermath, howling across a summit no sound had cro
 
 The fissure remained, thin and pale against the granite, curved along part of its length into something that might have resembled a question mark carved into the heart of the world, had any eye been left at this height to trace it. Nothing else about the summit had changed. The wind continued its circuit, the snow its slow accumulation, and fresh frost gathered along the fissure's edges without erasing it — small, and entirely new, against ground that had taken no mark since the first flake of that same ice ever settled upon it.
 
-Far below, the disturbance that had produced the crack kept fading, dissipating back into whatever depth it had first risen from, leaving no trace anywhere it had passed except this one thin line in ancient stone. No record would ever mark the moment. Nothing beyond the mountain itself, and whatever remained of the figure seated upon it, would ever know the tremor had reached this high.
+Far below, the disturbance that had produced the crack kept fading, dissipating back into the depth it had first risen from, leaving no trace anywhere it had passed except this one thin line in ancient stone. No record would ever mark the moment. Nothing beyond the mountain itself, and whatever remained of the figure seated upon it, would ever know the tremor had reached this high.
 
-The figure did not move, not in the next moment nor in the several after it. Then, for the first time in longer than anyone living could measure, it began to stir.
+The figure did not move, not at once, nor in the time that followed. Then, for the first time in longer than anyone living could measure, it began to stir.

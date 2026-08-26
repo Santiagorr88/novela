@@ -14,7 +14,7 @@ Lo sabía como sabía casi todo del pasado profundo: doctrina, no recuerdo. Un r
 
 Lo creyó ahora, agachado sobre un camino construido para pies que dejaron de caminarlo antes de que su especie tuviera nombres.
 
-Por un instante, el dolor de su pecho respondió a la piedra con un latido bajo, casi cómplice, como si algo en él reconociera algo en ella. No le gustó la forma de ese pensamiento. Se levantó, no volvió a mirar el camino, y siguió.
+Por un instante, el dolor de su pecho respondió a la piedra con un latido bajo, casi cómplice, como si reconociera algo de sí mismo en ella. No le gustó el pensamiento. Se levantó, no volvió a mirar el camino, y siguió.
 
 Durante días el dolor había sido un latido sordo, fácil de enterrar bajo el deber. Ahora tiraba en una dirección, y tiraba con autoridad. Miguel conocía esa clase de certeza: era la de la Palabra Divina, la del mando verdadero que se asienta en el alma sin pedir permiso. Que este llamado tuviera la misma lo aterraba. Se detuvo y cerró los ojos un momento. Cuando los abrió, su cuerpo ya se había girado hacia el tirón. La mente tardó un paso más en consentirlo.
 

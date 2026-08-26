@@ -62,7 +62,7 @@ Uriel started to object, and Zadkiel simply repeated himself, once, in the exact
 
 He said it without looking at Iofiel directly, though she felt the acknowledgment in it — not an insult to her work, only the plain limit of what her work alone could purchase from this room.
 
-The Council did not deny Uriel's urgency entirely, nor did it grant Gabriel the full caution he'd argued for, the final hour of debate settling into something closer to exhaustion than agreement. What emerged was a compromise that answered part of each objection: a single scout, sent quietly, to confirm whether the fragment led anywhere real before any larger force committed to finding out.
+The Council did not deny Uriel's urgency entirely, nor did it grant Gabriel the full caution he'd argued for, the final hour of debate settling into exhaustion more than agreement. What emerged was a compromise that answered part of each objection: a single scout, sent quietly, to confirm whether the fragment led anywhere real before any larger force committed to finding out.
 
 Gabriel accepted the compromise with a nod that told Iofiel he'd expected nothing better and hoped for nothing worse. Uriel accepted it more grudgingly, arms folded in a posture Iofiel read as a man counting it a delay rather than a decision, though he offered no further argument once the room had settled. Zadkiel inclined his head once, apparently satisfied the standard of evidence had been met halfway, and gathered the hammer back into his grip as he rose without another word.
 

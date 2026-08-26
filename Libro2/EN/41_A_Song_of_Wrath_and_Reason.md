@@ -1,6 +1,6 @@
 # Chapter 41 — A Song of Wrath and Reason
 
-The words left Mikel before he'd finished forming the thought behind them, sharp and certain in a way his ordinary lecturing voice had never managed to be. "Arin! Left flank, three seconds!" He hadn't consciously counted the seconds. The number had simply arrived, already certain, the way a familiar phone number arrives without effort once a hand has dialed it a thousand times before. He didn't stop to question it. There wasn't room to.
+The words left Mikel before he'd finished forming the thought behind them, sharp and certain as his ordinary lecturing voice had never managed to be. "Arin! Left flank, three seconds!" He hadn't consciously counted the seconds. The number had simply arrived, already certain, the way a familiar phone number arrives without effort once a hand has dialed it a thousand times before. He didn't stop to question it. There wasn't room to.
 
 He heard the authority in his own voice a half-beat after he'd already spoken — not a warning shouted in panic, but an order given by someone who expected, without needing to check, that it would be obeyed. Nine years of lecture halls had taught him how to project his voice across a room full of half-listening undergraduates. This was nothing like that. This was a voice that assumed compliance the way a man assumes the ground will hold his weight. He didn't know where it had come from.
 
@@ -22,7 +22,7 @@ He caught his balance and glanced back, just once, toward the man whose voice ha
 
 "Bossy for a professor." Arin was already moving to cover the angle Mikel had called.
 
-"Ask me about it later. Assuming there's a later." Mikel didn't have breath left to spare on anything cleverer than that, and found he didn't especially mind.
+"Ask me about it later. Assuming there's a later." Mikel didn't have breath left to spare on anything cleverer than that, and didn't especially mind.
 
 ---
 
@@ -36,7 +36,7 @@ Something shifted between them a few exchanges later, subtle at first and then u
 
 Arin felt it too, on his own side of the fight, his strikes finding gaps that opened a half-second before he swung toward them, as though something were clearing his path before he'd chosen it himself. He had fought beside capable partners before, across a decade of careful contracts. None of them had ever felt like this — two separate rhythms locking, without effort, into a single shared one. His body moved faster than it had any right to move this deep into a fight this outmatched, each strike landing exactly where the last one had opened space for the next, formation after formation fracturing in front of him under a pressure the soldiers' training had never prepared them to answer.
 
-For a handful of heartbeats, something passed between them that neither man could have named, and the air in the corridor seemed to hold something it hadn't held a moment before — a stillness underneath all the violence, taut and expectant, the way air goes taut before a held note finally resolves. Arin had no name for it either. He only knew it didn't last.
+For a handful of heartbeats, something passed between them that neither man could have named, and the air in the corridor seemed to hold a weight it hadn't held a moment before — a stillness underneath all the violence, taut and expectant, the way air goes taut before a held note finally resolves. Arin had no name for it either. He only knew it didn't last.
 
 ---
 
@@ -58,7 +58,7 @@ Mikel felt himself losing ground, the shelving fragment in his hand deflecting l
 
 ---
 
-Arin fared no better. Two soldiers pressed him back toward the corridor's collapsed shelving, forcing him into a defensive rhythm he had no room left to break out of, blocking and retreating a half-step at a time with nothing left over to spend on offense. His arms had gone heavy in a way he recognized from harder contracts than this one, the specific fatigue of a body running past whatever reserve it had started the night with. The enforcer closed the last of the distance himself, unbothered by the chaos he was walking into.
+Arin fared no better. Two soldiers pressed him back toward the corridor's collapsed shelving, forcing him into a defensive rhythm he had no room left to break out of, blocking and retreating a half-step at a time with nothing left over to spend on offense. His arms had gone heavy, the specific fatigue of a body running past whatever reserve it had started the night with — a fatigue he recognized from harder contracts than this one. The enforcer closed the last of the distance himself, unbothered by the chaos he was walking into.
 
 He raised one hand, the same economical gesture he'd used to send his soldiers forward in the first place.
 
@@ -68,4 +68,4 @@ Mikel watched the hand rise and understood plainly what it meant. In that final 
 
 He had no evidence for the feeling beyond the feeling itself. He trusted it anyway, the same unquestioning way his own hands had trusted the shelving fragment a few minutes ago. He didn't try to put any of it into words, not with Arin still fighting at his back and no breath left over. Whatever it was, it didn't ask to be understood. It only asked to be believed, for exactly as long as this moment demanded believing it.
 
-He didn't understand it. He didn't have time to understand it. He only knew, in the half-second before the enforcer's hand finished its arc, that he was no longer entirely certain how this moment was going to end, and that the uncertainty, strangely, felt less like fear now than it had a moment before. He held onto that instead, and waited to see which one turned out to be right.
+He didn't understand it. He didn't have time to understand it. He only knew, in the half-second before the enforcer's hand finished its arc, that he was no longer entirely certain how this moment was going to end, and that the uncertainty, strangely, felt less like fear now than it had a minute before. He held onto that instead, and waited to see which one turned out to be right.

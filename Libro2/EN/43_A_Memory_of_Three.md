@@ -1,6 +1,6 @@
 # Chapter 43 — A Memory of Three
 
-Mikel pushed himself off the corridor wall at last, his legs steadier now than they'd been a minute ago, and found the figure watching him with an attention that felt, despite its exhaustion, entirely undivided. The dust from the frozen fight still hung faintly in the air between them, catching what little light the corridor still held. He opened his mouth to ask the question that had been building in him since the moment the gray wave had swept through the corridor, and the figure spoke first, as though it had already known exactly what shape the question would take.
+Mikel pushed himself off the corridor wall at last, his legs steadier now than they'd been a minute ago, and found the figure watching him with an attention that felt, despite its exhaustion, entirely undivided. The dust from the frozen fight still hung faintly in the air between them, catching what little light the corridor still held. He opened his mouth to ask the question that had been building in him since the gray wave had swept through the corridor, and the figure spoke first, as though it had already known exactly what shape the question would take.
 
 "Don't ask me what I am," it said, its voice carrying a stillness that felt older than the basement's own stones, older than the university built above it, older, Mikel suspected, than anything he had ever studied across nine years of careful academic work. It didn't raise its voice, and yet the words reached every corner of the corridor as plainly as if it had shouted them. "Ask me instead what broke. You both carry that break with you, though neither of you remembers causing it."
 
@@ -20,7 +20,7 @@ The figure's gaze moved to him, unhurried, and something in its expression — A
 
 ---
 
-"One to suffer." The figure's attention didn't settle on either man this time — it turned instead toward the wider dark of the corridor beyond, the same place its gaze would rest a moment later for the line that followed. "One to create." Neither word came with a gesture toward Mikel or Arin, and Mikel felt the absence of that certainty almost as unsettling as Arin's had been a moment ago — two roles spoken into the dark for someone neither of them yet knew.
+"One to suffer." The figure's attention didn't settle on either man this time — it turned instead toward the wider dark of the corridor beyond, the same place its gaze would rest a moment later for the line that followed. "One to create." Neither word came with a gesture toward Mikel or Arin, and Mikel felt the absence of that certainty almost as unsettling as Arin's had been a beat ago — two roles spoken into the dark for someone neither of them yet knew.
 
 ---
 
@@ -32,7 +32,7 @@ Mikel felt something cold settle into his chest at the recitation, an old, half-
 
 "Does it make us more than men?" Mikel asked, the question arriving before he'd fully decided to ask it, some old scholar's compulsion refusing to let an unexamined claim simply stand unquestioned. He needed to know. He'd spent a month asking some version of this same question of folklore, manuscripts, half-remembered dreams, and here, finally, stood something that might actually answer it.
 
-The figure considered him a long moment before it spoke, and Mikel found himself holding his breath without having decided to. "It makes you what you always were, before forgetting decided you were something else. That is all I can tell you without telling you too much."
+The figure considered him a long moment before it spoke, and Mikel held his breath without having decided to. "It makes you what you always were, before forgetting decided you were something else. That is all I can tell you without telling you too much."
 
 ---
 
@@ -42,13 +42,13 @@ The figure considered him a long moment before it spoke, and Mikel found himself
 
 ---
 
-The figure's attention drifted, briefly, toward some point neither Mikel nor Arin could follow, and when it spoke again, its voice had taken on a different register entirely, something closer to a half-remembered verse than to ordinary speech.
+The figure's attention drifted, briefly, toward some point neither Mikel nor Arin could follow, and when it spoke again, its voice had taken on a different register entirely, closer to a half-remembered verse than to ordinary speech.
 
 "Something is forgetting, somewhere in the world," it said, each word arriving slow and deliberate, as though it were reciting something it had recited before, many times, to other ears than theirs. "And the longer the forgetting lasts, the less it remembers why it began."
 
 Mikel felt the words move through him like a draft finding a gap in an old door, unable to shake the sense that whatever the figure was describing, it was neither small nor distant. "Forgetting what? Forgetting who? You're talking about a person, or a thing, or—"
 
-The figure didn't answer that either. Its shoulders had begun to sag further, the translucence at its edges deepening, as though even holding this shape a moment longer were costing it something neither of them could see the price of. Mikel found himself unable to press further, the same instinct that had held his tongue earlier warning him that this particular door would open only when it was ready to.
+The figure didn't answer that either. Its shoulders had begun to sag further, the translucence at its edges deepening, as though even holding this shape a moment longer were costing it something neither of them could see the price of. Mikel couldn't press further, the same instinct that had held his tongue earlier warning him that this particular door would open only when it was ready to.
 
 ---
 
@@ -66,7 +66,7 @@ A draft Mikel hadn't felt before stirred through the corridor, and the dust lift
 
 ---
 
-The silence the figure left behind felt heavier than anything it had actually said, and Mikel found himself standing in the middle of an empty corridor, surrounded by the ordinary rubble of a fight that had somehow left no bodies behind to prove it had happened. He looked down at the broken length of shelving still gripped in his own hand, the one physical piece of tonight that hadn't dissolved into dust or vanished into the dark, and set it down slowly against the wall.
+The silence the figure left behind felt heavier than anything it had actually said, and Mikel stood in the middle of an empty corridor, surrounded by the ordinary rubble of a fight that had somehow left no bodies behind to prove it had happened. He looked down at the broken length of shelving still gripped in his own hand, the one physical piece of tonight that hadn't dissolved into dust or vanished into the dark, and set it down slowly against the wall.
 
 He didn't know yet what "the third" meant, or what exactly they were supposed to search for, or how a search that vague was supposed to lead anywhere. He only knew that where an hour ago he'd had nothing but scattered questions, he now had, for the first time since this impossible month had started, something that felt almost like a direction. He hadn't asked for the cost that direction would plainly demand before this was over. He no longer had any real choice left about paying it.
 
@@ -74,4 +74,4 @@ He didn't know yet what "the third" meant, or what exactly they were supposed to
 
 Arin stood a short distance away, quiet, working through the whole strange exchange in his head without any obvious hurry to fill the silence with words. He ran back through every piece of it in order, the way he'd have debriefed himself after any job that had gone sideways from its original plan — the prophecy, the refusals, the warning about something forgetting somewhere in the world, the word *third* left hanging without a single detail attached to it, the fading, fragile shape that had somehow undone eight trained soldiers and their commander with nothing but a single strike of a plain wooden staff. None of it resolved into anything he could act on immediately. All of it sat in him regardless, heavy in a way facts alone rarely managed to be.
 
-Whatever answers either of them had hoped to walk away with tonight, neither man had gotten them. What they'd gotten instead, Arin understood, standing there in the settling dust, was somewhere to start looking, and a decade of hard-earned instinct told him that would have to be enough for tonight. He glanced once toward Mikel, still standing quiet against the far wall, and found something steadying in the plain fact that he wasn't the only one left standing here to carry it.
+Whatever answers either of them had hoped to walk away with tonight, neither man had gotten them. What they'd gotten instead, Arin understood, standing there in the settling dust, was somewhere to start looking, and a decade of hard-earned instinct told him that would have to be enough for tonight. He glanced once toward Mikel, still standing quiet against the far wall, and felt steadier for the plain fact that he wasn't the only one left standing here to carry it.

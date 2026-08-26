@@ -14,7 +14,7 @@ The figure simply was, in the space between the enforcer's hand and Mikel's expo
 
 Mikel's first impression was not of power, though power was plainly there, somewhere beneath the surface of what he was looking at. His first impression was of fragility — a tall, robed shape that seemed, in the low light bleeding from the dying portal, faintly translucent at its edges, as though it had not fully decided to be solid and had simply committed to the decision at the last possible moment. Its outline wavered faintly at the hem, at the fingertips, the way heat shimmer rises off summer pavement, there and then not quite there. He couldn't have said how tall the figure actually was — the impression kept shifting. The figure's shoulders sagged with a depth of exhaustion Mikel recognized instinctively, the weariness of someone who had spent everything they had to arrive exactly here, exactly now, and had nothing left over to spend on looking triumphant about it.
 
-The enforcer's hand stopped, less than a hand's width from where it had been aimed, caught by something Mikel couldn't see and didn't understand. The figure hadn't touched him. The figure hadn't, as far as Mikel could tell, done anything at all beyond simply arriving. Mikel stared up at it from where he'd fallen back against the corridor wall, chest heaving, and found he had no words ready for what he was looking at — only the plain, overwhelming fact of still being alive to look at it.
+The enforcer's hand stopped, less than a hand's width from where it had been aimed, caught by something Mikel couldn't see and didn't understand. The figure hadn't touched him. The figure hadn't, as far as Mikel could tell, done anything at all beyond simply arriving. Mikel stared up at it from where he'd fallen back against the corridor wall, chest heaving, and had no words ready for what he was looking at — only the plain, overwhelming fact of still being alive to look at it.
 
 ---
 
@@ -34,11 +34,11 @@ Mikel, still catching his own breath, found the question harder to let sit unans
 
 "You saved us," Mikel said, his voice raw from the fight, from the fear, from the sheer disorienting strangeness of the last several seconds. "That's already a reason to ask."
 
-The figure said nothing further to that. It stood there a moment longer, robed shoulders still bowed under whatever weight had brought it here, and Mikel found himself, absurdly, wanting to apologize for having asked at all. Whatever answer existed, it stayed unoffered, and Mikel found himself unable to press harder — some instinct warning him that pushing now would earn him nothing but more silence, and cost the figure something he had no right to ask it to spend.
+The figure said nothing further to that. It stood there a moment longer, robed shoulders still bowed under whatever weight had brought it here, and Mikel, absurdly, wanted to apologize for having asked at all. No answer came, and Mikel couldn't press harder — some instinct warning him that pushing now would earn him nothing but more silence, and cost the figure something he had no right to ask it to spend.
 
 ---
 
-The figure lifted a staff Mikel hadn't noticed it carrying until that exact moment, plain and unadorned in a way that seemed more unsettling than any ornamentation could have made it, worn smooth along its length by a use Mikel couldn't begin to guess the age of. It struck the ground once.
+The figure lifted a staff Mikel hadn't noticed it carrying until that exact moment, plain and unadorned, more unsettling for its plainness than any ornamentation could have made it, worn smooth along its length by a use Mikel couldn't begin to guess the age of. It struck the ground once.
 
 The sound that followed wasn't loud. It was barely a sound at all — a low, gray pulse that spread outward from the point of impact in a widening ring, passing through Mikel without resistance, without heat. He watched it reach the nearest soldier and felt his own breath catch at what it did there. The demon simply stopped, mid-stride, mid-swing, frozen as completely as a photograph of a moment that no longer existed, one clawed hand suspended an inch from where Mikel's shoulder had been a heartbeat earlier.
 
@@ -48,7 +48,7 @@ It reached the enforcer last, and even he — even the cold, methodical commande
 
 ---
 
-The corridor's chaos didn't fade so much as simply cease, all at once. The ordinary aftermath of violence — ragged breathing, the scrape of boots on stone, the low crackle of the dying portal — was gone, replaced by a silence so complete it felt, for a long moment, absolute rather than merely quiet. Even the fire at the seam where the door had once stood had gone dark and still, its flames caught in the same suspended stillness as everything else in the corridor. Mikel heard his own pulse hammering in his ears, impossibly loud now that everything else had gone quiet, and found he couldn't quite bring himself to move, standing amid a corridor full of frozen enemies and one impossible stranger who had simply refused to let any of them die tonight.
+The corridor's chaos didn't fade so much as simply cease, all at once. The ordinary aftermath of violence — ragged breathing, the scrape of boots on stone, the low crackle of the dying portal — was gone, replaced by a silence so complete it felt, for a long moment, absolute rather than merely quiet. Even the fire at the seam where the door had once stood had gone dark and still, its flames caught in the same suspended stillness as everything else in the corridor. Mikel heard his own pulse hammering in his ears, impossibly loud now that everything else had gone quiet, and couldn't quite bring himself to move, standing amid a corridor full of frozen enemies and one impossible stranger who had simply refused to let any of them die tonight.
 
 ---
 
@@ -60,10 +60,10 @@ The figure remained where it had appeared, one hand still resting against the st
 
 ---
 
-Mikel stood some distance apart from the others, still catching his breath, staring at the impossible tableau in front of him — a corridor full of soldiers frozen mid-motion, and at its center, the fragile, translucent shape of whatever had just saved his life without asking for anything in return. He looked down at his own hands, still gripping the length of broken shelving he'd carried through the entire fight, and found he couldn't quite remember why any of it had felt like the most important thing happening tonight. His knees felt unsteady now that there was finally nothing left to fight, and he let himself lean against the corridor wall rather than trust them fully. Whatever question he might have found words for felt, in this suspended silence, far too small for what he had just witnessed.
+Mikel stood some distance apart from the others, still catching his breath, staring at the impossible tableau in front of him — a corridor full of soldiers frozen mid-motion, and at its center, the fragile, translucent shape of whatever had just saved his life without asking for anything in return. He looked down at his own hands, still gripping the length of broken shelving he'd carried through the entire fight, and couldn't quite remember why any of it had felt like the most important thing happening tonight. His knees felt unsteady now that there was finally nothing left to fight, and he let himself lean against the corridor wall rather than trust them fully. Any question he might have found words for felt, in this suspended silence, far too small for what he had just witnessed.
 
 ---
 
-Arin held his own position a short distance off, gaze moving between the frozen enforcer's suspended hand and the robed figure's bowed shoulders, cataloguing details out of old habit even now, though he couldn't have said what use he expected to make of any of them. He thought of every contract he'd ever closed out clean, every threat he'd ever ended with his own two hands, and found none of that experience offered him a single useful thought about what he was supposed to do standing in a corridor full of frozen enemies and one exhausted stranger who owed him nothing and had saved him anyway.
+Arin held his own position a short distance off, gaze moving between the frozen enforcer's suspended hand and the robed figure's bowed shoulders, cataloguing details out of old habit even now, though he couldn't have said what use he expected to make of any of them. He thought of every contract he'd ever closed out clean, every threat he'd ever ended with his own two hands, and none of that experience offered him a single useful thought about what he was supposed to do standing in a corridor full of frozen enemies and one exhausted stranger who owed him nothing and had saved him anyway.
 
-Neither he nor Mikel spoke. It didn't feel like a victory. It felt, in a way he had no better words for yet, like a question that had only just begun to form.
+Neither he nor Mikel spoke. It didn't feel like a victory. It felt like a question that had only just begun to form, one neither of them had words for yet.

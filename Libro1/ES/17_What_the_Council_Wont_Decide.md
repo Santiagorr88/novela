@@ -54,7 +54,7 @@ Iofiel abrió la boca para explicar de nuevo que el texto no ofrecía tal cosa, 
 
 —Entonces tenemos una descripción y una suposición, y no voy a comprometer soldados por ninguna de las dos.
 
-Su objeción no cargaba nada de la urgencia de Uriel ni nada de la cautela de Gabriel —solo una negativa plana y procedimental a mover recursos por cualquier cosa que no fuera terreno verificado, el mismo estándar que ella lo había visto aplicar a cada decisión que había cruzado jamás esta mesa. *Decretum* descansaba contra el brazo de su silla, sin usar, del modo en que siempre lo hacía en consejo en lugar de en combate. El propio Zadkiel se sentaba tan inmóvil a través de todo el intercambio como el martillo, los ojos plateados moviéndose entre los oradores sin traicionar jamás cuál de los dos argumentos ganaba terreno con él.
+Su objeción no cargaba nada de la urgencia de Uriel ni nada de la cautela de Gabriel —solo una negativa plana y procedimental a mover recursos por cualquier cosa que no fuera terreno verificado, el mismo estándar que ella lo había visto aplicar a cada decisión que había cruzado jamás esta mesa. *Decretum* descansaba contra el brazo de su silla, sin usar, del modo en que siempre lo hacía en consejo en lugar de en combate. El propio Zadkiel se sentaba tan inmóvil a través de todo el intercambio como el martillo, los ojos plateados moviéndose entre los oradores sin traicionar nunca cuál de los dos argumentos ganaba terreno con él.
 
 Uriel empezó a objetar, y Zadkiel simplemente se repitió, una vez, con las mismas palabras exactas, hasta que la objeción murió por falta de adónde más ir.
 
@@ -62,7 +62,7 @@ Uriel empezó a objetar, y Zadkiel simplemente se repitió, una vez, con las mis
 
 Lo dijo sin mirar directamente a Iofiel, aunque ella sintió el reconocimiento de todos modos —no un insulto a su trabajo, solo el límite claro de lo que su trabajo solo podía comprar en esta sala.
 
-El Consejo no negó del todo la urgencia de Uriel, ni le concedió a Gabriel toda la cautela que había defendido, la última hora de debate asentándose en algo más cercano al agotamiento que al acuerdo. Lo que surgió fue un compromiso que respondía en parte a cada objeción: un único explorador, enviado con discreción, para confirmar si el fragmento llevaba a algún lugar real antes de que una fuerza mayor se comprometiera a descubrirlo.
+El Consejo no negó del todo la urgencia de Uriel, ni le concedió a Gabriel toda la cautela que había defendido, la última hora de debate asentándose en agotamiento más que en acuerdo. Lo que surgió fue un compromiso que respondía en parte a cada objeción: un único explorador, enviado con discreción, para confirmar si el fragmento llevaba a algún lugar real antes de que una fuerza mayor se comprometiera a descubrirlo.
 
 Gabriel aceptó el compromiso con un gesto que le dijo a Iofiel que no había esperado nada mejor ni temido nada peor. Uriel lo aceptó de mala gana, los brazos cruzados en una postura que Iofiel leyó como la de un hombre que lo contaba como una demora en lugar de una decisión, aunque no ofreció más argumentos una vez que la sala se hubo asentado. Zadkiel inclinó la cabeza una vez, aparentemente satisfecho de que el estándar de evidencia se hubiera cumplido a medio camino, y recogió el martillo de vuelta en su puño al levantarse sin otra palabra.
 

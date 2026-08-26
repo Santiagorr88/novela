@@ -86,7 +86,7 @@ And on a mountain no map recorded, a figure who had not opened his eyes in five 
 
 Azael's eyes were wide now, pale and searching, taking in a world that had gone on entirely without him and had, in doing so, forgotten he had ever been part of it. He did not speak. There was no one there to speak to. He simply rose, joints unbending for the first time in an age, and took one deliberate step down the slope — the first step of a journey none of the three of them yet knew they were walking toward each other.
 
-Later, when the hum of the hall's small labors had settled into something almost like peace, Gabriel withdrew alone to a side chapel and let his back slide down a cracked column until the stone took his weight.
+Later, when the hum of the hall's small labors had settled into near peace, Gabriel withdrew alone to a side chapel and let his back slide down a cracked column until the stone took his weight.
 
 He let the pain move through him — the physical kind, and the other kind, the kind with no wound to point to. He closed his eyes and saw the spear again, that ancient vibration under Miguel's last strike, a resonance that had not felt infernal so much as *stolen*. He made himself a promise disguised as a note: find out the rest of what that weapon is — who had forged it, and why. Find out where it came from before it finds its way back here.
 

@@ -1,6 +1,6 @@
 # Capítulo 41 — Un Canto de Ira y Razón
 
-Las palabras salieron de Mikel antes de que hubiera terminado de formar el pensamiento detrás de ellas, agudas y seguras de un modo que su voz ordinaria de clase jamás había logrado ser. —¡Arin! ¡Flanco izquierdo, tres segundos! —No había contado los segundos conscientemente. El número simplemente había llegado, ya cierto, del modo en que llega un número de teléfono familiar sin esfuerzo una vez que una mano lo ha marcado mil veces antes. No se detuvo a cuestionarlo. No había espacio para ello.
+Las palabras salieron de Mikel antes de que hubiera terminado de formar el pensamiento detrás de ellas, agudas y seguras como su voz ordinaria de clase jamás había logrado ser. —¡Arin! ¡Flanco izquierdo, tres segundos! —No había contado los segundos conscientemente. El número simplemente había llegado, ya cierto, del modo en que llega un número de teléfono familiar sin esfuerzo una vez que una mano lo ha marcado mil veces antes. No se detuvo a cuestionarlo. No había espacio para ello.
 
 Oyó la autoridad en su propia voz medio latido después de haberla pronunciado —no una advertencia gritada en pánico, sino una orden dada por alguien que esperaba, sin necesidad de comprobarlo, que fuera obedecida. Nueve años de aulas le habían enseñado a proyectar la voz por una sala llena de alumnos a medio escuchar. Esto no se parecía en nada a eso. Era una voz que asumía obediencia del modo en que un hombre asume que el suelo sostendrá su peso. No sabía de dónde había salido.
 
@@ -10,7 +10,7 @@ No tuvo tiempo de examinar más la anomalía. Otra forma ya presionaba desde su 
 
 El cuerpo de Arin respondió a la orden antes de que su mente consciente hubiera terminado de procesarla, girando con fuerza hacia su izquierda un pleno medio segundo antes de que él mismo hubiera registrado la amenaza de flanco. Su antebrazo atrapó la hoja del demonio por la muñeca, desviando el golpe hacia un lado, y su otra mano subió bajo la mandíbula de la criatura con fuerza suficiente para zanjar la cuestión de si volvería a molestar a alguno de los dos. El demonio se desplomó, y Arin ya se movía más allá de él hacia la siguiente amenaza antes de que su peso hubiera terminado de asentarse en el suelo. El hombro le dolía donde una hoja lo había rozado antes, y apartó la sensación del mismo modo en que apartaba cualquier dolor que no estuviera intentando matarlo en ese momento.
 
-No se preguntó, en el momento, por qué había confiado su propia vida a la orden gritada de un desconocido. No había habido tiempo para preguntárselo. Una década de contratos le había enseñado a nunca entregar su propia seguridad al criterio de otra persona sin motivo. La había entregado de todos modos, sin decidirlo jamás, y había sido exactamente correcto. Todavía no tenía nombre para lo que eso significaba sobre el hombre que peleaba a su espalda.
+No se preguntó, en el momento, por qué había confiado su propia vida a la orden gritada de un desconocido. No había habido tiempo para preguntárselo. Una década de contratos le había enseñado a nunca entregar su seguridad al criterio de otra persona sin motivo. La había entregado de todos modos, sin decidirlo jamás, y había sido exactamente correcto. Todavía no tenía nombre para lo que eso significaba sobre el hombre que peleaba a su espalda.
 
 Recuperó el equilibrio y echó una mirada atrás, solo una vez, hacia el hombre cuya voz acababa de salvarlo. Mikel Ardon había parecido, minutos atrás, lo que su expediente decía que era —un académico de manos suaves fuera de su alcance. Ya no parecía eso. Ya estaba rastreando su siguiente advertencia, los ojos entornados sobre la formación cambiante que tenía delante con la misma frialdad concentrada que Arin había pasado una década entrenándose para tener él mismo, y Arin encontró la visión de aquello más inquietante que los demonios que aún presionaban a su alrededor.
 
@@ -22,7 +22,7 @@ Recuperó el equilibrio y echó una mirada atrás, solo una vez, hacia el hombre
 
 —Mandón para ser profesor. —Ya se movía para cubrir el ángulo que Mikel había señalado.
 
-—Pregúntame por eso después. Asumiendo que haya un después. —Mikel no tenía aliento de sobra para nada más ingenioso que eso, y descubrió que no le importaba especialmente.
+—Pregúntame por eso después. Asumiendo que haya un después. —Mikel no tenía aliento de sobra para nada más ingenioso que eso, y no le importaba especialmente.
 
 ---
 
@@ -36,7 +36,7 @@ Algo cambió entre ellos unos intercambios después, sutil al principio y luego 
 
 Arin también lo sintió, en su propio lado de la pelea, sus golpes encontrando huecos que se abrían medio segundo antes de que él girara hacia ellos, como si algo estuviera despejándole el camino antes de que él mismo lo hubiera elegido. Había peleado junto a compañeros capaces antes, a lo largo de una década de contratos cuidadosos. Ninguno se había sentido nunca así —dos ritmos separados encajando, sin esfuerzo, en uno solo compartido. Su cuerpo se movía más rápido de lo que tenía derecho a moverse tan adentro de una pelea tan desequilibrada, cada golpe aterrizando exactamente donde el anterior había abierto espacio para el siguiente, formación tras formación fracturándose ante él bajo una presión para la que el entrenamiento de los soldados nunca los había preparado a responder.
 
-Durante un puñado de latidos, algo pasó entre ellos que ninguno de los dos hombres habría podido nombrar, y el aire del corredor pareció sostener algo que no había sostenido un momento antes —una quietud debajo de toda la violencia, tensa y expectante, del modo en que el aire se tensa antes de que una nota sostenida por fin se resuelva. Arin tampoco tenía nombre para ello. Solo sabía que no duró.
+Durante un puñado de latidos, algo pasó entre ellos que ninguno de los dos hombres habría podido nombrar, y el aire del corredor pareció sostener un peso que no había sostenido un momento antes —una quietud debajo de toda la violencia, tensa y expectante, del modo en que el aire se tensa antes de que una nota sostenida por fin se resuelva. Arin tampoco tenía nombre para ello. Solo sabía que no duró.
 
 ---
 
@@ -58,7 +58,7 @@ Mikel sintió que perdía terreno, el fragmento de estantería en su mano desvia
 
 ---
 
-A Arin no le fue mejor. Dos soldados lo empujaban hacia las estanterías derrumbadas del corredor, forzándolo a un ritmo defensivo del que no le quedaba margen para salir, bloqueando y retrocediendo medio paso a la vez sin nada de sobra que gastar en ataque. Los brazos se le habían vuelto pesados de un modo que reconocía de contratos más duros que este, la fatiga específica de un cuerpo agotando cualquier reserva con la que hubiera empezado la noche. El ejecutor cerró él mismo el último tramo de distancia, indiferente al caos hacia el que caminaba.
+A Arin no le fue mejor. Dos soldados lo empujaban hacia las estanterías derrumbadas del corredor, forzándolo a un ritmo defensivo del que no le quedaba margen para salir, bloqueando y retrocediendo medio paso a la vez sin nada de sobra que gastar en ataque. Los brazos se le habían vuelto pesados, la fatiga específica de un cuerpo agotando cualquier reserva con la que hubiera empezado la noche —una fatiga que reconocía de contratos más duros que este. El ejecutor cerró él mismo el último tramo de distancia, indiferente al caos hacia el que caminaba.
 
 Alzó una mano, el mismo gesto económico que había usado para enviar a sus soldados hacia adelante desde el principio.
 
@@ -68,4 +68,4 @@ Mikel vio la mano alzarse y comprendió, con claridad, qué significaba. En ese 
 
 No tenía evidencia para la sensación más allá de la sensación misma. Confió en ella de todos modos, del mismo modo incuestionable en que sus propias manos habían confiado en el fragmento de estantería unos minutos atrás. No intentó ponerlo en palabras, no con Arin todavía peleando a su espalda y sin aliento de sobra. Fuera lo que fuese, no pedía ser comprendido. Solo pedía ser creído, durante exactamente el tiempo que este momento exigiera creerlo.
 
-No lo entendía. No tenía tiempo de entenderlo. Solo sabía, en el medio segundo antes de que la mano del ejecutor terminara su arco, que ya no estaba del todo seguro de cómo iba a terminar este momento, y que la incertidumbre, extrañamente, se sentía menos como miedo ahora de lo que se había sentido un momento antes. Se aferró a eso en lugar del miedo, y esperó a ver cuál de los dos resultaba tener razón.
+No lo entendía. No tenía tiempo de entenderlo. Solo sabía, en el medio segundo antes de que la mano del ejecutor terminara su arco, que ya no estaba del todo seguro de cómo iba a terminar este momento, y que la incertidumbre, extrañamente, se sentía menos como miedo ahora de lo que se había sentido un minuto antes. Se aferró a eso en lugar del miedo, y esperó a ver cuál de los dos resultaba tener razón.

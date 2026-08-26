@@ -44,7 +44,7 @@ She turned that over in her own reckoning, and found it a far more interesting a
 
 "That's not fear," she said, mostly to herself.
 
-"No," the soldier agreed, and something in his voice had gone hollow in a way that told her the wall, having come down, wasn't going back up on its own. "It's not."
+"No," the soldier agreed, and something in his voice had gone hollow, telling her the wall, having come down, wasn't going back up on its own. "It's not."
 
 ---
 

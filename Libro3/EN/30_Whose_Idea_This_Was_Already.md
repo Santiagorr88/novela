@@ -24,7 +24,7 @@ She found Vepar's staging ground itself a short walk further on, a scar of packe
 
 Vepar met her at the perimeter himself, his trident resting across one forearm the way she suspected it always did, his translucent features giving away exactly as little as the reports had warned her they would. "Duchess," he said, the title landing without much weight either way. "Hell's court doesn't usually bother sending anyone this polished to a staging ground. We're a little short on mirrors out here."
 
-"I'm not here for the mirrors." She let the silence carry a moment, watching him the way she watched anyone worth the patience — not for what he said, but for what his stillness cost him to maintain. "I'm here because you've spent a month holding a line the throne barely understands exists, Marshal, and no one in that court has thought to ask what it's actually costing you to keep it standing."
+"I'm not here for the mirrors." She let the silence carry, watching him the way she watched anyone worth the patience — not for what he said, but for what his stillness cost him to maintain. "I'm here because you've spent a month holding a line the throne barely understands exists, Marshal, and no one in that court has thought to ask what it's actually costing you to keep it standing."
 
 "It's costing me exactly what holding any line costs. Soldiers, patience, sleep I don't especially need." He didn't ask how she knew. She noted that, filed it beside everything else she was learning about him in real time. "If you've come to write a report, write an honest one. I've no interest in decorating it."
 
@@ -32,7 +32,7 @@ Vepar met her at the perimeter himself, his trident resting across one forearm t
 
 ---
 
-Vepar studied her a long moment, the same unhurried study she imagined he gave a stretch of open water before deciding whether it was worth crossing. "You want to handle the politics of it."
+Vepar took his time studying her, the same unhurried study she imagined he gave a stretch of open water before deciding whether it was worth crossing. "You want to handle the politics of it."
 
 "I want to make certain the politics don't happen to you without your say in the matter. Those are two very different fates, and I'd wager you've already decided which one you'd rather have." She kept her voice level, offering him nothing that asked to be believed on faith alone — only the plain shape of a trade he could weigh on its own terms. "I'll carry the account back myself. You keep the command. I'll simply make sure the court understands what the command has actually accomplished, instead of guessing at it from a supply ledger."
 
@@ -68,7 +68,7 @@ A murmur moved through the assembled court, appreciative, already reshaping itse
 
 One of the older lords, a thin, suspicious presence near the dais who made a habit of doubting anything that arrived already this polished, was not so easily folded into the murmur. "And Vepar confirms all this himself, Duchess? Or only you?"
 
-"Send a courier to ask him yourself, my lord, if my word doesn't satisfy you." She let the offer sit in the open, exactly as certain as it needed to sound. "He'll tell you precisely what I've told you, in fewer words and considerably less patiently. I'd simply rather the throne heard it now than three days from now, filtered through whatever a marshal decides is worth his own time to write down." The old lord held her gaze a moment longer, and whatever he'd been looking for in it, he let it go, settling back into the court's general appetite for a story that had already, by then, decided which shape it preferred to keep.
+"Send a courier to ask him yourself, my lord, if my word doesn't satisfy you." She let the offer sit in the open, exactly as certain as it needed to sound. "He'll tell you precisely what I've told you, in fewer words and considerably less patiently. I'd simply rather the throne heard it now than three days from now, filtered through whatever a marshal decides is worth his own time to write down." The old lord held her gaze longer than necessary, and whatever he'd been looking for in it, he let it go, settling back into the court's general appetite for a story that had already, by then, decided which shape it preferred to keep.
 
 ---
 

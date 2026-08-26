@@ -1,6 +1,6 @@
 # Capítulo 17 — El Plan del Sabio
 
-El valle se disolvió a su alrededor sin transición, sin destello de luz ni sacudida de movimiento, simplemente un lugar cediendo paso a otro en el instante en que Azael así lo quiso. Miguel se encontró de pie en un santuario que existía, hasta donde podía distinguir, por completo fuera del flujo ordinario del tiempo —una cima montañosa bajo un cielo que no sostenía sol ni estrellas, viento que esperaba en vez de soplar, una quietud tan completa que hacía que el valle que acababan de dejar se sintiera casi ruidoso en comparación.
+El valle se disolvió a su alrededor sin transición, sin destello de luz ni sacudida de movimiento, simplemente un lugar cediendo paso a otro en el instante en que Azael así lo quiso. Miguel estaba de pie en un santuario que existía, hasta donde podía distinguir, por completo fuera del flujo ordinario del tiempo —una cima montañosa bajo un cielo que no sostenía sol ni estrellas, viento que esperaba en vez de soplar, una quietud tan completa que hacía que el valle que acababan de dejar se sintiera casi ruidoso en comparación.
 
 Ereloth y Thaeriel se pararon a cada lado de él, ambos estudiando el extraño cielo con la soltura particular de hombres que regresan a una sala que alguna vez conocieron bien. Miguel los observó un momento más de lo que probablemente ninguno de los dos notó, y comprendió, con una claridad que se asentaba en vez de escocer, exactamente qué estaba mirando. Ninguno de los dos era su hermano, no en el sentido en que lo eran el uno del otro. Fuera cual fuese el vínculo que se sostenía entre los tres seres primordiales de pie en este santuario, había sido forjado en una era antes de que Miguel existiera para compartir nada con nadie. Descubrió que sostenerla no le costaba nada.
 
@@ -22,7 +22,7 @@ Miguel dejó que la afirmación se asentara por completo en él antes de respond
 
 ---
 
-Nadie habló durante un largo momento después de eso. La mandíbula de Thaeriel se había tensado, el agotamiento en su postura profundizándose en algo más cercano al duelo. Ereloth se había quedado quieto, sin nada de su inquietud habitual dentro de él. Miguel se descubrió sosteniendo el silencio con cuidado, sin voluntad de ser quien lo rompiera antes de que cualquiera de los tres en verdad responsables de esta historia hubiera terminado de asentarse con ella.
+Nadie habló durante un largo momento después de eso. La mandíbula de Thaeriel se había tensado, el agotamiento en su postura profundizándose en algo más cercano al duelo. Ereloth se había quedado quieto, sin nada de su inquietud habitual dentro de él. Miguel sostuvo el silencio con cuidado, sin voluntad de ser quien lo rompiera antes de que cualquiera de los tres en verdad responsables de esta historia hubiera terminado de asentarse con ella.
 
 Azael metió la mano en los pliegues de su túnica y sacó dos fragmentos rotos de madera pálida, cada uno cargando una luz tenue y constante que pulsaba más como un latido que como una llama. Los alzó, uno en cada mano, lo bastante juntos como para que Miguel pudiera ver con qué precisión sus bordes rotos alguna vez habían encajado.
 
@@ -42,7 +42,7 @@ Miguel asintió, sintiendo la forma de su propia parte en esto asentarse en su l
 
 Sopesó la forma de aquel regreso incluso mientras lo decía en voz alta, considerando exactamente cuánto de esta historia aceptaría el consejo y cuánto sonaría, a oídos que no hubieran estado de pie en este santuario ellos mismos, como los desvaríos de un comandante caído por fin completamente desquiciado. Necesitaría más que su propio testimonio. Comprendía eso con suficiente claridad, y comprendía también, observando la quietud paciente de Azael a través del pequeño círculo que habían formado, que ya tenía una idea de dónde podría venir el resto de aquella prueba.
 
-La sonrisa de Ereloth regresó por fin, más suave que su travesura habitual pero inconfundiblemente suya. —Bueno, esto debería ser divertido. Iré con Miki. Necesitará a alguien que le recuerde sonreír cuando intenten ejecutarlo. —La broma aterrizó con calidez real debajo, y Miguel se descubrió, pese a todo, casi devolviéndole la sonrisa.
+La sonrisa de Ereloth regresó por fin, más suave que su travesura habitual pero inconfundiblemente suya. —Bueno, esto debería ser divertido. Iré con Miki. Necesitará a alguien que le recuerde sonreír cuando intenten ejecutarlo. —La broma aterrizó con calidez real debajo, y Miguel, pese a todo, casi le devolvió la sonrisa.
 
 —No van a ejecutarme —dijo Miguel—. Probablemente.
 
@@ -50,15 +50,15 @@ La sonrisa de Ereloth regresó por fin, más suave que su travesura habitual per
 
 Azael, silencioso durante el intercambio hasta ahora, habló al final. —Yo también iré con ustedes. —Miró tanto a Miguel como a Ereloth—. Un consejo al que se le pide creer una historia tan extraña necesitará más que palabras para confiar en ella. Mi presencia, silenciosa como es, cargará un peso que el argumento por sí solo no puede.
 
-Miguel sintió algo firme asentarse en su pecho ante eso, un alivio que no había esperado necesitar hasta que llegó. Había entrado a este santuario preparado para cargar el juicio del consejo solo, del modo en que había cargado la mayoría de las cosas difíciles a lo largo de su largo servicio, seguro de que pedir ayuda era una deuda que prefería no deberle a nadie. La oferta de Azael cambiaba la forma de aquel camino, y se descubrió agradecido por ello de un modo que lo sorprendió por su propia y llana simplicidad.
+Miguel sintió algo firme asentarse en su pecho ante eso, un alivio que no había esperado necesitar hasta que llegó. Había entrado a este santuario preparado para cargar el juicio del consejo solo, del modo en que había cargado la mayoría de las cosas difíciles a lo largo de su largo servicio, seguro de que pedir ayuda era una deuda que prefería no deberle a nadie. La oferta de Azael cambiaba la forma de aquel camino, y quedó agradecido por ello de un modo que lo sorprendió por su propia y llana simplicidad.
 
 ---
 
 Miguel estudió a los tres un largo momento, los días por venir por fin asentándose en algo que podía sostener firme en su propia mente. Tres caminos, divergiendo de este único santuario quieto —Thaeriel caminando de vuelta hacia el Infierno para terminar lo que ya había comenzado, Ereloth y Azael caminando con él hacia un consejo que pondría a prueba cada gramo de fe que todavía cargaba, y en algún lugar más allá de los tres caminos, una vieja herida esperando ver si lograban reunir lo que se necesitaría para responderla.
 
-Ninguno de los caminos por delante prometía nada sencillo. Comprendía eso con claridad, de pie en un santuario construido fuera del alcance ordinario del tiempo, y descubrió que la comprensión lo afirmaba en vez de sacudirlo. Había pasado suficiente tiempo aprendiendo lo que se sentía el costo real como para dejar de esperar que algo que valiera la pena hacer llegara barato.
+Ninguno de los caminos por delante prometía nada sencillo. Comprendía eso con claridad, de pie en un santuario construido fuera del alcance ordinario del tiempo, y la comprensión lo afirmaba en vez de sacudirlo. Había pasado suficiente tiempo aprendiendo lo que se sentía el costo real como para dejar de esperar que algo que valiera la pena hacer llegara barato.
 
-—Entonces sabemos qué viene después —dijo Miguel, y descubrió que las palabras lo afirmaban al decirlas, llanas y simples exactamente del modo en que este momento necesitaba. No era un gran plan, no del tipo que alguna vez habría esperado que un momento de esta trascendencia le exigiera. Era simplemente tres tareas, cada una perteneciendo a las manos mejor dispuestas para cargarla, y descubrió que aquella llaneza misma resultaba más reconfortante de lo que cualquier esquema más grandioso podría haber logrado.
+—Entonces sabemos qué viene después —dijo Miguel, y las palabras lo afirmaron al decirlas, llanas y simples exactamente del modo en que este momento necesitaba. No era un gran plan, no del tipo que alguna vez habría esperado que un momento de esta trascendencia le exigiera. Era simplemente tres tareas, cada una perteneciendo a las manos mejor dispuestas para cargarla, y descubrió que aquella llaneza misma resultaba más reconfortante de lo que cualquier esquema más grandioso podría haber logrado.
 
 Thaeriel se levantó sin ceremonia, ya girándose hacia el borde del santuario, su paso cargando la misma certeza sin vacilar que Miguel había visto asentarse sobre él en el momento en que nombró a Belial como su objetivo. Se detuvo una vez, mirando de vuelta al pequeño círculo que estaba a punto de dejar, algo casi gentil cruzando su agotamiento llano por solo un momento. —Traedme algo que valga la pena el viaje cuando me encuentren de nuevo. —Ya estaba caminando, el borde del santuario ya abriéndose para dejarlo pasar hacia lo que fuera que lo esperara en Dis.
 

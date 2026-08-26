@@ -2,7 +2,7 @@
 
 Michael recognized the mountain summit before his own eyes had fully adjusted to it, that same wind that waited rather than blew settling against his skin like an old, half-forgotten greeting. He had carried a different man's questions into this exact stillness the first time, uncertain then whether he belonged among the three who'd gathered him here. He carried no such uncertainty this time, and the difference, standing here again, sat in him more plainly than anything the sanctuary itself had changed. He noticed, this time, a fine silver dust settled over every surface, undisturbed by footsteps or weather alike, a detail his own nerves had apparently been too occupied to catch on the first visit.
 
-Somewhere beyond this place, in whatever ordinary flow of time the sanctuary had excused itself from, the combined armies of Heaven and Hell were readying themselves for a war of a scale Michael doubted either side had ever planned for, gold ranks and black legions alike preparing to throw everything they had at an enemy that answered to neither. He had stood among those ranks himself only days ago, had watched Gabriel and Uriel and a hundred lesser commanders rehearse formations for a battle none of them fully understood the shape of. Here, none of that reached him at all. Only silence, and the grave, patient presence of the two Forgotten and the sage who had gathered them.
+Somewhere beyond this place, in whatever ordinary flow of time the sanctuary had excused itself from, the combined armies of Heaven and Hell were readying themselves for a war of a scale Michael doubted either side had ever planned for, gold ranks and black legions alike preparing to throw everything they had at an enemy that answered to neither. He had stood among those ranks himself only days ago, had watched Gabriel and Uriel and a hundred lesser commanders rehearse formations for a battle none of them fully understood. Here, none of that reached him at all. Only silence, and the grave, patient presence of the two Forgotten and the sage who had gathered them.
 
 He found the contrast harder to sit with than he'd expected. Out there, he'd had orders to give, soldiers to steady, a fleet to help assemble. Here, in a place where time itself seemed to have agreed to wait, none of that urgency had anywhere left to go, and Michael held it, unused, for as long as the stillness required of him.
 
@@ -34,11 +34,11 @@ Azael's projection drew inward at his gesture, the spreading lattice of fracture
 
 "The kind that offers no answer a mind can actually hold," Azael said. "A question with two true answers that cannot both be true at once. A choice where refusing to choose is itself the choice, and costs exactly as much as choosing wrongly would have. I have walked close enough to that boundary once before, long ago, to know what it does to a will unprepared for it. I do not intend for any of us to learn that lesson the same way I did."
 
-Michael felt the shape of what was being asked of them settle into the silence before Azael continued, and found himself, watching the collapsed image of the Nexus turning slowly above the stone, no longer entirely certain he wanted to hear the rest of it spoken aloud.
+Michael felt what was being asked of them settle into the silence before Azael continued, and, watching the collapsed image of the Nexus turning slowly above the stone, was no longer entirely certain he wanted to hear the rest of it spoken aloud.
 
 "The Tear of Faith and the Spark of Defiance are the fuel," Azael said, his gaze moving to Michael and then to Thaeriel in turn. "One forged from grief that chose to become something else. One carved from the one part of a broken thing that never actually needed conquering." He turned to Ereloth next. "Your creative joy will be the fire — the part of you that has never once needed permission to make something out of nothing." His gaze settled last on his own hands, folded quiet in his lap. "And my own balance will be the hammer, such as it still is."
 
-He looked at the three of them together then, a long, level look that Michael found himself unable to hold entirely steady under, and let the silence stretch before he finished it.
+He looked at the three of them together then, a long, level look that Michael could not entirely hold steady under, and let the silence stretch before he finished it.
 
 "But the anvil. The anvil will be your own souls."
 
@@ -48,13 +48,13 @@ Ereloth was the first to break the silence, and when he did, his voice carried n
 
 "You're allowed to be afraid of it," Azael said, without any particular gentleness attached to the observation, simply stating it as one more plain fact among the others he'd already laid out. "I am, myself, more than I've let any of you see so far. Fear doesn't disqualify a hand from the work. It only means the hand understands what it's actually reaching for."
 
-Ereloth managed something close to his usual grin at that, though it didn't quite reach the rest of his face the way it normally did. "Comforting, coming from you."
+Ereloth managed a look close to his usual grin at that, though it didn't quite reach the rest of his face as it normally did. "Comforting, coming from you."
 
 "I wasn't attempting comfort. I was attempting honesty. I've found, across a very long life, that the two rarely arrive together."
 
 Thaeriel said nothing, though Michael caught the way his jaw tightened, the particular stillness of a man weighing a cost he'd already half expected to pay and finding the sum heavier than the estimate. He had watched that same stillness settle over Thaeriel once before, in the moment just before he'd walked alone into Dis. Some costs announced themselves early, and made a man carry the weight of them long before the reckoning arrived.
 
-Michael looked at the locket resting against his own chest, the single tear of solidified grief-turned-faith sealed inside it, and understood, holding Azael's steady gaze, that whatever waited for them at the center of all things, none of them were walking toward it whole. He thought of Camael forging that locket in the long watch after the fleet returned from the In-Between, of every soldier who had trusted a wall or a strike order to mean something against an enemy neither doctrine could touch. Their sacrifices had bought exactly what Azael had promised and nothing more — time, not victory — and Michael found he could not, in good conscience, let that borrowed time run out unspent.
+Michael looked at the locket resting against his own chest, the single tear of solidified grief-turned-faith sealed inside it, and understood, holding Azael's steady gaze, that whatever waited for them at the center of all things, none of them were walking toward it whole. He thought of Camael forging that locket in the long watch after the fleet returned from the In-Between, of every soldier who had trusted a wall or a strike order to matter against an enemy neither doctrine could touch. Their sacrifices had bought exactly what Azael had promised and nothing more — time, not victory — and Michael found he could not, in good conscience, let that borrowed time run out unspent.
 
 Weighing that cost against the alternative — a war fought forever against a wound armies alone could never close — he had already made his choice before Azael finished naming its price.
 
@@ -62,7 +62,7 @@ Weighing that cost against the alternative — a war fought forever against a wo
 
 Azael inclined his head, once, and the projection above the stone began, slowly, to turn.
 
-Michael watched it turn a while longer, and found himself thinking of every council he'd sat through in the gilded halls of Heaven, chambers built for grand pronouncements and careful diplomacy both. None of those rooms had prepared him for a council this quiet, stripped down to four beings and a single flat stone, deciding a cost none of the assembled armies outside would ever fully understand the shape of. Some decisions were never meant to be made in front of a crowd.
+Michael watched it turn a while longer, and thought of every council he'd sat through in the gilded halls of Heaven, chambers built for grand pronouncements and careful diplomacy both. None of those rooms had prepared him for a council this quiet, stripped down to four beings and a single flat stone, deciding a cost none of the assembled armies outside would ever fully understand. Some decisions were never meant to be made in front of a crowd.
 
 "When do we leave?" he asked.
 

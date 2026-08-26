@@ -14,7 +14,7 @@ He knew this the way he knew most things about the deep past: doctrine, not memo
 
 He believed it now, crouched over a road built for feet that had stopped walking it before his own kind had names.
 
-For a moment the ache in his chest answered the stone with a low, almost sympathetic throb, as though something in him recognized something in it. He did not like the shape of that thought. He stood, did not look at the road again, and moved on.
+For a moment the ache in his chest answered the stone with a low, almost sympathetic throb, as though he recognized something of himself in it. He did not like the thought. He stood, did not look at the road again, and moved on.
 
 For days the ache had been a dull throb, easy to bury under duty. Now it pulled in one direction, and it pulled with authority. Miguel knew that kind of certainty: it belonged to the Divine Word, to true command settling into the soul without asking permission. That this call carried the same certainty terrified him. He stopped and closed his eyes a moment. When he opened them, his body had already turned toward the pull. His mind took one more step to consent.
 

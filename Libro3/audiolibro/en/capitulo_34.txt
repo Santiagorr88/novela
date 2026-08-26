@@ -12,7 +12,7 @@ A black hull drifted close enough off her port side that she could make out the 
 
 "Focus on your instruments," Torin said, not unkindly. "Real or not, it's the fleet we've got."
 
-She checked her readouts again anyway, mostly to give her hands something to do besides grip the controls tighter than the moment required. Her sister flew somewhere in the formation behind her, three ranks back with the reserve wing, and Seren found herself thinking of her more than once since the massed fleet had first come into view — not with worry exactly, not yet, but with the particular awareness that today's crossing was the kind of thing families remembered for generations afterward, whichever way it ended. She had written her a letter the night before launch and left it, unsent, folded in her locker. She told herself she'd deliver it in person once this was over.
+She checked her readouts again anyway, mostly to give her hands something to do besides grip the controls tighter than the moment required. Her sister flew somewhere in the formation behind her, three ranks back with the reserve wing, and Seren thought of her more than once since the massed fleet had first come into view — not with worry exactly, not yet, but with the particular awareness that today's crossing was the kind of thing families remembered for generations afterward, whichever way it ended. She had written her a letter the night before launch and left it, unsent, folded in her locker. She told herself she'd deliver it in person once this was over.
 
 ...
 
@@ -30,11 +30,11 @@ His voice carried across the fleet-wide channel a moment later, steady and level
 
 ...
 
-Vepar stood at the head of his own dark bridge, watching the same tactical display rendered in his own fleet's cold, spectral light, and found the scale of the assembled armada harder to dismiss than he'd expected walking into this campaign. He had commanded legions across centuries of war against the Host, had planned a hundred engagements built entirely around exploiting whatever weakness the enemy's formation offered him. This formation offered nothing of the kind. It held, gold and black together, disciplined enough that even his most seasoned officers had stopped searching for the gap that would have let them break it apart.
+Vepar stood at the head of his own dark bridge, watching the same tactical display rendered in his own fleet's cold, spectral light, and found the scale of the assembled armada harder to dismiss than he'd expected walking into this campaign. He had commanded legions across centuries of war against the Host, had planned a hundred engagements built entirely around exploiting any weakness the enemy's formation offered him. This formation offered nothing of the kind. It held, gold and black together, disciplined enough that even his most seasoned officers had stopped searching for the gap that would have let them break it apart.
 
-He studied the readiness reports scrolling past him, each one confirming what he'd already suspected — that his own Legions, whatever residual hatred still simmered in their ranks, had held their discipline through the crossing exactly as ordered. He allowed himself, briefly, something close to respect for that discipline, an emotion he generally reserved for enemies rather than his own soldiers, and found the distinction between the two categories mattering less today than it once had.
+He studied the readiness reports scrolling past him, each one confirming what he'd already suspected — that his own Legions, however much residual hatred still simmered in their ranks, had held their discipline through the crossing exactly as ordered. He allowed himself, briefly, something close to respect for that discipline, an emotion he generally reserved for enemies rather than his own soldiers, and found the distinction between the two categories mattering less today than it once had.
 
-His trident rested across his forearm, unused since the negotiation that had settled this fleet's exact shape, and he found himself, studying the assembled black ranks stretching out beneath his bridge, considering how few of the officers currently holding formation had ever spoken to an angel outside the context of trying to kill one. Whatever came of today's crossing, he suspected that particular fact was about to change for a great many of them, whether the outcome ahead proved to be victory or simple survival.
+His trident rested across his forearm, unused since the negotiation that had settled this fleet's exact shape, and, studying the assembled black ranks stretching out beneath his bridge, he considered how few of the officers currently holding formation had ever spoken to an angel outside the context of trying to kill one. No matter what came of today's crossing, he suspected that particular fact was about to change for a great many of them, whether the outcome ahead proved to be victory or simple survival.
 
 "Formations holding, Marshal," his second reported.
 
@@ -46,13 +46,13 @@ He thought, watching the black ranks answer the order without hesitation, of eve
 
 Seren felt the whole vast formation surge forward at the order, gold shield and black clusters accelerating together in the exact pattern the two commanders had drilled into them, and found the sensation of it — thousands of ships moving as one, an alliance she'd have called impossible a season ago now doing its work without ceremony — easing something uneasy in her chest that she hadn't fully named until it was already gone.
 
-The void came into view perhaps an hour later, and Seren understood immediately why every report she'd read on it had struggled to capture its scale. It was no longer the narrow wound the earliest accounts had described. It stretched now across a swath of open space the size of a nebula, roiling at its edges with a slow, silent agitation that reminded her, uncomfortably, of something breathing, though nothing about it produced sound of any kind. She found herself unable to look away from it even as every instinct told her that looking away would have been the wiser choice.
+The void came into view perhaps an hour later, and Seren understood immediately why every report she'd read on it had struggled to capture its scale. It was no longer the narrow wound the earliest accounts had described. It stretched now across a swath of open space the size of a nebula, roiling at its edges with a slow, silent agitation that reminded her, uncomfortably, of breathing, though nothing about it produced sound of any kind. She could not look away from it, even as every instinct told her that looking away would have been the wiser choice.
 
-"That's it," Torin said, his voice gone quiet in a way she hadn't heard from him before. "That's what ate Elysia Minor."
+"That's it," Torin said, his voice gone quieter than she'd ever heard from him before. "That's what ate Elysia Minor."
 
 Seren said nothing, watching the abyss hold its slow, patient churn ahead of the fleet's approach, and understood, for the first time since this campaign had begun, what "cannot be beaten by armies alone" was going to mean for every ship currently holding formation around her.
 
-She checked her weapons systems out of pure habit, though some quieter part of her already suspected, watching the void's edge churn without any visible reaction to the fleet's approach, that whatever the coming engagement required of them, it wasn't going to be answered by anything her own console could offer. She thought again of her sister, three ranks back, and found herself hoping, absurdly, that the unsent letter in her locker would still matter to someone by the time any of them got the chance to read it.
+She checked her weapons systems out of pure habit, though some quieter part of her already suspected, watching the void's edge churn without any visible reaction to the fleet's approach, that whatever the coming engagement required of them, it wasn't going to be answered by anything her own console could offer. She thought again of her sister, three ranks back, and hoped, absurdly, that the unsent letter in her locker would still matter to someone by the time any of them got the chance to read it.
 
 ...
 
@@ -62,13 +62,13 @@ It was Torin who spotted the smaller ship first, a single vessel breaking from t
 
 "Hold position," the reply came back almost immediately, brisk and clearly expected. "That vessel is authorized. Manifest confirms four: Azael, Thaeriel, Ereloth, Michael. Let it pass, and log nothing further on the channel."
 
-Seren watched the small ship pull away from the fleet's edge, angling itself toward the silent, empty space between realities rather than toward the churning abyss the rest of the armada was bearing down on. She caught no more than a glimpse through her scope before the distance swallowed the details — four figures visible for a moment through the craft's plain hull, none of them dressed for battle in any fashion she recognized, and none of the four names the manifest had given her meaning anything more to her than any other name might have.
+Seren watched the small ship pull away from the fleet's edge, angling itself toward the silent, empty space between realities instead of the churning abyss the rest of the armada was bearing down on. She caught no more than a glimpse through her scope before the distance swallowed the details — four figures visible for a moment through the craft's plain hull, none of them dressed for battle in any fashion she recognized, and none of the four names the manifest had given her meaning anything more to her than any other name might have.
 
 "Those four are worth clearing an entire fleet lane for?" she asked, though she suspected, watching the little ship dwindle further against the vast dark, that the answer wouldn't change anything about what came next for her own formation.
 
 "No idea what they're actually for," Torin said. "But if command cleared it without so much as a question, it matters more than anything the rest of us are about to do."
 
-Seren watched the small vessel shrink to a single point of light and finally vanish into the quiet dark beyond the fleet's reach. She found herself, watching it go, oddly reluctant to look away, as though keeping her eyes on that last point of light a moment longer might somehow matter to whatever waited for it on the other side. It struck her as a foolish thought the instant she had it, and she found she didn't particularly care.
+Seren watched the small vessel shrink to a single point of light and finally vanish into the quiet dark beyond the fleet's reach. Watching it go, she felt an odd reluctance to look away, as though keeping her eyes on that last point of light a moment longer might somehow matter to whatever waited for it on the other side. It struck her as a foolish thought the instant she had it, and she found she didn't particularly care.
 
 Ahead of her, the massive formation continued its advance, gold shield and black clusters together, bearing down at last on the silent, patient hunger waiting for them at the edge of everything. Whatever those four names were carrying toward the far side of that hunger, her own formation would never see it arrive. She understood plainly enough that she would have to trust it anyway.
 

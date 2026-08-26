@@ -6,9 +6,9 @@ He felt Arin first, the way he usually did — not as a sight or a sound but as 
 
 Mikel arrived differently, softer, more like a held breath than a resolved note, drawing steadily closer to a place Milo had been quietly watching for weeks now without ever once naming it aloud. He let that note hang unresolved too, an open chord he had no intention of closing yet, and kept playing through both of them at once, the two men's separate afternoons folding into the same song.
 
-He thought of the two of them, sometimes, as instruments in an orchestra too large for either to hear properly — each convinced he played alone, neither able to make out the other section's part from across the hall. Milo could hear both parts. That was most of what made him different from either of them, and he had never found a tidy way to explain it.
+He thought of the two of them, sometimes, as instruments in an orchestra too large for either to hear properly — each convinced he played alone, neither able to make out the other section's part from across the hall. Milo could hear both parts. That was most of what made him different from either of them, and he had never had a tidy way to explain it.
 
-He had tried, once or twice over the years, to explain some version of it to someone who seemed like they might listen. It never went especially well. People wanted the explanation to resolve into a fact they could repeat to a friend later, and Milo had never once managed to hand them one. He'd learned to stop trying. Some things were easier carried quietly than explained badly.
+He had tried, once or twice over the years, to explain some version of it to someone who seemed like they might listen. It never went especially well. People wanted the explanation to resolve into a fact they could repeat to a friend later, and Milo never managed to hand them one. He'd learned to stop trying. Some things were easier carried quietly than explained badly.
 
 ---
 
@@ -16,7 +16,7 @@ The discord arrived a few minutes later, and this one he recognized immediately 
 
 He'd felt work like it before, always built for the same narrow purpose — not to stop a determined seeker outright, but to slow one down, to seed just enough confusion that the seeker doubted a true path once he finally stood on it. Whoever had built this trap had done competent work, not especially inspired work. But it would do what it was meant to do, and that was often worse than inspiration.
 
-He found himself, not for the first time, faintly irritated on Mikel's behalf — the man had walked into this searching entirely on his own, following threads no one had forced him to pull. But there was a difference between a hard road and a road someone had deliberately booby-trapped.
+He was, not for the first time, faintly irritated on Mikel's behalf — the man had walked into this searching entirely on his own, following threads no one had forced him to pull. But there was a difference between a hard road and a road someone had deliberately booby-trapped.
 
 He let his fingers still against the strings, listening more carefully, searching for whatever single point held the rest of the trap together. He found it soon enough — a single anchoring rune, tucked into the ward's furthest corner, doing the quiet work of keeping the rest of it from coming apart. Everything else about the trap was decoration. That rune was the only part that mattered.
 
@@ -30,7 +30,7 @@ The boy appeared a few minutes after that, small and unsupervised in the particu
 
 Milo didn't stop playing, and didn't look up right away either, letting the boy's question sit a moment inside the melody before he answered it. "I don't talk to myself," he said, at last, with the mild, unbothered patience of a man who'd fielded this exact accusation more times than he could easily count. "I talk to everything that hasn't learned yet not to listen to me."
 
-The boy frowned at that, grave and deliberate in a way Milo found oddly endearing. "That doesn't make sense," he said, though something in the way he said it made it sound more like an invitation than a complaint.
+The boy frowned at that, grave and deliberate, an expression Milo found oddly endearing. "That doesn't make sense," he said, though something in the way he said it made it sound more like an invitation than a complaint.
 
 "Most true things don't, the first time you hear them," Milo said, and finally looked up, offering the boy the same easy, unguarded smile he gave most strangers who lingered long enough to earn one. "Give it a few years. It'll make more sense than you'd like it to."
 
@@ -52,7 +52,7 @@ He couldn't have said why a single cracked rune should have stirred anything in 
 
 ---
 
-It was on the park's far side, past the fountain and the last of the wandering students, that something caught his eye — a figure moving between the trees, there and then not there, gone almost before Milo's attention had settled on him. White hair, unhurried gait, a man deep enough in his own thoughts to have stopped noticing his surroundings entirely. He carried something under one arm, a bag or satchel Milo couldn't make out at this distance. Too far to be certain. Too brief to chase.
+It was on the park's far side, past the fountain and the last of the wandering students, that something caught his eye — a figure moving between the trees, there and then not there, gone almost before Milo's attention had settled on him. White hair, unhurried gait, a man deep enough in his own thoughts to have stopped noticing his surroundings entirely. He carried a bag or satchel under one arm, Milo couldn't make out which at this distance. Too far to be certain. Too brief to chase.
 
 Milo came half up off the bench before he'd consciously decided to move, the guitar sliding forgotten off his lap, some old instinct straining toward the space where the figure had already vanished. He held himself there a long moment, caught between the pull and everything patient in him that had learned, across more years than he let himself count, what it cost to chase a thing before it was ready to be caught. He sat back down slowly. Soon, perhaps. Not yet.
 
