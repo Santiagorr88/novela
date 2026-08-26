@@ -8,8 +8,8 @@
   },
   "protagonistas": {
     "miguel": {
-      "id": "16bBXZ5xPKcA2AhFqIvu",
-      "voz": "Vértice"
+      "id": "sDuUJMeNJR828mXTRrDh",
+      "voz": "Hernán"
     },
     "lucifer": {
       "id": "5egO01tkUjEzu7xSSE8M",
@@ -26,8 +26,8 @@
       "voz": "Salva"
     },
     "azael": {
-      "id": "R5hsaNjpvTxTyrEmoKyM",
-      "voz": "Tommy"
+      "id": "Vpv1YgvVd6CHIzOTiTt8",
+      "voz": "Martin Osborne"
     }
   },
   "arcangeles": {
@@ -37,16 +37,17 @@
       "notas": "más dulce, pedido del autor"
     },
     "rafael": {
-      "id": "BMHmZiBmdOZuKlbiqBOk",
-      "voz": "Marcos Vidal"
+      "id": "Nh2zY9kknu6z4pZy6FhD",
+      "voz": "David Martín",
+      "notas": "PENDIENTE: el ID que dio el autor (y6WtESLj18d0diFRruBs) no existe en ElevenLabs — usando el David Martín del plantel; confirmar o recopiar ID"
     },
     "uriel": {
       "id": "YKrm0N1EAM9Bw27j8kuD",
       "voz": "Leonidas"
     },
     "camael": {
-      "id": "8HZqgqbee8zgakPIPwm5",
-      "voz": "José Bionada"
+      "id": "g4ucswVjPpazgbDDe327",
+      "voz": "George"
     },
     "zadkiel": {
       "id": "gZiz6WFdAxF6MKJ0s5s6",
@@ -83,7 +84,8 @@
     },
     "cassiel": {
       "id": "Nh2zY9kknu6z4pZy6FhD",
-      "voz": "David Martín"
+      "voz": "David Martín",
+      "notas": "voz compartida con Rafael hasta confirmar ID — diferenciar por dirección"
     },
     "elom": {
       "id": "9iaRiYAiGlZImkI1Ruyh",
@@ -113,7 +115,8 @@
     },
     "_libres": {
       "arconte": "QtPMrakdgePQIUwOX7Ut",
-      "hernan": "sDuUJMeNJR828mXTRrDh"
+      "marcos_vidal": "BMHmZiBmdOZuKlbiqBOk",
+      "sara_martin_si_nael_cambia": null
     }
   },
   "retakes_pendientes_al_renovar": [
@@ -122,5 +125,69 @@
     "L1/03: línea de Uriel ok; verificar ninguna de Gabriel",
     "L1/04: regeneración completa en v2 (era Flash) — con Camael=José Bionada y Miguel=Vértice",
     "L1/05: líneas de Miguel (Vértice)"
-  ]
+  ],
+  "direccion_de_actor": {
+    "_doc": "Ficha técnica de habla por personaje. Al sintetizar una réplica se antepone como previous_text: '<descripcion> <Personaje> dijo, <entonacion>:'. Permite que una misma voz sirva a varios personajes con entregas distintas.",
+    "miguel": {
+      "descripcion": "La voz del General del Cielo: autoridad serena, grave, cansancio noble; jamás alza el tono",
+      "entonacion": "firme y sereno"
+    },
+    "lucifer": {
+      "descripcion": "El príncipe del Infierno: elegancia sedosa, sin ninguna prisa, saboreando cada palabra",
+      "entonacion": "casi divertido, sin prisa"
+    },
+    "ereloth": {
+      "descripcion": "El bufón divino: juguetón, teatral, sonrisa audible que esconde algo antiguo",
+      "entonacion": "riendo bajo"
+    },
+    "thaeriel": {
+      "descripcion": "El juez implacable: fuego contenido a la fuerza, tensión bajo la calma",
+      "entonacion": "frío y tenso"
+    },
+    "azael": {
+      "descripcion": "El equilibrio dormido: quietud absoluta, lentitud profunda, ajeno al tiempo",
+      "entonacion": "muy despacio"
+    },
+    "gabriel": {
+      "descripcion": "El heraldo: dulzura y armonía, calidez fraternal",
+      "entonacion": "con ternura"
+    },
+    "rafael": {
+      "descripcion": "El sanador: calma que diagnostica, voz baja y paciente",
+      "entonacion": "suave"
+    },
+    "uriel": {
+      "descripcion": "El halcón del Consejo: ardor, impaciencia, estallidos controlados",
+      "entonacion": "ardiente"
+    },
+    "camael": {
+      "descripcion": "El martillo del frente: franqueza militar, seco, directo",
+      "entonacion": "cortante"
+    },
+    "zadkiel": {
+      "descripcion": "El medidor del ciclo: precisión académica, gravedad tranquila",
+      "entonacion": "sin preámbulos"
+    },
+    "iofiel": {
+      "descripcion": "La archivista: rapidez seca, autoridad intimidante",
+      "entonacion": "tajante"
+    },
+    "belial": {
+      "descripcion": "El Señor del Orgullo: arrogancia fría, desprecio calculado",
+      "entonacion": "gélido"
+    },
+    "asmodeo": {
+      "descripcion": "La criatura del deseo: gutural, inquietante, saborea las palabras",
+      "entonacion": "gruñido lento"
+    },
+    "vepar": {
+      "descripcion": "El mariscal pragmático: calma oscura, análisis sin emoción",
+      "entonacion": "plano y frío"
+    },
+    "foras": {
+      "descripcion": "El vigilante de mil ojos: afilado, agresivo, sibilante",
+      "entonacion": "siseante"
+    },
+    "_reutilizacion": "Secundarios sin voz propia: elegir voz del pool + dirección distinta (p. ej. Dani como mensajero nervioso vs cortesano untuoso). La dirección diferencia; la voz se comparte."
+  }
 }
