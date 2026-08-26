@@ -49,8 +49,9 @@
       "voz": "George"
     },
     "zadkiel": {
-      "id": null,
-      "voz": "PENDIENTE — candidatos: Marcos Vidal (BMHmZiBmdOZuKlbiqBOk), Iván Jiménez (uU3UBoQh0Y9dhiuNRAiA)"
+      "id": "7QQzpAyzlKTVrRzQJmTE",
+      "voz": "Dani",
+      "notas": "ascendido de utilidades"
     },
     "iofiel": {
       "id": "YDDaC9XKjODs7hY78qEW",
@@ -67,8 +68,9 @@
       "voz": "Gork"
     },
     "vepar": {
-      "id": null,
-      "voz": "PENDIENTE — candidatos: Tommy Alen (R5hsaNjpvTxTyrEmoKyM), Juan Jiménez (EAt3u6VYgPo7ic9mWIyI)"
+      "id": "bsEDAkNZWaEolZ7vEeVJ",
+      "voz": "Abel",
+      "notas": "ascendido de utilidades"
     },
     "foras": {
       "id": "nfeqNafxKPTBjlfTCxQW",
@@ -96,26 +98,23 @@
       "notas": "liberada de Iofiel, ahora dedicada"
     },
     "lieutenant": {
-      "id": "bsEDAkNZWaEolZ7vEeVJ",
-      "voz": "Abel",
+      "id": "QtPMrakdgePQIUwOX7Ut",
+      "voz": "Arconte",
       "usos": [
         "teniente de Belial",
-        "cortesano1 L1/02"
-      ]
+        "cortesano1"
+      ],
+      "notas": "Abel ascendido a Vepar; utilidades → Arconte"
     },
     "runner": {
-      "id": "7QQzpAyzlKTVrRzQJmTE",
-      "voz": "Dani",
+      "id": "EAt3u6VYgPo7ic9mWIyI",
+      "voz": "Juan Jiménez",
       "usos": [
         "mensajero",
-        "cortesano2 L1/02",
-        "soldado L1/04-05"
-      ]
-    },
-    "_libres": {
-      "arconte": "QtPMrakdgePQIUwOX7Ut",
-      "marcos_vidal": "BMHmZiBmdOZuKlbiqBOk",
-      "sara_martin_si_nael_cambia": null
+        "cortesano2",
+        "soldado joven"
+      ],
+      "notas": "Dani ascendido a Zadkiel; utilidades → Juan Jiménez"
     }
   },
   "retakes_pendientes_al_renovar": [
@@ -132,7 +131,7 @@
       "entonacion": "firme y sereno"
     },
     "lucifer": {
-      "descripcion": "El príncipe del Infierno: elegancia sedosa, sin ninguna prisa, saboreando cada palabra",
+      "descripcion": "El príncipe del Infierno: elegancia sedosa, sin ninguna prisa, saboreando cada palabra; bajo la elegancia, un fondo tenebroso que nunca amenaza en voz alta",
       "entonacion": "casi divertido, sin prisa"
     },
     "ereloth": {
@@ -172,22 +171,40 @@
       "entonacion": "tajante"
     },
     "belial": {
-      "descripcion": "El Señor del Orgullo: arrogancia fría, desprecio calculado",
+      "descripcion": "El Señor del Orgullo: arrogancia gélida, resonancia baja y tenebrosa; el desprecio como música de fondo",
       "entonacion": "gélido"
     },
     "asmodeo": {
-      "descripcion": "La criatura del deseo: gutural, inquietante, saborea las palabras",
+      "descripcion": "La criatura del deseo: gutural, húmeda, inquietante; tenebrosa incluso cuando ofrece",
       "entonacion": "gruñido lento"
     },
     "vepar": {
-      "descripcion": "El mariscal pragmático: calma oscura, análisis sin emoción",
+      "descripcion": "El mariscal pragmático: plano, frío, oscuro; el análisis de una marea que no siente nada",
       "entonacion": "plano y frío"
     },
     "foras": {
-      "descripcion": "El vigilante de mil ojos: afilado, agresivo, sibilante",
+      "descripcion": "El vigilante de mil ojos: sibilante, afilado, tenebroso; una amenaza que nunca necesita gritar",
       "entonacion": "siseante"
     },
     "_reutilizacion": "Secundarios sin voz propia: elegir voz del pool + dirección distinta (p. ej. Dani como mensajero nervioso vs cortesano untuoso). La dirección diferencia; la voz se comparte."
   },
-  "_estructura_muestras": "Libro1/audiolibro/es/voice/<Nombre>/<NombreVoz>.mp3"
+  "_estructura_muestras": "Libro1/audiolibro/es/voice/<Nombre>/<NombreVoz>.mp3",
+  "voice_settings_bandas": {
+    "narrador": {
+      "stability": 0.55,
+      "similarity_boost": 0.75,
+      "style": 0.15
+    },
+    "celestiales": {
+      "stability": 0.45,
+      "similarity_boost": 0.8,
+      "style": 0.3
+    },
+    "infernales": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "_doc": "más inestabilidad y estilo = entrega más sombría; la dirección de actor añade el filo tenebroso"
+    }
+  }
 }

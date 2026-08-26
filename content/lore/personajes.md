@@ -16,6 +16,7 @@
 - **Height:** 2.25 m  
 - **Appearance:** Radiant golden armor with ancient cracks. Ash-white hair, eyes of bluish flame. Majestic wings vibrating with pure energy.  
 - **Weapon:** *Solmire* — Fragment of living light; part of the original sword of Ereloth.  
+- **Voz (audiolibro):** Grave y serena; autoridad que no necesita alzarse; cansancio noble en las pausas.  
 - **Personality:** Stoic, disciplined, devoted to duty. Believes faith and order are the shield against chaos.  
 - **Combat Style:** Direct and overwhelming. Leads from the front. His mere presence lifts the spiritual and moral strength of his troops.  
 
@@ -38,6 +39,7 @@
 - **Height:** 1.95 m  
 - **Divine Appearance:** Flowing robes of blue and silver, no armor. Sleek black hair, eyes like pure sapphire. His voice echoes even in silence.  
 - **Weapon:** *Vox Aeternum* — A staff that channels divine speech; seals souls, invokes pacts, or unleashes destructive hymns.  
+- **Voz (audiolibro):** Dulce, cálida, fraternal; la armonía se oye antes que la intención.  
 - **Personality:** Calm, reflective, a speaker of a thousand tongues. He never shouts. His tone alone can halt a war—or start one.  
 - **Combat Style:** Verbal sorcerer; casts sigils, seals, and sound manipulation to weaken armies from afar.  
 - **Human Form:** **Gabren Elion**, composer and professor of comparative theology.  
@@ -54,6 +56,7 @@
 - **Height:** 2.10 m  
 - **Divine Appearance:** Bare torso etched with living runes, bronzed skin, eyes like lightning trapped mid-burst.  
 - **Weapon:** *Ramiel* — A kinetic impact blade; every strike crashes like thunder.  
+- **Voz (audiolibro):** Seca, militar, sin adornos; frases cortas como golpes de martillo.  
 - **Personality:** Unquestionably loyal, plainspoken, and impatient with careful language that never turns into careful action. Was impulsive and aggressive in his younger years; centuries of frontier command have worn that into a contained, economical discipline — he still believes righteous violence is mercy delivered swiftly, but now applies that conviction with a soldier's patience rather than a brawler's. **Nota de consistencia (Libro II-III)**: en la prosa aprobada (B2C08, B3C11, y capítulos posteriores) Camael se muestra consistentemente contenido y profesional, nunca impulsivo en el sentido de perder el control — su franqueza y orientación al combate se mantienen, pero la vieja "agresividad impulsiva" queda como trasfondo histórico, no como rasgo activo.  
 - **Combat Style:** Disciplined and economical rather than reckless; when he commits to a strike it lands decisively, but he no longer wastes movement or advantage on display. Enemies rarely get a second chance.  
 - **Human Form:** **Cam Loren**, underground fighter in illegal dueling circuits.  
@@ -70,6 +73,7 @@
 - **Height:** 2.15 m  
 - **Divine Appearance:** Clear obsidian armor, silver eyes, judgment radiates from his gaze alone.  
 - **Weapon:** *Decretum* — A massive hammer that unleashes stored judgments with each strike.  
+- **Voz (audiolibro):** Precisa, académica, de gravedad tranquila; enuncia mediciones, no opiniones.  
 - **Personality:** Unbending, righteous, unshakable. Mercy is measured, not assumed.  
 - **Combat Style:** Calculated and overwhelming; each blow final, every decision irrevocable.  
 - **Human Form:** **Zad Lorien**, magistrate in a court that no longer exists.  
@@ -114,6 +118,7 @@
 
 - **Height:** 1.96 m  
 - **Weapon:** Staff *Memnón* — Invokes ancient memory.  
+- **Voz (audiolibro):** Rápida, tajante, intimidante; sin paciencia para rodeos.  
 - **Personality:** Scholarly, deliberate, obsessed with preservation.  
 - **Combat Style:** Supportive; recalls spells, histories, and tactics from the void.  
 
@@ -489,6 +494,7 @@
 - **Height:** 2.00 m  
 - **Divine Appearance:** White tunic embroidered with green, glowing armbands. Emerald eyes that reflect lost memories.  
 - **Weapon:** *Veritas* — A healing and shielding staff. Can restore bodies… or imprison souls.  
+- **Voz (audiolibro):** Baja, paciente, clínica; la calma que diagnostica y serena a los heridos.  
 - **Personality:** Serene, protective, deeply compassionate. Believes every soul can be redeemed—but never blindly.  
 - **Combat Style:** Defensive strategist. Shields vital zones, revives the fallen, nullifies magical threats.  
 - **Human Form:** **Rapha Elion**, trauma surgeon with a mysterious past.  
@@ -881,6 +887,7 @@
 - **Height:** 2.10 m  
 - **Divine Appearance:** Incandescent armor, blazing wings, eyes like burning coals; an ornate skull hangs from his belt.  
 - **Weapon:** *Ignis Lux* — Halberd of eternal flame that unleashes divine fire to consume all impurity.  
+- **Voz (audiolibro):** Ardiente e impaciente; estallidos controlados, como brasas que chisporrotean.  
 - **Personality:** Impulsive, brave, forthright; struggles with obedience yet never betrays.  
 - **Combat Style:** Total assault—wide swaths of purifying fire that devastate enemy lines.  
 
@@ -1302,6 +1309,7 @@
 - **Height:** 2.20 m  
 - **Appearance:** Celestial beauty turned corrupt—silvery‑white hair, wine‑red eyes, flawless pale skin, wings black as the void.  
 - **Weapon:** None fixed — gestures, words and occult sigils make the very world obey.  
+- **Voz (audiolibro):** Sedosa y sin prisa, cada palabra saboreada; bajo la elegancia, un fondo tenebroso que jamás amenaza en voz alta.  
 - **Personality:** Charismatic, elegant, ruthlessly manipulative; preaches absolute freedom.  
 - **Combat Style:** Never strikes head‑on; corrupts, divides and deceives, often posing as an ally until the truth comes too late.  
 - **The documented exception:** Lucifer does not fight — this is a fixed point of his character, not an unwritten habit. When he takes the field himself, once in an age, both armies read it as a declaration: whatever is about to happen matters more than his usual distance can afford. He carried Lamentum, briefly, to duel and kill Miguel in Book I's climax (B1C47–48) — Belial's spear, taken from Belial's own hand the night before the battle — and ceded it back to Belial immediately afterward. He did not keep it, and did not linger on the field once the duel ended. It remains the only recorded instance of Lucifer fighting a war in person.
@@ -1706,6 +1714,7 @@
 - **Height:** Variable (1.60 m – 2.10 m)  
 - **Appearance:** Ever‑shifting—sometimes androgynous, sometimes masculine or feminine—always beautiful, always unsettling.  
 - **Weapon:** *Nexus* — Chains of pleasure and pain that forge mental and emotional bonds with the victim.  
+- **Voz (audiolibro):** Gutural, húmeda, inquietante; saborea las palabras como carne; tenebrosa incluso cuando ofrece.  
 - **Personality:** Seductive, elegant, cruel.  
 - **Combat Style:** Psychic and emotional; disarms from within, mastering desires before crushing bodies.  
 
@@ -2033,6 +2042,7 @@
 - **Height:** 2.40 m  
 - **Appearance:** Living black armor, glowing tattoos, arrogant golden eyes.  
 - **Weapon:** *Dubium* — Mace that strikes the soul; each impact does more than physical harm: it injects doubt.  
+- **Voz (audiolibro):** Gélida y arrogante, resonancia baja y tenebrosa; el desprecio como música de fondo.  
 - **Personality:** Narcissistic, cruel strategist; convinced power is the sole real tongue.  
 - **Combat Style:** Warlord. Commands from the front and feeds on his enemies’ ego.  
 - **Lamentum:** Found and claimed the spear at the Weeping Sepulcher, and was the one who mastered her grief through weeks of costly training (B1C21–42). Handed her to Lucifer on the eve of Book I's climax — obedience and ambition offered in the same gesture — so that his king, not he, fought and killed Miguel with her. Lucifer returned Lamentum to him immediately after, a reward for the finding and the mastering that Belial never earned back through combat. He carries her again from that point on, including into Books II and III.
@@ -2047,6 +2057,7 @@
 - **Height:** 2.10 m  
 - **Appearance:** Tar‑dark cracked skin; multiple unblinking golden eyes; cloak of purple mist.  
 - **Weapon:** *Noesis* — Spine inserted into foes to drain their faith and replace it with arrogance.  
+- **Voz (audiolibro):** Sibilante, afilada, tenebrosa; una amenaza contenida que nunca necesita gritar.  
 - **Personality:** Philosopher of supremacy—serene yet utterly convinced of his superiority.  
 - **Combat Style:** Infects belief, spreading corrosive hubris through enemy ranks.  
 
@@ -2056,6 +2067,7 @@
 - **Height:** 2.08 m  
 - **Appearance:** Body translucent like briny water; long hair floating even on land.  
 - **Weapon:** *Aestus* — Trident that controls vital and environmental fluids.  
+- **Voz (audiolibro):** Plana, fría, oscura; el análisis de una marea que no siente nada.  
 - **Personality:** Cold, distant, calculating; voice echoes like the deep sea.  
 - **Combat Style:** Drowns battlefields in shifting currents of blood and brine.  
 

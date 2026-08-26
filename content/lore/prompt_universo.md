@@ -157,6 +157,7 @@ Ancient pre-Judgment archangels whose memory, power, and individuality were seal
 ---
 
 ### 🌞 Ereloth – *The Laughing Forger*  
+- **Voz (audiolibro):** Juguetona y teatral, cambia de ritmo sin aviso; una sonrisa audible con algo muy antiguo detrás.  
 **Aspect:** Irreverent Light  
 **Weapon:** Solmire  
 **Human Alias:** Milo Ray  
@@ -192,6 +193,7 @@ A radiant figure cloaked in fragments of unformed reality—his body shifting be
 ---
 
 ### ⚖️ Azael – *The Silent Balance*  
+- **Voz (audiolibro):** Lentísima, profunda, ajena al tiempo; cada frase como una piedra asentándose.  
 **Aspect:** Equilibrium  
 **Weapon:** Aetheris, the Broken Staff — channels soul-equilibrium; splinters if truth is betrayed  
 **Human Alias:** The Summit Sage (given name unknown), an elderly herbalist whose remedies are "impossible"  
@@ -224,6 +226,7 @@ A towering entity of serene gravity. Half of his body glows with celestial gold,
 ---
 
 ### 🔥 Thaeriel – *The Righteous Blade*  
+- **Voz (audiolibro):** Tensa y contenida; fuego bajo la calma, palabras medidas que pesan.  
 **Aspect:** Righteous Suffering  
 **Weapon:** Lamentum (Lamentum), Spear of Pure Pain — leaves spiritual wounds that never heal; pierces truth  
 **Human Alias:** Arin Cross, lone mercenary hunting war criminals  
