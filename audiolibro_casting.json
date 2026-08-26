@@ -1,0 +1,105 @@
+{
+  "_doc": "Casting oficial del audiolibro ES (ElevenLabs, español de España). NO cambiar IDs sin decisión del autor. Modelo de calidad: eleven_multilingual_v2. Pausas por transición: 0.5 pre-diálogo / 0.5 entre réplicas / 0.9 post-réplica / 0.65 narración / 1.6 escena / 1.2 título / 1.5 epígrafe.",
+  "principales": {
+    "narrator": {
+      "id": "OjrdP8Z2fWjVyt0scrL7",
+      "voz": "Mario",
+      "notas": "narrador único ES"
+    },
+    "miguel": {
+      "id": "hyKxCTlAqtnW188CgltM",
+      "voz": "Salva",
+      "notas": "el General; autoridad serena"
+    },
+    "lucifer": {
+      "id": "8HZqgqbee8zgakPIPwm5",
+      "voz": "José Bionada",
+      "notas": "íntimo, medio-bajo, sin prisa"
+    },
+    "gabriel": {
+      "id": "QtPMrakdgePQIUwOX7Ut",
+      "voz": "Arconte",
+      "notas": ""
+    },
+    "belial": {
+      "id": "5egO01tkUjEzu7xSSE8M",
+      "voz": "Carmelo",
+      "notas": ""
+    },
+    "uriel": {
+      "id": "YKrm0N1EAM9Bw27j8kuD",
+      "voz": "Leonidas",
+      "notas": ""
+    },
+    "camael": {
+      "id": "RnKqZYEeVQciORlpiCz0",
+      "voz": "Baldo",
+      "notas": ""
+    },
+    "rafael": {
+      "id": "BMHmZiBmdOZuKlbiqBOk",
+      "voz": "Marcos Vidal",
+      "notas": "calma que diagnostica"
+    },
+    "iofiel": {
+      "id": "KHCvMklQZZo0O30ERnVn",
+      "voz": "Sara Martín",
+      "notas": "doble uso puntual: Nael en L1/05"
+    },
+    "zadkiel": {
+      "id": "sDuUJMeNJR828mXTRrDh",
+      "voz": "Hernán Cortés",
+      "notas": ""
+    },
+    "cassiel": {
+      "id": "Nh2zY9kknu6z4pZy6FhD",
+      "voz": "David Martín",
+      "notas": ""
+    },
+    "elom": {
+      "id": "9iaRiYAiGlZImkI1Ruyh",
+      "voz": "Antonio",
+      "notas": ""
+    },
+    "ereloth": {
+      "id": "HMCmDsbKeaSZp5LMOYKR",
+      "voz": "Johnny",
+      "notas": ""
+    },
+    "remiel": {
+      "id": "dX2UjlDzOz7RY8kmMXZo",
+      "voz": "Matilda Paz",
+      "notas": "PROVISIONAL — revisar casting (profetisa críptica)"
+    }
+  },
+  "secundarios_reutilizables": {
+    "lieutenant": {
+      "id": "bsEDAkNZWaEolZ7vEeVJ",
+      "voz": "Abel",
+      "usos": [
+        "teniente de Belial (L1/51)",
+        "cortesano1 (L1/02)"
+      ]
+    },
+    "runner": {
+      "id": "7QQzpAyzlKTVrRzQJmTE",
+      "voz": "Dani",
+      "usos": [
+        "mensajero (L1/51)",
+        "cortesano2 (L1/02)",
+        "soldado joven (L1/04)",
+        "soldado de Nael (L1/05)"
+      ]
+    }
+  },
+  "pendientes_de_casting": [
+    "Thaeriel/Arin (L2+)",
+    "Mikel humano (L2+ — ¿el propio Salva u otra?)",
+    "Azael (L1/51 final + L3)",
+    "Asmodeo (L2/52+)",
+    "Vepar",
+    "Foras",
+    "Selaphiel",
+    "Sariel"
+  ]
+}
