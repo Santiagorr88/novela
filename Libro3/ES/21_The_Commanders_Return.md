@@ -16,7 +16,7 @@ Las puertas se abrieron antes de que Miguel alzara una mano para anunciarse, gir
 
 Gabriel se detuvo a unos pasos de distancia —pelo negro liso, ojos de zafiro, túnicas azules y plateadas que jamás habían necesitado armadura para sostener la atención de una sala—, mirándolo con una expresión para la que Miguel no tenía nombre preparado —reconocimiento e incredulidad, ninguno de los dos asentándose el tiempo suficiente como para que Miguel leyera cuál llevaba la delantera—. Miguel sintió la mirada de su hermano moverse despacio por su propio rostro, deteniéndose en sus ojos más tiempo que en cualquier otro sitio. El viejo Comandante que alguna vez se había erguido en esta puerta no había llevado nada tras los ojos salvo certeza. Esta nueva quietud llevaba algo enteramente distinto, el peso particular de nueve años pasados enseñando a aulas llenas de estudiantes que no tenían idea de qué estaban mirando en realidad, de corregir ensayos a la luz de una lámpara, de aprender despacio y dolorosamente qué significaba ser sencillamente un hombre en vez de un título.
 
-—¿Miguel? —dijo Gabriel, la única palabra cargando mil años de esperanza y duda en igual medida, temblorosa.
+—¿Miguel? —dijo Gabriel, con calidez audible bajo el temblor, la única palabra cargando mil años de esperanza y duda en igual medida, temblorosa.
 
 —Soy yo —dijo Miguel—. Todo yo, esta vez. No solo las partes que me permití recordar.
 
@@ -40,7 +40,7 @@ Uriel se detuvo a una docena de pasos, sus guerreros abriéndose en abanico tras
 
 Miguel lo recordaba de un centenar de viejos informes, rápido para la ira y más rápido todavía para actuar según ella, un soldado de soldados que jamás había fingido que la paciencia fuera una virtud que valorara particularmente. Recordó también que esa misma ira siempre había llegado junto a una defensa feroz e inquebrantable de quienquiera que Uriel hubiera decidido que valía la pena defender —las dos jamás se habían presentado por separado, en ninguna versión de él que Miguel pudiera recordar—. Ese recuerdo, al menos, le ofrecía algo familiar a lo que aferrarse en un patio que, por lo demás, se sentía más extraño de lo que se había preparado para enfrentar.
 
-—Traidor —dijo Uriel, la palabra llegando baja y dura—. Caíste. Estás manchado de mortalidad, y te paras aquí junto a... —Su mirada se movió hacia Ereloth y Azael por igual, el desprecio afilándose más ante lo que fuera que encontrara ahí—. ...cosas que no son de la Hueste.
+—Traidor —dijo Uriel, la palabra llegando baja y dura, derramándose ya hacia la siguiente antes de que nadie pudiera responder a la primera—. Caíste. Estás manchado de mortalidad, y te paras aquí junto a... —Su mirada se movió hacia Ereloth y Azael por igual, el desprecio afilándose más ante lo que fuera que encontrara ahí—. ...cosas que no son de la Hueste.
 
 Miguel sintió a Gabriel ponerse rígido a su lado, la mirada de este saltando una vez hacia Uriel y de vuelta sin una sola palabra ofrecida en ninguna dirección. Miguel no podía reprocharle el silencio. Él también habría vacilado, de estar en el lugar de Gabriel con tanta incertidumbre presionada contra mil años de esperanza.
 

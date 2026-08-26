@@ -8,7 +8,7 @@ Gabriel rose to meet him halfway, and Camael read the concern in his old friend'
 
 "You came straight from the front." It was not a question.
 
-"I came straight from watching six of my scouts fail to bring back a seventh," Camael said. "Straight seemed the only direction worth taking. I did not think this could wait for me to look presentable first, and I find, the longer this war runs, that I have less and less patience left for looking presentable regardless."
+"I came straight from watching six of my scouts fail to bring back a seventh," Camael said, his words flat and short, landing one after another like hammer strikes. "Straight seemed the only direction worth taking. I did not think this could wait for me to look presentable first, and I find, the longer this war runs, that I have less and less patience left for looking presentable regardless."
 
 Gabriel's gaze moved once, briefly, over the scorch mark on his shoulder, and something in his expression tightened. "That should have been seen to before you crossed."
 

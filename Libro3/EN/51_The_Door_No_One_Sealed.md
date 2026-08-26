@@ -18,7 +18,7 @@ He knew the feeling from the inside well enough to recognize it without needing 
 
 Valefar found him there, tether creaking, the scarred beast finally settling into something like sleep. "You feel it too," Valefar said, without preamble, in what Vine had come to read as the economy of a man who considered small talk a wasted key on a lock that didn't need one. "The whole camp's grown too quiet to trust."
 
-"I feel a pack that hasn't fought in a season," Vine said. "Not the same complaint as yours."
+"I feel a pack that hasn't fought in a season," Vine said, the words rough and few, same as always. "Not the same complaint as yours."
 
 "Isn't it." Valefar let the key turn once more in his grip, a habit Vine had learned, across their shared season on this line, meant the captain was already several moves further into a thought than his voice currently let on. "Vepar's built something with that Host commander nobody above him has bothered to audit properly. I don't care whether it's holding. I care that no one's checked what it would cost us the day it stopped."
 

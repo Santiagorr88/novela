@@ -34,7 +34,7 @@ He did not spend a fifth day deciding.
 
 He summoned Ezequiel to the same chart-room within the hour, and gave him the order plainly, without the ornament his rank would have entitled him to spend on it. "Release the Amaranth garrison," he said — four words, no speech attached — and watched Ezequiel take them with a single nod and nothing trailing behind it. Orifiel had trained a hundred captains across his centuries at this wall. He had come, over that same span, to read a great deal into the stillness with which the best of them received an order they might privately have questioned, and he read into Ezequiel's now what he had always read into it: not agreement, exactly, only the specific discipline of a man who kept his doubts, whatever they were, entirely his own to carry.
 
-"To the search," Ezequiel said. Not a question.
+"To the search," Ezequiel said, the words formal and unadorned, more oath than reply. Not a question.
 
 "To the search," Orifiel confirmed, and for the length of one unguarded breath wanted the younger man to ask him whether it was the right order before he carried it any further. Ezequiel didn't ask. He never did. Orifiel watched him go and told himself the not-asking was the discipline he had spent centuries teaching every captain under his command to have, and did not entirely convince himself of it before the chart-room door had finished closing behind him.
 

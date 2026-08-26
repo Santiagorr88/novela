@@ -8,7 +8,7 @@ Gabriel se levantó para recibirlo a medio camino, y Camael leyó la preocupaci�
 
 —Vienes directo del frente. —No era una pregunta.
 
-—Vengo directo de ver a seis de mis exploradores fallar en traer de vuelta a un séptimo —dijo Camael—. Directo me pareció la única dirección que valía la pena tomar. No pensé que esto pudiera esperar a que me arreglara antes, y encuentro, cuanto más se alarga esta guerra, que me queda cada vez menos paciencia para parecer presentable de todos modos.
+—Vengo directo de ver a seis de mis exploradores fallar en traer de vuelta a un séptimo —dijo Camael, las palabras planas y cortas, cayendo una tras otra como golpes de martillo—. Directo me pareció la única dirección que valía la pena tomar. No pensé que esto pudiera esperar a que me arreglara antes, y encuentro, cuanto más se alarga esta guerra, que me queda cada vez menos paciencia para parecer presentable de todos modos.
 
 La mirada de Gabriel se movió una vez, brevemente, sobre la quemadura en su hombro, y algo en su expresión se tensó. —Eso debería haberse atendido antes de que cruzaras.
 

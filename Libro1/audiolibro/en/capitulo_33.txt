@@ -22,7 +22,7 @@ He walked the length of his own chambers with the problem, the cold stone underf
 
 He summoned Corvin, one of his own subordinates, to the ritual chamber that evening — the young demon's nerves plain in the careful way he held himself at the circle's edge. The chamber smelled of old ash and older blood, the residue of centuries of bindings sealed into stone that no amount of time had scrubbed clean. Malthus traced the pact-circle without hurrying, chalk and blood and ash arranging into the pattern Maleth demanded of him.
 
-Malthus traced the circle without pause. "Ash doesn't go back to being wood. And blood, once it's spilled, doesn't choose who it serves. Think on that while you can still choose yourself." Corvin's voice, when he answered, carried only the thinnest thread of steadiness. "I'd rather owe you a handful of ash than burn whole with whoever comes after." Malthus nodded, satisfied enough by the answer that he saw no need to explain the parable further.
+Malthus traced the circle without pause. "Ash doesn't go back to being wood. And blood, once it's spilled, doesn't choose who it serves. Think on that while you can still choose yourself." The words came in the same unhurried cadence he gave every rite, so that even a warning sounded like liturgy already spoken once before. Corvin's voice, when he answered, carried only the thinnest thread of steadiness. "I'd rather owe you a handful of ash than burn whole with whoever comes after." Malthus nodded, satisfied enough by the answer that he saw no need to explain the parable further.
 
 He drew the blade across his own palm and let three drops fall onto the ash Corvin had scattered at the circle's center, watching the dark liquid spread and catch until the two substances bound into one. The sigils ringing the circle flared once, low and steady, then settled into a faint, permanent glow. Corvin's breathing, ragged through the whole of it, eased only once the glow settled.
 
@@ -48,7 +48,7 @@ Stolas found Vepar where anyone who knew him would have looked first, standing a
 
 "Foras is weak," Vepar said, without preamble, his voice carrying the resonant quality of words spoken from deep water, even here on dry stone. "And weakness is only another fluid, waiting to find its level." He gestured once at the thread of blood. "Go and learn exactly how far the tide has gone out."
 
-Stolas considered the instruction a moment. "Am I looking for anything specific," he asked, "or just whatever happens to be floating?" Vepar's mouth curved, faint and slow. "Everything floats, eventually. You only need to collect it before anyone else does."
+Stolas considered the instruction a moment, in no hurry to fill the silence with it. "Am I looking for anything specific," he asked, "or just whatever happens to be floating?" Vepar's mouth curved, faint and slow. "Everything floats, eventually. You only need to collect it before anyone else does."
 
 Stolas withdrew to his own working chambers within the hour, Umbra Manus already open across his desk, its pages a deep black that seemed to swallow rather than reflect the light. He had never much enjoyed fieldwork — the crude business of moving bodies through physical space to gather what could, with patience, simply be extracted from the fabric of the world itself. He began with the oldest bindings, incantations that reached backward through recorded time instead of forward through space, unearthing the layered history of Foras's holdings one excavation at a time.
 

@@ -14,7 +14,7 @@ Vorlag met him at the gates with an army arranged behind him in ranks precise en
 
 "One champion," Vorlag said, and laughed, a sound like something enormous grinding against something smaller. "Hell trembles." He swept the axe out toward his assembled ranks, chin lifted, not so much as glancing back to check that they were still there. "I was told the Judge who walks alone might finally be worth the songs written about him. I see a single fool who miscounted his own army."
 
-"I didn't bring an army," Thaeriel said. "I didn't come to fight yours."
+"I didn't bring an army," Thaeriel said, his voice level and quiet, none of the fire audibly stirring beneath it yet. "I didn't come to fight yours."
 
 "Then what did you come to do?"
 

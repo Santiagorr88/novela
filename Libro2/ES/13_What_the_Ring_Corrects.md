@@ -22,7 +22,7 @@ La reliquia invocaba muros donde las repisas rotas del desfiladero sugerían que
 
 Orobas llegó sin ningún sonido digno de nota, lo que Malphas tomó, correctamente, por hábito y no por accidente.
 
-—Has estado ocupado. —Orobas contempló el desfiladero despacio, con una diversión tenue, la mirada de un hombre decidiendo si un cuadro merece la admiración que claramente está buscando—. Balam me envió para asegurarme de que resista.
+—Has estado ocupado. —Orobas contempló el desfiladero despacio, con una diversión tenue, la voz tan ligera y desprovista de peso como la mirada, la de un hombre decidiendo si un cuadro merece la admiración que claramente está buscando—. Balam me envió para asegurarme de que resista.
 
 —Resiste. —Malphas no intentó quitarle el filo a su voz; le pareció que tenía poco sentido, tan temprano, fingir que no había ningún filo—. No recuerdo haber pedido una segunda opinión.
 

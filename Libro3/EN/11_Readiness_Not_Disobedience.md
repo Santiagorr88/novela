@@ -4,7 +4,7 @@ The drill ground sat on a scorched shelf of rock at the edge of Heaven's outer w
 
 The soldier's knees had already found that scorched ground by the time Kushiel reached him, which told Kushiel most of what he needed to know before a single word passed between them. A man who broke formation under a false alarm and then knelt without being told was a man who already understood his own verdict. Kushiel preferred that. It saved time, and it meant the lesson would land somewhere that still had room to hold it.
 
-"You called retreat," Kushiel said, "on a flare that wasn't ours."
+"You called retreat," Kushiel said, each word landing with the same flat, final weight as the hammer at his hip, "on a flare that wasn't ours."
 
 "I thought—" The soldier's voice cracked on the second word and didn't recover for the third. "I thought it was the signal, Commander. I thought we were already lost."
 
@@ -36,7 +36,7 @@ Kushiel said nothing for a moment. Below the ridge, the drill continued without 
 
 ---
 
-Kemuel found them there a few minutes later, climbing the last stretch of the ridge two strides at a time, his blade still sheathed but his hand resting on it in the way Kushiel had long since learned to read as a decision already half-made. "Thariel's face when he passed my column," Kemuel said, "wasn't a face carrying good news. What did the choir sing this time?"
+Kemuel found them there a few minutes later, climbing the last stretch of the ridge two strides at a time, his blade still sheathed but his hand resting on it in the way Kushiel had long since learned to read as a decision already half-made. "Thariel's face when he passed my column," Kemuel said, a grin already audible in his voice before it reached his face, "wasn't a face carrying good news. What did the choir sing this time?"
 
 "Gabriel's stood his council down," Kushiel said. "Told them the real war's happening somewhere they can't reach it, and that their part in it now is watching, not fighting."
 

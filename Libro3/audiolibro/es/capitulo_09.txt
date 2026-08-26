@@ -14,7 +14,7 @@ Vorlag lo recibió en las puertas con un ejército dispuesto tras él en filas l
 
 —Un solo campeón —dijo Vorlag, y rió, un sonido como algo enorme rechinando contra algo más pequeño—. El Infierno tiembla. —Barrió el hacha hacia sus filas reunidas, la barbilla alzada, sin siquiera echar un vistazo atrás para comprobar que seguían ahí—. Me dijeron que el Juez que camina solo podría por fin merecer las canciones que se escriben sobre él. Veo a un simple necio que contó mal su propio ejército.
 
-—No traje un ejército —dijo Thaeriel—. No vine a combatir al tuyo.
+—No traje un ejército —dijo Thaeriel, la voz pareja y baja, sin que el fuego se agitara todavía debajo—. No vine a combatir al tuyo.
 
 —¿Entonces a qué viniste?
 

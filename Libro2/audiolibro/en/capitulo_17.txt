@@ -8,7 +8,7 @@ Sariel arrived without announcing himself, the way Gabriel had come to expect fr
 
 Gabriel studied him before speaking, the way he'd learned to study every soldier he was about to send somewhere he couldn't follow. Sariel had changed little across the centuries Gabriel had known him — not tall for one of his kind, nothing about him spent on display, the spear Penumbra never far from his hand even here — the same economy of movement, the same eyes that catalogued a room before the rest of him had finished crossing its threshold, a hunter's habits worn so deep into him they no longer looked like habits at all. It was easy, working alongside a man that steady for so long, to forget how much that steadiness had cost him to build.
 
-"You summoned me outside the council," Sariel said. "That's not a small thing, coming from you."
+"You summoned me outside the council," Sariel said, his voice as spare and unhurried as everything else about him, no more sound spent than the sentence required. "That's not a small thing, coming from you."
 
 "No. It isn't. What I have to tell you isn't ready for that room yet, and may never be, depending on what you bring back from where I'm about to send you."
 

@@ -18,7 +18,7 @@ Conocía la sensación desde dentro lo bastante bien como para reconocerla sin n
 
 Valefar lo encontró allí, la atadura crujiendo, la bestia cubierta de cicatrices por fin asentándose en algo parecido al sueño. —Tú también lo sientes —dijo Valefar, sin preámbulo, con lo que Vine había llegado a leer como la economía de un hombre que consideraba la charla trivial una llave malgastada en una cerradura que no la necesitaba—. Todo el campamento se ha vuelto demasiado silencioso como para confiar en él.
 
-—Yo siento una manada que no ha peleado en una temporada —dijo Vine—. No es la misma queja que la tuya.
+—Yo siento una manada que no ha peleado en una temporada —dijo Vine, las palabras ásperas y escasas, como siempre—. No es la misma queja que la tuya.
 
 —¿No lo es? —Valefar dejó que la llave girara una vez más en su puño, un hábito que Vine había aprendido, durante su temporada compartida en esta línea, significaba que el capitán ya iba varios pasos más adelante en un pensamiento de lo que su voz por el momento dejaba ver—. Vepar ha construido algo con ese comandante de la Hueste que nadie por encima de él se ha molestado en auditar como es debido. No me importa si se sostiene. Me importa que nadie haya comprobado qué nos costaría el día en que dejara de hacerlo.
 

@@ -2,7 +2,7 @@
 
 Camael found him in the training yard, spear already in hand, and did not waste time on preamble. "There's a demon masking itself in a human host, in a city called Navarion. I want you on it." He said it already half-turned to leave, as though the matter had been settled before he arrived.
 
-Sariel did not look up from Penumbra, running a cloth along its edge out of habit more than need, the motion unbroken by the interruption — a spear he'd carried so long the motion needed no attention at all, the same economy that ran through everything he did — nothing wasted, nothing repeated — quiet enough that newer recruits sometimes forgot he'd entered a room until he spoke. "Why me?"
+Sariel did not look up from Penumbra, running a cloth along its edge out of habit more than need, the motion unbroken by the interruption — a spear he'd carried so long the motion needed no attention at all, the same economy that ran through everything he did — nothing wasted, nothing repeated — quiet enough that newer recruits sometimes forgot he'd entered a room until he spoke — and even then, no more words than the question needed. "Why me?"
 
 "Because souls don't lie to you, and this hunt needs someone who won't be talked out of anything." Camael's tone left no room for negotiation, though it very rarely did with him.
 

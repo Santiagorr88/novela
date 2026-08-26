@@ -14,7 +14,7 @@ The outpost sat a half-day's walk from the fortress Foras still hadn't managed t
 
 She walked its perimeter once before choosing anyone, reading the garrison as she read most things — a structure built on assumptions its own inhabitants had mostly stopped examining. Most of the soldiers she passed wore Foras's colors with the loose, unbothered confidence of men who had simply never been asked to justify the wearing. A handful wore them differently — a fraction too neat, a fraction too deliberate, the over-correction of someone convincing himself of a loyalty he suspected, somewhere underneath the performance, he no longer fully possessed. She catalogued four of those before she found the one she wanted: a soldier posted alone at the garrison's outer perimeter, young enough that his loyalty hadn't yet had time to calcify into either genuine conviction or practiced performance, which made him, in her experience, the most honest kind of witness Hell's current disarray had left to offer.
 
-"You've sworn to Foras," she said, settling *Laberynthus* into her palm without raising it, without any gesture that resembled a threat at all. "I'd like to understand why."
+"You've sworn to Foras," she said, her voice soft and clinical, settling *Laberynthus* into her palm without raising it, without any gesture that resembled a threat at all. "I'd like to understand why."
 
 "He's the strongest claimant left standing." The soldier said it the way a man says something he's repeated often enough to believe it's his own thought rather than a borrowed one.
 

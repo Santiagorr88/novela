@@ -16,7 +16,7 @@ Había ensayado la presentación más de una vez antes de entrar en este salón,
 
 Aamon escuchó con los brazos cruzados, la expresión con el mismo cálculo cauteloso que aplicaba a cualquier regalo que no hubiera pedido y todavía no hubiera tasado. Para cuando Belial terminó de hablar, esa expresión ya había virado hacia el apetito.
 
-—El orden dentro del caos se talla a golpe de hoja y furia —dijo Aamon, más para sí mismo que para Belial, dándole vueltas al plan como si él mismo lo hubiera imaginado primero.
+—El orden dentro del caos se talla a golpe de hoja y furia —dijo Aamon, la voz fría y marcial incluso vuelta hacia sí mismo, más para sí mismo que para Belial, dándole vueltas al plan como si él mismo lo hubiera imaginado primero.
 
 Hizo dos preguntas agudas sobre el momento y la formación. Belial había anticipado ambas y las respondió antes de que Aamon terminara de formularlas. Para el tercer intercambio, el plan había dejado de pertenecerle a Belial por completo en el propio relato de Aamon. No preguntó nada sobre lo que en realidad significaban las coordenadas más allá de un convoy que valía la pena tomar —Belial juzgó, por la forma de sus preguntas, que su comandante no veía ahí más que el blanco más rico que le habían ofrecido en mucho tiempo—. El cruce era, en verdad, un lugar de vasto significado oculto y ningún valor estratégico en absoluto, una distinción a la que las preguntas de Aamon nunca se acercaron.
 

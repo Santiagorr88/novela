@@ -12,7 +12,7 @@ He kept walking, because there was nothing else to do with legs that already kne
 
 Camael watched the ranks file past him on the return march, faces set in the same stunned quiet that had settled over the whole legion since the strike, and said nothing to any of them. He had seen soldiers go quiet after a hard loss before. He had never seen them go quiet after a victory this clean, and the difference unsettled him more than he was willing to admit to anyone currently walking beside him. He fell into step at the rear of the column, watching the backs of soldiers who would normally be trading stories by now, comparing kills, already turning the day into something they could carry home and repeat. None of that happened today.
 
-Jeremiel fell into step beside him eventually, close enough to speak without being overheard, his own expression carrying the same unsettled weight Camael had seen in every face down the line. "Something's wrong, isn't it. Not just this — before this too."
+Jeremiel fell into step beside him eventually, close enough to speak without being overheard, his own expression carrying the same unsettled weight Camael had seen in every face down the line, his voice pitched with the same warmth he used to talk nervous recruits through a first battle. "Something's wrong, isn't it. Not just this — before this too."
 
 Camael did not answer immediately. He had learned, across centuries commanding soldiers younger than Jeremiel, exactly how much silence a question like that deserved before it earned a real answer, and he gave it that silence now, turning the question over more carefully than he let his face show. "It's been wrong for a while now," he said finally. "Today's just the first time it got loud enough to notice."
 

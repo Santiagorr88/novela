@@ -20,7 +20,7 @@ Belial turned the proposal over the way he turned every proposal his sorcerers b
 
 "In essence, my lord. Yes."
 
-"Then do it," Belial said, and felt no particular satisfaction in the saying, only the flat, functional relief of a man setting down a portion of a weight he had never been permitted to set down cleanly. "Quietly. I have no interest in a crusade. I have interest in not feeling this particular door close inside me one inch further every single day."
+"Then do it," Belial said, his voice cold and pitched low, the kind of contempt that never had to reach for volume to be felt, and felt no particular satisfaction in the saying, only the flat, functional relief of a man setting down a portion of a weight he had never been permitted to set down cleanly. "Quietly. I have no interest in a crusade. I have interest in not feeling this particular door close inside me one inch further every single day."
 
 ---
 

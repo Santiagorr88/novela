@@ -8,7 +8,7 @@ A flicker of shadow resolved into a second figure a few paces off, arriving with
 
 He studied the newcomer a moment before speaking, cataloguing what he could of the figure now standing a few paces off — a hood and shifting cowl of shadow that gave up nothing but the sharp, angular suggestion of a jawline beneath it, a stillness of his own that carried a very different quality than Sariel's, coiled rather than settled, ready to move in any direction at the smallest provocation.
 
-"Andras," he said, not a question.
+"Andras," he said, not a question, the words clipped to exactly what the moment required and no further.
 
 "Sariel." The demon's voice carried a dry, loose amusement that did nothing to soften the shadowed edge of the hood still hiding whatever expression sat beneath it. "Observe the anomaly. Report. Don't kill each other." He spread both hands slightly, palms out. "I was told the last part might prove the hardest."
 

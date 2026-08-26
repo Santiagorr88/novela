@@ -12,7 +12,7 @@ He read the passage twice, his expression giving away nothing beyond a stillness
 
 "You're certain of the translation," he said finally.
 
-"As certain as three independent passes can make me," Iofiel answered, keeping her voice level. "It's fragmentary. I don't have a location, only a description."
+"As certain as three independent passes can make me," Iofiel answered, keeping her voice level, precise as a measurement offered instead of an opinion. "It's fragmentary. I don't have a location, only a description."
 
 Gabriel set the page down carefully, as though it might tear under too much handling, and was quiet again a moment longer than she expected.
 
@@ -48,7 +48,7 @@ Neither seemed willing to yield the floor, and for several exchanges the debate 
 
 It was Zadkiel who finally broke the deadlock, and not in either direction the table had been pulling toward — pale obsidian armor, silver eyes that had a way of landing on a person like a verdict already reached before he'd said a word. He had said nothing through the whole exchange, arms crossed, those same eyes fixed on the fragment rather than on either man arguing over it. Uriel, mid-argument, had twice glanced toward him and twice looked away before finishing the thought, as though some part of him already knew how the sentence would be graded.
 
-"Show me the location," he said, when the room had quieted enough for his voice to land. "Not a description. A location."
+"Show me the location," he said, his voice as flat and exact as the standard he held everyone to, when the room had quieted enough for it to land. "Not a description. A location."
 
 Iofiel opened her mouth to explain again that the text offered no such thing, and Zadkiel continued before she needed to.
 

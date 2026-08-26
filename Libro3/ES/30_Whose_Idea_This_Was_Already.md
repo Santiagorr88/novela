@@ -6,7 +6,7 @@ Gusion mismo no necesitaba semejante cortesía. Se mantenía de pie como siempre
 
 —Dilo otra vez —dijo ella—, la parte sobre el escudo.
 
-—La línea avanzada de Camael, sosteniendo posición en el borde del valle, con las alas de ataque de Vepar lanzando incursiones desde detrás de ella. —Gusion dejó el informe sobre un escritorio que era, en verdad, solo el recuerdo de un escritorio, su pluma, nunca lejos de su mano incluso cuando no le quedaba nada que firmar, dando un golpecito contra su propio reflejo—. Ya no es un rumor. Tres correos distintos han contado ahora la misma forma de la historia, de manera independiente. Se sostiene. Lleva semanas sosteniéndose.
+—La línea avanzada de Camael, sosteniendo posición en el borde del valle, con las alas de ataque de Vepar lanzando incursiones desde detrás de ella. —Gusion dejó el informe sobre un escritorio que era, en verdad, solo el recuerdo de un escritorio, su tono no más cálido que el propio informe, su pluma, nunca lejos de su mano incluso cuando no le quedaba nada que firmar, dando un golpecito contra su propio reflejo—. Ya no es un rumor. Tres correos distintos han contado ahora la misma forma de la historia, de manera independiente. Se sostiene. Lleva semanas sosteniéndose.
 
 —¿Y el trono lo sabe cómo?
 
@@ -46,7 +46,7 @@ Volvió a guardar silencio, y ella observó cómo el cálculo se asentaba detrá
 
 No había dado veinte pasos cuando Stolas llegó hasta él, y el valle llevaba las voces más lejos de lo que ninguno de los dos hombres parecía recordar cuando importaba —captó la forma de aquello sin necesidad de aminorar su propio paso.
 
-—Acabas de darle todo el mes —lo oyó decir.
+—Acabas de darle todo el mes —lo oyó decir, sin prisa y con un desdén perceptible incluso a esa distancia.
 
 —Le di un recado. —Vepar no alzó la vista de la tablilla de requisiciones que ya reclamaba su atención—. El mes sigue siendo mío. Ocurrió en este terreno, bajo mis órdenes, con mis soldados sosteniéndolo. Una historia sobre ello no cambia nada de lo que en realidad sucedió.
 

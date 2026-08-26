@@ -22,7 +22,7 @@ The relic summoned walls where the defile's own broken shelves suggested walls b
 
 Orobas arrived without any sound worth noticing, which Malphas took, correctly, as a habit rather than an accident.
 
-"You've been busy." Orobas took in the defile slowly, faintly amused, the look of a man deciding whether a painting deserves the admiration it's clearly angling for. "Balam sent me to make sure it holds."
+"You've been busy." Orobas took in the defile slowly, faintly amused, his voice as light and unweighted as the glance, the look of a man deciding whether a painting deserves the admiration it's clearly angling for. "Balam sent me to make sure it holds."
 
 "It holds." Malphas didn't try to keep the edge out of his voice; there seemed little point, this early, in pretending an edge wasn't there. "I don't recall requesting a second opinion."
 

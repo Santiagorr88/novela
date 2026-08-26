@@ -16,7 +16,7 @@ Belial no rio. Se quedó muy quieto, los ojos fijos en el soldado tembloroso, y 
 
 Foras estaba de pie lo bastante cerca como para que se le oyera sin alzar la voz, inmóvil salvo por las palabras —la piel agrietada oscura como alquitrán, un manto de niebla púrpura que nunca terminaba de asentarse, y más del par habitual de ojos, todos dorados, ninguno parpadeando jamás al mismo tiempo que los demás—. Sentirse observado por él siempre se parecía a sentirse observado por más gente de la que en realidad había en la sala. No se molestó en dirigir su comentario a nadie en particular. —Cuentos de fantasmas —dijo, observando el temblor persistente del superviviente desde el otro lado del salón con algo que podría haber sido lástima y podría haber sido desprecio—. Lo bastante buenos para asustar a quienes todavía creen en algo.
 
-Belial no se giró hacia él. —Entonces alégrate de no creer en nada, Foras. No tendrás nada que perder cuando resulte ser cierto.
+Belial no se giró hacia él, la voz en ese registro bajo y parejo que nunca necesitaba alzar para dar en el blanco. —Entonces alégrate de no creer en nada, Foras. No tendrás nada que perder cuando resulte ser cierto.
 
 Las palabras no llevaban calor alguno, y esa llaneza fue lo que hizo que la sala se quedara callada a su alrededor por un momento. Foras inclinó ligeramente la cabeza, un gesto que Belial optó por leer como aceptación, no mostró ofensa visible, y no dijo nada más. La atención de Belial ya había vuelto al superviviente de rodillas, pero el comentario había calado en un lugar que no había pretendido, pinchando un orgullo cuyos bordes rara vez dejaba ver a nadie. Archivó la pequeña irritación y se dijo, con firmeza, que estaba por debajo de su atención. No lo estaba, del todo, y lo sabía.
 
@@ -36,7 +36,7 @@ Encontró a Lucifer donde solía encontrarlo con más frecuencia —no en la sal
 
 —Ya has oído el informe —dijo Belial, sin preámbulo—. ¿Qué es?
 
-Lucifer no alzó la vista de su libro. —Hay canciones antiguas sobre cosas así, Belial. Más antiguas que esta guerra... o eso afirmaban sus cantores. —Pasó una página, sin prisa—. Algunas notas es mejor dejarlas sin cantar.
+Lucifer no alzó la vista de su libro, la voz lenta y baja, cada palabra puesta como si ya hubiera decidido que merecía la pena decirla. —Hay canciones antiguas sobre cosas así, Belial. Más antiguas que esta guerra... o eso afirmaban sus cantores. —Pasó una página, sin prisa—. Algunas notas es mejor dejarlas sin cantar.
 
 —Eso no es una respuesta.
 

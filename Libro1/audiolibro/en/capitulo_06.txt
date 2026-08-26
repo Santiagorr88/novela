@@ -16,7 +16,7 @@ Belial did not laugh. He held very still, his eyes fixed on the trembling soldie
 
 Foras stood near enough to be heard without raising his voice, motionless except for the words — skin cracked dark as tar, a cloak of violet mist that never quite settled, and more than the usual pair of eyes, all of them gold, none of them ever blinking at the same time as the others. Being watched by him always felt like being watched by more people than were actually in the room. He did not bother directing his comment at anyone in particular. "Ghost stories," he said, watching the survivor's continued trembling from across the hall with something that might have been pity and might have been contempt. "Good enough to frighten those who still believe in something."
 
-Belial did not turn toward him. "Then be glad you believe in nothing, Foras. You'll have nothing to lose when it turns out to be true."
+Belial did not turn toward him, his voice pitched at the low, even register that never needed raising to land. "Then be glad you believe in nothing, Foras. You'll have nothing to lose when it turns out to be true."
 
 The words carried no heat, and that flatness was what made the room go quiet around them for a moment. Foras inclined his head slightly, a gesture Belial chose to read as acceptance, showed no visible offense, and said nothing further. Belial's attention had already returned to the kneeling survivor, but the comment had landed somewhere he had not intended, pricking at a pride he rarely let anyone see the edges of. He filed the small irritation away and told himself, firmly, that it was beneath his notice. It was not, entirely, and he knew it.
 
@@ -36,7 +36,7 @@ He found Lucifer where he most often found him — not in the throne room, not a
 
 "You've heard the report by now," Belial said, without preamble. "What is it?"
 
-Lucifer did not look up from his book. "There are old songs about such things, Belial. Older than this war — or so their singers claimed." He turned a page, unhurried. "Some notes are best left unsung."
+Lucifer did not look up from his book, his voice unhurried and low, each word laid down as though he had already decided it was worth the saying. "There are old songs about such things, Belial. Older than this war — or so their singers claimed." He turned a page, unhurried. "Some notes are best left unsung."
 
 "That's not an answer."
 

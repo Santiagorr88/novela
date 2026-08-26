@@ -6,7 +6,7 @@ Gusion himself needed no such courtesy. He stood the way he always stood, she'd 
 
 "Say it again," she said, "the part about the shield."
 
-"Camael's forward line, holding position at the valley's edge, with Vepar's strike wings running raids out from behind it." Gusion set the report down on a desk that was, in truth, only the memory of a desk, his quill, never far from his hand even when he had nothing left to sign, tapping once against its own reflection. "Not a rumor anymore. Three separate couriers have said the same shape of it now, independently. It's holding. It's been holding for weeks."
+"Camael's forward line, holding position at the valley's edge, with Vepar's strike wings running raids out from behind it." Gusion set the report down on a desk that was, in truth, only the memory of a desk, his tone no warmer than the report itself, his quill, never far from his hand even when he had nothing left to sign, tapping once against its own reflection. "Not a rumor anymore. Three separate couriers have said the same shape of it now, independently. It's holding. It's been holding for weeks."
 
 "And the throne knows this how?"
 
@@ -46,7 +46,7 @@ He was quiet again, and she watched the calculation settle behind his stillness 
 
 She had not gone twenty paces before Stolas reached him, and the valley carried voices further than either man seemed to remember when it mattered — she caught the shape of it without needing to slow her own step.
 
-"You just gave her the whole month," she heard him say.
+"You just gave her the whole month," she heard him say, unhurried and faintly contemptuous even at that distance.
 
 "I gave her an errand." Vepar didn't look up from the requisition tablet already claiming his attention. "The month is still mine. It happened on this ground, under my orders, with my soldiers holding it. A story about it changes nothing that actually occurred."
 

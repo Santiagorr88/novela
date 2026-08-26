@@ -40,7 +40,7 @@ Karin took it without flinching, though something crossed her face Laila recogni
 
 "And if we find nothing. Which is what everyone before us has found."
 
-Laila set down the gauntlet she'd been mending and gave the question the honesty it deserved rather than the reassurance it might have been easier to offer. "Then you will have spent weeks confirming an absence instead of a presence, and that will feel, most days, like the same thing as failure." She held Karin's gaze, wanting her to hear the rest without softening. "It isn't the same thing. A bearer who hasn't been found yet is not a bearer who doesn't exist. I have spent longer than either of us can easily count guarding people for relics they hadn't claimed yet, and I have never once regretted the years that came before the claiming, however many of them there were."
+Laila set down the gauntlet she'd been mending and gave the question the honesty it deserved rather than the reassurance it might have been easier to offer, her voice carrying the same warmth she'd spent centuries turning into steel rather than softness. "Then you will have spent weeks confirming an absence instead of a presence, and that will feel, most days, like the same thing as failure." She held Karin's gaze, wanting her to hear the rest without softening. "It isn't the same thing. A bearer who hasn't been found yet is not a bearer who doesn't exist. I have spent longer than either of us can easily count guarding people for relics they hadn't claimed yet, and I have never once regretted the years that came before the claiming, however many of them there were."
 
 "You haven't answered the question, Captain."
 

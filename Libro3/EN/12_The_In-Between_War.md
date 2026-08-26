@@ -2,7 +2,7 @@
 
 Camael held the vanguard at the edge of the In-Between, where the light of Heaven's border thinned into something closer to dusk than day, and watched the demonic fleet assemble across the gap in ranks precise enough to suggest a marshal who valued discipline over spectacle. He had commanded engagements longer than he cared to number, in stretches of contested space uglier than this one, and had long ago stopped expecting any of them to feel like anything but work. He checked his own formation once, found no fault in it, and allowed himself exactly the amount of satisfaction the moment warranted — which was, by his own long-held standard, very little.
 
-"Numbers?" he asked, not looking away from the gap.
+"Numbers?" he asked, not looking away from the gap, the question clipped down to its single necessary word the way every order out of him tended to be.
 
 "Matched, near enough," his aide answered. "Their marshal's holding position too. Waiting on us as much as we're waiting on him."
 

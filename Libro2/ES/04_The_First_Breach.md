@@ -34,7 +34,7 @@ No pasó un quinto día decidiendo.
 
 Convocó a Ezequiel a la misma sala de mapas en menos de una hora, y le dio la orden con llaneza, sin el ornamento que su rango le habría permitido gastar en ella. —Libera la guarnición de Amaranto —dijo, cuatro palabras, sin discurso adjunto, y observó a Ezequiel tomarlas con un solo asentimiento y nada arrastrándose detrás. Orifiel había entrenado a un centenar de capitanes a lo largo de sus siglos ante este muro. Había llegado, en ese mismo lapso, a leer mucho en la quietud con que los mejores de ellos recibían una orden que en privado podrían haber cuestionado, y leyó en la de Ezequiel ahora lo que siempre había leído en ella: no acuerdo, exactamente, solo la disciplina específica de un hombre que guardaba sus dudas, fueran las que fuesen, enteramente para sí mismo.
 
-—Hacia la búsqueda —dijo Ezequiel. No una pregunta.
+—Hacia la búsqueda —dijo Ezequiel, las palabras formales y sin adorno, más juramento que respuesta. No una pregunta.
 
 —Hacia la búsqueda —confirmó Orifiel, y se descubrió, durante el lapso de una respiración desprevenida, deseando que el hombre más joven le preguntara si era la orden correcta antes de llevarla más lejos. Ezequiel no preguntó. Nunca lo hacía. Orifiel lo vio marcharse y se dijo que ese no preguntar era la disciplina que había pasado siglos enseñando a cada capitán bajo su mando, y no terminó de convencerse de ello antes de que la puerta de la sala de mapas terminara de cerrarse tras él.
 

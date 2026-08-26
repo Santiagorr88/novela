@@ -40,7 +40,7 @@ Karin la tomó sin flaquear, aunque algo cruzó su rostro que Laila reconoció d
 
 —¿Y si no encontramos nada? Que es lo que ha encontrado todo el mundo antes que nosotros.
 
-Laila dejó el guantelete que había estado remendando y le dio a la pregunta la honestidad que merecía en vez de la tranquilidad que podría haber sido más fácil ofrecer. —Entonces habrán pasado semanas confirmando una ausencia en vez de una presencia, y eso se sentirá, la mayoría de los días, como lo mismo que un fracaso. —Sostuvo la mirada de Karin, queriendo que oyera el resto sin suavizarlo—. No es lo mismo. Una portadora que todavía no ha sido encontrada no es una portadora que no existe. He pasado más tiempo del que ninguna de las dos puede contar con facilidad custodiando a gente para reliquias que todavía no habían reclamado, y jamás me he arrepentido de los años que precedieron al reclamo, por muchos que fueran.
+Laila dejó el guantelete que había estado remendando y le dio a la pregunta la honestidad que merecía en vez de la tranquilidad que podría haber sido más fácil ofrecer, la voz cargando la misma calidez que llevaba siglos convirtiendo en acero antes que en blandura. —Entonces habrán pasado semanas confirmando una ausencia en vez de una presencia, y eso se sentirá, la mayoría de los días, como lo mismo que un fracaso. —Sostuvo la mirada de Karin, queriendo que oyera el resto sin suavizarlo—. No es lo mismo. Una portadora que todavía no ha sido encontrada no es una portadora que no existe. He pasado más tiempo del que ninguna de las dos puede contar con facilidad custodiando a gente para reliquias que todavía no habían reclamado, y jamás me he arrepentido de los años que precedieron al reclamo, por muchos que fueran.
 
 —No has respondido la pregunta, capitana.
 

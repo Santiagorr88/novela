@@ -12,7 +12,7 @@ Leyó el pasaje dos veces, su expresión sin revelar nada más allá de una quie
 
 —Estás segura de la traducción —dijo por fin.
 
-—Tan segura como pueden dejarme tres lecturas independientes —respondió Iofiel, manteniendo su voz serena—. Es fragmentario. No tengo una ubicación, solo una descripción.
+—Tan segura como pueden dejarme tres lecturas independientes —respondió Iofiel, manteniendo su voz serena, precisa como quien ofrece una medición en vez de una opinión—. Es fragmentario. No tengo una ubicación, solo una descripción.
 
 Gabriel dejó la página con cuidado, como si pudiera rasgarse con demasiado manejo, y volvió a quedarse en silencio un momento más de lo que ella esperaba.
 
@@ -48,7 +48,7 @@ Ninguno de los dos parecía dispuesto a ceder la palabra, y durante varios inter
 
 Fue Zadkiel quien finalmente rompió el estancamiento, y no en ninguna de las dos direcciones hacia las que tiraba la mesa —armadura de obsidiana clara, ojos plateados con la costumbre de posarse sobre alguien como un veredicto ya alcanzado antes de decir una palabra—. No había dicho nada durante todo el intercambio, los brazos cruzados, esos mismos ojos fijos en el fragmento en lugar de en ninguno de los dos hombres que discutían por él. Uriel, a mitad de su argumento, había mirado dos veces hacia él y apartado la vista dos veces antes de terminar la frase, como si alguna parte de él ya supiera cómo iba a calificarse esa oración.
 
-—Muéstrame la ubicación —dijo, cuando la sala por fin se calló lo suficiente para que su voz aterrizara—. No una descripción. Una ubicación.
+—Muéstrame la ubicación —dijo, la voz tan llana y exacta como el estándar que le exigía a todos, cuando la sala por fin se calló lo suficiente para que aterrizara—. No una descripción. Una ubicación.
 
 Iofiel abrió la boca para explicar de nuevo que el texto no ofrecía tal cosa, y Zadkiel continuó antes de que hiciera falta.
 

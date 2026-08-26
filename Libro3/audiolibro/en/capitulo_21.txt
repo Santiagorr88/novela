@@ -16,7 +16,7 @@ The gates opened before Michael had raised a hand to announce himself, swinging 
 
 Gabriel stopped a few paces out — sable hair, sapphire eyes, robes of blue and silver that had never once needed armor to hold a room's attention — staring at him with an expression Michael had no ready name for — recognition and disbelief, neither one settling long enough for Michael to read which one held the upper hand. Michael felt his brother's gaze move slowly across his own face, lingering at his eyes longer than anywhere else. The old Commander who had once stood at this gate had carried nothing behind his eyes but certainty. This new stillness carried something else entirely, the particular weight of nine years spent teaching lecture halls full of students who had no idea what they were actually looking at, of grading essays by lamplight, of learning slowly and painfully what it meant to simply be a man rather than a title.
 
-"Michael?" Gabriel said, the single word carrying a thousand years of hope and doubt in equal, trembling measure.
+"Michael?" Gabriel said, his voice warm even through its tremor, the single word carrying a thousand years of hope and doubt in equal, trembling measure.
 
 "It's me," Michael said. "All of me, this time. Not just the parts I let myself remember."
 
@@ -40,7 +40,7 @@ Uriel stopped a dozen paces off, his warriors fanning out behind him in a format
 
 Michael remembered him from a hundred old briefings, quick to anger and quicker still to act on it, a soldier's soldier who had never pretended patience was a virtue he particularly valued. He remembered too that this same anger had always arrived alongside a fierce, unwavering defense of whoever Uriel had decided was worth defending — the two had never shown up separately, in every version of him Michael could recall. That memory, at least, offered him something familiar to hold onto in a courtyard that otherwise felt stranger than he'd braced himself for.
 
-"Traitor," Uriel said, the word arriving low and hard. "You fell. You are tainted by mortality, and you stand here beside..." His gaze moved to Ereloth and Azael both, contempt sharpening further at whatever he found there. "...things that are not of the Host."
+"Traitor," Uriel said, the word arriving low and hard, already spilling into the next before anyone had the chance to answer the first. "You fell. You are tainted by mortality, and you stand here beside..." His gaze moved to Ereloth and Azael both, contempt sharpening further at whatever he found there. "...things that are not of the Host."
 
 Michael felt Gabriel go rigid beside him, his gaze flicking once toward Uriel and back again without a single word offered in either direction. Michael couldn't fault the silence. He would have hesitated too, standing in Gabriel's place with this much uncertainty pressed against a thousand years of hope.
 

@@ -16,7 +16,7 @@ He had rehearsed the presentation more than once before walking into this hall, 
 
 Aamon listened with his arms crossed, his expression the same guarded calculation he brought to any gift he hadn't asked for and hadn't yet priced. By the time Belial finished speaking, that expression had already shifted toward appetite.
 
-"Order within chaos is carved by blade and fury," Aamon said, more to himself than to Belial, turning the plan over as though he'd imagined it first.
+"Order within chaos is carved by blade and fury," Aamon said, his voice flat and martial even turned inward like this, more to himself than to Belial, turning the plan over as though he'd imagined it first.
 
 He asked two sharp questions about timing and formation. Belial had anticipated both and answered before Aamon finished asking. By the third exchange, the plan had stopped belonging to Belial at all in Aamon's telling of it. He asked nothing about what the coordinates actually meant beyond a convoy worth taking — Belial judged, from the shape of his questions, that his commander saw nothing there but the richest target he'd been offered in a long while. The crossing was, in truth, a place of vast hidden significance and no strategic value whatsoever, a distinction Aamon's questions never came close to reaching.
 
