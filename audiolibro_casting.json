@@ -1,105 +1,126 @@
 {
-  "_doc": "Casting oficial del audiolibro ES (ElevenLabs, español de España). NO cambiar IDs sin decisión del autor. Modelo de calidad: eleven_multilingual_v2. Pausas por transición: 0.5 pre-diálogo / 0.5 entre réplicas / 0.9 post-réplica / 0.65 narración / 1.6 escena / 1.2 título / 1.5 epígrafe.",
-  "principales": {
+  "_doc": "Casting oficial del audiolibro ES (ElevenLabs, español de España) — REPARTO DEL AUTOR, 2026-08-26. NO cambiar IDs sin su decisión. Modelo calidad: eleven_multilingual_v2. Pausas por transición: 0.5 pre-diálogo / 0.5 entre réplicas / 0.9 post-réplica / 0.65 narración / 1.6 escena / 1.2 título / 1.5 epígrafe.",
+  "narrador": {
     "narrator": {
       "id": "OjrdP8Z2fWjVyt0scrL7",
-      "voz": "Mario",
-      "notas": "narrador único ES"
-    },
+      "voz": "Mario"
+    }
+  },
+  "protagonistas": {
     "miguel": {
-      "id": "hyKxCTlAqtnW188CgltM",
-      "voz": "Salva",
-      "notas": "el General; autoridad serena"
+      "id": "16bBXZ5xPKcA2AhFqIvu",
+      "voz": "Vértice"
     },
     "lucifer": {
-      "id": "8HZqgqbee8zgakPIPwm5",
-      "voz": "José Bionada",
-      "notas": "íntimo, medio-bajo, sin prisa"
-    },
-    "gabriel": {
-      "id": "QtPMrakdgePQIUwOX7Ut",
-      "voz": "Arconte",
-      "notas": ""
-    },
-    "belial": {
       "id": "5egO01tkUjEzu7xSSE8M",
-      "voz": "Carmelo",
-      "notas": ""
+      "voz": "Carmelo"
+    }
+  },
+  "olvidados": {
+    "ereloth": {
+      "id": "HMCmDsbKeaSZp5LMOYKR",
+      "voz": "Johnny"
     },
-    "uriel": {
-      "id": "YKrm0N1EAM9Bw27j8kuD",
-      "voz": "Leonidas",
-      "notas": ""
+    "thaeriel": {
+      "id": "hyKxCTlAqtnW188CgltM",
+      "voz": "Salva"
     },
-    "camael": {
-      "id": "RnKqZYEeVQciORlpiCz0",
-      "voz": "Baldo",
-      "notas": ""
+    "azael": {
+      "id": "R5hsaNjpvTxTyrEmoKyM",
+      "voz": "Tommy"
+    }
+  },
+  "arcangeles": {
+    "gabriel": {
+      "id": "KbHzTDrKkWZhO8WaGUeG",
+      "voz": "Enrique",
+      "notas": "más dulce, pedido del autor"
     },
     "rafael": {
       "id": "BMHmZiBmdOZuKlbiqBOk",
-      "voz": "Marcos Vidal",
-      "notas": "calma que diagnostica"
+      "voz": "Marcos Vidal"
     },
-    "iofiel": {
-      "id": "KHCvMklQZZo0O30ERnVn",
-      "voz": "Sara Martín",
-      "notas": "doble uso puntual: Nael en L1/05"
+    "uriel": {
+      "id": "YKrm0N1EAM9Bw27j8kuD",
+      "voz": "Leonidas"
+    },
+    "camael": {
+      "id": "8HZqgqbee8zgakPIPwm5",
+      "voz": "José Bionada"
     },
     "zadkiel": {
-      "id": "sDuUJMeNJR828mXTRrDh",
-      "voz": "Hernán Cortés",
-      "notas": ""
+      "id": "gZiz6WFdAxF6MKJ0s5s6",
+      "voz": "Carter"
     },
-    "cassiel": {
-      "id": "Nh2zY9kknu6z4pZy6FhD",
-      "voz": "David Martín",
-      "notas": ""
+    "iofiel": {
+      "id": "YDDaC9XKjODs7hY78qEW",
+      "voz": "MariCarmen"
+    }
+  },
+  "senores_infernales": {
+    "belial": {
+      "id": "RnKqZYEeVQciORlpiCz0",
+      "voz": "Baldo"
     },
-    "elom": {
-      "id": "9iaRiYAiGlZImkI1Ruyh",
-      "voz": "Antonio",
-      "notas": ""
+    "asmodeo": {
+      "id": "PRfCKe8kdrG3nuXOAnoH",
+      "voz": "Gork"
     },
-    "ereloth": {
-      "id": "HMCmDsbKeaSZp5LMOYKR",
-      "voz": "Johnny",
-      "notas": ""
+    "vepar": {
+      "id": "U1nBX3lzKSM937PaYYfk",
+      "voz": "Victor - Deep"
     },
+    "foras": {
+      "id": "nfeqNafxKPTBjlfTCxQW",
+      "voz": "Juanjo Goblin"
+    }
+  },
+  "secundarios": {
     "remiel": {
       "id": "dX2UjlDzOz7RY8kmMXZo",
       "voz": "Matilda Paz",
-      "notas": "PROVISIONAL — revisar casting (profetisa críptica)"
-    }
-  },
-  "secundarios_reutilizables": {
+      "notas": "provisional"
+    },
+    "cassiel": {
+      "id": "Nh2zY9kknu6z4pZy6FhD",
+      "voz": "David Martín"
+    },
+    "elom": {
+      "id": "9iaRiYAiGlZImkI1Ruyh",
+      "voz": "Antonio"
+    },
+    "nael": {
+      "id": "KHCvMklQZZo0O30ERnVn",
+      "voz": "Sara Martín",
+      "notas": "liberada de Iofiel, ahora dedicada"
+    },
     "lieutenant": {
       "id": "bsEDAkNZWaEolZ7vEeVJ",
       "voz": "Abel",
       "usos": [
-        "teniente de Belial (L1/51)",
-        "cortesano1 (L1/02)"
+        "teniente de Belial",
+        "cortesano1 L1/02"
       ]
     },
     "runner": {
       "id": "7QQzpAyzlKTVrRzQJmTE",
       "voz": "Dani",
       "usos": [
-        "mensajero (L1/51)",
-        "cortesano2 (L1/02)",
-        "soldado joven (L1/04)",
-        "soldado de Nael (L1/05)"
+        "mensajero",
+        "cortesano2 L1/02",
+        "soldado L1/04-05"
       ]
+    },
+    "_libres": {
+      "arconte": "QtPMrakdgePQIUwOX7Ut",
+      "hernan": "sDuUJMeNJR828mXTRrDh"
     }
   },
-  "pendientes_de_casting": [
-    "Thaeriel/Arin (L2+)",
-    "Mikel humano (L2+ — ¿el propio Salva u otra?)",
-    "Azael (L1/51 final + L3)",
-    "Asmodeo (L2/52+)",
-    "Vepar",
-    "Foras",
-    "Selaphiel",
-    "Sariel"
+  "retakes_pendientes_al_renovar": [
+    "L1/01: líneas de Miguel (Vértice) y Gabriel (Enrique)",
+    "L1/02: línea de Lucifer (Carmelo)",
+    "L1/03: línea de Uriel ok; verificar ninguna de Gabriel",
+    "L1/04: regeneración completa en v2 (era Flash) — con Camael=José Bionada y Miguel=Vértice",
+    "L1/05: líneas de Miguel (Vértice)"
   ]
 }
