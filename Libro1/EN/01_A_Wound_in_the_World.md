@@ -1,6 +1,6 @@
 # Chapter 1 — A Wound in the World
 
-Miguel had been crossing Serephis for days. The heat fused the sand into sheets of black glass that cracked beneath his sabatons; the sky was a sick color. None of that slowed him. He was the General of the Celestial Host: he knew the bite of demonic steel and the burn of infernal fire, wounds with names, wounds that close. What drove him across the desert had no name. A hollow in the center of his chest, where something had been taken. His gauntleted hand rose to it on its own, a thousand times a day, and found intact armor over a wound that did not exist. One question kept the pace: *what was taken from me?*
+Miguel had been crossing Serephis for days. The heat fused the sand into sheets of black glass that cracked beneath his sabatons; the sky was a sick color. None of that slowed him — not the heat, not the weight of gold armor scarred with cracks no armorer had ever fully closed, not eyes that burned faint blue under hair gone ash-white long before its time. Recruits fresh to the Host swore they could feel him crossing a yard before they turned to look, the whole line straightening before anyone gave the order. Here there was no line to straighten, only sand. He was the General of the Celestial Host: he knew the bite of demonic steel and the burn of infernal fire, wounds with names, wounds that close. What drove him across the desert had no name. A hollow in the center of his chest, where something had been taken. His gauntleted hand rose to it on its own, a thousand times a day, and found intact armor over a wound that did not exist. One question kept the pace: *what was taken from me?*
 
 He did not tell himself he was chasing a weapon. He told himself he was chasing an answer: the ache would be the scar of some battle scrubbed from his memory, and understanding it would be enough to go home whole. He had not examined that hope in days. He preferred not to know how much of it was left.
 
@@ -14,11 +14,13 @@ He knew this the way he knew most things about the deep past: doctrine, not memo
 
 He believed it now, crouched over a road built for feet that had stopped walking it before his own kind had names.
 
+For a moment he let himself see it whole: the road wide enough for ten abreast, worn to a shine down its center by feet that had crossed it every day for centuries; somewhere along its buried length, footings too broad for any single door, the ghost of a gate built to pass an army through at once rather than turn one back. Whoever raised this had not built to survive a retreat. They had built to never need one.
+
 For a moment the ache in his chest answered the stone with a low, almost sympathetic throb, as though he recognized something of himself in it. He did not like the thought. He stood, did not look at the road again, and moved on.
 
 For days the ache had been a dull throb, easy to bury under duty. Now it pulled in one direction, and it pulled with authority. Miguel knew that kind of certainty: it belonged to the Divine Word, to true command settling into the soul without asking permission. That this call carried the same certainty terrified him. He stopped and closed his eyes a moment. When he opened them, his body had already turned toward the pull. His mind took one more step to consent.
 
-The stillness broke on a chord of harmony. Gabriel. His presence was a physical relief, coolness on burned skin. Miguel felt love, and close behind it, shame: he did not want his brother to see him like this, worn down, hunting a phantom ache across a dead waste. He straightened. The exhaustion would not be hidden. Gabriel showed no judgment. He showed worry, which was worse.
+The stillness broke on a chord of harmony — the same note that always seemed to arrive a half-step ahead of him, the way a hymn a room hadn't agreed on found its pitch the moment he stepped inside it. Then Gabriel himself: tall in unarmored blue and silver, black hair combed by a wind kinder to him than to anyone else out here, eyes the exact blue of lapis. His presence was a physical relief, coolness on burned skin. Miguel felt love, and close behind it, shame: he did not want his brother to see him like this, worn down, hunting a phantom ache across a dead waste. He straightened. The exhaustion would not be hidden. Gabriel showed no judgment. He showed worry, which was worse.
 
 "The Council is concerned, Miguel," he said. "They fear this is a deception, a lure the enemy crafted to draw you out. Your absence puts fear in the Host."
 

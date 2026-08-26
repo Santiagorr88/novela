@@ -24,7 +24,7 @@ Vepar watched the celestial fleet take shape across the gap, gold ranks catching
 
 "So am I," Vepar said, and let the silence between the fleets stretch a while longer, unbothered by it. He had learned long ago that the commander who charged first was rarely the one who walked away from the field afterward. He would give this angel exactly as much patience as the angel gave him, and not one measure more.
 
-His trident, Aestus, rested across one forearm, its length catching what little light reached this stretch of the border and throwing it back in a rippling, unsteady shimmer that matched the movement of his own translucent skin. He had carried it into more engagements across the In-Between than he cared to count, had watched it turn tides both literal and otherwise more times than any song about him would ever bother to mention accurately. He trusted it the way he trusted very little else in his long command — completely, and without needing to examine why.
+His trident, Aestus, rested across one forearm, its length catching what little light reached this stretch of the border and throwing it back in a rippling, unsteady shimmer that matched the movement of his own translucent skin, his hair drifting loose around his shoulders the way it always did, on land or off it. He had carried it into more engagements across the In-Between than he cared to count, had watched it turn tides both literal and otherwise more times than any song about him would ever bother to mention accurately. He trusted it the way he trusted very little else in his long command — completely, and without needing to examine why.
 
 "You've fought this one before?" his second asked, nodding toward the gold ranks across the gap.
 

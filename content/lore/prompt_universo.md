@@ -297,7 +297,7 @@ A burning angel of pale fire, wrapped in endless chains that move with him—not
 | Weapon   | Original Wielder | Current Holder     | Essence        | Notes                                      |
 |----------|------------------|---------------------|----------------|--------------------------------------------|
 | Solmire  | Ereloth           | Miguel (former)     | Living Light   | Drawn from the Tree Outside Time           |
-| Lamentum | Thaeriel          | Belial (corrupted)  | Burning Truth  | Unleashed in the Sepulcher of Sorrow       |
+| Lamentum | Thaeriel          | Belial (corrupted)  | Burning Truth  | Unleashed in the Weeping Sepulcher       |
 | Aetheris | Azael             | Dormant             | Soul Balance   | Broken during the First Sundering          |
 
 - These weapons were forged **before divine law**, during the raw chaos of creation.  
@@ -451,7 +451,10 @@ A labyrinthine city of tombs where fallen angels are not buried—but remembered
 
 ---
 
-### 🔥 Sepulcher of Sorrow (Tomb of Lamentum)  
+### 🕳️ The Hollowseam (La Costura Hueca)
+A shadowless plane on the far side of an unstable seam between realities (Book I, chs. 36-39). Wet-ash ground that casts no shadow, light that moves in slow irregular pulses, air like a coin held too long on the tongue. Ground-manipulation gifts misfire here — the terrain has "not yet decided what it is." Named by the survivors of Thoria's patrol. Canonized 2026-08-26 (author decision).
+
+### 🔥 Weeping Sepulcher (Tomb of Lamentum)  
 **Type:** Weapon reliquary  
 **Location:** Infernal middle-tier plane, corrupted by intrusion
 

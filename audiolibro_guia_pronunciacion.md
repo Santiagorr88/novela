@@ -90,6 +90,7 @@ Skarth, Memnón, Ruinor, Ascua y Mnemosyn ya no se nombran en la prosa (decisió
 
 | Nombre | Pronunciación | Nota |
 |---|---|---|
+| Hollowseam / Costura Hueca | HOL-oh-seem | plano sin sombras (L1/36-39), bautizado por la patrulla de Thoria |
 | Serephis | SEHR-eh-fiss | el desierto del cap. 1 |
 | Navarion | nah-VAIR-ee-on | la universidad |
 | Turein | tuh-RAIN | la isla |
@@ -97,7 +98,7 @@ Skarth, Memnón, Ruinor, Ascua y Mnemosyn ya no se nombran en la prosa (decisió
 | Dis | DISS | capital infernal, como en Dante |
 | Malignus | mah-LIG-nus | |
 | Elysia Minor | eh-LIZH-ah MY-nor | |
-| Ashgrave / Aldergate / Hollowseam | inglés compuesto normal | ASH-grayv / ALL-der-gayt / HOL-oh-seem |
+| Ashgrave / Aldergate | inglés compuesto normal | ASH-grayv / ALL-der-gayt |
 | Empyrean | em-PEER-ee-an | inglés estándar |
 | Charon Corp | KAIR-un KORP | ¡Charon como el barquero griego, no "CHAR-on"! |
 | Bellenor | BEL-eh-nor | |

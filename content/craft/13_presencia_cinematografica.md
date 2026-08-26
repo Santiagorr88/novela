@@ -6,13 +6,13 @@ Encargo del autor: la trilogía habla de los personajes pero no los *muestra*; l
 
 - **Miguel y Lucifer** (prioridad máxima).
 - **Los tres Olvidados** — Ereloth, Thaeriel, Azael — en **ambas formas**: humana (Milo, Arin, el bibliotecario) y celestial. Las fichas de `personajes.md` distinguen las dos.
-- **Arcángeles** (Gabriel, Uriel, Rafael, Camael, Zadkiel, Iofiel, Cassiel, Sariel, Selaphiel...).
-- **Señores del Infierno** (Belial, Asmodeus, Vepar, Kushiel, Foras...) y **comandantes** de ambos bandos.
+- **Arcángeles y mandos celestiales** (Gabriel, Uriel, Rafael, Camael, Zadkiel, Iofiel, Cassiel, Sariel, Selaphiel, Kushiel...).
+- **Señores del Infierno** (Belial, Asmodeus, Vepar, Foras...) y **comandantes** de ambos bandos.
 - **Secundarios**: solo referencia puntual cuando un acontecimiento los vuelva relevantes. No se presenta a todo el mundo.
 
 ## La regla de oro: un vector por personaje, sin repetir fórmula
 
-Cada personaje destaca por UN vector de presencia **distinto**, sacado de su ficha — y el mismo recurso no se usa dos veces en el libro. Prohibido el patrón único ("le sacaba X cabezas" para todos). Menú de vectores: estatura/fuerza (Camael — legítimo, es el martillo) · costumbre de miedo en quienes lo rodean (Belial) · belleza corrupta y voz (Lucifer) · armonía que precede a la figura (Gabriel) · quietud (Iofiel, Azael) · calma pragmática (Vepar) · precisión marginal (Gusion) · agilidad, tenacidad, astucia · **inconspicuidad** (Mikel humano: mediana edad, guantes que ocultan la cicatriz que arde — su vector es no llamar la atención). Un personaje puede ser físicamente menor y destacar por otra cosa.
+Cada personaje destaca por UN vector de presencia **distinto**, sacado de su ficha — y el mismo recurso no se usa dos veces en el libro. Prohibido el patrón único ("le sacaba X cabezas" para todos). Menú de vectores: estatura/fuerza (Camael — legítimo, es el martillo) · costumbre de miedo en quienes lo rodean (Belial) · belleza corrupta y voz (Lucifer) · armonía que precede a la figura (Gabriel) · quietud interior (Azael) · memoria vigilante (Iofiel) · calma pragmática (Vepar) · precisión marginal (Gusion) · agilidad, tenacidad, astucia · **inconspicuidad** (Mikel humano: mediana edad, guantes que ocultan la cicatriz que arde — su vector es no llamar la atención). Un personaje puede ser físicamente menor y destacar por otra cosa.
 
 ## Técnica: presencia por efecto
 

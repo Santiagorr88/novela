@@ -84,7 +84,7 @@ In a cramped apartment two continents away, a musician named Milo Ray stopped tu
 
 And on a mountain no map recorded, a figure who had not opened his eyes in five thousand years opened them.
 
-Azael's eyes were wide now, pale and searching, taking in a world that had gone on entirely without him and had, in doing so, forgotten he had ever been part of it. He did not speak. There was no one there to speak to. He simply rose, joints unbending for the first time in an age, and took one deliberate step down the slope — the first step of a journey none of the three of them yet knew they were walking toward each other.
+Azael's eyes were wide now, pale and searching, taking in a world that had gone on entirely without him and had, in doing so, forgotten he had ever been part of it. He did not speak. There was no one there to speak to. The wind that had scoured this summit without pause for longer than anyone below could measure simply died — the silence around him deeper, suddenly, than even five thousand years of stillness had made it. He simply rose, joints unbending for the first time in an age, and took one deliberate step down the slope — the first step of a journey none of the three of them yet knew they were walking toward each other.
 
 Later, when the hum of the hall's small labors had settled into near peace, Gabriel withdrew alone to a side chapel and let his back slide down a cracked column until the stone took his weight.
 

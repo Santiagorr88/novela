@@ -84,7 +84,7 @@ En un apartamento apretado a dos continentes de distancia, un músico se detuvo 
 
 Y en una montaña que ningún mapa registraba, una figura que no había abierto los ojos en cinco mil años los abrió.
 
-Los ojos de Azael estaban ahora bien abiertos, pálidos y buscando, tomando en su mirada un mundo que había continuado por completo sin él y que, al hacerlo, había olvidado que alguna vez formó parte de él. No habló. No había nadie ahí a quien hablarle. Simplemente se levantó, las articulaciones desdoblándose por primera vez en toda una era, y dio un paso deliberado ladera abajo —el primer paso de un viaje que ninguno de los tres sabía todavía que caminaba hacia los otros dos.
+Los ojos de Azael estaban ahora bien abiertos, pálidos y buscando, tomando en su mirada un mundo que había continuado por completo sin él y que, al hacerlo, había olvidado que alguna vez formó parte de él. No habló. No había nadie ahí a quien hablarle. El viento que había raspado esta cumbre sin pausa durante más tiempo del que nadie abajo pudiera medir simplemente murió —el silencio a su alrededor, de pronto, más profundo de lo que incluso cinco mil años de quietud habían logrado hacerlo—. Simplemente se levantó, las articulaciones desdoblándose por primera vez en toda una era, y dio un paso deliberado ladera abajo —el primer paso de un viaje que ninguno de los tres sabía todavía que caminaba hacia los otros dos.
 
 Más tarde, cuando el zumbido de las pequeñas labores del salón se había asentado casi en paz, Gabriel se retiró solo a una capilla lateral y dejó que su espalda resbalara por una columna agrietada hasta que la piedra sostuvo su peso.
 
