@@ -37,9 +37,8 @@
       "notas": "más dulce, pedido del autor"
     },
     "rafael": {
-      "id": "Nh2zY9kknu6z4pZy6FhD",
-      "voz": "David Martín",
-      "notas": "PENDIENTE: el ID que dio el autor (y6WtESLj18d0diFRruBs) no existe en ElevenLabs — usando el David Martín del plantel; confirmar o recopiar ID"
+      "id": "y6WtESLj18d0diFRruBs",
+      "voz": "David Martín - Clear, Calm and Elegant"
     },
     "uriel": {
       "id": "YKrm0N1EAM9Bw27j8kuD",
@@ -50,8 +49,8 @@
       "voz": "George"
     },
     "zadkiel": {
-      "id": "gZiz6WFdAxF6MKJ0s5s6",
-      "voz": "Carter"
+      "id": null,
+      "voz": "PENDIENTE — candidatos: Marcos Vidal (BMHmZiBmdOZuKlbiqBOk), Iván Jiménez (uU3UBoQh0Y9dhiuNRAiA)"
     },
     "iofiel": {
       "id": "YDDaC9XKjODs7hY78qEW",
@@ -68,8 +67,8 @@
       "voz": "Gork"
     },
     "vepar": {
-      "id": "U1nBX3lzKSM937PaYYfk",
-      "voz": "Victor - Deep"
+      "id": null,
+      "voz": "PENDIENTE — candidatos: Tommy Alen (R5hsaNjpvTxTyrEmoKyM), Juan Jiménez (EAt3u6VYgPo7ic9mWIyI)"
     },
     "foras": {
       "id": "nfeqNafxKPTBjlfTCxQW",
@@ -84,8 +83,8 @@
     },
     "cassiel": {
       "id": "Nh2zY9kknu6z4pZy6FhD",
-      "voz": "David Martín",
-      "notas": "voz compartida con Rafael hasta confirmar ID — diferenciar por dirección"
+      "voz": "David Martín - Confident and Balanced",
+      "notas": "distinto del David Martín de Rafael (Elegant)"
     },
     "elom": {
       "id": "9iaRiYAiGlZImkI1Ruyh",
@@ -189,5 +188,6 @@
       "entonacion": "siseante"
     },
     "_reutilizacion": "Secundarios sin voz propia: elegir voz del pool + dirección distinta (p. ej. Dani como mensajero nervioso vs cortesano untuoso). La dirección diferencia; la voz se comparte."
-  }
+  },
+  "_estructura_muestras": "Libro1/audiolibro/es/voice/<Nombre>/<NombreVoz>.mp3"
 }
