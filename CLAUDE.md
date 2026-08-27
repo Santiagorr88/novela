@@ -26,3 +26,9 @@ Trilogía de fantasía bilingüe (EN original, ES espejo). **Lee `ESTADO.md` pri
 ## Cómo trabajar
 
 Pasadas grandes = agentes Sonnet por tramos con brief detallado (modelo de calibración + reglas + zonas sagradas + verificación con git diff), el orquestador verifica muestras contra el texto real antes de commitear. Decisiones de trama/estilo/casting: SIEMPRE del autor — presentar muestras u opciones y esperar su elección.
+
+## NotebookLM (consulta barata, no edición)
+
+- Cuadernos activos: «Libro I (revisión agosto 2026)» (prosa ES completa + personajes) y «Canon fundamental» (prompt_universo + grafo actualizados 2026-08-27). Hay 8 cuadernos «v2» del 17-08 OBSOLETOS — no fiarse de ellos.
+- **Úsalo para localizar y consultar** («¿en qué capítulo pasa X?», «¿qué dice el texto de Y?») antes de mandar agentes a leer corpus entero: la consulta cuesta céntimos de token frente a lecturas completas. **Nunca para editar**: toda edición se verifica contra el archivo real del repo.
+- **Ritual de cierre de fase**: al commitear un hito, re-subir a los cuadernos las compilaciones cambiadas (script: compilar Libro ES + actos → md único → source_add). Un cuaderno desactualizado es peor que ninguno — así murió el intento anterior.
