@@ -46,7 +46,7 @@ Gabriel's jaw tightened — the first real crack Iofiel had seen in his composur
 
 Neither seemed willing to yield the floor, and for several exchanges the debate simply repeated itself in slightly different words, each man restating his own logic of war as though restating it more forcefully might finally make the other hear it.
 
-It was Zadkiel who finally broke the deadlock, and not in either direction the table had been pulling toward — pale obsidian armor, silver eyes that had a way of landing on a person like a verdict already reached before he'd said a word. He had said nothing through the whole exchange, arms crossed, those same eyes fixed on the fragment rather than on either man arguing over it. Uriel, mid-argument, had twice glanced toward him and twice looked away before finishing the thought, as though some part of him already knew how the sentence would be graded.
+It was Zadkiel who finally broke the deadlock, and not in either direction the table had been pulling toward — pale obsidian armor. He had said nothing through the whole exchange, arms crossed, those same eyes fixed on the fragment rather than on either man arguing over it. Uriel, mid-argument, had twice glanced toward him and twice looked away before finishing the thought, as though some part of him already knew how the sentence would be graded.
 
 "Show me the location," he said, his voice as flat and exact as the standard he held everyone to, when the room had quieted enough for it to land. "Not a description. A location."
 

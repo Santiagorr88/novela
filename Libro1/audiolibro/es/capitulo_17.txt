@@ -46,7 +46,7 @@ La mandíbula de Gabriel se tensó —la primera grieta real que Iofiel había v
 
 Ninguno de los dos parecía dispuesto a ceder la palabra, y durante varios intercambios el debate simplemente se repitió con palabras ligeramente distintas, cada hombre reafirmando su propia lógica de guerra como si reafirmarla con más fuerza fuera a hacer por fin que el otro la escuchara.
 
-Fue Zadkiel quien finalmente rompió el estancamiento, y no en ninguna de las dos direcciones hacia las que tiraba la mesa —armadura de obsidiana clara, ojos plateados con la costumbre de posarse sobre alguien como un veredicto ya alcanzado antes de decir una palabra—. No había dicho nada durante todo el intercambio, los brazos cruzados, esos mismos ojos fijos en el fragmento en lugar de en ninguno de los dos hombres que discutían por él. Uriel, a mitad de su argumento, había mirado dos veces hacia él y apartado la vista dos veces antes de terminar la frase, como si alguna parte de él ya supiera cómo iba a calificarse esa oración.
+Fue Zadkiel quien finalmente rompió el estancamiento, y no en ninguna de las dos direcciones hacia las que tiraba la mesa —armadura de obsidiana clara—. No había dicho nada durante todo el intercambio, los brazos cruzados, esos mismos ojos fijos en el fragmento en lugar de en ninguno de los dos hombres que discutían por él. Uriel, a mitad de su argumento, había mirado dos veces hacia él y apartado la vista dos veces antes de terminar la frase, como si alguna parte de él ya supiera cómo iba a calificarse esa oración.
 
 —Muéstrame la ubicación —dijo, la voz tan llana y exacta como el estándar que le exigía a todos, cuando la sala por fin se calló lo suficiente para que aterrizara—. No una descripción. Una ubicación.
 

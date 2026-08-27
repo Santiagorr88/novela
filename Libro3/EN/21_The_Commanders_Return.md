@@ -36,7 +36,7 @@ Whatever Gabriel might have said next was lost to the sound of approaching wingb
 
 ---
 
-Uriel stopped a dozen paces off, his warriors fanning out behind him in a formation that left no ambiguity about their intent, his weapon blazing bright enough now to throw sharp shadows across the courtyard's golden stone, his own armor incandescent at every seam, wings trailing thin ribbons of fire, an ornate skull swinging faintly against his hip with each step. His face held none of Gabriel's uncertain hope, only a mask of cold, absolute fury, weapon already lit before a single word had been exchanged between them.
+Uriel stopped a dozen paces off, his warriors fanning out behind him in a formation that left no ambiguity about their intent, his weapon blazing bright enough now to throw sharp shadows across the courtyard's golden stone. His face held none of Gabriel's uncertain hope, only a mask of cold, absolute fury, weapon already lit before a single word had been exchanged between them.
 
 Michael remembered him from a hundred old briefings, quick to anger and quicker still to act on it, a soldier's soldier who had never pretended patience was a virtue he particularly valued. He remembered too that this same anger had always arrived alongside a fierce, unwavering defense of whoever Uriel had decided was worth defending — the two had never shown up separately, in every version of him Michael could recall. That memory, at least, offered him something familiar to hold onto in a courtyard that otherwise felt stranger than he'd braced himself for.
 

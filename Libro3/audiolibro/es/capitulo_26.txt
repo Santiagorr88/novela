@@ -8,7 +8,7 @@ Un parpadeo de sombra se resolvió en una segunda figura a unos pasos de distanc
 
 Estudió al recién llegado un momento antes de hablar, catalogando lo que podía de la figura que ahora se erguía a unos pasos —una capucha y un cuello cambiante de sombra que no revelaba nada más que la sugerencia aguda y angular de una mandíbula debajo, una quietud propia que llevaba una cualidad muy distinta de la de Sariel, enrollada en vez de asentada, lista para moverse en cualquier dirección ante la más mínima provocación.
 
-—Andras —dijo, no una pregunta, las palabras recortadas a exactamente lo que el momento exigía y nada más.
+—Andras —dijo, no una pregunta, cada palabra ya decidida de antemano, sin una sílaba de sobra.
 
 —Sariel. —La voz del demonio llevaba una diversión seca y relajada que no hacía nada por suavizar el filo ensombrecido de la capucha que todavía escondía cualquier expresión que hubiera debajo—. Observen la anomalía. Informen. No se maten entre ustedes. —Extendió ambas manos levemente, palmas afuera—. Me dijeron que esa última parte podría resultar la más difícil.
 

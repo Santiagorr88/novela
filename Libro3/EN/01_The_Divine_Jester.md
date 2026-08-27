@@ -4,7 +4,7 @@ The tavern smelled of spilled ale and old sawdust, and it took Mikel three full 
 
 He pushed through the crowd until he stood close enough to be heard over the noise, and waited for a gap between verses that never quite arrived. Milo's fingers kept moving, easy as breathing, coaxing something bawdy and cheerful out of six worn strings while the room around him laughed at a joke Mikel had missed the setup for. The guitar itself looked older than anything else in the building, its varnish worn away at the edges where a thumb had rested a thousand times before, a crack running along one side that someone had mended with a thin strip of dark tape years ago and never bothered to fix properly since.
 
-"I need to ask you about the echoes," Mikel said, pitching his voice to carry over the din, low and level, needing no real volume to cut through it.
+"I need to ask you about the echoes," Mikel said, his low voice cutting through the din without needing to fully rise.
 
 Milo's eyes found him — one amber, one the pale silver of an old coin — and they sharpened for exactly as long as it took to register the question, then softened back into performance. He didn't stop playing. He didn't even slow down. He simply folded the words into the next line of the song, rhyming *echoes* with *depend on* and *far too many men have tried to bend on*, and the crowd roared with laughter at the sight of the serious man in the wrinkled coat trying to interrupt the music with what sounded, in context, like the setup to a joke about a lover.
 

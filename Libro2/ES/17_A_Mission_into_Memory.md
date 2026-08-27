@@ -8,7 +8,7 @@ Sariel llegó sin anunciarse, tal como Gabriel había llegado a esperar de él, 
 
 Gabriel lo estudió un momento antes de hablar, del modo en que había aprendido a estudiar a cada soldado al que estaba a punto de enviar a algún lugar al que no podía seguirlo. Sariel había cambiado poco a lo largo de los siglos que Gabriel llevaba conociéndolo —no alto para los de su especie, sin nada en él que se gastara en aparentar, la lanza Penumbra nunca lejos de su mano ni siquiera aquí— la misma economía de movimiento, los mismos ojos que catalogaban una sala antes de que el resto de él terminara de cruzar su umbral, hábitos de cazador tan profundamente arraigados en él que ya no parecían hábitos en absoluto. Era fácil, trabajando junto a un hombre tan firme durante tanto tiempo, olvidar cuánto le había costado construir esa firmeza.
 
-—Me convocaste fuera del concilio —dijo Sariel, la voz tan escueta y sin prisa como todo lo demás en él, sin gastar más sonido del que la frase exigía—. Eso no es poca cosa, viniendo de ti.
+—Me convocaste fuera del concilio —dijo Sariel, la voz tan escueta como todo lo demás en él, sin gastar más sonido del que la frase exigía—. Eso no es poca cosa, viniendo de ti.
 
 —No. No lo es. Lo que tengo que contarte todavía no está listo para esa sala, y puede que nunca lo esté, dependiendo de lo que traigas de vuelta de donde estoy a punto de enviarte.
 

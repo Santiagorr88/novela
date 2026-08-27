@@ -46,7 +46,7 @@ He was quiet again, and she watched the calculation settle behind his stillness 
 
 She had not gone twenty paces before Stolas reached him, and the valley carried voices further than either man seemed to remember when it mattered — she caught the shape of it without needing to slow her own step.
 
-"You just gave her the whole month," she heard him say, unhurried and faintly contemptuous even at that distance.
+"You just gave her the whole month," she heard him say, the pause before the words plainly savored, contempt perceptible even at that distance.
 
 "I gave her an errand." Vepar didn't look up from the requisition tablet already claiming his attention. "The month is still mine. It happened on this ground, under my orders, with my soldiers holding it. A story about it changes nothing that actually occurred."
 

@@ -4,7 +4,7 @@ La taberna olía a cerveza derramada y serrín viejo, y le costó a Mikel tres v
 
 Se abrió paso entre la multitud hasta quedar lo bastante cerca como para hacerse oír por encima del ruido, y esperó un hueco entre versos que nunca terminó de llegar. Los dedos de Milo seguían moviéndose, fáciles como respirar, arrancando algo desvergonzado y alegre de seis cuerdas gastadas mientras la sala a su alrededor reía un chiste cuyo planteamiento Mikel se había perdido. La propia guitarra parecía más vieja que cualquier otra cosa en el edificio, su barniz desgastado en los bordes donde un pulgar había descansado mil veces antes, una grieta corriendo por un costado que alguien había remendado años atrás con una fina tira de cinta oscura y nunca se había molestado en arreglar como es debido desde entonces.
 
-—Necesito preguntarte sobre los ecos —dijo Mikel, alzando la voz para que se oyera por encima del bullicio, grave y pareja, sin necesitar volumen real para abrirse paso entre el ruido.
+—Necesito preguntarte sobre los ecos —dijo Mikel, la voz grave cortando el bullicio sin necesitar alzarse del todo.
 
 Los ojos de Milo lo encontraron —uno ámbar, el otro de la plata pálida de una moneda vieja— y algo en ellos se agudizó justo el tiempo que tardó en registrar la pregunta, antes de suavizarse de nuevo en pura interpretación. No dejó de tocar. Ni siquiera bajó el ritmo. Simplemente dobló las palabras dentro del siguiente verso de la canción, rimando *ecos* con *secos* y *demasiados hombres se han quedado necios*, y la multitud rugió de risa ante la visión del hombre serio con el abrigo arrugado tratando de interrumpir la música con algo que sonaba, en contexto, como el planteamiento de un chiste sobre un amante.
 

@@ -46,7 +46,7 @@ Volvió a guardar silencio, y ella observó cómo el cálculo se asentaba detrá
 
 No había dado veinte pasos cuando Stolas llegó hasta él, y el valle llevaba las voces más lejos de lo que ninguno de los dos hombres parecía recordar cuando importaba —captó la forma de aquello sin necesidad de aminorar su propio paso.
 
-—Acabas de darle todo el mes —lo oyó decir, sin prisa y con un desdén perceptible incluso a esa distancia.
+—Acabas de darle todo el mes —lo oyó decir, la pausa antes de las palabras claramente saboreada, el desdén perceptible incluso a esa distancia.
 
 —Le di un recado. —Vepar no alzó la vista de la tablilla de requisiciones que ya reclamaba su atención—. El mes sigue siendo mío. Ocurrió en este terreno, bajo mis órdenes, con mis soldados sosteniéndolo. Una historia sobre ello no cambia nada de lo que en realidad sucedió.
 
