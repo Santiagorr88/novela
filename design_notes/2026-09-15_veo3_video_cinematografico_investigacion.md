@@ -257,7 +257,34 @@ Fuentes: [The Only VEO3 Workflow That Actually Keeps Your Character Consistent (
 
 ---
 
-## 10. Resumen ejecutivo / próximos pasos recomendados
+## 10. Anexo: plantillas de prompts concretas (formato "2025 Professional" + trucos de repos)
+
+Extraído directamente del repositorio [snubroot/Veo-3-Prompting-Guide](https://github.com/snubroot/Veo-3-Prompting-Guide) (README completo) y contrastado con varios packs comerciales de Gumroad. Es una plantilla de **7 componentes en inglés natural** (no JSON puro, pensada para pegar directo en el cuadro de texto de Flow/Veo3):
+
+1. **Subject** — descripción física exacta y estable del personaje (edad, rasgos, vestuario, marcas distintivas) — es tu "Character DNA" de la sección 2.1, aquí formalizado.
+2. **Action** — movimientos y comportamiento concretos.
+3. **Scene** — entorno, atrezzo, montaje de iluminación.
+4. **Style** — tipo de cámara, ángulo, movimiento, estética.
+5. **Dialogue** — con indicador de tono emocional.
+6. **Sounds** — elementos de audio y ambiente.
+7. **Technical** — prompt negativo (qué excluir).
+
+**Trucos concretos que aporta este repo y que no habíamos documentado:**
+
+- **Truco de posición de cámara**: añadir literalmente la frase *"(that's where the camera is)"* después de describir un punto del espacio mejora mucho el acierto de dónde coloca Veo3 la cámara — un hallazgo empírico reportado por la comunidad, no algo "oficial" de Google, pero replicado por varios creadores.
+- **Diálogo sin subtítulos falsos**: confirma lo ya documentado — dos puntos antes de la cita (`El detective mira a cámara y dice: "Algo no va bien aquí." Su voz transmite sospecha y determinación.`) en vez de comillas sueltas.
+- **Método "This Then That" para extensión de escena**: en vez de solo repetir el Character DNA al extender un clip, describe una **progresión emocional explícita** de un estado a otro dentro del mismo prompt de extensión — ej.: *"El personaje empieza confuso e inseguro, luego se vuelve gradualmente confiado y decidido, y termina con una sonrisa satisfecha."* Esto le da al modelo un arco claro para el clip completo en vez de una instantánea estática, y ayuda a que el "extend" no se sienta como una repetición plana del clip anterior.
+- **Audio explícito para evitar alucinaciones sonoras**: describir el paisaje sonoro esperado línea por línea (`Audio: tráfico lejano, bocinas ocasionales, pasos sobre el pavimento, conversaciones apagadas, ambiente de ciudad`) reduce que Veo3 invente sonidos incongruentes con la escena — aplicable directamente a tus escenas celestiales/infernales (ej. "Audio: zumbido grave de energía angelical, eco de catedral vacía, viento cálido de desierto").
+- **Librería de 10+ movimientos de cámara con nombre técnico** (dolly, pan, tilt, tracking, crane, zoom, handheld, orbit) — usar el término técnico exacto en el prompt (no "muévete hacia él" sino "dolly-in lento de plano general a plano medio") da resultados más consistentes.
+- **Prompt negativo estándar reutilizable**: `no text overlays, no watermarks, no cartoon effects, no unrealistic proportions, no blurry faces` — plantilla de partida que se puede ampliar con `no subtitles` (sección 4).
+
+**Nota honesta sobre los packs de pago (Gumroad)**: existen decenas de "packs de prompts JSON" de pago (ej. *Google VEO 3.1 Master Prompts Pack*, *100+ AI Ads JSON Prompts*) — están orientados casi todos a **anuncios de producto/marketing viral**, no a narrativa de ficción/fantasía épica, así que su utilidad directa para adaptar la novela es baja; el valor real está en la estructura (los 7 campos de arriba), que ya queda documentada aquí sin necesidad de comprar nada.
+
+Fuentes: [snubroot/Veo-3-Prompting-Guide (README)](https://github.com/snubroot/Veo-3-Prompting-Guide), [LCKuo/veo-3-prompting-guide (fork)](https://github.com/LCKuo/veo-3-prompting-guide), [shijincai/veo3-prompt-generator](https://github.com/shijincai/veo3-prompt-generator), [Free Veo 3.1 AI Video Prompts Library (Filmora)](https://filmora.wondershare.com/ai-prompt/veo3-1-prompt.html), [Best Veo 3 Prompt Examples (UlazAI)](https://ulazai.com/veo3-prompt-examples/).
+
+---
+
+## 11. Resumen ejecutivo / próximos pasos recomendados
 
 1. **El formato objetivo es narrado (sección 9), no dramatizado** — esto simplifica el problema de "cortes en escenas largas" porque el audio maestro es la voz en off continua, no diálogo con lip-sync. Empezar por ahí antes de invertir en las técnicas más complejas de las secciones 2–3.
 2. **Pilotar con un solo párrafo/escena corta** (el primer párrafo de B1C01, ejemplo en 9.4) antes de intentar un capítulo entero: valida narración → segmentación → generación de planos → montaje en un ciclo pequeño.
