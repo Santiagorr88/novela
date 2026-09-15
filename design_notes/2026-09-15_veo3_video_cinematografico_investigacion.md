@@ -2,7 +2,9 @@
 
 > Fecha: 2026-09-15
 > Objetivo: determinar un workflow realista para convertir capítulos de *Chronicles of the Sundering Judgment* en vídeos cinematográficos de 5–20 minutos usando Veo 3/3.1, encadenando clips de 8 segundos sin que se noten los cortes (incluyendo planos de diálogo de ~1 minuto que deben leerse como una sola toma continua).
-> Nota sobre las fuentes: `youtube.com` y `youtu.be` están bloqueados por el proxy de red de este entorno (egress bloqueado), así que no pude abrir directamente los 3 vídeos enlazados. Los identifiqué por su ID vía búsqueda y documento lo que encontré sobre cada uno abajo; el resto del informe se apoya en ~20 búsquedas adicionales sobre documentación oficial, blogs especializados, foros y tutoriales (fuentes citadas en cada sección).
+> Nota sobre las fuentes: `youtube.com` y `youtu.be` están bloqueados por el proxy de red de este entorno (egress bloqueado), así que no pude abrir directamente los 3 vídeos enlazados. Los identifiqué por su ID vía búsqueda y documento lo que encontré sobre cada uno abajo; el resto del informe se apoya en ~25 búsquedas adicionales sobre documentación oficial, blogs especializados, foros y tutoriales (fuentes citadas en cada sección).
+
+> **Actualización — pivote de formato (misma fecha):** tras revisar esta primera pasada, se confirmó que el objetivo es un **vídeo narrado** (voz en off que cuenta el capítulo, estilo audiolibro/documental cinematográfico), no una dramatización con personajes hablando en diálogo directo y lip-sync. Esto **simplifica bastante** el problema técnico central de las secciones 2–3: sin lip-sync que mantener, la pista de audio maestra es la narración (continua, generada aparte y nunca cortada) y el vídeo de Veo3 pasa a ser "ilustración visual" (B-roll cinematográfico) que se corta libremente al ritmo de las frases narradas. Ver la **sección 9 (nueva)** para el pipeline específico de este formato — es la sección más relevante para el trabajo inmediato; las secciones 1–8 siguen siendo útiles como fondo técnico y como opción avanzada (dramatizar algún diálogo puntual dentro del vídeo narrado).
 
 ---
 
@@ -193,11 +195,57 @@ Fuentes: [How to Adapt a Book into a Screenplay in 7 Steps (StudioBinder)](https
 
 ---
 
-## 9. Resumen ejecutivo / próximos pasos recomendados
+## 9. Formato narrado (voz en off): pipeline específico
 
-1. **Pilotar con una sola escena** (la del diálogo Miguel/Gabriel, ~1 min) antes de intentar un capítulo entero: es la prueba de fuego perfecta para validar shot/reverse-shot + Character DNA + audio-solo-diálogo-más-ambiente-en-post.
-2. **Convertir las fichas de `content/lore/personajes.md` en "Ingredients" visuales** reutilizables (una imagen de referencia limpia por personaje) — inversión única que paga en todos los capítulos futuros.
-3. **Decidir el "look" de color del proyecto una vez** (LUT + reglas de iluminación por facción: Cielo=luz fría/dorada, Infierno=cálido/rojo-sombra, etc., coherente con las fichas ya escritas) y documentarlo como referencia para cada prompt.
-4. **Reservar la técnica de "toma continua oculta" (whip pan, cobertura de objeto, match-on-action) para los momentos de clímax visual** de cada capítulo, no para diálogo cotidiano — ahí el shot/reverse-shot clásico es más simple, más barato y ya "no se nota el corte" porque el espectador lo espera.
-5. Evaluar si conviene generar el diseño de sonido/ambiente por completo en post (DaVinci Fairlight/Audition) en vez de depender de que Veo3 lo mantenga consistente entre clips — parece ser el consejo más repetido y con mejor relación esfuerzo/resultado en las fuentes.
-6. Si se decide automatizar parte del pipeline (guion → shot list → prompts) podría integrarse como un flujo adicional dentro de `src/`/`config/flows/`, en la línea de lo que ya hace el proyecto para generación de prosa — pero eso sería una fase posterior, no parte de esta investigación.
+Esta es la sección que aplica directamente a "convertir los capítulos en un vídeo cinematográfico **narrado**". Cambia el orden de producción respecto a un vídeo con diálogo dramatizado: **la narración se genera primero y por completo, entera y sin cortes**; el vídeo se construye después *alrededor* de ese audio, no al revés.
+
+### 9.1 Por qué el formato narrado es más fácil que el dramatizado
+
+- **No hay lip-sync que mantener.** El problema más difícil de las secciones 2–3 (que un corte entre clips de 8s no rompa la ilusión de una boca hablando de forma continua) desaparece casi por completo: los personajes en pantalla no tienen por qué estar hablando a cámara, así que un corte de plano cada 5–8 segundos es completamente normal y esperado — es exactamente el lenguaje visual de un documental, un tráiler de libro o un vídeo tipo "historia narrada" (el género que domina en YouTube/TikTok con historias de Reddit, mitología, terror, etc.).
+- **Veo 3 genera silencioso por defecto** si no le pides audio explícitamente — es decir, ya está pensado para funcionar como B-roll puro bajo una voz en off separada, sin que tengas que "silenciar" nada después.
+- **La consistencia de personaje/color sigue importando** (secciones 1–2, Character DNA + Ingredients), pero ya no depende de que el diálogo hablado encaje frase a frase con los labios — solo de que el personaje "se vea igual" en cada plano que ilustra la narración.
+
+### 9.2 Pipeline de producción (orden correcto)
+
+1. **Adaptar el texto del capítulo a guion de narración.** No es el texto literal de la novela palabra por palabra: hay que
+   - mantener la voz del narrador en tercera persona tal cual (tu prosa ya está escrita para eso),
+   - decidir qué hacer con el diálogo entrecomillado: lo más simple para un narrado puro es que el propio narrador lo lea integrado ("—No puedo —dijo Miguel, con la mirada ya encendida—" se lee todo con la misma voz, solo con una leve inflexión dramática al llegar a la cita), sin necesidad de voces de personaje separadas,
+   - recortar redundancias/descripciones muy extensas si el ritmo se vuelve lento para vídeo (el narrado tolera menos "relleno atmosférico" seguido que la prosa escrita, porque en audio no hay forma de "leer en diagonal").
+2. **Generar el audio de narración completo, de una sola vez, con una única voz** (ElevenLabs, modelo **Multilingual v2 / Studio** para calidad de audiolibro en español). Usar **una sola voz fija para todo el proyecto** — es mucho más fácil de mantener consistente que las voces de personaje, porque solo hay una.
+   - Crear un **diccionario de pronunciación** con los nombres propios del universo (Ereloth, Azael, Thaeriel, Solmire, Serephis, etc.) para que la IA no los pronuncie distinto entre capítulos.
+   - Generar en trozos de párrafo/escena (no todo el capítulo en una sola llamada) para poder revisar y regenerar solo el trozo que falle, pero **conservando siempre la misma configuración de voz/velocidad/estabilidad** para que al unir los trozos no se note el cambio.
+3. **Trocear el audio final en segmentos naturales** (por frase u oración) y anotar la duración exacta de cada uno — esto es tu "shot list temporal": cada segmento de narración es un hueco que hay que rellenar con un plano.
+4. **Generar los clips de Veo3 como B-roll silencioso** (o con audio ambiente muy discreto, sin diálogo hablado) que ilustren cada segmento:
+   - Duración de cada clip generado en Veo3: 5–8s (dentro de su rango nativo, sin necesitar extender la mayoría de las veces).
+   - Si un segmento narrado dura más de 8s, aquí sí aplican las técnicas de la sección 2 (Frames-to-Video encadenado, Character DNA repetido) para producir un plano más largo; si dura menos, simplemente se recorta el clip o se deja un plano estático/lento que sobra en post.
+   - Para pasajes puramente descriptivos/atmosféricos (paisajes, arquitectura celestial/infernal, objetos), usar planos con movimiento de cámara lento y constante (push-in, pan lento) — es el punto fuerte de Veo3/Luma para B-roll y el más barato de generar bien a la primera.
+5. **Montaje**: la narración va en la pista maestra, **continua, sin cortes ni crossfades** (es la columna vertebral del vídeo). Los clips visuales se colocan encima, cortando aproximadamente en los límites de frase/oración marcados en el paso 3 — igual que se edita cualquier documental o vídeo de "storytime". No hace falta ocultar estos cortes con whip pans ni cobertura de objeto (sección 2.2): un corte de plano bajo narración continua ya es invisible por convención de género.
+6. **Música y ambiente** en una capa aparte, por debajo de la narración, con crossfades suaves entre escenas (aquí sí aplican J-cuts/L-cuts y "ambient bed" de la sección 3, pero ahora sirven para separar *escenas* del capítulo, no líneas de diálogo).
+7. **Color grading final** sobre todo el corte (sección 5) para unificar el look de todos los clips generados en distintas sesiones.
+
+### 9.3 Cuándo sí merece la pena "dramatizar" (mezcla híbrida, opcional)
+
+El formato 100% narrado es el más rápido y barato de producir en serie (bueno si el objetivo es sacar muchos capítulos con consistencia). Si en algún momento se quiere subir el nivel cinematográfico, se puede **hibridar**: mantener la narración en off para los tramos descriptivos/introspectivos, y cambiar puntualmente a una escena dramatizada con diálogo hablado y lip-sync (aplicando entonces sí toda la sección 2–3 de este documento) en los 1–2 momentos de mayor tensión del capítulo — por ejemplo, en B1C01, dramatizar la breve confrontación Miguel/Gabriel con sus propias voces, y dejar todo lo demás (la marcha por Serephis, la arboleda, la visión cósmica, la escena de Lucifer) en narración pura sobre B-roll. Es una decisión de presupuesto/tiempo, no técnica: ambas cosas son compatibles en el mismo vídeo.
+
+### 9.4 Ejemplo aplicado (B1C01, primer párrafo)
+
+- **Narración** (una sola toma de audio, sin cortes): *"La marcha a través de Serephis era un ejercicio de deshilachamiento. No del cuerpo, aunque el calor fundía la arena en láminas de vidrio negro bajo sus sabatones... Su mano, enfundada en el guantelete, subió a su pecho por instinto..."* (≈35s de audio a 145–155 palabras/min).
+- **Plano 1** (0–8s): plano general, Miguel caminando por el desierto agrietado, cámara estática con leve deriva, luz de "cielo color moretón". *Sin diálogo, sin audio hablado.*
+- **Plano 2** (8–16s): plano medio, calor deformando el aire sobre la arena de vidrio negro, Miguel en el fondo del encuadre.
+- **Plano 3** (16–24s): primer plano de la mano enguantada subiendo al pecho — corte simple de plano, sin necesidad de ocultarlo, porque la voz narrativa nunca se interrumpe y arrastra la continuidad emocional de un plano a otro.
+- ... y así sucesivamente, un plano nuevo cada 5–8s de narración, generado silencioso, con Character DNA de Miguel repetido en cada prompt para que no cambie de aspecto entre planos.
+
+Fuentes: [How to Make an AI Story Video in 2026 (Anijam)](https://www.anijam.ai/blog/how-to-make-ai-story-video/), [AI Story Video Generator — multi-scene, consistent characters, synced voiceover (Novi AI)](https://www.noviai.ai/), [Veo 3 B-Roll Generator: Cinematic Stock Footage with AI (veo3ai.io)](https://www.veo3ai.io/blog/veo-3-b-roll-generator-2026), [Veo 3 Native Audio Prompt Guide 2026 (veo3ai.io)](https://www.veo3ai.io/blog/veo-3-native-audio-prompt-guide-2026), [How to make an audiobook using AI (ElevenLabs)](https://elevenlabs.io/blog/how-to-make-an-audiobook), [ElevenLabs Audiobooks docs](https://elevenlabs.io/docs/eleven-creative/products/audiobooks), [Narrator AI Voices — ElevenLabs Voice Library](https://elevenlabs.io/voice-library/narrator-voices), [How to Sync Audio and Video in Premiere (murf.ai)](https://murf.ai/blog/how-to-sync-audio-and-video-in-premiere).
+
+---
+
+## 10. Resumen ejecutivo / próximos pasos recomendados
+
+1. **El formato objetivo es narrado (sección 9), no dramatizado** — esto simplifica el problema de "cortes en escenas largas" porque el audio maestro es la voz en off continua, no diálogo con lip-sync. Empezar por ahí antes de invertir en las técnicas más complejas de las secciones 2–3.
+2. **Pilotar con un solo párrafo/escena corta** (el primer párrafo de B1C01, ejemplo en 9.4) antes de intentar un capítulo entero: valida narración → segmentación → generación de planos → montaje en un ciclo pequeño.
+3. **Fijar una única voz de narrador para todo el proyecto** en ElevenLabs (Multilingual v2/Studio) + diccionario de pronunciación con los nombres propios del universo — inversión única que se reutiliza en todos los capítulos.
+4. **Convertir las fichas de `content/lore/personajes.md` en "Ingredients" visuales** reutilizables (una imagen de referencia limpia por personaje) para que se vean iguales en los planos silenciosos de cada capítulo.
+5. **Decidir el "look" de color del proyecto una vez** (LUT + reglas de iluminación por facción: Cielo=luz fría/dorada, Infierno=cálido/rojo-sombra, coherente con las fichas ya escritas) y documentarlo como referencia para cada prompt.
+6. **Reservar la dramatización con diálogo/lip-sync (secciones 2–3) para 1–2 momentos de clímax por capítulo**, como mejora opcional una vez el pipeline narrado esté rodando, no como requisito desde el primer vídeo.
+7. Evaluar si conviene generar el diseño de sonido/ambiente por completo en post (DaVinci Fairlight/Audition) en vez de depender de que Veo3 lo mantenga consistente entre clips.
+8. Si se decide automatizar parte del pipeline (texto de capítulo → guion de narración → segmentos → prompts de plano) podría integrarse como un flujo adicional dentro de `src/`/`config/flows/`, en la línea de lo que ya hace el proyecto para generación de prosa — pero eso sería una fase posterior, no parte de esta investigación.
