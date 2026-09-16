@@ -68,3 +68,76 @@ Las fichas de `character_library/*/README.md` siguen siendo el resumen humano co
 4. Decide **un solo patrón para el daño de Miguel** en el capítulo: o seguimos con la variante de personaje pre-generada (armadura agrietada + ala quemada, ya aprobada), o cambiamos a describir el daño por plano como hace Storyboard Studio — mejor no mezclar los dos sin querer entre escenas distintas del mismo capítulo.
 
 Fuente completa (JSON limpio de imágenes, con todos los campos): `storyboard_studio_exports/cap01_storyboard_studio_2026-09-15_sin_imagenes.json`.
+
+---
+
+## 7. Los 10 planos vacíos, ya completados (2026-09-16)
+
+Ya están escritos también dentro del JSON (`storyboard_studio_exports/...json`, campos `title`/`visualDescription`/`motionDescription`/`audioDescription` de cada `frame`), por si Storyboard Studio permite reimportar. Aquí en texto para copiar y pegar directamente en la interfaz si no admite reimportar el JSON.
+
+### Escena 02 — Ext. Serephis - Black Glass Flats - Day
+
+**Plano 1 — "The Weight of the Armor"**
+- Visual: *Medium-wide shot of Miguel marching across the Black Glass Flats, full figure visible — his golden celestial plate armor visibly battered and cracked from the Onyx Gates campaign, two enormous pearl-white wings trailing behind him, feathers lightly stained with fine grey ash. The fused black glass ground stretches flat and reflective around him.*
+- Movimiento: *Steady lateral tracking shot at knee height, keeping pace with Miguel's stride as the glass terrain slides past.*
+- Audio: *Each step produces a sharp, brittle crack as the black glass splinters beneath his sabatons; a low, dry wind hisses across the flat expanse.*
+
+**Plano 2 — "Splintering Ground"**
+- Visual: *Low, close shot on Miguel's sabatons striking the black glass — the surface fracturing into a spiderweb of cracks with each footfall, fine ash puffing up around his boots.*
+- Movimiento: *Static camera with a slight handheld tremor, holding tight on the ground-level impact.*
+- Audio: *A dry, rhythmic crunch with each step, echoing faintly across the empty flats; a distant heat-distortion hum underneath.*
+
+**Plano 3 — "Twelve Days"**
+- Visual: *Close-up on Miguel's face and shoulders, ash-white hair windswept, a faint cyan glow contained within his eyes, his expression carrying the exhaustion of twelve days of travel. His wings are partially visible behind him, feathers dulled with grey ash and old burn wear.*
+- Movimiento: *Slow, almost imperceptible push-in on his face.*
+- Audio: *Wind fades to near silence; his breathing is audible, slow and effortful.*
+
+### Escena 03 — Ext. Serephis - Ash Dunes - Later
+
+**Plano 1 — "The Failing Armor"**
+- Visual: *Close tracking shot following Miguel from the side as he walks through the Ash Dunes, his ash-white hair stirring faintly in the dry wind, eyes glowing faintly cyan.*
+- Movimiento: *Camera tracks alongside at shoulder height, matching his pace precisely.*
+- Audio: *Fine dust hissing against armor plating; the dry rasp of wind moving sand.*
+
+**Plano 2 — "Cracks Spiderweb"**
+- Visual: *Close-up on Miguel's breastplate — deep cracks spiderwebbing visibly across the gold plate, the metal flexing slightly with each labored stride.*
+- Movimiento: *Static camera, subtle handheld breathing motion.*
+- Audio: *A low metallic groan with each step; his breath grows shallow and grit-coated.*
+
+**Plano 3 — "The Hollow"**
+- Visual: *Close-up as Miguel's gauntleted hand rises instinctively to the center of his sternum, pressing against an unseen wound; his gaze fixed on the distant horizon, haunted by an unnamed question.*
+- Movimiento: *Camera holds still, then drifts almost imperceptibly closer to his hand.*
+- Audio: *Wind drops to near-total silence; a faint, cold resonant hum underscores the moment.*
+
+### Escena 04 — Ext. Serephis - The Buried Road - Continuous
+
+**Plano 1 — "Something Solid"**
+- Visual: *Wide-medium shot of Miguel trudging up the face of a steep ash dune, boots sinking into grey powder — until his stride catches, his foot striking something solid beneath the surface.*
+- Movimiento: *Camera tracks low alongside his climbing stride, then holds as he stops abruptly.*
+- Audio: *The soft crunch of ash underfoot shifts suddenly to a dull, solid thud; the wind quiets as if the moment itself holds its breath.*
+
+**Plano 2 — "Worked Stone"**
+- Visual: *Close-up on Miguel's gauntleted fingers brushing ash away, revealing the perfectly square edge of a worked paving block beneath the soot; a second and third block emerge as he clears more space.*
+- Movimiento: *Slow, deliberate push-in on his hands and the stone.*
+- Audio: *Fine ash sifting away with each brush of his fingers; distant wind, otherwise near-silent.*
+
+**Plano 3 — "The Buried Road"**
+- Visual: *Wide reveal shot as a broad, ancient road emerges from the waste — paving stones running in a straight, defiant line toward the same horizon Miguel has been following, most of it still buried beneath the dunes on either side.*
+- Movimiento: *Slow pull-back and crane up, revealing the scale and direction of the road against the desolate landscape.*
+- Audio: *Wind picks up faintly, carrying a low, almost reverent tone; Miguel's breathing steadies.*
+
+**Plano 4 — "The Trembling Stops"**
+- Visual: *Close-up on Miguel's face as he looks down at the worked stone, then back toward his own chest, toward the hollow; for the first time in twelve days, his hand stops trembling.*
+- Movimiento: *Static, intimate close-up, minimal movement.*
+- Audio: *Near silence, the wind fully faded; the faint cold resonant hum returns subtly, then settles.*
+
+## 8. Diagnóstico del problema de generación de vídeo
+
+Tu lectura de lo que pasó es correcta: **Storyboard Studio no está pensado para darte el vídeo final directamente desde ahí** — su trabajo es producir las **imágenes fijas de cada plano** (el panel del storyboard), con el personaje, encuadre e iluminación ya resueltos. Si le pides que anime esos paneles con su propio botón interno, probablemente use un modelo de vista previa rápido/barato pensado para "ver el ritmo", no para calidad final — de ahí que el resultado saliera mal.
+
+**El flujo correcto es el mismo que ya validamos con la escena del diálogo**:
+1. Genera/aprueba el panel de imagen fija de cada plano en Storyboard Studio (con los prompts de la sección 7).
+2. Saca esa imagen del storyboard y **úsala en el flujo normal de Escenas** — exactamente como hicimos con la imagen de Gabriel: `Vídeo → Fotogramas` (subiendo el panel como fotograma) o `Vídeo → Ingredientes` (si el personaje ya está creado como Character), con `Omni 1.1 Flash` como modelo por defecto.
+3. Ahí sí escribes el prompt de movimiento/audio completo (ya los tienes en la sección 7, en los campos Movimiento/Audio) y generas el clip final.
+
+Es decir: Storyboard Studio resuelve el **"qué genero de personajes y planos"**, pero el vídeo final sigue saliendo del mismo sitio de siempre (Escenas, con el modelo que ya sabemos que funciona). No es un atajo que salte ese paso — es una forma más rápida de planificar antes de llegar a él.
