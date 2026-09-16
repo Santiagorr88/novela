@@ -1,81 +1,110 @@
 ---
 name: storyboard-production
-description: "Convert a finished, approved chapter of Chronicles of the Sundering Judgment into a full shot-by-shot cinematic production package (technical script, Storyboard Studio JSON, EN markdown, audit checklist) via a panel of specialist agents — cinematography, sound/atmosphere, continuity/canon — coordinated into one source-of-truth JSON, ready to paste into Google Flow's Storyboard Studio. MANDATORY TRIGGERS: 'produce el capitulo X para video', 'genera el storyboard de', 'pasada de produccion cinematografica', 'convierte este capitulo a guion tecnico'. Runs per-chapter, one invocation per chapter. Only after the chapter's prose has passed chapter-review — never on a draft that can still change."
+description: "Convert a finished, approved chapter of Chronicles of the Sundering Judgment into a full shot-by-shot cinematic production package (technical script, Storyboard Studio JSON, EN markdown, audit checklist) via a complete production team of specialist agents — director, writers, story editor, cinematography, production design, concept art, storyboard/previz, costume, VFX, sound design, composer, dialogue/ADR, casting & voice direction, continuity/canon, plus a post-production pass (editor, colorist) once clips exist — coordinated into one source-of-truth JSON, ready to paste into Google Flow's Storyboard Studio. MANDATORY TRIGGERS: 'produce el capitulo X para video', 'genera el storyboard de', 'pasada de produccion cinematografica', 'convierte este capitulo a guion tecnico', 'monta el equipo de produccion para'. Runs per-chapter, one invocation per chapter. Only after the chapter's prose has passed chapter-review — never on a draft that can still change."
 ---
 
 # Storyboard Production Council
 
-Formaliza como skill lo que hicimos a mano para el capítulo 1: convertir un capítulo de prosa aprobado en un guion técnico shot-a-shot (cámara, sonido, continuidad) listo para Storyboard Studio. Es la tercera pieza del sistema multiagente del proyecto (`content/craft/11_sistema_agentes.md`) — misma forma que `chapter-review` y `beat-planner`: coordinador + especialistas paralelos sobre una memoria compartida, nunca un agente por capricho de detalle.
+El equipo de producción completo de una adaptación de Hollywood, mapeado a lo que cada rol significa cuando no hay set físico ni actores humanos: en vez de construir o fotografiar algo, cada especialista **escribe dirección precisa** que termina en un campo del JSON de Storyboard Studio. Ningún rol se elimina por "no ser indispensable" — se traduce.
 
-## Mapeo de especialidades — por qué solo 3 agentes
-
-Un equipo real de Hollywood tiene ~15 roles (showrunner, guionista, DoP, production designer, concept artist, storyboard artist, costume, VFX, sound designer, compositor, ADR, casting, actores, continuity, editor, colorista, mezcla). Para este pipeline (Flow/Veo3/Storyboard Studio, personajes ya diseñados y castings) la mayoría ya está resuelta o no aplica:
-
-- **Ya resuelto, no requiere agente**: casting/actores (voces en `audiolibro_casting.json`, audio congelado por defecto), concept art y costume (referencias aprobadas en `character_library/` y `produccion_cinematografica/variantes_por_personaje/`), guion de adaptación (el propio shot breakdown de este skill).
-- **No aplica a generación AI shot-a-shot**: VFX supervisor (el fuego/alas los genera Veo3 desde el texto de cámara, no un departamento aparte), compositor (no hay score continuo entre shots).
-- **Fase posterior, no parte de este skill**: editor de montaje, colorista, mezcla de sonido — entran cuando ya existan los clips generados, no al producir el guion.
-- **Lo que sí queda como trabajo real, un agente cada uno**: dirección de fotografía, sonido/atmósfera, continuidad y canon.
+| Rol de Hollywood | Agente aquí | Qué produce |
+|---|---|---|
+| Showrunner / director | **Dirección** | Brief de visión y tono del capítulo: qué se dramatiza, qué se corta, énfasis emocional |
+| Guionista(s) de adaptación | **Guion** | Shot breakdown: prosa → escenas → shots numerados |
+| Story editor | **Story editor** | Verifica que el breakdown respeta la estructura/arco del capítulo y no rompe capítulos vecinos |
+| Director de fotografía | **Fotografía** | Cámara, lente, movimiento, luz por shot |
+| Production designer | **Diseño de producción** | Coherencia arquitectónica/mundo entre localizaciones del capítulo |
+| Concept artist | **Concept art** | Valida lo ya aprobado en `character_library/`; diseña (en texto) cualquier elemento visual nuevo que el capítulo introduzca y no exista aún |
+| Storyboard artist / previz | **Composición/staging** | Encuadre y blocking dentro de cada plano (distinto de fotografía: aquí es "qué hay dentro del cuadro y dónde", no lente/movimiento) |
+| Costume designer | **Vestuario** | Biblia de vestuario/armadura por personaje, y su estado exacto shot a shot (agrietada, intacta, ala chamuscada...) |
+| VFX supervisor | **VFX** | Dirección de efectos sobrenaturales (fuego, alas, magia, el Sentinel) y su continuidad shot a shot |
+| Sound designer | **Sonido** | Ambiente y textura física (viento, cristal, pasos, peso de objetos) |
+| Compositor | **Música** | Dirección musical/leitmotiv por personaje o facción — intención, no partitura generada |
+| Dialogue/ADR | **Diálogo** | Pule las líneas para timing/lip-sync, marca énfasis y pausas |
+| Casting director + Actores | **Casting y dirección de voz** | Confirma el mapeo voz↔personaje ya cast (`audiolibro_casting.json`) y escribe notas de interpretación por línea (tono, ritmo, subtexto) — no hay actor físico, la "actuación" es esta dirección |
+| Continuity supervisor | **Continuidad y canon** | Estado físico y de conocimiento de cada personaje shot a shot contra `grafo_conocimiento.md`/`personajes.md` |
+| Editor (montaje) | **Montaje** | Plan de corte/ritmo entre shots — corre en una fase posterior, cuando ya existan clips generados |
+| Colorista | **Color** | Intención de gradación por escena, coherente con el estilo global "3D-Animation" — misma fase posterior que montaje |
 
 ## Cuándo correr esto
 
-- Solo sobre un capítulo cuya prosa ya pasó `chapter-review` con PASS (o PASS WITH FIXES ya aplicados). Nunca sobre un borrador que puede cambiar — produce vídeo de algo inestable.
-- Regla del autor (CLAUDE.md #1): paso a paso, libro a libro. Se corre sobre Libro I, se aprueba con el autor, y solo entonces se escala a Libro II/III — no adelantar capítulos de otro libro sin luz verde explícita.
+- Solo sobre un capítulo cuya prosa ya pasó `chapter-review` con PASS (o PASS WITH FIXES ya aplicados). Nunca sobre un borrador que puede cambiar.
+- Regla del autor (CLAUDE.md #1): paso a paso, libro a libro. Se corre sobre Libro I, se aprueba con el autor, y solo entonces se escala a Libro II/III.
+- Decisiones de trama/estilo/casting: SIEMPRE las decide el autor (CLAUDE.md, "Cómo trabajar"). Todo lo que produzcan estos agentes es propuesta — se presenta, no se da por aprobado.
 
 ## Inputs requeridos
 
 - Prosa EN del capítulo: `Libro{N}/EN/NN_Titulo.md` (fuente canónica).
-- Narración de audiolibro EN: `Libro{N}/audiolibro/en/capitulo_NN.txt` (diálogo ya limpio, referencia de ritmo).
-- `content/lore/personajes.md` y `content/lore/grafo_conocimiento.md` — quién sabe qué, estado de cada personaje en este punto de la trama.
-- `character_library/**/canonical/*.png` — referencias visuales aprobadas. No se regeneran ni reinterpretan.
-- `produccion_cinematografica/variantes_por_personaje/*.md` — variantes visuales ya decididas por el autor (p.ej. ala chamuscada de Miguel).
-- Si ya existe un JSON de storyboard previo para el capítulo en `storyboard_studio_exports/`, se usa como base a enriquecer — nunca se recrea desde cero.
-- `audiolibro_casting.json` solo si el autor ha activado audio explícitamente (por defecto, congelado).
+- Narración de audiolibro EN: `Libro{N}/audiolibro/en/capitulo_NN.txt`.
+- `content/lore/personajes.md`, `content/lore/grafo_conocimiento.md`, `content/lore/arco_argumental_completo.md` (o equivalente) para el story editor.
+- `character_library/**/canonical/*.png` — referencias visuales aprobadas.
+- `produccion_cinematografica/variantes_por_personaje/*.md` — variantes ya decididas.
+- `audiolibro_casting.json` — mapeo voz↔personaje (el propio archivo de casting; el agente de voz no lo recrea, lo usa).
+- Si ya existe un JSON de storyboard previo del capítulo en `storyboard_studio_exports/`, se usa como base a enriquecer, no se recrea desde cero.
 
-## Paso 1 — Comprensión: shot breakdown (memoria compartida)
+## Fase 0 — Dirección: brief de visión
 
-Antes de lanzar especialistas, construir (o actualizar, si ya existe) la lista maestra: escenas del capítulo → shots dentro de cada escena, numeración estable, quién aparece, qué ocurre, dónde. Nada de cámara/sonido fino todavía.
+Un agente (o el orquestador) lee la prosa completa del capítulo y produce un brief corto: tono general, qué momentos interiores de la prosa deben volverse acción/imagen visible, qué se puede comprimir o fundir sin perder el capítulo. Este brief es lo que leen el guion y el story editor a continuación — nadie más lo necesita todavía.
 
-Esta lista es la memoria compartida que leen los tres especialistas del Paso 2. Sin ella, cada uno "produce un capítulo ligeramente distinto" — mismo riesgo que ya documentó `11_sistema_agentes.md` para la auditoría editorial.
+## Fase 1 — Guion: shot breakdown + verificación estructural
 
-Regla dura (aprendida en la pasada manual del capítulo 1): **un shot = una imagen**. Nunca un "cut to X" dentro de la descripción de un mismo shot — si dos encuadres son necesarios, son dos shots consecutivos, no uno compuesto.
+1. **Guion** (agente): con el brief de Fase 0 + la prosa, produce el shot breakdown — escenas → shots numerados, quién aparece, qué ocurre, dónde. Sin cámara/sonido fino todavía.
+2. **Story editor** (agente, tras el anterior): revisa el breakdown contra el arco argumental y los capítulos vecinos — que no se salte un beat, que no contradiga algo ya establecido en la trama. Devuelve el breakdown corregido o una lista de ajustes.
 
-## Paso 2 — Análisis paralelo: 3 especialistas, misma memoria
+El breakdown final de esta fase es la **memoria compartida** — todo lo que sigue en Fase 2 lee esto, no la prosa cruda, y no se relee entre sí (mismo principio de `content/craft/11_sistema_agentes.md`: sin memoria común, cada agente produce un capítulo ligeramente distinto).
 
-Cada uno recibe SOLO el shot breakdown del Paso 1 más su documento de referencia — no el canon completo, para que el brief sea barato y enfocado (mismo principio que `chapter-review`). Lanzarlos en paralelo, no en serie.
+Regla dura (aprendida en la pasada manual del capítulo 1): **un shot = una imagen**. Ningún "cut to X" dentro de un mismo shot — si hacen falta dos encuadres, son dos shots consecutivos.
 
-### Especialista 1 — Dirección de fotografía
-Grounding: shot breakdown + `character_library/` (rasgos físicos exactos) + variantes ya aprobadas.
-Añade a cada shot: encuadre, movimiento de cámara, luz, foco emocional. Una imagen ganada por shot (calibre B, `content/craft/12_calibre_b.md`), nunca descripción genérica. Presencia por efecto, no por fórmula repetida (`13_presencia_cinematografica.md`).
-Respeta la regla de un-shot-una-imagen del Paso 1; si necesita un encuadre nuevo, propone un shot adicional, no lo comprime en la descripción existente.
+## Fase 2 — Departamentos, en paralelo
 
-### Especialista 2 — Sonido y atmósfera
-Grounding: shot breakdown + descripciones de localización del capítulo (props, clima, textura del lugar).
-Añade `audioDescription` por shot: ambiente, textura física (viento, cristal, pasos, peso de objetos/armadura). Sin música original — fuera de alcance de este pipeline (ver mapeo arriba).
+Todos reciben SOLO el shot breakdown de Fase 1 + su propio documento de referencia — nunca el canon completo, para mantener cada brief barato y enfocado. Se lanzan juntos, no en serie.
 
-### Especialista 3 — Continuidad y canon
-Grounding: `grafo_conocimiento.md`, `personajes.md`, variantes aprobadas.
-Verifica, shot a shot: estado físico de cada personaje coherente con lo ya ocurrido en el capítulo (armadura, heridas, alas — no puede aparecer intacto después de dañarse); que ningún shot muestre a un personaje actuando sobre algo que el grafo de conocimiento dice que aún no sabe; marca cualquier localización/prop sin ficha existente para que el autor decida si hace falta un asset nuevo.
+**Visual**
+- **Fotografía** — grounding: breakdown + `character_library/`. Cámara, lente, movimiento, luz, foco emocional por shot. Una imagen ganada por shot (calibre B, `12_calibre_b.md`), presencia por efecto (`13_presencia_cinematografica.md`).
+- **Diseño de producción** — grounding: breakdown + descripciones de localización existentes. Coherencia de arquitectura/mundo entre shots de la misma localización.
+- **Concept art** — grounding: breakdown + `character_library/` + variantes aprobadas. Confirma qué ya existe; para cualquier elemento visual nuevo del capítulo (localización, prop, criatura) sin ficha previa, propone una descripción para que el autor decida si genera el asset.
+- **Composición/staging** — grounding: breakdown. Qué hay dentro del cuadro y cómo se distribuye (blocking), separado de la decisión de lente/movimiento de Fotografía.
+- **Vestuario** — grounding: breakdown + `variantes_por_personaje/*.md`. Estado exacto de vestuario/armadura de cada personaje en cada shot — nunca puede aparecer intacto después de dañarse en un shot anterior.
+- **VFX** — grounding: breakdown + `personajes.md` (poderes/rasgos). Dirección y continuidad de cualquier efecto sobrenatural (fuego, alas, magia, el Sentinel) shot a shot.
 
-## Paso 3 — Coordinación: fusión + QA doble
+**Sonido**
+- **Sonido** — grounding: breakdown + localización. `audioDescription` de ambiente y textura física por shot.
+- **Música** — grounding: breakdown + facción/personaje en escena. Dirección de leitmotiv/intención musical por escena (no genera partitura, la describe).
+- **Diálogo** — grounding: breakdown + líneas de diálogo del capítulo. Pule cada línea para timing/lip-sync, marca pausas y énfasis.
 
-El orquestador (no un agente) recibe los 3 informes:
-- Resuelve conflictos entre especialistas (p.ej. fotografía pide un plano que continuidad marca como imposible por el estado del personaje en ese punto) — alguien tiene que decidir, igual que el editor jefe en `11_sistema_agentes.md`.
-- Fusiona todo en el JSON único (`storyboard_studio_exports/capNN_storyboard_studio_FECHA.json`), añadiendo/editando `frames` sin tocar la estructura ya validada.
+**Actuación**
+- **Casting y dirección de voz** — grounding: breakdown + `audiolibro_casting.json`. Confirma la voz ya asignada a cada personaje hablante del capítulo; escribe notas de interpretación por línea (tono, ritmo, qué está sintiendo el personaje al decirlo).
+
+**Continuidad**
+- **Continuidad y canon** — grounding: breakdown + `grafo_conocimiento.md` + `personajes.md` + salida de Vestuario/VFX (para cruzar estado físico). Verifica que ningún shot muestre a un personaje sabiendo/haciendo algo que el grafo dice que aún no le corresponde.
+
+## Fase 3 — Coordinación: fusión + QA doble
+
+El orquestador (no un agente) recibe todos los informes de Fase 2:
+- Resuelve conflictos entre especialistas (p.ej. Fotografía pide un plano que Continuidad marca como imposible por el estado del personaje) — alguien decide, como el editor jefe en `11_sistema_agentes.md`.
+- Fusiona todo en el JSON único (`storyboard_studio_exports/capNN_storyboard_studio_FECHA.json`).
 - Regenera desde el JSON — nunca al revés — el markdown EN legible y el checklist de auditoría.
 - QA doble (CLAUDE.md regla #8): verificación contra el texto real del capítulo + revisión independiente vía `codex exec --sandbox read-only`; QA transversal de densidad/repetición si el capítulo ya llevaba varias pasadas.
-- Presenta el resultado al autor antes de cerrar la pasada. Decisiones de estilo visual o de casting de voz siempre las decide él — este skill nunca las toma por su cuenta.
+- Presenta el resultado al autor antes de cerrar la pasada. Nada de esto se da por aprobado solo — decisiones de estilo/trama/casting las decide él.
 
-## Paso 4 — Guardar y reportar
+## Fase 4 — Post-producción (invocación posterior, cuando ya existan clips)
+
+Esta fase NO corre junto con las anteriores — se dispara aparte, una vez el autor ya haya generado los clips de vídeo en Flow para el capítulo:
+
+- **Montaje** — plan de corte/ritmo: orden y duración relativa de los clips, dónde cortar seco y dónde encadenar.
+- **Color** — intención de gradación por escena, coherente con el estilo global "3D-Animation" ya usado en todos los personajes.
+
+## Guardar y reportar
 
 - JSON, markdown y checklist actualizados en `produccion_cinematografica/`.
-- Informe de la pasada en `design_notes/AAAA-MM-DD_produccion_capNN.md`.
+- Informe de la pasada en `design_notes/AAAA-MM-DD_produccion_capNN.md`, listando qué propuso cada departamento y qué decidió el autor.
 - Commit con mensaje en español describiendo la decisión del autor que originó la pasada (CLAUDE.md regla #9).
-- Resumen corto en chat — nunca pegar el JSON completo en el mensaje.
+- Resumen corto en chat — nunca pegar el JSON completo.
 
 ## Relación con otras skills
 
-- Corre DESPUÉS de que `chapter-review` dé PASS a la prosa del capítulo — nunca antes, para no producir vídeo de una escena que aún puede cambiar.
-- No sustituye a `chapter-review` ni a `beat-planner` — aquellas trabajan la prosa; esta traduce prosa ya cerrada a plano/vídeo.
+- Corre DESPUÉS de que `chapter-review` dé PASS a la prosa del capítulo.
+- No sustituye a `chapter-review` ni a `beat-planner` — aquellas trabajan la prosa; esta traduce prosa ya cerrada a plano/vídeo, con el equipo de producción completo.
 
 ## Escalado a "serie"
 
