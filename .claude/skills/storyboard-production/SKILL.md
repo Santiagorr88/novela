@@ -46,10 +46,11 @@ El equipo de producción completo de una adaptación de Hollywood, mapeado a lo 
 
 Un agente (o el orquestador) lee la prosa completa del capítulo y produce un brief corto: tono general, qué momentos interiores de la prosa deben volverse acción/imagen visible, qué se puede comprimir o fundir sin perder el capítulo. Este brief es lo que leen el guion y el story editor a continuación — nadie más lo necesita todavía.
 
-## Fase 1 — Guion: shot breakdown + verificación estructural
+## Fase 1 — Guion: presupuesto de duración + shot breakdown + verificación estructural
 
-1. **Guion** (agente): con el brief de Fase 0 + la prosa, produce el shot breakdown — escenas → shots numerados, quién aparece, qué ocurre, dónde. Sin cámara/sonido fino todavía.
-2. **Story editor** (agente, tras el anterior): revisa el breakdown contra el arco argumental y los capítulos vecinos — que no se salte un beat, que no contradiga algo ya establecido en la trama. Devuelve el breakdown corregido o una lista de ajustes.
+0. **Presupuesto de duración** (antes de nada): el capítulo tiene una duración objetivo de vídeo (por defecto ~8 min, salvo que el autor indique otra por capítulo — es una decisión suya, como trama/estilo/casting). Con clips de Veo3 a 8s por shot: `duración objetivo (s) / 8 ≈ nº de shots necesarios`. Ese número es el target que Guion tiene que cubrir con contenido real de la escena — nunca rellenar con shots vacíos ni comprimir la escena en menos shots de los que necesita para no pasarse (mismo error que `beat-planner` corrige del lado de la prosa: contar primero, no escribir y ver qué sale). Si el material real de la escena no llega al número de shots necesario, la señal es que hay que dramatizar más lo que en la prosa es interior/resumen (igual que un beat-planner añade beats reales, no relleno) — nunca inventar acción que no está en el capítulo.
+1. **Guion** (agente): con el brief de Fase 0, el presupuesto de shots, y la prosa, produce el shot breakdown — escenas → shots numerados, quién aparece, qué ocurre, dónde. Sin cámara/sonido fino todavía.
+2. **Story editor** (agente, tras el anterior): revisa el breakdown contra el arco argumental y los capítulos vecinos — que no se salte un beat, que no contradiga algo ya establecido en la trama; y confirma que el conteo de shots cuadra con el presupuesto de duración de la Fase 1.0. Devuelve el breakdown corregido o una lista de ajustes.
 
 El breakdown final de esta fase es la **memoria compartida** — todo lo que sigue en Fase 2 lee esto, no la prosa cruda, y no se relee entre sí (mismo principio de `content/craft/11_sistema_agentes.md`: sin memoria común, cada agente produce un capítulo ligeramente distinto).
 
@@ -97,7 +98,7 @@ Esta fase NO corre junto con las anteriores — se dispara aparte, una vez el au
 ## Guardar y reportar
 
 - JSON, markdown y checklist actualizados en `produccion_cinematografica/`.
-- Informe de la pasada en `design_notes/AAAA-MM-DD_produccion_capNN.md`, listando qué propuso cada departamento y qué decidió el autor.
+- Informe de la pasada en `design_notes/AAAA-MM-DD_produccion_capNN.md`, listando qué propuso cada departamento, qué decidió el autor, y la duración final estimada (nº de shots × 8s) contra el presupuesto objetivo de la Fase 1.0.
 - Commit con mensaje en español describiendo la decisión del autor que originó la pasada (CLAUDE.md regla #9).
 - Resumen corto en chat — nunca pegar el JSON completo.
 
