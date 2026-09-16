@@ -35,6 +35,14 @@ Si no hay forma de vincular y el agente crea personajes nuevos desde el guion, t
 
 **Todo en inglés, sin mezclar con español** — ya lo tienes así en el archivo EN.
 
+## 4.5. Lección de campo (2026-09-16): el campo "frames" NO se deriva del texto pegado
+
+Confirmado en la práctica: aunque el Script pegado tenga exactamente 3 bloques "Shot" para una escena, Autofill Scene generó 6 — el campo numérico "frames" (arriba a la derecha del panel de escena) es independiente del texto y usa su propio valor por defecto, rellenando de más con contenido inventado (títulos que no existen en el guion, fuego que no está descrito, etc.) para llegar a esa cifra.
+
+**Antes de pulsar Autofill Scene en cada escena**, poner manualmente el campo "frames" al número exacto de shots de esa escena según el guion (tabla ya usada en el prompt de generación): Escena 01=3, 02=4, 03=5, 04=4, 05=7, 06=5, 07=6, 08=6, 09=6, 10=6. Corregir el número después de generar no evita el problema — el objetivo es que no llegue a inventar los shots de más desde el principio.
+
+Aun con el número correcto, un shot individual puede seguir reinterpretándose (visto: "Journey Through Ash" sin fuego generado con fuego, título cambiado). Para ese caso, no reintentar con el botón normal — usar `Mockup`/`Whisk` con los planos ya válidos de la misma escena como referencia de fondo/personaje, y pegar el texto del shot literal.
+
 ## 5. Revisar Assets generados (antes de generar ni un solo panel)
 
 - Comprueba que **no se hayan duplicado** los personajes (que no haya un "Miguel" nuevo generado por el agente además del que ya tenías aprobado).
