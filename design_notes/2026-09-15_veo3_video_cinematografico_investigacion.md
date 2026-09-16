@@ -309,7 +309,72 @@ Fuentes: [snubroot/Veo-3-Prompting-Guide (README)](https://github.com/snubroot/V
 
 ---
 
-## 11. Resumen ejecutivo / próximos pasos recomendados
+## 11. Automatización y producción por lotes (API, n8n, escalado)
+
+Relevante para cuando el pipeline manual (secciones 9–10) esté validado y se quiera escalar a "un capítulo tras otro" sin repetir cada paso a mano en Flow. Hay dos caminos, no excluyentes:
+
+### 11.1 Vía API oficial (Gemini API / `google-genai` SDK) — la opción que encajaría con `src/`
+
+El patrón oficial en Python es una **operación asíncrona de larga duración** que hay que sondear (poll) hasta que termine:
+
+```python
+import os, time
+from google import genai
+from google.genai import types
+
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+
+# Texto a vídeo
+operation = client.models.generate_videos(
+    model="veo-3.1-generate-preview",
+    prompt="[prompt de la escena, formato 7 campos de la sección 10]",
+    config=types.GenerateVideosConfig(
+        number_of_videos=1,
+        duration_seconds=8,
+        enhance_prompt=True,
+    ),
+)
+
+while not operation.done:
+    time.sleep(20)
+    operation = client.operations.get(operation)
+
+video = operation.response.generated_videos[0].video
+```
+
+**Imagen-a-vídeo** (aplica directamente el refinamiento de la sección 9.5 — animar desde una imagen "hero" ya validada, con `last_frame` opcional para interpolar entre dos imágenes fijas):
+
+```python
+image = types.Image.from_file("personaje_miguel_pose1.png")
+operation = client.models.generate_videos(
+    model="veo-3.1-generate-preview",
+    prompt="[acción/cámara/audio del plano]",
+    image=image,
+    config=types.GenerateVideosConfig(
+        last_frame=types.Image.from_file("personaje_miguel_pose2.png"),
+    ),
+)
+```
+
+**Extensión de vídeo** (encadenar más allá de 8s, sección 2): se pasa el propio vídeo generado como entrada de la siguiente llamada (`video=<uri del clip anterior>`) en vez de una imagen — el SDK gestiona la continuidad usando el clip previo como referencia.
+
+**Cómo encajaría en este proyecto**: dado que `src/` ya contiene el motor de generación de prosa y `config/flows/main.yml` define el flujo de producción principal, un flujo de vídeo podría vivir como `config/flows/video.yml` (o similar) con pasos: *leer capítulo → generar guion de narración → trocear en segmentos → generar prompts por plano (formato §10) → llamar a `generate_videos` por lote → guardar en `artifacts/video/` → ensamblar*. Esto es una fase posterior, no parte de esta investigación, pero es la ruta natural de automatización dado que el proyecto ya trata la generación de contenido como un flujo configurable.
+
+### 11.2 Vía n8n (no-code, más rápido de montar sin tocar Python)
+
+Existen ya varias plantillas de workflow n8n públicas para este caso de uso exacto — útil como referencia de arquitectura aunque se acabe construyendo en Python:
+
+- **Guion → escenas → prompts → TTS → Veo3 → publicación**: un patrón típico toma una idea/guion, la descompone en N escenas con un LLM (Gemini/GPT), traduce cada escena a un prompt de vídeo optimizado, genera la narración con TTS, genera cada clip de 8s con Veo3, y sube el resultado (a YouTube/Drive) registrando el estado en una hoja de cálculo.
+- **Con reintentos y sondeo**: los workflows serios incluyen lógica de *poll* con reintentos contra el estado de la API (igual que el `while not operation.done` de arriba) antes de dar el clip por bueno y pasar al siguiente.
+- Sirve como **prototipo rápido** para validar el pipeline completo (guion→vídeo final) antes de invertir en una integración a medida en Python.
+
+**Recomendación práctica**: para este proyecto, dado que ya existe una base de código Python orientada a flujos (`src/`, `launch_flow.py`), tiene más sentido a medio plazo extender esa base que añadir n8n como pieza nueva — pero n8n puede servir de banco de pruebas rápido para validar la secuencia de pasos antes de programarla.
+
+Fuentes: [Generate videos with Veo 3.1 in Gemini API — Google AI for Developers](https://ai.google.dev/gemini-api/docs/veo), [Video generation in the Gemini API](https://ai.google.dev/gemini-api/docs/video), [Veo — Google Gen AI Python SDK docs](https://googleapis-python-genai-70.mintlify.app/guides/veo), [A Python script to generate and extend videos with Veo 3.1 (GitHub Gist)](https://gist.github.com/johnbean393/53432313bcd36d9c26712ee5003fdc83), [Using Google Veo 3.1 API for Batch Production of E-commerce UGC Videos (Medium)](https://medium.com/@panyanyany/using-google-veo-3-1-api-for-batch-production-of-e-commerce-ugc-videos-8f47955708f2), [Automate AI video production & distribution with Veo3 (n8n template)](https://n8n.io/workflows/6374-automate-ai-video-production-and-distribution-with-veo3-youtube-and-google-suite/), [Automated video creation using Google Veo3 and n8n workflow](https://n8n.io/workflows/4877-automated-video-creation-using-google-veo3-and-n8n-workflow/).
+
+---
+
+## 12. Resumen ejecutivo / próximos pasos recomendados
 
 1. **El formato objetivo es narrado (sección 9), no dramatizado** — esto simplifica el problema de "cortes en escenas largas" porque el audio maestro es la voz en off continua, no diálogo con lip-sync. Empezar por ahí antes de invertir en las técnicas más complejas de las secciones 2–3.
 2. **Pilotar con un solo párrafo/escena corta** (el primer párrafo de B1C01, ejemplo en 9.4) antes de intentar un capítulo entero: valida narración → segmentación → generación de planos → montaje en un ciclo pequeño.
