@@ -1,122 +1,67 @@
-# Plan de producción — Vídeo narrado del capítulo B1C01 "El Árbol Fuera del Tiempo"
+# Plan de producción — Vídeo narrado del Capítulo 1 "A Wound in the World"
 
-> Fecha: 2026-09-16
-> Basado en: `design_notes/2026-09-15_veo3_video_cinematografico_investigacion.md` (investigación completa) y el texto real de `project/Chronicles_of_the_Sundering_Judgment/chapters/ES/B1C01_ES_v2.md` (2.244 palabras).
-> Formato: **narrado** (voz en off continua + B-roll de Veo3), con 1 escena candidata a dramatización opcional (§9.3 del documento de investigación).
-
----
-
-## 1. Por qué B1C01 es un buen piloto
-
-- 2.244 palabras ÷ 145-155 palabras/min de narración ≈ **~15 minutos** — encaja justo en el target de 15-20 min sin necesitar cortar ni alargar apenas nada.
-- Ya tiene **8 escenas naturales** con tonos muy distintos (soledad/marcha, diálogo, descubrimiento, clímax visual, caos cósmico, villano) — es un buen "stress test" de casi todas las técnicas documentadas en la investigación, no solo B-roll plano.
-- Los 3 personajes que aparecen (Miguel, Gabriel, Lucifer) ya tienen ficha visual completa en `content/lore/personajes.md` — no hace falta diseño de personaje desde cero, solo traducir la ficha a prompt.
-
-## 2. Desglose en escenas (guion de narración = prosa casi literal, sección 9.2 paso 1)
-
-La prosa del capítulo ya está escrita en narrador en tercera persona con diálogo integrado (`—dijo Miguel—`), así que el guion de narración **no necesita reescritura**, solo la decisión de leer los diálogos con inflexión narrativa (guion 9.2) salvo que se dramatice la Escena 2 (ver más abajo). No se recorta nada: la prosa ya tiene ritmo ajustado (ver `expansion_guidelines.md`/`beat-planner` del proyecto).
-
-| # | Escena | Contenido | Palabras aprox. | Duración aprox. | Técnica recomendada | Planos aprox. (5-8s c/u) |
-|---|---|---|---|---|---|---|
-| 1 | **La marcha por Serephis** | Miguel caminando por el desierto agrietado, dolor interno, monólogo sobre lo que le falta | ~410 | ~2:40 | Narrado / B-roll, montaje normal (§9.2) | 20-24 |
-| 2 | **Encuentro con Gabriel** | Llegada de Gabriel, diálogo completo, decisión de Miguel de continuar solo | ~520 | ~3:20 | Shot/reverse-shot clásico (§3) — **candidata a dramatización opcional** con voces propias de Miguel/Gabriel (§9.3) | 20-26 |
-| 3 | **Camino a la arboleda** | Transición del desierto a la arboleda de metal, atmósfera, tensión de "emboscada" | ~380 | ~2:30 | Narrado / B-roll atmosférico, cámara lenta constante | 18-22 |
-| 4 | **El fresno y Solmire** | Descubrimiento de la espada, acercamiento, duda antes de tocarla | ~380 | ~2:30 | **"Oner" con Frames-to-Video encadenado** (§2.2) — es el primer clímax visual del capítulo | 15-18 (planos más largos, algunos extendidos >8s) |
-| 5 | **La visión cósmica** | Expulsión del cuerpo, caos cósmico, la risa, la verdad de la espada | ~380 | ~2:30 | **Montaje rápido con cortes visibles a propósito** (§7.3 — el corte abrupto ayuda al caos, no ocultarlo) | 25-30 (planos muy cortos, 3-5s) |
-| 6 | **Desenvaina la espada** | Vuelta al cuerpo, desenvaina, el árbol gime, el poder lo llena | ~330 | ~2:10 | Oner corto (§2.2) + primeros planos de reacción | 12-15 |
-| 7 | **Lucifer en su cámara** | Escena corta de contraste, Lucifer siente el eco, sonríe | ~150 | ~1:00 | Plano corto, estático, casi sin movimiento (contraste deliberado con el resto) | 6-8 |
-| 8 | **Cierre** | Vuelta a la arboleda, línea de cierre | ~40 | ~0:20 | Plano único, fundido a negro | 1-2 |
-
-**Total estimado: ~2.590 palabras narradas efectivas (incluye diálogo leído) ≈ 15:40-16:30 min, ~117-145 planos.** Coincide con la estimación de coste de la sección 8 de la investigación (~110-150 clips, ~$675-900 vía API o ~1 mes de cuota Ultra).
-
-## 3. Banco de imágenes de personaje necesario (sección 9.5 / 15.2 de la investigación)
-
-Antes de generar un solo plano de vídeo, construir el banco de imágenes fijo por personaje (reutilizable en *todos* los capítulos futuros, no solo este):
-
-| Personaje | Ficha base (`personajes.md`) | Imágenes mínimas a generar |
-|---|---|---|
-| **Miguel** | 2.25m, armadura dorada radiante con grietas antiguas, cabello blanco cenizo, ojos de llama azulada, alas radiantes, espada *Solmire* (luz viva, no metal) | Hero (plano medio, luz neutra) + perfil + 3/4 + cuerpo completo + variante "dolor/agotamiento" (para Escena 1) + variante "determinación" (Escenas 4-6) + variante con Solmire ya desenvainada |
-| **Gabriel** | 1.95m, túnicas azul/plata sin armadura, cabello negro liso, ojos de zafiro puro | Hero + perfil + 3/4 + variante "luz suave alrededor" (llegada) + variante "pena/despedida" (final del diálogo) |
-| **Lucifer** | 2.20m, belleza celestial corrupta, cabello blanco plateado, ojos rojo vino, piel pálida impecable, alas negras como el vacío | Hero (sentado, cámara oscura) + variante "sonrisa lenta" (única imagen que necesita realmente, la escena es corta y casi estática) |
-
-**Localizaciones/objetos recurrentes** (tratar igual que un personaje, mismo banco): el desierto de Serephis (cielo color moretón, arena de vidrio negro), la arboleda de metal pálido sin sombras, el fresno con Solmire incrustada, la cámara oscura de Lucifer con el "instrumento de relojería".
-
-**Cómo generarlas**: imagen hero con Imagen 3/Flow o Nano Banana → variantes conversacionales con Nano Banana pidiendo "el mismo Miguel, ahora de perfil / con expresión X / en pose Y" (§15.2) → subir todo el banco a Flow como Ingredients.
-
-## 4. Ejemplos de prompt trabajados (plantilla de 7 campos, sección 10)
-
-Uno por escena representativa, para usar como molde del resto de planos de esa escena:
-
-**Escena 1 — plano de apertura:**
-```
-Subject: Miguel, Comandante Supremo — 2.25m, armadura dorada radiante con grietas antiguas, cabello blanco cenizo corto, ojos de llama azulada, alas radiantes plegadas, sin arma visible en la mano
-Action: camina despacio por arena vidriada negra, mano derecha sube instintivamente al pecho
-Scene: desierto de Serephis, cielo color moretón en curación, estrellas palpitando fuera de ritmo, calor visible deformando el aire
-Style: plano general, lente 35mm, cámara estática con leve deriva orgánica, tono cinematográfico oscuro
-Dialogue: (ninguno)
-Sounds: viento seco constante, crujido de vidrio bajo las botas, silencio opresivo de fondo
-Technical: no subtitles, no on-screen text, no watermark, no blurry faces
-```
-
-**Escena 2 — plano de Gabriel (reverse-shot):**
-```
-Subject: Gabriel, Arcángel de la Voz Divina — 1.95m, túnica fluida azul y plata sin armadura, cabello negro liso, ojos de zafiro puro
-Action: habla con preocupación contenida, una mano se alza hacia Miguel y vacila antes de bajar
-Scene: mismo desierto de Serephis, luz suave dorada floreciendo alrededor de Gabriel rompiendo la penumbra
-Style: primer plano, 50mm, cámara estática, foco en el rostro
-Dialogue: Gabriel dice: "El Concilio está preocupado, Miguel."
-Sounds: acorde de armonía suave al fondo, viento del desierto atenuado
-Technical: no subtitles, no on-screen text, no watermark
-```
-
-**Escena 4 — el fresno (plano largo, candidato a Frames-to-Video encadenado):**
-```
-Subject: el gran fresno — corteza de lava enfriada, raíces bebiendo de un estanque de luz estelar; incrustada en el tronco, Solmire: no metal, luz viva solidificada
-Action: push-in lento y constante hacia la espada, sin corte
-Scene: arboleda de metal pálido, luz uniforme sin sombras, quietud pesada y atenta
-Style: plano medio a primer plano, dolly-in lento continuo, 35mm
-Dialogue: (ninguno, narración en off por encima)
-Sounds: zumbido grave apenas audible, silencio de "biblioteca", ausencia total de brisa
-Technical: no subtitles, no on-screen text, no watermark
-```
-
-**Escena 5 — visión cósmica (plano corto, corte visible intencional):**
-```
-Subject: campo estelar caótico, supernovas apagándose como acero al rojo sumergido en oscuridad, un martillo del tamaño de una estrella
-Action: la gravedad se dobla como herramienta, no como ley; destellos rápidos de escala imposible
-Scene: espacio cósmico amoral, sin horizonte, sin referencia de escala humana
-Style: planos muy cortos (3-4s), cámara handheld errática, cortes duros intencionados
-Dialogue: (ninguno)
-Sounds: risa jubilosa e indiferente entrelazada con un tañido de yunque cósmico
-Technical: no subtitles, no on-screen text, no watermark, no text overlays
-```
-
-**Escena 7 — Lucifer:**
-```
-Subject: Lucifer — 2.20m, belleza celestial corrupta, cabello blanco plateado, ojos rojo vino, piel pálida impecable, alas negras como el vacío, sin armadura, ropa de corte elegante oscuro
-Action: deja un pequeño instrumento de relojería, ladea la cabeza escuchando, sonrisa lenta y genuina
-Scene: cámara privada tallada en sombra, ambición antigua, muy poca luz, velas o luz ambarina puntual
-Style: primer plano estático, casi sin movimiento de cámara, contraste deliberado con el resto del capítulo
-Dialogue: Lucifer dice: "Así que... una de las viejas canciones se está cantando de nuevo. Qué interesante."
-Sounds: silencio casi total, tictac apenas perceptible del instrumento
-Technical: no subtitles, no on-screen text, no watermark
-```
-
-## 5. Narración: configuración de voz
-
-- Modelo: ElevenLabs Multilingual v2/Studio (o v3 si se necesita IPA para nombres propios — sección 13).
-- Voz: elegir una de la colección "Epic Voices" o "Narrator Voices", probar con el párrafo de apertura real del capítulo antes de comprometerse.
-- Stability: modo "Robust" / alto (~70-80%), similarity ~75%, style en 0 al inicio.
-- Diccionario de pronunciación mínimo para este capítulo: `Miguel, Gabriel, Serephis, Solmire, Lucifer` (los demás nombres del universo no aparecen en B1C01, se puede ampliar capítulo a capítulo).
-- Generar por escena (8 llamadas, no una sola de 15 min) con la misma configuración exacta guardada como preset.
-
-## 6. Orden de producción recomendado (próximos pasos concretos)
-
-1. **Banco de imágenes**: generar hero + variantes de Miguel y Gabriel primero (son los que más planos necesitan). Lucifer puede esperar.
-2. **Piloto real**: producir solo la **Escena 2** completa (diálogo Miguel/Gabriel, ~3:20 min, ~20-26 planos) de principio a fin — narración, planos, montaje, color — como ya habíamos acordado antes de comprometer el capítulo entero. Sirve para calibrar tiempo real por plano y validar que el banco de imágenes funciona.
-3. Si el piloto de la Escena 2 sale bien, seguir con el resto de escenas en el orden de la tabla (1, 3, 4, 5, 6, 7, 8).
-4. Montaje final: unir las 8 escenas, pase de color (§5 del documento de investigación) y capa de música/ambiente por facción (§14.1).
+> Fecha: 2026-09-16 (revisión 2, reemplaza la versión anterior de este mismo archivo)
+> **Motivo de la reescritura**: la versión anterior de este plan se hizo sin saber que ya existe un pipeline de producción real (`character_library/`, `Libro1/audiolibro/`, `video_production/pipeline/`). Esta versión usa los activos reales del proyecto en vez de asumir que había que crearlos desde cero.
 
 ---
 
-¿Empezamos por el banco de imágenes de Miguel y Gabriel, o prefieres que primero te deje el guion de narración de la Escena 2 ya troceado en las líneas exactas que irían a ElevenLabs?
+## 0. Qué cambia respecto al plan anterior
+
+1. **El capítulo 1 real es más corto de lo que asumí antes.** El capítulo canónico actual (`Libro1/EN/01_A_Wound_in_the_World.md`, guion limpio en `Libro1/audiolibro/en/capitulo_01.txt`) **termina en el cliffhanger** "the grove vanished" — el descubrimiento de la espada, la visión cósmica y Lucifer están en el **Capítulo 2** ("The Tree Outside Time"), que es un vídeo aparte. No mezclar los dos en un solo plan.
+2. **La narración ya está escrita, limpia y lista para TTS** — no hace falta adaptarla. `Libro1/audiolibro/en/capitulo_01.txt` (2.005 palabras, ≈13-15 min a ritmo audiolibro) es el guion definitivo, con convenciones ya fijadas (líneas de escena, cursivas aplanadas, sin markdown).
+3. **Ya existe un piloto de audio real** (`capitulo_01_PILOTO.mp3` + `.srt`), aunque **desactualizado**: coincide con una versión anterior del texto (pre "pasada de estilo"), no con `capitulo_01.txt` actual. El `.srt` sirve como referencia de cómo se segmenta (frase a frase, con timestamps en ms), pero **hay que regenerar el audio contra el texto actual antes de fijar timings de plano**.
+4. **Las voces ya elegidas no son ElevenLabs**, como asumía mi investigación general — son voces neuronales de Azure/Edge TTS: `en-US-AndrewMultilingualNeural` (EN) y `es-ES-AlvaroNeural` (ES), ya probadas en piloto. Mantener esa elección salvo que se decida cambiar.
+5. **El banco de imágenes de personaje ya existe** para los 3 que aparecen en este capítulo — no hay que generarlo, solo usarlo:
+   - `character_library/angeles/Miguel/canonical/` (face + body reference)
+   - `character_library/angeles/Gabriel/canonical/` (face + body reference)
+   - `character_library/otros/Pewter Sentinel/canonical/` (face + body reference) — **esta es la entidad sin rostro de la arboleda**, rediseñada hoy mismo (2026-09-16) de estatua de metal sólido a espíritu de niebla/vapor plateado. En el pipeline interno (`blocks.py`) se la conocía como bloque `GUARDIAN`.
+6. **Estilo visual oficial: "3D-Animation"** (render 3D estilizado tipo cinemática de videojuego/Pixar-realista), **no** la ilustración pintada/anime que describen los `.txt` de `character_library/*/prompts/` — esos prompts están **desactualizados**, igual que el texto "Identidad inmutable" de los README (describen estados anteriores al rediseño de hoy). Confirmé el estilo actual viendo directamente las imágenes `canonical/face_reference.png` de Miguel, Gabriel y Pewter Sentinel.
+7. **Sigue faltando `design_notes/2026-09-16_flow_storyboard_studio_cap01.md`** — los tres README (Miguel, Gabriel, Pewter Sentinel) lo señalan como la autoridad final del prompt de generación usado hoy en Flow. No está pusheado. Todo lo que propongo aquí sobre prompts de plano es mi mejor reconstrucción a partir de las imágenes canónicas reales, **no una copia de ese documento** — en cuanto lo tengas, lo reviso contra esto.
+
+---
+
+## 1. Identidad visual confirmada (visto directamente en las imágenes canónicas)
+
+### Miguel (`character_library/angeles/Miguel/canonical/`)
+Hombre adulto, pelo corto gris-plateado peinado hacia atrás con volumen, ojos con brillo cian eléctrico concentrado en iris/pupila, rostro anguloso y serio. Armadura dorada ceñida con hombreras en forma de ala grabadas con plumas, capa interior azul medianoche, emblema de estrella de ocho puntas cian-blanca luminosa en el pecho. Dos alas blancas enormes con leve iridiscencia azulada. **Nota de continuidad de la escena**: en este capítulo el peto lleva "cracked gold... plate no armorer... ever managed to weld shut since Onyx Gates" — la armadura debe mostrarse con una grieta visible (contradice la versión "sin grietas" que describe el README viejo; confirmar en el prompt final que esta escena específica necesita la variante agrietada).
+
+### Gabriel (`character_library/angeles/Gabriel/canonical/`)
+Hombre adulto, pelo negro largo liso con raya al centro (cae hasta el pecho, más largo de lo que decía el README viejo), ojos azul zafiro naturales sin brillo sobrenatural, rostro sereno y fraterno. Túnica azul zafiro con bordado de plata en motivos de pluma, hombreras de plata pulida, alas blancas inmaculadas. Lleva `Vox Aeternum` (bastón de plata liso, ~1,9 m) — en esta escena concreta el texto dice que lleva además **un pergamino sellado con cera negra oculto contra las costillas**, que no muestra ni menciona — detalle visual a incluir en los planos donde se le vea de perfil/espalda.
+
+### Pewter Sentinel / GUARDIAN (`character_library/otros/Pewter Sentinel/canonical/`)
+Silueta humanoide alta y esbelta de niebla plateada y vapor color peltre, sin piernas definidas (se disuelve en humo), flota sobre el suelo. Rostro liso y casi sin rasgos, dos ojos tenues blanco frío brillando desde la bruma. Fragmentos metálicos en forma de hoja y cintas de peltre fusionados en hombros/pecho. Sin ropa convencional.
+
+**Localización — la Arboleda y Serephis**: no tiene ficha propia en `character_library`; usar la descripción del texto (árboles de metal pálido sin sombra, luz uniforme; desierto de vidrio negro, cielo enfermizo) de forma consistente en todos los planos exteriores.
+
+---
+
+## 2. Desglose real en escenas (capítulo 1 completo, `capitulo_01.txt`)
+
+| # | Escena | Contenido real | Técnica recomendada |
+|---|---|---|---|
+| 1 | **La marcha (apertura)** | 12 días cruzando Serephis, armadura agrietada desde Onyx Gates, el vacío en el pecho, "¿qué me fue arrebatado?" | Narrado / B-roll, plano general + primeros planos de detalle (mano al pecho, grieta en el peto) |
+| 2 | **La carretera enterrada** | Descubre piedra bajo la arena, teoría de que Serephis fue un reino que se autodestruyó como arma | Narrado / B-roll, planos de detalle de la piedra + plano general del "camino ancho para diez" |
+| 3 | **Llegada de Gabriel** | Acorde de armonía, Gabriel aparece, alivio físico de Miguel, vergüenza | Transición — luz suave entrando en el encuadre |
+| 4 | **El diálogo completo** | Preocupación del Concilio, el pergamino sellado no usado, "me creen un necio", flashback de Onyx Gates (3 noches, "no gritas pidiendo ayuda..."), "vuelve a casa" / "no puedo" | Shot/reverse-shot clásico — **candidata a dramatización con voces propias** (es la escena más larga y emocional del capítulo) |
+| 5 | **Despedida de Gabriel** | Luz que se atenúa, lágrima de luz, desaparece con el pergamino sin usar | Plano corto, Gabriel se disuelve en el "espacio entre mundos" |
+| 6 | **Marcha hacia la arboleda** | Transición sensorial (arena caliente → musgo frío), llegada a la arboleda de metal sin sombras | Narrado / B-roll atmosférico, cámara lenta constante |
+| 7 | **El Centinela (nueva escena, no estaba en mi plan anterior)** | La figura de niebla aparece a 40 pasos, Miguel dice "vengo por lo que es mío", el Centinela no responde, se gira para seguir mirándolo mientras pasa | Plano fijo/lento — el Centinela casi no se mueve, contraste deliberado con el resto |
+| 8 | **El fresno y Solmire (cierre del capítulo)** | El gran fresno, la espada de luz viva, Miguel duda, toca la empuñadura | **"Oner" con Frames-to-Video encadenado** — este capítulo termina en cliffhanger justo aquí ("the grove vanished"), sin resolver — no se ve la espada desenvainada todavía |
+
+**Duración estimada total: ~13:20-15:00 min** (2.005 palabras ÷ ~140-150 ppm), consistente con el piloto de audio antiguo (14:56 min para un texto de longitud similar).
+
+---
+
+## 3. Próximos pasos concretos (en orden)
+
+1. **Conseguir `design_notes/2026-09-16_flow_storyboard_studio_cap01.md`** — sigue siendo el bloqueo principal para tener prompts de plano 100% fieles en vez de mi reconstrucción visual. Si puedes pushearlo (o pegarlo aquí), reviso y ajusto todo lo de la sección 1.
+2. **Regenerar el audio piloto** contra el texto actual de `capitulo_01.txt` (el `.srt` existente usa una versión de texto ya superada por la pasada de estilo) — con eso se fija el timing real de los 8 bloques de la tabla.
+3. **Escena piloto**: producir primero la **Escena 4** (el diálogo completo Miguel/Gabriel) de principio a fin — es la más larga, la más emocional, y la que mejor valida que los assets canónicos de Miguel y Gabriel funcionan bien en Flow con el estilo "3D-Animation".
+4. Si se confirma que el bloque `GUARDIAN` de `blocks.py` ya tiene lógica de generación para el Pewter Sentinel, reutilizarla en vez de generar los planos de la Escena 7 a mano.
+5. Seguir con el resto de escenas en orden narrativo, montaje final con narración continua de fondo (nunca cortada) y planos visuales cortando en los límites de frase del `.srt` regenerado.
+
+---
+
+## 4. Lo que sigue igual de la investigación general
+
+Las técnicas transversales del documento `2026-09-15_veo3_video_cinematografico_investigacion.md` (encadenado de clips sin corte visible, J-cuts/L-cuts, prompt sandwich, cut-hide technique, retención/pacing) siguen aplicando igual — lo único que cambia aquí es que ahora se aplican sobre activos y guion **reales del proyecto**, no sobre una reconstrucción mía.
