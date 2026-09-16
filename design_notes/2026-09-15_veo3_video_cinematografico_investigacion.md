@@ -374,7 +374,34 @@ Fuentes: [Generate videos with Veo 3.1 in Gemini API — Google AI for Developer
 
 ---
 
-## 12. Resumen ejecutivo / próximos pasos recomendados
+## 12. Casos de estudio: canales narrados largos de mitología/épica y tácticas de retención
+
+### 12.1 Ejemplos directamente análogos a este proyecto
+
+- **"AI Bible"**: canal con visuales 100% generados por IA sobre contenido bíblico; un vídeo sobre el Libro del Apocalipsis de **8 minutos** acumuló **+750.000 visualizaciones en 2 meses**. Es la prueba más directa de que el género "narración épica/religiosa con IA" tiene audiencia real.
+- **"Legends Reimagined"**: canal que recorre distintas mitologías (dioses griegos, guerreros nórdicos, deidades egipcias, folclore celta) con narración autoritativa y visuales de IA — el formato de **comparación entre panteones** es consistentemente uno de los más vistos del nicho. Estructuralmente es el mismo ejercicio que adaptar tu universo de ángeles/demonios: cosmología + facciones + figuras de poder narradas.
+- Herramientas del nicho como **FluxNote (estilo "Cinematic Epic")** están literalmente diseñadas para "dioses griegos, gigantes nórdicos y deidades egipcias" con narración autoritativa en <12 min/vídeo — confirma que el mercado ya trata este género como caso de uso propio, no genérico.
+
+### 12.2 Por qué la fantasía épica/mitológica retiene bien en formato largo
+
+- Las narrativas de fantasía son **inherentemente multi-episodio** con estructura de arco — encaja de forma natural con tu novela ya dividida en capítulos/libros. Reutilizar personajes y estilo visual entre episodios genera lealtad de audiencia y **más señales de suscripción** que favorecen al algoritmo — es decir, la ficha de personaje consistente (§9.5) no es solo una necesidad técnica, es una ventaja de retención.
+- El rango de **10–30 minutos** es el punto dulce práctico para contenido narrativo: suficientemente largo para un arco real, sin agotar la paciencia de la audiencia — coincide casi exactamente con el target de 15-20 min que ya tienen tus capítulos.
+
+### 12.3 Tácticas de ritmo y edición aplicables al vídeo narrado (sección 9)
+
+- **Los primeros 15–30 segundos deciden si el vídeo se ve o se abandona.** Para un capítulo narrado, esto significa: no empezar con descripción atmosférica lenta — abrir con la imagen/frase de mayor gancho del capítulo (aunque cronológicamente no sea la primera línea de la prosa) y dejar el resto de la apertura para después.
+- **"Re-enganchar" cada 30–60 segundos**: alternar tipos de plano, introducir una pregunta narrativa abierta, o un giro visual — en la práctica, para tu narrado esto ya lo cubre en buena medida el propio ritmo de "un plano nuevo cada 5-8s" de la sección 9.2, pero conviene revisar que cada 30-60s haya algo que cambie (no una serie larga de planos parecidos del mismo tipo de escena).
+- **Ritmo de guion**: una idea clara y completa cada 60-90 segundos de narración — útil como criterio objetivo al adaptar la prosa a guion de narración (§9.2 paso 1): si un párrafo tarda más de 90s en decir algo nuevo, es candidato a recortar.
+- **Picos de retención cada 2-3 minutos** y colocar el momento más impactante del capítulo hacia el **70% del runtime** (para un capítulo de 18 min, eso cae sobre el minuto ~12-13) — con la estructura Save-the-Cat que ya usa el proyecto (`beat-planner`), esto suele coincidir de forma natural con el beat de "Midpoint" o el arranque del "Dark Night of the Soul".
+- **Segunda mayor caída de audiencia en el punto 50%** del vídeo — vale la pena revisar en la edición que la mitad del capítulo no sea el tramo más lento/descriptivo.
+- **Marcadores de capítulo de YouTube** con títulos curiosity-generating (no descriptivos planos) mejoran la duración media de visualización — aplicable directamente troceando cada capítulo narrado en sus escenas/beats ya definidos, con títulos como "La espada que no fue forjada" en vez de "Escena 3".
+- **Eliminar automáticamente los silencios de más de 0.5s** de la narración TTS reduce la duración un 5-10% y mejora el ritmo percibido — un paso de post-producción barato que conviene añadir siempre al pipeline de la sección 9.2 antes de generar los planos (para no generar vídeo de más).
+
+Fuentes: [Ultimate Guide to Long-Form Video Storytelling (LongStories.ai)](https://longstories.ai/blog/long-form-video-storytelling-guide), [Audience Retention Tips for Long-Form Videos](https://longstories.ai/blog/audience-retention-tips-long-form-videos), [How to Make AI Fantasy Drama Videos in 2026 (StoryShort)](https://storyshort.ai/blog/how-to-make-ai-fantasy-drama-videos-2026), [AI Workflow for Mythology YouTube Channels 2026 (FluxNote)](https://fluxnote.io/guides/ai-workflow-mythology-channel), [Faceless YouTube Retention Strategies 2026 (FluxNote)](https://fluxnote.io/guides/faceless-channel-retention-strategies-2026), [Faceless YouTube Viral Hooks 2026 (FluxNote)](https://fluxnote.io/guides/faceless-channel-viral-hooks-guide), [Fantasy or faith? AI-generated Bible content stirs controversy (NPR)](https://www.npr.org/2025/09/07/nx-s1-5518263/ai-bible-christianity-content).
+
+---
+
+## 13. Resumen ejecutivo / próximos pasos recomendados
 
 1. **El formato objetivo es narrado (sección 9), no dramatizado** — esto simplifica el problema de "cortes en escenas largas" porque el audio maestro es la voz en off continua, no diálogo con lip-sync. Empezar por ahí antes de invertir en las técnicas más complejas de las secciones 2–3.
 2. **Pilotar con un solo párrafo/escena corta** (el primer párrafo de B1C01, ejemplo en 9.4) antes de intentar un capítulo entero: valida narración → segmentación → generación de planos → montaje en un ciclo pequeño.
