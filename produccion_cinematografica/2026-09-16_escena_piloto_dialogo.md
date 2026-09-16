@@ -87,7 +87,7 @@ Technical: no subtitles, no on-screen text, no watermark.
 
 **Plano 10 (flashback, Onyx Gates — textura distinta a propósito):**
 ```
-Use the attached canonical face and body references for GABRIEL and MIGUEL as absolute identity authorities, applying MIGUEL's burned-left-wing state (see character_library/angeles/Miguel/states/burned_left_wing/).
+Use the attached canonical face and body references for GABRIEL and MIGUEL as absolute identity authorities, applying MIGUEL's active-battle-damage variant for this shot (NOT the cold/healed `states/burned_left_wing/` — that one is explicitly scarred-and-old; this flashback needs fresh fire/embers/smoke, see `../variantes_por_personaje/Miguel.md` for the exact edit prompt, pendiente de generar).
 
 Action: a fortress collapsing into an abyss, orange firelight, Gabriel kneeling beside a fallen Miguel, cauterizing a broken wing with his own light, three nights compressed into one continuous gesture.
 
@@ -104,7 +104,9 @@ Technical: no subtitles, no on-screen text, no watermark.
 
 ## 5. Nota de continuidad importante
 
-El plano 4/7 requiere la **variante de armadura agrietada** de Miguel (grieta desde Onyx Gates, explícita en el texto: *"the cracked gold of his armor, plate no armorer in the Host had ever managed to weld shut since the Onyx Gates campaign"*). El README actual de Miguel describe la forma base **sin** grieta ("La forma base no lleva bandolera, no tiene una grieta en el peto"). Esto no es una contradicción — es el estado narrativo correcto para *este* capítulo específicamente, pero hay que generarlo como variante explícita, no como la imagen `canonical/body_reference.png` a secas. Confirmar si ya existe esta variante en `video_production/images_personajes/angeles/miguel/` antes de generar una nueva.
+El plano 4/7 requiere la **variante de armadura agrietada** de Miguel (grieta desde Onyx Gates, explícita en el texto: *"the cracked gold of his armor, plate no armorer in the Host had ever managed to weld shut since the Onyx Gates campaign"*). El README actual de Miguel describe la forma base **sin** grieta ("La forma base no lleva bandolera, no tiene una grieta en el peto"). Esto no es una contradicción — es el estado narrativo correcto para *este* capítulo específicamente, pero hay que generarlo como variante explícita, no como la imagen `canonical/body_reference.png` a secas.
+
+**Ver `../variantes_por_personaje/Miguel.md`** para el registro completo de todas las variantes de Miguel necesarias en este capítulo (armadura agrietada + la variante distinta de herida activa del flashback del plano 10) y su estado de generación — esa es ahora la fuente de verdad de estos prompts, no este documento.
 
 ## 6. Siguiente paso
 
