@@ -109,3 +109,15 @@ El plano 4/7 requiere la **variante de armadura agrietada** de Miguel (grieta de
 ## 6. Siguiente paso
 
 Con este storyboard ya se puede generar el primer lote de imágenes fijas (planos 1-18) en Flow usando los canonical de Miguel y Gabriel, y después animarlas con Frames-to-Video. En cuanto tengas 2-3 planos generados, los reviso contra este documento antes de seguir con el resto.
+
+## 7. Cómo generarlo en Flow, paso a paso
+
+1. **Entra en `labs.google/flow`** con la cuenta Google que tenga la suscripción (Pro/Ultra) o usa la cuota gratuita de 50 puntos/día si solo quieres probar el plano 5 primero.
+2. **Crea un proyecto nuevo** para este capítulo (ej. "Cap01 — Escena diálogo").
+3. **Sube los Ingredients de los dos personajes** — panel de "Ingredients" (o icono `+`): sube `character_library/angeles/Miguel/canonical/face_reference.png` y `body_reference.png` como un Ingredient llamado `Miguel_canonical`; haz lo mismo con Gabriel → `Gabriel_canonical`. Esto te deja referenciarlos luego escribiendo `@Miguel_canonical` / `@Gabriel_canonical` en cualquier prompt del proyecto.
+4. **Resuelve primero el problema de la armadura agrietada (plano 4/7)**: antes de generar vídeo, sube `body_reference.png` de Miguel a la edición de imagen conversacional de Flow (Nano Banana) y pide: *"the same Miguel, but with a visible crack across the gold breastplate near the sternum emblem, from the Onyx Gates campaign — everything else identical."* Cuando la imagen resultante te convenza, guárdala como Ingredient nuevo `Miguel_cracked_armor` y úsala en los planos que lo necesiten (4, 7, y cualquier otro de Miguel en este capítulo, ya que la grieta es su estado durante todo el capítulo 1).
+5. **Selecciona calidad "Quality" (Veo 3 completo)**, no "Fast" — estos planos llevan diálogo con audio y lip-sync, que Fast no genera bien.
+6. **Genera plano a plano**, en orden (1→18): para cada uno, pega el prompt correspondiente de la sección 4 de este documento (o escribe el resto siguiendo el mismo patrón), referenciando `@Miguel_canonical`/`@Miguel_cracked_armor`/`@Gabriel_canonical` según toque. Como son cortes distintos (cambios de plano, no una toma continua), genera cada uno como clip nuevo desde el Ingredient — **no** hace falta Frames-to-Video encadenado aquí, eso es solo para cuando quieras alargar un mismo plano más allá de 8s sin corte.
+7. **Revisa cada clip contra la ficha** antes de pasar al siguiente: ¿la cara/pelo/armadura coinciden con el canonical? ¿la voz suena "grave y serena" (Miguel) / "dulce y cálida" (Gabriel) como pide `personajes.md`? Si algo deriva, regenera ese plano repitiendo el Ingredient, no sigas adelante con un plano que no cuadra.
+8. **Descarga cada clip** y nómbralo `cap01_esc_dialogo_plano01.mp4`, `...plano02.mp4`, etc., siguiendo la numeración de la tabla — así al montar en DaVinci/Premiere el orden es evidente.
+9. Cuando tengas los 18 descargados, pásamelos (o dime que están listos) y reviso el conjunto antes de pasar a generar el audio de las voces de Miguel/Gabriel y montar la escena completa.
