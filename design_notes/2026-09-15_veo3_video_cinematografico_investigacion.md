@@ -432,7 +432,33 @@ Fuentes: [Voces épicas de IA — ElevenLabs Voice Library](https://elevenlabs.i
 
 ---
 
-## 14. Resumen ejecutivo / próximos pasos recomendados
+## 14. Música/SFX de librería y aspectos legales de monetización con IA
+
+### 14.1 Librerías de música/SFX royalty-free para tono épico angelical/infernal
+
+- **Envato Elements** — pack "Dark Fantasy Ambient Choir" (a capella + ambient), útil directamente para las escenas infernales/de tensión.
+- **MelodyLoops** — más de 500 pistas de coro (cinematográfico, religioso, fantástico) y ~2.600 melodías de fantasía, todas con licencia de uso comercial, descarga MP3/WAV.
+- **Fesliyan Studios** — loops de ambiente de fantasía, tensión y "dark ambient", pensados originalmente para videojuegos pero directamente aplicables como cama de ambiente continuo (§9.2 paso 6).
+- **itch.io (packs de assets de juego)** — bundles que combinan 250+ SFX y 15+ pistas loopeables de fantasía/dark ambient a precios bajos, pensados para RPG de mesa/videojuego pero reutilizables aquí.
+
+**Recomendación práctica**: dado que el proyecto ya divide visualmente Cielo/Infierno por paleta de color (§9, look de color por facción), tiene sentido fijar también **dos bancos de sonido separados** (uno de coro/cuerdas luminoso para escenas celestiales, otro de dark ambient/percusión para infernales) como parte del mismo documento de "look and sound" del proyecto.
+
+### 14.2 Aspectos legales — ⚠️ verificar antes de monetizar
+
+Esto es información de fuentes secundarias (blogs especializados), **no los términos oficiales de Google leídos directamente** — dado que esto afecta a una decisión de monetización real, antes de publicar conviene confirmarlo en `policies.google.com` y en los términos específicos de Flow/Veo3 vigentes en el momento de publicar (cambian con frecuencia mientras Veo3 siga en fase "preview"). Con esa salvedad, lo que encontré:
+
+- **Uso comercial de Veo 3 vía Flow — posible restricción**: varias fuentes coinciden en que los "Pre-GA Offerings Terms" de Google restringirían el uso comercial de funciones en fase preview como Veo3, incluso pagando la suscripción de Flow, salvo que se acceda **vía Vertex AI o Gemini Enterprise** (donde sí se permite explícitamente uso comercial, incluyendo publicidad y campañas). Es decir: **pagar Google AI Pro/Ultra no garantizaría automáticamente el derecho a monetizar el vídeo resultante en YouTube** — esto es justo el tipo de cosa que hay que confirmar directamente antes de publicar nada con fines comerciales.
+- **Copyright del vídeo generado**: en la mayoría de jurisdicciones, un vídeo generado por IA **no calificaría por sí mismo para protección de copyright** bajo la legislación actual (a diferencia del texto original de la novela, que sí es tuyo y está protegido independientemente del vídeo). Esto no impide publicar o monetizar, pero sí implica que terceros podrían reutilizar el vídeo en sí sin poder impedirlo tan fácilmente como con la prosa original.
+- **Divulgación obligatoria en YouTube ("Altered or synthetic content")**: desde la actualización de política de YouTube, es obligatorio marcar la casilla de "contenido alterado o sintético" en YouTube Studio para vídeo generado por IA que pueda confundirse con algo real — aplicable aquí. **Importante**: declarar esto **no reduce elegibilidad de monetización ni alcance del algoritmo** — YouTube lo aclara explícitamente. Desde mayo de 2026 además hay detección automática, así que no declarar cuando corresponde es arriesgado (penalización o suspensión del Partner Program), no solo una formalidad.
+- **Regla de "originalidad significativa" para monetizar**: el contenido debe aportar valor humano real (narrativa, guion, visión creativa) para mantenerse monetizable — adaptar una novela original propia con guion narrativo trabajado (no un simple prompt genérico) encaja bien en ese criterio, a diferencia de vídeo IA genérico sin aporte creativo.
+
+**Checklist antes de publicar/monetizar** (a revisar en su momento, no ahora): 1) confirmar los términos comerciales vigentes de Flow/Veo3 directamente en la fuente oficial; 2) marcar la casilla de contenido sintético en cada subida; 3) usar solo música/SFX con licencia comercial clara (§14.1); 4) mantener claro en la descripción del vídeo que la historia/guion es una obra original tuya (refuerza el criterio de originalidad y dejaría constancia de autoría del contenido narrativo, aunque el vídeo en sí no sea copyrightable).
+
+Fuentes: [Dark Fantasy Ambient Choir — Envato Elements](https://elements.envato.com/dark-fantasy-ambient-choir-4TCABW7), [MelodyLoops — Choir](https://www.melodyloops.com/instruments/choir/), [Fesliyan Studios — Fantasy Music](https://www.fesliyanstudios.com/royalty-free-music/downloads-c/fantasy-music/27), [YouTube Altered or Synthetic Content Disclosure Policy 2026](https://minimatters.com/youtube-altered-or-synthetic-content-disclosure/), [YouTube's AI Content Monetization Policy 2026](https://monetizednow.com/youtube-ai-content-monetization-policy), [Can I Use Veo 3.1 for Commercial Use? 2026 Guide (GlobalGPT)](https://www.glbgpt.com/hub/can-i-use-veo-3-1-for-commercial-use/), [Veo 3 Commercial Use Guide 2026 (veo3ai.io)](https://www.veo3ai.io/blog/veo-3-commercial-use-guide-2026), [From Prompt to Video: The IP Puzzle Behind Google's Veo 3 (CIPIT)](https://cipit.strathmore.edu/from-prompt-to-video-the-ip-puzzle-behind-googles-veo-3/).
+
+---
+
+## 15. Resumen ejecutivo / próximos pasos recomendados
 
 1. **El formato objetivo es narrado (sección 9), no dramatizado** — esto simplifica el problema de "cortes en escenas largas" porque el audio maestro es la voz en off continua, no diálogo con lip-sync. Empezar por ahí antes de invertir en las técnicas más complejas de las secciones 2–3.
 2. **Pilotar con un solo párrafo/escena corta** (el primer párrafo de B1C01, ejemplo en 9.4) antes de intentar un capítulo entero: valida narración → segmentación → generación de planos → montaje en un ciclo pequeño.
