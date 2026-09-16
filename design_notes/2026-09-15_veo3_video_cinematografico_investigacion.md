@@ -20,6 +20,31 @@
 
 Si me compartes capturas de pantalla o transcripciones de los otros dos, los integro en una revisión de este documento.
 
+### 0.1 Catálogo adicional de vídeos de referencia (aportados por el usuario, 16 sept.)
+
+El usuario compartió esta lista de títulos/canales para orientar la investigación. No pude abrir ninguno directamente (bloqueo de red), pero los localicé e investigué su contenido por título:
+
+| Vídeo | Canal | Qué aporta |
+|---|---|---|
+| *How to Create Long AI Animation Videos with Consistent Characters \| VEO 3.1 + Google Flow* | King Charles Tv (183K) | El mismo vídeo de folclore africano ya documentado en §0 (`i_KlptBTdck`) y §9.5. |
+| *How to Finally Make Long Videos with VEO 3.1 (Create Consistent Videos of Any Length)* | AI PIPELINE (73K) | El mismo vídeo ya documentado (`c772SYf6k-4`), técnica Frames-to-Video + repetición de prompt (§2). |
+| *Tutorial Google Veo 3.1 en Flow: la IA para hacer videos que REVOLUCIONA TODO* | Alan Daitch (32K) | Tutorial general en español de Flow (oct. 2025); confirma las funciones ya cubiertas (audio más rico, control narrativo, Img-to-Video mejorado) sin técnica adicional relevante. |
+| *GOOGLE VEO 3: GUÍA DEFINITIVA Desde Cero para Videos VIRALES y Prompts* | Arca Artificial by Lordwind Enrique (289K) | Creador venezolano especializado en IA visual (colabora con Magnific/Freepik, Higgsfield, Kling Elite Creator). Aporta una **variante de estructura de prompt en 8 campos**: *sujeto, acción, entorno, estilo visual, perspectiva de cámara, iluminación, sonido, diálogo* — prácticamente idéntica a la de §10, confirmando el consenso entre creadores independientemente del idioma. |
+| *DESDE CERO GOOGLE FLOW 2026 Tutorial Gratis — Parte 1* | AyA Academy IA (19K) | Tutorial en español para principiantes; confirma el dato práctico de que **cualquier cuenta de Google recibe 50 puntos gratis al día en Flow** (no acumulables) para probar sin suscripción — útil para pilotar antes de pagar Pro/Ultra (ver §1 y §8). |
+| *This Is How To Use Google Veo 3 Like A PRO: JSON Prompt* | Sebastien Jefferies (309K) | Refuerza el enfoque JSON ya documentado en §4/§10; sin hallazgos adicionales verificables más allá de lo ya cubierto. |
+| *How to Use Veo 3 to Build Short Films — Prompting Like a Pro* | EchoLab AI (83K) | Aporta la técnica del **"prompt sandwich"** y confirma de forma independiente la técnica de imagen-primero-luego-animar (§9.5) — ver detalle abajo. |
+| *Easily Create Long Videos with Consistent Characters using VEO 3* | King Charles Tv | Ya documentado en la búsqueda en español de la sección 5 (técnica de personaje en croma/green-screen). |
+
+**Técnica nueva — "prompt sandwich" (EchoLab AI) para cortometrajes con Veo3:**
+1. **Capa 1 — ingrediente principal**: el sujeto/personaje (igual que el "Subject" de las plantillas anteriores).
+2. **Capa 2 — acción central**: qué está pasando, una sola acción por clip.
+3. **Capa 3 — detalles técnicos**: ángulo de cámara, iluminación, movimiento.
+4. **Capa 4 — estilo**: mood, paleta de colores, género/tono.
+
+Además, confirma dos reglas prácticas que conviene subrayar para tu proyecto: **no metas una historia entera en un solo clip** (un clip = una acción, ya lo decíamos en §2.1, pero aquí se enfatiza como la causa #1 de resultados "caóticos"), y usa **imagen-a-vídeo (primer fotograma)** como método por defecto en vez de texto-a-vídeo puro — coincide de forma independiente con el refinamiento de §9.5. Lista de negativos recurrente en cortometrajes: `blur, shaky camera, distorted hands`.
+
+Fuentes: [Arca Artificial — VEO 3 Guía desde 0](https://arcaartificial.com/veo-3-guia-desde-0-videos-virales/), [Google Flow gratis: 50 puntos diarios (iageducacion.org)](https://iageducacion.org/google-flow-gratis-50-puntos-diarios/), [How to Use Veo 3 to Build Short Films — EchoLab AI (YouTube)](https://www.youtube.com/watch?v=0ZZnRSWIleg), [How to Write Veo 3 Prompts: Complete Tutorial (veotutorials.substack.com)](https://veotutorials.substack.com/p/how-to-write-veo-3-prompts-complete).
+
 ---
 
 ## 1. Fundamentos técnicos de Veo 3 / 3.1 (qué es posible hoy)
