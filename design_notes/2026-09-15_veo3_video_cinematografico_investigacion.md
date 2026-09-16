@@ -401,7 +401,38 @@ Fuentes: [Ultimate Guide to Long-Form Video Storytelling (LongStories.ai)](https
 
 ---
 
-## 13. Resumen ejecutivo / próximos pasos recomendados
+## 13. Voces de narrador en español y pronunciación de nombres propios (ElevenLabs)
+
+### 13.1 Qué voz elegir
+
+ElevenLabs organiza su biblioteca en colecciones temáticas directamente relevantes para este proyecto: **"Epic Voices"** (tonos imponentes, narradores atemporales, villanos seductores — pensada para tráilers, audiolibros y videojuegos), **"Deep Voices"** (autoridad y resonancia para escenas dramáticas/épicas), y **"Narrator Voices"** (desde cálido/acogedor hasta profundo/aterciopelado para audiolibros y documentales). Para un narrador en tono épico de *Chronicles of the Sundering Judgment*, lo más eficiente es probar 2-3 candidatas de **"Epic Voices"** y **"Narrator Voices"** con un fragmento real del capítulo (ej. el párrafo de ejemplo de la sección 9.4) antes de comprometerse a una.
+
+**Modelo**: usar **Eleven v3** (soporte nativo de IPA, mejor cobertura multilingüe) o **Multilingual v2/Studio** si se prioriza estabilidad sobre expresividad — ver abajo.
+
+### 13.2 Configuración recomendada para narración larga (evitar saltos de tono entre segmentos)
+
+Esto es directamente relevante al problema de continuidad de audio de la sección 3: si generas la narración por trozos (§9.2 paso 2), la configuración de voz debe mantenerse **idéntica** en cada llamada para que la unión entre trozos no se note.
+
+- **Stability**: para contenido de más de 1 minuto, priorizar estabilidad alta — en v3, el modo **"Robust"** (consistente, similar a v2, menos expresivo pero sin sobresaltos tonales) es el más seguro para narración larga; el modo "Creative" es más expresivo pero propenso a "alucinaciones" de entonación, arriesgado en una narración de 15-20 min.
+- **Similarity**: ~75% como punto de partida estándar.
+- **Style**: dejar en 0 al principio — solo subirlo si el resultado suena "sin vida", y ajustarlo **después** de fijar stability/similarity, no antes.
+- Regla general: **stability al 100% no es "mejor", vuelve la voz monótona** — el objetivo es estabilidad suficiente para narración larga sin perder toda la expresividad.
+- **Importante para el pipeline de §9.2**: guardar la configuración exacta (voz + stability + similarity + style + modelo) como un preset fijo del proyecto y reutilizarlo en todos los capítulos — es el equivalente en audio del "Character DNA" de la sección 2.1.
+
+### 13.3 Diccionario de pronunciación para los nombres propios del universo
+
+ElevenLabs soporta dos métodos para forzar la pronunciación correcta de nombres inventados (crítico dado que tu lore tiene nombres como *Ereloth, Azael, Thaeriel, Solmire, Serephis, Camael*, etc.):
+
+1. **Reglas de alias** (más simple): sustituir el nombre por una palabra que el modelo ya pronuncia bien antes de procesar el texto — ej. mapear "Ereloth" → una ortografía fonética tipo "Ere-loz" si el modelo lo lee mal por defecto. Rápido de configurar, no requiere conocer IPA.
+2. **Reglas fonéticas IPA** (más preciso): Eleven v3 soporta IPA nativo envuelto en formato PLS XML — no deja margen de interpretación al modelo. Incluye marcadores de acento tónico (ˈ para acento primario, ˌ para secundario) en nombres de varias sílabas.
+
+**Paso práctico recomendado**: pedirme (a Claude) que genere la transcripción IPA aproximada de la lista completa de nombres propios de `content/lore/personajes.md` (Ereloth, Azael, Thaeriel, Miguel/Mikel Ardon, Gabriel/Gabren Elion, Camael/Cam Loren, Solmire, Vox Aeternum, Ramiel, Serephis, etc.) como un primer diccionario de pronunciación reutilizable en todos los capítulos — evita que cada capítulo nuevo "reinvente" cómo suena un nombre ya establecido en uno anterior, que sería un fallo de continuidad auditiva equivalente a los que ya audita el proyecto en texto (`design_notes/*_continuity_audit_*`).
+
+Fuentes: [Voces épicas de IA — ElevenLabs Voice Library](https://elevenlabs.io/es/voice-library/epic-voices), [Voces IA Avanzadas (profundas) — ElevenLabs](https://elevenlabs.io/es/voice-library/deep-voices), [Voces IA de Narrador — ElevenLabs](https://elevenlabs.io/es/voice-library/narrator-voices), [Pronunciation dictionaries — ElevenLabs Docs](https://elevenlabs.io/docs/eleven-agents/customization/voice/pronunciation-dictionary), [Using pronunciation dictionaries — ElevenLabs Docs](https://elevenlabs.io/docs/eleven-api/guides/how-to/text-to-speech/pronunciation-dictionaries), [How can I force a certain pronunciation — ElevenLabs Help](https://help.elevenlabs.io/hc/en-us/articles/16712320194577-How-can-I-force-a-certain-pronunciation-of-a-word-or-name), [ElevenLabs Pronunciation Dictionary Guide 2026](https://elevenlabsmagazine.com/elevenlabs-pronunciation-dictionary-guide-2026/), [Best practices — ElevenLabs Docs](https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices).
+
+---
+
+## 14. Resumen ejecutivo / próximos pasos recomendados
 
 1. **El formato objetivo es narrado (sección 9), no dramatizado** — esto simplifica el problema de "cortes en escenas largas" porque el audio maestro es la voz en off continua, no diálogo con lip-sync. Empezar por ahí antes de invertir en las técnicas más complejas de las secciones 2–3.
 2. **Pilotar con un solo párrafo/escena corta** (el primer párrafo de B1C01, ejemplo en 9.4) antes de intentar un capítulo entero: valida narración → segmentación → generación de planos → montaje en un ciclo pequeño.
