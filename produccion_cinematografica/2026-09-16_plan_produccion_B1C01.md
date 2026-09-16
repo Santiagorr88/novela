@@ -64,4 +64,4 @@ Silueta humanoide alta y esbelta de niebla plateada y vapor color peltre, sin pi
 
 ## 4. Lo que sigue igual de la investigación general
 
-Las técnicas transversales del documento `2026-09-15_veo3_video_cinematografico_investigacion.md` (encadenado de clips sin corte visible, J-cuts/L-cuts, prompt sandwich, cut-hide technique, retención/pacing) siguen aplicando igual — lo único que cambia aquí es que ahora se aplican sobre activos y guion **reales del proyecto**, no sobre una reconstrucción mía.
+Las técnicas transversales del documento `produccion_cinematografica/2026-09-15_veo3_investigacion.md` (encadenado de clips sin corte visible, J-cuts/L-cuts, prompt sandwich, cut-hide technique, retención/pacing) siguen aplicando igual — lo único que cambia aquí es que ahora se aplican sobre activos y guion **reales del proyecto**, no sobre una reconstrucción mía.
