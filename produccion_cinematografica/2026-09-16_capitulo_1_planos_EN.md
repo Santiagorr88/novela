@@ -10,17 +10,17 @@
 ## SCENE 01 — Ext. Serephis - Day
 
 **Shot 01.01 (#1) — "The Scorched Kingdom"**
-- Visual: An extreme wide shot of the desert of Serephis under a bruise-colored, overcast sky. The landscape is a jagged expanse of shattered black glass and grey ash, reaching toward a distorted, shimmering horizon. The scale of the wasteland is immense, dwarfng any sense of life or hope.
+- Visual: An extreme wide shot of the desert of Serephis under a bruise-colored, overcast sky. The landscape is a jagged expanse of shattered black glass and grey ash, reaching toward a distorted, shimmering horizon. No character is visible yet — the scale of the wasteland is immense, dwarfing any sense of life or hope.
 - Camera: The camera slowly pans across the horizon, emphasizing the vast and desolate scale of the environment.
 - Sound/Dialogue: A low, mournful wind whistles through the jagged glass shards. The air hums with a faint, oppressive heat distortion sound.
 
 **Shot 01.02 (#2) — "The Golden Speck"**
-- Visual: From a high angle, a small speck of gold is visible moving slowly across the obsidian waste of the Black Glass Flats. The bright color of the figure contrasts sharply with the dark, monochromatic landscape surrounding it. The figure appears tiny and vulnerable against the backdrop of the dead kingdom.
+- Visual: From a high angle, MIGUEL — the golden-armored archangel — is visible as a small speck moving slowly across the obsidian waste of the Black Glass Flats. The bright gold of his armor contrasts sharply with the dark, monochromatic landscape surrounding him. He appears tiny and vulnerable against the backdrop of the dead kingdom.
 - Camera: A slow zoom-in begins, gradually bringing the distant golden figure into clearer focus.
 - Sound/Dialogue: The sound of metal crunching softly against glass and ash begins to rise above the wind. Each footstep echoes with a lonely, rhythmic cadence.
 
 **Shot 01.03 (#3) — "Journey Through Ash"**
-- Visual: The camera captures the golden figure from a mid-distance as they navigate through the Ash Dunes. Heat waves waver in the foreground, blurring the edges of the shattered glass. The oppressive sky hangs low over the figure's path as they trudge forward.
+- Visual: The camera captures MIGUEL, the golden-armored archangel, from a mid-distance as he navigates through the Ash Dunes. Heat waves waver in the foreground, blurring the edges of the shattered glass. The oppressive sky hangs low over his path as he trudges forward.
 - Camera: The camera tracks horizontally alongside the figure, maintaining their steady, solitary pace across the wasteland.
 - Sound/Dialogue: The crunch of Sabatons on the grey ash becomes the primary sound, mixed with the rustle of the wind shifting fine dust. The ambient atmosphere feels heavy and airless.
 
