@@ -1,8 +1,9 @@
-# CHRONICLES OF THE SUNDERING JUDGMENT — UNIVERSE & LORE (UNIFIED HOUSE STYLE)
+# CHRONICLES OF JUDGMENT — UNIVERSE & LORE (UNIFIED HOUSE STYLE)
 
-Universe Title: Chronicles of the Sundering Judgment
+Series Title (official, both languages): *Chronicles of Judgment* / *Las Crónicas del Juicio* — decided 2026-08-21, applied to both published covers (`Libro1/Libro1_EN.pdf`, `Libro1_ES.pdf`). The earlier working name "Chronicles of the Sundering Judgment" is retired as the outer/marketing title — do not use it on covers, back matter, or synopses.
+> **Internal terminology is unaffected**: "The Sundering Judgment" remains the in-story name of the trilogy's climactic event (the compiled Book III's Chapter 40, source file `B3C35`/`Libro3/EN/40_The_Sundering_Judgment.md`, Spanish "El Juicio del Cisma"). Never rename that chapter or the event itself — only the saga's outer title changed.
 Genre: Theological high-fantasy • Metaphysical epic • Apocalyptic mystery
-Narrative Scope: Epic trilogy (Book I: B1C01–B1C28 • Book II: B2C01–B2C40 • Book III: B3C01–… Finale)
+Narrative Scope: Epic trilogy — 159 chapter-units across three books. Internal authoring/continuity codes reset per book (B1C01…, B2C01…, B3C01…) and are what this document and the lore trackers reference throughout. The *published* reading order is a separate, derived layer: `Libro1/EN` (54 chapters), `Libro2/EN` (53), `Libro3/EN` (52) — sequentially renumbered "Chapter N" files built from these same source chapters via each book's `_manifest.json`, interleaving the internal core chapters with their lettered/`pt#` interludes in true reading order.
 
 # GLOBAL GENERATION DIRECTIVE — SINGLE HOUSE STYLE ACROSS THE TRILOGY
 - Maintain ONE consistent narrative voice in all three books.
@@ -24,7 +25,7 @@ Narrative Scope: Epic trilogy (Book I: B1C01–B1C28 • Book II: B2C01–B2C40 
 
 # CANON & CONTINUITY RULES
 - Respect deaths, reincarnations, and metaphysical laws already established.
-- Chapters must flow into the status of B1C28 (Heaven’s retreat; Solmire lost; Belial with Lament; Miguel reincarnated).
+- Chapters must flow into the status of B1C28 (Heaven’s retreat; Solmire lost; Belial with Lamentum; Miguel reincarnated).
 - Numbering resets per book (B2C01…, B3C01…).
 - No explicit spoilers ahead of schedule.
 
@@ -63,16 +64,16 @@ DIALOGUE & SUBTEXT
 
 
 ## 📚 META NARRATIVE – CORE TRILOGY ARC  
-**Series Title:** *Chronicles of the Sundering Judgment*
+**Series Title:** *Chronicles of Judgment* / *Las Crónicas del Juicio* (see official title note at top of file)
 
-> The trilogy explores the collapse of a cosmic order built on judgment, reincarnation, and obedience. When three ancient beings—**The Forgotten**—resurface, their ancestral weapons (*Solmire*, *Lament*, and *Aetheris*) reawaken a truth that predates divine law: **absolute judgment destroys as much as it protects**. Their return reopens wounds from the first celestial war and triggers the rise of **Thamorak**, the embodiment of imbalance. Across three volumes, divine structures unravel, and a new path toward redemption must be forged.
+> The trilogy explores the collapse of a cosmic order built on judgment, reincarnation, and obedience. When three ancient beings—**The Forgotten**—resurface, their ancestral weapons (*Solmire*, *Lamentum*, and *Aetheris*) reawaken a truth that predates divine law: **absolute judgment destroys as much as it protects**. Their return reopens wounds from the first celestial war and triggers the rise of **Thamorak**, the embodiment of imbalance. Across three volumes, divine structures unravel, and a new path toward redemption must be forged.
 
 ---
 
 ### 📘 Book I: *The Echo of the Sword*  
 **Theme:** Zeal, duty, and the fall from grace.
 
-Miguel, Heaven’s Supreme Commander, discovers *Solmire*—a living sword of radiant judgment. Wielding it brings decisive victories, but its inhuman verdicts isolate him from compassion and divine communion. The sword begins to guide Miguel more than he guides it. Meanwhile, the demon lord Belial senses something ancient in the weapon’s resonance and begins his own pursuit of forgotten power.
+Miguel, Heaven’s General, discovers *Solmire*—a living sword of radiant judgment. Wielding it brings decisive victories, but its inhuman verdicts isolate him from compassion and divine communion. The sword begins to guide Miguel more than he guides it. Meanwhile, the demon lord Belial senses something ancient in the weapon’s resonance and begins his own pursuit of forgotten power.
 
 > *This volume explores how zealotry emerges from certainty, and how justice without understanding becomes universal condemnation.*
 
@@ -81,7 +82,7 @@ Miguel, Heaven’s Supreme Commander, discovers *Solmire*—a living sword of ra
 ### 📙 Book II: *The Forgotten Voices*  
 **Theme:** Identity, conspiracy, and fragmented truth.
 
-Following Miguel’s fall and Belial’s corruption of the spear *Lament*, the echoes of The Forgotten begin to stir. Arin Cross (*Thaeriel*), a mercenary, and Mikel Ardon (the reincarnated Miguel), both begin to awaken memories of a divine past. Iofiel uncovers fragments of the *Codex Mortalis*, revealing a prophecy of three pre-Judgment weapons. Earth becomes the new battleground as Heaven, Hell, and ancient memories converge.
+Following Miguel’s fall and Belial’s corruption of the spear *Lamentum*, the echoes of The Forgotten begin to stir. Arin Cross (*Thaeriel*), a mercenary, and Mikel Ardon (the reincarnated Miguel), both begin to awaken memories of a divine past. Iofiel uncovers fragments of the *Codex Mortalis*, revealing a prophecy of three pre-Judgment weapons. Earth becomes the new battleground as Heaven, Hell, and ancient memories converge.
 
 > *Here the war expands beyond battlefield conflict into existential crisis—between memory and reincarnation, freedom and fate.*
 
@@ -142,9 +143,9 @@ Permanent death for angels or demons requires two conditions:
 
 - An ordinary death of the human incarnation (accident, illness, old age, killed by any other means) does **not** count as Final Death — the soul simply re-enters the reincarnation cycle and is reborn again, memory-wiped, as usual. Only a strike with the matching weapon/resonance erases it permanently.
 - This is why no soul in this cosmology is truly eternal by default: it *can* be made to disappear for good — but only through this specific, two-part act, never by chance.
-- **Exception for the Forgotten:** ordinary angels/demons can be struck down with "one of equivalent resonance," but a Forgotten's Final Death requires **their own weapon specifically** — Solmire for Ereloth, Lamentun for Thaeriel, Aetheris for Azael — wielded against their human incarnation. No substitute resonance suffices, since the weapon is an extension of the Forgotten who forged it, not an interchangeable tool.
+- **Exception for the Forgotten:** ordinary angels/demons can be struck down with "one of equivalent resonance," but a Forgotten's Final Death requires **their own weapon specifically** — Solmire for Ereloth, Lamentum for Thaeriel, Aetheris for Azael — wielded against their human incarnation. No substitute resonance suffices, since the weapon is an extension of the Forgotten who forged it, not an interchangeable tool.
 
-> This makes the ancestral weapons (Solmire, Lament, Aetheris) both tools of creation and extinction. They do not simply kill—they erase presence across time.
+> This makes the ancestral weapons (Solmire, Lamentum, Aetheris) both tools of creation and extinction. They do not simply kill—they erase presence across time.
 
 ---
 
@@ -156,6 +157,7 @@ Ancient pre-Judgment archangels whose memory, power, and individuality were seal
 ---
 
 ### 🌞 Ereloth – *The Laughing Forger*  
+- **Voz (audiolibro):** Juguetona y teatral, cambia de ritmo sin aviso; una sonrisa audible con algo muy antiguo detrás.  
 **Aspect:** Irreverent Light  
 **Weapon:** Solmire  
 **Human Alias:** Milo Ray  
@@ -191,6 +193,7 @@ A radiant figure cloaked in fragments of unformed reality—his body shifting be
 ---
 
 ### ⚖️ Azael – *The Silent Balance*  
+- **Voz (audiolibro):** Lentísima, profunda, ajena al tiempo; cada frase como una piedra asentándose.  
 **Aspect:** Equilibrium  
 **Weapon:** Aetheris, the Broken Staff — channels soul-equilibrium; splinters if truth is betrayed  
 **Human Alias:** The Summit Sage (given name unknown), an elderly herbalist whose remedies are "impossible"  
@@ -223,8 +226,9 @@ A towering entity of serene gravity. Half of his body glows with celestial gold,
 ---
 
 ### 🔥 Thaeriel – *The Righteous Blade*  
+- **Voz (audiolibro):** Tensa y contenida; fuego bajo la calma, palabras medidas que pesan.  
 **Aspect:** Righteous Suffering  
-**Weapon:** Lamentun (Lamentum), Spear of Pure Pain — leaves spiritual wounds that never heal; pierces truth  
+**Weapon:** Lamentum (Lamentum), Spear of Pure Pain — leaves spiritual wounds that never heal; pierces truth  
 **Human Alias:** Arin Cross, lone mercenary hunting war criminals  
 **Symbol:** A spear dripping both blood and light  
 **Archetype:** The Fallen Executioner  
@@ -245,7 +249,7 @@ A burning angel of pale fire, wrapped in endless chains that move with him—not
 
 **Narrative Role:**  
 - Antihero torn between vengeance and redemption.  
-- Must face both Belial and himself to reclaim Lament.  
+- Must face both Belial and himself to reclaim Lamentum.  
 - Catalyst for forced alliance between Heaven, Hell, and the Forgotten.
 
 **Death-State Polarity (his specific case, per the general law above):**  
@@ -263,7 +267,7 @@ A burning angel of pale fire, wrapped in endless chains that move with him—not
   | Name     | Weapon   | Principle        | Risk                |
   |----------|----------|------------------|---------------------|
   | Ereloth  | Solmire  | Irreverent Light | Apathy or Vanity    |
-  | Thaeriel | Lamentun | Righteous Pain   | Blind Judgment      |
+  | Thaeriel | Lamentum | Righteous Pain   | Blind Judgment      |
   | Azael    | Aetheris | Equilibrium      | Despair (Nihilism)  |
 
 - When wielded by their creator, these weapons reach full resonance.  
@@ -296,7 +300,7 @@ A burning angel of pale fire, wrapped in endless chains that move with him—not
 | Weapon   | Original Wielder | Current Holder     | Essence        | Notes                                      |
 |----------|------------------|---------------------|----------------|--------------------------------------------|
 | Solmire  | Ereloth           | Miguel (former)     | Living Light   | Drawn from the Tree Outside Time           |
-| Lamentun | Thaeriel          | Belial (corrupted)  | Burning Truth  | Unleashed in the Sepulcher of Sorrow       |
+| Lamentum | Thaeriel          | Belial (corrupted)  | Burning Truth  | Unleashed in the Weeping Sepulcher       |
 | Aetheris | Azael             | Dormant             | Soul Balance   | Broken during the First Sundering          |
 
 - These weapons were forged **before divine law**, during the raw chaos of creation.  
@@ -365,13 +369,13 @@ and count how long it takes him to answer his own name."*
 
 ---
 
-**Fragment IV — Lament's Curse**  
+**Fragment IV — Lamentum's Curse**  
 *"Pain is not punishment.  
 Pain is the memory of order, carried by whoever holds it.  
 But the hand that steals what it cannot bear  
 will find that memory does not forget the thief."*
 
-> New information: foreshadows that anyone who takes Lament without being its rightful bearer will be punished by the weapon itself, not just by circumstance — relevant to whoever ends up holding it without earning it.
+> New information: foreshadows that anyone who takes Lamentum without being its rightful bearer will be punished by the weapon itself, not just by circumstance — relevant to whoever ends up holding it without earning it.
 
 ---
 
@@ -450,21 +454,24 @@ A labyrinthine city of tombs where fallen angels are not buried—but remembered
 
 ---
 
-### 🔥 Sepulcher of Sorrow (Tomb of Lament)  
+### 🕳️ The Hollowseam (La Costura Hueca)
+A shadowless plane on the far side of an unstable seam between realities (Book I, chs. 36-39). Wet-ash ground that casts no shadow, light that moves in slow irregular pulses, air like a coin held too long on the tongue. Ground-manipulation gifts misfire here — the terrain has "not yet decided what it is." Named by the survivors of Thoria's patrol. Canonized 2026-08-26 (author decision).
+
+### 🔥 Weeping Sepulcher (Tomb of Lamentum)  
 **Type:** Weapon reliquary  
 **Location:** Infernal middle-tier plane, corrupted by intrusion
 
 **Description:**  
-A tomb sealed by paradox: the more you resist its pull, the deeper you fall into it. Here, Lament was buried and later corrupted by Belial. The realm shifts based on guilt and regret. The ground whispers in tongues that belong to no known time.
+A tomb sealed by paradox: the more you resist its pull, the deeper you fall into it. Here, Lamentum was buried and later corrupted by Belial. The realm shifts based on guilt and regret. The ground whispers in tongues that belong to no known time.
 
 **Narrative Use:**  
-- Thaeriel must descend here to reclaim Lament.  
+- Thaeriel must descend here to reclaim Lamentum.  
 - Belial confronts his past within the tomb’s illusions.  
 - Plane begins to fracture under Thamorak’s rising influence.
 
 ---
 
-### 🌫️ Valley Inverted  
+### 🌫️ Inverted Valley  
 **Type:** Entropic anomaly  
 **Location:** Between Planes—Reality Failure Zone
 
@@ -478,7 +485,7 @@ A reverse-gravity expanse where cause and effect unravel. Trees grow upside down
 
 ---
 
-> ⚠️ NOTE: Locations may evolve or collapse based on the balance between Solmire, Lament, and Aetheris. Maps are unreliable. Memory is often more accurate than geography.
+> ⚠️ NOTE: Locations may evolve or collapse based on the balance between Solmire, Lamentum, and Aetheris. Maps are unreliable. Memory is often more accurate than geography.
 
 
 ## 🔎 TRILOGY MYSTERIES
@@ -489,7 +496,7 @@ A reverse-gravity expanse where cause and effect unravel. Trees grow upside down
 2. Solmire was created by Ereloth out of pure, undirected joy — not as a joke aimed at anyone or anything, and not in anger at the Judgment.  
 3. Aetheris is broken; Azael must rebuild it to seal or balance Thamorak.  
 4. The Forgotten are proto-archangels whose war shattered Heaven and Hell.  
-5. Thamorak is the result of that rupture: sum of extremes, incarnation of imbalance.
+5. Thamorak has a two-layer cause, both required: the accidental resonance of all three ancestral weapons is the *mechanical* cause; the Michael–Lucifer duel that triggers it only gives it character/shape, it does not cause it alone. Neither Michael nor Lucifer "caused" Thamorak individually — no character carries a prior guardian/wildcard role toward it, and Michael specifically learns of Thamorak's existence for the first time in `Libro3/EN/17_The_Sages_Plan.md`. *(Corrected 2026-08-22 — the earlier "sum of extremes" framing was imprecise enough that it produced a real prose contradiction in `Libro3/EN/22_A_Council_of_War_and_Faith.md`, which had assigned Michael a pre-existing containment role; flagged for a prose fix separately.)*
 
 ---
 
@@ -512,17 +519,18 @@ A reverse-gravity expanse where cause and effect unravel. Trees grow upside down
 >
 > **Strict pacing rule**: the reader must not learn any of this before the specific chapter where a given Forgotten is actually revealed. Before that chapter, only extremely light, trivial-seeming mentions are allowed — details a reader could brush past without suspecting anything (e.g. a stray phrase, a background detail), never anything that reads as a planted clue. If a line feels like foreshadowing on a first read, cut it or push it later.
 
-- How did Belial acquire Thaeriel’s weapon?  
-- Who truly forged the ancestral weapons? *(known to us: Trilogy Mysteries #1-3 and each Forgotten's profile — this entry tracks reader-reveal timing only)*  
-- Why do some humans reincarnate faster than others?  
-- What lies beyond the cycle? Who designed it?  
-- Who placed the seals on the Tower of the Eternal?  
-- What is the “laughter” that forged Solmire?  
-- Who was the demon commander who sacrificed himself?  
-- What events led to the final battle?  
-- Did anyone suspect the Forgotten's return?
-- Michael’s dreams in his human form?  
-- How is the reincarnation system explained in-universe?
+> **Status update (2026-08-22)**: the trilogy is now fully written (159 chapters, all 3 books), so this list's original purpose — gating what a *future* chapter is allowed to reveal — is largely moot. Verified against the finished prose:
+
+- ✅ How did Belial acquire Thaeriel's weapon? — paid off (`Libro1/EN/16-21`, the Lamentum arc).
+- ✅ Who truly forged the ancestral weapons? — paid off per book (Trilogy Mysteries #1-3, each Forgotten's profile).
+- ✅ What is the "laughter" that forged Solmire? — paid off (`Libro3/EN/01_The_Divine_Jester.md` and after).
+- ✅ Did anyone suspect the Forgotten's return? — paid off (Belial senses "something ancient" from Book I on).
+- ✅ Michael's dreams in his human form? — paid off, recurring thread from `Libro1/EN/54` through Book II.
+- ✅ What events led to the final battle? / How is the reincarnation system explained in-universe? — covered, diffused across the text rather than one reveal scene.
+- ⚠️ **"Who placed the seals on the Tower of the Eternal[s]?"** — the location is real and used (`Libro1/EN/06`, `/13`, `Libro2/EN/17`, correct name is plural: **"Tower of the Eternals"**), but nothing in any of those chapters treats it as *sealed* — it's an archive of records Belial consults and Gabriel later investigates. The "seals" framing never made it into prose. Reword or drop this entry; it doesn't match what got written.
+- ⚠️ **"Who was the demon commander who sacrificed himself?"** — almost certainly refers to the commander who "thrown himself between the final blow and the throat it was meant for" in `Libro1/EN/54` — but that's **Jeremiel**, Camael's captain, who is angelic, not demonic (confirmed in the death registry, `design_notes/2026-08-22_coherence_audit_thread_map.md`). This entry is either a stale mismatch from early brainstorming or was never meant to point at Jeremiel — needs a decision, not a mechanical fix.
+- ❌ **"Why do some humans reincarnate faster than others?"** — genuinely never addressed on-page anywhere in the 159 chapters (confirmed by full-corpus search). Not a pacing gap, an actual gap: either cut it as an abandoned worldbuilding thread, or keep it as a deliberate open hook for a possible Saga II.
+- **"What lies beyond the cycle? Who designed it?"** — partially covered (the cycle's origin as post-First-Sundering containment is stated as fact in "Reincarnation Cycle" above), but "what lies beyond it" specifically is never explored on-page. Same choice as the item above: cut, or keep as a Saga II hook.
 
 ---
 
@@ -539,7 +547,7 @@ These are non-negotiable events for the saga. They are **not** a "what the reade
 Both sides mirror each other in structure — this is deliberate, not an accident of naming. Use it to sanity-check any new combat scene: a character should not casually outclass another more than one tier above or below without a specific, earned reason on the page (an artifact, a wound, a corrupted weapon, exhaustion).
 
 1. **Apex**: Lucifer (Hell) ≈ Miguel while he held Solmire, now the reincarnation-cycle wildcard (Heaven's side is currently leaderless at this tier since B1C28). Absolute top of their respective hierarchies.
-2. **Archangels / Lords**: Gabriel, Raphael, Uriel (Heaven) ≈ Belial and Hell's other Lords, e.g. Leviathan (Hell). This tier can meaningfully hurt an Apex-tier figure only in exceptional, earned circumstances (see B1C25-26: Belial only overcomes Miguel by exploiting Solmire's psychological cost, not by raw power).
+2. **Archangels / Lords**: Gabriel, Raphael, Uriel (Heaven) ≈ Belial and Hell's other Lords, e.g. Leviathan (Hell). This tier can meaningfully hurt an Apex-tier figure only in exceptional, earned circumstances — no clean on-page example currently stands. (Note, updated 2026-08-26: the Book I climax, B1C47-48, is Apex vs. Apex, not Lord vs. Apex — Lucifer personally duels and kills Miguel there, wielding Lamentum on loan from Belial, and wins by exploiting Solmire's psychological cost rather than raw power. That mechanism is preserved as a deliberate match to Lucifer's characterization — patience and words over force — not as a tier exception, since both combatants already sit at the top tier.)
 3. **Commanders**: Camael, Zadkiel, Orifiel, Selaphiel (Heaven) ≈ Foras, Vepar, and Hell's other Commanders. **This is the tier the author specifically wants shown in combat/power more — it has been underused so far relative to its narrative weight.**
 4. **Captains**: Sariel, Remiel, Jeremiel, Iofiel, Anael, Barachiel, Cassiel, Laila, Ezequiel, Raguel, Jophiel, Hadriel (Heaven) ≈ Malthus, Stolas, and Hell's other Captains.
 5. **Squad Leaders**: the many named squad leaders on both sides (Nael, Kurel, Daith, Vem, Thoria, etc.) — powerful relative to rank-and-file soldiers, but a clear step below Captains.

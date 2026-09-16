@@ -1,18 +1,18 @@
 # B1C28 – The Echo of the Sword
 
-Weeks had passed, and the sky still had not forgiven itself.
+Weeks had passed.
 
-Above the Temple of Shattered Light, the vault healed in strange, uneven cycles — a wound that scarred over only to split open again at the next dusk, weeping thin light onto stone that had already drunk too much of it. The temple's outer walls stood, but only just: cracked pillars propped against each other like soldiers holding a line no one had ordered them to hold. Inside, the hum of ordinary duty had returned — triage rosters, rationed provisions, watch rotations chalked and rechalked on broken slate — but it moved through the halls like breath through a body missing a lung. Everyone did their part. No one spoke of the part that was missing.
+Above the Temple of Shattered Light, the vault healed in strange, uneven cycles — a wound that scarred over only to split open again at the next dusk, weeping thin light onto stone that had already drunk too much of it. The temple's outer walls still stood, cracked pillars propped against each other, holding a line no one had ordered them to hold. Inside, the hum of ordinary duty had returned — triage rosters, rationed provisions, watch rotations chalked and rechalked on broken slate. Everyone did their part. No one spoke of the part that was missing.
 
 Banners hung at half their old height, not from ceremony but because there was no one left tall enough, in spirit, to raise them further.
 
-In what remained of his quarters, Camael was not attending the council. He had been asked twice; he had answered twice; he had not moved.
+In what remained of his quarters, Camael was not attending the council. He had been asked twice; answered twice; and moved for neither.
 
-He sat on an overturned shield, a whetstone in one hand and a stranger's sword in the other — Jeremiel's short blade, *Diké*, still notched from the last front it had ever held. Camael drew the stone along the edge with the same unhurried rhythm he used on his own weapons before a campaign, though this blade would see no more campaigns and both of them knew it. He had already cleaned the armor of eleven soldiers who had not come back. This was the twelfth piece, and the one he had saved for last.
+He sat on an overturned shield, a whetstone in one hand and a stranger's sword in the other — Jeremiel's short blade, still notched from the last front it had ever held. Camael drew the stone along the edge with the same steady, practiced rhythm he used on his own weapons before a campaign, though this blade would see no more campaigns and both of them knew it. He had already cleaned the armor of eleven soldiers who had not come back. This was the twelfth piece, and the one he had saved for last.
 
 A runner found him there. "Commander. They're waiting for you in the hall."
 
-"They already know what they'll decide," Camael said, not looking up. "I don't need to be in the room to agree to it."
+"They already know what they'll decide," Camael replied, not looking up. "I don't need to be in the room to agree to it."
 
 The runner didn't press him. Camael turned the blade once in the failing light, checked an edge that did not need checking, and kept polishing a sword that would never again cut anything but the silence around it.
 
@@ -22,25 +22,25 @@ Gabriel had propped the splintered banner against the altar rather than raise it
 
 "We can't keep bleeding resources on watches for an enemy that hasn't moved in three weeks," Uriel said.
 
-"He's not gone, Uriel. He's choosing his moment." Camael's voice — he had come after all, silent until now, leaning in the doorway with Jeremiel's polished sword laid across both palms like an offering. "Belial doesn't rest. He recalculates."
+"He's not gone, Uriel. He's choosing his moment." Camael's voice — he had come after all, silent until now, leaning in the doorway with Jeremiel's polished sword laid across both palms like an offering. "Hell doesn't rest. It recalculates."
 
-Zadkiel entered last, a charred manuscript under one arm, Decretum's haft scraping softly against the floor with each step. "The cycle isn't broken," he said, without preamble. "But it's bent further than I've ever measured it. I don't know what it costs to bend it back."
+Zadkiel entered last, a charred manuscript under one arm, the haft of his staff scraping softly against the floor with each step. "The cycle isn't broken," he said, without preamble. "But it's bent further than I've ever measured it."
 
-"Is anyone going to say the rest of it?" That was Cassiel, from a shadowed corner, arms crossed hard enough to still a tremor. "The Supreme Commander is gone. Say it plainly or we'll keep planning around a hole none of us have named."
+"Is anyone going to say the rest of it?" That was Cassiel, from a shadowed corner, arms crossed hard enough to still a tremor. "The General is gone. Say it plainly or we'll keep planning around a hole none of us have named."
 
 The candle between them guttered and held.
 
-Gabriel exhaled like the word cost him a wing. "Miguel will fall into that world again," he said. "And when he wakes there, he won't remember any of this. We hold until then. However long that is."
+Gabriel exhaled like the word cost him a wing. "Miguel will fall into that world," he said. "And when he wakes there, he won't remember any of this. We hold until then. However long that is."
 
 "Hold without his sword, too." Iofiel's voice barely carried, but the room quieted to hear it. "Solmire is lost on Earth. It may be centuries before it's found."
 
-"Centuries." Elom, near the back, let his gauntlet Chordis spark and dim, the broken threads of a hundred severed connections still humming faint through it. "Our lines will be built and rebuilt a hundred times before then."
+"Centuries." Elom, near the back, let his gauntlet spark and dim, the broken threads of a hundred severed connections still humming faint through it. "Our lines will be built and rebuilt a hundred times before then."
 
 "We have no alternative," Zadkiel said. "If the cycle holds, he returns. If it doesn't—" He didn't finish. Decretum met the floor once, a sound like judgment set carefully down rather than delivered.
 
 "Then send someone to look for it," Uriel said. "The sword. Solmire doesn't need a war to be found — it needs a search party and enough patience to comb an entire world."
 
-"And when we find it," Iofiel said, "who carries it? None of us were meant to. It answered to him and to no one else — you saw what it did to lesser hands in the old records. A search that ends in the wrong grip could cost us worse than losing it altogether."
+"And when we find it," Iofiel said, "who carries it? None of us were meant to. It answered to whoever it had chosen to carry it, and to no one else — you saw what it did to hands it hadn't chosen, in the old records. A search that ends in the wrong grip could cost us worse than losing it altogether."
 
 "So we do nothing." Uriel's spear-tip stopped its pacing groove and struck the marble once, sharp.
 
@@ -52,41 +52,41 @@ Every eye went to Gabriel. He met each of them in turn, and then he nodded, slow
 
 "Then we will have to be his sword," he said. "Until he can carry it again himself."
 
-No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, patient work he would once have handed to a junior officer without a second thought, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched her own shadow flicker against the wall, tracing futures that kept refusing to agree with each other.
+No one cheered. But Raphael returned to his triage lists with a straighter back, and Uriel lit the watch-braziers fresh, patient work he would once have handed to a junior officer without a second thought, and Iofiel and Zadkiel unrolled the battered map once more, marking shelters that might yet hold. In the corner, Barachiel murmured old prayers toward scattered squads too far to hear them. Anael moved among the soul-wounded rather than the merely broken-boned, leaving small sparks of feeling in hands too numb to ask for them. Remiel watched her own shadow flicker against the wall, tracing futures that kept refusing to agree with each other — the same three futures the Spiral had thrown at her once before, still unresolved now that the fighting itself had ended. She had stopped expecting the disagreement to close. Whatever came after tonight, the shape of it hadn't decided on itself yet, and no reading she owned was going to force it to.
 
-Far from the temple, in a hollow the demons had already begun calling a throne room out of habit rather than truth, Belial sat with Lament across his knees and a burn across his palm that would not fade.
+Far from the temple, in a hollow the demons had already begun calling a throne room out of habit rather than truth, Belial sat with Lamentum across his knees and a burn across his palm that would not fade.
 
 He had reached for Solmire too, over Miguel's fallen body, certain that a victor's hands were owed both blades. His fingers had not even closed around the hilt before the sword's light answered — a white flare that seared his palm to the bone and threw his hand back before he could take hold of anything at all. It skittered from the impact, gone, lost somewhere in the ordinary dirt of a world that would take its time deciding whether to give it back. He had not felt fear in that instant. He had felt refused, which was worse.
 
-Lament, at least, had not refused him. It simply would not let him rest either — its runes shifting slow and restless against his leg, a black hum threading up through his arm and into the base of his skull, a silence that was waiting to become sound again.
+The spear, at least, had not refused him. It simply would not let him rest either — its runes shifting slow and restless against his leg, a black hum threading up through his arm and into the base of his skull, a silence that was waiting to become sound again.
 
-He had won. He told himself that in the particular tone one uses on a fact that no longer feels like enough.
+He had won. Lucifer had won it for him and let him keep the word. He told himself that in the particular tone one uses on a fact that no longer feels like enough.
 
-"You expected a triumph," said a lieutenant, hovering at a careful distance, "and you sit here nursing a burned hand as if in mourning."
+The lieutenant stopped ten paces out. Those who came closer rarely did it twice. "The Host awaits orders. No one has claimed command."
 
-"I sit here," Belial said, flexing the ruined hand once, testing how much of the pain was real and how much was Lament's doing, "because I reached for a blade that decided I hadn't earned it, and I'm left holding a spear that refuses to let me forget the reaching." He set his palm flat against Lament's haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief, wearing hunger as a disguise.
+"And what are you waiting for?" Belial did not look up from the ruined hand, flexing it once, testing how much of the pain was real and how much was the spear's doing. He set his palm flat against the haft anyway. The hum under his skin sharpened, and for one unwilled instant, he heard — beneath the spear's endless appetite — something that was not hunger at all. Something almost like grief. Not his. The spear's.
 
 He did not have a name for that yet. He filed the absence of a name away, the way he filed away every advantage he had not yet learned how to use.
 
-He kept returning, uninvited, to the last exchange: the commander who had thrown himself between the final blow and the throat it was meant for. A creature bred for nothing but obedience, spending itself without being asked to. Belial had watched thousands of his own die in service and never once wondered why. He wondered now. It was an inconvenient question, and he suspected — with the particular unease of someone noticing a crack before he can name what's behind it — that Lament had put it there.
+The thought kept returning uninvited: the commander who had thrown himself between the final blow and the throat it was meant for. A creature bred for nothing but obedience, spending itself without being asked to. Belial had watched thousands of his own die in service and never once wondered why they did it. Now he wondered. It was an inconvenient question, and he suspected — with the particular unease of someone noticing a crack before he can name what's behind it — that the spear had put it there.
 
-"You could simply be pleased," the lieutenant offered, carefully. "The Host has no commander. The field is yours by default, if not yet by name."
+"For someone to claim it. If not you, it will be another. The captains are already counting swords."
 
-"A field I can't stand on without a burned hand to remind me what it cost." Belial rose, and let Lament's butt drag a thin line through the ash at his feet — not quite reverent, not quite careless. "Victory that costs this much thought wasn't cheap enough to call victory. Find out what that spear was before it was mine. I want a name for what I'm carrying."
+"Let them count. Swords tire before pride does." Belial rose, and let the spear's butt drag a thin line through the ash at his feet. "Find out who forged this spear. Bring me a name. Nothing else."
 
-"Rebuild the lines," he told the lieutenant. "Let them believe I'm resting. I am not resting."
+"Rebuild the lines," he told the lieutenant. "Let them believe I'm resting."
 
 On Earth, in three places that had no reason to notice one another, the same hour turned.
 
-In the quiet upper stacks of Navarion University's library, a young man named Arin Cross went down mid-stride, both hands seizing at nothing, phantom pain lancing through palms that had never once held a spear. He knelt among books scattered across an aisle he didn't remember stumbling into, breath ragged, certain — with no evidence he could point to — that something enormous had just changed shape somewhere far above him.
+In the quiet upper stacks of Navarion University's library, a young man went down mid-stride, both hands seizing at nothing, phantom pain lancing through palms that had never once held a spear. He knelt among books scattered across an aisle he didn't remember stumbling into, breath ragged, certain — with no evidence he could point to — that something enormous had just changed shape somewhere far above him.
 
-In a cramped apartment two continents away, a musician named Milo Ray stopped tuning his guitar mid-string, head tilted, chasing a sound no one else in the room could hear: a low, discordant hum, half-broken and strangely creative, like a chord no instrument on Earth had been built to play. He would spend the rest of the night trying, and failing, to find it again.
+In a cramped apartment two continents away, a musician stopped tuning his guitar mid-string, head tilted, chasing a sound no one else in the room could hear: a low, discordant hum, half-broken and strangely creative, like a chord no instrument on Earth had been built to play. He would spend the rest of the night trying, and failing, to find it again.
 
-And on a mountain no map recorded, in a place where the wind itself had learned to move quietly out of respect, a figure who had not opened his eyes in five thousand years opened them.
+And on a mountain no map recorded, a figure who had not opened his eyes in five thousand years opened them.
 
-Azael's eyes were wide now, pale and searching, taking in a world that had gone on entirely without him and had, in doing so, forgotten he had ever been part of it. He did not speak. There was no one there to speak to. He simply rose, joints unbending for the first time in an age, and took one deliberate step down the slope — the first step of a journey none of the three of them yet knew they were walking toward each other.
+Azael's eyes were wide now, pale and searching, taking in a world that had gone on entirely without him and had, in doing so, forgotten he had ever been part of it. He did not speak. There was no one there to speak to. The wind that had scoured this summit without pause for longer than anyone below could measure simply died — the silence around him deeper, suddenly, than even five thousand years of stillness had made it. He simply rose, joints unbending for the first time in an age, and took one deliberate step down the slope — the first step of a journey none of the three of them yet knew they were walking toward each other.
 
-Later, when the hum of the hall's small labors had settled into something almost like peace, Gabriel withdrew alone to a side chapel and let his back slide down a cracked column until the stone took his weight.
+Later, when the hum of the hall's small labors had settled into near peace, Gabriel withdrew alone to a side chapel and let his back slide down a cracked column until the stone took his weight.
 
 He let the pain move through him — the physical kind, and the other kind, the kind with no wound to point to. He closed his eyes and saw the spear again, that ancient vibration under Miguel's last strike, a resonance that had not felt infernal so much as *stolen*. He made himself a promise disguised as a note: find out the rest of what that weapon is — who had forged it, and why. Find out where it came from before it finds its way back here.
 
@@ -96,19 +96,19 @@ He pressed his forehead to the cold marble.
 
 Outside, the sky flickered and, for once, did not immediately tear itself open again. Gabriel took that for what it was — not an answer, only a pause — and let it be enough for tonight.
 
-The briny air came off the water like a slow, cool breath, the kind that hadn't yet decided whether the day would belong to the sun or the low clouds still deciding above it. Gulls cried somewhere past the tideline. Far off, a boat knocked twice against a dock, marking the start of someone's ordinary morning.
+The briny air came off the water, cool and unhurried, the kind that hadn't yet decided whether the day would belong to the sun or the low clouds still gathering above it. Gulls cried somewhere past the tideline. Far off, a boat knocked twice against a dock, marking the start of someone's ordinary morning.
 
 Between two leaning palms, a hammock swayed on threads gone pale from salt and sun. In it, a bronzed man in an open shirt and dark glasses lay with the particular ease of someone who has spent a very long time watching without once feeling the need to interfere. A guitar with one string missing rested against the trunk beside him; a half-empty glass sweated into the sand. He could not have told you his own name. He had stopped needing one a long time ago.
 
-Down the shoreline, a young man walked the exact seam where the sea met the land, his bare feet sinking only for a moment before the next wave smoothed the sand back into forgetting. His hair had gone white far too early for his age. He walked with his chin level and his eyes moving — reading the water the way some people read a room — and every so often his hand rose without his permission to touch a small metal pendant at his throat, as if it were an anchor, or a question he hadn't worked out how to ask yet. Since he was a child he had dreamed of burning towers and torn wings, of a blade that sang in a language no school had ever taught him. He always woke with his pulse loud in his ears and a single word sitting warm in his chest, half-remembered, like something whispered to him underwater:
+Down the shoreline, a young man walked the exact seam where the sea met the land, his bare feet sinking only for a moment before the next wave smoothed the sand back into forgetting. His hair had gone white far too early for his age. He walked with his chin level and his eyes moving, and every so often his hand rose without his permission to touch a small metal pendant at his throat, as if it were an anchor, or a question he hadn't worked out how to ask yet. Since he was a child he had dreamed of burning towers and torn wings, of a blade that sang in a language no school had ever taught him. He always woke with his pulse loud in his ears and a single word sitting warm in his chest, half-remembered:
 
 *Miguel.*
 
 He had never told anyone that word. He wasn't sure, some mornings, that it was even a word at all.
 
-The man in the hammock watched him pass at a distance, and something crossed his face that was, unmistakably, recognition — not of the face itself, which he had never seen before in his life, but of what stood behind it. He knew that particular weight when he felt it near him, the way a room full of strangers can still hold one familiar note. He didn't get up. He didn't call out. He lifted his glass instead, and the ice inside it rang soft and small, like a bell heard underwater.
+The man in the hammock watched him pass at a distance, and something crossed his face that was, unmistakably, recognition — not of the face itself, which he had never seen before in his life, but of what stood behind it. He knew that particular weight when he felt it near him. He didn't get up. He didn't call out. He lifted his glass instead, and the ice inside it rang soft and small, like a bell heard underwater.
 
-"Well, well…" he murmured, to no one, tasting the words before he let them go. "Who'd have thought you'd end up here."
+"Well, well…" he murmured, to himself, tasting the words before he let them go. "Who'd have thought you'd end up here."
 
 The young man was too far down the shoreline to hear him, too far inside his own head, chasing a thought that had surfaced with the last wave and was already receding with the next, to notice he was being watched at all.
 
@@ -116,7 +116,7 @@ The man in the hammock took a slow sip from his glass, still watching the white-
 
 "I suppose it's time to get back in the game," he added.
 
-The distance between them held, unbroken, the whole length of the beach. The sky flickered, once, far out past the water. A gull cried somewhere in the distance.
+Down the shoreline, the young man's hand rose to the pendant at his throat without his knowing why. The word was still there, warm beneath his pulse: *Miguel*. Someday — not today, not tomorrow — someone would come to speak it aloud. The man in the hammock intended to be there when it happened.
 
 **The End of Book One.**
 

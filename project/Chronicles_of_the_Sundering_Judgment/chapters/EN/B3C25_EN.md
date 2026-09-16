@@ -10,7 +10,7 @@ He studied the newcomer a moment before speaking, cataloguing what he could of t
 
 "Andras," he said, not a question.
 
-"Sariel." The demon's voice carried a dry, unhurried amusement that did nothing to soften the shadowed edge of the hood still hiding whatever expression sat beneath it. "Observe the anomaly. Report. Don't kill each other." He spread both hands slightly, palms out. "I was told the last part might prove the hardest."
+"Sariel." The demon's voice carried a dry, loose amusement that did nothing to soften the shadowed edge of the hood still hiding whatever expression sat beneath it. "Observe the anomaly. Report. Don't kill each other." He spread both hands slightly, palms out. "I was told the last part might prove the hardest."
 
 ---
 
@@ -66,7 +66,7 @@ Andras felt the strangeness of that rhythm without slowing down to examine it to
 
 They reached the lower terrace with the colonist safely between them, breathing hard, the null zone's wrongness fading into the distance behind them at last. Sariel released his grip on the man's shoulder once the immediate danger had passed, watching him stumble gratefully toward a cluster of waiting neighbors who had already begun gathering at the sound of the commotion. He watched the reunion a moment longer than strictly necessary, some old, familiar weight easing slightly in his own chest at the sight of one more soul brought safely through a danger he'd been sent to answer.
 
-Andras straightened from his own crouch, dusting pale stone grit from one sleeve with unhurried care. "Your instincts held," he said, the words landing with none of the earlier dryness, something closer to plain acknowledgment in their place.
+Andras straightened from his own crouch, dusting pale stone grit from one sleeve with easy care. "Your instincts held," he said, the words landing with none of the earlier dryness, something closer to plain acknowledgment in their place.
 
 "Your speed was..." Sariel paused, weighing the word carefully before he settled on it. "Adequate."
 

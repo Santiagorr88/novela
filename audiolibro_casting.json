@@ -1,0 +1,210 @@
+{
+  "_doc": "Casting oficial del audiolibro ES (ElevenLabs, español de España) — REPARTO DEL AUTOR, 2026-08-26. NO cambiar IDs sin su decisión. Modelo calidad: eleven_multilingual_v2. Pausas por transición: 0.5 pre-diálogo / 0.5 entre réplicas / 0.9 post-réplica / 0.65 narración / 1.6 escena / 1.2 título / 1.5 epígrafe.",
+  "narrador": {
+    "narrator": {
+      "id": "OjrdP8Z2fWjVyt0scrL7",
+      "voz": "Mario"
+    }
+  },
+  "protagonistas": {
+    "miguel": {
+      "id": "sDuUJMeNJR828mXTRrDh",
+      "voz": "Hernán"
+    },
+    "lucifer": {
+      "id": "5egO01tkUjEzu7xSSE8M",
+      "voz": "Carmelo"
+    }
+  },
+  "olvidados": {
+    "ereloth": {
+      "id": "HMCmDsbKeaSZp5LMOYKR",
+      "voz": "Johnny"
+    },
+    "thaeriel": {
+      "id": "hyKxCTlAqtnW188CgltM",
+      "voz": "Salva"
+    },
+    "azael": {
+      "id": "Vpv1YgvVd6CHIzOTiTt8",
+      "voz": "Martin Osborne"
+    }
+  },
+  "arcangeles": {
+    "gabriel": {
+      "id": "KbHzTDrKkWZhO8WaGUeG",
+      "voz": "Enrique",
+      "notas": "más dulce, pedido del autor"
+    },
+    "rafael": {
+      "id": "y6WtESLj18d0diFRruBs",
+      "voz": "David Martín - Clear, Calm and Elegant"
+    },
+    "uriel": {
+      "id": "YKrm0N1EAM9Bw27j8kuD",
+      "voz": "Leonidas"
+    },
+    "camael": {
+      "id": "g4ucswVjPpazgbDDe327",
+      "voz": "George"
+    },
+    "zadkiel": {
+      "id": "7QQzpAyzlKTVrRzQJmTE",
+      "voz": "Dani",
+      "notas": "ascendido de utilidades"
+    },
+    "iofiel": {
+      "id": "YDDaC9XKjODs7hY78qEW",
+      "voz": "MariCarmen"
+    }
+  },
+  "senores_infernales": {
+    "belial": {
+      "id": "RnKqZYEeVQciORlpiCz0",
+      "voz": "Baldo"
+    },
+    "asmodeo": {
+      "id": "PRfCKe8kdrG3nuXOAnoH",
+      "voz": "Gork"
+    },
+    "vepar": {
+      "id": "bsEDAkNZWaEolZ7vEeVJ",
+      "voz": "Abel",
+      "notas": "ascendido de utilidades"
+    },
+    "foras": {
+      "id": "nfeqNafxKPTBjlfTCxQW",
+      "voz": "Juanjo Goblin"
+    }
+  },
+  "secundarios": {
+    "remiel": {
+      "id": "dX2UjlDzOz7RY8kmMXZo",
+      "voz": "Matilda Paz",
+      "notas": "provisional"
+    },
+    "cassiel": {
+      "id": "Nh2zY9kknu6z4pZy6FhD",
+      "voz": "David Martín - Confident and Balanced",
+      "notas": "distinto del David Martín de Rafael (Elegant)"
+    },
+    "elom": {
+      "id": "9iaRiYAiGlZImkI1Ruyh",
+      "voz": "Antonio"
+    },
+    "nael": {
+      "id": "KHCvMklQZZo0O30ERnVn",
+      "voz": "Sara Martín",
+      "notas": "liberada de Iofiel, ahora dedicada"
+    },
+    "lieutenant": {
+      "id": "QtPMrakdgePQIUwOX7Ut",
+      "voz": "Arconte",
+      "usos": [
+        "teniente de Belial",
+        "cortesano1"
+      ],
+      "notas": "Abel ascendido a Vepar; utilidades → Arconte"
+    },
+    "runner": {
+      "id": "EAt3u6VYgPo7ic9mWIyI",
+      "voz": "Juan Jiménez",
+      "usos": [
+        "mensajero",
+        "cortesano2",
+        "soldado joven"
+      ],
+      "notas": "Dani ascendido a Zadkiel; utilidades → Juan Jiménez"
+    }
+  },
+  "retakes_pendientes_al_renovar": [
+    "L1/01: líneas de Miguel (Vértice) y Gabriel (Enrique)",
+    "L1/02: línea de Lucifer (Carmelo)",
+    "L1/03: línea de Uriel ok; verificar ninguna de Gabriel",
+    "L1/04: regeneración completa en v2 (era Flash) — con Camael=José Bionada y Miguel=Vértice",
+    "L1/05: líneas de Miguel (Vértice)"
+  ],
+  "direccion_de_actor": {
+    "_doc": "Ficha técnica de habla por personaje. Al sintetizar una réplica se antepone como previous_text: '<descripcion> <Personaje> dijo, <entonacion>:'. Permite que una misma voz sirva a varios personajes con entregas distintas.",
+    "miguel": {
+      "descripcion": "La voz del General del Cielo: autoridad serena, grave, cansancio noble; jamás alza el tono",
+      "entonacion": "firme y sereno"
+    },
+    "lucifer": {
+      "descripcion": "El príncipe del Infierno: elegancia sedosa, sin ninguna prisa, saboreando cada palabra; bajo la elegancia, un fondo tenebroso que nunca amenaza en voz alta",
+      "entonacion": "casi divertido, sin prisa"
+    },
+    "ereloth": {
+      "descripcion": "El bufón divino: juguetón, teatral, sonrisa audible que esconde algo antiguo",
+      "entonacion": "riendo bajo"
+    },
+    "thaeriel": {
+      "descripcion": "El juez implacable: fuego contenido a la fuerza, tensión bajo la calma",
+      "entonacion": "frío y tenso"
+    },
+    "azael": {
+      "descripcion": "El equilibrio dormido: quietud absoluta, lentitud profunda, ajeno al tiempo",
+      "entonacion": "muy despacio"
+    },
+    "gabriel": {
+      "descripcion": "El heraldo: dulzura y armonía, calidez fraternal",
+      "entonacion": "con ternura"
+    },
+    "rafael": {
+      "descripcion": "El sanador: calma que diagnostica, voz baja y paciente",
+      "entonacion": "suave"
+    },
+    "uriel": {
+      "descripcion": "El halcón del Consejo: ardor, impaciencia, estallidos controlados",
+      "entonacion": "ardiente"
+    },
+    "camael": {
+      "descripcion": "El martillo del frente: franqueza militar, seco, directo",
+      "entonacion": "cortante"
+    },
+    "zadkiel": {
+      "descripcion": "El medidor del ciclo: precisión académica, gravedad tranquila",
+      "entonacion": "sin preámbulos"
+    },
+    "iofiel": {
+      "descripcion": "La archivista: rapidez seca, autoridad intimidante",
+      "entonacion": "tajante"
+    },
+    "belial": {
+      "descripcion": "El Señor del Orgullo: arrogancia gélida, resonancia baja y tenebrosa; el desprecio como música de fondo",
+      "entonacion": "gélido"
+    },
+    "asmodeo": {
+      "descripcion": "La criatura del deseo: gutural, húmeda, inquietante; tenebrosa incluso cuando ofrece",
+      "entonacion": "gruñido lento"
+    },
+    "vepar": {
+      "descripcion": "El mariscal pragmático: plano, frío, oscuro; el análisis de una marea que no siente nada",
+      "entonacion": "plano y frío"
+    },
+    "foras": {
+      "descripcion": "El vigilante de mil ojos: sibilante, afilado, tenebroso; una amenaza que nunca necesita gritar",
+      "entonacion": "siseante"
+    },
+    "_reutilizacion": "Secundarios sin voz propia: elegir voz del pool + dirección distinta (p. ej. Dani como mensajero nervioso vs cortesano untuoso). La dirección diferencia; la voz se comparte."
+  },
+  "_estructura_muestras": "Libro1/audiolibro/es/voice/<Nombre>/<NombreVoz>.mp3",
+  "voice_settings_bandas": {
+    "narrador": {
+      "stability": 0.55,
+      "similarity_boost": 0.75,
+      "style": 0.15
+    },
+    "celestiales": {
+      "stability": 0.45,
+      "similarity_boost": 0.8,
+      "style": 0.3
+    },
+    "infernales": {
+      "stability": 0.35,
+      "similarity_boost": 0.8,
+      "style": 0.45,
+      "_doc": "más inestabilidad y estilo = entrega más sombría; la dirección de actor añade el filo tenebroso"
+    }
+  }
+}

@@ -10,7 +10,7 @@ Mikel felt the words settle into him strangely, less like new information than l
 
 Arin held his position a few paces back, arms still loose at his sides, watching the exchange with the same wary attention he'd have given any negotiation where he didn't yet understand the stakes. He'd spent a decade learning to read what people didn't say as carefully as what they did, and everything about the figure's phrasing told him this was a conversation built entirely out of careful omission. He caught himself cataloguing the figure the way he'd have catalogued any unknown quantity walking into a job — strengths untested, motives unclear, the specific unease of standing near something whose actual limits he had no way yet to measure. Nothing about it read as hostile. That fact alone unsettled him more than open hostility would have, given how little else about tonight had followed any pattern he actually trusted. He noted, distantly, that his own pulse still hadn't fully settled from the fight, and found himself unable to tell how much of that was leftover adrenaline and how much was simply standing this close to whatever the figure actually was.
 
-"What broke," Arin repeated, flat, testing the words for whatever weight they were meant to carry. "That's not an answer either. It's just a different question."
+"What broke," Arin repeated, flat, testing the words for whatever weight they were meant to carry. "Still not an answer. Just a different question."
 
 "It is the only question worth asking tonight," the figure said. "The rest will follow it, in time, whether either of you goes looking for them or not."
 
@@ -20,7 +20,7 @@ The figure's gaze moved to him, unhurried, and something in its expression — A
 
 ---
 
-"One to suffer." The figure turned, slow and deliberate, toward Mikel, and Mikel felt his own breath catch at the plain, unhurried certainty in its gaze. "One to create." It didn't finish the third line with a gesture toward either of them, letting the words trail instead toward the wider dark of the corridor beyond, toward everything neither man could see from where they stood.
+"One to suffer." The figure's attention didn't settle on either man this time — it turned instead toward the wider dark of the corridor beyond, the same place its gaze would rest a moment later for the line that followed. "One to create." Neither word came with a gesture toward Mikel or Arin, and Mikel felt the absence of that certainty almost as unsettling as Arin's had been a moment ago — two roles spoken into the dark for someone neither of them yet knew.
 
 ---
 

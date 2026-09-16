@@ -1,4 +1,6 @@
-# Index
+# Chronicles of the Sundering Judgment — Book II
+
+## Index
 
 1. [Chapter 1 — The Professor of Lost Things](01_The_Professor_of_Lost_Things.md)
 2. [Chapter 2 — The Ghost of the Balkans](02_The_Ghost_of_the_Balkans.md)
@@ -45,11 +47,11 @@
 43. [Chapter 43 — A Memory of Three](43_A_Memory_of_Three.md)
 44. [Chapter 44 — Two Roads from a Crossroads](44_Two_Roads_from_a_Crossroads.md)
 45. [Chapter 45 — Three Anomalies](45_Three_Anomalies.md)
-46. [Chapter 46 — A Verse Withheld](46_A_Verse_Withheld.md)
-47. [Chapter 47 — A Truth Told First](47_A_Truth_Told_First.md)
-48. [Chapter 48 — A Familiar Shape in Borrowed Words](48_A_Familiar_Shape_in_Borrowed_Words.md)
-49. [Chapter 49 — No One Trained to Hear It](49_No_One_Trained_to_Hear_It.md)
-50. [Chapter 50 — The Unaccounted Variable](50_The_Unaccounted_Variable.md)
-51. [Chapter 51 — The Vow of the Just](51_The_Vow_of_the_Just.md)
-52. [Chapter 52 — The Weight of a Name](52_The_Weight_of_a_Name.md)
+46. [Chapter 46 — The Unaccounted Variable](46_The_Unaccounted_Variable.md)
+47. [Chapter 47 — The Vow of the Just](47_The_Vow_of_the_Just.md)
+48. [Chapter 48 — The Weight of a Name](48_The_Weight_of_a_Name.md)
+49. [Chapter 49 — A Verse Withheld](49_A_Verse_Withheld.md)
+50. [Chapter 50 — No One Trained to Hear It](50_No_One_Trained_to_Hear_It.md)
+51. [Chapter 51 — A Truth Told First](51_A_Truth_Told_First.md)
+52. [Chapter 52 — A Familiar Shape in Borrowed Words](52_A_Familiar_Shape_in_Borrowed_Words.md)
 53. [Chapter 53 — The Voices Gather](53_The_Voices_Gather.md)

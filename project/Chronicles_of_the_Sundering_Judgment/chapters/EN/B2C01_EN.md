@@ -12,15 +12,15 @@ He blinked. The lecture hall came back into focus a half-second late, the way a 
 
 ---
 
-He was gathering his notes when he realized one seat was still occupied. A student — one of the quieter ones, a girl who took meticulous notes in a small precise hand and never once spoke up in section — hovered at the base of the steps with her bag already on her shoulder, the posture of someone who has talked herself into approaching and then out of it, twice already, and is now simply out of better options.
+He was gathering his notes when he realized one seat was still occupied. A student — one of the quieter ones, a girl who took meticulous notes in a small precise hand and never spoke up in section — hovered at the base of the steps with her bag already on her shoulder, the posture of someone who has talked herself into approaching and then out of it, twice already, and is now simply out of better options.
 
 "Professor Ardon." She said it fast, like ripping off a bandage before she could reconsider. "Can I ask you something that isn't about the reading?"
 
-"You can ask." He kept his voice easy, unhurried, the voice he used for students working up to something they were embarrassed by — a grade, usually, or a family emergency eating into a deadline.
+"You can ask." He kept his voice easy, the voice he used for students working up to something they were embarrassed by — a grade, usually, or a family emergency eating into a deadline.
 
-"Do you ever dream about wars you didn't live through?" She flushed immediately, a blotchy color climbing her throat, as if hearing the question out loud had confirmed exactly how strange it sounded. "Not like — not history-brain, not 'I read about it and now I'm thinking about it before bed.' Like you were *there*. Like it's a memory and not a dream at all, except it can't be, because none of it ever happened to me. I've been having them for weeks now, and I thought, you study this for a living, maybe it's normal, maybe it happens to everyone who spends enough time in it, and I didn't know who else to ask that wouldn't think I was—" She stopped herself before the sentence could finish.
+"Do you ever dream about wars you didn't live through?" She flushed immediately, a blotchy color climbing her throat, as if hearing the question out loud had confirmed how strange it sounded. "Not like — not history-brain, not 'I read about it and now I'm thinking about it before bed.' Like you were *there*. Like it's a memory and not a dream at all, except it can't be, because none of it ever happened to me. I've been having them for weeks now, and I thought, you study this for a living, maybe it's normal, maybe it happens to everyone who spends enough time in it, and I didn't know who else to ask that wouldn't think I was—" She stopped herself before the sentence could finish.
 
-Mikel felt something in his chest go very still, the particular stillness of a man standing at the edge of a step he can't see the bottom of. "It's your mind organizing what it's absorbed," he said, and heard the answer come out smoothly, generically, exactly the shape he'd have handed any student asking any strange question in the three minutes before he needed to be somewhere else. "History has a way of feeling personal once you've spent enough hours living inside it on the page. It doesn't mean anything more than that."
+Mikel felt something in his chest go very still, the stillness of a man standing at the edge of a step he can't see the bottom of. "It's your mind organizing what it's absorbed," he said, and heard the answer come out smoothly, generically, exactly the shape he'd have handed any student asking any strange question in the three minutes before he needed to be somewhere else. "History has a way of feeling personal once you've spent enough hours living inside it on the page. It doesn't mean anything more than that."
 
 She nodded, visibly relieved, her shoulders dropping half an inch, and thanked him, and gathered the rest of her things, and left him alone with the echo of her own question still standing in the room after she'd gone.
 
@@ -28,7 +28,7 @@ He stood in the emptying hall a moment longer than the moment required. It wasn'
 
 ---
 
-The ache came for him crossing the quad, the way it always did — no warning, no buildup, just a sudden fist closing somewhere behind his sternum that had nothing to do with muscle or bone or anything a cardiologist had ever found a name for. He stopped mid-stride, one hand flat against the cold stone of the arts building, and breathed through it in the careful, counted way he'd taught himself years ago, in through four, hold for four, out for four, until the moment passed and left him faintly nauseated and entirely alone with the sensation that had never once, in all the years he'd carried it, gotten any easier to describe: that something enormous had once occupied that exact space in his chest, filled it completely, been the whole shape of him — and was gone now, leaving nothing behind but the precise, hollow architecture of its absence. Not pain, exactly. A vacancy with edges.
+The ache came for him crossing the quad, the way it always did — no warning, no buildup, just a sudden fist closing somewhere behind his sternum that had nothing to do with muscle or bone or anything a cardiologist had ever found a name for. He stopped mid-stride, one hand flat against the cold stone of the arts building, and breathed through it in the careful, counted way he'd taught himself years ago, in through four, hold for four, out for four, until the moment passed and left him faintly nauseated and alone with the sensation that had never, in all the years he'd carried it, gotten any easier to describe: that something enormous had once occupied that exact space in his chest, filled it completely, been the whole shape of him — and was gone now, leaving nothing behind but the precise, hollow architecture of its absence. Not pain, exactly. A vacancy with edges.
 
 Three different doctors, across three different years, had found nothing. Scans that came back clean. Blood work that came back clean. The third had used the word *idiopathic*, which Mikel had gone home and looked up, and which had turned out to mean, essentially, *we don't know, and neither will you.* He'd stopped mentioning it to the fourth doctor before that appointment even started, because there was only so many times a man could watch a stranger's face rearrange itself into practiced, professional uncertainty before the telling became its own kind of exhausting.
 
@@ -40,7 +40,7 @@ That night the dream came again, the way it always did when the ache had been ba
 
 Then a shadow crossed the sky in a place no shadow should have been able to reach, low and total and wrong in a way that made every golden soldier around him flinch at once, and something black and ancient drove into him with a sound like a verdict being read aloud. The humming weight was torn from his grip mid-motion, and the loss of it didn't register as disarming — it registered as amputation, as though whatever had just been ripped from his hand had been a second spine, load-bearing, the one thing keeping the rest of him upright.
 
-He woke with a scream caught silent behind his clenched teeth and his hand already closing — fast, practiced, decades of practice compressed into a single sleeping reflex — on nothing at all, on empty air above the blanket, on the exact remembered shape of a weight that had never once, in this life, actually been there.
+He woke with a scream caught silent behind his clenched teeth and his hand already closing — fast, practiced, decades of practice compressed into a single sleeping reflex — on nothing at all, on empty air above the blanket, on the exact remembered shape of a weight that had never, in this life, been there.
 
 ---
 
@@ -48,11 +48,11 @@ His hand found the fragment on the nightstand instead — it always did, some ni
 
 He was still holding it, turning it slowly against his palm, when his phone lit up and buzzed against the nightstand — a colleague from the department, one of the few who still bothered to call instead of text, as if the effort of it were its own small act of care.
 
-"You're up," the voice on the other end said, not quite a question, when Mikel picked up. "Good. Come get a drink with me tomorrow. I'm not asking you to plan it — I'm asking you to show up."
+"You're up," the voice on the other end said, when Mikel picked up. "Good. Come get a drink with me tomorrow. I'm not asking you to plan it — I'm asking you to show up."
 
 "Can't," Mikel said, already reaching for the excuse that came easiest. "I've got marking to catch up on."
 
-A pause, just long enough to make clear it wasn't believed. "You've been saying that for a month, Ardon. You sleep like garbage — don't tell me you don't, I've seen you in the corridor at eight in the morning looking like you lost a fight with the night. You cancel everything. You've got that look you get when something's chewing on you and won't stop." A breath, softer. "I'm not going to make you talk about it. I just want you to know I'm here, if you ever decide you want to."
+A pause, just long enough to make clear it wasn't believed. "You've been saying that for a month, Ardon. You sleep like garbage — don't tell me you don't, I've seen you in the corridor at eight in the morning looking like you lost a fight with the night. You cancel everything. And you've been walking around all month like a man three weeks behind on something nobody assigned him." A breath, softer. "I'm not going to make you talk about it. I just want you to know I'm here, if you ever decide you want to."
 
 Mikel sat with the phone against his ear a moment longer than the silence strictly needed. He thought, with a clarity that startled him, about the girl in the lecture hall and the honest answer he hadn't given her, and about how easy it would be, right now, to say three real sentences instead of one more excuse — to be, for the first time in longer than he could measure, not alone with any of it.
 

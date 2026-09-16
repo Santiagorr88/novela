@@ -1,0 +1,9 @@
+Use the attached canonical face and body references as strict identity authorities.
+
+Create a head-and-shoulders portrait of MALPHAS, the same demonic Captain of dark architecture. His apparent age is not specified by the source; preserve the reference rather than assigning an age. Preserve exactly his facial geometry from the reference; the source specifies no further physical detail.
+
+Centered eye-level identity portrait, calculating unapologetic expression, plain neutral background.
+
+Vibrant anime-influenced painted fantasy illustration, clean detailed rendering, soft painterly blending, matching the references.
+
+No armor, crown, jewelry, glowing eyes, text, labels, or watermark. Wardrobe must follow any separate shot instruction; do not treat it as an identity trait.

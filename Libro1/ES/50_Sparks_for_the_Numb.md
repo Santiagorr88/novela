@@ -1,0 +1,109 @@
+# Capítulo 50 — Chispas para los Entumecidos
+
+Los heridos de la Hueste que todavía eran capaces de sangrar tenían al menos un destino físico al que dirigirse dentro de las dependencias comunes del Bastión. El Templo de la Luz Quebrada hacía honor a su propio nombre, consagrado bajo una inmensa bóveda de cristal fracturado que los constructores originales habían diseñado para que la claridad celestial cayera sobre las losas en láminas rotas y prismáticas, en lugar de proyectarse en un único y deslumbrante haz limpio. Anael había caminado bajo aquella cubierta de vidrio astillado mil mañanas antes de esta campaña y, aun con la urgencia del luto asentado en el patio, se sorprendió alzando la vista por puro hábito, observando cómo los viejos colores de las vidrieras rotas seguían haciendo exactamente el mismo trabajo geométrico de siempre.
+
+El santuario central del Bastión disponía de salas perfectamente preparadas para las bajas ordinarias del hierro: catres ordenados en filas simétricas, donde los aprendices de Rafael se movían con esa presteza y competencia de quienes confían en sus propios vendajes, midiendo las fiebres y atendiendo las heridas de los soldados según un horario estricto y militar.
+
+Pero los heridos del alma que se amontonaban en las galerías de Anael no presentaban nada tan sencillo que un cirujano pudiera remediar con tiza o con ungüentos. Aquellos soldados yacían inmóviles en sus respectivos catres, respirando de manera regular y con el latido del corazón firme bajo la sarga, pero esa misma integridad del cuerpo no significaba nada frente al vacío que les gobernaba las miradas. Un médico del Bastión sabía cómo cerrar un tajo honesto de espada demoníaca; pero a ninguno de ellos se le había enseñado todavía en el Scriptorium qué hacer con un centinela cuyos ojos no seguían movimiento alguno en la sala, cuyas manos solo tomaban la cuchara de alimento cuando el dedo de un cuidador les guiaba el puño, o cuyo propio nombre, pronunciado directamente ante sus hondonadas, no producía más reacción que el sonido sordo de la llovizna golpeando una ventana cerrada.
+
+---
+
+Anael pasó de largo junto al primer catre de la hilera este sin llegar a detener su paso metódico, contemplando de reojo a una joven soldado que no se había movido de su posición en nueve días, con una respiración tan superficial que apenas lograba alterar los pliegues de la manta gris que le cubría el pecho. Anael había aprendido, a costa de su propia fatiga, a visitar a los más graves de la galería al final del día y no al comienzo, comprendiendo que una pena tan profunda y tan desprovista de luz no respondía a nada que se le ofreciera demasiado temprano, cuando su propia reserva de paciencia y de espíritu todavía no había tenido tiempo de volver a llenarse en el silencio del templo.
+
+Se arrodilló, en cambio, junto al tercer catre de la hilera este, donde un soldado de la Guardia Adamantina permanecía con los párpados abiertos y fijos en un punto anodino de la mampostería del techo que no contenía nada que ningún otro en la sala fuera capaz de registrar.
+
+No alzó la Lira de Luz de inmediato; de hecho, nunca realizaba ese ademán en el primer contacto. Se limitó a escuchar en la penumbra de la columna: el enganche entrecortado, seco y desigual de la respiración del herido, la pequeña y trémula vacilación que precedía a cada una de sus exhalaciones, y el ritmo de un cuerpo que parecía haber olvidado que tenía permiso para relajar los músculos sobre el colchón de paja.
+
+Anael sabía que la esperanza ofrecida con demasiada prisa solo sonaba a mentira o a decoración para una mente que ya había decidido, en el fango de la llanura, que su guerra estaba terminada y perdida para siempre. Ya había cometido ese error con los primeros heridos de la linde, viéndolos sobresaltarse ante sus acordes y apartarse de la claridad de la Lira con la misma repulsión física con la que una mano quemada se retrae ante una segunda llama.
+
+Solo cuando sintió que la respiración del soldado se estabilizaba lo suficiente como para responder al ritmo de la suya propia—una vez, dos veces, tres veces en el silencio de las losas—, permitió Anael que la primera nota de la Lira de Luz se alzara en el aire. No fue un tono más brillante o más fuerte que la propia quietud del herido, sino un acorde sutil, sostenido y alineado con tal precisión con su propia respiración que fácilmente habría podido confundirse con un eco de su pecho, en lugar de un regalo depositado en el sillar.
+
+Los ojos del soldado no se desviaron de la viga, ni su pecho alteró el compás del aliento. Anael sostuvo la nota un rato más de todos modos; el templo le había enseñado, durante las últimas semanas de repliegue, que la ausencia de respuesta en un veterano de sarga no era lo mismo que la ausencia de escucha, y dejó que el silencio posterior de la sala absorbiera su propio y pequeño fracaso antes de levantarse con las rodillas rígidas por el granito y pasar al siguiente catre de la fila.
+
+Nadie la había entrenado para esta labor en particular. Todo su servicio anterior se había construido en torno al orden de las líneas de batalla, recorriendo las filas antes de una carga para que el valor prendiera de cota en cota como un pedernal golpeado prende en la hierba seca de la frontera. Aquel oficio militar tenía un final visible, contable y claro: una posición sostenida en la linde o una carga que no se rompía ante el hierro de Dis. Este trabajo, en cambio, carecía de límites contra los que medir la efectividad del báculo; simplemente continuaba, catre tras catre, galería tras galería, y ella había aprendido a dejar de pedirle al cristal que se resolviera en algo más limpio que el luto ordinario de las camillas.
+
+---
+
+Barachiel la encontró entre la cuarta fila de catres y la quinta, sosteniendo un pliego de pergamino medio desenrollado contra su antebrazo que contenía las listas de reasignación del día. Anael notó que la elocuencia habitual del capitán de comunicaciones parecía completamente apagada esta mañana, mostrando un desgaste más profundo que el que le había visto registrar en las últimas tres semanas de guardia. Incluso cansado y con la sarga húmeda, Barachiel se movía por la galería de enfermos con esa misma distinción de quien está acostumbrado a que lo escuchen en los patios del Bastión, aunque sus rasgos delataban que hoy habría preferido que cualquier otro mensajero cargara con el reporte.
+
+—Han vuelto a reasignar las salas —dijo Barachiel, sin preámbulos, y aunque intentó que las palabras conservaran su habitual cadencia musical, el tono le salió delgado e hilado por el cansancio, porque la cortesía del prólogo se había convertido en un lujo que ninguno en el templo podía ya costearse en la vigilia.— La gente de Rafael no puede llevar las dos listas de bajas a la vez: la de los que sangran por el hierro y la de los que no responden al canal de control. El mando del Bastión quiere que la segunda lista pase entera a tus manos.
+
+Le tendió el pergamino militar de sarga, sin llegar a encontrarse del todo con sus ojos, como un hombre que ofrece un encargo que sospecha que es cruel dar a un compañero de vigilia.
+
+—Hay cuarenta y un nombres en ella esta mañana —añadió Barachiel, desviando la mirada hacia las losas húmedas.— En las oficinas lo están llamando un honor. No creo que nadie en el patio se lo crea de verdad, y menos que nadie el escribiente que se encargó de anotarlo en el Scriptorium.
+
+Anael tomó el pliego de pergamino frío de sus manos pero decidió no desenrollarlo. Sabía de sobra, sin necesidad de leer la tinta, cuánto mediría la contabilidad del luto; había visto el número de bajas del alma subir de a dos y de a tres cada semana desde el toque del Cuerno de la Retirada, y hacía tiempo que había dejado de esperar que la cifra disminuyera en las pantallas cristalinas del consejo.
+
+—No es un honor, Barachiel —dijo Anael, y la suavidad de su voz sostuvo la llanura de la frase sin necesidad de alzar el tono para que el sillar devolviera la verdad de sus bordes.— Es solo verdad. Nada de lo que las manos de Rafael o sus aprendices puedan remendar llega a tocar a estos hombres. Las mías, con la Lira de Luz, quizá sí. Eso no es un honor; es simplemente la única forma que puede tomar el trabajo en este rincón del Bastión.
+
+—Lo sé —contestó Barachiel, vacilando, y por un breve instante algo de su antigua calidez persuasiva de heraldo asomó a la superficie de sus rasgos, dirigida a ella en la privacidad de la columna.— Solo quería decir... que lamento profundamente que esta lista sea tuya sola de cargar, Anael. Cuarenta y un heridos del alma son demasiados para llevar con un solo instrumento y solo dos manos.
+
+—Nunca iba a ser de nadie más —respondió ella, enrollando el pergamino de nuevo y guardándolo contra su costado sin romper el paso hacia el final de la galería, dejándolo volver a su propia tarea de murmurar viejas plegarias de comunicaciones hacia escuadrones que ya caían demasiado lejos del Bastión para oírlas, porque a ninguno de los dos les quedaba ya tiempo de sobra que gastar en consolarse mutuamente por una decisión que el mando ya había tomado en el papel.
+
+---
+
+Anael encontró a Ezihel en la estrecha alcoba de suministros y tiza que se abría justo detrás de la galería oeste, sentada en silencio sobre una vieja caja de madera volcada cerca de los estantes de ungüentos. La pequeña campana de bronce de Lumen descansaba inerte entre sus manos desnudas; no la hacía sonar, pero tampoco la guardaba en su funda, limitándose a girarla despacio sobre las yemas de sus dedos como si el propio peso del metal pudiera decirle algo sobre el desgarro que sus propios pensamientos no lograban resolver en el sillar.
+
+—Llevas aquí fuera más tiempo del que un descanso permite, Ezihel —dijo Anael, acomodándose en una segunda caja volcada frente a ella, lo bastante cerca de la esquina como para que sus rodillas casi se tocaran en la penumbra.
+
+Ezihel no alzó la vista de la campana de inmediato. Cuando por fin lo hizo, sus rasgos mostraron esa misma firmeza y control que Anael siempre había asociado con su servicio, pero sostenida hoy por una tensión que le costaba notablemente más disimular bajo la luz de la lámpara de sebo.
+
+—Lumen no llega a los peores de ellos —dijo Ezihel, y el tono le salió plano, despojado de cualquier vibración de consuelo.— La hago sonar sobre las camillas, observo sus rostros... y nada se mueve en la sarga. He empezado a preguntarme, Anael, si sigo haciendo sonar el bronce por ellos en absoluto, o si solo lo hago porque detenerme significaría admitir ante el Scriptorium que la herramienta ha dejado de funcionar en mis manos.
+
+—¿Y qué significaría, Ezihel, si en verdad no funcionara? —preguntó Anael, manteniendo la paciencia en su sitio.
+
+—Significaría que algunos de ellos ya se han ido del todo, que el alma se les ha escurrido en la llanura de ceniza. Significaría que estoy haciendo sonar una campana de bronce sobre una habitación enteramente vacía y llamándolo cuidado.
+
+El puño de Ezihel se cerró con más fuerza en torno al mango de Lumen, volviendo sus nudillos pálidos en torno al metal templado.
+
+—Llevas semanas más que yo en esta galería —añadió, y sus ojos buscaron los de Anael con una urgencia que no admitió adornos.— Dime con honestidad: ¿alguna vez deja de sentirse así?
+
+Anael dejó que la pregunta permaneciera suspendida en el aire húmedo de la alcoba antes de ofrecerle una respuesta, comprendiendo que su compañera de escuadra merecía algo mejor que un consuelo de manual armado demasiado rápido para sonar merecido.
+
+—No —dijo Anael, con suavidad.— No deja de sentirse así, Ezihel. Todavía salgo de algunas salas de la galería este preguntándome exactamente lo mismo que tú te preguntas ahora frente al bronce.
+
+Extendió su mano pálida y la posó brevemente sobre la campana, aquietando el girar del metal, aunque la herramienta no se había estado moviendo en absoluto.
+
+—Pero nuestro báculo nunca estuvo destinado a curarlos, Ezihel. Tu campana Lumen tampoco. Eso nunca fue lo que el mando nos envió a hacer a estas salas cuando el Cuerno dio el toque de repliegue. El trabajo nunca fue «despertarlos» de la oleada de Lamentum. Fue, simplemente, «asegurarse de que ninguno de ellos pase por este luto solo, despierten o no antes del amanecer». Si eso es todo lo que tu bronce ha comprado hoy para un solo catre de la galería oeste, entonces no ha fracasado en el sillar. Ha hecho precisamente el único trabajo para el que Lumen fue consagrada en la primera era.
+
+La mandíbula de Ezihel se tensó bajo la luz vacilante de la lámpara, y Anael pensó por un momento que la muchacha insistiría en su objeción de sarga. En cambio, se limitó a asentir con la cabeza, una única vez, y guardó la campana de bronce en su costado sin añadir una sola palabra a la tregua, lo cual fue su propia y silenciosa forma de respuesta.
+
+—Bebe algo de agua antes de volver a entrar a las filas —le dijo Anael, incorporándose de la caja de madera.— La campana sonará considerablemente más firme si tu garganta no está tan seca.
+
+Era una indicación pequeña y ordinaria, casi descuidada en su llanura, pero la pronunció con el mismo cuidado con el que ofrecía cualquier nota de su Lira en la galería este: un hecho simple ofrecido con la ligereza justa para que Ezihel pudiera recibirlo sin la molestia de sentirse consolada en su debilidad.
+
+---
+
+Anael regresó junto al soldado de la Guardia Adamantina cerca del final de su ronda, más por una vieja costumbre de guardia que por ninguna expectativa real de que el sillar hubiera cambiado durante su ausencia. Igualó la respiración de su herido de nuevo, tal como había hecho una docena de veces antes a lo largo de la tarde, y dejó que la primera nota de la Lira de Luz se elevara hacia las vigas del techo.
+
+Durante lo que a la respiración del herido le pareció un largo momento de silencio, nada en el cuerpo del soldado se alteró; la cota de malla permanecía inmóvil y la mirada fija en el mismo punto de la mampostería, exactamente como lo había hecho en cada hora anterior de su censo.
+
+Entonces, con una lentitud mineral, los dedos de su mano derecha se curvaron, despacio, en torno al borde de la manta de sarga gris que llevaba subida hasta el pecho. No fue un movimiento hacia Anael, ni hacia la Lira, ni hacia nada que ella pudiera nombrar con un término militar; fue solo un pequeño, deliberado y trémulo cerrar de una mano que pareció, en ese único e imposible instante, recordar que todavía le pertenecía al cuerpo que yacía en la camilla.
+
+Un sonido brotó de su garganta después: un tono bajo, ronco, quebrado y continuo que no era del todo una palabra, sino la forma vacía que deja una frase cuando quien la pronuncia ha perdido la mayor parte de lo que solía significar en la linde del Bastión. Anael no le pidió que repitiera el sonido, ni buscó un significado para él en los libros del Scriptorium, segura de que cualquier prisa por interrogar el indicio solo asustaría de vuelta bajo la sarga a lo que fuera aquella cosa frágil que acababa de asomar a la superficie del sillar.
+
+Se limitó a sostener la nota de la Lira un rato más, manteniendo la frecuencia templada y constante, y dejó que su propia mano descansara, ligera y relajada, sobre el puño cerrado del soldado, permitiéndose, durante la duración de aquel único acorde sostenido, llamarlo la primera chispa real que el herido había producido desde el portazo de las Puertas del Empíreo.
+
+---
+
+Por la mañana, sin embargo, el soldado estaba de nuevo por completo quieto. No fue la quietud de los dedos cerrándose en torno a la manta de sarga, sino la vieja quietud de antes: los párpados abiertos, la mirada inmóvil y clavada en el mismo sillar sin muesca del techo, y la respiración de vuelta a su enganche entrecortado, desigual y seco, como si el acorde de la noche anterior jamás hubiera cruzado el espacio de la galería.
+
+Anael se arrodilló junto a la camilla durante un largo momento sin alzar la Lira de Luz de su costado, sin intentar forzar la nota de nuevo antes de que el aliento del soldado estuviera listo para recibirla, dejando que la decepción del momento pesara en su propio pecho exactamente lo que tenía que pesar, sin disfrazar la ausencia de adorno heráldico o de tragedia.
+
+El herido no había empeorado; simplemente no se había quedado en la superficie de la sarga. Anael se obligó a sostener ambos hechos a la vez en su mente, negándose a la comodidad de la versión más fácil de cada uno: se negó a llamar sin sentido al cierre de la mano de la víspera porque no había durado hasta el amanecer, y se negó a calificar esta mañana como una derrota lo bastante grande como para obligarla a soltar la lista. Algunas chispas prendían en el lodo gris de la ceniza; la mayoría de ellas, lo estaba aprendiendo a un costo mineral, no lograba sostenerse más allá de un único amanecer, y ninguna cantidad de voluntad de su parte había cambiado todavía esa aritmética en un solo nombre de los que Barachiel le había entregado en el pergamino. Esa era la forma real del trabajo que el repliegue le había dejado entre las manos, despojada de cualquier amabilidad o decoración que el censo hubiera intentado envolver a su alrededor. Se incorporó de las losas con el tiempo, porque otros cuarenta catres esperaban todavía el paso de su ronda, y dejó al soldado con la manta levemente alterada en el borde donde su mano, alguna vez, brevemente, había recordado que era suya.
+
+Encontró a Ezihel de nuevo bien entrada la noche, en la misma alcoba de los ungüentos, con la campana Lumen descansando inerte en su regazo y las velas consumidas hasta el sebo rancio. Ezihel arrastraba un agotamiento en los hombros que Anael no necesitó preguntar para identificar: el luto de una ronda entera pasada observando rostros que no habían devuelto una sola señal de vida ante el bronce. Anael no le pidió el parte de su galería; se limitó a sentarse a su lado en la caja de madera, muy cerca de ella, dejando que la Lira descansara en silencio sobre las rodillas de ambas sin ofrecer palabras de más, comprendiendo que a su compañera ya se le habían dado demasiadas frases inútiles a lo largo del día.
+
+—No se vuelve más fácil, Ezihel —dijo Anael, en voz baja, y el tono no llevó la mofa de antes, sino la llanura de una verdad honesta.— No voy a decirte que sí. Pero vuelves mañana de todos modos. El trabajo es solo eso; no los resultados de la campana, solo la persistencia del bronce sobre la losa.
+
+Dejó que su hombro descansara contra el de Ezihel, un peso pequeño y sin palabras en mitad del santuario cerrado.
+
+—Yo también estaré aquí por la mañana —añadió Anael, contemplando la luz menguante de la vidriera.— Y tú también, si te conozco en algo.
+
+Ezihel dejó escapar un suspiro largo, inestable y tembloroso, el primer sonido de sarga que Anael le había oído producir sin estar sujeto por el rigor de su propia disciplina de capitana, y dejó que su frente se apoyara, brevemente, contra el hombro de Anael, compartiendo la herradura fría de su luto en mitad de la noche.
+
+---
+
+El amanecer encontró a Anael ya moviéndose por la primera fila de la galería este, la Lira de Luz cálida contra su palma tras una noche que le había dado exactamente un puño cerrado y un murmullo perdido para llevar hacia la siguiente, frente a otros cuarenta nombres que no le habían dado nada en absoluto. No sabía, al comenzar de nuevo la ronda, cuál de los soldados que tenía por delante respondería y cuál no. Había dejado de esperar saberlo de antemano semanas atrás, la misma semana en que había dejado de esperar que la lista se acortara.
+
+Se arrodilló junto al primer catre, escuchó el ritmo quebrado de la respiración de un desconocido, y esperó a que se estabilizara lo suficiente como para responder a la suya antes de dejar que la primera nota se alzara —pequeña, paciente, ofrecida sin ninguna promesa atada a ella, hacia unas manos todavía demasiado entumecidas, la mayoría de las mañanas, como para pedir nada en absoluto.

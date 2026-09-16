@@ -1,0 +1,39 @@
+# Chapter 33 — The Price of Absence
+
+Nocthel had gathered the forty recruits an hour before dawn in the amphitheater carved into the black rock, just beneath Foras's own halls. His intention was plain and small: a summoning performed before a sizeable audience would become, if staged with enough theater, the kind of story officers repeated for a century at court. He raised the horn Lur to his lips with both hands, holding the pause a beat longer than necessary so the stone's silence could swallow the first note before the second joined it. The recruits watched with that contained fixity of men who don't yet know whether to fear or applaud.
+
+What answered the metal instead was small, dull, and stripped of all ceremony. It came low along the ground, more insect than mystical entity, its many legs working against the dark granite in an erratic rhythm no summoning template had ever specified, making straight for the Herald's own boots with a hungry familiarity. Nocthel stepped back, his serge robe catching ridiculously on the horn's bell, and the line of forty soldiers broke into a coarse laugh no rank in Dis's court had authority to suppress.
+
+He recovered enough composure to banish the thing before it reached his ankle, and tried to salvage his pride by declaring to the empty hall that the exercise had been a training variable meant to test the recruits' discipline, but the ridicule was already on record. Foras's court found the version without the declaration considerably funnier, and told it for the better part of a week.
+
+From the upper walkway, Malthus watched the skirmish end with half an eye and didn't break stride. He had far larger political currents to audit than a minor Herald's wounded pride.
+
+---
+
+Malthus felt the shift in Hell's court within days of Belial's return with Lamentum at his hip, long before any messenger dared say the word weakness aloud. Foras still governed with the same oily serenity as ever, but the court's perception of his authority had shifted by a hair's breadth: a fraction less deference in the secretaries' bows, an unusual haste in the citadel's corridors. Malthus had served his lord through centuries of intrigue, and he knew that inattention at the rear was an open invitation to a rival's dagger.
+
+He summoned young Corvin to the ritual chamber that night, a low-vaulted cellar that smelled of cold ash and the acid rust of pacts the stone refused to forget. He traced the circle of Maleth without hurrying the chalk, laying out the chalk, sulfur, and ash in the exact pattern the rite demanded.
+
+"Ash doesn't go back to being wood," Malthus said, his voice carrying the dry cadence of a litany already spoken a thousand times in the dark, "and blood, once spilled, doesn't choose who it serves." "I'd rather owe you a handful of ash than burn whole with whoever comes after," Corvin answered, his pulse unsteady but his eyes fixed on the circle.
+
+Malthus nodded, drew the iron blade across his own palm, and let three dark drops fall at the ash's center. The sigils flared with a pale, purple light and held, sealing the pact into the stone before the chamber's air recovered its ordinary cold.
+
+Confirmation that the tide was turning came three days later, in a silence Malthus judged too loud to be an accident. A minor trade route through Foras's territory had gone mute — no messengers demanding explanations for delayed grain, no quartermaster's inquiries, only an abrupt absence of wagons on the road.
+
+Malthus traced the road the following day with a bookkeeper's thoroughness. A merchant at the border reported that a cold-mannered stranger had been asking careful questions about shipping schedules, and a boundary officer recalled a figure who'd spent hours measuring the frontier's flagstones without ever crossing them. In the mud of the ditch, near the stone marker, Malthus found a seal someone had carelessly discarded. At his touch, the arcane signature gave back the cold, mathematical, detached precision that marked every dispatch from Vepar's household.
+
+He held the fragment a long while, feeling the confirmation sting at his fingertips. Commander Vepar's own apparatus was probing his borders directly, hunting for gaps in Foras's armor while Foras weighed the loyalties of his own court. Malthus put the seal away in his metal case and decided not to tell his lord yet; Foras already carried enough weight, and Malthus preferred to bring him the intruder's report only once he had a clear target to bring his own iron down on.
+
+---
+
+Stolas found Commander Vepar standing at the black pool that occupied the heart of his domain, where the water stayed so still it seemed to have forgotten how to flow. The chamber's air hung stagnant, thick with the stale reek of old brine and a mineral cold that clung to the damp granite. A single dark thread of blood curled at the pool's center, carried there by mystical currents from some distant skirmish the shore stone no longer remembered.
+
+"Foras is weak," Vepar said, without turning, his voice arriving with the dull resonance of words spoken beneath a sea of silt, "and weakness is only another fluid, waiting to find its level. Go and learn exactly how far the tide has gone out." Stolas weighed the instruction with the slowness of a scribe pricing ink before the first letter. "Am I looking for anything specific," he asked, "or just whatever's floating?" Vepar's mouth curved into a pale, cold line, in no hurry to unmake itself. "Everything floats, eventually," he answered. "You only need to collect it before someone else does."
+
+He withdrew to his working chambers within the hour, Umbra Manus already open on the serge-covered table. Its pages, a black so dense they seemed to swallow the single candle's light without returning a single glint, felt rough and heavy under his calloused fingers. Deciphering Foras's archives wasn't light work; it cost Stolas three unbinding incantations and a matching slice of his own lifespan, a hollow, familiar weariness that settled into his bones like rust into the Bastion's iron.
+
+But the dig through the archive's mud paid off: he located Threll, a minor squad leader in Foras's household, whose two-decade-old grain pact had never been formally dissolved. Malthus had buried it under a false genealogy meant to make any careless reader believe the debt had lapsed, but the loose thread was still there, unattended in the silence of the shelves.
+
+Vepar received the sheaf with a translucent satisfaction reflected in the pool's water without his golden eyes needing to blink. "Keep pulling the thread," he ordered, and his soft hiss chilled the chamber. "Foras's tide has gone out further than he himself has reckoned, and I want to see the shore stripped bare before the water comes back."
+
+Stolas inclined his head, tucked the sheaf into his robe, and withdrew down the dark corridor, his mind already on the next grave in the ledger he intended to unearth.

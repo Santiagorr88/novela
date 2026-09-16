@@ -9,13 +9,14 @@
 
 
 <details>
-<summary>👑 <strong>Miguel – Supreme Commander of Heaven</strong></summary>
+<summary>👑 <strong>Miguel – General of Heaven</strong></summary>
 
 > “Order is light. Faith, its shield.”
 
 - **Height:** 2.25 m  
 - **Appearance:** Radiant golden armor with ancient cracks. Ash-white hair, eyes of bluish flame. Majestic wings vibrating with pure energy.  
 - **Weapon:** *Solmire* — Fragment of living light; part of the original sword of Ereloth.  
+- **Voz (audiolibro):** Grave y serena; autoridad que no necesita alzarse; cansancio noble en las pausas.  
 - **Personality:** Stoic, disciplined, devoted to duty. Believes faith and order are the shield against chaos.  
 - **Combat Style:** Direct and overwhelming. Leads from the front. His mere presence lifts the spiritual and moral strength of his troops.  
 
@@ -38,6 +39,7 @@
 - **Height:** 1.95 m  
 - **Divine Appearance:** Flowing robes of blue and silver, no armor. Sleek black hair, eyes like pure sapphire. His voice echoes even in silence.  
 - **Weapon:** *Vox Aeternum* — A staff that channels divine speech; seals souls, invokes pacts, or unleashes destructive hymns.  
+- **Voz (audiolibro):** Dulce, cálida, fraternal; la armonía se oye antes que la intención.  
 - **Personality:** Calm, reflective, a speaker of a thousand tongues. He never shouts. His tone alone can halt a war—or start one.  
 - **Combat Style:** Verbal sorcerer; casts sigils, seals, and sound manipulation to weaken armies from afar.  
 - **Human Form:** **Gabren Elion**, composer and professor of comparative theology.  
@@ -54,6 +56,7 @@
 - **Height:** 2.10 m  
 - **Divine Appearance:** Bare torso etched with living runes, bronzed skin, eyes like lightning trapped mid-burst.  
 - **Weapon:** *Ramiel* — A kinetic impact blade; every strike crashes like thunder.  
+- **Voz (audiolibro):** Seca, militar, sin adornos; frases cortas como golpes de martillo.  
 - **Personality:** Unquestionably loyal, plainspoken, and impatient with careful language that never turns into careful action. Was impulsive and aggressive in his younger years; centuries of frontier command have worn that into a contained, economical discipline — he still believes righteous violence is mercy delivered swiftly, but now applies that conviction with a soldier's patience rather than a brawler's. **Nota de consistencia (Libro II-III)**: en la prosa aprobada (B2C08, B3C11, y capítulos posteriores) Camael se muestra consistentemente contenido y profesional, nunca impulsivo en el sentido de perder el control — su franqueza y orientación al combate se mantienen, pero la vieja "agresividad impulsiva" queda como trasfondo histórico, no como rasgo activo.  
 - **Combat Style:** Disciplined and economical rather than reckless; when he commits to a strike it lands decisively, but he no longer wastes movement or advantage on display. Enemies rarely get a second chance.  
 - **Human Form:** **Cam Loren**, underground fighter in illegal dueling circuits.  
@@ -70,6 +73,7 @@
 - **Height:** 2.15 m  
 - **Divine Appearance:** Clear obsidian armor, silver eyes, judgment radiates from his gaze alone.  
 - **Weapon:** *Decretum* — A massive hammer that unleashes stored judgments with each strike.  
+- **Voz (audiolibro):** Precisa, académica, de gravedad tranquila; enuncia mediciones, no opiniones.  
 - **Personality:** Unbending, righteous, unshakable. Mercy is measured, not assumed.  
 - **Combat Style:** Calculated and overwhelming; each blow final, every decision irrevocable.  
 - **Human Form:** **Zad Lorien**, magistrate in a court that no longer exists.  
@@ -83,6 +87,7 @@
 
 - **Height:** 1.90 m  
 - **Weapon:** Spear *Penumbra* — Detects reincarnated souls on contact.  
+- **Voz (audiolibro):** Económica y seca, sin inflexión de sobra; apenas gasta palabras, cada una ya decidida de antemano.  
 - **Personality:** Silent, methodical, unfailing.  
 - **Combat Style:** Precise eliminations; speaks through action.  
 
@@ -93,6 +98,7 @@
 
 - **Height:** 1.85 m  
 - **Weapon:** *Spiral of Prophecy* — A floating ring of light showing possible futures.  
+- **Voz (audiolibro):** Baja y elíptica, cadencia de quien ve varios futuros a la vez y solo pronuncia uno.  
 - **Personality:** Cryptic, wise, speaks in layered truths.  
 - **Combat Style:** Rarely engages directly; manipulates the field through foresight.  
 
@@ -102,7 +108,8 @@
 > “Faith is a formation too.”
 
 - **Height:** 2.00 m  
-- **Weapon:** Short sword *Diké* — Strengthens morale and tactical precision.  
+- **Weapon:** Short sword *Iustitia* — Strengthens morale and tactical precision.  
+- **Voz (audiolibro):** Cálida y persuasiva, tono de quien calma a la tropa antes de darle una orden.  
 - **Personality:** Strategic, patient, diplomatic.  
 - **Combat Style:** Battlefield organizer and moral anchor; strikes where needed most.  
 
@@ -114,6 +121,7 @@
 
 - **Height:** 1.96 m  
 - **Weapon:** Staff *Memnón* — Invokes ancient memory.  
+- **Voz (audiolibro):** Rápida, tajante, intimidante; sin paciencia para rodeos.  
 - **Personality:** Scholarly, deliberate, obsessed with preservation.  
 - **Combat Style:** Supportive; recalls spells, histories, and tactics from the void.  
 
@@ -124,6 +132,7 @@
 
 - **Height:** 1.92 m  
 - **Weapon:** *Lyre of Light* — Amplifies emotions, especially courage and joy.  
+- **Voz (audiolibro):** Suave pero firme, nunca sube el volumen para convencer; la ternura como forma de autoridad.  
 - **Personality:** Empathic, warm, galvanizing.  
 - **Combat Style:** Fills allies with purpose, disorients enemies through resonance.  
 
@@ -134,6 +143,7 @@
 
 - **Height:** 1.88 m  
 - **Weapon:** Living scrolls — Contain divine languages and battle commands.  
+- **Voz (audiolibro):** Melodiosa y fluida, entrenada para llenar salas enteras — con un fondo de cansancio cuando nadie se lo exige.  
 - **Personality:** Eloquent, persuasive, immensely social.  
 - **Combat Style:** Controls flow of battle via relayed orders and blessings.  
 
@@ -184,57 +194,10 @@
 
 - **Appearance:** Radiates warmth like sunrise; gentle face, soft golden glow around hands.  
 - **Weapon:** *Lumen* — A bell that restores the will of fallen comrades, echoing hope.  
+- **Voz (audiolibro):** Nivelada y controlada, un dominio de sí que le cuesta sostener bajo el peso del desgaste diario.  
 - **Personality:** Compassionate, inwardly strong, steady under pressure.  
 
 ---
-
-#### Leaders under **Anael** (Captain) → **Zadkiel** (Commander):
-
----
-
-### ✨ Lurea — *Squad Leader / Hope Inspiration*  
-> “Hope glows louder when the sky dims.”
-
-- **Appearance:** Crystalline body that reflects beautiful memories; eyes shimmer like morning dew.  
-- **Weapon:** *Aura* — A vial that releases radiant energy, flooding allies with uplifting emotions.  
-- **Personality:** Dreamy, empathetic, uplifts others with few words.  
-
----
-
-### 🎶 Silith — *Squad Leader / Battle Singer*  
-> “Every fight deserves a melody.”
-
-- **Appearance:** Skin glowing faintly, hair flowing like music; voice resonates through armor.  
-- **Weapon:** *Cantio* — A harp that weaves battlefield hymns into combat movements.  
-- **Personality:** Passionate, loyal, theatrical at times.  
-
----
-
-### 🔥 Camor — *Squad Leader / Raw Emotion Channel*  
-> “You’ll feel it when I strike. I promise.”
-
-- **Appearance:** Face marked by constantly shifting expressions; aura vibrates with intensity.  
-- **Weapon:** *Sincero* — A mask that projects Camor's own feelings into others with raw force.  
-- **Personality:** Volatile, brutally honest, emotionally intense.  
-
----
-
-### 🔏 Tana — *Squad Leader / Divine Inspiration Guard*  
-> “The word of creation is never unguarded.”
-
-- **Appearance:** Wrapped in floating glyphs of light shaped like script; moves like a whispered prayer.  
-- **Weapon:** *Verbum* — A stylus that carves divine prophecy midair, inspiring allies and revealing threats.  
-- **Personality:** Enigmatic, serene, guardian of sacred truths.  
-
----
-
-### 🔔 Ezihel — *Squad Leader / Spirit Reanimator*  
-> “Even broken light finds its dawn.”
-
-- **Appearance:** Radiates warmth like sunrise; gentle face, soft golden glow around hands.  
-- **Weapon:** *Lumen* — A bell that restores the will of fallen comrades, echoing hope.  
-- **Personality:** Compassionate, inwardly strong, steady under pressure.  
-
 
 #### Leaders under **Remiel** (Captain) → **Camael** (Commander):
 
@@ -293,7 +256,8 @@
 > “Purpose turns fear into fire.”
 
 - **Appearance:** Banner flowing from back; glowing sigils across torso.  
-- **Weapon:** *Coragio* — A gauntlet that spreads motivation with each strike.  
+- **Weapon:** *Audacia* — A gauntlet that spreads motivation with each strike.  
+- **Voz (audiolibro):** Firme y sostenida, la que mantiene una línea en pie solo con su cadencia, incluso cuando ya no queda nadie que la escuche.  
 - **Personality:** Encouraging, bold, unshakable under pressure.  
 
 ---
@@ -341,6 +305,7 @@
 
 - **Appearance:** Cloak made of parchment fragments; ink flows in his veins.  
 - **Weapon:** *Scriptura* — A quill-spear that records and seals a foe’s misdeeds upon striking.  
+- **Voz (audiolibro):** Pausada y notarial; pesa cada palabra como quien archiva un veredicto, no una opinión.  
 - **Personality:** Patient, observant, bound to celestial law.  
 
 ---
@@ -350,6 +315,7 @@
 
 - **Appearance:** Robes woven with glowing names; voice changes with invocations.  
 - **Weapon:** *Nomion* — A scroll that releases sacred names as spells.  
+- **Voz (audiolibro):** Baja y reverente, cada nombre pronunciado como si pudiera romperse al decirlo mal.  
 - **Personality:** Mysterious, reverent, speaks only when it matters.  
 
 ---
@@ -381,55 +347,6 @@
 
 ---
 
-#### Leaders under **Anael** (Captain) → **Zadkiel** (Commander):
-
----
-
-### ✨ Lurea — *Squad Leader / Hope Inspiration*  
-> “Hope glows louder when the sky dims.”
-
-- **Appearance:** Crystalline body that reflects beautiful memories; eyes shimmer like morning dew.  
-- **Weapon:** *Aura* — A vial that releases radiant energy, flooding allies with uplifting emotions.  
-- **Personality:** Dreamy, empathetic, uplifts others with few words.  
-
----
-
-### 🎶 Silith — *Squad Leader / Battle Singer*  
-> “Every fight deserves a melody.”
-
-- **Appearance:** Skin glowing faintly, hair flowing like music; voice resonates through armor.  
-- **Weapon:** *Cantio* — A harp that weaves battlefield hymns into combat movements.  
-- **Personality:** Passionate, loyal, theatrical at times.  
-
----
-
-### 🔥 Camor — *Squad Leader / Raw Emotion Channel*  
-> “You’ll feel it when I strike. I promise.”
-
-- **Appearance:** Face marked by constantly shifting expressions; aura vibrates with intensity.  
-- **Weapon:** *Sincero* — A mask that projects Camor's own feelings into others with raw force.  
-- **Personality:** Volatile, brutally honest, emotionally intense.  
-
----
-
-### 🔏 Tana — *Squad Leader / Divine Inspiration Guard*  
-> “The word of creation is never unguarded.”
-
-- **Appearance:** Wrapped in floating glyphs of light shaped like script; moves like a whispered prayer.  
-- **Weapon:** *Verbum* — A stylus that carves divine prophecy midair, inspiring allies and revealing threats.  
-- **Personality:** Enigmatic, serene, guardian of sacred truths.  
-
----
-
-### 🔔 Ezihel — *Squad Leader / Spirit Reanimator*  
-> “Even broken light finds its dawn.”
-
-- **Appearance:** Radiates warmth like sunrise; gentle face, soft golden glow around hands.  
-- **Weapon:** *Lumen* — A bell that restores the will of fallen comrades, echoing hope.  
-- **Personality:** Compassionate, inwardly strong, steady under pressure.  
-
----
-
 #### Leaders under **Barachiel** (Captain) → **Zadkiel** (Commander):
 
 ---
@@ -457,6 +374,7 @@
 
 - **Appearance:** Interlocking armor with glowing nodes where team energies converge.  
 - **Weapon:** *Chordis* — A gauntlet that links the lifeforce of allies into shared rhythms.  
+- **Voz (audiolibro):** Breve y resonante, como un acorde que no necesita repetirse para que todos lo sientan.  
 - **Personality:** Harmonizing, intuitive, calm under pressure.  
 
 ---
@@ -489,6 +407,7 @@
 - **Height:** 2.00 m  
 - **Divine Appearance:** White tunic embroidered with green, glowing armbands. Emerald eyes that reflect lost memories.  
 - **Weapon:** *Veritas* — A healing and shielding staff. Can restore bodies… or imprison souls.  
+- **Voz (audiolibro):** Baja, paciente, clínica; la calma que diagnostica y serena a los heridos.  
 - **Personality:** Serene, protective, deeply compassionate. Believes every soul can be redeemed—but never blindly.  
 - **Combat Style:** Defensive strategist. Shields vital zones, revives the fallen, nullifies magical threats.  
 - **Human Form:** **Rapha Elion**, trauma surgeon with a mysterious past.  
@@ -505,6 +424,7 @@
 - **Height:** 2.05 m  
 - **Divine Appearance:** Emerald heavy armor; shield fused into his left arm.  
 - **Weapon:** *Muriel* — A shield that creates moving protection fields.  
+- **Voz (audiolibro):** Profunda y protectora, un muro hecho de sonido antes que de armadura.  
 - **Personality:** Paternal, stern, naturally protective.  
 - **Combat Style:** Wall-like presence. Specializes in frontline defense and area control.  
 
@@ -517,6 +437,7 @@
 - **Height:** 2.10 m  
 - **Divine Appearance:** Veiled face; voice manifests in sacred light.  
 - **Weapon:** *Lux Sancta* — Psalms turned into blessings… or curses.  
+- **Voz (audiolibro):** No vocal: se comunica en pulsos de luz tras el velo, fríos y parejos o cálidos según el mensaje — un lenguaje de resplandor que sus capitanes aprenden a leer como quien aprende a leer un silencio.  
 - **Personality:** Silent, devout, mysterious.  
 - **Combat Style:** Supportive caster; creates fields of divine influence through song.  
 
@@ -529,6 +450,7 @@
 
 - **Height:** 1.90 m  
 - **Weapon:** *Silens* — A staff that locates wounded or lost souls.  
+- **Voz (audiolibro):** Seca y directa; quiebra silencios largos con frases cortas que no dejan espacio a la evasión.  
 - **Personality:** Meditative, quiet, deeply observant.  
 - **Combat Style:** Ethereal mobility, soul detection, battlefield support.  
 
@@ -539,6 +461,7 @@
 
 - **Height:** 1.85 m  
 - **Weapon:** *Tenura* — Gloves that empower and shield chosen ones.  
+- **Voz (audiolibro):** Cálida y firme, un tono maternal que jamás suena débil ni pide permiso para consolar.  
 - **Personality:** Maternal, gentle, fiercely determined.  
 - **Combat Style:** Boosts chosen vessels; creates synergy between wielder and relic.  
 
@@ -548,7 +471,8 @@
 > “Only those who forget honor can be wounded by me.”
 
 - **Height:** 1.95 m  
-- **Weapon:** *Anamnesis* — A blade that only harms those who betrayed their path.  
+- **Weapon:** *Memoria* — A blade that only harms those who betrayed their path.  
+- **Voz (audiolibro):** Formal y ceremoniosa, cada frase construida como un juramento que ya ha jurado antes.  
 - **Personality:** Rigid, disciplined, steeped in tradition.  
 - **Combat Style:** Duelist of precision; a living museum of martial mastery.  
 
@@ -561,6 +485,7 @@
 
 - **Height:** 1.88 m  
 - **Weapon:** *Equitas* — A staff that weighs guilt in battle.  
+- **Voz (audiolibro):** Pareja y ecuánime: ni orden disfrazada de sugerencia, ni reproche disfrazado de paciencia.  
 - **Personality:** Fair, calm, harsh only when needed.  
 - **Combat Style:** Impartial arbiter; strikes where guilt is heaviest.  
 
@@ -571,6 +496,7 @@
 
 - **Height:** 1.90 m  
 - **Weapon:** *Mentis* — A ray that unveils hidden truths.  
+- **Voz (audiolibro):** Lenta y baja, cada pausa tan deliberada como la propia frase que la sigue.  
 - **Personality:** Philosophical, slow-speaking, immovable in thought.  
 - **Combat Style:** Exposes illusions; breaks deception with radiant clarity.  
 
@@ -581,6 +507,7 @@
 
 - **Height:** 1.93 m  
 - **Weapon:** *Umbría* — A dagger that cuts between realities.  
+- **Voz (audiolibro):** Apenas un murmullo tenso, entrenada para pasar desapercibida incluso al hablar.  
 - **Personality:** Vigilant, secretive, tireless.  
 - **Combat Style:** Manipulates spatial rifts; guards interplanar access points.  
 
@@ -620,6 +547,7 @@
 
 - **Appearance:** Mist-wrought armor, unblinking eyes that pierce shadow.  
 - **Weapon:** *Alther* — A blade that severs soul-parasite connections.  
+- **Voz (audiolibro):** Plana y cortante, sin adorno ni concesión; cada orden repetible palabra por palabra.  
 - **Personality:** Stern, vigilant, incorruptible.  
 
 ---
@@ -652,6 +580,7 @@
 
 - **Appearance:** Braided hair woven from light; hands tattooed with union glyphs.  
 - **Weapon:** *Nexus Lumen* — Gloves that strengthen bonds between bearer and relic.  
+- **Voz (audiolibro):** Pausada y sincera, mide cada frase antes de soltarla y nunca ofrece consuelo fácil.  
 - **Personality:** Wise, empathetic, speaks rarely but meaningfully.  
 
 ---
@@ -850,6 +779,7 @@
 
 - **Appearance:** Segmented armor with arcane inscriptions.  
 - **Weapon:** *Umbral* — A key that seals or opens gates between realms.  
+- **Voz (audiolibro):** Cortante y binaria, sin matices —pasa o no pasa, y así suena siempre.  
 - **Personality:** Methodical, binary, sees only thresholds.  
 
 ---
@@ -881,6 +811,7 @@
 - **Height:** 2.10 m  
 - **Divine Appearance:** Incandescent armor, blazing wings, eyes like burning coals; an ornate skull hangs from his belt.  
 - **Weapon:** *Ignis Lux* — Halberd of eternal flame that unleashes divine fire to consume all impurity.  
+- **Voz (audiolibro):** Ardiente e impaciente; estallidos controlados, como brasas que chisporrotean.  
 - **Personality:** Impulsive, brave, forthright; struggles with obedience yet never betrays.  
 - **Combat Style:** Total assault—wide swaths of purifying fire that devastate enemy lines.  
 
@@ -893,6 +824,7 @@
 - **Height:** 2.00 m  
 - **Divine Appearance:** Fiery robe inscribed with hidden symbols; eyes ablaze with perilous wisdom.  
 - **Weapon:** *Ignotus* — Tome whose every verse summons primeval fire.  
+- **Voz (audiolibro):** Rica y envolvente, la de un erudito que disfruta razonar en voz alta, con calor contenido bajo la reprimenda.  
 - **Personality:** Cryptic, sagacious, obsessed with the arcane.  
 - **Combat Style:** Incants eldritch blazes, scripting battlefields with scorching runes.  
 
@@ -905,6 +837,7 @@
 - **Height:** 2.05 m  
 - **Divine Appearance:** Muscular frame in ash‑and‑ember armor; eyes burn like braziers.  
 - **Weapon:** *Ruinor* — Hammer whose every strike causes an infernal implosion.  
+- **Voz (audiolibro):** Grave y marcial, cada palabra un golpe de martillo tan literal como su arma.  
 - **Personality:** Brutal, direct, fanatically loyal.  
 - **Combat Style:** Meteoric charges followed by hammer‑quakes that shatter formations.  
 
@@ -917,6 +850,7 @@
 
 - **Height:** 1.92 m  
 - **Weapon:** *Helios* — Gauntlets launching incandescent detonations.  
+- **Voz (audiolibro):** Rápida y ardiente, se acelera sola cuando algo la entusiasma o la enfurece.  
 - **Personality:** Volatile, energetic, impatient.  
 - **Combat Style:** Hurls rapid sunbursts to scatter and immolate foes.  
 
@@ -927,6 +861,7 @@
 
 - **Height:** 1.88 m  
 - **Weapon:** *Caelum* — Sword that cleaves nothing but corruption itself.  
+- **Voz (audiolibro):** Apacible e inquebrantable; nunca se alza, y precisamente por eso pesa más que un grito.  
 - **Personality:** Pious, gentle, iron‑willed.  
 - **Combat Style:** Precise strikes that cleanse impurities without collateral harm.  
 
@@ -937,6 +872,7 @@
 
 - **Height:** 1.95 m  
 - **Weapon:** *Claris* — Lance that blinds and pierces in a single thrust.  
+- **Voz (audiolibro):** Fría y sentenciosa, sin acusación ni calor —solo la certeza de un veredicto ya emitido.  
 - **Personality:** Proud, resolute, merciless executor.  
 - **Combat Style:** Blinding charges that spear through enemy heartlands.  
 
@@ -949,6 +885,7 @@
 
 - **Height:** 1.89 m  
 - **Weapon:** *Sombrafuego* — Daggers that sever thoughts and secrets.  
+- **Voz (audiolibro):** Llana y cuidadosamente neutra, entrenada para no revelar jamás de más.  
 - **Personality:** Cunning, relentless, meticulous.  
 - **Combat Style:** Gathers secrets mid‑battle, turning knowledge into lethal ambushes.  
 
@@ -959,6 +896,7 @@
 
 - **Height:** 1.90 m  
 - **Weapon:** *Fulmen* — Lance that summons judgmental lightning.  
+- **Voz (audiolibro):** Crepitante e impredecible, sube de intensidad como una carga que se descontrola sola.  
 - **Personality:** Unstable, just, explosive.  
 - **Combat Style:** Storm‑ridden skirmisher unleashing punitive bolts.  
 
@@ -969,6 +907,7 @@
 
 - **Height:** 1.93 m  
 - **Weapon:** *Ascua* — Sword that scorches the enemy’s will.  
+- **Voz (audiolibro):** Rápida y directa, sonrisa audible incluso cuando reprende o discute una orden.  
 - **Personality:** Bold, provocative, feral strategist.  
 - **Combat Style:** Shock tactics and inverted‑flame dives that rupture enemy ranks.  
 
@@ -1302,8 +1241,10 @@
 - **Height:** 2.20 m  
 - **Appearance:** Celestial beauty turned corrupt—silvery‑white hair, wine‑red eyes, flawless pale skin, wings black as the void.  
 - **Weapon:** None fixed — gestures, words and occult sigils make the very world obey.  
+- **Voz (audiolibro):** Sedosa y sin prisa, cada palabra saboreada; bajo la elegancia, un fondo tenebroso que jamás amenaza en voz alta.  
 - **Personality:** Charismatic, elegant, ruthlessly manipulative; preaches absolute freedom.  
 - **Combat Style:** Never strikes head‑on; corrupts, divides and deceives, often posing as an ally until the truth comes too late.  
+- **The documented exception:** Lucifer does not fight — this is a fixed point of his character, not an unwritten habit. When he takes the field himself, once in an age, both armies read it as a declaration: whatever is about to happen matters more than his usual distance can afford. He carried Lamentum, briefly, to duel and kill Miguel in Book I's climax (B1C47–48) — Belial's spear, taken from Belial's own hand the night before the battle — and ceded it back to Belial immediately afterward. He did not keep it, and did not linger on the field once the duel ended. It remains the only recorded instance of Lucifer fighting a war in person.
 
 ---
 
@@ -1315,6 +1256,7 @@
 - **Height:** 2.30 m  
 - **Appearance:** Titanic reptilian body clad in midnight‑black scales; eternal fangs, sightless eyes.  
 - **Weapon:** *Vorax* — Jaws that shred matter and soul, aided by venom‑tipped claws.  
+- **Voz (audiolibro):** Gutural y primigenia, apenas articula palabras: un rugido bajo que se resuelve en lenguaje solo cuando decide que vale el esfuerzo.  
 - **Personality:** Instinctive, violent, primitive; loathes all restraint.  
 - **Combat Style:** Pure brutality: smashes walls, consumes ranks wholesale—the embodiment of mindless force.  
 
@@ -1329,6 +1271,7 @@
 - **Height:** 2.15 m  
 - **Appearance:** Obsidian skin veined with red; curved horns, bone armor.  
 - **Weapon:** *Skarth* — Serrated sword that bites and tears.  
+- **Voz (audiolibro):** Fría y marcial, sin un ápice de calor ni siquiera al dar la orden de matar.  
 - **Personality:** Disciplined, wrathful, yet ice‑cold in battle.  
 - **Combat Style:** Tactical overlord—coordinates brutal charges while leading from the front.  
 
@@ -1341,6 +1284,7 @@
 - **Height:** 2.00 m  
 - **Appearance:** Graceful feminine form of pearly‑gray skin; hair billows like smoke; a voice that caresses the mind.  
 - **Weapon:** *Neriah* — Veil of illusion that weaves false realities and weaponizes emotion.  
+- **Voz (audiolibro):** Sedosa y envolvente, cada sílaba calculada para acariciar antes de atrapar.  
 - **Personality:** Enchanting, ambiguous, impossibly persuasive.  
 - **Combat Style:** Conjures irresistible fantasies, turning foes into willing traitors.  
 
@@ -1355,6 +1299,7 @@
 
 - **Height:** 2.00 m  
 - **Weapon:** Twin magma maces.  
+- **Voz (audiolibro):** Ronca y despreocupada; se ríe con la misma facilidad con la que rompe algo.  
 - **Personality:** Animalistic, brutish, laughs while killing.  
 - **Combat Style:** Four‑armed juggernaut; pulverizes anything that stands.  
 
@@ -1365,6 +1310,7 @@
 
 - **Height:** 1.85 m  
 - **Weapon:** Shadow‑forged curved daggers.  
+- **Voz (audiolibro):** Apenas un susurro que se disuelve antes de terminar la frase — habla lo justo para no dejar rastro.  
 - **Personality:** Treacherous, swift, never shows his face.  
 - **Combat Style:** Strikes, poisons and vanishes before alarms can sound.  
 
@@ -1387,6 +1333,7 @@
 
 - **Height:** 1.90 m  
 - **Weapon:** *Degeneris* — Paintbrush turning art into corruptive weaponry.  
+- **Voz (audiolibro):** Teatral y ondulante, cada frase interpretada como si el mundo entero fuera su público.  
 - **Personality:** Dramatic, eccentric, flamboyantly theatrical.  
 - **Combat Style:** Warps reality with living masterpieces that maim and enthrall.  
 
@@ -1397,6 +1344,7 @@
 
 - **Height:** 1.85 m  
 - **Weapon:** *Mors* — Bow whose arrows carry myriad toxins.  
+- **Voz (audiolibro):** Plana y precisa; el sarcasmo servido sin levantar jamás el tono.  
 - **Personality:** Sarcastic, taunting, lethally precise.  
 - **Combat Style:** Shoots unseen from shadow, each arrow laced with a unique death.  
 
@@ -1407,6 +1355,7 @@
 
 - **Height:** 1.98 m  
 - **Weapon:** *Veritas Inversa* — Quill signing soul‑binding double‑speak contracts.  
+- **Voz (audiolibro):** Seca y burocrática, cada palabra redactada como una cláusula que ya sabe que vas a firmar.  
 - **Personality:** Calculating, manipulative, addicted to subtle control.  
 - **Combat Style:** Words as snares—his treaties cut deeper than swords.  
 
@@ -1625,6 +1574,7 @@
 
 - **Appearance:** Active camouflage; folding wings.  
 - **Weapon:** *Specter* — Short bow for unseen shots.  
+- **Voz (audiolibro):** Casi inaudible, económica hasta el extremo — habla lo mínimo indispensable, siempre al filo de la pregunta.  
 - **Personality:** Silent, patient, kills on first mistake.  
 
 ---
@@ -1633,7 +1583,8 @@
 > “Feel this.”
 
 - **Appearance:** Body tattooed with raw emotions.  
-- **Weapon:** *Empath* — Arrows that induce love, hate or despair.  
+- **Weapon:** *Affectus* — Arrows that induce love, hate or despair.  
+- **Voz (audiolibro):** Cambiante y teatral, salta de registro sin aviso, siguiendo el humor que quiere provocar en el otro.  
 - **Personality:** Dramatic, unpredictable, mood‑driven.  
 
 ---
@@ -1705,6 +1656,7 @@
 - **Height:** Variable (1.60 m – 2.10 m)  
 - **Appearance:** Ever‑shifting—sometimes androgynous, sometimes masculine or feminine—always beautiful, always unsettling.  
 - **Weapon:** *Nexus* — Chains of pleasure and pain that forge mental and emotional bonds with the victim.  
+- **Voz (audiolibro):** Gutural, húmeda, inquietante; saborea las palabras como carne; tenebrosa incluso cuando ofrece.  
 - **Personality:** Seductive, elegant, cruel.  
 - **Combat Style:** Psychic and emotional; disarms from within, mastering desires before crushing bodies.  
 
@@ -1717,6 +1669,7 @@
 - **Height:** 2.15 m  
 - **Appearance:** Three rotating furious faces; body laced with scars that flash with anger.  
 - **Weapon:** *Furor* — A sword that feeds on rage and grows faster with every blow it receives.  
+- **Voz (audiolibro):** Seca y cortante, tres rostros y una sola economía de palabras; nunca gasta aliento en preámbulos.  
 - **Personality:** Enraged, intense, forever testing limits.  
 - **Combat Style:** Relentless shock assaults amplified by storm‑charged momentum.  
 
@@ -1727,6 +1680,7 @@
 - **Height:** 1.98 m  
 - **Appearance:** Ever‑smiling; bifid tongue and layered lips; voice overlaps in contradictory tones.  
 - **Weapon:** *Logomante* — Tongue that turns spoken words into irresistible commands.  
+- **Voz (audiolibro):** Bífida — dos tonos superpuestos que nunca terminan de coincidir entre sí—, sedosa y jamás alzada; cada frase construida como una trampa retórica.  
 - **Personality:** Mocking, persuasive, theatrical.  
 - **Combat Style:** Weaves linguistic snares that compel obedience before striking physically.  
 
@@ -1739,6 +1693,7 @@
 
 - **Height:** 1.90 m  
 - **Weapon:** *Dolorim* — Needle that pierces memories and reshapes them into trauma.  
+- **Voz (audiolibro):** Susurrante y calma, un tono casi tierno que vuelve más inquietante lo que dice.  
 - **Personality:** Calm, sadistic, delights in silent suffering.  
 - **Combat Style:** Psychological flaying followed by precise lethal blows.  
 
@@ -1747,6 +1702,7 @@
 
 - **Height:** 1.85 m  
 - **Weapon:** *Reversus* — Ring that swaps the destinies of two souls.  
+- **Voz (audiolibro):** Ligera y desapegada, casi ociosa, como si cada revelación le costara menos que respirar.  
 - **Personality:** Ambiguous, enigmatic, always knows more than he reveals.  
 - **Combat Style:** Alters outcomes mid‑battle, turning foe’s triumphs into ruin.  
 
@@ -1755,6 +1711,7 @@
 
 - **Height:** 2.00 m  
 - **Weapon:** *Fortex* — Mace that summons fortresses or traps.  
+- **Voz (audiolibro):** Afilada y sin disculpas; deja el filo a la vista porque fingir lo contrario le parece un desperdicio.  
 - **Personality:** Calculating, pain‑engineer, adores impossible structures.  
 - **Combat Style:** Conjures shifting terrain to isolate and crush opponents.  
 
@@ -1766,7 +1723,8 @@
 > “Let every feeling burn.”
 
 - **Height:** 1.90 m  
-- **Weapon:** *Aflame* — Whip that scorches emotions before flesh.  
+- **Weapon:** *Flagrum* — Whip that scorches emotions before flesh.  
+- **Voz (audiolibro):** Ardiente y cortante, la paciencia se le acaba a media frase y se nota en el tono.  
 - **Personality:** Furious, impatient, seeks to ignite all.  
 - **Combat Style:** Conflagrations that consume morale and matter alike.  
 
@@ -1775,6 +1733,7 @@
 
 - **Height:** 1.85 m  
 - **Weapon:** *Deseum* — Chain that ensnares reincarnations and binds their loyalty.  
+- **Voz (audiolibro):** Suave y persuasiva, cadencia de quien nunca tiene prisa porque ya sabe cómo termina la conversación.  
 - **Personality:** Charming, manipulative, addicted to conquest.  
 - **Combat Style:** Enchants targets, turning their past lives into present weapons.  
 
@@ -1783,6 +1742,7 @@
 
 - **Height:** 1.92 m  
 - **Weapon:** *Laberynthus* — Cube implanting impossible ideas in the mind.  
+- **Voz (audiolibro):** Suave y clínica, formula cada pregunta como quien ya conoce la respuesta y solo quiere verte llegar a ella.  
 - **Personality:** Philosophical, cruel, demolisher of convictions.  
 - **Combat Style:** Seeds cognitive paradoxes that shatter focus before the killing strike.  
 
@@ -1894,6 +1854,7 @@
 
 - **Appearance:** Skin changes to match the floor beneath.  
 - **Weapon:** *Tiltas* — Staff tilting physical planes to cause collapses.  
+- **Voz (audiolibro):** Burlona e inestable, pasa de la broma a la amenaza en la misma respiración.  
 - **Personality:** Volatile, humor swings wildly, loves visual entropy.  
 
 ### 📐 Sarph — *Squad Leader / Abyssal Reconstructor*  
@@ -1951,6 +1912,7 @@
 
 - **Appearance:** Constantly shifting perfect visage.  
 - **Weapon:** *Volarien* — Mask reflecting the beholder’s hidden desire.  
+- **Voz (audiolibro):** Relajada y camaleónica, cambia de textura como cambia de rostro, nunca del todo la misma dos veces.  
 - **Personality:** Charismatic, intriguing, never tells the full truth.  
 
 ### 💔 Elshael — *Squad Leader / Eternal Heart‑breaker*  
@@ -2031,9 +1993,11 @@
 
 - **Height:** 2.40 m  
 - **Appearance:** Living black armor, glowing tattoos, arrogant golden eyes.  
-- **Weapon:** *Ruach* — Mace that strikes the soul; each impact does more than physical harm: it injects doubt.  
+- **Weapon:** *Dubium* — Mace that strikes the soul; each impact does more than physical harm: it injects doubt.  
+- **Voz (audiolibro):** Gélida y arrogante, resonancia baja y tenebrosa; el desprecio como música de fondo.  
 - **Personality:** Narcissistic, cruel strategist; convinced power is the sole real tongue.  
 - **Combat Style:** Warlord. Commands from the front and feeds on his enemies’ ego.  
+- **Lamentum:** Found and claimed the spear at the Weeping Sepulcher, and was the one who mastered her grief through weeks of costly training (B1C21–42). Handed her to Lucifer on the eve of Book I's climax — obedience and ambition offered in the same gesture — so that his king, not he, fought and killed Miguel with her. Lucifer returned Lamentum to him immediately after, a reward for the finding and the mastering that Belial never earned back through combat. He carries her again from that point on, including into Books II and III.
 
 ---
 
@@ -2045,6 +2009,7 @@
 - **Height:** 2.10 m  
 - **Appearance:** Tar‑dark cracked skin; multiple unblinking golden eyes; cloak of purple mist.  
 - **Weapon:** *Noesis* — Spine inserted into foes to drain their faith and replace it with arrogance.  
+- **Voz (audiolibro):** Sibilante, afilada, tenebrosa; una amenaza contenida que nunca necesita gritar.  
 - **Personality:** Philosopher of supremacy—serene yet utterly convinced of his superiority.  
 - **Combat Style:** Infects belief, spreading corrosive hubris through enemy ranks.  
 
@@ -2053,7 +2018,8 @@
 
 - **Height:** 2.08 m  
 - **Appearance:** Body translucent like briny water; long hair floating even on land.  
-- **Weapon:** *Marea* — Trident that controls vital and environmental fluids.  
+- **Weapon:** *Aestus* — Trident that controls vital and environmental fluids.  
+- **Voz (audiolibro):** Plana, fría, oscura; el análisis de una marea que no siente nada.  
 - **Personality:** Cold, distant, calculating; voice echoes like the deep sea.  
 - **Combat Style:** Drowns battlefields in shifting currents of blood and brine.  
 
@@ -2066,6 +2032,7 @@
 
 - **Height:** 1.95 m  
 - **Weapon:** *Maleth* — Circle that summons pacts through blood and ash.  
+- **Voz (audiolibro):** Solemne y ritual; incluso una amenaza le sale con cadencia de letanía.  
 - **Personality:** Mystical, obsessed with ritual power; speaks in parables.  
 - **Combat Style:** Rapid sigil casting that reshapes the battlefield.  
 
@@ -2074,6 +2041,7 @@
 
 - **Height:** 1.85 m  
 - **Weapon:** *Tekrion* — Implants where each upgrade is a curse of domination.  
+- **Voz (audiolibro):** Seca y clínica, el humor le sale como un diagnóstico más, sin calidez que lo suavice.  
 - **Personality:** Amoral scientist—mocking, ironic—believes perfection is mechanical.  
 - **Combat Style:** Augments allies and overrides foes with biomechanical hexes.  
 
@@ -2082,6 +2050,7 @@
 
 - **Height:** 1.98 m  
 - **Weapon:** *Lethae* — Mirror that traps dreams and turns them into apocalyptic visions.  
+- **Voz (audiolibro):** Baja y uniforme, informa del horror con la misma calma con que otro comentaría el clima.  
 - **Personality:** Poetic, disturbing; speaks as if he knows every finale.  
 - **Combat Style:** Assaults minds in sleep and waking with cascading terrors.  
 
@@ -2094,6 +2063,7 @@
 
 - **Height:** 1.90 m  
 - **Weapon:** *Umbra Manus* — Grimoire of forbidden spells that consume life‑time.  
+- **Voz (audiolibro):** Lenta y desdeñosa, saborea la pausa antes de soltar la observación que más duele.  
 - **Personality:** Sarcastic, erudite, scorns ignorance.  
 - **Combat Style:** Precise maledictions that erode time and will.  
 
@@ -2102,6 +2072,7 @@
 
 - **Height:** 1.93 m  
 - **Weapon:** *Oblivion* — Key that opens dimensional prisons and blocks abilities.  
+- **Voz (audiolibro):** Contenida y sin fisuras, entrenada para no delatar ni paranoia ni alivio aunque los sienta.  
 - **Personality:** Precise, meticulous, paranoid—trusts not even Lucifer.  
 - **Combat Style:** Controls access—sealing powers and releasing banished horrors.  
 
@@ -2110,6 +2081,7 @@
 
 - **Height:** 2.05 m  
 - **Weapon:** *Ferox* — Flute that dominates and transforms animals or demonic beasts.  
+- **Voz (audiolibro):** Gutural y escasa; prefiere tres notas de su flauta a una frase — cuando habla, es tan directo como un latido.  
 - **Personality:** Instinctive, savage, unpredictable.  
 - **Combat Style:** Unleashes evolving packs to overwhelm structure and morale.  
 
@@ -2345,4 +2317,55 @@
 
 - **Appearance:** Ever surrounded by ethereal insects.  
 - **Weapon:** *Enkar* — Staff summoning plagues that obey complex orders.  
-- **Personality:** Cold, mathematical, communes with beasts better than demons.  
+- **Personality:** Cold, mathematical, communes with beasts better than demons.
+
+---
+
+## 🕊️ Personajes secundarios mortales / de escena única
+
+> Fichas mínimas añadidas 2026-09-01 para cerrar huérfanos de ficha detectados durante la calibración del Libro III (con diálogo o peso de escena real, pero sin entrada previa). Verificadas frase por frase contra la prosa real (`codex exec --sandbox read-only`) — ninguno tiene arma nombrada en el texto; no inventar ninguna.
+
+### 🕯️ Selke — *Rumor broker, "El Resaca"*
+> "I don't buy things men haven't decided about."
+
+- **Voz (audiolibro):** Seca, pragmática y vigilante; audita a cada recién llegado de reojo sin interrumpir su propia contabilidad.
+- **Appearance:** No physical description given in the text — only her manner (unhurried, watchful, ledger open in front of her) is on the page.
+- **Occupation/Role:** A rumor-and-secrets broker who works out of her usual table in the Undertow (El Resaca), the underground market beneath a river city. The text does not say she owns or runs the market — only that she can reliably be found there.
+- **Personality:** Sharp, transactional, unshakeable. Trades exclusively in being first to hear a thing; reads people by their posture before they speak.
+- **Aparece en:** Libro II, cap. 51 ("A Truth Told First" / "Una Verdad Dicha Primero"). No aparece en el Libro III.
+
+### 🔧 Corin Vasse — *Mortal mechanic; reincarnated soul of Krass*
+> "He didn't know what he was, or what price the choice he had just made without his own body's permission might eventually cost him."
+
+- **Voz (audiolibro):** Áspera por el queroseno, rústica y pausada; quietud defensiva, sin temblor en la garganta ni en la mayor tensión mística.
+- **Appearance:** Calloused hands, a knuckle scar from a slipped wrench, a persistent grey film of engine grease under the nails, a canvas coat. No hair/eye color or height given.
+- **Occupation/Role:** Auto mechanic, six years at the same small-town garage. Unknowingly carries the reincarnated soul of Krass, a commander lost in the neutral-plane purge — he has no memory of Krass's life, only an unexplained wound-shaped absence in his chest that responds to danger and to Vual's manipulation.
+- **Personality:** Steady, unassuming, fiercely loyal to his one close friend (Dez). Chooses, without understanding why, to protect a stranger rather than accept Vual's offer — a decision made "without his own body's permission."
+- **Aparece en:** Libro I, caps. 23, 25, 26. Cameo de cierre en Libro III, cap. 46 ("The Whispering Dawn"): sigue vivo, casado, con hijos y una nieta, en un pueblo costero — nunca se enteró de lo que era.
+
+### 🔩 Dez — *Hardware-store clerk; Corin Vasse's friend*
+> "What did you say to them? Looked like you lifted something off all of them at once."
+
+- **Voz (audiolibro):** Coloquial, ordinaria, sin resonancias místicas.
+- **Appearance:** No physical description given in the text.
+- **Occupation/Role:** Works the counter at the hardware store two doors from Corin's garage; the two have an easy, undemanding friendship built on proximity. Only appears on-page in ch. 23; in ch. 26 he is mentioned (as Vual's implied threat against Corin), not physically present.
+- **Personality:** Talkative, curious, protectively cautious ("murmuring some half-formed warning about staying out of it").
+- **Aparece en:** Libro I, cap. 23 (presente); cap. 26 (mencionado).
+
+### 👁️ Halaliel — *Junior sentinel, Barachiel's watchtower*
+> (sin cita textual — no tiene línea de diálogo directa citable fuera de la acción)
+
+- **Voz (audiolibro):** Uniforme, militar, disciplinada; vibración contenida de alarma bajo la compostura oficial ante lo desconocido.
+- **Appearance:** No physical description beyond "young." Wears a uniform (fastening the last strap when she arrives); carries small, well-worn observation instruments — **no named weapon in the text.**
+- **Occupation/Role:** One of Barachiel's junior officers at an outer-boundary watchtower; relays his orders and sounds the alarm without hesitation.
+- **Personality:** Watchful, quick to act, steady under an alarm her own instruments can't explain.
+- **Aparece en:** Libro III, cap. 8 ("The Whispering Scars") — única aparición; desaparece junto con toda la guarnición cuando el Vacío consume la torre.
+
+### ⚔️ Joran — *Young soldier under Nael's banner*
+> "Retreat! Nael, retreat!"
+
+- **Voz (audiolibro):** Joven, asustada pero decidida; urgencia trágica de un soldado sosteniendo la vida de su líder herida.
+- **Appearance:** No physical description beyond "young." **No named weapon in the text** (do not confuse with Nael's own blade, *Audacia*).
+- **Occupation/Role:** Has fought under Nael's banner for less than a year; not explicitly called a "recruit" in the text, but his inexperience is stated directly. Drags Nael out of the front line when she falls and holds pressure on her wound until Rafael arrives.
+- **Personality:** Instinctive, devoted, thrust into a soldier's reflexes before he's ready for them.
+- **Aparece en:** Libro I, cap. 5 ("Solmire's Judgment") — única aparición.  
