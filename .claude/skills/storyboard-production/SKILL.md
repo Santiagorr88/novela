@@ -44,12 +44,19 @@ El equipo de producción completo de una adaptación de Hollywood, mapeado a lo 
 
 ## Fase 0 — Dirección: brief de visión
 
-Un agente (o el orquestador) lee la prosa completa del capítulo y produce un brief corto: tono general, qué momentos interiores de la prosa deben volverse acción/imagen visible, qué se puede comprimir o fundir sin perder el capítulo. Este brief es lo que leen el guion y el story editor a continuación — nadie más lo necesita todavía.
+Un agente (o el orquestador) lee la prosa completa del capítulo y produce un brief corto, con criterios reales de dirección, no solo "tono general":
+- **Tesis visual del capítulo**: una frase — qué imagen o contraste tiene que quedarse grabado (p.ej. "un ser de luz agrietándose, físicamente, delante de otro que no puede tocarlo").
+- **Referentes de género/tono**: 1-2 puntos de comparación concretos (luz, ritmo, escala) para anclar a los especialistas de Fase 2 — nunca "estilo épico" sin más.
+- **Qué es interior en la prosa y debe volverse imagen/acción visible** (un pensamiento no se filma; su efecto físico sí).
+- **Qué se puede comprimir o fundir** sin perder el capítulo, y qué es intocable.
+- **Motivos visuales a sembrar o pagar** en este capítulo si el arco general ya los estableció (consulta rápida a `arco_argumental_completo.md`).
+
+Este brief es lo que leen Guion y Story editor a continuación — nadie más lo necesita todavía.
 
 ## Fase 1 — Guion: presupuesto de duración + shot breakdown + verificación estructural
 
 0. **Presupuesto de duración** (antes de nada): el capítulo tiene una duración objetivo de vídeo (por defecto ~8 min, salvo que el autor indique otra por capítulo — es una decisión suya, como trama/estilo/casting). Con clips de Veo3 a 8s por shot: `duración objetivo (s) / 8 ≈ nº de shots necesarios`. Ese número es el target que Guion tiene que cubrir con contenido real de la escena — nunca rellenar con shots vacíos ni comprimir la escena en menos shots de los que necesita para no pasarse (mismo error que `beat-planner` corrige del lado de la prosa: contar primero, no escribir y ver qué sale). Si el material real de la escena no llega al número de shots necesario, la señal es que hay que dramatizar más lo que en la prosa es interior/resumen (igual que un beat-planner añade beats reales, no relleno) — nunca inventar acción que no está en el capítulo.
-1. **Guion** (agente): con el brief de Fase 0, el presupuesto de shots, y la prosa, produce el shot breakdown — escenas → shots numerados, quién aparece, qué ocurre, dónde. Sin cámara/sonido fino todavía.
+1. **Guion** (agente): con el brief de Fase 0, el presupuesto de shots, y la prosa, produce el shot breakdown en formato técnico real: encabezado de escena (localización + momento del día, heredado de la prosa), lista de shots numerados dentro de cada escena, quién aparece, qué ocurre, dónde, y **la función dramática del shot** (establishing / reacción / acción / transición) — esto último es lo que luego usan Fotografía y Montaje para decidir tamaño de plano y ritmo, no un dato decorativo.
 2. **Story editor** (agente, tras el anterior): revisa el breakdown contra el arco argumental y los capítulos vecinos — que no se salte un beat, que no contradiga algo ya establecido en la trama; y confirma que el conteo de shots cuadra con el presupuesto de duración de la Fase 1.0. Devuelve el breakdown corregido o una lista de ajustes.
 
 El breakdown final de esta fase es la **memoria compartida** — todo lo que sigue en Fase 2 lee esto, no la prosa cruda, y no se relee entre sí (mismo principio de `content/craft/11_sistema_agentes.md`: sin memoria común, cada agente produce un capítulo ligeramente distinto).
@@ -58,26 +65,44 @@ Regla dura (aprendida en la pasada manual del capítulo 1): **un shot = una imag
 
 ## Fase 2 — Departamentos, en paralelo
 
-Todos reciben SOLO el shot breakdown de Fase 1 + su propio documento de referencia — nunca el canon completo, para mantener cada brief barato y enfocado. Se lanzan juntos, no en serie.
+Todos reciben SOLO el shot breakdown de Fase 1 + su propio documento de referencia — nunca el canon completo, para mantener cada brief barato y enfocado. Se lanzan juntos, no en serie. Cada descripción de abajo es el contenido técnico real que va dentro del prompt de ese agente, no solo su nombre de puesto.
 
 **Visual**
-- **Fotografía** — grounding: breakdown + `character_library/`. Cámara, lente, movimiento, luz, foco emocional por shot. Una imagen ganada por shot (calibre B, `12_calibre_b.md`), presencia por efecto (`13_presencia_cinematografica.md`).
-- **Diseño de producción** — grounding: breakdown + descripciones de localización existentes. Coherencia de arquitectura/mundo entre shots de la misma localización.
-- **Concept art** — grounding: breakdown + `character_library/` + variantes aprobadas. Confirma qué ya existe; para cualquier elemento visual nuevo del capítulo (localización, prop, criatura) sin ficha previa, propone una descripción para que el autor decida si genera el asset.
-- **Composición/staging** — grounding: breakdown. Qué hay dentro del cuadro y cómo se distribuye (blocking), separado de la decisión de lente/movimiento de Fotografía.
-- **Vestuario** — grounding: breakdown + `variantes_por_personaje/*.md`. Estado exacto de vestuario/armadura de cada personaje en cada shot — nunca puede aparecer intacto después de dañarse en un shot anterior.
-- **VFX** — grounding: breakdown + `personajes.md` (poderes/rasgos). Dirección y continuidad de cualquier efecto sobrenatural (fuego, alas, magia, el Sentinel) shot a shot.
+
+- **Fotografía** — grounding: breakdown + `character_library/`. Para cada shot decide, con vocabulario técnico real, no genérico:
+  - *Tamaño de plano* (ECU/primerísimo primer plano, CU/primer plano, MCU/plano medio corto, MS/plano medio, MLS/plano medio largo, LS/plano general, ELS/gran plano general) — escalado según la función dramática que marcó Guion: establishing = LS/ELS, reacción = CU/ECU, acción = MS/MLS con movimiento.
+  - *Movimiento de cámara* (estático, panorámica, tilt, dolly/push-in, travelling lateral, grúa/boom, cámara en mano) — el push-in se reserva para momentos de revelación o quiebre emocional, nunca por defecto.
+  - *Elección de lente implícita*: gran angular para distorsión/intimidad claustrofóbica o para grandeza de escala; teleobjetivo para compresión/aislamiento emocional de un personaje respecto a su entorno.
+  - *Luz*: calidad (dura/suave), dirección (contraluz, cenital, lateral), si es luz motivada por la escena (el resplandor de Miguel, el vacío de Onyx Gates) o ambiental.
+  - *Regla de los 180°/eyeline match* en cualquier shot de diálogo con dos personajes, para que Storyboard Studio no invierta la posición de cámara entre shots consecutivos de la misma conversación.
+  - *Encuadre simbólico*: centrado = poder/control; descentrado o regla de tercios = vulnerabilidad o desequilibrio — decisión consciente, no azar.
+  - Una imagen ganada por shot (calibre B, `12_calibre_b.md`), presencia por efecto (`13_presencia_cinematografica.md`).
+
+- **Diseño de producción** — grounding: breakdown + descripciones de localización existentes. Define por localización: paleta de color dominante, lenguaje arquitectónico/material (qué materiales definen Serephis frente a Onyx Gates), y relación de escala entre personaje y entorno — coherente en todos los shots de esa localización, no reinventada shot a shot.
+
+- **Concept art** — grounding: breakdown + `character_library/` + variantes aprobadas. Confirma qué ya existe; para cualquier elemento visual nuevo del capítulo (localización, prop, criatura) sin ficha previa, propone silueta reconocible y su función icónica (qué lo hace identificable en un vistazo) para que el autor decida si genera el asset.
+
+- **Composición/staging** — grounding: breakdown. Blocking dentro del cuadro: qué ocupa primer término/término medio/fondo, línea de fuerza que guía el ojo, uso del espacio negativo, y **continuidad del eje de acción** entre shots consecutivos de una misma escena (si un personaje mira a cuadro-derecha en un shot, mantiene esa dirección hasta que un shot de cambio de eje lo justifique). Esto es distinto de la decisión de lente/movimiento de Fotografía: aquí se decide qué hay dentro del cuadro, no cómo se filma.
+
+- **Vestuario** — grounding: breakdown + `variantes_por_personaje/*.md`. Biblia de estado: progresión de daño como narrativa visual (la armadura no se agrieta porque sí — marca un antes/después), qué es práctico y qué es simbólico. Estado exacto de cada personaje en cada shot — nunca aparece intacto después de dañarse en un shot anterior.
+
+- **VFX** — grounding: breakdown + `personajes.md` (poderes/rasgos). Consistencia física del efecto entre shots (si el ala de Miguel humea en el shot 12, no puede arder con llama abierta en el 13 sin un shot intermedio que lo explique), escala del efecto proporcional a la escena, y ajustado a lo que Veo3 genera de forma fiable (evitar descripciones que dependan de partículas finísimas o física imposible de mantener consistente entre shots).
 
 **Sonido**
-- **Sonido** — grounding: breakdown + localización. `audioDescription` de ambiente y textura física por shot.
-- **Música** — grounding: breakdown + facción/personaje en escena. Dirección de leitmotiv/intención musical por escena (no genera partitura, la describe).
-- **Diálogo** — grounding: breakdown + líneas de diálogo del capítulo. Pule cada línea para timing/lip-sync, marca pausas y énfasis.
+
+- **Sonido** — grounding: breakdown + localización. Distingue diegético (lo que los personajes oyen: viento, pasos, cristal, peso de la armadura) de no-diegético; construye capas de ambiente por localización, y decide dónde el silencio es la herramienta (un corte de ambiente sella una revelación mejor que un sonido añadido).
+
+- **Música** — grounding: breakdown + facción/personaje en escena. Leitmotiv: una frase musical corta asociada a un personaje o facción que se repite reconocible a lo largo del capítulo (nunca música genérica de fondo); instrumentación que refleja el registro emocional de cada facción; marca explícitamente los shots donde la música debe estar AUSENTE, no solo dónde debe sonar — el silencio también es dirección musical.
+
+- **Diálogo** — grounding: breakdown + líneas de diálogo del capítulo. Distingue lo que la línea dice de lo que en verdad transmite (subtexto); marca ritmo (pausas, solapamientos si dos personajes casi se interrumpen); anota énfasis por palabra para que el generador de voz no lea la línea plana.
 
 **Actuación**
-- **Casting y dirección de voz** — grounding: breakdown + `audiolibro_casting.json`. Confirma la voz ya asignada a cada personaje hablante del capítulo; escribe notas de interpretación por línea (tono, ritmo, qué está sintiendo el personaje al decirlo).
+
+- **Casting y dirección de voz** — grounding: breakdown + `audiolibro_casting.json`. Confirma la voz ya asignada a cada personaje hablante del capítulo; para cada línea, nota de interpretación como la que un director de doblaje daría al actor: qué siente el personaje al decirlo, qué intenta ocultar o conseguir con esa línea (objetivo de la escena), y el tono físico (¿habla entre dientes, sin aliento, con calma forzada?).
 
 **Continuidad**
-- **Continuidad y canon** — grounding: breakdown + `grafo_conocimiento.md` + `personajes.md` + salida de Vestuario/VFX (para cruzar estado físico). Verifica que ningún shot muestre a un personaje sabiendo/haciendo algo que el grafo dice que aún no le corresponde.
+
+- **Continuidad y canon** — grounding: breakdown + `grafo_conocimiento.md` + `personajes.md` + salida de Vestuario/VFX (para cruzar estado físico). Verifica que ningún shot muestre a un personaje sabiendo/haciendo algo que el grafo dice que aún no le corresponde, y que el estado físico declarado por Vestuario/VFX en cada shot es acumulativo y coherente (nunca retrocede sin motivo narrativo).
 
 ## Fase 3 — Coordinación: fusión + QA doble
 
