@@ -4,6 +4,8 @@
 
 > Style: 3D-Animation. Default model for final video: Omni 1.1 Flash via `Video → Ingredients` (mention @Miguel/@Gabriel/@Pewter_Sentinel explicitly) or `Video → Frames`.
 
+> Rule: one Shot = one still image. Never write "cut to" inside a single shot description — split into separate shots instead.
+
 ---
 
 
@@ -112,34 +114,39 @@
 - Sound/Dialogue: Faint wind bed, no music. Dialogue: MIGUEL says: "They think me a fool. Or a traitor."
 
 **Shot 05.06 (#19) — "The Sealed Parchment"**
-- Visual: Medium shot of GABRIEL; as he shifts his weight, a wax-sealed parchment is briefly visible against his ribs, hidden again an instant later. Cut to close-up on MIGUEL, his jaw loosening for one instant.
+- Visual: Medium shot of GABRIEL; as he shifts his weight, a wax-sealed parchment is briefly visible against his ribs, then hidden again as he settles. He does not acknowledge it.
 - Camera: Slight lateral shift as Gabriel repositions, then cut to a static close-up on Miguel.
-- Sound/Dialogue: Soft rustle of fabric; the harmony fades almost to silence. Dialogue: GABRIEL says: "They think you are their general."
+- Sound/Dialogue: Soft rustle of fabric; the harmony holds steady. Dialogue: GABRIEL says: "They think you are their general."
+
+**Shot 05.07 (#20) — "The Jaw Loosens"**
+- Visual: Close-up on MIGUEL, his jaw — clenched for days — loosening for one unbearable instant.
+- Camera: Static, minimal.
+- Sound/Dialogue: The harmony fades almost to silence.
 
 
 ## SCENE 06 — Int. Onyx Gates - Flashback
 
-**Shot 06.01 (#20) — "The Fortress Falls"**
+**Shot 06.01 (#21) — "The Fortress Falls"**
 - Visual: Wide shot of the Burning Fortress collapsing — black stone columns cracking and sinking into darkness, fissures of infernal fire, sulfur smoke everywhere.
 - Camera: Unstable handheld camera.
 - Sound/Dialogue: Massive structural groaning, fire roaring.
 
-**Shot 06.02 (#21) — "Miguel Down"**
+**Shot 06.02 (#22) — "Miguel Down"**
 - Visual: MIGUEL fallen among the rubble, one wing broken and smoldering beside him.
 - Camera: Handheld, moving closer.
 - Sound/Dialogue: The structure groaning, more muffled.
 
-**Shot 06.03 (#22) — "Gabriel Arrives Unbidden"**
+**Shot 06.03 (#23) — "Gabriel Arrives Unbidden"**
 - Visual: GABRIEL running in through the flames, sent by no one, and kneeling at Miguel's side.
 - Camera: Handheld following his run, settling as he kneels.
 - Sound/Dialogue: Fire crackling, urgent footsteps.
 
-**Shot 06.04 (#23) — "Cauterizing the Wing"**
+**Shot 06.04 (#24) — "Cauterizing the Wing"**
 - Visual: Close-up on GABRIEL cauterizing Miguel's wing with his own light.
 - Camera: Static, warm light illuminating his focused face.
 - Sound/Dialogue: The crackling fire fades under the soft hum of the healing light. Dialogue: GABRIEL says: "Because you don't yell for help in the voice you use for people you love. You go yourself."
 
-**Shot 06.05 (#24) — "The Wing Heals"**
+**Shot 06.05 (#25) — "The Wing Heals"**
 - Visual: Close-up on Miguel's wing healing under Gabriel's light, the charred feathers settling.
 - Camera: Slow push-in.
 - Sound/Dialogue: The hum of the healing light, near silence.
@@ -147,32 +154,32 @@
 
 ## SCENE 07 — Ext. Serephis Desert - Day
 
-**Shot 07.01 (#25) — "Return to the Present"**
+**Shot 07.01 (#26) — "Return to the Present"**
 - Visual: Close-up on GABRIEL's hand, now back in Serephis's cold light, rising, hesitating, and falling back to his side without completing the gesture.
 - Camera: Hidden cut symmetrical to the flashback's entry.
 - Sound/Dialogue: The desert wind returns.
 
-**Shot 07.02 (#26) — "Come Home"**
+**Shot 07.02 (#27) — "Come Home"**
 - Visual: Close-up on GABRIEL, maximum warmth.
 - Camera: Static.
 - Sound/Dialogue: Faint wind. Dialogue: GABRIEL says: "Come home. Whatever this wound is, we face it together. As we always have."
 
-**Shot 07.03 (#27) — "Miguel's Doubt"**
+**Shot 07.03 (#28) — "Miguel's Doubt"**
 - Visual: Close-up on MIGUEL, visible conflict, no dialogue.
 - Camera: Static.
 - Sound/Dialogue: Near total silence.
 
-**Shot 07.04 (#28) — "I Cannot"**
+**Shot 07.04 (#29) — "I Cannot"**
 - Visual: MIGUEL looks down at the buried road's stones beneath his feet, then looks up and meets Gabriel's eyes for the first time since he arrived — a terrible, crystalline resolve.
 - Camera: Static, slight push-in on the final line.
 - Sound/Dialogue: Near silence. Dialogue: MIGUEL says: "I cannot. This call is a command more fundamental than any the Council can give me. It is a truth I must find, or I am nothing."
 
-**Shot 07.05 (#29) — "Gabriel's Farewell"**
+**Shot 07.05 (#30) — "Gabriel's Farewell"**
 - Visual: Close-up on GABRIEL, his light dimming, a single tear of light tracing his cheek, head inclining.
 - Camera: Static.
 - Sound/Dialogue: The harmony fading. Dialogue: GABRIEL says: "May you find what you seek, brother."
 
-**Shot 07.06 (#30) — "Miguel Alone"**
+**Shot 07.06 (#31) — "Miguel Alone"**
 - Visual: Medium shot, MIGUEL looking at the empty space where Gabriel stood; the desert's heat and silence return, heavier than before.
 - Camera: Static, slight zoom-out.
 - Sound/Dialogue: The wind returns, more present than ever.
@@ -180,32 +187,32 @@
 
 ## SCENE 08 — Ext. The Threshold - Continuous
 
-**Shot 08.01 (#31) — "One Step, Another World"**
+**Shot 08.01 (#32) — "One Step, Another World"**
 - Visual: Extreme close-up on Miguel's boot crossing, in a single step, from hot sand/glass to cool green moss — the cut happens on the footstep itself.
 - Camera: Hidden cut on the step's motion.
 - Sound/Dialogue: The desert's dry wind cuts abruptly to a still, metallic silence.
 
-**Shot 08.02 (#32) — "The Grove"**
+**Shot 08.02 (#33) — "The Grove"**
 - Visual: Wide shot revealing the Grove in full — perfect rows of identical pale pewter-metal trees, thin metal-leaf foliage, dull green moss underfoot, even light with no shadows anywhere; MIGUEL small and alone at the threshold.
 - Camera: Slow lateral reveal as Miguel steps deeper in.
 - Sound/Dialogue: Near total silence; each footstep sounds abnormally loud.
 
-**Shot 08.03 (#33) — "Ambush"**
+**Shot 08.03 (#34) — "Ambush"**
 - Visual: Close-up on MIGUEL's face, wary, scanning the surroundings with tactical instinct.
 - Camera: Static.
 - Sound/Dialogue: Tense silence.
 
-**Shot 08.04 (#34) — "A Verse Unremembered"**
+**Shot 08.04 (#35) — "A Verse Unremembered"**
 - Visual: Miguel walks deeper among the metal trees, trying to recite a verse of the Divine Song to center himself, but the words escape him.
 - Camera: Slow tracking shot following him from behind.
 - Sound/Dialogue: The watchful silence, almost no sound at all.
 
-**Shot 08.05 (#35) — "A Shout in a Library"**
+**Shot 08.05 (#36) — "A Shout in a Library"**
 - Visual: Close-up on a single metal leaf cracking under his boot.
 - Camera: Static, very close to the ground.
 - Sound/Dialogue: The crack of the leaf, exaggerated in the silence.
 
-**Shot 08.06 (#36) — "Measured"**
+**Shot 08.06 (#37) — "Measured"**
 - Visual: Miguel stops, the sense of being measured by something unseen settling over him.
 - Camera: Static.
 - Sound/Dialogue: Total silence, no wind.
@@ -213,32 +220,32 @@
 
 ## SCENE 09 — Ext. The Pewter Grove - Continuous
 
-**Shot 09.01 (#37) — "A Flaw in the Light"**
+**Shot 09.01 (#38) — "A Flaw in the Light"**
 - Visual: One of the metal trees, some forty paces off, no longer matches the angle of the others — MIGUEL turns and finds the PEWTER SENTINEL, tall as the trees, smooth featureless face, two dim eyes glowing from the mist.
 - Camera: Slight zoom-in as the Sentinel is revealed.
 - Sound/Dialogue: Absolute silence, no wind.
 
-**Shot 09.02 (#38) — "I Have Come for What Is Mine"**
+**Shot 09.02 (#39) — "I Have Come for What Is Mine"**
 - Visual: Medium shot, MIGUEL facing the PEWTER SENTINEL.
 - Camera: Static.
 - Sound/Dialogue: Silence. Dialogue: MIGUEL says: "I have come for what is mine."
 
-**Shot 09.03 (#39) — "No Answer"**
+**Shot 09.03 (#40) — "No Answer"**
 - Visual: The PEWTER SENTINEL remains motionless, offering no reply; its stillness feels like an answer regardless.
 - Camera: Static.
 - Sound/Dialogue: Absolute silence.
 
-**Shot 09.04 (#40) — "Testing the Line"**
+**Shot 09.04 (#41) — "Testing the Line"**
 - Visual: Miguel takes a step toward the grove's center, testing the silence for a line he isn't meant to cross.
 - Camera: Slight tracking shot following him.
 - Sound/Dialogue: Only his own footsteps.
 
-**Shot 09.05 (#41) — "The Sentinel Turns"**
+**Shot 09.05 (#42) — "The Sentinel Turns"**
 - Visual: The PEWTER SENTINEL turns smooth and soundless to keep facing MIGUEL as he walks past, like a compass needle.
 - Camera: Slow tracking shot alongside Miguel, the Sentinel pivoting in the background/side of frame.
 - Sound/Dialogue: Silence, only Miguel's footsteps.
 
-**Shot 09.06 (#42) — "A Weight on His Back"**
+**Shot 09.06 (#43) — "A Weight on His Back"**
 - Visual: Shot from behind Miguel as he walks away, the Sentinel's gaze felt as a weight on his back long after the trees hide it from view.
 - Camera: Slow rear tracking shot.
 - Sound/Dialogue: Silence, footsteps growing more distant.
@@ -246,32 +253,32 @@
 
 ## SCENE 10 — Ext. The Ash Tree Clearing - Continuous
 
-**Shot 10.01 (#43) — "The Great Ash"**
+**Shot 10.01 (#44) — "The Great Ash"**
 - Visual: Wide shot of the great ash tree at the clearing's center, bark like cooled black lava, roots drinking from a pool of static silver light.
 - Camera: Slow reveal.
 - Sound/Dialogue: The low, cold hum of the clearing.
 
-**Shot 10.02 (#44) — "Opening Frame of the Push-In"**
+**Shot 10.02 (#45) — "Opening Frame of the Push-In"**
 - Visual: MIGUEL standing at the edge of the clearing, seeing the great ash tree for the first time in the distance; driven into the trunk, SOLMIRE, living white-glacial light.
 - Camera: Wide-to-medium shot, Miguel small against the tree.
 - Sound/Dialogue: The low, cold hum of the clearing, library-like silence.
 
-**Shot 10.03 (#45) — "Continuous Push-In"**
+**Shot 10.03 (#46) — "Continuous Push-In"**
 - Visual: The camera has advanced; Solmire now fills more of the frame, its light reflecting in the silver pool.
 - Camera: Continuation of the previous shot's push-in (chain via start/end frames).
 - Sound/Dialogue: The hum grows slightly in intensity.
 
-**Shot 10.04 (#46) — "Recognition"**
+**Shot 10.04 (#47) — "Recognition"**
 - Visual: Close-up on Miguel's face — absolute, terrifying recognition: that is what was taken from me.
 - Camera: Static.
 - Sound/Dialogue: The hum intensifying.
 
-**Shot 10.05 (#47) — "The Trembling Hand"**
+**Shot 10.05 (#48) — "The Trembling Hand"**
 - Visual: Extreme close-up on Miguel's gauntleted hand, trembling, inches from the hilt; his face barely visible at the edge of frame, an expression caught between hunger and dread.
 - Camera: End of the chained push-in.
 - Sound/Dialogue: The hum becomes an almost physical vibration, resonating beneath his ribs.
 
-**Shot 10.06 (#48) — "The Forest Vanishes"**
+**Shot 10.06 (#49) — "The Forest Vanishes"**
 - Visual: The instant skin touches hilt, a white-glacial flash consumes the frame entirely.
 - Camera: Hard cut on the flash — the only deliberate visible cut of the whole chapter.
 - Sound/Dialogue: The hum cuts sharply to total silence.
@@ -279,4 +286,4 @@
 
 ---
 
-**Total: 48 shots across 10 scenes.**
+**Total: 49 shots across 10 scenes.**
