@@ -458,13 +458,52 @@ Fuentes: [Dark Fantasy Ambient Choir — Envato Elements](https://elements.envat
 
 ---
 
-## 15. Resumen ejecutivo / próximos pasos recomendados
+## 15. Profundización: Soul ID, Nano Banana y Seedance 2.0 para consistencia de personaje
+
+Estas tres herramientas, mencionadas de pasada en la sección 6, son las que mejor resuelven el problema central del "banco de imágenes por personaje" de la sección 9.5. Aquí el detalle práctico de cada una:
+
+### 15.1 Higgsfield Soul ID — identidad entrenada, no solo referenciada
+
+A diferencia de subir 1-3 imágenes sueltas como "Ingredient" en Flow, Soul ID **entrena** una identidad:
+
+1. **Sube 20+ fotos** de referencia del mismo personaje — importa más la calidad que la cantidad: fotos nítidas, bien iluminadas, sin gafas de sol ni sombras duras ni rostro cortado, con distintos ángulos, más **una foto de cuerpo completo** para fijar las proporciones corporales.
+2. **Entrenamiento**: ~3-5 minutos.
+3. **Nombra y guarda** el personaje — a partir de ahí se selecciona en la pestaña "Character" cada vez que se genera, sin volver a subir ni describir nada.
+4. **Genera**: selecciona el personaje entrenado + preset estético + prompt.
+
+**Límite honesto que reportan los propios usuarios**: la consistencia es alta pero no absoluta — es "claramente la misma persona", no "rostro pixel-idéntico"; cambios de estilo extremos o ángulos inusuales pueden introducir deriva. Sigue siendo mejor que repetir descripción textual (sección 2.1), pero no elimina del todo la necesidad de revisión visual (§9.2 paso final de QA).
+
+**Nota de este entorno**: esta sesión de trabajo tiene un conector MCP de Higgsfield disponible — en el momento de producir de verdad, se podría entrenar un Soul ID por personaje principal (Miguel, Gabriel, Lucifer, etc.) directamente desde aquí, sin salir a la web de Higgsfield.
+
+### 15.2 Google Nano Banana (Gemini 2.5 Flash Image / Gemini 3 Pro Image) — el mejor generador del banco de imágenes inicial
+
+Nano Banana no es una herramienta de vídeo sino de **imagen**, pero es la pieza que falta para construir bien el paso 1-2 de la sección 9.5 (imagen "hero" + hoja de referencia/turnaround):
+
+- Funciona con un **flujo de edición conversacional por turnos**: subes la imagen "hero" ya validada del personaje y le pides, en lenguaje natural, que genere la misma identidad desde otro ángulo, con otra expresión, o en otra pose — en vez de "redibujar" desde cero, aplica *denoising parcial* sobre la imagen existente, lo que da continuidad real entre una variante y la siguiente (en vez de generar una cara distinta cada vez).
+- **Nano Banana Pro** admite combinar hasta **14 imágenes** de referencia a la vez y mantener la consistencia de hasta **5 personajes simultáneos** en una misma composición — útil para las escenas corales del universo (concilio celestial, corte infernal) donde aparecen varios personajes fijos a la vez.
+- **Aplicación directa**: generar la imagen hero de Miguel una vez, y pedirle a Nano Banana, en la misma conversación, "ahora el mismo Miguel de perfil", "ahora con expresión de determinación", "ahora en plano de cuerpo completo con Solmire desenvainada" — construyendo así el banco de 5-10 imágenes de la sección 9.5 sin perder identidad entre variantes.
+
+### 15.3 Seedance 2.0 (ByteDance, disponible vía Higgsfield) — alternativa "todo en uno" a considerar
+
+A diferencia de Veo3 (que genera 8s silenciosos y requiere encadenar manualmente para escenas largas o diálogo, secciones 2-3), Seedance 2.0 plantea un enfoque distinto que vale la pena evaluar en paralelo, especialmente para las escenas **dramatizadas** de la sección 9.3:
+
+- Acepta hasta **12 assets de entrada** (texto, imágenes, vídeo, audio) en una sola generación y produce directamente **vídeo multi-plano con personajes consistentes y transiciones ya resueltas** dentro de una misma llamada — en vez de generar plano a plano y encadenar tú mismo.
+- **Audio nativo en una sola pasada** ("arquitectura unificada de generación conjunta audio-vídeo multimodal"): hasta **3 capas de audio simultáneas** — diálogo con lip-sync automático, SFX ligados a eventos (pisadas, impactos, puertas), y música de fondo acorde al tono narrativo — generadas junto al vídeo, no añadidas después.
+- **Dónde encajaría**: como alternativa a evaluar para los 1-2 momentos de dramatización con diálogo por capítulo (sección 9.3), donde su capacidad multi-plano + audio nativo en una sola llamada podría ahorrar buena parte del trabajo manual de encadenado que exige Veo3 para ese mismo resultado — mientras que Veo3/Flow seguiría siendo la opción principal para el B-roll narrado silencioso (sección 9.2), donde su calidad de imagen y su integración con Ingredients ya están más probadas.
+
+Fuentes: [Mastering AI Character Consistency — Soul ID (Higgsfield)](https://higgsfield.ai/blog/Soul-ID-AI-Character-Consistency), [How do I create and use a Soul ID character? (Higgsfield Help Center)](https://higgsfield.ai/creator-hub/help-center/ai-models/how-do-i-create-and-use-a-soul-id-character), [4 tips for Nano Banana image editing — Google blog](https://blog.google/products/gemini/nano-banana-tips/), [Nano Banana Pro: Gemini 3 Pro Image — Google blog](https://blog.google/innovation-and-ai/products/nano-banana-pro/), [Using Gemini Nano Banana to Create Consistent Characters (chatsmith.io)](https://chatsmith.io/blogs/ai-guide/using-gemini-nano-banana-consistent-characters-ai-images-00037), [Seedance 2.0 — Multimodal AI Video Generation (Higgsfield)](https://higgsfield.ai/seedance/2.0), [Seedance 2.0 Complete Guide (Morphic)](https://morphic.com/resources/how-to/seedance-2-guide), [Generate Voice, SFX & Music with Video — Seedance 2.0 Native Audio Guide](https://www.seedanceai.cc/capabilities/native-audio).
+
+---
+
+## 16. Resumen ejecutivo / próximos pasos recomendados
 
 1. **El formato objetivo es narrado (sección 9), no dramatizado** — esto simplifica el problema de "cortes en escenas largas" porque el audio maestro es la voz en off continua, no diálogo con lip-sync. Empezar por ahí antes de invertir en las técnicas más complejas de las secciones 2–3.
 2. **Pilotar con un solo párrafo/escena corta** (el primer párrafo de B1C01, ejemplo en 9.4) antes de intentar un capítulo entero: valida narración → segmentación → generación de planos → montaje en un ciclo pequeño.
 3. **Fijar una única voz de narrador para todo el proyecto** en ElevenLabs (Multilingual v2/Studio) + diccionario de pronunciación con los nombres propios del universo — inversión única que se reutiliza en todos los capítulos.
-4. **Convertir las fichas de `content/lore/personajes.md` en "Ingredients" visuales** reutilizables (una imagen de referencia limpia por personaje) para que se vean iguales en los planos silenciosos de cada capítulo.
-5. **Decidir el "look" de color del proyecto una vez** (LUT + reglas de iluminación por facción: Cielo=luz fría/dorada, Infierno=cálido/rojo-sombra, coherente con las fichas ya escritas) y documentarlo como referencia para cada prompt.
-6. **Reservar la dramatización con diálogo/lip-sync (secciones 2–3) para 1–2 momentos de clímax por capítulo**, como mejora opcional una vez el pipeline narrado esté rodando, no como requisito desde el primer vídeo.
+4. **Convertir las fichas de `content/lore/personajes.md` en "Ingredients" visuales** reutilizables (una imagen de referencia limpia por personaje) para que se vean iguales en los planos silenciosos de cada capítulo — usar Nano Banana (§15.2) para generar el banco de variantes desde una sola imagen hero, y evaluar Soul ID de Higgsfield (§15.1) si se quiere entrenar identidad en vez de solo referenciarla.
+5. **Decidir el "look" de color del proyecto una vez** (LUT + reglas de iluminación por facción: Cielo=luz fría/dorada, Infierno=cálido/rojo-sombra, coherente con las fichas ya escritas) y fijar también **dos bancos de sonido separados** por facción (§14.1) como parte del mismo documento de "look and sound".
+6. **Reservar la dramatización con diálogo/lip-sync (secciones 2–3) para 1–2 momentos de clímax por capítulo**, como mejora opcional una vez el pipeline narrado esté rodando — evaluar ahí Seedance 2.0 (§15.3) como alternativa "todo en uno" a Veo3 para esos momentos concretos.
 7. Evaluar si conviene generar el diseño de sonido/ambiente por completo en post (DaVinci Fairlight/Audition) en vez de depender de que Veo3 lo mantenga consistente entre clips.
-8. Si se decide automatizar parte del pipeline (texto de capítulo → guion de narración → segmentos → prompts de plano) podría integrarse como un flujo adicional dentro de `src/`/`config/flows/`, en la línea de lo que ya hace el proyecto para generación de prosa — pero eso sería una fase posterior, no parte de esta investigación.
+8. Si se decide automatizar parte del pipeline (texto de capítulo → guion de narración → segmentos → prompts de plano) podría integrarse como un flujo adicional dentro de `src/`/`config/flows/` usando el SDK oficial (§11.1) — fase posterior, no parte de esta investigación.
+9. Aplicar las tácticas de ritmo/retención de la sección 12 al adaptar cada capítulo a guion narrado (hook en los primeros 15-30s, momento de mayor impacto ~70% del runtime, eliminar silencios TTS >0.5s).
+10. **⚠️ Antes de monetizar o publicar públicamente**: confirmar directamente en las fuentes oficiales de Google los términos de uso comercial vigentes de Veo3/Flow, y usar el toggle de "contenido alterado o sintético" en YouTube Studio (§14.2) — no dar esto por sentado a partir de blogs de terceros.
