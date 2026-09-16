@@ -13,18 +13,21 @@
 3. Journey Through Ash
 
 ## Escena 02 — Ext. Serephis - Black Glass Flats - Day
-**Debe tener exactamente 3 shots:**
+**Debe tener exactamente 4 shots:**
 
 1. The Weight of the Armor
 2. Splintering Ground
-3. Twelve Days
+3. One Shard
+4. Twelve Days
 
 ## Escena 03 — Ext. Serephis - Ash Dunes - Later
-**Debe tener exactamente 3 shots:**
+**Debe tener exactamente 5 shots:**
 
 1. The Failing Armor
-2. Cracks Spiderweb
-3. The Hollow
+2. First Crack
+3. Cracks Spiderweb
+4. Wind and Ash
+5. The Hollow
 
 ## Escena 04 — Ext. Serephis - The Buried Road - Continuous
 **Debe tener exactamente 4 shots:**
@@ -96,6 +99,6 @@
 
 ---
 
-**Total: 49 shots en 10 escenas.**
+**Total: 52 shots en 10 escenas.**
 
 Si ves un título que no está en esta lista dentro de una escena de Flow, es un shot inventado por Autofill — bórralo. Si un título de esta lista no aparece en Flow, falta generarlo.
