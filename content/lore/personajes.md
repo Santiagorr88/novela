@@ -199,55 +199,6 @@
 
 ---
 
-#### Leaders under **Anael** (Captain) → **Zadkiel** (Commander):
-
----
-
-### ✨ Lurea — *Squad Leader / Hope Inspiration*  
-> “Hope glows louder when the sky dims.”
-
-- **Appearance:** Crystalline body that reflects beautiful memories; eyes shimmer like morning dew.  
-- **Weapon:** *Aura* — A vial that releases radiant energy, flooding allies with uplifting emotions.  
-- **Personality:** Dreamy, empathetic, uplifts others with few words.  
-
----
-
-### 🎶 Silith — *Squad Leader / Battle Singer*  
-> “Every fight deserves a melody.”
-
-- **Appearance:** Skin glowing faintly, hair flowing like music; voice resonates through armor.  
-- **Weapon:** *Cantio* — A harp that weaves battlefield hymns into combat movements.  
-- **Personality:** Passionate, loyal, theatrical at times.  
-
----
-
-### 🔥 Camor — *Squad Leader / Raw Emotion Channel*  
-> “You’ll feel it when I strike. I promise.”
-
-- **Appearance:** Face marked by constantly shifting expressions; aura vibrates with intensity.  
-- **Weapon:** *Sincero* — A mask that projects Camor's own feelings into others with raw force.  
-- **Personality:** Volatile, brutally honest, emotionally intense.  
-
----
-
-### 🔏 Tana — *Squad Leader / Divine Inspiration Guard*  
-> “The word of creation is never unguarded.”
-
-- **Appearance:** Wrapped in floating glyphs of light shaped like script; moves like a whispered prayer.  
-- **Weapon:** *Verbum* — A stylus that carves divine prophecy midair, inspiring allies and revealing threats.  
-- **Personality:** Enigmatic, serene, guardian of sacred truths.  
-
----
-
-### 🔔 Ezihel — *Squad Leader / Spirit Reanimator*  
-> “Even broken light finds its dawn.”
-
-- **Appearance:** Radiates warmth like sunrise; gentle face, soft golden glow around hands.  
-- **Weapon:** *Lumen* — A bell that restores the will of fallen comrades, echoing hope.  
-- **Voz (audiolibro):** Nivelada y controlada, un dominio de sí que le cuesta sostener bajo el peso del desgaste diario.  
-- **Personality:** Compassionate, inwardly strong, steady under pressure.  
-
-
 #### Leaders under **Remiel** (Captain) → **Camael** (Commander):
 
 ---
@@ -393,56 +344,6 @@
 - **Appearance:** Half of his face glows; the other, sealed in void.  
 - **Weapon:** *Vox Caeli* — A tome that utters incomplete prophecies in battle.  
 - **Personality:** Wary, controlled, haunted by glimpses of endings.  
-
----
-
-#### Leaders under **Anael** (Captain) → **Zadkiel** (Commander):
-
----
-
-### ✨ Lurea — *Squad Leader / Hope Inspiration*  
-> “Hope glows louder when the sky dims.”
-
-- **Appearance:** Crystalline body that reflects beautiful memories; eyes shimmer like morning dew.  
-- **Weapon:** *Aura* — A vial that releases radiant energy, flooding allies with uplifting emotions.  
-- **Personality:** Dreamy, empathetic, uplifts others with few words.  
-
----
-
-### 🎶 Silith — *Squad Leader / Battle Singer*  
-> “Every fight deserves a melody.”
-
-- **Appearance:** Skin glowing faintly, hair flowing like music; voice resonates through armor.  
-- **Weapon:** *Cantio* — A harp that weaves battlefield hymns into combat movements.  
-- **Personality:** Passionate, loyal, theatrical at times.  
-
----
-
-### 🔥 Camor — *Squad Leader / Raw Emotion Channel*  
-> “You’ll feel it when I strike. I promise.”
-
-- **Appearance:** Face marked by constantly shifting expressions; aura vibrates with intensity.  
-- **Weapon:** *Sincero* — A mask that projects Camor's own feelings into others with raw force.  
-- **Personality:** Volatile, brutally honest, emotionally intense.  
-
----
-
-### 🔏 Tana — *Squad Leader / Divine Inspiration Guard*  
-> “The word of creation is never unguarded.”
-
-- **Appearance:** Wrapped in floating glyphs of light shaped like script; moves like a whispered prayer.  
-- **Weapon:** *Verbum* — A stylus that carves divine prophecy midair, inspiring allies and revealing threats.  
-- **Personality:** Enigmatic, serene, guardian of sacred truths.  
-
----
-
-### 🔔 Ezihel — *Squad Leader / Spirit Reanimator*  
-> “Even broken light finds its dawn.”
-
-- **Appearance:** Radiates warmth like sunrise; gentle face, soft golden glow around hands.  
-- **Weapon:** *Lumen* — A bell that restores the will of fallen comrades, echoing hope.  
-- **Voz (audiolibro):** Nivelada y controlada, un dominio de sí que le cuesta sostener bajo el peso del desgaste diario.  
-- **Personality:** Compassionate, inwardly strong, steady under pressure.  
 
 ---
 
@@ -2416,4 +2317,55 @@
 
 - **Appearance:** Ever surrounded by ethereal insects.  
 - **Weapon:** *Enkar* — Staff summoning plagues that obey complex orders.  
-- **Personality:** Cold, mathematical, communes with beasts better than demons.  
+- **Personality:** Cold, mathematical, communes with beasts better than demons.
+
+---
+
+## 🕊️ Personajes secundarios mortales / de escena única
+
+> Fichas mínimas añadidas 2026-09-01 para cerrar huérfanos de ficha detectados durante la calibración del Libro III (con diálogo o peso de escena real, pero sin entrada previa). Verificadas frase por frase contra la prosa real (`codex exec --sandbox read-only`) — ninguno tiene arma nombrada en el texto; no inventar ninguna.
+
+### 🕯️ Selke — *Rumor broker, "El Resaca"*
+> "I don't buy things men haven't decided about."
+
+- **Voz (audiolibro):** Seca, pragmática y vigilante; audita a cada recién llegado de reojo sin interrumpir su propia contabilidad.
+- **Appearance:** No physical description given in the text — only her manner (unhurried, watchful, ledger open in front of her) is on the page.
+- **Occupation/Role:** A rumor-and-secrets broker who works out of her usual table in the Undertow (El Resaca), the underground market beneath a river city. The text does not say she owns or runs the market — only that she can reliably be found there.
+- **Personality:** Sharp, transactional, unshakeable. Trades exclusively in being first to hear a thing; reads people by their posture before they speak.
+- **Aparece en:** Libro II, cap. 51 ("A Truth Told First" / "Una Verdad Dicha Primero"). No aparece en el Libro III.
+
+### 🔧 Corin Vasse — *Mortal mechanic; reincarnated soul of Krass*
+> "He didn't know what he was, or what price the choice he had just made without his own body's permission might eventually cost him."
+
+- **Voz (audiolibro):** Áspera por el queroseno, rústica y pausada; quietud defensiva, sin temblor en la garganta ni en la mayor tensión mística.
+- **Appearance:** Calloused hands, a knuckle scar from a slipped wrench, a persistent grey film of engine grease under the nails, a canvas coat. No hair/eye color or height given.
+- **Occupation/Role:** Auto mechanic, six years at the same small-town garage. Unknowingly carries the reincarnated soul of Krass, a commander lost in the neutral-plane purge — he has no memory of Krass's life, only an unexplained wound-shaped absence in his chest that responds to danger and to Vual's manipulation.
+- **Personality:** Steady, unassuming, fiercely loyal to his one close friend (Dez). Chooses, without understanding why, to protect a stranger rather than accept Vual's offer — a decision made "without his own body's permission."
+- **Aparece en:** Libro I, caps. 23, 25, 26. Cameo de cierre en Libro III, cap. 46 ("The Whispering Dawn"): sigue vivo, casado, con hijos y una nieta, en un pueblo costero — nunca se enteró de lo que era.
+
+### 🔩 Dez — *Hardware-store clerk; Corin Vasse's friend*
+> "What did you say to them? Looked like you lifted something off all of them at once."
+
+- **Voz (audiolibro):** Coloquial, ordinaria, sin resonancias místicas.
+- **Appearance:** No physical description given in the text.
+- **Occupation/Role:** Works the counter at the hardware store two doors from Corin's garage; the two have an easy, undemanding friendship built on proximity. Only appears on-page in ch. 23; in ch. 26 he is mentioned (as Vual's implied threat against Corin), not physically present.
+- **Personality:** Talkative, curious, protectively cautious ("murmuring some half-formed warning about staying out of it").
+- **Aparece en:** Libro I, cap. 23 (presente); cap. 26 (mencionado).
+
+### 👁️ Halaliel — *Junior sentinel, Barachiel's watchtower*
+> (sin cita textual — no tiene línea de diálogo directa citable fuera de la acción)
+
+- **Voz (audiolibro):** Uniforme, militar, disciplinada; vibración contenida de alarma bajo la compostura oficial ante lo desconocido.
+- **Appearance:** No physical description beyond "young." Wears a uniform (fastening the last strap when she arrives); carries small, well-worn observation instruments — **no named weapon in the text.**
+- **Occupation/Role:** One of Barachiel's junior officers at an outer-boundary watchtower; relays his orders and sounds the alarm without hesitation.
+- **Personality:** Watchful, quick to act, steady under an alarm her own instruments can't explain.
+- **Aparece en:** Libro III, cap. 8 ("The Whispering Scars") — única aparición; desaparece junto con toda la guarnición cuando el Vacío consume la torre.
+
+### ⚔️ Joran — *Young soldier under Nael's banner*
+> "Retreat! Nael, retreat!"
+
+- **Voz (audiolibro):** Joven, asustada pero decidida; urgencia trágica de un soldado sosteniendo la vida de su líder herida.
+- **Appearance:** No physical description beyond "young." **No named weapon in the text** (do not confuse with Nael's own blade, *Audacia*).
+- **Occupation/Role:** Has fought under Nael's banner for less than a year; not explicitly called a "recruit" in the text, but his inexperience is stated directly. Drags Nael out of the front line when she falls and holds pressure on her wound until Rafael arrives.
+- **Personality:** Instinctive, devoted, thrust into a soldier's reflexes before he's ready for them.
+- **Aparece en:** Libro I, cap. 5 ("Solmire's Judgment") — única aparición.  

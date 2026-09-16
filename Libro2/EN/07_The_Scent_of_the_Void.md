@@ -26,7 +26,7 @@ He made one call he'd been putting off before he let himself chase it any furthe
 
 Arin thanked him, paid him, and didn't tell him that the warning had only sharpened a decision already made the moment he'd first read the word on a deleted forum post.
 
-It took him four more days of patient tracing, after that, to pin the name down — shell companies, transport manifests, a logistics and private security firm that existed, on paper, blandly enough to be forgotten as soon as it was read. Its public materials were sterile enough to be suspicious in their own right: no ambition in them, no personality, the kind of corporate blankness that only ever meant either genuine nothing or a great deal of effort spent to look like nothing. Arin had learned to distrust that particular flavor of nothing a long time ago.
+It took him four more days of patient tracing, after that, to pin the name down — shell companies, transport manifests, a logistics and private security firm that existed, on paper, blandly enough to be forgotten as soon as it was read. Its public materials were sterile enough to be suspicious in their own right: no ambition in them, no personality, the kind of corporate blankness that only ever meant either genuine nothing or a great deal of effort spent to look like nothing. Arin had learned to distrust that kind of nothing a long time ago.
 
 ---
 

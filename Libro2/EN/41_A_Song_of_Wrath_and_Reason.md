@@ -18,7 +18,7 @@ He caught his balance and glanced back, just once, toward the man whose voice ha
 
 "You always give orders like that," Arin called over the clash of a fresh exchange, driving a demon back with three short blows, something close to genuine amusement threading through the danger in his voice, "or is this new?"
 
-"No idea," Mikel shouted back, not breaking his own rhythm, already tracking the shift in the enemy line with the same cold clarity that had let him call the last warning in time. "But it's working. So shut up and flank." He drove the shelving fragment into a demon's exposed side without breaking stride, the motion no more deliberate than any other word in the sentence.
+"No idea," Mikel shouted back, not breaking his own rhythm, already tracking the shift in the enemy line with the focus that had let him call the last warning in time. "But it's working. So shut up and flank." He drove the shelving fragment into a demon's exposed side without breaking stride, the motion no more deliberate than any other word in the sentence.
 
 "Bossy for a professor." Arin was already moving to cover the angle Mikel had called.
 
@@ -36,13 +36,15 @@ Something shifted between them a few exchanges later, subtle at first and then u
 
 Arin felt it too, on his own side of the fight, his strikes finding gaps that opened a half-second before he swung toward them, as though something were clearing his path before he'd chosen it himself. He had fought beside capable partners before, across a decade of careful contracts. None of them had ever felt like this — two separate rhythms locking, without effort, into a single shared one. His body moved faster than it had any right to move this deep into a fight this outmatched, each strike landing exactly where the last one had opened space for the next, formation after formation fracturing in front of him under a pressure the soldiers' training had never prepared them to answer.
 
-For a handful of heartbeats, something passed between them that neither man could have named, and the air in the corridor seemed to hold a weight it hadn't held a moment before — a stillness underneath all the violence, taut and expectant, the way air goes taut before a held note finally resolves. Arin had no name for it either. He only knew it didn't last.
+For a handful of heartbeats, something passed between them that neither man could have named, and the air in the corridor seemed to hold a weight it hadn't held a moment before — a stillness underneath all the violence, expectant in the way air goes taut before a held note finally resolves. Arin had no name for it either. He only knew it didn't last.
 
 ---
 
 The enforcer, watching from his careful distance with the same level patience he'd carried since the portal first opened, stepped forward himself, and the fight changed the instant he did.
 
-Mikel felt the difference immediately. This wasn't another soldier added to an already desperate count. The enforcer moved through the corridor's chaos without wasting a single motion, closing the distance in three easy strides that somehow covered more ground than they should have, and where he moved, soldiers reorganized around him with an obedience that told Mikel plainly this was the true engine driving this ambush. He carried no visible weapon Mikel could identify, and his own soldiers gave those empty hands more room than they gave each other's blades. His eyes, when they settled on Mikel directly, carried the same flat, appraising patience he'd worn since he first stepped through the fire.
+---
+
+Mikel felt the difference immediately. This wasn't another soldier added to an already desperate count. The enforcer moved through the corridor's chaos without wasting a single motion, closing the distance in three easy strides that somehow covered more ground than they should have, and where he moved, soldiers reorganized around him with an obedience that told Mikel plainly this was the true engine driving this ambush. He carried no visible weapon Mikel could identify, and his own soldiers gave those empty hands more room than they gave each other's blades. His eyes, when they settled on Mikel directly, were as flat and assessing as they'd been since he first stepped through the fire.
 
 ---
 

@@ -64,7 +64,7 @@ Fue Torin quien avistó primero la nave más pequeña, un solo vehículo despren
 
 Seren observó a la nave pequeña alejarse del borde de la flota, orientándose hacia el espacio silencioso y vacío entre realidades en lugar de hacia el abismo revuelto sobre el que se abalanzaba el resto de la armada. No captó más que un vistazo por su mira antes de que la distancia se tragara los detalles —cuatro figuras visibles un instante a través del casco liso de la nave, ninguna vestida para la batalla de ningún modo que ella reconociera, y ninguno de los cuatro nombres que le había dado el manifiesto significando para ella más de lo que habría significado cualquier otro nombre.
 
-—¿Esos cuatro valen despejar todo un carril de flota? —preguntó, aunque sospechaba, viendo a la naveta menguar todavía más contra la vasta oscuridad, que la respuesta no cambiaría nada de lo que venía después para su propia formación.
+—¿Esos cuatro valen despejar todo un carril de flota? —preguntó, viendo a la naveta menguar todavía más contra la vasta oscuridad. Sospechaba que la respuesta no cambiaría nada de lo que venía después para su propia formación.
 
 —Ni idea de para qué son en verdad —dijo Torin—. Pero si el mando lo despejó sin siquiera una pregunta, importa más que cualquier cosa que el resto de nosotros esté a punto de hacer.
 

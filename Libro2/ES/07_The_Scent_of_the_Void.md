@@ -26,7 +26,7 @@ Hizo una llamada que había estado postergando antes de dejarse perseguirla más
 
 Arin le dio las gracias, le pagó, y no le dijo que la advertencia solo había afilado algo que ya estaba decidido desde el momento en que había leído la palabra en una publicación de foro borrada.
 
-Le tomó cuatro días más de rastreo paciente, después de eso, fijar el nombre a algo sólido —empresas fantasma, manifiestos de transporte, una firma de logística y seguridad privada que existía, sobre el papel, con la sosería de algo construido para ser olvidado en cuanto se leyera. Sus materiales públicos eran lo bastante estériles como para resultar sospechosos por derecho propio: ninguna ambición en ellos, ninguna personalidad, el tipo de vacío corporativo que siempre significa o bien una nada genuina o bien algo trabajando muy duro por parecer nada. Arin había aprendido a desconfiar de ese sabor particular de nada hacía mucho tiempo.
+Le tomó cuatro días más de rastreo paciente, después de eso, fijar el nombre a algo sólido —empresas fantasma, manifiestos de transporte, una firma de logística y seguridad privada que existía, sobre el papel, con la sosería de algo construido para ser olvidado en cuanto se leyera. Sus materiales públicos eran lo bastante estériles como para resultar sospechosos por derecho propio: ninguna ambición en ellos, ninguna personalidad, el tipo de vacío corporativo que siempre significa o bien una nada genuina o bien algo trabajando muy duro por parecer nada. Arin había aprendido a desconfiar de ese tipo de nada hacía mucho tiempo.
 
 ---
 

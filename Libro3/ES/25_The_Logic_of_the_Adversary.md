@@ -54,7 +54,7 @@ Trazó la frontera disputada una segunda vez, indicando los sectores que pretend
 
 —Cada informe que cruce mi escritorio de aquí en adelante será tratado como urgente sin importar su origen —continuó—. No dejaré que una solución se demore porque un señor sea demasiado orgulloso como para admitir que información útil vino del lado de la Hueste en esta alianza.
 
-Estudió a los señores reunidos un momento más, leyendo en su atención renovada la cualidad particular de una sala que, por ahora, había dejado firmemente a un lado sus objeciones. Había construido todo su largo reinado sobre exactamente este tipo de demostración calculada, enseñándole a una sala lo que necesitaba aprender sin jamás alzar la voz para hacerlo. La lección de esta noche, sospechaba, perduraría considerablemente más que la última.
+Estudió a los señores reunidos un momento más, leyendo en su atención renovada la cualidad particular de una sala que, por ahora, había dejado firmemente a un lado sus objeciones. Este tipo exacto de demostración calculada era el fundamento entero sobre el que descansaba su largo reinado, enseñándole a una sala lo que necesitaba aprender sin jamás alzar la voz para hacerlo. La lección de esta noche, sospechaba, perduraría considerablemente más que la última.
 
 Pensó, estudiando los rostros que se asentaban a su alrededor, en cada concilio que había presidido a lo largo de los largos siglos de su reinado, y encontró este, fueran cuales fuesen sus desagradables necesidades, más clarificador que la mayoría. Una sala de este tamaño rara vez concordaba en nada con facilidad. Esta noche, al menos durante la duración de esta única sesión, juzgó que se había asentado exactamente en lo único que importaba.
 

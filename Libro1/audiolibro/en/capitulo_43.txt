@@ -33,3 +33,9 @@ The fissure remained, thin and pale against the granite, curved along part of it
 Far below, the disturbance that had produced the crack kept fading, dissipating back into the depth it had first risen from, leaving no trace anywhere it had passed except this one thin line in ancient stone. No record would ever mark the moment. Nothing beyond the mountain itself, and whatever remained of the figure seated upon it, would ever know the tremor had reached this high.
 
 The figure did not move, not at once, nor in the time that followed. Then, for the first time in longer than anyone living could measure, it began to stir.
+
+The wind that had scoured this height without pause for longer than anyone below could measure died in an instant, and the silence that followed was so complete it seemed to thicken the air itself.
+
+Eyelids sealed by frost since before the first temple of Heaven was ever raised began to move, a sound like breaking ice too fine for any ear below to have caught, before they opened at last on two eyes of solid, blind white. They did not turn toward the snow, or the canopy of cloud hiding the lower kingdoms from view. Their fixed attention had already found the discord that had just split the ash plain far below, reading it with the exact precision of something measuring a debt that had finally come due.
+
+It rose slowly, joints of cloth and stone grinding under the strain of a first movement in five thousand years, snow shedding from its shoulders in handfuls onto the fissure it had just opened. There was no haste in the motion, none of the guarded tension Miguel carried into every march of his own. It took a single, deliberate step down the slope, boots settling into ash and ice with the certainty of an arbiter descending to a field because the time for waiting had run out — beginning a road its two brothers, far below, did not yet know already led toward the same reckoning.

@@ -26,7 +26,7 @@ He looked down at his own hands, one lit from within by the same gold that fed e
 
 He had thought, for longer than was perhaps wise, that holding the balance meant watching from a careful distance, spending his attention like a rationed thing, never risking more of himself than a single moment absolutely required. A diverted step here. A frozen instant there. Enough to keep the worst from happening, never enough to actually change the shape of what came after. He had built an entire long life out of that particular restraint, and had never once, until this moment, stopped to ask himself whether the restraint had been wisdom or simply the easier of two available fears.
 
-He understood now, with the tremor still fresh in him, that the balance he'd spent so long protecting had never asked him to stay this small. It had only ever asked him to stay honest about what the moment actually required, and every moment before this one had required, in fact, very little of him. This one did not share that mercy. He could feel the shape of what it would cost him already, distant but unmistakable, the way a man feels the weight of a long road before his first step has even left the doorway behind.
+The tremor still fresh in him, he began to see that the balance he'd spent so long protecting had never asked him to stay this small. It had only ever asked him to stay honest about what the moment actually required, and every moment before this one had required, in fact, very little of him. This one did not share that mercy. He could feel the shape of what it would cost him already, distant but unmistakable, the way a man feels the weight of a long road before his first step has even left the doorway behind.
 
 ---
 
@@ -36,7 +36,7 @@ He stepped off the edge.
 
 He did not fall. He descended, the way he had descended twice before, weightless and unhurried, the mountain shrinking above him into a single small point of stillness he had left behind. Clouds parted around him without needing to be asked, as they always had, and beneath them the world unfolded in its familiar layers — ocean, forest, the scattered lights of cities he had watched rise and fall more times than he'd ever bothered counting. None of it looked wrong from this height. That, more than anything else, was what troubled him most about the tremor still settling in his chest: whatever was unwriting some distant corner of that harmony left no visible mark on the parts still intact, no warning a lesser watcher would ever have thought to look for.
 
-But this time, for the first time since he had first learned the shape of his own descent, he understood, with a certainty that asked nothing further of him, that he would not be climbing back up to that point again. Not this time. Not until whatever waited below had finally run its course.
+But this time, for the first time since he had learned the shape of his own descent, a certainty settled in him that asked nothing further: he would not be climbing back up to that point again. Not this time. Not until whatever waited below had finally run its course.
 
 ---
 

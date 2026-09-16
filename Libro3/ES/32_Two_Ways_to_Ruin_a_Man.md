@@ -10,11 +10,11 @@ Phenex llegó primero, como solía hacer, entrando en su salón de la manera que
 
 —He vestido la sala para quien me resulte útil en el momento en que lo necesito —dijo Naamah, la voz sedosa y cercana, del tipo que hace sentir a quien escucha ya de acuerdo antes de haber decidido nada—, que esta noche resulta que eres tú. —Dejó que Neriah sostuviera la forma de la galería un momento más, observándolo instalarse en ella tal como un gato se instala en una mancha de sol recordada—. Hay una ciudad llamada el Baluarte de Verrow que me gustaría que arruinaras. Bellamente, si logras hacerlo. En silencio sería una novedad, pero no insistiré.
 
-—Bellamente es el único registro que tengo. —Dio una vuelta lenta, ya, juzgó ella, componiendo algo en su cabeza que aún no tenía nada que ver con la ciudad de verdad—. Dime qué es lo que la mantiene unida. Hago mi mejor trabajo con algo que todavía sigue en pie cuando llego.
+—Bellamente es el único registro que tengo. —Dio una vuelta lenta, ya componiendo en su cabeza una escena que aún no tenía nada que ver con la ciudad de verdad—. Dime qué es lo que la mantiene unida. Hago mi mejor trabajo con algo que todavía sigue en pie cuando llego.
 
 Leraje entró sin entrada alguna, lo cual era, Naamah había llegado a comprender, en sí mismo una declaración —una silueta simplemente presente en el umbral que un instante antes no había estado ahí, Mors colgada suelta sobre un hombro del modo en que una soldado que confiaba en su puntería nunca se molestaba en comprobar un arma dos veces—. No se había vestido para la galería, ni para nada más que Naamah pudiera haber elegido construir a su alrededor; la luz prestada de la sala se le escurría igual que se escurría sobre la piedra, sin reclamarla y del todo fuera de lugar. —Le vas a decir que es una ciudad guarnición —dijo, antes de que Naamah hubiera dicho nada semejante—, y él va a querer un mes y un público. Yo puedo tenerla silenciosa y terminada antes de que él haya elegido un color.
 
-—Lo dices como si la eficiencia fuera todo el arte —dijo Phenex, sin girarse a mirarla, lo que Naamah juzgó era su propio pequeño insulto, calibrado con precisión—. La eficiencia es lo que uno acepta cuando nunca ha logrado que nadie recuerde su trabajo después de salir de la sala.
+—Lo dices como si la eficiencia fuera todo el arte —dijo Phenex, sin girarse a mirarla —su propio pequeño insulto, calibrado con precisión—. La eficiencia es lo que uno acepta cuando nunca ha logrado que nadie recuerde su trabajo después de salir de la sala.
 
 —No necesito que lo recuerden. Los necesito muertos, y a los que no están muertos demasiado asustados como para preguntar por qué. —La voz de Leraje llevaba la precisión plana e imperturbable de una mujer que recitaba un hecho en vez de defender una posición—. Tú quieres un legado, Phenex. Yo quiero un resultado. Solo uno de los dos gana guerras en realidad.
 
@@ -28,21 +28,21 @@ Toda la postura de Phenex se afiló, y Naamah observó el deleite de un momento 
 
 Le importaba, pensó Naamah, considerablemente más de lo que ninguno de los dos comprendía en ese momento —el arreglo del Valle Invertido era demasiado nuevo, demasiado fácil de magullar con cualquier cosa que pareciera que el Infierno se extralimitaba justo cuando había prometido, por el momento, contener su alcance—. Una comandante muerta a tres provincias limpias de aquella línea era segura. Un espectáculo lo bastante ruidoso como para atraer a un investigador celestial extraviado en la dirección equivocada no lo era.
 
-—¿Por qué esta ciudad, entonces? —preguntó Leraje, antes de que Naamah hubiera decidido cuánto de eso pensaba decir en voz alta—. Hay guarniciones más cercanas. Más blandas, si la moral es de verdad el objetivo. —No estaba desafiando el encargo, juzgó Naamah, observándola —solo catalogándolo, del modo en que catalogaba todo antes de confiar en ello.
+—¿Por qué esta ciudad, entonces? —preguntó Leraje, antes de que Naamah hubiera decidido cuánto de eso pensaba decir en voz alta—. Hay guarniciones más cercanas. Más blandas, si la moral es de verdad el objetivo. —Observándola, Naamah no leyó ahí un desafío al encargo —solo catalogación, del modo en que Leraje catalogaba todo antes de confiar en ello.
 
 —Porque el Baluarte de Verrow está exactamente lo bastante lejos de cualquier lugar donde ahora mismo necesito que la mano del Infierno parezca firme —dijo Naamah, ofreciendo tanta de la respuesta verdadera como no le costaba nada dar—. Un objetivo más cercano compra el mismo colapso de moral y un conjunto considerablemente peor de preguntas sobre quién lo autorizó, y desde dónde. Preferiría que ambos hicieran un trabajo excelente en algún lugar donde nadie esté ahora mismo mirando lo bastante de cerca como para malinterpretarlo. —Dejó que aquello se asentara, observando a Leraje sopesarlo y, al parecer, encontrarlo suficiente—. Eres libre de seguir preguntándome por qué. Simplemente no siempre habré terminado de decidir cuánto de la respuesta te corresponde oír.
 
-Leraje consideró esto, y lo dejó pasar con un encogimiento de hombros llano e imperturbable —el encogimiento, juzgó Naamah, de alguien que había recibido más respuesta de la que esperaba y ya no tenía uso para el resto—. —Suficientemente justo. Tú eres quien paga las flechas.
+Leraje consideró esto, y lo dejó pasar con un encogimiento de hombros llano e imperturbable —el encogimiento de alguien que había recibido más respuesta de la que esperaba y ya no tenía uso para el resto—. —Suficientemente justo. Tú eres quien paga las flechas.
 
 ---
 
 —Leraje la elimina —dijo Naamah—, limpiamente, exactamente como lo ha descrito —sin rastro, sin espectáculo, una muerte sobre la que la ciudad pueda gastar su duelo discutiendo en vez de vengando—. Eso ocurre primero, en silencio, y ocurre sola. —Observó la boca de Leraje curvarse, la pequeña confirmación satisfecha de una profesional a quien le han dicho que su método es el elegido—. Una vez que la comandante que mantenía unida esa provincia haya desaparecido y el duelo haya tenido una estación para agriarse por sí solo, la ciudad es tuya, Phenex. No la muerte —el después—. Lo que sea que la duda deje en pie, una vez que la fe ya haya empezado a hacer tu trabajo por ti antes de que hayas levantado un pincel.
 
-Phenex sopesó esto un momento, la cabeza ladeada —la mirada, juzgó Naamah, de un hombre decidiendo si acababa de ser insultado o halagado y descubriendo que aún no podía distinguir la diferencia—. —Me estás dando las ruinas en vez del edificio.
+Phenex sopesó esto un momento, la cabeza ladeada —la mirada de un hombre decidiendo si acababa de ser insultado o halagado y descubriendo que aún no podía distinguir la diferencia—. —Me estás dando las ruinas en vez del edificio.
 
 —Te estoy dando un lienzo ya preparado —dijo Naamah—. Tú mismo me has dicho, más de una vez, que haces tu mejor trabajo con algo que todavía sigue en pie cuando llegas. Una ciudad medio quebrada por un duelo cuya fuente no comprende sigue en pie, Capitán. Simplemente ya está escuchando a quien le diga qué significa su propia duda. —Dejó que la oferta se sostuviera exactamente tan segura como necesitaba sonar—. Habría pensado que preferirías un público que ya está medio persuadido antes de que hayas dicho una palabra.
 
-Algo cambió detrás de su compostura teatral, juzgó Naamah —un cálculo real reemplazando la actuación por la duración de una respiración. —Eso no es eficiencia —dijo lentamente, dirigiéndose a Leraje en vez de a Naamah—, eso es dramaturgia. Retiro lo que dije sobre los públicos.
+Algo cambió detrás de su compostura teatral —un cálculo real reemplazando la actuación por la duración de una respiración. —Eso no es eficiencia —dijo lentamente, dirigiéndose a Leraje en vez de a Naamah—, eso es dramaturgia. Retiro lo que dije sobre los públicos.
 
 —Yo no retiro nada. Solo consigo ir primero.
 

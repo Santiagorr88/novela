@@ -40,7 +40,7 @@ The guard didn't respond to that, and Arin left him standing there more unsettle
 
 ---
 
-He spotted the demon two nights later, wearing the guard's own uniform with the sloppy confidence Arin read as something that had never expected to be recognized for what it was. Low-ranked, unremarkable, exactly the disguised infiltrator this operation would have posted to watch a location this valuable without drawing attention to how valuable it was.
+He spotted the demon two nights later, wearing the guard's own uniform with a sloppy confidence that told Arin it had never expected to be recognized for what it was. Low-ranked, unremarkable, exactly the disguised infiltrator this operation would have posted to watch a location this valuable without drawing attention to how valuable it was.
 
 He didn't move on it. Every trained instinct in him wanted to end the threat cleanly and immediately, the same instinct that had served him through a decade of contracts where hesitation had only cost lives. He held it in check instead, patience that cost him effort to maintain, because a public execution on a campus this crowded would draw attention that would burn every advantage his month of careful, quiet hunting had bought him.
 

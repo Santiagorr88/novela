@@ -6,7 +6,7 @@ Documento vivo — registro de qué personaje del elenco ya fichado (capitanes, 
 
 ## Nael — primer caso, piloto de la subtrama de reencarnación (plan descartado, ver nota arriba)
 
-**Ficha original**: Squad Leader / Battle Motivation, bajo Jeremiel (Captain) → Camael (Commander). *"Purpose turns fear into fire."* Arma: *Coragio*, guantelete que contagia motivación con cada golpe. Personalidad: alentador, audaz, inquebrantable bajo presión.
+**Ficha original**: Squad Leader / Battle Motivation, bajo Jeremiel (Captain) → Camael (Commander). *"Purpose turns fear into fire."* Arma: *Audacia*, guantelete que contagia motivación con cada golpe. Personalidad: alentador, audaz, inquebrantable bajo presión.
 
 **Muerte**: Capítulo 5 (Libro I, Parte 1), batalla de Zaphor'el, beat "El coste del viejo modo de guerra" (ya planificado). Muere defendiendo una línea antes de que Solmire intervenga.
 

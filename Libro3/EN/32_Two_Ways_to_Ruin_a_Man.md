@@ -10,11 +10,11 @@ Phenex arrived first, as he generally did, sweeping into her hall in the manner 
 
 "I've dressed the room for whoever's useful to me at the moment I need them," Naamah said, her voice silk-smooth and close enough to feel more like agreement than argument, "which tonight happens to be you." She let Neriah hold the gallery's shape a moment longer, watching him settle into it much as a cat settled into a patch of remembered sun. "There's a town called Verrow's Hold I'd like you to ruin. Beautifully, if you can manage it. Quietly would be a novelty, but I won't insist."
 
-"Beautifully is the only register I have." He turned a slow circle, already, she judged, composing a scene in his head that had nothing to do with the actual town yet. "Tell me what's holding it together. I do my best work on something that's still standing when I arrive."
+"Beautifully is the only register I have." He turned a slow circle, already composing in his head a scene that had nothing to do with the actual town yet. "Tell me what's holding it together. I do my best work on something that's still standing when I arrive."
 
 Leraje entered without any entrance at all, which was, Naamah had come to understand, itself a kind of statement — a shape simply present in the doorway that had not been there a moment before, Mors slung loose across one shoulder the way a soldier who trusted her aim never bothered checking a weapon twice. She hadn't dressed for the gallery, or for anything else Naamah might have chosen to build around her; the room's borrowed light slid off her as it slid off stone, unclaimed and entirely beside the point. "You're going to tell him it's a garrison town," she said, before Naamah had said anything of the sort, "and he's going to want a month and an audience. I can have it quiet and finished before he's chosen a color."
 
-"You say that like efficiency is the whole of the art," Phenex said, not turning to look at her, which Naamah judged was its own small insult, calibrated precisely. "Efficiency is what you settle for when you've never once managed to make anyone remember your work after you've left the room."
+"You say that like efficiency is the whole of the art," Phenex said, not turning to look at her — its own small insult, calibrated precisely. "Efficiency is what you settle for when you've never once managed to make anyone remember your work after you've left the room."
 
 "I don't need them to remember it. I need them dead, and the ones who aren't dead too frightened to ask why." Leraje's voice carried the flat, unbothered precision of a woman reciting a fact rather than defending a position. "You want a legacy, Phenex. I want a result. One of those actually wins wars."
 
@@ -28,21 +28,21 @@ Phenex's whole posture sharpened, and Naamah watched the delight of a moment ago
 
 It mattered, Naamah thought, considerably more than either of them currently understood — the Inverted Valley arrangement was still too new, too easily bruised by anything that looked like Hell overreaching where it had promised, to hold its reach in check for now. A dead commander three provinces clear of that line was safe. A spectacle loud enough to draw a celestial investigator wandering in the wrong direction was not.
 
-"Why this town, though," Leraje asked, before Naamah had decided how much of that she intended to say aloud. "There are garrisons closer. Softer ones, if morale's really the target." She wasn't challenging the assignment, Naamah judged, watching her — only cataloguing it, the way she cataloged everything before she trusted it.
+"Why this town, though," Leraje asked, before Naamah had decided how much of that she intended to say aloud. "There are garrisons closer. Softer ones, if morale's really the target." Watching her, Naamah read it as no challenge to the assignment — only cataloguing it, the way Leraje cataloged everything before she trusted it.
 
 "Because Verrow's Hold is exactly far enough from anywhere I currently need Hell's hand to look steady," Naamah said, offering as much of the true answer as cost her nothing to give. "A closer target buys the same morale collapse and a considerably worse set of questions about who authorized it, and from where. I'd rather you both did excellent work somewhere no one's currently watching closely enough to misread it." She let that settle, watching Leraje weigh it and, apparently, find it sufficient. "You're welcome to keep asking me why. I simply won't always have finished deciding how much of the answer is yours to hear."
 
-Leraje considered this, and let it go with a plain, unbothered shrug — the shrug, Naamah judged, of someone who'd gotten more of an answer than she'd expected and had no further use for the rest. "Fair enough. You're the one who pays for the arrows."
+Leraje considered this, and let it go with a plain, unbothered shrug — the shrug of someone who'd gotten more of an answer than she'd expected and had no further use for the rest. "Fair enough. You're the one who pays for the arrows."
 
 ---
 
 "Leraje removes her," Naamah said, "cleanly, exactly as she's described — no trail, no spectacle, a death the town can spend its grief arguing about instead of avenging. That happens first, quietly, and it happens alone." She watched Leraje's mouth curve, the small, satisfied confirmation of a professional told her method was the one being trusted. "Once the commander who was holding that province together is gone and the grief has had a season to curdle on its own, the town is yours, Phenex. Not the killing — the after. Whatever the doubt leaves standing, once faith has already started doing your work for you before you've lifted a brush."
 
-Phenex weighed this a moment, head tilted — the look, Naamah judged, of a man deciding whether he'd just been insulted or complimented and finding he couldn't yet tell the difference. "You're giving me the ruins instead of the building."
+Phenex weighed this a moment, head tilted — the look of a man deciding whether he'd just been insulted or complimented and finding he couldn't yet tell the difference. "You're giving me the ruins instead of the building."
 
 "I'm giving you a canvas already primed," Naamah said. "You've told me yourself, more than once, that you do your best work on something that's still standing when you arrive. A town half-broken by grief it doesn't understand the source of is still standing, Captain. It's simply already listening for whoever tells it what its own doubt means." She let the offer sit exactly as certain as it needed to sound. "I'd have thought you'd prefer an audience that's already half-persuaded before you've said a word."
 
-Something shifted behind his theatrical composure, Naamah judged — real calculation replacing performance for the length of a breath. "That's not efficiency," he said slowly, to Leraje rather than to Naamah, "that's dramaturgy. I take back what I said about audiences."
+Something shifted behind his theatrical composure — real calculation replacing performance for the length of a breath. "That's not efficiency," he said slowly, to Leraje rather than to Naamah, "that's dramaturgy. I take back what I said about audiences."
 
 "I didn't take back anything. I just get to go first."
 

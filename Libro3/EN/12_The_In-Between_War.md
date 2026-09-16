@@ -64,13 +64,13 @@ He had commanded soldiers through losses he still carried the weight of, had wat
 
 ---
 
-Vepar answered a heartbeat later with hellfire of his own, a black-red wave loosed from his gathered legions with the same clean discipline Camael's had carried, and watched it die at the same silent boundary, extinguished as completely and as impossibly as the light that had preceded it. He had built his entire reputation on the certainty that fire answered every obstacle eventually, given enough of it. He watched that certainty fail for the first time in a command that had never, in all his centuries leading it, failed to produce some result worth measuring.
+Vepar answered a heartbeat later with hellfire of his own, a black-red wave loosed from his gathered legions with the same clean discipline Camael's had carried, and watched it die at the same silent boundary, extinguished as completely and as impossibly as the light that had preceded it. Fire had never once failed him in all his centuries of command; it had always answered any obstacle, given enough of it. Now it produced nothing at all — no scorch, no resistance, nothing worth measuring.
 
 "Marshal," his second said again, and this time there was no tactical question left in the word, only the plain, unhidden fear of a soldier watching his commander run out of answers.
 
-Vepar did not have an answer to give him. He understood, watching the hole continue its patient, indifferent growth, that neither fire nor light had ever been the right kind of weapon for whatever this was. His legions held their formation behind him without needing to be told to, the same discipline he'd spent decades drilling into them now serving a purpose he'd never trained them for — standing still, weapons lowered, in front of an enemy that refused to be an enemy in any shape a soldier could fight.
+Vepar did not have an answer to give him. Watching the hole continue its patient, indifferent growth, he found himself certain of only one thing: neither fire nor light had ever been the right kind of weapon for this. His legions held their formation behind him without needing to be told to, the same discipline he'd spent decades drilling into them now serving a purpose he'd never trained them for — standing still, weapons lowered, in front of an enemy that refused to be an enemy in any shape a soldier could fight.
 
-He thought, briefly, of every campaign he'd fought and won by simple, patient attrition, wearing down whatever stood in front of him until it finally yielded. He understood, watching the silent absence continue its unhurried spread, that attrition itself meant nothing to a thing that consumed the very attempt to wear it down.
+He thought, briefly, of every campaign he'd fought and won by simple, patient attrition, wearing down whatever stood in front of him until it finally yielded. The silent absence continued its unhurried spread in front of him, and attrition, he saw now, meant nothing to a thing that consumed the very attempt to wear it down.
 
 "Fall back one full length," he said finally, "and hold there. No further volleys until I say otherwise." It was not a victory. It was, at least, an order he could stand behind with some confidence, and for the moment, that would have to be enough.
 

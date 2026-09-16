@@ -4,7 +4,7 @@ Arin no había dormido dos veces en la misma ciudad desde la Ciudad Gris, y hab�
 
 Seguía moviéndose porque moverse era la única estrategia que le quedaba que todavía funcionaba de manera confiable. Un hombre que jamás dormía dos veces en el mismo sitio era más difícil de acorralar que un hombre que creía haber encontrado un lugar seguro.
 
-Estas últimas semanas le habían calado una clase de agotamiento que jamás había encontrado en una carrera construida sobre peligros mucho más convencionales. El trabajo por contrato le había enseñado a leer una sala, un objetivo, una salida. Nunca le había enseñado a leer la presión de sentirse observado por dos reinos enteros a la vez, cada uno sopesándolo contra un propósito que él mismo aún no entendía del todo. Comía cuando la comida se presentaba, dormía en tramos cortos y cuidadosos que jamás dejaban caer del todo la guardia, y seguía caminando —la alternativa era quedarse quieto el tiempo suficiente como para que uno de sus observadores decidiera que valía la pena cerrar la distancia.
+Estas últimas semanas le habían calado una clase de agotamiento para el que nada en su antiguo oficio, pese a todos sus peligros convencionales, lo había preparado. El trabajo por contrato le había enseñado a leer una sala, un objetivo, una salida. Nunca le había enseñado a leer la presión de sentirse observado por dos reinos enteros a la vez, cada uno sopesándolo contra un propósito que él mismo aún no entendía del todo. Comía cuando la comida se presentaba, dormía en tramos cortos y cuidadosos que jamás dejaban caer del todo la guardia, y seguía caminando —la alternativa era quedarse quieto el tiempo suficiente como para que uno de sus observadores decidiera que valía la pena cerrar la distancia.
 
 ---
 

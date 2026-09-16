@@ -44,7 +44,7 @@ Lucifer señaló el páramo gris que se extendía en cada dirección a su alrede
 
 —He tenido mucho tiempo para reconsiderar a qué estoy dado. —La mirada de Lucifer derivó, brevemente, hacia el horizonte donde la ceniza por fin cedía a suelo ordinario—. Ver a todo un reino de almas dulces e inmerecedoras simplemente dejar de existir tiende a afinar el aprecio de un hombre por la poesía que todavía le quede dentro.
 
-Gabriel no dijo nada por un momento, dejando que la confesión se asentara entre ellos sin respuesta. Había esperado, al pisar aquel campo, pasar la mayor parte del encuentro guardándose del tipo de manipulación sobre el que Lucifer había construido siglos de reputación. Se encontró, en cambio, simplemente escuchando, sin voluntad de interrumpir lo que fuera que aquella honestidad en particular le estuviera costando al hombre que tenía enfrente.
+Gabriel no dijo nada por un momento, dejando que la confesión se asentara entre ellos sin respuesta. Había esperado, al pisar aquel campo, pasar la mayor parte del encuentro guardándose del tipo de manipulación sobre el que Lucifer había construido siglos de reputación. Se encontró, en cambio, simplemente escuchando, sin voluntad de interrumpir todo lo que aquella honestidad en particular le estuviera costando al hombre que tenía enfrente.
 
 —Yo también perdí a alguien allí, en cierto modo —dijo Gabriel finalmente—. No un alma bajo mi cuidado directo. Pero yo mismo estuve en aquella cresta, más de una vez. Conocí el nombre del guardián, en algún momento. Ahora descubro que no puedo recordarlo, y eso me perturba más de lo que esperaba.
 

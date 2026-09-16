@@ -12,13 +12,13 @@ Hacía esto a menudo, en cualquier ciudad por la que pasara, a cualquier hora qu
 
 ---
 
-Un estudiante se dejó caer sobre el banco cercano un rato después, la postura particularmente derrumbada que Milo leyó como alguien que llevaba funcionando a base de cafeína y pánico de plazo entrega durante más tiempo del que era saludable. No pidió permiso para sentarse lo bastante cerca como para escuchar. A Milo nunca le importaba cuando no lo pedían. Cambió la canción sin anunciar el cambio, algo más suelto ahora, algo con más aire en ello.
+Un estudiante se dejó caer sobre el banco cercano un rato después, la clase de postura derrumbada que Milo leyó como alguien que llevaba funcionando a base de cafeína y pánico de plazo entrega durante más tiempo del que era saludable. No pidió permiso para sentarse lo bastante cerca como para escuchar. A Milo nunca le importaba cuando no lo pedían. Cambió la canción sin anunciar el cambio, algo más suelto ahora, algo con más aire en ello.
 
 —¿Sabías que las palomas de la biblioteca tienen plaza fija? —dijo Milo, a mitad de acorde, sin levantar la vista de las cuerdas, la voz ligera y juguetona, deslizándose a otro registro a mitad de frase igual que hacían sus canciones, con una calidez vieja e inubicable corriendo por debajo del chiste—. Nadie les ha visto un programa de estudios en años, y la universidad todavía no ha encontrado el papeleo para despedirlas. —Dejó que la línea se asentara un compás antes de terminarla—. Le pregunté una vez a una por su horario de atención. Me dijo que los jueves, lo cual es o una mentira muy específica o lo más honesto que me ha dicho nadie en este campus en todo el semestre.
 
-El estudiante se rio a su pesar, la risa reticente y sorprendida de alguien que no había planeado encontrar nada gracioso hoy. Milo se rio con él, sin guardia y genuino, el brillo específico de aquello atrapando la risa del estudiante y tirando de ella un poco más de lo que la broma sola se había ganado. Para cuando se apagó, los hombros del estudiante habían bajado un centímetro medible entero, algo del pánico visiblemente aflojado en él, y se quedó ahí un momento respirando de un modo que se sintió, por primera vez en toda la tarde, como si no le costara nada.
+El estudiante se rio a su pesar, la risa reticente y sorprendida de alguien que no había planeado encontrar nada gracioso hoy. Milo se rio con él, sin guardia y genuino, un brillo en aquello que atrapó la risa del estudiante y tiró de ella un poco más de lo que la broma sola se había ganado. Para cuando se apagó, los hombros del estudiante habían bajado un centímetro medible entero, algo del pánico visiblemente aflojado en él, y se quedó ahí un momento respirando de un modo que se sintió, por primera vez en toda la tarde, como si no le costara nada.
 
-—Tenía tres entregas ayer —admitió el estudiante, sin venir a cuento de nada, la confesión particular de alguien que de pronto se sentía lo bastante seguro cerca de un desconocido como para decir la verdad en voz alta—. No me he reído desde el martes. Tampoco pensé que fuera a hacerlo hoy.
+—Tenía tres entregas ayer —admitió el estudiante, sin venir a cuento de nada, una confesión que a Milo le pareció venida de alguien que de pronto se había sentido lo bastante seguro cerca de un desconocido como para decir la verdad en voz alta—. No me he reído desde el martes. Tampoco pensé que fuera a hacerlo hoy.
 
 —El martes es un día difícil para reírse —dijo Milo, con la simpatía fácil y sin complicaciones de un hombre que jamás se había preocupado por un plazo en toda su existencia, y lo dijo en serio de todos modos—. El miércoles es mejor. Estadísticamente. He hecho la investigación. —No la había hecho, y los dos parecieron entenderlo sin que ninguno tuviera que decirlo en voz alta, y el estudiante se rio de nuevo igualmente, más pequeño esta vez, pero real.
 
@@ -34,9 +34,9 @@ La biblioteca no le devolvió nada esta vez tampoco, sus ventanas oscuras contra
 
 —¿Te he visto por aquí antes? —El estudiante ya se había recuperado en su mayor parte, la curiosidad ganándole por fin al agotamiento—. Siento que sí. Solo que no sé ubicar cuándo.
 
-—Llevo aquí más tiempo del que creerías —dijo Milo, y sonrió la sonrisa particular que no prometía nada explícito y cumplía exactamente eso de todos modos—. La gente rara vez me recuerda bien a mí. Sobre todo recuerdan cómo se sintieron.
+—Llevo aquí más tiempo del que creerías —dijo Milo, y sonrió una sonrisa que no prometía nada explícito y cumplía exactamente eso de todos modos—. La gente rara vez me recuerda bien a mí. Sobre todo recuerdan cómo se sintieron.
 
-—Eso no es realmente una respuesta. —El estudiante lo dijo con una pequeña sonrisa cansada, más divertido que molesto, la indulgencia particular que la gente solía extenderles a los músicos callejeros que hablaban en círculos en vez de en línea recta.
+—Eso no es realmente una respuesta. —El estudiante lo dijo con una pequeña sonrisa cansada, más divertido que molesto, la clase de indulgencia que la gente solía extenderles a los músicos callejeros que hablaban en círculos en vez de en línea recta.
 
 —Es la única honesta que tengo hoy. —Tocó un acorde nuevo, dejándolo suspendido en el aire un momento antes de resolverlo—. Pregúntame otra vez un día que esté menos honesto. Probablemente te mienta como es debido, y te va a gustar mucho más esa respuesta.
 

@@ -1,14 +1,8 @@
 # Chapter 8 — The Weight of a Crown of Light
 
-Ophaniel had been formally assigned to the chronicling halls for a little less than a decade, and no assignment since had ever matched the honor of recording Miguel's own campaigns. Other scribes her age competed openly for postings closer to the Council, which Ophaniel assumed promised them political relevance and quicker advancement. Ophaniel had asked, specifically and repeatedly, for this one. She followed at a respectful, practiced distance as he crossed the Bastion's central concourse, tablet in hand, already composing the opening lines that would eventually become tonight's entry in her mind before she had written a single word of it down.
+The hymn took shape over the course of the week, passing from singer to singer through the lower choirs of the Celestial City long before it reached anything as formal as a written score. Ophaniel listened from the archive balcony, transcribing the verses with strokes that cost her fingers a strange heaviness. The young choristers sang of *the Sword-Bearer, radiant and resolute, who walks where lesser courage fails,* and their voices were beautiful, clean of the cold ash of the trenches and the copper smell of the front.
 
-The crowd parted before him like water before something moving with absolute certainty. Angels young and old drew back to clear his path, murmuring his name reverently. An older archivist standing near the colonnade bowed so low that her forehead nearly brushed the polished stone floor. Ophaniel watched a young sentinel near the front kneel as Miguel passed, apparently overcome, and watched Miguel walk on without appearing to notice the gesture at all — too focused, she assumed, on graver matters than a soldier's reverence.
-
-She wrote down what she had seen: a champion returning from triumph, Solmire's light haloing his shoulders, his bearing flawless, his silence the dignified restraint of a man who had seen too much glory to need applause for it. She chose her verbs very carefully, as her instructors had drilled into her years ago, favoring words that carried real weight without tipping over into excess. Restraint made for better chronicle than spectacle ever did. It was, she thought, watching him disappear into the Bastion's inner halls, the finest entry she had composed all year.
-
-The hymn took shape within the week, passed singer to singer through the lower choirs before it ever reached anything as formal as a written score, the way the best devotional pieces always seemed to spread. Ophaniel heard the very first full performance from a balcony above the central hall, a full chorus of young voices rising in praise of *the Sword-Bearer, radiant and resolute, who walks where lesser courage fails.*
-
-She found herself moved by it, genuinely and completely, the way she was moved by any well-crafted piece of devotion. The younger choristers sang the final verse twice, unprompted, for the pleasure of the melody, and a few of the older singers standing near the back wiped at their eyes without any apparent embarrassment. The song painted Miguel as flawless — untouched by doubt, untouched by weariness, a champion whose certainty never wavered because it had no reason to. To Ophaniel, transcribing the final verse into her own record with careful, admiring strokes, the portrait seemed exact.
+To Ophaniel, the portrait of her champion was exact, a monument of marble untouched by weariness. But below, on the flagstones of the concourse, the veterans crossing the yard did not look toward the choir. They walked with their shoulders bowed beneath frayed cloaks, hands brushing the worn hilts of their ordinary swords with a wariness no official chronicle would ever dare to record. The hymn hung over them like a winter sun: bright, beautiful, and utterly incapable of warming the cold stone they all still had to keep marching on.
 
 ---
 
@@ -34,36 +28,46 @@ The cost of his brother's transformation, he was beginning to understand, reache
 
 ---
 
-Miguel knelt alone before the altar that night, seeking what he had sought here a thousand times before — the quiet, steady presence of the Creator he had served across an unmeasured span of years. This particular chapel had been a refuge once, the one place in all the Bastion where duty could be set down entirely, if only for the length of a single prayer. He found, instead, only the hum.
+The chapel lay in half-light, but Solmire rested on the altar, and its presence alone was enough to make the shadows draw back into the corners with an unnatural rigidity. The candles burned straight and static, their flames untouched by the draft that always crept through the moldings of the Broken Light. Miguel knelt before the dark, radiant metal, searching for the old, warm resonance of prayer that had carried him through every campaign for ages.
 
-Solmire rested on the altar before him, its edge catching what little light remained in the chamber, and its low, constant thrum filled the space more completely than silence ever had, a presence with no gaps in it, no room left over for anything else to enter. The candles arranged around the altar burned unnaturally still, their flames untouched by any draft at all, as though even the air itself had learned to defer to the sound. He tried, as he had every night this week, to reach past it toward whatever had once answered him here. The hum did not yield ground. It simply continued, patient and total, a demand disguised as company.
+He found nothing. Only the hum.
 
-He had come here seeking connection, the way he always had before, on nights when the weight of command grew too heavy to carry alone. He understood, kneeling in the muffled quiet with only the blade's insistence for companionship, that he had found something else instead — a thing that filled the same space connection once had, without actually being it. Raphael remained near the chapel door throughout, a silent presence Miguel had grown accustomed to over these nightly vigils, waiting without comment for however long the kneeling happened to last that night.
+The sword's murmur filled the chapel with physical weight, a cold and perfect note that left no crack for any other voice to enter. Miguel looked at the blade, and for an instant his hollow chest ached with a pang that Solmire's numbing did not silence right away.
 
-Raphael had not yet left when the thought finally forced its way out of Miguel, quieter than he intended, almost involuntary, the words escaping some guarded place before he had fully decided to speak them. "If I fall, do I return knowing who I was? Or does the cycle take that too?"
+"If I fall, Raphael," he said, and his own voice came out thin, orphaned of its old gravity, "do I return knowing who I was? Or does the cycle take that too?"
 
-Raphael set his staff carefully aside and lowered himself to sit nearer the altar, considering the question with the particular care he gave to anything Miguel asked in this kind of voice. "The cycle isn't cruel, Miguel. It's only honest. Divine Law made it so: what comes back isn't what left. It's what left, beginning again."
+Raphael had stayed near the rear door, a green-and-white silhouette that asked no permission to observe his general's wear. He took two steps toward the candlelight, setting Veritas against the floor with a dry sound.
 
-Miguel turned that answer over for longer than he wanted to admit needing to, the plain words settling somewhere he had not expected them to land. It offered no comfort, and he understood, hearing it, that it had not been meant to. "That's not an answer that actually helps."
+"The cycle isn't cruel, Miguel," Raphael answered, his tone carrying the clinical patience of a healer measuring a wound he knows he cannot close. "It's only honest. What returns isn't what left. It's what left, beginning again."
 
-"No," Raphael agreed, very quietly, without hesitation. "But it's the true one, and I think you'd rather have that than the comfortable version."
+Miguel did not look away from Solmire's edge, feeling the metal's hum climb again, steady and placid, to smother the dissonance of his question.
+
+"That's not an answer that actually helps," he whispered.
+
+"No," Raphael agreed gently. "But it's the true one, and I think you'd rather have that than the comfortable version."
 
 Miguel did not respond. He kept his eyes fixed on the sword rather than on Raphael, and Raphael, after a long moment of shared silence, rose and retrieved his staff. He left Miguel there, alone again with the hum, and did not ask what had prompted the question in the first place, or press for the answer that silence, Miguel sensed, was withholding.
 
-The war council convened early the following morning, and Miguel arrived already certain of the plan he intended to deliver, a map of the cosmos already unrolled before him when the others took their seats. He did not wait for the room to fully settle into its seats before beginning.
+The war council convened while the Bastion's light was still a pale, cold haze in the windows. Miguel entered with the map already unrolled over the Table of the Covenant, and Solmire rested against the marble, its hum interfering faintly with the ordinary pulse of the room's runes.
 
-"This plane harbors shadow," he said, tracing a region on the map with one finger, his tone leaving no space for the discussion a proposal like this once would have required. "Shadow breeds doubt. We cleanse it before it becomes a threat."
+"This plane harbors shadow," Miguel said, and his finger traced the border of the neutral territory with metronomic precision, not seeking the Council's agreement. "Shadow breeds doubt. We cleanse it before it becomes a threat."
 
-"They're neutral, Miguel." Gabriel's voice carried an edge Miguel had rarely heard from him before, sharp enough to draw a few uneasy glances around the table. "They've committed no crime."
+Gabriel stepped forward from the window, and the blue of his robe seemed to draw taut under the blade's light.
 
-"Their nature is their crime. The sword itself sees this." Miguel did not raise his voice. He did not need to, not anymore, not in this room. "That is enough."
+"They're neutral, Miguel," Gabriel said, and his voice — the Herald of Resonance's own voice — carried an edge of dissonance sharp enough to make the junior officers along the wall shift with discomfort. "They've committed no crime."
 
-Uriel opened his mouth to object and then, visibly, reconsidered, some calculation passing behind his eyes that Miguel did not bother trying to read. He closed it again without a word, and Miguel noted the silence without dwelling on what had produced it, already moving his attention back to the map. No one else in the room spoke against the order. It was given, and the room absorbed it the way rooms had learned to absorb everything Miguel said now — without argument, the matter settled before anyone had finished disagreeing with it.
+Miguel did not raise his voice. He held his brother's gaze with eyes that no longer carried any nuance. His chest did not ache; the sword hummed with a furious frequency at the shadow's "imperfection," and he needed that mechanical hostility to be justice, so that he would not go mad.
+
+"Their nature is their crime," Miguel pronounced, transferring the whole of the ethical burden onto the metal resting at his side. "The sword itself sees this. That is enough."
+
+Uriel opened his mouth to object. The general of fire, usually loud and quarrelsome, looked at Gabriel, then at the map, then at Solmire's glacial light. He remembered how easily Zaphor'el had fallen, remembered the twenty coins weighing in his baldric, and the exhaustion of legions he no longer had to send to die inch by inch. In the end, Uriel reconsidered his stance and closed his mouth in silence, surrendering to the same comfortable self-deception Miguel was offering him.
+
+Uriel's silence sealed the table. The order was given, and the Council absorbed it in a muteness that was not peace, but the first great capitulation of its own faith.
 
 ---
 
-Bellenor received the written order two days later, passed down through several channels until it reached his rank as a simple set of coordinates and a directive: engage, cleanse, report. He read it through twice, sitting alone in the empty barracks with the parchment held closer to the lamp than it strictly needed to be, looking for some clause, some qualification, that might soften what it plainly asked of him. There was none.
+Bellenor received the written order two days later. It was only three lines of precise black ink on a parchment that smelled of archive wax: coordinates, a directive, and a seal. There were no reasons given. No explanation for why a plane that had never once raised a weapon against Heaven was suddenly a threat to be cleansed.
 
-He had fought demons his entire long service, had not once questioned an order to strike a genuine threat, had trusted, always, that the chain of command above him understood the war better than he did from his own narrow position within it, and had rarely had cause to think much further about it than that. This was different, and he knew it was different, and he suited up for the assault anyway, because refusing was not a shape his duty had ever been built to hold. He told himself, marching out at dawn with the rest of his unit toward a plane that had, as far as he could determine, done nothing to deserve what was coming, that the order came from Miguel, and Miguel had never once been wrong before. The unit around him marched in the same unbroken silence he carried himself, no one offering the usual pre-battle banter that normally filled a march like this one, and Bellenor suspected he was not the only one repeating some version of the same reassurance to himself.
+He suited up for the assault in silence, feeling the weight of his chainmail colder and heavier on his shoulders than in any campaign before. Around him, his unit formed up in the yard with the same mute discipline. No one joked about wagers; no one offered the rough, loud banter that usually preceded a real battle on the frontier.
 
-He did not, in truth, entirely believe himself. He went anyway, the weight of that unbelief settling somewhere he suspected he would be carrying it for a long while after the mission was done, long past whatever brief, procedural report he would eventually file confirming that the order had been carried out exactly as given.
+«The order comes from Miguel,» Bellenor repeated to himself as they crossed the threshold of the Empyrean Gates, adjusting his shield strap with a hand that refused to stay steady. «And Miguel has never once been wrong before.» He told himself this to be convinced, but the lie tasted of chalk in his throat, and looking at the silent backs of the soldiers marching beside him, he understood he was not the only one who needed to repeat that same hymn to himself, so as not to have to look at the abyss they were all marching toward.

@@ -60,11 +60,11 @@ It was Torin who spotted the smaller ship first, a single vessel breaking from t
 
 "Command, we have a break in formation," Torin reported, though something in his tone suggested he already suspected this particular break wasn't the kind that needed correcting.
 
-"Hold position," the reply came back almost immediately, brisk and clearly expected. "That vessel is authorized. Manifest confirms four: Azael, Thaeriel, Ereloth, Michael. Let it pass, and log nothing further on the channel."
+"Hold position," the reply came back almost immediately, brisk and clearly expected. "That vessel is authorized. Manifest confirms four: Azael, Thaeriel, Ereloth, Miguel. Let it pass, and log nothing further on the channel."
 
 Seren watched the small ship pull away from the fleet's edge, angling itself toward the silent, empty space between realities instead of the churning abyss the rest of the armada was bearing down on. She caught no more than a glimpse through her scope before the distance swallowed the details — four figures visible for a moment through the craft's plain hull, none of them dressed for battle in any fashion she recognized, and none of the four names the manifest had given her meaning anything more to her than any other name might have.
 
-"Those four are worth clearing an entire fleet lane for?" she asked, though she suspected, watching the little ship dwindle further against the vast dark, that the answer wouldn't change anything about what came next for her own formation.
+"Those four are worth clearing an entire fleet lane for?" she asked, watching the little ship dwindle further against the vast dark. She suspected the answer wouldn't change anything about what came next for her own formation.
 
 "No idea what they're actually for," Torin said. "But if command cleared it without so much as a question, it matters more than anything the rest of us are about to do."
 

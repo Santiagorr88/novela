@@ -54,7 +54,7 @@ He traced the contested border a second time, indicating the sectors he intended
 
 "Every report that crosses my desk from this point forward will be treated as urgent regardless of its source," he continued. "I will not have a solution delayed by a lord too proud to admit useful information came from the Host's side of this alliance."
 
-He studied the gathered lords a moment longer, reading in their renewed attention the particular quality of a room that had, for now, set its objections firmly aside. He had built his entire long reign on exactly this kind of calculated demonstration, teaching a room what it needed to learn without ever once raising his voice to do it. Tonight's lesson, he suspected, would hold considerably longer than the last one had.
+He studied the gathered lords a moment longer, reading in their renewed attention the particular quality of a room that had, for now, set its objections firmly aside. This kind of calculated demonstration was the whole foundation his long reign rested on, teaching a room what it needed to learn without ever once raising his voice to do it. Tonight's lesson, he suspected, would hold considerably longer than the last one had.
 
 He thought, studying the settling faces around him, of every council he'd presided over across the long centuries of his reign, and found this one, whatever its unpleasant necessities, more clarifying than most. A room this size rarely agreed on anything easily. Tonight, at least for the length of this single briefing, he judged it had settled on exactly the thing that mattered.
 

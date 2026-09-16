@@ -80,7 +80,7 @@ Neither man spoke the promise aloud. Standing there in the last of the settling 
 
 ---
 
-Arin turned first, walking back the way he'd come without a final word. His footsteps faded into the dark of the passage, measured and even, the same pace he'd have used walking away from any ordinary job. He didn't look back. Looking back, he'd learned across a decade of harder departures than this, rarely made a parting easier, only longer. Whatever waited at the end of this new search, he'd face it the same disciplined way he faced everything else.
+Arin turned first, walking back the way he'd come without a final word. His footsteps faded into the dark of the passage, measured and even, the same pace he'd have used walking away from any ordinary job. He didn't look back. A decade of harder departures than this had already taught him that looking back rarely made a parting easier, only longer. Whatever waited at the end of this new search, he'd meet it no differently than he met everything else.
 
 ---
 

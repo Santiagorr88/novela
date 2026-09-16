@@ -12,13 +12,13 @@ He did this often, in whatever city he happened to be passing through, at any ho
 
 ---
 
-A student dropped onto the bench nearby some while later, the particular collapsed posture Milo read as someone who had been running on caffeine and deadline panic for longer than was healthy. He didn't ask permission to sit close enough to listen. Milo never minded when they didn't. He shifted the song without announcing the shift — looser now, more air in it.
+A student dropped onto the bench nearby some while later, the kind of collapsed posture Milo read as someone who had been running on caffeine and deadline panic for longer than was healthy. He didn't ask permission to sit close enough to listen. Milo never minded when they didn't. He shifted the song without announcing the shift — looser now, more air in it.
 
 "You know the pigeons outside the library have tenure," Milo said, mid-chord, not looking up from the strings, his voice light and playful, sliding into a different register mid-sentence the way his songs did, some old, unplaceable warmth riding underneath the joke. "Nobody's seen a syllabus from any of them in years, and the university still hasn't found the paperwork to let them go." He let the line sit a beat before he finished it. "I asked one for its office hours once. It told me Thursdays, which is either a very specific lie or the most honest thing anyone on this campus has told me all semester."
 
-The student laughed despite himself, the reluctant, surprised laugh of someone who hadn't planned on finding anything funny today. Milo laughed with him, unguarded and real, the specific brightness of it catching the student's laughter and pulling it further out of him than the joke alone had earned. By the time it faded, the student's shoulders had dropped a full measurable inch, some of the panic visibly loosened out of him, and he sat there breathing, for the first time all afternoon, like it had cost him nothing.
+The student laughed despite himself, the reluctant, surprised laugh of someone who hadn't planned on finding anything funny today. Milo laughed with him, unguarded and real, a brightness in it that caught the student's laughter and pulled it further out of him than the joke alone had earned. By the time it faded, the student's shoulders had dropped a full measurable inch, some of the panic visibly loosened out of him, and he sat there breathing, for the first time all afternoon, like it had cost him nothing.
 
-"I had three deadlines due yesterday," the student admitted, apropos of nothing, the particular confession of what struck Milo as someone who suddenly felt safe enough near a stranger to say the true thing out loud. "I haven't laughed since Tuesday. I didn't think I was going to today either."
+"I had three deadlines due yesterday," the student admitted, apropos of nothing, a confession that struck Milo as coming from someone who'd suddenly felt safe enough near a stranger to say the true thing out loud. "I haven't laughed since Tuesday. I didn't think I was going to today either."
 
 "Tuesday's a hard day to laugh on," Milo said, with the easy, uncomplicated sympathy of a man who had never worried about a deadline in his entire existence, and meant it anyway. "Wednesday's better. Statistically. I've done the research." He hadn't, and both of them seemed to understand that without either needing to say it aloud, and the student laughed again anyway, smaller this time, but real.
 
@@ -34,9 +34,9 @@ The library gave nothing back this time either, its windows dark against the aft
 
 "Have I seen you around before?" The student was mostly recovered now, curiosity finally winning out over exhaustion. "I feel like I have. I just can't place when."
 
-"I've been here longer than you'd believe," Milo said, and smiled the particular smile that promised nothing explicit and delivered exactly that much regardless. "People rarely remember me well. They mostly remember how they felt."
+"I've been here longer than you'd believe," Milo said, and smiled a smile that promised nothing explicit and delivered exactly that much regardless. "People rarely remember me well. They mostly remember how they felt."
 
-"That's not really an answer." The student said it with a small, tired smile, more amused than annoyed, the particular indulgence people tended to extend to street musicians who talked in circles instead of straight lines.
+"That's not really an answer." The student said it with a small, tired smile, more amused than annoyed, the kind of indulgence people tended to extend to street musicians who talked in circles instead of straight lines.
 
 "It's the only honest one I've got today." He struck a new chord, letting it hang in the air before resolving it. "Ask me again on a day when I'm feeling less honest. I'll probably lie to you properly, and you'll like that answer a great deal more."
 

@@ -36,7 +36,7 @@ Kushiel no dijo nada por un momento. Bajo la cresta, el ejercicio continuaba sin
 
 ---
 
-Kemuel los encontró ahí unos minutos después, subiendo el último tramo de la cresta a dos zancadas por vez, la hoja todavía envainada pero su mano descansando sobre ella del modo en que Kushiel había aprendido hacía tiempo a leer como una decisión ya medio tomada. —La cara de Thariel cuando pasó junto a mi columna —dijo Kemuel, una sonrisa ya audible en la voz antes de llegarle a la cara— no era una cara que llevara buenas noticias. ¿Qué cantó el coro esta vez?
+Kemuel los encontró ahí unos minutos después, subiendo el último tramo de la cresta a dos zancadas por vez, la hoja todavía envainada pero su mano descansando sobre ella con el peso suelto y listo de una decisión ya medio tomada. —La cara de Thariel cuando pasó junto a mi columna —dijo Kemuel, una sonrisa ya audible en la voz antes de llegarle a la cara— no era una cara que llevara buenas noticias. ¿Qué cantó el coro esta vez?
 
 —Gabriel ha hecho retroceder a su consejo —dijo Kushiel—. Les dijo que la guerra real ocurre en algún lugar que no pueden alcanzar, y que su papel ahora es observar, no combatir.
 

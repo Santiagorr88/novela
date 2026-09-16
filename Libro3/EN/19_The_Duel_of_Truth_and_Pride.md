@@ -50,7 +50,7 @@ He did not press the advantage. He held his ground, patient, and let Belial reco
 
 Belial recovered and attacked again, and again after that, each strike carrying more raw fury than technique, driven less by strategy than by the plain, desperate need to make this stillness in front of him finally react to something. He drove blow after blow toward a target that kept refusing to be a target, and felt, somewhere around the tenth exchange, a cold and unwelcome pattern settling into him. He was not losing a fight. He was failing to start one, over and over, against an opponent who had never needed to engage him to remain in control of what was happening here.
 
-He struck again anyway, because stopping felt, in that moment, worse than continuing. His soldiers watched from their ranks, silent, and, somewhere beneath the fury still driving his arm, he was acutely aware of every eye fixed on a fight he was visibly failing to win. He had built his entire command on the certainty that his legions never saw him falter. Whatever else this duel cost him, that certainty was already bleeding out with every wasted swing.
+He struck again anyway, because stopping felt, in that moment, worse than continuing. His soldiers watched from their ranks, silent, and, somewhere beneath the fury still driving his arm, he was acutely aware of every eye fixed on a fight he was visibly failing to win. His legions had never once seen him falter, and his whole command rested on that single certainty. Whatever else this duel cost him, that certainty was already bleeding out with every wasted swing.
 
 ---
 
@@ -58,7 +58,7 @@ Thaeriel met each blow with an economy that offered nothing for Belial's rage to
 
 "I am not your enemy," he said, catching another desperate blow on a forearm that shouldn't have been able to stop it. "I am only what happens when something this heavy finally stops being ignored."
 
-He felt no cruelty in the exposure, only the plain necessity of it. A man could not be asked to set down a lie he had never been made to see clearly. Every truth he pressed into Belial now was, in its own way, a kindness disguised as an injury, the only path he knew of toward the honest reckoning this duel had been called to produce. He had learned that lesson slowly, across every verdict that had ever cost him something to deliver, and saw no reason to expect this one to prove any gentler than the rest.
+There was no cruelty in it, as far as he could tell, only necessity. A man could not be asked to set down a lie he had never been made to see clearly. Every truth he pressed into Belial now was, in its own way, a kindness disguised as an injury, the only path he knew of toward the honest reckoning this duel had been called to produce. He had learned that lesson slowly, across every verdict that had ever cost him something to deliver, and saw no reason to expect this one to prove any gentler than the rest.
 
 ---
 
@@ -72,6 +72,6 @@ He thought, in the ragged space between one swing and the next, of every argumen
 
 ---
 
-Thaeriel watched him falter and felt no satisfaction in the sight, only the plain, settled certainty that whatever came next in this duel had already been decided several exchanges ago, the instant Belial's own fury had finally started working against him instead of for him. He thought of every judgment he'd ever handed down that had ended in relief rather than triumph, the quiet understanding that exposing a lie was rarely the same thing as celebrating its exposure. This felt no different, the same dry cold of the plaza settling deeper into him with every truth he let pass through, as though Dis itself grew colder in proportion to how much of its pride came undone. A man was coming apart in front of him, one truth at a time, and there was nothing in that unmaking worth taking pleasure in, however necessary it had turned out to be.
+Thaeriel watched him falter and took no satisfaction in it. What settled over him instead was certainty: whatever came next in this duel had already been decided several exchanges ago, the instant Belial's own fury had finally started working against him instead of for him. He thought of every judgment he'd ever handed down that had ended in relief rather than triumph, the quiet understanding that exposing a lie was rarely the same thing as celebrating its exposure. This felt no different, the same dry cold of the plaza settling deeper into him with every truth he let pass through, as though Dis itself grew colder in proportion to how much of its pride came undone. A man was coming apart in front of him, one truth at a time, and there was nothing in that unmaking worth taking pleasure in, however necessary it had turned out to be.
 
 He held his position, unmoved, a mirror turned steadily toward a man who had spent centuries constructing every possible reason not to look into one, and waited to see how much further pride alone could carry someone who had just been shown exactly how little of it had ever been his own.

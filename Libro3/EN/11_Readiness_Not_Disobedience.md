@@ -36,7 +36,7 @@ Kushiel said nothing for a moment. Below the ridge, the drill continued without 
 
 ---
 
-Kemuel found them there a few minutes later, climbing the last stretch of the ridge two strides at a time, his blade still sheathed but his hand resting on it in the way Kushiel had long since learned to read as a decision already half-made. "Thariel's face when he passed my column," Kemuel said, a grin already audible in his voice before it reached his face, "wasn't a face carrying good news. What did the choir sing this time?"
+Kemuel found them there a few minutes later, climbing the last stretch of the ridge two strides at a time, his blade still sheathed but his hand resting on it with the loose, ready weight of a decision already half-made. "Thariel's face when he passed my column," Kemuel said, a grin already audible in his voice before it reached his face, "wasn't a face carrying good news. What did the choir sing this time?"
 
 "Gabriel's stood his council down," Kushiel said. "Told them the real war's happening somewhere they can't reach it, and that their part in it now is watching, not fighting."
 

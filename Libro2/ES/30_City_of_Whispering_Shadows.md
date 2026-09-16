@@ -40,7 +40,7 @@ El guardia no respondió a eso, y Arin se alejó dejándolo más inquieto de lo 
 
 ---
 
-Divisó al demonio dos noches después, vistiendo el propio uniforme del guardia con la confianza descuidada que Arin leyó como algo que nunca había esperado ser reconocido por lo que era. De bajo rango, poco notable, exactamente el infiltrado disfrazado que esta operación habría destinado a vigilar una ubicación tan valiosa sin llamar la atención sobre cuán valiosa era.
+Divisó al demonio dos noches después, vistiendo el propio uniforme del guardia con una confianza descuidada que le dijo a Arin que nunca había esperado ser reconocido por lo que era. De bajo rango, poco notable, exactamente el infiltrado disfrazado que esta operación habría destinado a vigilar una ubicación tan valiosa sin llamar la atención sobre cuán valiosa era.
 
 No actuó de inmediato. Cada instinto entrenado en él quería terminar con la amenaza limpia e inmediatamente, el mismo instinto que lo había servido a lo largo de una década de contratos donde la vacilación solo le había costado vidas. Lo contuvo en cambio, una paciencia que le costaba esfuerzo mantener, porque una ejecución pública en un campus tan concurrido atraería la atención que quemaría cada ventaja que su mes de caza cuidadosa y silenciosa hubiera comprado.
 

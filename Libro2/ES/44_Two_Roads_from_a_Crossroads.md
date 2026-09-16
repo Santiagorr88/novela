@@ -80,7 +80,7 @@ Ninguno de los dos hombres pronunció la promesa en voz alta. De pie ahí en el 
 
 ---
 
-Arin se giró primero, caminando de vuelta por donde había venido sin una palabra final. Sus pasos se desvanecieron en la oscuridad del pasaje, medidos y parejos, el mismo paso que habría usado alejándose de cualquier trabajo ordinario. No miró atrás. Mirar atrás, había aprendido a lo largo de una década de despedidas más duras que esta, rara vez hacía una separación más fácil, solo más larga. Fuera lo que fuese lo que esperara al final de esta nueva búsqueda, la enfrentaría del mismo modo disciplinado en que enfrentaba todo lo demás.
+Arin se giró primero, caminando de vuelta por donde había venido sin una palabra final. Sus pasos se desvanecieron en la oscuridad del pasaje, medidos y parejos, el mismo paso que habría usado alejándose de cualquier trabajo ordinario. No miró atrás. Una década de despedidas más duras que esta ya le había enseñado que mirar atrás rara vez hacía una separación más fácil, solo más larga. Fuera lo que fuese lo que esperara al final de esta nueva búsqueda, no la enfrentaría de un modo distinto al que enfrentaba todo lo demás.
 
 ---
 

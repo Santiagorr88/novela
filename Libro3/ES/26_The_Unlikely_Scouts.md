@@ -50,7 +50,7 @@ Sariel comprendió de inmediato que la confirmación de la lanza, útil como era
 
 —Ahí —dijo el colono, señalando con una mano temblorosa hacia una grieta estrecha en la pared de roca detrás de ellos, un camino que Sariel no tenía forma de saber que existiera por su cuenta—. Crecí en esta ladera. Esa grieta baja hasta la terraza inferior. La he usado cien veces.
 
-Sariel siguió la mano que señalaba del hombre y comprendió de inmediato por qué ella sola jamás habría encontrado este camino. La lanza le decía qué era un alma. Jamás le había dicho nada sobre el terreno que esa alma había vivido su vida caminando.
+Sariel siguió la mano que señalaba del hombre y vio de inmediato por qué la lanza sola jamás habría encontrado este camino. La lanza le decía qué era un alma. Jamás le había dicho nada sobre el terreno que esa alma había vivido su vida caminando.
 
 ---
 

@@ -14,7 +14,7 @@ Había pasado la mayor parte de la mañana preparándose para este encuentro del
 
 —Mariscal. —Camael señaló el mapa sin más ceremonia. Fuera lo que fuese lo que esta alianza les exigiera a ambos, no tenía intención de desperdiciarla en cortesías de las que dudaba que ninguno de los dos valorara.
 
-Notó, viendo a Vepar cruzar el último tramo de suelo de lona hacia él, que el demonio no llevaba nada de la ceremonia para la que Camael se había preparado a medias tras años de oír describir a los comandantes del Infierno, en informes del concilio, como criaturas de espectáculo y amenaza. Vepar simplemente caminaba, sin adorno, y apoyó el extremo de su tridente con suavidad contra el suelo junto a la mesa de mapas, el gesto cargando más autoridad silenciosa de la que cualquier despliegue habría logrado.
+Mientras Vepar cruzaba el último tramo de suelo de lona hacia él, notó que el demonio no llevaba nada de la ceremonia para la que Camael se había preparado a medias tras años de oír describir a los comandantes del Infierno, en informes del concilio, como criaturas de espectáculo y amenaza. Vepar simplemente caminaba, sin adorno, y apoyó el extremo de su tridente con suavidad contra el suelo junto a la mesa de mapas, el gesto cargando más autoridad silenciosa de la que cualquier despliegue habría logrado.
 
 ---
 
@@ -50,11 +50,11 @@ Estudió el mapa de nuevo mientras esperaba, trazando los sectores que Camael ha
 
 ---
 
-Camael sopesó el argumento en la calma que siguió, contraponiendo la lógica fría de Vepar a las propias palabras de Miguel en la cámara del concilio —que esta guerra exigiría cosas que a ninguno de los dos bandos se les había pedido nunca antes, que las viejas doctrinas construidas para viejos enemigos resultarían inútiles contra una amenaza que no respondía a ninguna de ellas—. Pensó en las legiones que había visto arrojadas contra la nulidad con todo lo que tenían, fe y fuego fallando por igual en dejar marca sobre ella, y comprendió, sopesándolo con honestidad, que un muro construido puramente sobre la defensa bien podría convertirse en un lugar más donde los soldados murieran inútilmente mientras la entidad se extendía más allá de sus bordes de todos modos.
+Camael sopesó el argumento en la calma que siguió, contraponiendo la lógica fría de Vepar a las propias palabras de Miguel en la cámara del concilio —que esta guerra exigiría cosas que a ninguno de los dos bandos se les había pedido nunca antes, que las viejas doctrinas construidas para viejos enemigos resultarían inútiles contra una amenaza que no respondía a ninguna de ellas—. Pensó en las legiones que había visto arrojadas contra la nulidad con todo lo que tenían, fe y fuego fallando por igual en dejar marca sobre ella. Sopesándolo con honestidad, comprendió que un muro construido puramente sobre la defensa bien podría convertirse en un lugar más donde los soldados murieran inútilmente mientras la entidad se extendía más allá de sus bordes de todos modos.
 
 —Un compromiso, entonces —dijo Camael—. Establecemos un escudo avanzado —una línea defendible, no una estática—. Tus fuerzas la usan como plataforma de partida, atacando desde detrás de ella cuando la oportunidad se presenta, en lugar de sacrificar reinos en masa para fabricar esa oportunidad. Nosotros sostenemos. Vosotros golpeáis. Ninguno de los dos obtiene todo lo que le resulta desagradable del enfoque del otro.
 
-Vepar consideró las líneas de sector revisadas largamente, su expresión sin revelar nada más, el tridente desplazándose una vez sobre su antebrazo mientras estudiaba la nueva forma del mapa. Camael leyó algo reticente en la duración de esa pausa, una vacilación que el mariscal parecía no tener intención de nombrar en voz alta. Le costaba visiblemente, pensó Camael, al verlo sopesarlo —el costo particular de un hombre que cambiaba la brutalidad más limpia de su plan original por una forma tan comprometida.
+Vepar consideró las líneas de sector revisadas largamente, su expresión sin revelar nada más, el tridente desplazándose una vez sobre su antebrazo mientras estudiaba la nueva forma del mapa. Camael leyó algo reticente en la duración de esa pausa, una vacilación que el mariscal parecía no tener intención de nombrar en voz alta. Al verlo sopesarlo, Camael pensó que le costaba visiblemente —el costo particular de un hombre que cambiaba la brutalidad más limpia de su plan original por una forma tan comprometida.
 
 —Servirá —dijo Vepar finalmente, dando un golpecito al mapa con dos dedos, un gesto que cerraba el punto en lugar de concederlo de verdad.
 

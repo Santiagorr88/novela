@@ -26,7 +26,7 @@ Miró hacia sus propias manos, una encendida desde adentro por el mismo oro que 
 
 Había pensado, durante más tiempo del que quizá fuera prudente, que sostener el equilibrio significaba observar desde una distancia cuidadosa, gastando su atención como una cosa racionada, sin arriesgar jamás de sí mismo más de lo que un único momento absolutamente requería. Un paso desviado aquí. Un instante congelado allá. Suficiente para impedir que ocurriera lo peor, nunca suficiente para en verdad cambiar la forma de lo que viniera después. Había construido una vida entera y larga sobre aquella contención particular, y jamás se había detenido, hasta este momento, a preguntarse si la contención había sido sabiduría o simplemente el más fácil de dos miedos disponibles.
 
-Comprendía ahora, con el temblor todavía fresco en él, que el equilibrio que tanto tiempo había pasado protegiendo jamás le había pedido que se mantuviera así de pequeño. Solo le había pedido siempre que se mantuviera honesto respecto a lo que el momento en verdad requería, y cada momento antes de este había requerido, de hecho, muy poco de él. Este no compartía aquella misericordia. Ya podía sentir la forma de lo que le costaría, distante pero inconfundible, del modo en que un hombre siente el peso de un largo camino antes de que su primer paso haya siquiera dejado atrás el umbral.
+Con el temblor todavía fresco en él, empezó a ver que el equilibrio que tanto tiempo había pasado protegiendo jamás le había pedido que se mantuviera así de pequeño. Solo le había pedido siempre que se mantuviera honesto respecto a lo que el momento en verdad requería, y cada momento antes de este había requerido, de hecho, muy poco de él. Este no compartía aquella misericordia. Ya podía sentir la forma de lo que le costaría, distante pero inconfundible, del modo en que un hombre siente el peso de un largo camino antes de que su primer paso haya siquiera dejado atrás el umbral.
 
 ---
 
@@ -36,7 +36,7 @@ Se dejó caer del borde.
 
 No cayó. Descendió, del modo en que había descendido dos veces antes, ingrávido y sin premura, la montaña encogiéndose sobre él en un único punto pequeño de quietud que había dejado atrás. Las nubes se apartaron a su alrededor sin necesidad de pedírselo, como siempre lo habían hecho, y bajo ellas el mundo se desplegaba en sus capas familiares —océano, bosque, las luces dispersas de ciudades que había visto alzarse y caer más veces de las que jamás se hubiera molestado en contar—. Nada de ello se veía mal desde esta altura. Eso, más que ninguna otra cosa, era lo que más lo inquietaba del temblor que todavía se asentaba en su pecho: lo que estaba desescribiendo algún rincón distante de aquella armonía no dejaba marca visible alguna en las partes todavía intactas, ninguna advertencia que un vigía menor hubiera pensado siquiera en buscar.
 
-Pero esta vez, por primera vez desde que había aprendido la forma de su propio descenso, comprendió, con una certeza que no le pedía nada más, que no volvería a subir hasta aquel punto de nuevo. No esta vez. No hasta que lo que esperaba abajo hubiera por fin agotado su curso.
+Pero esta vez, por primera vez desde que había aprendido la forma de su propio descenso, se asentó en él una certeza que no le pedía nada más: no volvería a subir hasta aquel punto de nuevo. No esta vez. No hasta que lo que esperaba abajo hubiera por fin agotado su curso.
 
 ---
 

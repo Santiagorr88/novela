@@ -1,6 +1,12 @@
 {
   "chapters": [
     {
+      "n": 0,
+      "file": "00_Prologue.md",
+      "source": "design_notes/2026-09-09_prologo_borradores.md",
+      "title": "What the Tree Kept"
+    },
+    {
       "n": 1,
       "file": "01_A_Wound_in_the_World.md",
       "source": "B1Cap01_EN.md",

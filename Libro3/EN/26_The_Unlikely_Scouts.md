@@ -50,7 +50,7 @@ Sariel understood immediately that the spear's confirmation, useful as it was, o
 
 "There," the colonist said, pointing with a shaking hand toward a narrow crevice in the rock face behind them, a path Sariel had no way of knowing existed on his own. "I grew up on this slope. That crack leads down to the lower terrace. I've used it a hundred times."
 
-Sariel followed the man's pointing hand and understood immediately why it alone would never have found this path. The spear told him what a soul was. It had never told him anything about the ground that soul had lived its life walking.
+Sariel followed the man's pointing hand and saw at once why the spear alone would never have found this path. The spear told him what a soul was. It had never told him anything about the ground that soul had lived its life walking.
 
 ---
 

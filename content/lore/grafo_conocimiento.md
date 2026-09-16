@@ -80,8 +80,8 @@
 
 ## Violaciones y tensiones detectadas en la construcción
 
-**Violación firme (1):**
-- **V-TUREIN** 🟠 — Mikel cruza físicamente a Turein en `L2/19-22`, pero `L3/04` y `L3/06` lo tratan como si nunca hubiera estado (Ereloth le explica cómo entrar; la tormenta "girando desde la caída de Michael" debería haber existido durante su visita). Parche mínimo propuesto en kg1 (1-2 líneas legalizando la entrada selectiva de la isla). **Pendiente de decisión del autor.**
+**Resuelto (2026-09-01):**
+- **V-TUREIN** ✅ — `L2/19` y `L2/22` establecen que la visita de Mikel a Turein fue una proyección astral involuntaria (se desmaya en su escritorio de Navarion; no hay barco ni tormenta reales; despierta de vuelta en su apartamento con la inscripción ya copiada de su puño y letra). `L3/04` y `L3/06` quedan alineados: Mikel reconoce ante Ereloth que "ya estuvo" en Turein (o lo soñó); Ereloth explica que aquella vez la isla solo le mostró "el recibidor" porque su alma no estaba lista para calmar la tormenta, y que hoy cruza por primera vez en carne propia, enfrentando la Tormenta de las Penas que antes no vio. Parche aplicado en `L3/04` y `L3/06` (EN+ES).
 
 **Errores del mapa de hilos corregidos (2026-08-22):** la cita "si los tres despiertan, ÉL despertará" atribuida a L1/43 no existe en prosa (es del lore file); el candidato del Enforcer es Azael, no Ereloth; "Mikel visita al Sabio" en L2/14 no ocurre (es intervención remota).
 

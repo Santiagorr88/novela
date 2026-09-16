@@ -18,7 +18,7 @@ Recuperó el equilibrio y echó una mirada atrás, solo una vez, hacia el hombre
 
 —¿Siempre das órdenes así —llamó Arin sobre el estruendo de un nuevo intercambio, empujando a un demonio hacia atrás con tres golpes cortos, algo cercano a genuina diversión abriéndose paso entre el peligro de su voz—, o es nuevo?
 
-—Ni idea —gritó Mikel de vuelta, sin romper su propio ritmo, ya rastreando el cambio en la línea enemiga con la misma frialdad clara que le había permitido gritar la última advertencia a tiempo—. Pero está funcionando. Así que cállate y flanquea. —Hundió el fragmento de estantería en el costado expuesto de un demonio sin romper el paso, el movimiento no menos deliberado que cualquier otra palabra de la frase.
+—Ni idea —gritó Mikel de vuelta, sin romper su propio ritmo, ya rastreando el cambio en la línea enemiga con la concentración que le había permitido gritar la última advertencia a tiempo—. Pero está funcionando. Así que cállate y flanquea. —Hundió el fragmento de estantería en el costado expuesto de un demonio sin romper el paso, el movimiento no menos deliberado que cualquier otra palabra de la frase.
 
 —Mandón para ser profesor. —Ya se movía para cubrir el ángulo que Mikel había señalado.
 
@@ -36,13 +36,15 @@ Algo cambió entre ellos unos intercambios después, sutil al principio y luego 
 
 Arin también lo sintió, en su propio lado de la pelea, sus golpes encontrando huecos que se abrían medio segundo antes de que él girara hacia ellos, como si algo estuviera despejándole el camino antes de que él mismo lo hubiera elegido. Había peleado junto a compañeros capaces antes, a lo largo de una década de contratos cuidadosos. Ninguno se había sentido nunca así —dos ritmos separados encajando, sin esfuerzo, en uno solo compartido. Su cuerpo se movía más rápido de lo que tenía derecho a moverse tan adentro de una pelea tan desequilibrada, cada golpe aterrizando exactamente donde el anterior había abierto espacio para el siguiente, formación tras formación fracturándose ante él bajo una presión para la que el entrenamiento de los soldados nunca los había preparado a responder.
 
-Durante un puñado de latidos, algo pasó entre ellos que ninguno de los dos hombres habría podido nombrar, y el aire del corredor pareció sostener un peso que no había sostenido un momento antes —una quietud debajo de toda la violencia, tensa y expectante, del modo en que el aire se tensa antes de que una nota sostenida por fin se resuelva. Arin tampoco tenía nombre para ello. Solo sabía que no duró.
+Durante un puñado de latidos, algo pasó entre ellos que ninguno de los dos hombres habría podido nombrar, y el aire del corredor pareció sostener un peso que no había sostenido un momento antes —una quietud debajo de toda la violencia, expectante del modo en que el aire se tensa antes de que una nota sostenida por fin se resuelva. Arin tampoco tenía nombre para ello. Solo sabía que no duró.
 
 ---
 
 El ejecutor, observando desde su distancia prudente con la misma paciencia serena que había mantenido desde que el portal se abrió por primera vez, dio un paso adelante él mismo, y la pelea cambió en el instante en que lo hizo.
 
-Mikel sintió la diferencia de inmediato. Este no era otro soldado sumado a una cuenta ya desesperada. El ejecutor se movía por el caos del corredor sin desperdiciar un solo movimiento, cerrando la distancia en tres zancadas fáciles que de algún modo cubrían más terreno del que deberían, y allí donde se movía, los soldados se reorganizaban a su alrededor con una obediencia que le decía a Mikel con claridad que este era el verdadero motor detrás de esta emboscada. No llevaba ningún arma visible que Mikel pudiera identificar, y sus propios soldados les daban a esas manos vacías más espacio del que se daban entre sí las hojas. Sus ojos, cuando se posaron directamente en Mikel, llevaban la misma paciencia plana y evaluadora que había portado desde que atravesó el fuego por primera vez.
+---
+
+Mikel sintió la diferencia de inmediato. Este no era otro soldado sumado a una cuenta ya desesperada. El ejecutor se movía por el caos del corredor sin desperdiciar un solo movimiento, cerrando la distancia en tres zancadas fáciles que de algún modo cubrían más terreno del que deberían, y allí donde se movía, los soldados se reorganizaban a su alrededor con una obediencia que le decía a Mikel con claridad que este era el verdadero motor detrás de esta emboscada. No llevaba ningún arma visible que Mikel pudiera identificar, y sus propios soldados les daban a esas manos vacías más espacio del que se daban entre sí las hojas. Sus ojos, cuando se posaron directamente en Mikel, eran tan planos y evaluadores como lo habían sido desde que atravesó el fuego por primera vez.
 
 ---
 

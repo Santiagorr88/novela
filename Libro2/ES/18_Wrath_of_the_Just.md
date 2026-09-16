@@ -22,7 +22,7 @@ Lo intentó dos veces más de todos modos, porque intentarlo era la única herra
 
 ---
 
-Algo en Arin se rompió, limpia y completamente, en el medio segundo que tardaron en apretarse los dedos del capitán. No era ira, exactamente —ira ya la había sentido antes, había construido toda una carrera manejándola y dirigiéndola y poniéndola a uso—. Esto era un mes entero de observar ausencias y leer silencios y prometer cosas que todavía no sabía cómo cumplir, todo ello llegando de golpe sin ningún lugar en él lo bastante pequeño como para contenerlo en silencio.
+Algo en Arin se rompió, limpia y completamente, en el medio segundo que tardaron en apretarse los dedos del capitán. No era ira, exactamente —la ira era terreno viejo y conocido, una herramienta que había aprendido hacía tiempo a apuntar y a deponer a voluntad—. Esto era un mes entero de observar ausencias y leer silencios y prometer cosas que todavía no sabía cómo cumplir, todo ello llegando de golpe sin ningún lugar en él lo bastante pequeño como para contenerlo en silencio.
 
 Pensó, en el último fragmento claro de sí mismo que reconocería como del todo suyo durante los siguientes minutos, en la mujer cuatro celdas más allá que le había preguntado cuánto tiempo, en el muchacho atado al marco mientras un técnico revisaba un dispositivo de mano en vez de mirarle el rostro, en cada forma silenciosa que bordeaba aquel primer corredor que ningún reloj aquí abajo se había molestado en rastrear. Le había prometido a una de ellas una respuesta que en ese momento no tenía del todo. No le había prometido que sería ella a quien usarían para poner a prueba si la promesa había significado algo en absoluto.
 

@@ -13,6 +13,7 @@ static/browser_history/*.gif
 # Virtual environments
 .venv
 venv/
+.venv-video/
 
 # Environment variables
 .env
@@ -38,3 +39,11 @@ coverage/
 data/
 artifacts/logs/
 src/chapters/
+
+# Paquetes de referencia visual (PNG, ~1,35 GB): no se commitean; solo locks, chosen.json e identity_lock.txt
+video_production/images_personajes/**/*.png
+video_production/images_armas/**/*.png
+
+# Credenciales OAuth de YouTube: nunca commitear
+video_production/pipeline/youtube_client_secret.json
+video_production/pipeline/youtube_token.json

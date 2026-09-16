@@ -10,7 +10,7 @@ He understood now that the coldness was not a defect. It was simply what he was.
 
 ---
 
-He made the call before he let himself walk any further south, sitting on a low rock with his back to the wind. He'd kept the same number for this contact across the entire decade, a small, deliberate habit that had served him well more than once. The broker picked up on the third ring, his voice carrying the same flat wariness Arin remembered from every job they'd ever done together.
+He made the call before he let himself walk any further south, sitting on a low rock with his back to the wind. He'd kept the same number for this contact across the entire decade, a small, deliberate habit that had served him well more than once. The broker picked up on the third ring, his voice carrying the flat wariness Arin remembered from every job they'd ever done together.
 
 "Didn't expect to hear from you again," the broker said. "Last I heard, you'd gone quiet enough that I figured you'd finally gotten yourself killed properly."
 
@@ -18,13 +18,13 @@ He made the call before he let himself walk any further south, sitting on a low 
 
 A pause stretched on the other end, long enough that Arin almost thought the connection had dropped. "You're serious."
 
-"I am." He'd expected the broker to argue, or at least to push for a better explanation than the one Arin was willing to give him. Neither came. In a decade of contracts negotiated through this voice, Arin couldn't remember a single instance of the man accepting anything at face value without at least one follow-up question.
+"I am." He'd expected the broker to argue, or at least to push for a better explanation than the one Arin was willing to give him. Neither came. In ten years of jobs negotiated through this voice, Arin couldn't remember a single instance of the man accepting anything at face value without at least one follow-up question.
 
 "You alright?" The question came out rougher than the broker's usual careful neutrality, a note in his voice Arin had never heard from him in all their years of working together. Arin could hear, faintly, some radio or television playing in the background on the broker's end, ordinary noise that told him the man was standing in his own kitchen or living room, somewhere he'd never pictured him in a decade of purely transactional calls.
 
 "I'm going to reclaim something that's mine," Arin said. "After that, I don't know what I'll be." Saying it aloud cost him less than he'd expected. "Take care of yourself."
 
-He ended the call before the broker could ask anything further. He thought of every job the broker had arranged for him over the years — every payment collected, every target confirmed and eliminated. He had once believed that doing the work cleanly was the same thing as doing it honestly. It wasn't. He tried, briefly, to count the jobs, the way he had years ago before he'd stopped bothering. He gave up somewhere past sixty, the same place he always gave up, the true number lost further back than that. None of it called to him now. He put the phone away for good.
+He ended the call before the broker could ask anything further. Every job the broker had ever arranged for him came back to him unbidden — every payment collected, every target confirmed and eliminated. He had once believed that doing the work cleanly was the same thing as doing it honestly. It wasn't. He tried, briefly, to count the jobs, the way he had years ago before he'd stopped bothering. He gave up somewhere past sixty, the same place he always gave up, the true number lost further back than that. None of it called to him now. He put the phone away for good.
 
 ---
 
@@ -34,7 +34,7 @@ He stood again once the wind had eased, and said aloud, for the first time, the 
 
 No name had ever felt correct in his mouth before, not even his own. This one did. He said it again, quieter the second time, listening to the exact shape the syllables made against the wind. A third time after that, louder, out toward the water, until a passing gull startled off a nearby rock at the sound of it. It felt less like trying on a name and more like finally using the right one, after years of answering to the wrong one.
 
-Arin Cross had been a useful name, a name a man could hand a client without flinching, a name that had opened doors and closed contracts across a decade of careful work. It had never felt like this. He thought of every version of himself that name had covered — the eager young man just starting out, quick to take any job that paid; the tired veteran who'd stopped counting contracts once the number stopped meaning anything and started measuring years instead. He remembered the exact office where he'd first signed that name on a contract, a cramped room above a pawn shop with a landlord who never asked questions, and how proud he'd been of the signature at the time, how deliberately he'd practiced it beforehand so it would look like something he'd always had. None of those versions had ever been the whole of him. He'd known that much for a while, even before he'd had a better name to explain it with.
+Arin Cross had been a useful name, a name a man could hand a client without flinching, a name that had opened doors and closed contracts across a decade of careful work. It had never felt like this. Every version of himself that name had covered rose up at once — the eager young man just starting out, quick to take any job that paid; the tired veteran who'd stopped counting contracts once the number stopped meaning anything and started measuring years instead. He remembered the exact office where he'd first signed that name on a contract, a cramped room above a pawn shop with a landlord who never asked questions, and how proud he'd been of the signature at the time, how deliberately he'd practiced it beforehand so it would look like something he'd always had. None of those versions had ever been the whole of him. He'd known that much for a while, even before he'd had a better name to explain it with.
 
 ---
 
@@ -42,7 +42,7 @@ He raised his empty hand without quite deciding to. Something answered — a fai
 
 He couldn't close his fingers around it. It wasn't here. It was an image only, cast across whatever distance separated him from the real weapon, still held, he suspected, in Hell, by hands that had no right to it. He tested the image a moment longer, moving his hand slowly through the space where the light hung, and found no resistance, nothing solid enough to answer the movement. He tried a second time anyway, more slowly, watching his own fingers pass through the light without disturbing it in the slightest, and only then let the effort go.
 
-He had expected fury from a weapon meant to punish. This was not fury. It was judgment in its purest, coldest form — precise, not cruel, painful only because the truth it delivered was sometimes painful to hear. He studied the image a long moment, comparing it against every weapon he had held across a decade of contracts, and found nothing in his memory that matched it. The rage that had driven him through those years had never come from this weapon. That rage had been his own addition, a mortal man's rough substitute for something that never needed anger to do its work.
+He had expected fury from a weapon meant to punish. This was not fury. It was judgment in its purest, coldest form — precise, not cruel, painful only because the truth it delivered was sometimes painful to hear. He studied the image a long moment, comparing it against every weapon he'd ever held in ten years of work, and found nothing in his memory that matched it. The rage that had driven him through those years had never come from this weapon. That rage had been his own addition, a mortal man's rough substitute for something that never needed anger to do its work.
 
 ---
 
@@ -50,7 +50,7 @@ He thought of Belial, holding that light, and did not feel the hatred he'd expec
 
 Arin didn't know it exactly, couldn't have laid out the history the way a scholar might have, but something about the image left him certain enough of the outline: whoever now held this weapon had taken it believing it a prize, and had carried it since without understanding what carrying it cost him. The image gave him no dates, no count of years, nothing he could have written down as fact. It only gave him the feeling underneath the guess — a man mistaking a punishment for the ordinary price of power, never asking himself why victory should have hurt this much. Arin found that almost sad, if his own half-formed sense of it was even close to right.
 
-The pity didn't last long enough to become doubt. Arin let the image fade from his hand before it could. Belial had taken something that wasn't his. Whatever grief the theft had cost him since didn't cancel the theft. Arin had learned, across a decade of contracts, never to let a man's suffering excuse what he'd done — he'd watched too many clients try that exact argument on him, tears and all, and none of them had ever changed the debt they owed. This proved only one thing plainly: some things could not belong to anyone who hadn't rightfully earned them.
+The pity didn't last long enough to become doubt. Arin let the image fade from his hand before it could. Belial had taken something that wasn't his. Whatever grief the theft had cost him since didn't cancel the theft. Arin had learned, over years of collecting on other men's debts, never to let a man's suffering excuse what he'd done — he'd watched too many clients try that exact argument on him, tears and all, and none of them had ever changed the debt they owed. This proved only one thing plainly: some things could not belong to anyone who hadn't rightfully earned them.
 
 ---
 

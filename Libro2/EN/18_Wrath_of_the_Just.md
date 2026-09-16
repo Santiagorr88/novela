@@ -22,7 +22,7 @@ He tried twice more anyway, because trying was the only tool left in the kit he'
 
 ---
 
-The last of Arin's control broke, cleanly and completely, in the half-second it took the captain's fingers to tighten. It was not rage, exactly — rage he had felt before, had built an entire career managing and directing and putting to use. This was a month of watching absences and reading silences and promising things he hadn't known yet how to deliver, all of it arriving at once with nowhere left in him small enough to hold it quietly.
+The last of Arin's control broke, cleanly and completely, in the half-second it took the captain's fingers to tighten. It was not rage, exactly — rage was old, familiar ground, a tool he'd learned long ago to aim and put down again at will. This was a month of watching absences and reading silences and promising things he hadn't known yet how to deliver, all of it arriving at once with nowhere left in him small enough to hold it quietly.
 
 He thought, in the last clear fragment of himself he'd recognize as fully his own for the next several minutes, of the woman four cells down who'd asked him how long, of the boy strapped into a frame while a technician checked a handheld device instead of watching his face, of every silent shape lining that first corridor that no clock down here had bothered to track. He had promised one of them an answer he hadn't fully had at the time. He had not promised her that she would be the one used to test whether the promise had meant anything at all.
 

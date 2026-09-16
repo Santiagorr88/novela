@@ -6,7 +6,7 @@ Gabriel crossed the room slowly, taking in the state of him with a care he had n
 
 He had come here already carrying more than he wanted to admit to anyone, Iofiel's message arriving at the worst possible hour of a day that had offered no good ones. Every report from the last several weeks had funneled through his own desk eventually — Belial's return with Lamentum confirmed, Miguel's growing unreliability in the field, and now this, whatever this was. He had learned, across centuries of command, to set his own exhaustion aside until the moment allowed for it. Looking at his brother now, he judged it was still some distance off.
 
-"Iofiel needs to speak with both of us," Gabriel said, keeping his voice level, the same careful register he had spent centuries cultivating for exactly this. "Tonight. She says it can't wait."
+"Iofiel needs to speak with both of us," Gabriel said, keeping his voice level, the same careful register he had spent centuries cultivating for exactly this. "Tonight. She says what she's pulled from the Necropolis archive can't wait for dawn."
 
 Miguel did not answer immediately, and when he did, his voice carried none of its usual weight. "I have nothing left to give a council, Gabriel. Whatever she's found, take it to someone who can still hold a sword without flinching."
 
@@ -16,7 +16,7 @@ Something in Miguel's posture shifted, fractionally — not hope exactly, Gabrie
 
 They walked the corridor toward Miguel's receiving chamber in silence, Gabriel matching his own pace to his brother's slower one without remarking on it. He had walked this same corridor beside Miguel more times than he could easily count, in seasons far kinder than this one, and was grateful at least that his brother had agreed to come at all.
 
-Iofiel waited for them in Miguel's own receiving chamber rather than any formal council room, the fragment of the *Codex Mortalis* resting carefully on the table before her, its silver-lit script still faintly glowing in the low light. She rose as the brothers entered, taking in Miguel's evident state without comment, and gestured them both toward the chairs opposite her own.
+Iofiel waited for them in Miguel's own receiving chamber rather than any formal council room, Memnón resting against her shoulder, the fragment of the *Codex Mortalis* set carefully on the table before her, its silver-lit script still faintly glowing in the low light. She rose as the brothers entered, taking in Miguel's evident state without comment, and gestured them both toward the chairs opposite her own.
 
 She did not ease into the subject the way she might have with a less urgent finding. She had turned over, in the hours since leaving her scriptorium, every gentler way of framing what the Codex had told her, and had abandoned each one in turn as a disservice to the two men who most needed to hear it plainly. Softening the words would only cost them time they could not afford, and she had spent enough of her own strength wresting the sentence free of the text to have no patience left for delivering it gently.
 
@@ -32,7 +32,7 @@ Miguel did not feel surprise, sitting with the words Iofiel had just spoken. He 
 
 He laughed once, a single harsh sound entirely without humor, and looked down at his own hands as though they belonged to someone else. "The laughter... the pain..." he said quietly, half to himself. He had understood, days ago in the aftermath of Zaphor'el, exactly what Solmire's amusement at his own dream had meant. He understood now, sitting here, precisely what that amusement had been aimed at all along — not him, not really. Something forged before time had no particular reason to care about the man currently holding its hilt.
 
-"I wasn't chosen," he said, louder now, though the volume did nothing to steady his voice. "Whatever I told myself, whatever anyone told me when they handed her over — I wasn't chosen for anything. I was just the first fool who happened to be standing close enough to pick her up." He turned the thought over once more, searching for some flaw that might soften the conclusion, and found none. A blade forged before the Divine Word itself had no need of a worthy hand. It needed only a hand, and his had simply been the one available.
+"I wasn't chosen," he said, louder now, though the volume did nothing to steady his voice. "Whatever I told myself, whatever anyone told me when they handed her over — I wasn't chosen for anything. I was just the first fool close enough to the ash tree to pick her up when the tree decided to die." He turned the thought over once more, searching for some flaw that might soften the conclusion, and found none. A blade forged before the Divine Word itself had no need of a worthy hand. It needed only a hand, and his had simply been the one available.
 
 He thought back over every battle he had fought since the blade first came into his keeping, every moment he had credited to his own skill rather than to what the blade had actually been doing beneath his grip the whole time. The recollection offered him nothing he wanted. Years of a reputation he had believed earned, and none of it, he understood now, had ever required him specifically.
 

@@ -4,7 +4,7 @@ Arin had not slept in the same city twice since the Grey City, and he'd stopped 
 
 He kept moving because moving was the only strategy he had left that still worked reliably. A man who never slept in the same place twice was harder to corner than a man who thought he'd found somewhere safe.
 
-These last weeks had worn a kind of exhaustion into him he'd never encountered across a career built on far more conventional dangers. Contract work had taught him to read a room, a target, an exit. It had never taught him to read the pressure of being watched by two entire realms at once, each weighing him against a purpose he still didn't fully understand himself. He ate when food presented itself, slept in short, careful stretches that never let his guard drop all the way, and kept walking — the alternative was standing still long enough for one of his watchers to decide he was worth the trouble of closing the distance.
+These last weeks had worn a kind of exhaustion into him that nothing in his old line of work, for all its conventional dangers, had ever prepared him for. Contract work had taught him to read a room, a target, an exit. It had never taught him to read the pressure of being watched by two entire realms at once, each weighing him against a purpose he still didn't fully understand himself. He ate when food presented itself, slept in short, careful stretches that never let his guard drop all the way, and kept walking — the alternative was standing still long enough for one of his watchers to decide he was worth the trouble of closing the distance.
 
 ---
 
