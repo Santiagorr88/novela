@@ -1,5 +1,7 @@
 # Capítulo 1 "A Wound in the World" — lista maestra de planos, completa
 
+> **⚠️ SUPERADO (2026-09-16, más tarde el mismo día)**: esta versión de 38 planos en español se quedó corta frente a la granularidad real que produce Storyboard Studio. La versión vigente, con 48 planos en 10 escenas reales y generada directamente desde el JSON reconstruido, está en `2026-09-16_capitulo_1_planos_EN.md` (en inglés, listo para pegar) y en `storyboard_studio_exports/cap01_storyboard_studio_2026-09-15_sin_imagenes.json` (fuente única de verdad). Este documento se conserva como referencia histórica de cómo llegamos hasta ahí, no como guion de trabajo.
+
 > Fecha: 2026-09-16. Este documento **consolida y sustituye** los fragmentos dispersos (los 13 planos de Storyboard Studio + los 18 de `2026-09-16_escena_piloto_dialogo.md`, muchos aún sin prompt completo) en **una sola lista, en orden, de principio a fin del capítulo**. Úsalo como el guion de trabajo único para generar todo el capítulo 1.
 >
 > Formato de cada plano: **Visual / Movimiento / Audio / Diálogo** (convención de Storyboard Studio). Modelo por defecto: **Omni 1.1 Flash** vía `Vídeo → Ingredientes` (mencionando `@Miguel`, `@Gabriel`, `@Pewter_Sentinel` explícitamente en el texto, no solo seleccionados) o `Vídeo → Fotogramas` si generas antes la imagen fija con `Mockup`/`Whisk`/`Shot Explorer`. Personaje Miguel con **armadura agrietada + alas con ceniza/quemado leve** durante todo el capítulo (ver `variantes_por_personaje/Miguel.md`).
