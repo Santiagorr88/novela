@@ -1,0 +1,392 @@
+{
+  "version": "1.2",
+  "projectTitle": "CHAPTER 1. A WOUND IN THE WORLD.",
+  "fullMarkdown": "# CHAPTER 1. A WOUND IN THE WORLD.\n\n<!-- scene-id: 6cd862f7-56ee-4aa7-8d86-6a5a33eb4727 -->\n### EXT. SEREPHIS - DAY\n\nAn EXTREME WIDE SHOT reveals the desert of Serephis. It is not a sea of gold, but the scorched corpse of a kingdom. Under a sickly bruise-colored overcast sky, the landscape is a jagged expanse of shattered black glass and grey ash, stretching toward a horizon that wavers in the rising heat.\n\nA solitary speck of gold moves across the obsidian waste.\n\n<!-- scene-id: 73058eb8-138a-43b3-907b-d60ba683dac2 -->\n### EXT. SEREPHIS - BLACK GLASS FLATS - DAY\n\nMIGUEL, the archangel General of the Celestial Host, marches through the ruin. He is a towering adult male with a lean, powerful athletic build, wearing heavy golden celestial plate armor, intricately etched but battered, dusty, and visibly cracked from the old Onyx Gates campaign.\n\nTwo enormous pearl-white feathered wings rise from his back, their pristine feathers lightly stained with fine grey ash and showing subtle old burn wear.\n\nThe ground beneath his sabatons is a sheet of fused black glass. With every step, the surface splinters with a dry rhythmic sound. He carries the weight of twelve days of travel.\n\n<!-- scene-id: 24d9f456-e41d-46a6-ae6e-f1fad3748b06 -->\n### EXT. SEREPHIS - ASH DUNES - LATER\n\nA CLOSE TRACKING SHOT follows Miguel. His ash-white hair moves slightly in the dry wind. His electric-cyan eyes remain faintly luminous, with the light contained entirely inside the eyes.\n\nThe golden armor is failing. Deep cracks spiderweb across the breastplate. The metal groans with every stride.\n\nMiguel falters. His breathing is shallow through grit-coated lungs.\n\nHis gauntleted hand rises instinctively to the center of his sternum. He presses against the source of a phantom cold, searching for a wound that is not physically there: the hollow.\n\nHe stares at the horizon like a man haunted by a question he cannot yet name.\n\n<!-- scene-id: 084f2eb0-f48f-4535-8240-61a36a855387 -->\n### EXT. SEREPHIS - THE BURIED ROAD - CONTINUOUS\n\nMiguel trudges up the face of a steep ash dune. His boot sinks into the grey powder, then strikes something solid.\n\nHe freezes. The sound is not breaking glass, but the dull thud of stone.\n\nMiguel drops to one knee and brushes away the ash with his fingers. Beneath the soot lies a worked paving block with perfectly square edges. He clears more space and reveals a second block, then a third.\n\nA wide ancient road emerges from the waste. It runs in a straight, defiant line toward the same horizon Miguel has been following.\n\nHe looks down at the worked stone, then back toward the hollow in his chest.\n\nFor the first time in twelve days, his hand stops trembling.\n\n##### FADE TO BLACK:",
+  "globalStyle": "3D-Animation",
+  "customStyleLibrary": {},
+  "assets": [
+    {
+      "id": "a1d966f9-1cc9-4f1e-92b7-74b2361b664e",
+      "type": "location",
+      "name": "Serephis — Dead Desert",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "A dead, ruined desert that feels like the scorched corpse of a lost kingdom. The ground is a fractured crust of shattered black glass sheets and grey ash, broken into sharp plates and splinters, with endless dunes of pale ash stretching toward the horizon. Heat haze rises directly from the earth rather than from the sky. The sky is a sick bruise-colored overcast, heavy with muted violet-grey clouds. No vegetation, no water, no ruins rising above the dunes, no visible life, no other figures. The landscape must feel vast, hostile, ancient, and crushingly solitary. High-end cinematic stylized 3D dark-fantasy animation, refined materials, desaturated palette, sacred desolation, clean readable composition.",
+      "timeOfDay": "Sickly Overcast Day",
+      "referenceImageId": "37d8f558-0826-4b90-adf8-261ea893fafc",
+      "supportingImages": "[STRIPPED: 1007661 chars of image data omitted]"
+    },
+    {
+      "id": "808df996-2f85-4b70-8c6f-fa0bf7ab9ecf",
+      "type": "location",
+      "name": "The Buried Road",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "An ancient ceremonial road emerging in fragments from the ash dunes of Serephis. The road is built from large worked paving stones with perfectly square edges, worn smooth down the center by countless feet over centuries. It is unusually wide, broad enough for ten people to walk abreast. Only short sections are uncovered while most of it disappears beneath grey ash dunes on both sides, suggesting a buried forgotten kingdom beneath the desert. No modern materials, no asphalt, no road markings, no vegetation. The scene should feel archaeological, solemn, and quietly monumental, like the memory of civilization resurfacing through ruin. High-end cinematic stylized 3D dark-fantasy animation, refined ancient stone textures, muted atmosphere, clean composition.",
+      "timeOfDay": "Sickly Overcast Day",
+      "referenceImageId": "ace3c02c-1ea8-4535-9d5a-eaa5e4ccc5e2",
+      "supportingImages": "[STRIPPED: 1045789 chars of image data omitted]"
+    },
+    {
+      "id": "9975c20d-a1f0-4145-be1c-f946ab3eee69",
+      "type": "location",
+      "name": "The Grove",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "A deeply uncanny artificial grove formed by identical trees planted in a perfect grid. Every tree is cast entirely from solid pewter-like metal with a matte machined surface: trunks, branches, and every leaf are metallic, pale grey, and unnaturally precise. The leaves are thin flat metal blades, not natural foliage. The ground is covered in cool muted green moss, soft underfoot, creating an unsettling contrast with the rigid metallic trees. No bark, no wood grain, no living greenery in the canopy, no dead trees, no animals, no wind movement. The grove should feel silent, symmetrical, glacial, and watchful, like an abandoned sacred library built by something inhuman. High-end cinematic stylized 3D dark-fantasy animation, refined metallic materials, flat eerie stillness, controlled composition.",
+      "timeOfDay": "Flat Shadowless Grey",
+      "referenceImageId": "22e5a175-5594-4d2f-ab7a-252b146d2a8d",
+      "supportingImages": "[STRIPPED: 1160401 chars of image data omitted]"
+    },
+    {
+      "id": "3ced7905-6929-4189-8b69-a7242e3cfa1c",
+      "type": "location",
+      "name": "The Ash Tree Clearing",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "At the exact center of the Grove lies a circular clearing surrounding one immense ash tree, far larger and more ancient than the identical metallic trees around it. Its bark is rough, black, and cracked like cooled volcanic lava. Massive roots descend into a circular pool of static silver light with no visible source, as if the ground itself remembers an ancient power. Driven into the trunk is a sword made of living white-glacial light, the only true light source in the clearing. Its cold radiance reflects in the silver pool and softly illuminates the dark bark and nearby roots. Pale metallic leaves from the surrounding grove frame the scene at the edges. The clearing must feel sacred, forbidden, ancient, and world-defining, as if reality itself has gone still around this place. High-end cinematic stylized 3D dark-fantasy animation, controlled cold lighting, black volcanic textures, silver reflections, solemn mythic atmosphere.\nThe silver light around the roots is a shallow circular pool of static luminous substance, not a magical ring, portal, rune circle, or energy barrier. Its edges are naturally irregular where the roots enter the pool.",
+      "timeOfDay": "Cold Gloom, lit only by the sword and pool",
+      "referenceImageId": "293ecc12-39fb-42a1-829c-c90a5ea3807d",
+      "supportingImages": "[STRIPPED: 1234441 chars of image data omitted]"
+    },
+    {
+      "id": "d9bb652c-ba02-4379-949f-a1cd88f92b4e",
+      "type": "location",
+      "name": "The Burning Fortress (Flashback)",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "A catastrophic memory of a black-stone fortress collapsing into an abyss of sulfur smoke and infernal fire. Towering black columns crack, tilt, and sink into darkness while burning stone underfoot splits open with glowing fissures. The architecture feels ancient, monumental, and war-shattered. Firelight and smoke create violent expressionist chiaroscuro, with extreme contrast, deep shadows, and a sense of sacred ruin being swallowed by the abyss. Embers drift through the air, and the entire scene should feel unstable, traumatic, and apocalyptic. This is not the present but a memory of war and loss. High-end cinematic stylized 3D dark-fantasy animation, refined black stone and molten textures, dramatic catastrophic lighting, abyssal scale.",
+      "timeOfDay": "Firelit Night",
+      "referenceImageId": "e3ce2ad5-312f-48b0-846c-a8b5bd781a40",
+      "supportingImages": "[STRIPPED: 1055845 chars of image data omitted]"
+    },
+    {
+      "id": "b959cf2e-4a14-4ab4-a753-ffc784cea896",
+      "type": "character",
+      "name": "Pewter Sentinel",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "An ethereal sentinel of the Grove, appearing as a tall, elegant humanoid wisp formed from pale silver mist, pewter-toned vapor, and drifting translucent currents. Its body is only loosely defined, with a slender elongated silhouette, narrow shoulders, long tapering arms, and a lower body that dissolves gradually into smoke and suspended vapor instead of clearly separated legs or feet. The figure hovers slightly above the ground.\n\nIts face is smooth, ambiguous, and nearly featureless — not fully human — with only the faint suggestion of cheekbones, nose, and mouth beneath a veil of mist. Two dim cold-white eyes glow softly from within the haze, without strong facial expression. No hair, no visible eyebrows, no clear mouth detail. It should feel ancient, watchful, silent, and emotionally unreadable.\n\nIts surface and energy subtly echo the Grove itself: traces of pewter sheen, faint green reflections from moss below, and delicate leaf-like metallic fragments drifting within its vapor. Small ornamental pewter-like shards and ribbon-thin metallic wisps seem naturally fused into its upper body and shoulders, as if grown from the same supernatural material rather than worn as clothing. The whole figure should feel graceful, eerie, sacred, and unnatural — more like a lingering guardian-spirit than a living being.\nAvoid a realistic human anatomy or mannequin-like appearance; the form should remain semi-abstract, spectral, and lightly unfinished, as if constantly forming and dissolving.",
+      "clothingAccessories": "No conventional clothing. No fabric garments, no armor, and no weapons. Only subtle integrated pewter-like ornamental fragments and fine metallic ribbon-like wisps naturally emerging from the spirit’s upper body and shoulders.",
+      "backstory": "",
+      "referenceImageId": "31e8a47c-a9a6-4ac0-9c17-efb2960d7f62",
+      "supportingImages": "[STRIPPED: 662073 chars of image data omitted]"
+    },
+    {
+      "id": "795d79a5-2744-4043-b1c3-df7fa8b5d592",
+      "type": "prop",
+      "name": "Solmire (Libro I — versión blanca/glacial)",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "Preserve Solmire as a white/glacial sword made entirely from living solidified light.\n\nRemove the conventional crossguard and traditional sword hilt.\n\nThe blade, grip and transition between them should read as one seamless continuous form of condensed white-glacial light, with no separate metal components, no wrapping, no jewels and no ornament.\n\nKeep a straight elegant double-edged blade profile with faint icy-blue edges.\n\nThe grip may be subtly shaped for a hand, but it must remain part of the same uninterrupted luminous material as the blade.\n\nIts light is steady, cold and pure, like frozen moonlight given physical form.\n\nNo sparks, no flames, no particles, no pulsing light.\n\nDo not turn it into a conventional metal sword.",
+      "referenceImageId": "6994ffe7-b9e7-4973-8345-349d1add1abe",
+      "supportingImages": "[STRIPPED: 2128780 chars of image data omitted]"
+    },
+    {
+      "id": "f6ab7d64-aea4-4e0e-84d4-2e69647a37be",
+      "type": "prop",
+      "name": "Council Order",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "A formal ancient celestial parchment rolled or folded compactly, made from pale ivory material with subtle age and texture. Sealed with dense black wax bearing an austere official council sigil. No bright gold decoration, no modern paper, no ribbon bow. Serious, ceremonial and authoritative.",
+      "referenceImageId": "01e03232-b863-4801-b6c0-d1dc4089e091",
+      "supportingImages": "[STRIPPED: 571141 chars of image data omitted]"
+    },
+    {
+      "id": "52ef7f80-d738-4ccb-beb5-143d5ac6606a",
+      "type": "character",
+      "name": "Miguel",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "MIGUEL, archangel General of the Celestial Host. Adult male, apparent age 35–40, towering 2.25m, lean powerful athletic build with broad shoulders and a commanding heroic presence. Severe, handsome face with high sharp cheekbones, a strong square jaw, straight nose, and a calm but intimidating expression. Short ash-white hair, thick and windswept, with soft texture and volume. Brilliant electric-cyan glowing eyes, intense and focused; the glow must remain contained inside the irises and pupils only, never spilling onto the skin. Fair healthy skin with a luminous, noble quality, not corpse-pale. Two enormous pearl-white feathered wings, symmetrical and pristine, with soft pale-blue iridescence, faint silver-blue highlights, and subtle celestial energy filaments running delicately between some feathers. The wings should feel majestic, sacred, and controlled rather than wild or storm-like. High-end cinematic stylized 3D fantasy character design, realistic adult proportions, refined materials, and polished heroic presence.",
+      "clothingAccessories": "Ornate celestial armor in polished gold, elegant and noble rather than bulky. Large sculpted pauldrons with feather motifs, engraved decorative filigree, and a radiant eight-point star emblem set at the center of the chest, glowing cyan-white as the main focal point. The breastplate is symmetrical and regal, with wing-inspired embossed ornamentation. Under the armor, deep midnight-blue fabric is visible at the neck, inner arms, and tabard. The lower half includes matching gold faulds, greaves, and armored boots, with a long dark-blue tabard panel trimmed in gold hanging from the waist. Hands are protected by dark fitted gloves. No leather chest strap, no asymmetrical harness crossing the torso. The overall outfit must read as a unified divine war-regalia set: radiant, disciplined, ceremonial, and unmistakably archangelic.",
+      "backstory": "",
+      "referenceImageId": "7b548f85-00de-47f1-98c2-fe14a81451dc",
+      "supportingImages": "[STRIPPED: 1035429 chars of image data omitted]"
+    },
+    {
+      "id": "1c1367ef-da36-4837-9b0a-4b49612036a2",
+      "type": "character",
+      "name": "Gabriel",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "GABRIEL, Archangel of the Divine Voice. Adult male, apparent age early thirties, standing 1.95m tall, with clearly masculine proportions: broad shoulders, a strong neck, a lean yet solid build, and long, well-balanced limbs. Handsome but distinctly male, never feminine or androgynous. He has a refined, noble face with a strong jawline, defined chin, straight nose, subtle masculine brow structure, and calm, symmetrical features. His long, straight black hair is parted at the center, smooth and well-kept, falling past the shoulders. His eyes are clear sapphire-blue, luminous in color but not emitting any outward glow. His skin is fair, healthy, subtly radiant, and naturally alive. He has two large white feathered wings with faint pale-blue iridescence and a soft celestial sheen, elegant, pristine, and perfectly symmetrical. His overall presence feels calm, wise, fraternal, and authoritative. He should read instantly as a majestic male archangel: graceful, serene, and noble, yet unmistakably masculine. High-end cinematic stylized 3D fantasy character design, realistic adult anatomy, refined materials, and controlled soft lighting.",
+      "clothingAccessories": "Flowing royal-blue and silver ceremonial robes, elegant and sacred, with no heavy armor. The layered robes should create a structured masculine silhouette: broad shoulder line, fitted upper torso, long vertical drape, and clean noble lines. Silver embroidered feather motifs and sacred ornamental patterns are integrated into the robe borders, chest panel, sleeves, and collar. A refined high collar frames the neck. Wide sleeves and layered lower robes add dignity and movement without making the figure appear delicate or feminine. Subtle ceremonial silver bracers or forearm guards may be included. A tall, slender silver staff that is elegant, sacred, and dignified, serving both as a symbol of office and a divine instrument. The clothing should communicate celestial nobility, sacred eloquence, wisdom, and calm authority.\nGabriel does not inherently carry any weapon or staff. Vox Aeternum is a separate prop and must only appear when explicitly assigned to the scene. Preserve Gabriel's exact facial identity, hairstyle, robe design, colors, body proportions, and wings consistently across all scenes.",
+      "backstory": "",
+      "referenceImageId": "1d57c0ff-fa49-44fd-9947-9bf6c690aa04",
+      "supportingImages": "[STRIPPED: 1039169 chars of image data omitted]"
+    },
+    {
+      "id": "a814a229-c912-4e17-be09-b4a8abc1f0bd",
+      "type": "character",
+      "name": "Lucifer",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "LUCIFER, fallen archangel and infernal sovereign. Adult male, apparent age early thirties, around 2.10m tall, with a powerful, elegant, battle-capable build — broad shoulders, long limbs, strong posture, and the controlled physical presence of someone fully capable of standing against Miguel in direct combat. He must not feel fragile, delicate, or vampiric.\n\nHis face is strikingly beautiful but severe and intimidating rather than romantic: high cheekbones, straight nose, strong refined jawline, slightly sharper brow, and a calm but merciless expression. His skin is very pale, but not corpse-like — more like cold ivory or moonlit marble, still living and luminous rather than dead. Long silver-white hair falls past his shoulders in soft controlled waves. His eyes are deep wine-red, intense and unnerving, with a subtle inner glow contained inside the irises only.\n\nHe should radiate supreme confidence, menace, and infernal authority. His presence must feel ancient, oppressive, and sovereign — the presence of a fallen celestial warlord, not a gothic vampire. He is terrifying because he is calm, powerful, and perfectly in control. Two enormous black feathered wings rise behind him, vast and imposing, elegant yet predatory, so dark they seem to absorb nearby light. The wings should feel powerful and heavy, like they belong to a being made for both dominion and war.\n\nOverall impression: a fallen archangel king and infernal equal to Miguel — beautiful, cold, commanding, and unmistakably dangerous. High-end cinematic stylized 3D dark-fantasy animation, realistic adult male proportions, refined materials, dramatic but controlled lighting.\nHe should look like a being who could command hell and still cross blades with the greatest of heaven without hesitation.\nHis physique should be lean and sculpted but undeniably strong, with the presence of a celestial warrior rather than a frail noble.",
+      "clothingAccessories": "Layered black ceremonial battle-robes with a regal and militaristic silhouette. The design should feel noble, ancient, and severe, with structured shoulders, a strong vertical line, and subtle architectural shaping that gives him the presence of a dark celestial commander rather than a simple robed figure. Predominantly matte black, charcoal, and near-black obsidian tones, with extremely subtle dark metallic detailing integrated into the collar, inner seams, cuffs, and chest structure.\n\nThe outfit should suggest restrained infernal nobility and fallen divine rank. No bright ornamentation, no gold heroic motifs, and no decorative excess. Very subtle dark red undertones may appear in deep inner folds or lining, hinting at infernal corruption without overpowering the black design. The clothing may include understated fitted underlayers or structured panels that imply combat readiness and physical power beneath the robes.\n\nNo horns, no tail, no monstrous demon traits, no gothic vampire styling, and no fragile aristocratic softness. The final silhouette must read as a fallen archangel sovereign and war-capable rival to Miguel: elegant, intimidating, and battle-worthy.",
+      "backstory": "",
+      "referenceImageId": "4a7d06d4-12cb-4c44-8f23-9cf0c84da857",
+      "supportingImages": "[STRIPPED: 925489 chars of image data omitted]"
+    },
+    {
+      "id": "bd6f2a5b-33f6-4869-92f8-5bd13916eb68",
+      "type": "prop",
+      "name": "Vox Aeternum",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "A tall ceremonial divine staff used by Gabriel, elegant and refined rather than brutal. Crafted from luminous silver-white metal with subtle blue undertones, perfectly smooth and noble in shape. Long, straight shaft, balanced proportions, sacred and dignified silhouette. The head of the staff should feel like an instrument of divine resonance and sacred speech, not a warrior’s mace or a wizard’s crooked staff. It may include a restrained celestial motif or resonance-shaped crown, but must remain elegant, clean and high-ranking. Emits a soft controlled glow in silver-blue tones, never chaotic. No excessive gems, no barbaric details, no demonic shapes. This is a sacred archangelic artifact associated with divine voice, command, seals, hymns and resonance.",
+      "referenceImageId": "90626092-2a02-41e0-be49-5de230a448d4",
+      "supportingImages": "[STRIPPED: 455397 chars of image data omitted]"
+    },
+    {
+      "id": "a597c0ee-7fa7-43a5-8a6e-68476446d09d",
+      "type": "location",
+      "name": "Onyx Gates",
+      "supportingImages": "[STRIPPED: 2 chars of image data omitted]",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "",
+      "timeOfDay": ""
+    },
+    {
+      "id": "ae95306a-da3a-4c51-8eaa-be16d32444f5",
+      "type": "prop",
+      "name": "Sabatons",
+      "supportingImages": "[STRIPPED: 2 chars of image data omitted]",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": ""
+    },
+    {
+      "id": "76700ee7-ee12-4d59-801b-7778fad193e5",
+      "type": "prop",
+      "name": "Paving Block",
+      "supportingImages": "[STRIPPED: 2 chars of image data omitted]",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": ""
+    },
+    {
+      "id": "55f21b59-1fc4-419d-9480-af55bc41289f",
+      "type": "location",
+      "name": "Black Glass Flats",
+      "supportingImages": "[STRIPPED: 2 chars of image data omitted]",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "",
+      "timeOfDay": ""
+    },
+    {
+      "id": "737efa6d-f5ac-43f9-ac0a-934efa1c3790",
+      "type": "location",
+      "name": "Ash Dunes",
+      "supportingImages": "[STRIPPED: 2 chars of image data omitted]",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "",
+      "timeOfDay": ""
+    },
+    {
+      "id": "91aeb1a7-7615-4daa-87d7-ed37b29f4251",
+      "type": "location",
+      "name": "Serephis",
+      "supportingImages": "[STRIPPED: 2 chars of image data omitted]",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "",
+      "timeOfDay": ""
+    },
+    {
+      "id": "090067d3-6867-4f5c-bef8-d821e8526ad9",
+      "type": "location",
+      "name": "Obsidian Waste",
+      "supportingImages": "[STRIPPED: 2 chars of image data omitted]",
+      "includeInspirationInImageGen": true,
+      "physicalCharacteristics": "",
+      "timeOfDay": ""
+    }
+  ],
+  "frames": [
+    {
+      "id": "17be7cfe-588e-4a28-b811-9b2751e70e1e",
+      "sceneId": "73058eb8-138a-43b3-907b-d60ba683dac2",
+      "sceneNumber": "02",
+      "sceneTitle": "Ext. Serephis - Black Glass Flats - Day",
+      "shotNumber": "01",
+      "title": "Shot 1",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "831b9f1a-e0a0-4ab7-b0ea-81166cd66661",
+      "sceneId": "73058eb8-138a-43b3-907b-d60ba683dac2",
+      "sceneNumber": "02",
+      "sceneTitle": "Ext. Serephis - Black Glass Flats - Day",
+      "shotNumber": "02",
+      "title": "Shot 2",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "97d19910-e1ee-4a55-a940-bde139b98753",
+      "sceneId": "73058eb8-138a-43b3-907b-d60ba683dac2",
+      "sceneNumber": "02",
+      "sceneTitle": "Ext. Serephis - Black Glass Flats - Day",
+      "shotNumber": "03",
+      "title": "Shot 3",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "f6ea4c85-58d7-4cd5-9c66-eea563c4ae9c",
+      "sceneId": "24d9f456-e41d-46a6-ae6e-f1fad3748b06",
+      "sceneNumber": "03",
+      "sceneTitle": "Ext. Serephis - Ash Dunes - Later",
+      "shotNumber": "01",
+      "title": "Shot 1",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "2d80c3b3-cbae-44ce-9c61-f98008622c48",
+      "sceneId": "24d9f456-e41d-46a6-ae6e-f1fad3748b06",
+      "sceneNumber": "03",
+      "sceneTitle": "Ext. Serephis - Ash Dunes - Later",
+      "shotNumber": "02",
+      "title": "Shot 2",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "0bbe0c6a-e7a0-4b27-a786-0eef51e0b82d",
+      "sceneId": "24d9f456-e41d-46a6-ae6e-f1fad3748b06",
+      "sceneNumber": "03",
+      "sceneTitle": "Ext. Serephis - Ash Dunes - Later",
+      "shotNumber": "03",
+      "title": "Shot 3",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "d0b856da-c320-4e42-a72f-42f52ab3ffee",
+      "sceneId": "084f2eb0-f48f-4535-8240-61a36a855387",
+      "sceneNumber": "04",
+      "sceneTitle": "Ext. Serephis - The Buried Road - Continuous",
+      "shotNumber": "01",
+      "title": "Shot 1",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "0e74dfbd-b600-4656-bd06-ef7f06c5b977",
+      "sceneId": "084f2eb0-f48f-4535-8240-61a36a855387",
+      "sceneNumber": "04",
+      "sceneTitle": "Ext. Serephis - The Buried Road - Continuous",
+      "shotNumber": "02",
+      "title": "Shot 2",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "5996420f-62b3-435a-850c-b72eebdd05fd",
+      "sceneId": "084f2eb0-f48f-4535-8240-61a36a855387",
+      "sceneNumber": "04",
+      "sceneTitle": "Ext. Serephis - The Buried Road - Continuous",
+      "shotNumber": "03",
+      "title": "Shot 3",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "1fa45b54-4126-4a38-a41b-30158de9fb4d",
+      "sceneId": "084f2eb0-f48f-4535-8240-61a36a855387",
+      "sceneNumber": "04",
+      "sceneTitle": "Ext. Serephis - The Buried Road - Continuous",
+      "shotNumber": "04",
+      "title": "Shot 4",
+      "visualDescription": "",
+      "motionDescription": "",
+      "audioDescription": "",
+      "linkedAssetIds": [],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    },
+    {
+      "id": "3d5b67be-53cf-497c-99bd-12cd78ccd768",
+      "sceneId": "6cd862f7-56ee-4aa7-8d86-6a5a33eb4727",
+      "sceneNumber": "01",
+      "sceneTitle": "Ext. Serephis - Day",
+      "shotNumber": "01",
+      "title": "The Scorched Kingdom",
+      "visualDescription": "An extreme wide shot of the desert of Serephis under a bruise-colored, overcast sky. The landscape is a jagged expanse of shattered black glass and grey ash, reaching toward a distorted, shimmering horizon. The scale of the wasteland is immense, dwarfng any sense of life or hope.",
+      "audioDescription": "A low, mournful wind whistles through the jagged glass shards. The air hums with a faint, oppressive heat distortion sound.",
+      "motionDescription": "The camera slowly pans across the horizon, emphasizing the vast and desolate scale of the environment.",
+      "linkedAssetIds": [
+        "a1d966f9-1cc9-4f1e-92b7-74b2361b664e",
+        "55f21b59-1fc4-419d-9480-af55bc41289f"
+      ],
+      "imageHistory": [
+        "blob:https://5vg93lowoz91ztshwdymgbv22rk8lgql9imi1ivuzuaajiq7wk-h977938915.scf.usercontent.goog/c4696bcf-0d78-4c28-84ac-36259bb664db"
+      ],
+      "imageUrl": "blob:https://5vg93lowoz91ztshwdymgbv22rk8lgql9imi1ivuzuaajiq7wk-h977938915.scf.usercontent.goog/c4696bcf-0d78-4c28-84ac-36259bb664db",
+      "base64": "[STRIPPED: 836224 chars omitted]",
+      "imageHistoryData": "[STRIPPED: 836228 chars of image data omitted]"
+    },
+    {
+      "id": "95be5232-fffb-46cd-85b2-b15391d5c981",
+      "sceneId": "6cd862f7-56ee-4aa7-8d86-6a5a33eb4727",
+      "sceneNumber": "01",
+      "sceneTitle": "Ext. Serephis - Day",
+      "shotNumber": "02",
+      "title": "The Golden Speck",
+      "visualDescription": "From a high angle, a small speck of gold is visible moving slowly across the obsidian waste of the Black Glass Flats. The bright color of the figure contrasts sharply with the dark, monochromatic landscape surrounding it. The figure appears tiny and vulnerable against the backdrop of the dead kingdom.",
+      "audioDescription": "The sound of metal crunching softly against glass and ash begins to rise above the wind. Each footstep echoes with a lonely, rhythmic cadence.",
+      "motionDescription": "A slow zoom-in begins, gradually bringing the distant golden figure into clearer focus.",
+      "linkedAssetIds": [
+        "a1d966f9-1cc9-4f1e-92b7-74b2361b664e",
+        "55f21b59-1fc4-419d-9480-af55bc41289f"
+      ],
+      "imageHistory": [
+        "blob:https://5vg93lowoz91ztshwdymgbv22rk8lgql9imi1ivuzuaajiq7wk-h977938915.scf.usercontent.goog/1e78e376-648d-4210-9885-5d0666f7c199"
+      ],
+      "imageUrl": "blob:https://5vg93lowoz91ztshwdymgbv22rk8lgql9imi1ivuzuaajiq7wk-h977938915.scf.usercontent.goog/1e78e376-648d-4210-9885-5d0666f7c199",
+      "base64": "[STRIPPED: 780300 chars omitted]",
+      "imageHistoryData": "[STRIPPED: 780304 chars of image data omitted]"
+    },
+    {
+      "id": "d4c17591-ee58-4f31-b237-8968efc9b1aa",
+      "sceneId": "6cd862f7-56ee-4aa7-8d86-6a5a33eb4727",
+      "sceneNumber": "01",
+      "sceneTitle": "Ext. Serephis - Day",
+      "shotNumber": "03",
+      "title": "Journey Through Ash",
+      "visualDescription": "The camera captures the golden figure from a mid-distance as they navigate through the Ash Dunes. Heat waves waver in the foreground, blurring the edges of the shattered glass. The oppressive sky hangs low over the figure's path as they trudge forward.",
+      "audioDescription": "The crunch of Sabatons on the grey ash becomes the primary sound, mixed with the rustle of the wind shifting fine dust. The ambient atmosphere feels heavy and airless.",
+      "motionDescription": "The camera tracks horizontally alongside the figure, maintaining their steady, solitary pace across the wasteland.",
+      "linkedAssetIds": [
+        "737efa6d-f5ac-43f9-ac0a-934efa1c3790",
+        "ae95306a-da3a-4c51-8eaa-be16d32444f5"
+      ],
+      "imageHistory": [],
+      "imageHistoryData": "[STRIPPED: 2 chars of image data omitted]"
+    }
+  ]
+}
