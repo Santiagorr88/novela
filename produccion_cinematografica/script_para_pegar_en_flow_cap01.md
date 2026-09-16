@@ -293,3 +293,20 @@ This is a finished, shot-by-shot technical script with exact camera direction, a
 ---
 
 **Total: 52 shots across 10 scenes.**
+
+---
+
+## Prompt de generación (pégalo en Assets/Storyboard tras pegar el script arriba)
+
+Usa esto en el paso de generar Assets y luego Storyboard, para evitar el fallo ya documentado (personajes equivocados, shots inventados de más):
+
+```
+Generate assets and storyboard strictly from the script above. Do not invent, add, merge, or split any shot beyond what is written. Do not generate a character that is not explicitly named in a shot's text.
+
+Expected shot count per scene — verify against this exact table before moving on, and delete any extra auto-generated shot that doesn't match it:
+Scene 01 = 3 shots · Scene 02 = 4 shots · Scene 03 = 5 shots · Scene 04 = 4 shots · Scene 05 = 7 shots · Scene 06 = 5 shots · Scene 07 = 6 shots · Scene 08 = 6 shots · Scene 09 = 6 shots · Scene 10 = 6 shots. Total = 52 shots.
+
+Character assignment per scene — verify against this before generating any panel: Scenes 01-05 and 07-10 = MIGUEL only (plus GABRIEL in Scene 05 and 07, per the script). Scene 06 = MIGUEL + GABRIEL (flashback). Scene 09 = MIGUEL + PEWTER SENTINEL. No other character appears in this chapter — if any shot generates a character not listed here for its scene, that is an error, not a feature.
+
+Link every mention of @Miguel, @Gabriel, and @Pewter_Sentinel to the existing character assets already approved in this project. Never create a new or alternative version of an existing character.
+```
