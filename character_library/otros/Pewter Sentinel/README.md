@@ -18,4 +18,6 @@ Ninguno convencional. Sin prendas de tela, sin armadura, sin armas. Solo los fra
 
 - `canonical/face_reference.png` y `canonical/body_reference.png`: recorte de la lámina "Sentinel_character_sheet_design_2K_20260916064832.jpeg" generada en Flow (estilo 3D-Animation), aprobada por el autor.
 
-Prompt completo de generación en `design_notes/2026-09-16_flow_storyboard_studio_cap01.md`.
+El prompt de Flow usado ese día fue de prueba y se descartó; el recorte de la lámina citada arriba es la referencia vigente para este rediseño.
+
+**Decisión del autor (2026-09-18):** este diseño de niebla/vapor es el vigente para todas las apariciones del personaje, capítulo 1 incluido, tal cual aparece en `canonical/` — aunque el texto del capítulo 1 (párrafos 30-32) describa una figura sólida de metal pálido. Los planos de la escena S5 de `Libro1/video/borrador/cap01/B1C01_S5.json` que describen la versión sólida quedan desactualizados y deben reescribirse en la próxima pasada del pipeline para que coincidan con este diseño.

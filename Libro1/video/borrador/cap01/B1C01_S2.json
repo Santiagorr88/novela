@@ -1,0 +1,1827 @@
+{
+  "escena": {
+    "id_escena": "B1C01_S2",
+    "titulo": "El Consejo está preocupado",
+    "resumen": "El tirón se vuelve mandato. Gabriel llega en persona con un acorde de armonía y transmite la preocupación del Consejo: temen un engaño del enemigo y que la ausencia de Miguel siembre el miedo en la Hueste. Miguel responde con orgullo herido ('¿Me creen un necio... o un traidor?'); Gabriel revela, sin nombrarlo ni tocarlo, que trae un pergamino sellado del Consejo pero elige hablarle como hermano, no como emisario.",
+    "localizacion": "Desierto de Serephis — junto al camino enterrado",
+    "personajes": [
+      "Miguel",
+      "Gabriel"
+    ],
+    "parrafos_en": {
+      "desde": 10,
+      "hasta": 17
+    },
+    "parrafos_es": {
+      "desde": 10,
+      "hasta": 17
+    },
+    "duracion_objetivo_seg": 150,
+    "estado_canon_entrada": [
+      {
+        "id_personaje": "Miguel",
+        "forma": "celestial",
+        "heridas": [
+          "hueco bajo el esternón, ahora tirando 'con autoridad'"
+        ],
+        "objetos": [
+          "armadura dorada agrietada"
+        ],
+        "notas": "Exhausto, no puede ocultarlo ante Gabriel; orgullo herido de que su hermano lo vea 'consumido, cazando un dolor fantasma'."
+      },
+      {
+        "id_personaje": "Gabriel",
+        "forma": "celestial",
+        "heridas": [],
+        "objetos": [
+          "túnica de azul y plata, sin armadura",
+          "pergamino sellado con cera negra — orden formal del Consejo, nunca abierto ni nombrado en el capítulo"
+        ],
+        "notas": "Llega como brisa fresca antes de tormenta, acorde de armonía. Voz dulce con una vibración desafinada de cansancio que Miguel nunca le había oído en la sala de guerra. Elige presentarse como hermano, no como verdugo de la orden que porta. Vector de presencia (13_presencia_cinematografica): armonía que precede a la figura."
+      }
+    ],
+    "requiere_aprobacion_autor": false
+  },
+  "planos": [
+    {
+      "id_plano": "B1C01_S2_P01",
+      "orden": 1,
+      "duracion_seg": 8,
+      "tipo_plano": "Gran plano general (extreme wide shot)",
+      "angulo": "Ligeramente picado, altura elevada (high-angle, leve)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot). Cámara quieta durante todo el plano.",
+      "encuadre_inicial": "El desierto de Serephis y el camino enterrado dominan el cuadro; Miguel es una figura pequeña junto a los bloques de piedra visibles, vidrio negro agrietado bajo sus pies.",
+      "encuadre_final": "Misma composición; no hay corte de cámara.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel se detiene y su mano enguantada sube hacia el hueco bajo el esternón, el gesto que repite 'mil veces al día' según el canon.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P01",
+        "fuente_luz": "Sol de mediodía en su cenit sobre el desierto de Serephis (única fuente motivada, sin práctica adicional)",
+        "direccion": "Casi cenital, con leve inclinación hacia el sureste del camino enterrado; las sombras de los bloques de piedra caen cortas hacia el noroeste",
+        "dureza": "Dura: bordes de sombra nítidos sobre la arena y el vidrio negro",
+        "color_temperatura": "Blanco-amarillenta muy intensa, sin matices de atardecer",
+        "clima": "Cielo despejado, calor extremo; calima térmica visible sobre la línea del horizonte",
+        "ambiente": "Bruma de calor (heat haze) ondula el aire sobre las dunas lejanas; esquirlas de vidrio negro devuelven destellos puntuales dispersos por el suelo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P01",
+        "vfx_principal": "Ninguno de contacto directo (no hay pisada en este plano). El único efecto es atmosférico: calima de calor ascendiendo del suelo arenoso en la distancia. Patrón: el suelo recalentado por el sol (material+causa) genera una distorsión óptica ondulante que asciende (trayectoria) y se disipa hacia el cielo (evolución); no deja resto.",
+        "vfx_fondo_simultaneo": "Ninguno — accion_fondo no está definida en este plano.",
+        "fisica_entorno": "Brillo duro del sol sobre los fragmentos de vidrio negro agrietado bajo los pies de Miguel; posible reflejo puntual en las aristas del vidrio. Bloques de piedra del camino enterrado permanecen inertes.",
+        "limitacion_conocida": "La calima térmica es un efecto atmosférico sutil y difícil de calibrar por texto; riesgo de distorsión excesiva o ausente. No hay técnica verificada en la guía que garantice su intensidad en un plano general fijo."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de pie, cuerpo detenido de frente al desierto y el camino enterrado, peso repartido en ambos pies sobre el vidrio negro agrietado. Mano derecha vacía, enguantada, junto al muslo derecho. Mano izquierda vacía, enguantada, junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo el peto agrietado, sin marca externa visible, tirando 'con autoridad'. Viste armadura dorada agrietada (peto agrietado), sin túnica adicional. Mirada dirigida hacia el desierto/camino enterrado frente a él (heredado de estado_canon_entrada de la escena).",
+        "estado_salida_previsto": "Miguel: de pie, misma posición general en el plano general (figura pequeña junto a los bloques de piedra), peso repartido en ambos pies. Mano derecha ahora sube y presiona el peto agrietado sobre el hueco bajo el esternón, dedos curvados contra el metal. Mano izquierda sigue vacía, enguantada, junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo la armadura y bajo la propia mano que la presiona, tirando 'con autoridad'. Armadura dorada agrietada sin cambio. Mirada sostenida hacia el desierto/camino enterrado.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "presiona el peto agrietado sobre el hueco bajo el esternón (sin objeto, contacto directo con la propia armadura)",
+            "mano_izquierda": "vacía, enguantada, junto al muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno, sin marca externa)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado y bajo la propia mano derecha que lo presiona"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.mano_derecha.posicion",
+            "antes": "vacía, junto al muslo derecho",
+            "despues": "presiona el peto agrietado sobre el hueco bajo el esternón",
+            "causa": "Miguel se detiene y sube la mano al gesto que repite mil veces al día (accion_principal del plano)"
+          }
+        ],
+        "frame_final_descripcion": "Plano general fijo del desierto de Serephis; Miguel, figura pequeña junto a los bloques de piedra del camino enterrado, con la mano derecha ya alzada y presionando el peto agrietado sobre el esternón; mano izquierda vacía junto al muslo; vidrio negro agrietado bajo sus pies; sin corte de cámara respecto al encuadre inicial.",
+        "checklist_incidencias": [
+          "El plano origen no especifica lateralidad de la mano que sube al hueco bajo el esternón; se fijó 'mano derecha' para poder sostener la continuidad P01→P05 (donde Miguel la baja al enderezarse). Confirmar con el autor si debe ser la mano izquierda por alguna razón simbólica (p. ej. relación con el ala izquierda quemada en otros capítulos)."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P02",
+      "orden": 2,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Miguel de cintura para arriba, armadura dorada agrietada visible en el peto, pelo ceniza.",
+      "encuadre_final": "Mismo encuadre; el cuerpo ya girado hacia la dirección del tirón al abrir los ojos.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Cierra los ojos un momento; cuando los abre, el cuerpo ya se ha girado hacia el tirón antes de que la mente termine de consentirlo.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P02",
+        "fuente_luz": "Mismo sol cenital como clave; sin relleno adicional",
+        "direccion": "Incide desde arriba y ligeramente por detrás de cámara, marcando una sombra corta bajo la mandíbula y el peto",
+        "dureza": "Dura, sin transición en el borde de sombra",
+        "color_temperatura": "Blanco-amarillenta, idéntica al plano anterior",
+        "clima": "Despejado, calor sostenido",
+        "ambiente": "Polvo suspendido apenas visible alrededor de los hombros; sin niebla ni humo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P02",
+        "vfx_principal": "Ninguno. No hay contacto con material del entorno; el giro del cuerpo hacia el tirón es acción corporal del personaje, no física de entorno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "La luz dura puede recorrer el peto agrietado al girar el torso, marcando el borde de las grietas doradas desde un ángulo distinto en el encuadre final; es variación lumínica, no desplazamiento de material.",
+        "limitacion_conocida": "Un giro de torso sin desplazamiento de pies no genera arena o polvo verificable; no forzar un efecto de partículas que el guion no pide."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P02",
+        "id_plano_anterior": "B1C01_S2_P01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de cintura para arriba, torso frontal a cámara, ojos cerrados a punto de abrirse. Mano derecha presiona el peto agrietado sobre el hueco bajo el esternón (heredado de P01). Mano izquierda vacía, enguantada, junto al muslo izquierdo (heredado). Herida: hueco bajo el esternón, oculta bajo el peto y la mano. Armadura dorada agrietada visible en el peto; pelo ceniza. Mirada: ojos cerrados, sin objetivo visual mientras permanecen así.",
+        "estado_salida_previsto": "Miguel: de cintura para arriba, cuerpo ya girado hacia la dirección del tirón, ojos abiertos. Mano derecha sigue presionando el peto agrietado sobre el hueco bajo el esternón (sin cambio de contacto respecto al inicio del plano). Mano izquierda sigue vacía junto al muslo izquierdo. Herida sin cambio, oculta. Armadura sin cambio. Mirada: ojos abiertos, dirigidos hacia la dirección del tirón, fuera de campo.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "presiona el peto agrietado sobre el hueco bajo el esternón (sin objeto, contacto con la propia armadura, heredado de P01)",
+            "mano_izquierda": "vacía, enguantada, junto al muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado y la mano derecha"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.pose_corporal / direccion_mirada",
+            "antes": "ojos cerrados, torso frontal a cámara",
+            "despues": "ojos abiertos, torso girado hacia la dirección del tirón",
+            "causa": "Miguel cierra los ojos un momento y su cuerpo se gira hacia el tirón antes de que la mente lo consienta (accion_principal del plano)"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio fijo de Miguel de cintura para arriba; ojos ya abiertos, torso girado hacia la dirección del tirón; mano derecha aún presionando el peto agrietado sobre el esternón; mano izquierda vacía junto al muslo izquierdo; pelo ceniza, armadura dorada agrietada visible.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P03",
+      "orden": 3,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle (detail shot)",
+      "angulo": "Altura de ojos, encuadre cerrado sobre el torso.",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "La mano enguantada presiona el peto agrietado sobre el hueco bajo el esternón; luz dura marca el borde de las grietas del oro.",
+      "encuadre_final": "Mismo encuadre, sin corte.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Los dedos presionan el metal agrietado buscando el contacto del acero templado que no calma el hueco.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P03",
+        "fuente_luz": "Sol cenital, sin cambio de fuente",
+        "direccion": "Rasante sobre las grietas del peto dorado, acentuando el relieve de cada fractura",
+        "dureza": "Muy dura: el filo de cada grieta separa una arista iluminada de una sombra cerrada",
+        "color_temperatura": "Cálida sobre el oro, ligeramente anaranjada por la reflexión del metal",
+        "clima": "Sin cambios respecto al plano anterior",
+        "ambiente": "Ninguna partícula visible en el encuadre cerrado; el detalle permanece limpio"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P03",
+        "vfx_principal": "Ninguno de partículas o material suelto (metal rígido, sin desprendimiento). Posible micro-variación de luz dura sobre el borde de la grieta dorada al cambiar la presión de los dedos, efecto lumínico sutil.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Sin material suelto que desplazar; la única variable física legible es el ángulo de la luz sobre la grieta ya existente del peto.",
+        "limitacion_conocida": "No confundir la sensación interna descrita en el canon ('el hueco que no calma') con un efecto visual; no inventar brillo o resplandor no autorizado."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P03",
+        "id_plano_anterior": "B1C01_S2_P02",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: torso en primer plano cerrado; mano derecha (heredada, ya en contacto desde P01-P02) presiona el peto agrietado sobre el hueco bajo el esternón, dedos curvados sobre el metal. Mano izquierda no visible en este encuadre cerrado pero permanece, por herencia, vacía junto al muslo izquierdo, fuera de encuadre. Herida: hueco bajo el esternón, oculta bajo el peto y la mano. Armadura: peto agrietado, luz rasante marca el borde dorado de las grietas.",
+        "estado_salida_previsto": "Miguel: mismo encuadre cerrado, sin corte; los dedos de la mano derecha ahora presionan con mayor firmeza el metal agrietado, buscando el contacto del acero templado que no calma el hueco. Mano izquierda sigue, por herencia, vacía junto al muslo izquierdo, fuera de encuadre. Herida sin cambio de estado, sigue oculta. Armadura sin cambio.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "presiona con firmeza el peto agrietado sobre el hueco bajo el esternón (sin objeto, contacto directo con la armadura)",
+            "mano_izquierda": "fuera de encuadre; presencia física conservada, vacía junto al muslo izquierdo (heredada, no visible en este plano detalle)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno que el contacto del acero no calma)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado y la mano derecha que lo presiona"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.mano_derecha.contacto",
+            "antes": "dedos curvados apoyados sobre el peto agrietado",
+            "despues": "dedos presionan con más firmeza el metal agrietado buscando el contacto del acero templado",
+            "causa": "accion_principal: los dedos presionan el metal agrietado buscando un contacto que no calma el hueco"
+          }
+        ],
+        "frame_final_descripcion": "Plano detalle fijo, torso cerrado: dedos de la mano derecha enguantada presionan con firmeza el peto dorado agrietado sobre el hueco bajo el esternón; luz rasante marca el relieve de cada grieta; mano izquierda fuera de encuadre.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P04",
+      "orden": 4,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Comienza a altura de suelo; termina a altura de ojos elevada.",
+      "movimiento_camara": "Grúa de aproximación breve (crane up), de la arena hasta revelar la figura completa de Gabriel.",
+      "encuadre_inicial": "A ras del suelo, calor y arena en primer término, sin figura visible aún.",
+      "encuadre_final": "Plano general que revela a Gabriel de cuerpo entero, túnica de azul y plata, sin armadura.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel llega 'como la primera ráfaga de aire fresco antes de la tormenta': una onda de aire agita la arena suelta alrededor de sus pies mientras se materializa, traduciendo visualmente el acorde de armonía.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P04",
+        "fuente_luz": "Arranca a ras de suelo bajo el mismo sol cenital; al ascender la grúa se suma el contraluz que perfila a Gabriel",
+        "direccion": "De suelo hacia arriba el calor se lee horizontal; al revelar a Gabriel, la luz cae sobre su túnica desde lo alto mientras un contraluz lateral recorta su silueta durante la materialización",
+        "dureza": "Dura sobre la arena; se suaviza sobre la túnica azul donde la tela difumina el brillo directo",
+        "color_temperatura": "El sol se mantiene blanco-amarillento; los hilos de plata de la túnica devuelven un destello frío que contrasta con el calor ambiente",
+        "clima": "Despejado; la ráfaga que acompaña a Gabriel es local y no anuncia cambio de tiempo",
+        "ambiente": "La arena suelta levantada por la ráfaga capta la luz al dispersarse: una breve nube de polvo a la altura de los tobillos que se asienta al final del plano"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P04",
+        "vfx_principal": "Ráfaga de aire que traduce la materialización de Gabriel. Patrón causa→respuesta→resto: cuando el aire se agita en torno a sus pies al aparecer (causa/contacto), la arena suelta responde alzándose en un abanico bajo alrededor de las botas (trayectoria y escala); los granos caen cerca y el polvo fino se dispersa (evolución); queda una leve arena reasentada bajo sus pies al fijarse el plano general (resto).",
+        "vfx_fondo_simultaneo": "Ninguno — accion_fondo no está definida en este plano; toda la escena es la revelación de Gabriel, sin capa secundaria distinta.",
+        "fisica_entorno": "A ras de suelo en el encuadre inicial: calor y arena en primer término con distorsión térmica visible antes de que aparezca la figura; la grúa asciende y el terreno se estabiliza visualmente al revelar a Gabriel de cuerpo entero.",
+        "limitacion_conocida": "La guía distingue movimiento de sujeto y de entorno (Runway) pero no garantiza que una aparición ligada a un 'acorde de armonía' se resuelva solo con una ráfaga de arena; riesgo de que el generador funda la aparición de Gabriel y el movimiento de arena en una sola acción difusa — probar primero solo con la ráfaga antes de añadir matices adicionales."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P04",
+        "id_plano_anterior": "B1C01_S2_P03",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: torso ya girado hacia la dirección del tirón (heredado de P02), de pie sobre el vidrio negro agrietado del camino enterrado, peso repartido en ambos pies. Mano derecha presiona el peto agrietado sobre el hueco bajo el esternón (heredado). Mano izquierda vacía, enguantada, junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo el peto y la mano. Armadura dorada agrietada, sin túnica adicional. Mirada dirigida hacia la dirección del tirón, hacia donde se materializará Gabriel. Gabriel: ausente del encuadre en el arranque del plano (aún no se ha materializado); sin estado físico que describir hasta el momento de su aparición dentro de esta misma toma.",
+        "estado_salida_previsto": "Miguel: de pie, cuerpo entero visible en el plano general junto al camino enterrado, torso orientado hacia Gabriel. Mano derecha sigue presionando el peto agrietado sobre el hueco bajo el esternón (sin cambio). Mano izquierda sigue vacía junto al muslo izquierdo. Herida sin cambio, oculta. Armadura sin cambio. Mirada dirigida hacia Gabriel, ya visible. Gabriel: recién materializado, de cuerpo entero, de pie sobre la arena junto al camino enterrado, unos pasos frente a Miguel; pose erguida, torso orientado hacia Miguel. Mano derecha vacía, junto al costado derecho. Mano izquierda vacía, junto al costado izquierdo; el pergamino sellado no está en ninguna mano, va oculto contra su costado bajo el pliegue de la túnica. Sin heridas visibles. Viste túnica de azul y plata, sin armadura; hilos de plata visibles a contraluz. Mirada dirigida hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "presiona el peto agrietado sobre el hueco bajo el esternón (heredado, sin objeto)",
+            "mano_izquierda": "vacía, enguantada, junto al muslo izquierdo"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado bajo la túnica, no sostenido por la mano)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado y la mano derecha"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "gabriel.presencia_en_escena",
+            "antes": "ausente del encuadre, no materializado",
+            "despues": "presente, materializado de cuerpo entero junto al camino enterrado",
+            "causa": "Gabriel llega 'como la primera ráfaga de aire fresco antes de la tormenta' (accion_principal); la grúa de aproximación revela su figura completa"
+          },
+          {
+            "campo": "entorno.arena_bajo_gabriel",
+            "antes": "sin removerse",
+            "despues": "arena suelta levantada en un abanico bajo alrededor de las botas de Gabriel, luego reasentada",
+            "causa": "vfx_principal del plano: ráfaga de aire que traduce la materialización"
+          }
+        ],
+        "frame_final_descripcion": "Plano general revelado tras la grúa de aproximación: Gabriel de cuerpo entero, túnica azul y plata sin armadura, recién materializado junto al camino enterrado, manos vacías a los costados, arena reasentándose bajo sus pies; Miguel de cuerpo entero a un lado, mano derecha aún sobre el peto agrietado, mano izquierda vacía junto al muslo, mirando hacia Gabriel.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P05",
+      "orden": 5,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Miguel de frente, Gabriel visible al fondo, ligeramente desenfocado.",
+      "encuadre_final": "Mismo encuadre; Miguel se endereza.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Miguel siente amor al ver a su hermano y, de inmediato, el peso del propio orgullo: se endereza, aunque el agotamiento no se deja esconder.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P05",
+        "fuente_luz": "Sol cenital como clave sobre Miguel; la misma fuente ilumina a Gabriel al fondo",
+        "direccion": "Frontal-alta sobre Miguel; sobre Gabriel, desenfocado, se lee solo como una mancha de luz en la túnica azul y plata",
+        "dureza": "Dura sobre Miguel; el desenfoque de Gabriel suaviza el borde de su sombra sin cambiar la fuente",
+        "color_temperatura": "Blanco-amarillenta en Miguel; el azul de la túnica se ve más frío por contraste tonal, no por otra fuente",
+        "clima": "Sin cambios",
+        "ambiente": "Ninguna partícula relevante; el aire entre ambos se mantiene limpio"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P05",
+        "vfx_principal": "Ninguno. No hay interacción con material del entorno; el gesto de Miguel al enderezarse es corporal, no físico-ambiental.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Profundidad de campo con Gabriel desenfocado al fondo; sin partículas ni desplazamiento de material en este encuadre.",
+        "limitacion_conocida": "No forzar polvo o viento no motivado por el guion; pedir a la vez fondo desenfocado y un efecto de partículas competiría innecesariamente con el foco emocional del plano."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P05",
+        "id_plano_anterior": "B1C01_S2_P04",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de pie, torso aún ligeramente inclinado hacia adelante, mano derecha todavía presiona el peto agrietado sobre el hueco bajo el esternón (heredado de P04). Mano izquierda vacía, enguantada, junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo el peto y la mano. Armadura dorada agrietada. Mirada dirigida hacia Gabriel, al fondo. Gabriel: de pie al fondo del encuadre, desenfocado por la profundidad de campo; pose erguida sin cambios, torso orientado hacia Miguel. Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo, pergamino oculto contra su costado bajo la túnica. Sin heridas visibles. Túnica azul y plata sin armadura. Mirada dirigida hacia Miguel.",
+        "estado_salida_previsto": "Miguel: se endereza, torso ahora erguido y hombros nivelados, ocultando el agotamiento en la postura aunque no del todo en el rostro; al enderezarse, la mano derecha se separa del peto y baja junto al muslo derecho, vacía. Mano izquierda sigue vacía junto al muslo izquierdo. Herida: hueco bajo el esternón, ahora oculta solo bajo el peto agrietado (ya sin la mano encima). Armadura sin cambio. Mirada sostenida hacia Gabriel. Gabriel: sin cambios respecto al inicio del plano, de pie al fondo, desenfocado, pose erguida, torso orientado hacia Miguel. Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo, pergamino oculto contra su costado bajo la túnica. Sin heridas visibles. Mirada dirigida hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "baja junto al muslo derecho, vacía (se retira del peto al enderezarse)",
+            "mano_izquierda": "vacía, enguantada, junto al muslo izquierdo"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado bajo la túnica)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado (ya sin la mano encima)"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.mano_derecha.posicion",
+            "antes": "presiona el peto agrietado sobre el hueco bajo el esternón",
+            "despues": "baja junto al muslo derecho, vacía",
+            "causa": "Miguel se endereza por orgullo herido al ver a su hermano y oculta el gesto de dolor (accion_principal + nota de canon: orgullo herido de que Gabriel lo vea 'consumido, cazando un dolor fantasma')"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio fijo: Miguel de frente, ya erguido, mano derecha bajada junto al muslo, mano izquierda vacía junto al otro muslo, agotamiento visible en el rostro pese a la postura recompuesta; Gabriel desenfocado al fondo, pose erguida sin cambios, manos vacías a los costados.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P06",
+      "orden": 6,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano de dos (two-shot), cuerpo entero",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Ambos hermanos de pie junto al camino enterrado, distancia clara entre ellos, los bloques de piedra visibles entre los dos.",
+      "encuadre_final": "Misma composición, sin corte.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Establece la distancia física entre ambos antes de que empiece el diálogo; ninguno avanza hacia el otro todavía.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P06",
+        "fuente_luz": "Sol cenital constante",
+        "direccion": "Cae verticalmente sobre ambos; los bloques de piedra entre ellos proyectan sombras cortas y paralelas",
+        "dureza": "Dura, bordes definidos en la arena entre los dos hermanos",
+        "color_temperatura": "Blanco-amarillenta uniforme sobre ambas figuras",
+        "clima": "Despejado, calor sostenido, sin viento tras asentarse la ráfaga anterior",
+        "ambiente": "Aire limpio; la distancia entre ambos queda legible sin bruma que la difumine"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P06",
+        "vfx_principal": "Ninguno de movimiento activo; el entorno permanece estático para establecer la distancia entre los hermanos antes del diálogo.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Los bloques de piedra del camino enterrado permanecen fijos entre ambos; calima térmica residual muy sutil posible en el espacio abierto, sin protagonismo visual.",
+        "limitacion_conocida": "Evitar introducir viento o polvo no pedido: el plano exige quietud legible y cualquier partícula visible competiría con la composición de distancia establecida."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P06",
+        "id_plano_anterior": "B1C01_S2_P05",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de pie, erguido, cuerpo entero visible, torso orientado hacia Gabriel a distancia clara, bloques de piedra visibles entre ambos. Mano derecha vacía junto al muslo derecho. Mano izquierda vacía junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo el peto agrietado. Armadura dorada agrietada. Mirada dirigida hacia Gabriel. Gabriel: de pie, erguido, cuerpo entero visible, torso orientado hacia Miguel a la misma distancia clara. Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica. Sin heridas. Túnica azul y plata sin armadura. Mirada dirigida hacia Miguel.",
+        "estado_salida_previsto": "Miguel: de pie, erguido, cuerpo entero, torso orientado hacia Gabriel, distancia sin variar, bloques de piedra entre ambos. Mano derecha vacía junto al muslo derecho. Mano izquierda vacía junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo el peto agrietado. Armadura dorada agrietada sin cambio. Mirada sostenida hacia Gabriel. Gabriel: de pie, erguido, cuerpo entero, torso orientado hacia Miguel, distancia sin variar. Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica. Sin heridas. Túnica sin cambio. Mirada sostenida hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho",
+            "mano_izquierda": "vacía, junto al muslo izquierdo"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado bajo la túnica)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado"
+          }
+        ],
+        "cambios_autorizados": [],
+        "frame_final_descripcion": "Plano de dos fijo, cuerpo entero: Miguel y Gabriel de pie a distancia clara junto al camino enterrado, bloques de piedra entre ambos, ninguno se ha movido; ambas manos de cada uno vacías y visibles a los costados; ningún gesto iniciado.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P07",
+      "orden": 7,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Gabriel de pecho a cabeza, túnica azul y plata visible en el borde del cuadro.",
+      "encuadre_final": "Mismo encuadre, sin corte.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel habla con voz dulce que lleva una vibración desafinada de cansancio que Miguel nunca le había oído en la sala de guerra.",
+      "accion_fondo": "",
+      "dialogo_es": "El Consejo está preocupado, Miguel.",
+      "dialogo_en": "The Council is concerned, Miguel,",
+      "luz": {
+        "id_plano": "B1C01_S2_P07",
+        "fuente_luz": "Mismo sol cenital",
+        "direccion": "Modela el rostro de Gabriel desde arriba; un tenue relleno rebotado desde la arena pálida aclara la zona bajo los ojos",
+        "dureza": "Dura en frente y pómulos; el relleno del suelo suaviza apenas la sombra bajo la mandíbula",
+        "color_temperatura": "Blanco-amarillenta con un ligero calor añadido por el rebote de la arena",
+        "clima": "Sin cambios",
+        "ambiente": "Ninguna partícula en el encuadre cerrado"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P07",
+        "vfx_principal": "Ninguno de partículas o contacto. Posible asentamiento residual muy leve del borde de la túnica azul y plata tras la ráfaga de P04, sin protagonismo.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Si se busca continuidad estricta, el borde de la túnica puede mostrar un pliegue ya asentado (menor movimiento que en P04), coherente con 'el efecto no reinicia el personaje'.",
+        "limitacion_conocida": "Un movimiento residual de tela tan sutil es difícil de calibrar por texto sin volverse el foco del plano; si compite con el rostro y la voz de Gabriel, omitirlo."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P07",
+        "id_plano_anterior": "B1C01_S2_P06",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Gabriel: de pecho a cabeza, erguido, torso orientado hacia Miguel (fuera de campo), a punto de hablar. Mano derecha vacía, fuera del encuadre cerrado, por herencia junto al costado derecho. Mano izquierda vacía, fuera de encuadre, junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica (no visible en este encuadre cerrado). Sin heridas. Túnica azul y plata visible en el borde del cuadro. Mirada dirigida hacia Miguel. Miguel: fuera de encuadre en este plano; por herencia de P06, de pie, erguido, mano derecha vacía junto al muslo derecho, mano izquierda vacía junto al muslo izquierdo, herida oculta bajo el peto agrietado, mirada hacia Gabriel.",
+        "estado_salida_previsto": "Gabriel: mismo encuadre sin corte; ya ha comenzado a hablar, voz dulce con vibración desafinada de cansancio; pose corporal sin cambio (erguido, torso hacia Miguel). Mano derecha sigue vacía junto al costado derecho (fuera de encuadre). Mano izquierda sigue vacía junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica. Sin heridas. Mirada sostenida hacia Miguel. Miguel: sin cambio respecto al inicio del plano (fuera de encuadre); mano derecha vacía junto al muslo derecho, mano izquierda vacía junto al muslo izquierdo, herida oculta, mirada hacia Gabriel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho (fuera del encuadre cerrado, heredada)",
+            "mano_izquierda": "vacía, junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica (fuera de encuadre)"
+          },
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada de P06)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, y fuera de encuadre en este plano"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "gabriel.accion_habla",
+            "antes": "en silencio, a punto de hablar",
+            "despues": "pronunciando la primera línea de diálogo ('El Consejo está preocupado, Miguel,')",
+            "causa": "dialogo_es/dialogo_en asignado al plano"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio corto fijo de Gabriel, de pecho a cabeza, pronunciando 'El Consejo está preocupado, Miguel,'; túnica azul y plata visible en el borde del cuadro; manos fuera de encuadre pero conservadas vacías a los costados; Miguel no visible en este plano.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P08",
+      "orden": 8,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio corto (medium close-up) / sobre el hombro (over-the-shoulder)",
+      "angulo": "Altura de ojos, sobre el hombro izquierdo de Miguel hacia Gabriel.",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Hombro y nuca de Miguel en primer término a la izquierda; Gabriel al fondo a la derecha, centrado en el resto del cuadro.",
+      "encuadre_final": "Mismo encuadre, sin corte.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel completa la advertencia del Consejo, sosteniendo la mirada.",
+      "accion_fondo": "",
+      "dialogo_es": "Temen que esto sea un engaño, un señuelo que forjó el enemigo para atraerte. Tu ausencia siembra el miedo en la Hueste.",
+      "dialogo_en": "They fear this is a deception, a lure the enemy crafted to draw you out. Your absence puts fear in the Host.",
+      "luz": {
+        "id_plano": "B1C01_S2_P08",
+        "fuente_luz": "Sol cenital sin variación",
+        "direccion": "El hombro de Miguel en primer término queda parcialmente en su propia sombra; Gabriel al fondo recibe la luz de lleno sobre el rostro",
+        "dureza": "Dura en ambos términos; el contraste entre el hombro ensombrecido y el rostro iluminado de Gabriel remarca la profundidad",
+        "color_temperatura": "Blanco-amarillenta constante",
+        "clima": "Sin cambios",
+        "ambiente": "Aire limpio entre los dos términos del encuadre"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P08",
+        "vfx_principal": "Ninguno. Plano de diálogo sin interacción física relevante con el entorno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "El hombro y la nuca de Miguel en primer término pueden mostrar el borde superior del peto agrietado marcado por luz dura; sin movimiento de material.",
+        "limitacion_conocida": "No aplica; plano de baja complejidad física — priorizar la interpretación facial de Gabriel sobre cualquier efecto añadido."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P08",
+        "id_plano_anterior": "B1C01_S2_P07",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: hombro y nuca en primer término a la izquierda del cuadro, cuerpo de pie sin cambio de pose respecto a P06/P07 (erguido). Mano derecha vacía junto al muslo derecho (fuera de encuadre, no se ve en este encuadre sobre el hombro). Mano izquierda vacía junto al muslo izquierdo (fuera de encuadre). Herida oculta bajo el peto agrietado; borde superior del peto visible en el hombro/nuca en primer término. Mirada implícita hacia Gabriel. Gabriel: al fondo a la derecha, centrado en el resto del cuadro, de pie, erguido, torso hacia Miguel, terminando la línea de diálogo anterior. Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica. Sin heridas. Mirada sostenida hacia Miguel.",
+        "estado_salida_previsto": "Miguel: sin cambio de pose; hombro y nuca en primer término, mismas manos vacías fuera de encuadre a los muslos. Herida sin cambio. Gabriel: completa la advertencia sosteniendo la mirada; pose sin cambio corporal, boca en movimiento de habla al pronunciar 'Tu ausencia siembra el miedo en la Hueste.' Manos sin cambio, vacías a los costados, pergamino oculto sin cambio. Mirada sostenida hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado bajo la túnica)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado; borde superior del peto visible en el hombro en primer término, sin exponer la herida"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "gabriel.accion_habla",
+            "antes": "pronunciando la primera línea",
+            "despues": "completa la advertencia: 'Temen que esto sea un engaño... Tu ausencia siembra el miedo en la Hueste.'",
+            "causa": "dialogo_es/dialogo_en asignado al plano"
+          }
+        ],
+        "frame_final_descripcion": "Plano sobre el hombro izquierdo de Miguel: hombro y nuca en sombra parcial en primer término; Gabriel al fondo, rostro iluminado de lleno, terminando 'Tu ausencia siembra el miedo en la Hueste.'; manos de ambos fuera de encuadre pero conservadas vacías.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P09",
+      "orden": 9,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Miguel de cintura para arriba, Gabriel desenfocado al fondo, quieto, esperando respuesta.",
+      "encuadre_final": "Mismo encuadre; Miguel se endereza sintiendo el tirón del metal contra sus costillas.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Las palabras llegan a Miguel 'como noticias de otra vida'; el dolor arde de todos modos y se endereza, sintiendo el tirón del metal contra sus costillas. Sin diálogo hablado en este plano.",
+      "accion_fondo": "Gabriel permanece inmóvil al fondo, desenfocado, sosteniendo la espera sin insistir.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P09",
+        "fuente_luz": "Mismo sol",
+        "direccion": "Frontal-alta sobre Miguel; al enderezarse, la luz marca con más nitidez el filo superior del peto agrietado",
+        "dureza": "Dura sobre el peto; el fondo desenfocado difumina el borde de sombra de Gabriel sin alterar la fuente",
+        "color_temperatura": "Blanco-amarillenta",
+        "clima": "Sin cambios",
+        "ambiente": "Calina apenas perceptible entre ambos, suficiente para marcar la distancia sin ocultar a Gabriel"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P09",
+        "vfx_principal": "Traducción visual mínima del tirón interno: al tensar el torso (causa/contacto), el peto agrietado refleja la luz desde otro ángulo sobre el borde de la grieta dorada ya existente (respuesta); no hay fractura nueva ni resto adicional — la grieta permanece igual que antes del gesto.",
+        "vfx_fondo_simultaneo": "Reforzar la quietud de Gabriel al fondo: sin movimiento de tela (el viento de P04 ya se disipó) y sin desplazamiento de peso, para que su inmovilidad sostenga la espera sin insistir, en contraste con la tensión de Miguel en primer término.",
+        "fisica_entorno": "El fondo desenfocado no debe mostrar arena ni polvo en movimiento; la escena está en calma tras la ráfaga inicial y cualquier partícula residual debe estar ya asentada.",
+        "limitacion_conocida": "La guía no cubre una simulación fisiológica de tensión interna; limitarse a variación lumínica sobre metal ya agrietado y no forzar un efecto de aura o brillo no autorizado por el canon."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P09",
+        "id_plano_anterior": "B1C01_S2_P08",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de cintura para arriba, pose erguida heredada de P05/P06, a la espera, escuchando las palabras de Gabriel 'como noticias de otra vida'. Mano derecha vacía junto al muslo derecho. Mano izquierda vacía junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo el peto agrietado. Armadura sin cambio. Mirada dirigida hacia Gabriel (desenfocado al fondo). Gabriel: desenfocado al fondo, de pie, quieto, erguido, torso hacia Miguel, sosteniendo la espera sin insistir tras completar su advertencia. Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica. Sin heridas. Mirada sostenida hacia Miguel.",
+        "estado_salida_previsto": "Miguel: se endereza aún más al sentir el tirón del metal contra sus costillas; torso ahora más erguido y tenso, respiración contenida. Mano derecha sigue vacía junto al muslo derecho (sin moverse hacia el pecho esta vez). Mano izquierda sigue vacía junto al muslo izquierdo. Herida: hueco bajo el esternón, sigue oculta bajo el peto, ahora con el peto reflejando la luz desde otro ángulo por la tensión del torso (sin fractura nueva). Armadura sin cambio estructural. Mirada sostenida hacia Gabriel. Gabriel: sin cambio, inmóvil al fondo, desenfocado, sin desplazamiento de tela ni de peso, sosteniendo la espera. Manos sin cambio, vacías a los costados, pergamino oculto sin cambio. Mirada sostenida hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho",
+            "mano_izquierda": "vacía, junto al muslo izquierdo"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado bajo la túnica)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno, ahora sentido contra las costillas)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, que refleja la luz desde otro ángulo por la tensión del torso"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.pose_corporal / peto.reflejo",
+            "antes": "torso erguido en reposo relativo",
+            "despues": "torso más tenso, se endereza al sentir el tirón del metal contra las costillas; el peto agrietado refleja la luz desde otro ángulo (misma grieta, sin fractura nueva)",
+            "causa": "accion_principal + vfx_principal del plano: el tirón interno arde y Miguel se endereza sintiéndolo contra las costillas"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio fijo: Miguel de cintura para arriba, torso más erguido y tenso tras sentir el tirón contra las costillas, ambas manos vacías junto a los muslos; Gabriel desenfocado e inmóvil al fondo, manos vacías a los costados, sosteniendo la espera.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P10",
+      "orden": 10,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Contrapicado leve (low-angle shot), a la altura de su cintura inclinada hacia el rostro.",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "El rostro de Miguel llena el cuadro, mirada dirigida hacia Gabriel fuera de campo.",
+      "encuadre_final": "Mismo encuadre, sin corte.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Miguel responde con la voz áspera, como arena arrastrada por el viento, el orgullo herido visible en la mandíbula tensa.",
+      "accion_fondo": "",
+      "dialogo_es": "Me creen un necio",
+      "dialogo_en": "They think me a fool,",
+      "luz": {
+        "id_plano": "B1C01_S2_P10",
+        "fuente_luz": "Sol cenital, ahora leído desde un ángulo bajo",
+        "direccion": "El contrapicado capta la luz cayendo casi frontal desde lo alto del cuadro, ahondando las cuencas de los ojos y marcando con dureza la línea de la mandíbula tensa",
+        "dureza": "Muy dura: el contrapicado acentúa el contraste entre la frente iluminada y la sombra bajo el mentón",
+        "color_temperatura": "Blanco-amarillenta, sin variación de color",
+        "clima": "Sin cambios",
+        "ambiente": "Encuadre cerrado, sin partículas visibles"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P10",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Sin interacción de entorno; primer plano centrado en el rostro y la voz.",
+        "limitacion_conocida": "No aplica — plano de actuación pura, sin física de entorno que resolver."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P10",
+        "id_plano_anterior": "B1C01_S2_P09",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: primer plano, rostro llena el cuadro, contrapicado leve, mandíbula tensa por el orgullo herido, a punto de hablar. Mano derecha vacía junto al muslo derecho (fuera de encuadre, heredada). Mano izquierda vacía junto al muslo izquierdo (fuera de encuadre). Herida oculta bajo el peto agrietado (fuera de encuadre). Mirada dirigida hacia Gabriel, fuera de campo. Gabriel: fuera de encuadre en este plano; por herencia de P09, de pie, erguido, inmóvil, manos vacías a los costados, pergamino oculto contra el costado, mirada hacia Miguel.",
+        "estado_salida_previsto": "Miguel: mismo encuadre sin corte; pronuncia 'Me creen un necio', voz áspera como arena arrastrada por el viento, mandíbula tensa se acentúa. Mano derecha sigue vacía junto al muslo derecho (fuera de encuadre). Mano izquierda sigue vacía junto al muslo izquierdo. Herida sin cambio, oculta. Mirada sostenida hacia Gabriel. Gabriel: sin cambio respecto al inicio, fuera de encuadre, inmóvil, manos vacías a los costados, pergamino oculto sin cambio, mirada hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado, fuera de encuadre)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, fuera de encuadre en este primer plano"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.accion_habla",
+            "antes": "silencio, mandíbula tensa",
+            "despues": "pronuncia 'Me creen un necio,' con voz áspera",
+            "causa": "dialogo_es/dialogo_en asignado al plano"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano fijo en contrapicado leve: rostro de Miguel llena el cuadro, mandíbula tensa, pronunciando 'Me creen un necio,' con voz áspera; manos fuera de encuadre pero conservadas vacías a los costados.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P11",
+      "orden": 11,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Contrapicado leve (low-angle shot), continuidad con el plano anterior.",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Miguel de pecho a cabeza, mandíbula tensa, mirada fija en Gabriel.",
+      "encuadre_final": "Mismo encuadre, sin corte.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Miguel completa la réplica, sosteniendo la mirada sin apartarla.",
+      "accion_fondo": "",
+      "dialogo_es": "O un traidor.",
+      "dialogo_en": "Or a traitor.",
+      "luz": {
+        "id_plano": "B1C01_S2_P11",
+        "fuente_luz": "Mismo sol, misma altura de ángulo que el plano anterior",
+        "direccion": "Continúa cayendo casi frontal desde arriba del cuadro; la sombra bajo el mentón se mantiene idéntica",
+        "dureza": "Dura, sin cambio respecto al plano anterior",
+        "color_temperatura": "Blanco-amarillenta, sin variación",
+        "clima": "Sin cambios",
+        "ambiente": "Sin partículas visibles"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P11",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Sin interacción de entorno; continuidad directa del plano anterior en el mismo eje de cámara.",
+        "limitacion_conocida": "No aplica."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P11",
+        "id_plano_anterior": "B1C01_S2_P10",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: continuación directa del eje de P10 (mismo tipo de plano, contrapicado leve); pecho a cabeza, mandíbula tensa, mirada fija en Gabriel, ha terminado de decir 'Me creen un necio' (heredado). Mano derecha vacía junto al muslo derecho (fuera de encuadre). Mano izquierda vacía junto al muslo izquierdo (fuera de encuadre). Herida oculta. Gabriel: fuera de encuadre, heredado sin cambio, inmóvil, manos vacías a los costados, pergamino oculto.",
+        "estado_salida_previsto": "Miguel: completa la réplica 'O un traidor.', sosteniendo la mirada sin apartarla; mandíbula sigue tensa, sin cambio de pose corporal ni de manos (fuera de encuadre, vacías a los muslos). Herida sin cambio. Gabriel: sin cambio, fuera de encuadre, inmóvil, manos vacías, pergamino oculto sin cambio, mirada hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado, fuera de encuadre)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, fuera de encuadre"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.accion_habla",
+            "antes": "ha dicho 'Me creen un necio,'",
+            "despues": "completa 'O un traidor.', sosteniendo la mirada",
+            "causa": "dialogo_es/dialogo_en asignado al plano, continuidad directa de P10"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio corto fijo, mismo contrapicado leve de continuidad con el plano anterior: Miguel completa 'O un traidor.' sosteniendo la mirada sin apartarla; mandíbula tensa; manos fuera de encuadre, conservadas vacías.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P12",
+      "orden": 12,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Gabriel de pecho a cabeza, expresión serena.",
+      "encuadre_final": "Mismo encuadre; comienza a desplazar el peso de una pierna a otra hacia el final del plano.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel responde con calma, sin reproche.",
+      "accion_fondo": "",
+      "dialogo_es": "Te creen su general.",
+      "dialogo_en": "They think you are their general.",
+      "luz": {
+        "id_plano": "B1C01_S2_P12",
+        "fuente_luz": "Sol cenital; se retoma la altura de ojos",
+        "direccion": "Vuelve a caer verticalmente sobre el rostro sereno de Gabriel, sin las sombras marcadas del contrapicado previo",
+        "dureza": "Dura pero uniforme, sin acentuar ninguna cuenca en particular",
+        "color_temperatura": "Blanco-amarillenta",
+        "clima": "Sin cambios",
+        "ambiente": "Sin partículas relevantes"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P12",
+        "vfx_principal": "Al final del plano, cuando Gabriel desplaza el peso de un pie a otro (causa/contacto), un polvo fino mínimo puede alzarse bajo la suela en el punto de apoyo (respuesta) y asentarse de inmediato (evolución); no debe quedar huella marcada como en una zancada completa, solo un leve movimiento de polvo (resto mínimo).",
+        "vfx_fondo_simultaneo": "Ninguno — accion_fondo no está definida en este plano.",
+        "fisica_entorno": "Terreno de arena fina o polvo compacto junto al camino enterrado; el contacto es un simple cambio de apoyo, no una zancada.",
+        "limitacion_conocida": "Un desplazamiento de peso es un movimiento sutil; el generador puede omitir el polvo o exagerarlo en una nube — probar primero sin el efecto y añadirlo solo si el plano lo admite, siguiendo la regla de 'probar lo indispensable' de la guía."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P12",
+        "id_plano_anterior": "B1C01_S2_P11",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Gabriel: de pecho a cabeza, altura de ojos, expresión serena, de pie erguido, peso repartido en ambos pies (heredado). Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo, pergamino oculto contra el costado bajo la túnica. Sin heridas. Mirada dirigida hacia Miguel. Miguel: fuera de encuadre en este plano; por herencia de P11, mandíbula tensa, manos vacías a los muslos, herida oculta, mirada hacia Gabriel.",
+        "estado_salida_previsto": "Gabriel: mismo encuadre sin corte; ha pronunciado 'Te creen su general.' con calma, sin reproche; hacia el final del plano desplaza el peso de una pierna a otra, leve cambio de apoyo, sin desplazamiento de pies notable. Mano derecha sigue vacía junto al costado derecho. Mano izquierda sigue vacía junto al costado izquierdo, pergamino oculto sin cambio. Sin heridas. Mirada sostenida hacia Miguel. Miguel: sin cambio, fuera de encuadre, mandíbula tensa heredada, manos vacías a los muslos, herida oculta, mirada hacia Gabriel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho",
+            "mano_izquierda": "vacía, junto al costado izquierdo (pergamino oculto contra el costado bajo la túnica)"
+          },
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, fuera de encuadre"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "gabriel.apoyo_de_peso",
+            "antes": "peso repartido en ambos pies, quieto",
+            "despues": "desplaza el peso de una pierna a otra hacia el final del plano, con un leve polvo bajo la suela que se asienta de inmediato",
+            "causa": "accion_principal + vfx_principal del plano, tras pronunciar 'Te creen su general.'"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio corto fijo, altura de ojos: Gabriel con expresión serena tras decir 'Te creen su general.', desplazando el peso de una pierna a otra, leve polvo asentándose bajo la suela; manos vacías a los costados, pergamino oculto sin cambio.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P13",
+      "orden": 13,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Travelling lateral corto (short lateral tracking shot) hacia la derecha, revelando el costado de Gabriel.",
+      "encuadre_inicial": "Gabriel de frente, túnica cerrada, pergamino aún oculto contra el cuerpo.",
+      "encuadre_final": "El giro de la cámara deja ver, en primer término, el pergamino sellado con cera negra contra su túnica.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel cambia de postura y el movimiento revela, sin que él lo nombre ni lo toque, el pergamino sellado del Consejo.",
+      "accion_fondo": "Al fondo, ligeramente desenfocada, la mirada de Miguel se desplaza un instante hacia el pergamino antes de volver al rostro de su hermano.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P13",
+        "fuente_luz": "Mismo sol; el giro de cámara cambia el ángulo de incidencia sobre los pliegues de la túnica",
+        "direccion": "Al desplazarse la cámara hacia la derecha, la luz pasa a rasante sobre el costado de Gabriel, revelando el volumen del pergamino oculto contra la tela",
+        "dureza": "Dura y rasante, suficiente para diferenciar la textura del pergamino de la tela lisa",
+        "color_temperatura": "Blanco-amarillenta sobre la túnica azul; el pergamino se lee más cálido por el tono del papel",
+        "clima": "Sin cambios",
+        "ambiente": "Aire limpio; nada distrae del gesto revelado"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P13",
+        "vfx_principal": "Patrón causa→respuesta→resto: cuando Gabriel cambia de postura (causa), el pliegue de la túnica azul y plata se desplaza (material+trayectoria) y deja ver el pergamino sellado contra su costado; el tejido se asienta de nuevo al detenerse el travelling (evolución); el pergamino queda visible y estable en el encuadre final (resto).",
+        "vfx_fondo_simultaneo": "Reforzar la mirada de Miguel desplazándose brevemente hacia el pergamino y volviendo al rostro de Gabriel: movimiento ocular sutil, desenfocado al fondo, simultáneo al travelling, sin cambio de postura corporal que compita con el primer término.",
+        "fisica_entorno": "Tejido pesado de la túnica (banco 'Telas y capas'): pliegues amplios, anclaje fijo en los hombros, borde que no atraviesa el cuerpo.",
+        "limitacion_conocida": "Coordinar pliegue de tela + travelling lateral + mirada de fondo son tres variables simultáneas; si el modelo funde alguna, aplicar la regla 'cambiar una variable por intento' y probar primero el pliegue con el pergamino antes de añadir la mirada de Miguel."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P13",
+        "id_plano_anterior": "B1C01_S2_P12",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Gabriel: de frente, túnica cerrada, peso ya desplazado hacia una pierna (heredado de P12), pergamino aún oculto contra el cuerpo, no visible en el encuadre inicial. Mano derecha vacía junto al costado derecho. Mano izquierda vacía junto al costado izquierdo. Sin heridas. Mirada hacia Miguel. Miguel: presente en el fondo, ligeramente desenfocado, mandíbula aún tensa (heredado de P11), manos vacías a los muslos, herida oculta bajo el peto. Mirada dirigida hacia Gabriel.",
+        "estado_salida_previsto": "Gabriel: tras el travelling lateral hacia la derecha y el cambio de postura, el pliegue de la túnica azul y plata se ha desplazado, dejando ver contra su costado el pergamino sellado con cera negra (sin que él lo toque ni lo nombre); la tela ya se ha asentado de nuevo al detenerse la cámara. Mano derecha sigue vacía junto al costado derecho, sin acercarse al pergamino. Mano izquierda sigue vacía junto al costado izquierdo. Sin heridas. Mirada sostenida hacia Miguel. Miguel: al fondo, desenfocado, la mirada se ha desplazado brevemente hacia el pergamino y ha vuelto al rostro de Gabriel; sin cambio de postura corporal, manos aún vacías a los muslos, herida oculta bajo el peto.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "vacía, junto al costado derecho, sin tocar el pergamino recién revelado",
+            "mano_izquierda": "vacía, junto al costado izquierdo"
+          },
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (heredada, fuera de primer término)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "gabriel.pergamino.visibilidad",
+            "antes": "oculto contra el cuerpo, no visible",
+            "despues": "visible contra su costado, sostenido por el pliegue de la túnica, sin ser tocado ni nombrado",
+            "causa": "accion_principal: Gabriel cambia de postura y el travelling lateral revela el pergamino, sin que él lo toque"
+          },
+          {
+            "campo": "miguel.direccion_mirada",
+            "antes": "fija en el rostro de Gabriel",
+            "despues": "se desplaza un instante hacia el pergamino y vuelve al rostro de Gabriel",
+            "causa": "accion_fondo del plano"
+          }
+        ],
+        "frame_final_descripcion": "Tras el travelling lateral hacia la derecha: el pergamino sellado con cera negra queda visible contra el costado de Gabriel, sostenido por el pliegue asentado de la túnica azul y plata, sin que su mano lo toque; Miguel al fondo, desenfocado, con la mirada ya de vuelta en el rostro de Gabriel tras haberse desviado un instante hacia el pergamino.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P14",
+      "orden": 14,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano detalle (detail shot)",
+      "angulo": "Altura de ojos, encuadre cerrado sobre el costado de Gabriel.",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "El pergamino sellado con cera negra y densa contra la túnica azul y plata; la mano de Gabriel cerca, sin tocarlo.",
+      "encuadre_final": "Mismo encuadre, sin corte; la mano permanece inmóvil junto al pergamino.",
+      "personajes_en_plano": [
+        "Gabriel"
+      ],
+      "accion_principal": "El sello de cera negra permanece intacto y sin nombrar; la marca formal de una orden del Consejo que Gabriel elige no invocar.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P14",
+        "fuente_luz": "Sol cenital, encuadre cerrado sobre el sello",
+        "direccion": "Luz rasante idéntica al plano anterior, ahora concentrada sobre la cera negra y densa del sello",
+        "dureza": "Muy dura: el relieve del sello proyecta una sombra propia diminuta y nítida",
+        "color_temperatura": "La cera absorbe la luz blanca y devuelve un negro mate, sin reflejo cálido",
+        "clima": "Sin cambios",
+        "ambiente": "Ninguna partícula; el detalle permanece despejado"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P14",
+        "vfx_principal": "Ninguno de movimiento activo; el plano exige quietud total del sello y de la mano — cualquier vibración de tela o temblor contradice que el pergamino 'permanece intacto y sin nombrar'.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Cera negra y densa del sello, mate, sin reflejo brillante que sugiera algo sobrenatural; tejido de la túnica en reposo, continuidad del pliegue ya asentado en P13.",
+        "limitacion_conocida": "Mantener la quietud es el reto: un generador de vídeo puede introducir micro-movimiento no deseado en tela o mano; revisar fotograma a fotograma según el paso 5 del protocolo de aceptación de la guía."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P14",
+        "id_plano_anterior": "B1C01_S2_P13",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Gabriel: encuadre cerrado sobre su costado; pergamino sellado con cera negra visible contra la túnica azul y plata (heredado de P13); mano derecha cerca del pergamino, sin tocarlo, dedos relajados en el aire junto a la tela. Mano izquierda fuera de este encuadre cerrado, vacía junto al costado izquierdo (heredada). Sin heridas. Sello de cera negra y densa intacto.",
+        "estado_salida_previsto": "Gabriel: mismo encuadre sin corte; el sello de cera negra permanece intacto y sin nombrar, mano derecha permanece inmóvil junto al pergamino, sin tocarlo. Mano izquierda fuera de encuadre, vacía junto al costado izquierdo. Sin heridas. Quietud total mantenida durante todo el plano.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "cerca del pergamino sellado, sin tocarlo, dedos relajados en el aire junto a la tela",
+            "mano_izquierda": "fuera de encuadre, vacía, junto al costado izquierdo (heredada)"
+          }
+        ],
+        "heridas_visibles": [],
+        "cambios_autorizados": [],
+        "frame_final_descripcion": "Plano detalle fijo, encuadre cerrado: el pergamino sellado con cera negra y densa permanece intacto contra la túnica azul y plata de Gabriel; su mano derecha queda inmóvil cerca del sello, sin tocarlo; quietud total sostenida durante todo el plano.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P15",
+      "orden": 15,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Travelling de aproximación lento (push-in/dolly in) sobre el rostro de Miguel.",
+      "encuadre_inicial": "El rostro de Miguel en plano medio corto, la quietud de Gabriel implícita fuera de campo.",
+      "encuadre_final": "El rostro llena el cuadro tras el avance lento de la cámara.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "El cambio de emisario a hermano golpea a Miguel más hondo que cualquier orden; por una respiración, olvida todo lo demás.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P15",
+        "fuente_luz": "Sol cenital constante durante el avance de cámara",
+        "direccion": "Se mantiene frontal-alta; el acercamiento no cambia el ángulo de incidencia, solo el tamaño del rostro en cuadro",
+        "dureza": "Dura; un brillo de sudor en la sien capta el borde de luz con nitidez",
+        "color_temperatura": "Blanco-amarillenta",
+        "clima": "Sin cambios",
+        "ambiente": "El fondo, ya fuera de foco, disuelve cualquier partícula visible"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P15",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Ninguna interacción de material; el push-in es puramente actoral y emocional.",
+        "limitacion_conocida": "No aplica."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P15",
+        "id_plano_anterior": "B1C01_S2_P14",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: rostro en plano medio corto al inicio, quietud implícita de Gabriel fuera de campo; mandíbula con tensión residual heredada de P11/P13, mirada fija en Gabriel. Mano derecha vacía junto al muslo derecho (heredada, fuera de encuadre). Mano izquierda vacía junto al muslo izquierdo (fuera de encuadre). Herida: hueco bajo el esternón, oculta bajo el peto agrietado. Armadura dorada agrietada sin cambio. Gabriel: fuera de encuadre; por herencia de P14, mano derecha aún cerca del pergamino sin tocarlo, mano izquierda vacía junto al costado izquierdo, pergamino visible contra su costado, sin heridas, mirada hacia Miguel.",
+        "estado_salida_previsto": "Miguel: tras el push-in lento, el rostro llena el cuadro; la mandíbula se afloja, la tensión de orgullo cede por una respiración al sentir que su hermano elige hablarle como hermano y no como emisario; brillo de sudor visible en la sien. Mano derecha sigue vacía junto al muslo derecho (fuera de encuadre). Mano izquierda sigue vacía junto al muslo izquierdo (fuera de encuadre). Herida sin cambio, oculta. Gabriel: sin cambio, fuera de encuadre, mano derecha aún cerca del pergamino sin tocarlo, mano izquierda vacía, pergamino visible, mirada hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "cerca del pergamino sellado, sin tocarlo (heredada de P14, fuera de encuadre)",
+            "mano_izquierda": "vacía, junto al costado izquierdo (fuera de encuadre)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, fuera de encuadre"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.expresion_facial/mandibula",
+            "antes": "mandíbula tensa por orgullo herido",
+            "despues": "la tensión cede por una respiración; el rostro se afloja al sentir a Gabriel como hermano y no como emisario",
+            "causa": "accion_principal del plano: el cambio de emisario a hermano golpea a Miguel más hondo que cualquier orden"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano tras push-in lento: el rostro de Miguel llena el cuadro, mandíbula ya distendida, brillo de sudor en la sien, por una respiración parece olvidar todo lo demás; manos fuera de encuadre, conservadas vacías a los muslos.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P16",
+      "orden": 16,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Los dos hermanos de cuerpo entero, quietos junto al camino enterrado, el desierto extendiéndose detrás.",
+      "encuadre_final": "Misma composición, sin corte; ninguno se mueve.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "La quietud sostenida le confirma a Miguel que su hermano prefiere ser familia antes que el verdugo de una orden oficial; el pergamino sigue sin nombrarse.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P16",
+        "fuente_luz": "Mismo sol cenital que sostiene toda la escena",
+        "direccion": "Cae vertical sobre ambos, sombras cortas junto a sus pies, sin desplazarse respecto al plano de dos previo",
+        "dureza": "Dura, bordes definidos",
+        "color_temperatura": "Blanco-amarillenta uniforme",
+        "clima": "Despejado; la calima del horizonte se ha espesado ligeramente desde el inicio de la escena, marcando el paso del tiempo sin cambiar la hora",
+        "ambiente": "Calima leve en el horizonte tras el camino enterrado; el resto del encuadre permanece limpio"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P16",
+        "vfx_principal": "Ninguno; plano de quietud sostenida entre ambos hermanos.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "El desierto se extiende detrás sin movimiento activo; cualquier calima térmica de fondo debe mantenerse mínima para no distraer de la quietud.",
+        "limitacion_conocida": "Riesgo principal: que el generador introduzca viento o polvo no pedido por el guion; vigilar en la revisión del paso 6 (persistencia de estado)."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P16",
+        "id_plano_anterior": "B1C01_S2_P15",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de cuerpo entero, de pie, quieto junto al camino enterrado, mandíbula distendida (heredada de P15), erguido, peso repartido en ambos pies. Mano derecha vacía junto al muslo derecho. Mano izquierda vacía junto al muslo izquierdo. Herida: hueco bajo el esternón, oculta bajo el peto agrietado. Armadura dorada agrietada sin cambio. Mirada dirigida hacia Gabriel. Gabriel: de cuerpo entero, de pie, quieto, túnica azul y plata sin armadura, pergamino sellado visible contra su costado bajo el pliegue de la túnica (heredado de P13). Mano derecha cerca del pergamino, sin tocarlo (heredada de P14). Mano izquierda vacía junto al costado izquierdo. Sin heridas. Mirada dirigida hacia Miguel.",
+        "estado_salida_previsto": "Miguel: de cuerpo entero, quieto, erguido, mandíbula distendida, mano derecha vacía junto al muslo derecho, mano izquierda vacía junto al muslo izquierdo, herida oculta bajo el peto, mirada sostenida hacia Gabriel; ninguno avanza ni retrocede. Gabriel: de cuerpo entero, quieto, pergamino visible contra su costado, mano derecha cerca del pergamino sin tocarlo, mano izquierda vacía junto al costado izquierdo, sin heridas, mirada sostenida hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho",
+            "mano_izquierda": "vacía, junto al muslo izquierdo"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "cerca del pergamino sellado contra su costado, sin tocarlo",
+            "mano_izquierda": "vacía, junto al costado izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado"
+          }
+        ],
+        "cambios_autorizados": [],
+        "frame_final_descripcion": "Plano general fijo, cuerpo entero: Miguel y Gabriel de pie junto al camino enterrado, el desierto extendiéndose detrás, ninguno se mueve; manos de ambos visibles y vacías (la derecha de Gabriel cerca del pergamino sin tocarlo); pergamino sellado aún visible contra el costado de Gabriel; sombras cortas a los pies de ambos.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P17",
+      "orden": 17,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "El rostro de Miguel llena el cuadro, mirada aún fija en Gabriel.",
+      "encuadre_final": "Mismo encuadre; la mirada de Miguel empieza a perderse, como si mirara a través de su hermano.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Miguel reconoce que ya ha vivido una versión de este momento antes; por eso no puede obligarse a dar la vuelta.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P17",
+        "fuente_luz": "Sol cenital",
+        "direccion": "Frontal-alta, sin variación respecto al plano anterior",
+        "dureza": "Dura sobre los rasgos, aunque la atención se desplaza de la luz a la mirada perdida",
+        "color_temperatura": "Blanco-amarillenta",
+        "clima": "Sin cambios",
+        "ambiente": "Sin partículas en el encuadre cerrado"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P17",
+        "vfx_principal": "Ninguno de física de entorno; 'perder la mirada' es actuación, no un efecto visible del entorno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Sin interacción de material.",
+        "limitacion_conocida": "No aplica."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P17",
+        "id_plano_anterior": "B1C01_S2_P16",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: rostro llena el cuadro (heredado de P15/P16), mandíbula distendida, mirada aún fija en Gabriel. Mano derecha vacía junto al muslo derecho (fuera de encuadre, heredada). Mano izquierda vacía junto al muslo izquierdo (fuera de encuadre). Herida oculta bajo el peto agrietado. Gabriel: fuera de encuadre; heredado de P16: mano derecha cerca del pergamino sin tocarlo, mano izquierda vacía, pergamino visible contra su costado, sin heridas, mirada hacia Miguel.",
+        "estado_salida_previsto": "Miguel: reconoce que ya ha vivido una versión de este momento antes; la mirada empieza a perderse, como si mirara a través de su hermano, ojos aún abiertos pero el enfoque se desvía internamente. Mano derecha sigue vacía junto al muslo derecho (fuera de encuadre). Mano izquierda sigue vacía junto al muslo izquierdo (fuera de encuadre). Herida sin cambio. Gabriel: sin cambio, fuera de encuadre, mano derecha cerca del pergamino, mano izquierda vacía, mirada hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "cerca del pergamino sellado, sin tocarlo (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al costado izquierdo (fuera de encuadre)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, fuera de encuadre"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "miguel.direccion_mirada",
+            "antes": "mirada fija en Gabriel",
+            "despues": "la mirada empieza a perderse, como si mirara a través de su hermano",
+            "causa": "accion_principal: Miguel reconoce que ya ha vivido una versión de este momento antes"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano fijo: el rostro de Miguel llena el cuadro, mandíbula distendida, la mirada empieza a perderse como si mirara a través de Gabriel; manos fuera de encuadre, conservadas vacías.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P18",
+      "orden": 18,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Cambio de foco (rack focus): la nitidez pasa del rostro de Miguel a un punto indeterminado tras él, sugiriendo el tirón del recuerdo.",
+      "encuadre_inicial": "El rostro de Miguel nítido, Gabriel borroso al fondo.",
+      "encuadre_final": "El rostro de Miguel permanece nítido; el fondo se desenfoca aún más, aislándolo por completo.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "El gesto interior de no poder dar la vuelta se traduce en el aislamiento visual del rostro respecto al entorno inmediato.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P18",
+        "fuente_luz": "Mismo sol; el cambio de foco no altera la fuente, solo qué zona se lee nítida",
+        "direccion": "Se mantiene frontal-alta sobre el rostro nítido de Miguel; al desenfocarse el fondo, los destellos del vidrio negro se convierten en manchas de luz difusas",
+        "dureza": "Dura sobre el rostro; los destellos de fondo pierden el borde nítido sin cambiar de naturaleza",
+        "color_temperatura": "Blanco-amarillenta en el rostro; las manchas de fondo conservan el mismo tono, solo disueltas",
+        "clima": "Sin cambios",
+        "ambiente": "Los destellos del vidrio negro se convierten en puntos de luz borrosos, aislando visualmente el rostro de Miguel"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P18",
+        "vfx_principal": "Ninguno de física de materiales; el efecto es puramente óptico (rack focus / profundidad de campo), no un desplazamiento de material del entorno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "El fondo se desenfoca progresivamente; no hay partículas ni contacto que resolver, solo cambio de plano focal.",
+        "limitacion_conocida": "La guía distingue desenfoque de fondo y detalle nítido como recursos independientes (Google); un rack focus preciso por texto no está garantizado y puede requerir ajuste en posproducción si el generador no separa los planos de foco."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P18",
+        "id_plano_anterior": "B1C01_S2_P17",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: rostro nítido, mirada perdiéndose (heredado de P17), manos vacías fuera de encuadre. Herida oculta bajo el peto agrietado. Gabriel: borroso al fondo, sin cambio de pose, mano derecha cerca del pergamino sin tocarlo, mano izquierda vacía junto al costado izquierdo, pergamino visible, sin heridas.",
+        "estado_salida_previsto": "Miguel: el rostro sigue nítido, la mirada aún más perdida, aislada ópticamente del entorno; sin cambio físico de manos (fuera de encuadre, vacías). Herida sin cambio. Gabriel: fondo aún más desenfocado, sin cambio de pose ni manos (heredado), mano derecha cerca del pergamino sin tocarlo, mano izquierda vacía.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al muslo izquierdo (fuera de encuadre)"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "cerca del pergamino sellado, sin tocarlo (fuera de encuadre, heredada)",
+            "mano_izquierda": "vacía, junto al costado izquierdo (fuera de encuadre)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado, fuera de encuadre"
+          }
+        ],
+        "cambios_autorizados": [
+          {
+            "campo": "camara.enfoque",
+            "antes": "rostro de Miguel nítido, fondo con Gabriel algo desenfocado",
+            "despues": "rostro de Miguel sigue nítido, fondo aún más desenfocado, aislándolo por completo",
+            "causa": "movimiento_camara: rack focus del plano, recurso óptico puro sin cambio físico de los personajes"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano fijo con rack focus: el rostro de Miguel permanece nítido mientras el fondo se desenfoca aún más, los destellos del vidrio negro convertidos en manchas de luz difusas que aíslan visualmente su rostro; manos fuera de encuadre, conservadas vacías.",
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S2_P19",
+      "orden": 19,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos (eye-level shot)",
+      "movimiento_camara": "Plano fijo (locked-off/static shot).",
+      "encuadre_inicial": "Miguel en primer término, aún con la mirada perdida; Gabriel visible detrás, quieto, esperando.",
+      "encuadre_final": "Misma composición; se sostiene la quietud hasta el corte a la siguiente escena.",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "El plano cierra el bloque manteniendo la quietud entre ambos, con el pergamino aún sin nombrar, como puente hacia el recuerdo de las Puertas de Ónice que sigue en el capítulo.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S2_P19",
+        "fuente_luz": "Sol cenital, cierre del bloque",
+        "direccion": "Cae igual que en el plano de dos previo, vertical sobre ambos hermanos, sin variación de ángulo",
+        "dureza": "Dura, consistente con el resto del bloque",
+        "color_temperatura": "Blanco-amarillenta",
+        "clima": "Despejado; la calima del horizonte permanece espesa, como quedó establecida en el plano anterior",
+        "ambiente": "Calima constante al fondo; el pergamino sigue sin recibir mención directa de luz propia, integrado en la iluminación general de la escena"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S2_P19",
+        "vfx_principal": "Ninguno; el plano cierra manteniendo la quietud ya establecida en la escena.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Sin movimiento de material; el entorno permanece coherente con los planos anteriores (pergamino aún sin nombrar, arena reasentada desde P04).",
+        "limitacion_conocida": "No aplica — plano de transición hacia el recuerdo de las Puertas de Ónice; prioridad es la continuidad de estado sobre cualquier efecto nuevo."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S2_P19",
+        "id_plano_anterior": "B1C01_S2_P18",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: en primer término, mirada aún perdida (heredada de P18), manos vacías junto a los muslos. Herida: hueco bajo el esternón, oculta bajo el peto agrietado. Gabriel: detrás, quieto, esperando, pergamino sellado visible contra su costado, mano derecha cerca sin tocarlo, mano izquierda vacía junto al costado izquierdo, sin heridas, mirada hacia Miguel.",
+        "estado_salida_previsto": "Miguel: sostiene la quietud hasta el corte a la siguiente escena; en primer término, mirada aún perdida, manos vacías junto a los muslos, herida oculta bajo el peto. Gabriel: detrás, quieto, esperando, pergamino sellado aún visible contra su costado, mano derecha cerca sin tocarlo, mano izquierda vacía junto al costado izquierdo, sin heridas, mirada sostenida hacia Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, junto al muslo derecho",
+            "mano_izquierda": "vacía, junto al muslo izquierdo"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "cerca del pergamino sellado contra su costado, sin tocarlo",
+            "mano_izquierda": "vacía, junto al costado izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón (tirón interno)",
+            "lado": "centro/esternón",
+            "visibilidad": "oculta bajo el peto agrietado"
+          }
+        ],
+        "cambios_autorizados": [],
+        "frame_final_descripcion": "Plano medio fijo de cierre: Miguel en primer término con la mirada aún perdida, manos vacías junto a los muslos; Gabriel detrás, quieto, esperando, pergamino sellado aún visible contra su costado, mano derecha cerca sin tocarlo; la quietud se sostiene hasta el corte hacia el recuerdo de las Puertas de Ónice.",
+        "checklist_incidencias": []
+      }
+    }
+  ],
+  "prompts_flow": [
+    {
+      "id_plano": "B1C01_S2_P01",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (si no está disponible, Veo 3.1 Lite; Veo 3.1 Quality queda descartado porque no admite Ingredients to Video) · duración fija de la operación: 8 s (coincide con la ficha) · formato 16:9 horizontal · ángulo ligeramente picado y plano fijo: comprobar en el selector si hay control de altura/ángulo de cámara o describirlo solo en el texto · generar 1 resultado y revisar antes de pedir variantes.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, gran plano general, cámara quieta durante toda la toma, ligeramente picado desde una altura elevada sobre el desierto de Serephis y el camino enterrado. La referencia adjunta define la identidad y el vestuario de Miguel: armadura dorada agrietada en el peto, sin túnica adicional, forma celestial. Miguel es una figura pequeña de pie junto a los bloques de piedra visibles del camino enterrado, vidrio negro agrietado bajo sus pies, peso repartido en ambos pies. Al inicio del plano, su mano derecha está vacía, enguantada, junto al muslo derecho; su mano izquierda está vacía, enguantada, junto al muslo izquierdo; el hueco bajo el esternón está oculto bajo el peto agrietado, sin marca externa visible. Miguel se detiene y su mano derecha enguantada sube hacia el hueco bajo el esternón, dedos curvados contra el peto agrietado: el gesto que repite mil veces al día. Al terminar, su mano derecha presiona el peto sobre el esternón; su mano izquierda sigue vacía junto al muslo izquierdo; la mirada permanece dirigida hacia el desierto y el camino enterrado frente a él. El sol de mediodía en su cenit es la única fuente de luz, casi cenital con leve inclinación hacia el sureste; sombras cortas de los bloques de piedra hacia el noroeste; luz dura, blanco-amarillenta muy intensa; cielo despejado con calima térmica visible en el horizonte. No hay pisada ni contacto que genere efecto: el único VFX es una calima de calor ondulando sobre las dunas lejanas, ascendiendo y disipándose hacia el cielo sin dejar resto; esquirlas de vidrio negro devuelven destellos puntuales dispersos por el suelo bajo los pies de Miguel. Durante toda la toma la cámara permanece fija, la mano izquierda de Miguel no se mueve del muslo izquierdo y el peto agrietado no cambia de forma. No hay diálogo. Se oye el silencio del desierto; sin voces.",
+      "criterios_aceptacion": "La cámara no corta ni se mueve durante los 8 s · Miguel conserva ambas manos con el lado correcto (derecha sube al peto, izquierda queda vacía junto al muslo izquierdo) · la calima térmica es sutil, sin convertirse en tormenta de arena ni ocultar la figura · el peto agrietado y la ausencia de túnica se mantienen idénticos al fotograma inicial · el estado final (mano derecha sobre el peto) coincide con la entrada de B1C01_S2_P02."
+    },
+    {
+      "id_plano": "B1C01_S2_P02",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano fijo altura de ojos: comprobar zoom/focal fijo en el selector, sin desplazamiento de cámara.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio a la altura de los ojos, cámara quieta. La primera referencia adjunta define el rostro de Miguel (pelo ceniza) y la segunda su cuerpo y vestuario: armadura dorada agrietada visible en el peto. Miguel está de cintura para arriba, torso frontal a cámara, con los ojos cerrados a punto de abrirse. Su mano derecha, heredada del plano anterior, presiona el peto agrietado sobre el hueco bajo el esternón, dedos curvados contra el metal; su mano izquierda está vacía, enguantada, junto al muslo izquierdo. El hueco bajo el esternón permanece oculto bajo el peto y la propia mano derecha. Miguel cierra los ojos un momento; cuando los abre, su cuerpo ya se ha girado hacia la dirección del tirón antes de que la mente termine de consentirlo. Al terminar el plano, sus ojos están abiertos, el torso girado hacia esa dirección fuera de campo, la mano derecha sigue presionando el peto sin cambiar de contacto, la mano izquierda sigue vacía junto al muslo izquierdo. El mismo sol cenital modela el rostro desde arriba con un tenue relleno rebotado desde la arena pálida que aclara la zona bajo los ojos; luz dura en frente y pómulos, blanco-amarillenta con leve calor añadido; sin partículas visibles. No hay VFX de entorno: es un giro corporal, no física de material; la luz dura puede recorrer el peto y marcar el borde de las grietas doradas desde un ángulo distinto al girar el torso, sin desplazamiento de material. Durante toda la toma la mano derecha no se separa del peto y la mano izquierda no se mueve del muslo izquierdo. No hay diálogo. Se oye el mismo silencio del desierto.",
+      "criterios_aceptacion": "El giro de ojos cerrados a abiertos ocurre sin corte de cámara · la mano derecha no se despega del peto agrietado en ningún fotograma · la mano izquierda permanece vacía y en el mismo punto · el peto no cambia de grietas ni de color · el estado final (torso girado, ojos abiertos, mano derecha en el peto) coincide con la entrada de B1C01_S2_P03."
+    },
+    {
+      "id_plano": "B1C01_S2_P03",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · duración fija de la operación 8 s aunque la ficha pide 7 s: generar a 8 s y recortar en montaje al segundo 7, manteniendo el estado final descrito · 16:9 · plano detalle fijo, luz muy rasante: comprobar que el selector no reencuadra automáticamente.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano detalle, cámara quieta, encuadre cerrado sobre el torso. La referencia adjunta define la textura y el color del peto dorado agrietado de Miguel (rostro no visible en este plano). Al inicio, la mano derecha de Miguel, heredada del plano anterior y ya en contacto desde antes, presiona el peto agrietado sobre el hueco bajo el esternón, dedos curvados sobre el metal; la mano izquierda no es visible en este encuadre cerrado pero permanece, por herencia, vacía junto al muslo izquierdo, fuera de cuadro. El hueco bajo el esternón sigue oculto bajo el peto y la mano. Los dedos de la mano derecha presionan el metal agrietado con mayor firmeza, buscando el contacto del acero templado que no calma el hueco; no hay fractura nueva en el metal, solo un cambio de presión. Al terminar, los dedos siguen presionando con firmeza el mismo punto del peto; la mano izquierda sigue fuera de cuadro y vacía. La luz sigue siendo el mismo sol cenital, ahora rasante sobre las grietas del peto dorado, acentuando el relieve de cada fractura; muy dura, el filo de cada grieta separa una arista iluminada de una sombra cerrada; color cálido sobre el oro, ligeramente anaranjado por la reflexión del metal. No hay partículas ni desprendimiento de material: el único cambio posible es una micro-variación de luz dura sobre el borde de la grieta dorada al cambiar la presión de los dedos, sin brillo ni resplandor añadido. Durante toda la toma la mano derecha no suelta el peto y no aparece una segunda mano en el encuadre. No hay diálogo.",
+      "criterios_aceptacion": "El plano queda listo para recortarse a 7 s con el estado final idéntico al descrito antes del corte · solo se ve una mano (la derecha) en todo el encuadre, nunca dos · no aparece brillo o resplandor no descrito en la ficha · la grieta dorada no cambia de forma, solo de iluminación · el estado final coincide con la entrada de B1C01_S2_P04 (Miguel de cuerpo entero, mano derecha en el peto)."
+    },
+    {
+      "id_plano": "B1C01_S2_P04",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · movimiento de cámara complejo (grúa de aproximación) descrito solo en texto: comprobar controles de grúa/crane en el selector antes de confiar solo en el prompt · según la limitación conocida de la ficha, probar primero solo la ráfaga de arena antes de añadir matices adicionales al contraluz.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano continuo, plano general, cámara en grúa de aproximación breve: arranca a ras del suelo, en calor y arena en primer término bajo el mismo sol cenital, sin figura visible aún, y asciende hasta revelar el plano general completo. La primera referencia adjunta define la identidad de Miguel: armadura dorada agrietada, sin túnica, forma celestial. La segunda referencia define la identidad de Gabriel: túnica de azul y plata sin armadura, forma celestial. Al arrancar el plano, Miguel está de pie sobre el vidrio negro agrietado del camino enterrado, torso ya girado hacia la dirección del tirón, peso repartido en ambos pies; su mano derecha presiona el peto agrietado sobre el hueco bajo el esternón; su mano izquierda está vacía, enguantada, junto al muslo izquierdo; el hueco bajo el esternón permanece oculto. Gabriel todavía no aparece en el encuadre: no se ha materializado. Gabriel llega como la primera ráfaga de aire fresco antes de la tormenta: una onda de aire agita la arena suelta alrededor de sus pies mientras se materializa. Al terminar el plano, tras el ascenso de la grúa, se revela a Gabriel de cuerpo entero, unos pasos frente a Miguel, pose erguida, torso orientado hacia Miguel; su mano derecha está vacía junto al costado derecho; su mano izquierda está vacía junto al costado izquierdo, con un pergamino sellado oculto contra su costado bajo el pliegue de la túnica, sin sostenerlo en la mano; sin heridas visibles. Miguel permanece de cuerpo entero junto al camino enterrado, mano derecha aún sobre el peto, mano izquierda vacía junto al muslo, mirada ya dirigida hacia Gabriel. La luz arranca horizontal a ras de suelo bajo el sol cenital con distorsión térmica visible; al ascender la grúa se suma un contraluz que perfila a Gabriel, cayendo sobre su túnica desde lo alto mientras un contraluz lateral recorta su silueta durante la materialización; dura sobre la arena, se suaviza sobre la túnica azul; los hilos de plata de la túnica devuelven un destello frío que contrasta con el calor ambiente. El VFX principal es la ráfaga de aire que traduce la materialización de Gabriel: el aire se agita en torno a sus pies al aparecer, la arena suelta responde alzándose en un abanico bajo alrededor de las botas, los granos caen cerca y el polvo fino se dispersa, quedando una leve arena reasentada bajo sus pies al fijarse el plano general; no hay otro efecto de fondo. Durante toda la toma Miguel no suelta la mano derecha del peto hasta el final del plano, y el pergamino de Gabriel permanece oculto contra su costado, sin ser sostenido por ninguna mano visible. No hay diálogo. Se oye la ráfaga de aire y después el silencio del desierto.",
+      "criterios_aceptacion": "La grúa asciende una sola vez, sin cortes ni saltos de eje · Gabriel aparece con manos vacías a los costados y el pergamino oculto bajo la túnica, nunca sostenido en la mano · Miguel conserva la mano derecha sobre el peto hasta el final del plano y la izquierda vacía junto al muslo · la ráfaga de arena se asienta antes del corte, sin dejar nube residual · el estado final de ambos coincide con la entrada de B1C01_S2_P05."
+    },
+    {
+      "id_plano": "B1C01_S2_P05",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano fijo con profundidad de campo (Gabriel desenfocado): comprobar si el selector permite fijar el foco o si hay que describirlo solo en texto.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio a la altura de los ojos, cámara quieta. La primera referencia adjunta define el rostro de Miguel y la segunda su cuerpo y armadura dorada agrietada; la tercera referencia define la identidad de Gabriel, que aparecerá desenfocado al fondo por profundidad de campo. Al inicio, Miguel está de pie, torso aún ligeramente inclinado hacia adelante; su mano derecha, heredada del plano anterior, todavía presiona el peto agrietado sobre el hueco bajo el esternón; su mano izquierda está vacía, enguantada, junto al muslo izquierdo; el hueco bajo el esternón permanece oculto bajo el peto y la mano. Gabriel está de pie al fondo, desenfocado, pose erguida, torso orientado hacia Miguel; su mano derecha vacía junto al costado derecho, su mano izquierda vacía junto al costado izquierdo con el pergamino oculto contra su costado bajo la túnica; sin heridas. Miguel siente amor al ver a su hermano y, de inmediato, el peso del propio orgullo: se endereza, aunque el agotamiento no se deja esconder del todo en el rostro. Al terminar, Miguel está erguido, hombros nivelados; al enderezarse, su mano derecha se separa del peto y baja junto al muslo derecho, vacía; su mano izquierda sigue vacía junto al muslo izquierdo; el hueco bajo el esternón queda oculto solo bajo el peto, ya sin la mano encima. Gabriel no cambia de postura, manos vacías a los costados, pergamino oculto sin cambio, mirada hacia Miguel. El mismo sol cenital ilumina a ambos; frontal-alta sobre Miguel, dura; sobre Gabriel desenfocado se lee solo como una mancha de luz en la túnica azul y plata; blanco-amarillenta en Miguel, el azul se ve más frío por contraste tonal, no por otra fuente. No hay VFX de entorno: el gesto de enderezarse es corporal, sin interacción con material del entorno; no forzar polvo ni viento no motivado. Durante toda la toma Gabriel permanece desenfocado al fondo sin desplazarse, y la mano derecha de Miguel termina exactamente junto al muslo derecho, no en ningún otro punto del cuerpo. No hay diálogo.",
+      "criterios_aceptacion": "La mano derecha de Miguel se separa del peto solo al final del gesto de enderezarse, sin saltos intermedios · nunca hay dos manos sobre el peto a la vez · Gabriel permanece desenfocado y sin cambio de pose todo el plano · el agotamiento sigue legible en el rostro de Miguel pese a la postura recompuesta · el estado final (ambas manos de Miguel vacías junto a los muslos) coincide con la entrada de B1C01_S2_P06."
+    },
+    {
+      "id_plano": "B1C01_S2_P06",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano de dos fijo, cuerpo entero, sin cambios de estado (cambios_autorizados vacío en la ficha): priorizar quietud total, sin viento ni polvo.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano de dos, cuerpo entero, altura de ojos, cámara quieta durante toda la toma. La primera referencia adjunta define la identidad y vestuario de Miguel: armadura dorada agrietada. La segunda define la de Gabriel: túnica azul y plata sin armadura. Ambos hermanos están de pie, de cuerpo entero, a distancia clara el uno del otro, con los bloques de piedra del camino enterrado visibles entre ambos. Miguel está erguido, torso orientado hacia Gabriel; su mano derecha vacía junto al muslo derecho; su mano izquierda vacía junto al muslo izquierdo; el hueco bajo el esternón oculto bajo el peto agrietado. Gabriel está erguido, torso orientado hacia Miguel; su mano derecha vacía junto al costado derecho; su mano izquierda vacía junto al costado izquierdo, con el pergamino sellado oculto contra su costado bajo la túnica; sin heridas visibles. Este plano establece la distancia física entre ambos antes de que empiece el diálogo: ninguno avanza hacia el otro. Al terminar el plano, ninguna posición ha cambiado: mismas manos, misma distancia, mismos bloques de piedra entre ambos, ninguna mirada se ha desviado. El sol cenital cae verticalmente sobre ambos; los bloques de piedra proyectan sombras cortas y paralelas; luz dura, bordes definidos; blanco-amarillenta uniforme; aire limpio, sin bruma que difumine la distancia. No hay VFX: el plano exige quietud legible; no introducir viento ni polvo no pedido. Durante toda la toma ninguno de los dos hermanos se desplaza ni un paso, y ambas manos de cada uno permanecen visibles y vacías. No hay diálogo todavía.",
+      "criterios_aceptacion": "Ni Miguel ni Gabriel dan un solo paso durante los 8 s · las cuatro manos permanecen visibles y vacías en todo momento · la distancia y los bloques de piedra entre ambos no cambian de posición · no aparece viento, polvo ni partícula alguna · el estado final es idéntico al inicial, listo como entrada fija de B1C01_S2_P07 y B1C01_S2_P08."
+    },
+    {
+      "id_plano": "B1C01_S2_P07",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s (coincide con la ficha) · 16:9 · plano medio corto fijo sin corte; Miguel no es visible en el encuadre: comprobar que el selector no fuerce ambos personajes en cuadro solo por figurar los dos como sujeto de la escena.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Gabriel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio corto, altura de ojos, cámara quieta, encuadre cerrado sobre Gabriel de pecho a cabeza; Miguel no aparece en este encuadre. La referencia adjunta define el rostro y la túnica azul y plata de Gabriel, visible en el borde del cuadro. Al inicio, Gabriel está erguido, torso orientado hacia Miguel (fuera de campo), a punto de hablar; su mano derecha está vacía, fuera del encuadre cerrado, junto al costado derecho por herencia del plano anterior; su mano izquierda está vacía, fuera de encuadre, junto al costado izquierdo, con el pergamino oculto contra el costado bajo la túnica; sin heridas visibles. Gabriel habla con voz dulce que lleva una vibración desafinada de cansancio que Miguel nunca le había oído en la sala de guerra, y pronuncia, en la versión en español: «El Consejo está preocupado, Miguel,» — en la versión en inglés, con el mismo estado y encuadre: \"The Council is concerned, Miguel,\". Al terminar el plano, Gabriel ya ha comenzado a hablar; su pose corporal no cambia: sigue erguido, torso hacia Miguel; sus manos siguen vacías junto a los costados, el pergamino sigue oculto sin cambio; su mirada permanece sostenida hacia Miguel. El mismo sol cenital modela el rostro de Gabriel desde arriba; un tenue relleno rebotado desde la arena pálida aclara la zona bajo los ojos; dura en frente y pómulos, se suaviza apenas bajo la mandíbula; blanco-amarillenta con un ligero calor añadido. El único VFX posible, y opcional, es un asentamiento residual muy leve del borde de la túnica tras la ráfaga del plano de la llegada de Gabriel; omitirlo si compite con el rostro y la voz de Gabriel. Durante toda la toma Gabriel no mueve las manos de los costados y el pergamino no se hace visible en este encuadre. Se oye la voz de Gabriel pronunciando la línea citada; sin otros sonidos relevantes.",
+      "criterios_aceptacion": "La línea se pronuncia completa, sin cortar la frase a mitad · las manos de Gabriel no entran en cuadro ni cambian de posición · la voz mantiene la vibración de cansancio descrita, sin tono distinto · Miguel no aparece en ningún fotograma de este plano · el estado final de Gabriel coincide con la entrada de B1C01_S2_P08."
+    },
+    {
+      "id_plano": "B1C01_S2_P08",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · duración fija de la operación 8 s aunque la ficha pide 7 s: generar a 8 s y recortar en montaje al segundo 7, manteniendo el estado final descrito · 16:9 · sobre el hombro (over-the-shoulder): comprobar si el selector ofrece esa composición como preset o si hay que describirla solo en texto.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Gabriel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio corto sobre el hombro izquierdo de Miguel hacia Gabriel, altura de ojos, cámara quieta. La primera referencia adjunta define el hombro y la nuca de Miguel, con el borde superior del peto agrietado visible en primer término a la izquierda; la segunda referencia define el rostro de Gabriel, centrado al fondo a la derecha. Al inicio, Miguel no cambia de pose respecto al plano anterior: erguido, su mano derecha vacía junto al muslo derecho y su mano izquierda vacía junto al muslo izquierdo, ambas fuera de este encuadre cerrado; el hueco bajo el esternón oculto bajo el peto. Gabriel está al fondo, erguido, torso hacia Miguel, terminando la línea anterior; su mano derecha vacía junto al costado derecho, su mano izquierda vacía junto al costado izquierdo con el pergamino oculto contra la túnica; sin heridas. Gabriel completa la advertencia del Consejo sosteniendo la mirada: en español, «Temen que esto sea un engaño, un señuelo que forjó el enemigo para atraerte. Tu ausencia siembra el miedo en la Hueste.» — en inglés, mismo estado y encuadre: \"They fear this is a deception, a lure the enemy crafted to draw you out. Your absence puts fear in the Host.\" Al terminar, Miguel no ha cambiado de pose ni de manos; Gabriel ha completado la frase, boca cerrada, sin cambio corporal, manos sin cambio, mirada sostenida hacia Miguel. El sol cenital sin variación; el hombro de Miguel en primer término queda parcialmente en su propia sombra; Gabriel al fondo recibe la luz de lleno sobre el rostro; dura en ambos términos, contraste que remarca la profundidad; blanco-amarillenta constante. No hay VFX salvo el borde superior del peto de Miguel marcado por luz dura en primer término, sin movimiento de material. Durante toda la toma el hombro de Miguel no gira hacia cámara y las manos de ambos no entran en cuadro. Se oye la voz de Gabriel completando la línea citada.",
+      "criterios_aceptacion": "El plano queda listo para recortarse a 7 s con la frase completa dicha antes del corte · el hombro y la nuca de Miguel permanecen en primer término sin girar hacia cámara · el rostro de Gabriel se mantiene iluminado y nítido al fondo · ninguna mano entra en cuadro · el estado final coincide con la entrada de B1C01_S2_P09 (Miguel a la espera, Gabriel inmóvil al fondo)."
+    },
+    {
+      "id_plano": "B1C01_S2_P09",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano fijo con profundidad de campo, Gabriel desenfocado e inmóvil: describir explícitamente la ausencia de movimiento de tela para que el generador no anime a Gabriel de fondo.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio a la altura de los ojos, cámara quieta. La primera referencia adjunta define el rostro de Miguel, la segunda su cuerpo y peto agrietado; la tercera define la identidad de Gabriel, desenfocado al fondo. Al inicio, Miguel está de cintura para arriba, pose erguida heredada del plano anterior, a la espera; su mano derecha vacía junto al muslo derecho; su mano izquierda vacía junto al muslo izquierdo; el hueco bajo el esternón oculto bajo el peto agrietado. Gabriel, desenfocado al fondo, está de pie, quieto, erguido, torso hacia Miguel, sosteniendo la espera sin insistir tras completar su advertencia; su mano derecha vacía junto al costado derecho, su mano izquierda vacía junto al costado izquierdo con el pergamino oculto; sin heridas. Las palabras llegan a Miguel como noticias de otra vida; el dolor arde de todos modos y se endereza, sintiendo el tirón del metal contra sus costillas. Al terminar, Miguel está más erguido y tenso, respiración contenida; su mano derecha sigue vacía junto al muslo derecho, sin moverse hacia el pecho esta vez; su mano izquierda sigue vacía junto al muslo izquierdo; el peto agrietado refleja la luz desde otro ángulo por la tensión del torso, sin fractura nueva. Gabriel no cambia: sigue inmóvil, desenfocado, sin desplazamiento de tela ni de peso, manos vacías a los costados, mirada sostenida hacia Miguel. El mismo sol cenital, frontal-alta sobre Miguel; al enderezarse, la luz marca con más nitidez el filo superior del peto; dura sobre el peto, el fondo desenfocado difumina el borde de sombra de Gabriel sin alterar la fuente; blanco-amarillenta. El único VFX es la variación lumínica sobre el borde de la grieta dorada ya existente al tensar el torso; ninguna fractura nueva; el fondo permanece sin arena ni polvo en movimiento, la calma tras la ráfaga inicial ya asentada. Durante toda la toma la mano derecha de Miguel no sube hacia el pecho y Gabriel no mueve un solo pie. No hay diálogo.",
+      "criterios_aceptacion": "Miguel se tensa y se endereza sin que su mano derecha suba al pecho (a diferencia de P01-P03) · Gabriel permanece absolutamente inmóvil y desenfocado, sin gesto ni desplazamiento de tela · el peto agrietado no genera una grieta nueva, solo cambia el reflejo de luz · ambas manos de Miguel terminan junto a los muslos, vacías · el estado final coincide con la entrada de B1C01_S2_P10 (mandíbula a punto de tensarse, manos vacías)."
+    },
+    {
+      "id_plano": "B1C01_S2_P10",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · primer plano en contrapicado leve: comprobar el ángulo en el selector, y si no hay control, describirlo con precisión en el texto.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano fijo, primer plano, contrapicado leve a la altura de la cintura de Miguel inclinada hacia el rostro, cámara quieta. La referencia adjunta define el rostro de Miguel; su cuerpo no es relevante en este encuadre cerrado. Al inicio, el rostro de Miguel llena el cuadro, mandíbula tensa por el orgullo herido, a punto de hablar, mirada dirigida hacia Gabriel fuera de campo; su mano derecha, heredada, está vacía junto al muslo derecho, fuera de encuadre; su mano izquierda vacía junto al muslo izquierdo, fuera de encuadre; el hueco bajo el esternón oculto bajo el peto, fuera de encuadre. Miguel responde con voz áspera, como arena arrastrada por el viento, el orgullo herido visible en la mandíbula tensa: en español, «Me creen un necio» — en inglés, mismo estado y encuadre: \"They think me a fool,\". Al terminar, Miguel ha pronunciado la línea citada; la mandíbula se acentúa aún más tensa; sus manos siguen vacías junto a los muslos, fuera de encuadre; su mirada sigue sostenida hacia Gabriel. El sol cenital se lee ahora desde el ángulo bajo del contrapicado, cayendo casi frontal desde lo alto del cuadro, ahondando las cuencas de los ojos y marcando con dureza la línea de la mandíbula; muy dura, contraste entre la frente iluminada y la sombra bajo el mentón; blanco-amarillenta sin variación. No hay VFX ni interacción de entorno: es un primer plano de actuación pura. Durante toda la toma el encuadre no se abre para mostrar las manos y la mandíbula no se relaja. Se oye la voz áspera de Miguel pronunciando la línea citada.",
+      "criterios_aceptacion": "La voz suena áspera, como arena arrastrada por el viento, no un tono neutro · la mandíbula permanece tensa durante toda la toma, sin relajarse antes del corte · el contrapicado se mantiene fijo, sin deriva de ángulo · las manos no entran en cuadro · el estado final (mandíbula muy tensa, línea dicha) coincide con la entrada de B1C01_S2_P11, que continúa el mismo eje."
+    },
+    {
+      "id_plano": "B1C01_S2_P11",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano medio corto, mismo eje y contrapicado que P10: si la interfaz ofrece continuar en el mismo hilo/generación, usarlo para reforzar continuidad de eje; si no, repetir literalmente el ángulo y la luz de P10 en el prompt.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio corto, contrapicado leve, continuidad directa de eje con el plano anterior, cámara quieta. La referencia adjunta define el rostro de Miguel. Al inicio, Miguel está de pecho a cabeza, mandíbula tensa, mirada fija en Gabriel, ha terminado de decir «Me creen un necio»; su mano derecha vacía junto al muslo derecho, fuera de encuadre; su mano izquierda vacía junto al muslo izquierdo, fuera de encuadre; el hueco bajo el esternón oculto, fuera de encuadre. Miguel completa la réplica, sosteniendo la mirada sin apartarla: en español, «O un traidor.» — en inglés, mismo estado y encuadre: \"Or a traitor.\". Al terminar, Miguel ha completado la frase, mandíbula sigue tensa, sin cambio de pose corporal ni de manos, que permanecen fuera de encuadre, vacías junto a los muslos. El sol cenital continúa a la misma altura de ángulo que el plano anterior, cayendo casi frontal desde arriba del cuadro; la sombra bajo el mentón se mantiene idéntica; dura, sin cambio; blanco-amarillenta, sin variación. No hay VFX ni interacción de entorno. Durante toda la toma la mirada de Miguel no se aparta de Gabriel y la mandíbula no se relaja. Se oye la voz de Miguel pronunciando la línea citada, con el mismo tono áspero del plano anterior.",
+      "criterios_aceptacion": "El eje de cámara y la altura de luz coinciden exactamente con P10, sin salto de eje ni cambio de sombra · la mirada de Miguel no se aparta de Gabriel en ningún fotograma · la mandíbula sigue tensa hasta el corte · las manos no entran en cuadro · el estado final coincide con la entrada de B1C01_S2_P12 (Gabriel respondiendo con calma)."
+    },
+    {
+      "id_plano": "B1C01_S2_P12",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano medio corto altura de ojos con VFX opcional de polvo mínimo al final: probar primero sin el efecto, añadirlo solo si el plano lo admite (limitación conocida de la ficha).",
+      "referencias_adjuntas": [
+        "character_library/angeles/Gabriel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio corto, altura de ojos, cámara quieta. La referencia adjunta define el rostro de Gabriel. Al inicio, Gabriel está de pecho a cabeza, expresión serena, de pie erguido, peso repartido en ambos pies; su mano derecha vacía junto al costado derecho; su mano izquierda vacía junto al costado izquierdo, con el pergamino oculto contra el costado bajo la túnica; sin heridas visibles. Gabriel responde con calma, sin reproche: en español, «Te creen su general.» — en inglés, mismo estado y encuadre: \"They think you are their general.\". Hacia el final del plano, Gabriel desplaza el peso de una pierna a otra, un leve cambio de apoyo, sin desplazamiento de pies notable; cuando la suela toca de nuevo el suelo, un polvo fino mínimo puede alzarse en el punto de apoyo y asentarse de inmediato, sin dejar huella marcada como en una zancada completa. Al terminar, Gabriel ha pronunciado la línea citada, expresión serena sin cambio, manos siguen vacías junto a los costados, pergamino sin cambio, mirada sostenida hacia Miguel. El sol cenital se retoma a la altura de ojos, cayendo verticalmente sobre el rostro sereno de Gabriel, sin las sombras marcadas del contrapicado previo; dura pero uniforme; blanco-amarillenta. Si el polvo mínimo no se renderiza con precisión, omitirlo: no debe convertirse en una nube ni en una huella marcada. Durante toda la toma las manos de Gabriel no se mueven de los costados y el pergamino permanece oculto. Se oye la voz calmada de Gabriel pronunciando la línea citada.",
+      "criterios_aceptacion": "La voz suena calmada, sin reproche, distinta del tono áspero de Miguel · el cambio de apoyo es un desplazamiento de peso sutil, no un paso completo · si aparece polvo, se asienta de inmediato sin nube visible; si no aparece, el plano sigue siendo válido · las manos permanecen vacías a los costados durante toda la toma · el estado final (peso ya desplazado) coincide con la entrada de B1C01_S2_P13."
+    },
+    {
+      "id_plano": "B1C01_S2_P13",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · travelling lateral corto hacia la derecha: comprobar control de travelling en el selector; probar primero el pliegue de tela con el pergamino antes de añadir la mirada de fondo de Miguel (limitación conocida: tres variables simultáneas).",
+      "referencias_adjuntas": [
+        "character_library/angeles/Gabriel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano, plano medio, altura de ojos, travelling lateral corto hacia la derecha que revela el costado de Gabriel. La primera referencia adjunta define el cuerpo y la túnica azul y plata de Gabriel; la segunda define a Miguel, presente y desenfocado al fondo. Al inicio, Gabriel está de frente, túnica cerrada, peso ya desplazado hacia una pierna, heredado del plano anterior; el pergamino sellado con cera negra permanece oculto contra su cuerpo, no visible: no consta en ninguna imagen de referencia, así que su forma (rollo de pergamino cerrado con un sello de cera negra y densa) debe leerse solo de esta descripción textual. Su mano derecha vacía junto al costado derecho; su mano izquierda vacía junto al costado izquierdo; sin heridas. Miguel, al fondo, ligeramente desenfocado, mandíbula aún tensa heredada, manos vacías junto a los muslos, herida oculta bajo el peto, mirada dirigida hacia Gabriel. Gabriel cambia de postura y el movimiento revela, sin que él lo nombre ni lo toque, el pergamino sellado del Consejo: el pliegue de la túnica se desplaza y deja ver, contra su costado, ese pergamino enrollado. Al mismo tiempo, al fondo, la mirada de Miguel se desplaza un instante hacia el pergamino y vuelve al rostro de Gabriel, sin cambio de postura corporal. Al terminar el travelling, el pergamino queda visible y estable contra el costado de Gabriel, sostenido por el pliegue ya asentado de la túnica; la mano derecha de Gabriel sigue vacía junto al costado derecho, sin acercarse al pergamino; la mano izquierda sigue vacía junto al costado izquierdo; Miguel, al fondo, ha vuelto la mirada al rostro de Gabriel. El mismo sol cenital cambia de ángulo de incidencia al girar la cámara, pasando a rasante sobre el costado de Gabriel, revelando el volumen del pergamino oculto contra la tela; dura y rasante; blanco-amarillenta sobre la túnica azul, el pergamino se lee más cálido por el tono del papel. El VFX principal es el desplazamiento del pliegue de la túnica al cambiar Gabriel de postura, dejando ver el pergamino, con el tejido asentándose de nuevo al detenerse el travelling; no hay otro efecto. Durante toda la toma ninguna mano de Gabriel toca el pergamino y Miguel no cambia de postura corporal, solo de mirada. No hay diálogo.",
+      "criterios_aceptacion": "El pergamino queda visible al final sin que ninguna mano lo haya tocado ni sostenido · el travelling se mueve una sola vez, sin salto de eje respecto a Miguel al fondo · la mirada de Miguel se desvía y regresa sin mover el cuerpo · el sello de cera negra es visible y de forma consistente con el plano de detalle siguiente · el estado final coincide con la entrada de B1C01_S2_P14."
+    },
+    {
+      "id_plano": "B1C01_S2_P14",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano detalle fijo de quietud total: el mayor riesgo es micro-movimiento no deseado en tela o mano; revisar fotograma a fotograma.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Gabriel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano detalle, altura de ojos, encuadre cerrado sobre el costado de Gabriel, cámara quieta, quietud total exigida durante toda la toma. La referencia adjunta define la túnica azul y plata de Gabriel y su mano; el pergamino no consta en la referencia y debe describirse por completo en el texto: un rollo de pergamino cerrado con un sello de cera negra y densa, mate. Al inicio, ese pergamino es visible contra la túnica, heredado del plano anterior; la mano derecha de Gabriel está cerca del pergamino, sin tocarlo, dedos relajados en el aire junto a la tela; su mano izquierda está fuera de este encuadre cerrado, vacía, junto al costado izquierdo, heredada; sin heridas. El sello de cera negra permanece intacto y sin nombrar: es la marca formal de una orden del Consejo que Gabriel elige no invocar. Al terminar el plano, nada ha cambiado: el sello sigue intacto, la mano derecha sigue inmóvil cerca del pergamino sin tocarlo, la mano izquierda sigue fuera de encuadre. La luz sigue siendo la misma rasante del plano anterior, ahora concentrada sobre la cera negra y densa del sello; muy dura, el relieve del sello proyecta una sombra propia diminuta y nítida; la cera absorbe la luz blanca y devuelve un negro mate, sin reflejo cálido. No hay VFX de movimiento activo: cualquier vibración de tela o temblor de la mano contradice que el pergamino permanece intacto y sin nombrar. Durante toda la toma ni la mano ni el pergamino ni la tela se mueven un solo milímetro. No hay diálogo. Silencio total.",
+      "criterios_aceptacion": "Ni la mano ni el pergamino ni el pliegue de tela muestran movimiento perceptible en ningún fotograma · el sello de cera negra no se rompe, no se toca y no cambia de forma · la mano derecha de Gabriel no llega a tocar el pergamino en ningún momento · no aparece resplandor ni efecto sobrenatural en el sello · el estado final es idéntico al inicial, listo como entrada fija de B1C01_S2_P15."
+    },
+    {
+      "id_plano": "B1C01_S2_P15",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · push-in lento (dolly in): comprobar control de dolly en el selector o describir la velocidad de acercamiento en el texto.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano, primer plano, altura de ojos, travelling de aproximación lento (push-in) sobre el rostro de Miguel, desde plano medio corto hasta que el rostro llena el cuadro. La referencia adjunta define el rostro de Miguel. Al inicio, el rostro de Miguel está en plano medio corto, la quietud de Gabriel implícita fuera de campo; mandíbula con tensión residual heredada de los planos anteriores, mirada fija en Gabriel; su mano derecha vacía junto al muslo derecho, fuera de encuadre; su mano izquierda vacía junto al muslo izquierdo, fuera de encuadre; el hueco bajo el esternón oculto, fuera de encuadre. El cambio de emisario a hermano golpea a Miguel más hondo que cualquier orden; por una respiración, olvida todo lo demás. Según avanza el push-in, la mandíbula de Miguel se afloja, la tensión de orgullo cede al sentir que su hermano elige hablarle como hermano y no como emisario; aparece un brillo de sudor visible en la sien. Al terminar el push-in, el rostro llena el cuadro, la mandíbula ya distendida, el brillo de sudor visible en la sien; sus manos siguen vacías junto a los muslos, fuera de encuadre. El sol cenital se mantiene constante durante todo el avance de cámara, frontal-alta, sin cambiar de ángulo, solo cambia el tamaño del rostro en cuadro; dura, el brillo de sudor capta el borde de luz con nitidez; blanco-amarillenta. No hay VFX ni interacción de entorno: el push-in es puramente actoral y emocional. Durante toda la toma la cámara solo avanza, sin panorámica ni corte, y las manos de Miguel no entran en cuadro. No hay diálogo.",
+      "criterios_aceptacion": "El push-in es continuo, sin salto de zoom ni corte intermedio · la mandíbula pasa de tensa a distendida de forma gradual, no abrupta · el brillo de sudor aparece en la sien sin convertirse en efecto exagerado · las manos no entran en cuadro en ningún fotograma · el estado final (rostro distendido, llenando el cuadro) coincide con la entrada de B1C01_S2_P16."
+    },
+    {
+      "id_plano": "B1C01_S2_P16",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano general fijo, cuerpo entero, sin cambios de estado (cambios_autorizados vacío en la ficha): priorizar quietud sostenida, como en P06.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano general, cuerpo entero, altura de ojos, cámara quieta. La primera referencia adjunta define la identidad y armadura de Miguel; la segunda define la de Gabriel, con la túnica azul y plata; el pergamino sellado (no representado en ninguna referencia: rollo cerrado con sello de cera negra) sigue visible contra su costado bajo el pliegue de la túnica, heredado del plano anterior. Al inicio, Miguel está de cuerpo entero, de pie, quieto junto al camino enterrado, mandíbula distendida heredada del plano anterior, erguido, peso repartido en ambos pies; su mano derecha vacía junto al muslo derecho; su mano izquierda vacía junto al muslo izquierdo; el hueco bajo el esternón oculto bajo el peto agrietado. Gabriel está de cuerpo entero, de pie, quieto, túnica azul y plata sin armadura, pergamino sellado visible contra su costado; su mano derecha cerca del pergamino, sin tocarlo, heredada; su mano izquierda vacía junto al costado izquierdo; sin heridas. La quietud sostenida le confirma a Miguel que su hermano prefiere ser familia antes que el verdugo de una orden oficial; el pergamino sigue sin nombrarse. Al terminar el plano, ninguno de los dos ha avanzado ni retrocedido: mismas manos, misma distancia, mismas miradas sostenidas el uno hacia el otro. El mismo sol cenital cae vertical sobre ambos, sombras cortas junto a sus pies, sin desplazarse respecto al plano de dos anterior; dura, bordes definidos; blanco-amarillenta uniforme; la calima del horizonte tras el camino enterrado se ha espesado ligeramente desde el inicio de la escena, marcando el paso del tiempo sin cambiar la hora; el resto del encuadre permanece limpio. No hay VFX: plano de quietud sostenida; cualquier calima térmica de fondo debe mantenerse mínima, sin viento ni polvo no pedido. Durante toda la toma ninguno de los dos se mueve y la mano derecha de Gabriel no llega a tocar el pergamino. No hay diálogo.",
+      "criterios_aceptacion": "Ni Miguel ni Gabriel dan un paso durante los 8 s · la mano derecha de Gabriel permanece cerca del pergamino sin tocarlo nunca · la calima del horizonte es apenas perceptible, sin viento visible en primer término · las posiciones y miradas de ambos son idénticas al inicio y al final · el estado final coincide con la entrada de B1C01_S2_P17 (Miguel con la mirada aún fija en Gabriel)."
+    },
+    {
+      "id_plano": "B1C01_S2_P17",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · primer plano fijo, cambio de dirección de mirada como único movimiento (actuación pura, sin física de entorno).",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano fijo, primer plano, altura de ojos, cámara quieta. La referencia adjunta define el rostro de Miguel. Al inicio, el rostro de Miguel llena el cuadro, heredado del plano anterior, mandíbula distendida, mirada aún fija en Gabriel; su mano derecha vacía junto al muslo derecho, fuera de encuadre; su mano izquierda vacía junto al muslo izquierdo, fuera de encuadre; el hueco bajo el esternón oculto, fuera de encuadre. Miguel reconoce que ya ha vivido una versión de este momento antes; por eso no puede obligarse a dar la vuelta. Su mirada empieza a perderse, como si mirara a través de su hermano: los ojos permanecen abiertos, pero el enfoque se desvía internamente, sin que los párpados se cierren ni el rostro cambie de orientación. Al terminar, la mirada de Miguel está ya perdida, mirando a través de Gabriel; sus manos siguen vacías junto a los muslos, fuera de encuadre; el hueco bajo el esternón sigue oculto. El sol cenital sin variación respecto al plano anterior, frontal-alta; dura sobre los rasgos, aunque la atención se desplaza de la luz a la mirada perdida; blanco-amarillenta. No hay VFX ni interacción de entorno: perder la mirada es actuación, no un efecto visible del entorno. Durante toda la toma el rostro no gira ni cambia de encuadre; solo cambia la dirección interna de la mirada. No hay diálogo.",
+      "criterios_aceptacion": "Los ojos de Miguel permanecen abiertos durante todo el plano, sin parpadeo forzado ni cierre · el rostro no gira ni cambia de ángulo respecto al plano anterior · no aparece ningún efecto visual añadido a la mirada (ni brillo, ni desenfoque de ojos) · las manos no entran en cuadro · el estado final (mirada perdida) coincide con la entrada de B1C01_S2_P18, que continúa el mismo encuadre con rack focus."
+    },
+    {
+      "id_plano": "B1C01_S2_P18",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · rack focus (cambio de foco): riesgo documentado de que un rack focus preciso por texto no esté garantizado; si el resultado no separa los planos de foco, resolver el aislamiento del rostro en posproducción en vez de forzar más intentos.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "prompt": "Un único plano, primer plano, altura de ojos, cambio de foco (rack focus): la nitidez pasa del rostro de Miguel a un punto indeterminado tras él, sugiriendo el tirón del recuerdo; cámara físicamente quieta, solo cambia el plano focal. La referencia adjunta define el rostro de Miguel. Al inicio, el rostro de Miguel está nítido, la mirada perdiéndose heredada del plano anterior, manos vacías fuera de encuadre; Gabriel aparece borroso al fondo, sin cambio de pose, mano derecha cerca del pergamino sin tocarlo, mano izquierda vacía junto al costado izquierdo, pergamino visible, sin heridas. El gesto interior de Miguel de no poder dar la vuelta se traduce en el aislamiento visual de su rostro respecto al entorno inmediato. Al terminar, el rostro de Miguel sigue nítido, la mirada aún más perdida, aislada ópticamente del entorno; sin cambio físico de sus manos, que siguen vacías, fuera de encuadre; Gabriel al fondo queda aún más desenfocado, sin cambio de pose ni de manos. El mismo sol cenital no cambia de fuente, solo qué zona se lee nítida; se mantiene frontal-alta sobre el rostro nítido de Miguel; al desenfocarse el fondo, los destellos del vidrio negro se convierten en manchas de luz difusas; dura sobre el rostro; blanco-amarillenta en el rostro, las manchas de fondo conservan el mismo tono, solo disueltas. No hay VFX de física de materiales: el efecto es puramente óptico, profundidad de campo, no un desplazamiento de material del entorno. Durante toda la toma el rostro de Miguel permanece nítido en todo momento; solo el fondo pierde nitidez progresivamente. No hay diálogo.",
+      "criterios_aceptacion": "El rostro de Miguel se mantiene nítido durante toda la toma; solo el fondo pierde definición · Gabriel no desaparece del encuadre, solo se desenfoca progresivamente · no aparece ningún movimiento de cámara físico, solo cambio de foco · si el rack focus no se resuelve con precisión, aceptar el plano y ajustar el aislamiento del rostro en posproducción, sin forzar un efecto óptico adicional en un nuevo intento · el estado final coincide con la entrada de B1C01_S2_P19."
+    },
+    {
+      "id_plano": "B1C01_S2_P19",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast (fallback Lite) · 8 s · 16:9 · plano medio fijo de cierre, sin cambios de estado (cambios_autorizados vacío en la ficha): prioridad en la continuidad de estado sobre cualquier efecto nuevo.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png"
+      ],
+      "prompt": "Un único plano fijo, plano medio a la altura de los ojos, cámara quieta, de cierre del bloque. La primera referencia adjunta define el rostro de Miguel y la segunda su cuerpo y peto agrietado, en primer término; la tercera referencia define a Gabriel, detrás, quieto. Al inicio, Miguel está en primer término, mirada aún perdida heredada del plano anterior; sus manos vacías junto a los muslos; el hueco bajo el esternón oculto bajo el peto agrietado. Gabriel está detrás, quieto, esperando, con el pergamino sellado (rollo de pergamino con sello de cera negra, no representado en ninguna referencia) visible contra su costado; su mano derecha cerca del pergamino, sin tocarlo; su mano izquierda vacía junto al costado izquierdo; sin heridas. El plano cierra el bloque manteniendo la quietud entre ambos, con el pergamino aún sin nombrar, como puente hacia el recuerdo de las Puertas de Ónice que sigue en el capítulo. Al terminar, la quietud se sostiene hasta el corte: Miguel sigue en primer término con la mirada aún perdida, manos vacías junto a los muslos; Gabriel sigue detrás, quieto, esperando, pergamino aún visible contra su costado, mano derecha cerca sin tocarlo. El sol cenital cierra el bloque, cayendo igual que en el plano de dos previo, vertical sobre ambos, sin variación de ángulo; dura, consistente con el resto del bloque; blanco-amarillenta; la calima del horizonte permanece espesa, como quedó establecida en el plano anterior; el pergamino sigue integrado en la iluminación general de la escena, sin luz propia. No hay VFX: el entorno permanece coherente con los planos anteriores, pergamino aún sin nombrar, arena reasentada desde el plano de la llegada de Gabriel. Durante toda la toma ninguno de los dos se mueve y la mano derecha de Gabriel no llega a tocar el pergamino. No hay diálogo. Se sostiene el silencio del desierto hasta el corte a la siguiente escena.",
+      "criterios_aceptacion": "La quietud se sostiene hasta el último fotograma, sin que ninguno de los dos inicie un movimiento nuevo · la mano derecha de Gabriel no toca el pergamino en ningún momento · la mirada de Miguel permanece perdida, sin recuperar foco · la calima del horizonte no aumenta más allá de lo ya establecido en B1C01_S2_P16 · el corte hacia la siguiente escena (recuerdo de las Puertas de Ónice) puede producirse limpiamente desde este estado final, sin cabos sueltos de vestuario, objetos o heridas."
+    }
+  ],
+  "guion_storyboard_studio": "NOTA DE USO ANTES DE PEGAR EN SCRIPT (ver doc 15, \"¿Puede reutilizar las imágenes de character_library/?\" y \"Formato de guion aceptado\"): este guion es un BORRADOR DE COMPOSICIÓN, no un generador final. Pegar el bloque completo en el campo Script de Storyboard Studio y revisar después cómo se desglosó en escenas/paneles: escribir 19 planos no garantiza 19 paneles. Las etiquetas ESCENA/PLANO/ESTADO son organización legible, no comandos. En Assets/cast, comprobar si la Tool permite seleccionar una imagen existente para MIGUEL y GABRIEL; si lo permite, asociar `character_library/angeles/Miguel/canonical/face_reference.png` + `body_reference.png` y `character_library/angeles/Gabriel/canonical/face_reference.png` + `body_reference.png`, y verificar la miniatura vinculada con una prueba corta antes de generar la escena completa — un nombre coincidente no prueba que la imagen esté adjunta. Si no lo permite, usar este guion solo para fijar composición, personajes y acciones, y generar las imágenes definitivas en el espacio de imágenes de Flow con esas mismas referencias reales (los prompts de Flow ya redactados por plano hacen ese trabajo). Registrar en la hoja de trabajo el archivo real usado en cada panel aprobado: escribir la ruta en este texto no sube nada.\n\nESCENA: B1C01_S2 — \"El Consejo está preocupado\"\nFUENTE: Libro I, capítulo 01, escena 2 (Desierto de Serephis, junto al camino enterrado)\nCONTINUIDAD TEMPORAL: continuación directa, sin elipsis interna entre P01 y P19\nPERSONAJES VISIBLES:\n- MIGUEL — forma celestial — referencia: face_reference.png + body_reference.png de character_library/angeles/Miguel/canonical/ — estado inicial de la escena: de pie junto al camino enterrado, armadura dorada agrietada (peto agrietado, sin túnica adicional), hueco bajo el esternón oculto bajo el peto sin marca externa, mano derecha e izquierda vacías y enguantadas junto a los muslos.\n- GABRIEL — forma celestial — referencia: face_reference.png + body_reference.png de character_library/angeles/Gabriel/canonical/ — ausente hasta P04; a partir de su materialización: túnica azul y plata sin armadura, manos vacías a los costados, pergamino sellado con cera negra oculto contra el costado bajo el pliegue de la túnica (no sostenido por ninguna mano en ningún plano de esta escena).\nLUGAR: desierto de Serephis, junto al camino enterrado; bloques de piedra visibles; vidrio negro agrietado en el suelo. Sol de mediodía en su cenit como única fuente de luz durante toda la escena, casi cenital con leve inclinación hacia el sureste; sombras cortas hacia el noroeste; luz dura, blanco-amarillenta intensa; calima térmica en el horizonte que se espesa ligeramente hacia el final de la escena sin cambiar la hora.\n\nPLANO P01 — GRAN PLANO GENERAL, ligeramente picado, altura elevada, cámara fija\nEncuadre e instante del panel: el desierto y el camino enterrado dominan el cuadro; Miguel es una figura pequeña junto a los bloques de piedra.\nEstado de entrada: Miguel de pie, peso repartido en ambos pies sobre el vidrio negro agrietado. Mano derecha vacía junto al muslo derecho. Mano izquierda vacía junto al muslo izquierdo. Hueco bajo el esternón oculto bajo el peto, sin marca externa.\nAcción principal: Miguel se detiene y su mano derecha enguantada sube hacia el hueco bajo el esternón, el gesto que repite mil veces al día.\nEstado de salida: mano derecha ya presiona el peto agrietado sobre el esternón, dedos curvados contra el metal; mano izquierda sigue vacía junto al muslo izquierdo.\nRasgos que deben persistir en este plano: lateralidad fijada como mano DERECHA (incidencia abierta: confirmar con el autor si debería ser la izquierda por simbolismo del ala quemada); peto agrietado sin cambios; sin túnica adicional.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija; calima de calor ascendiendo en la distancia, sin protagonismo.\n\nPLANO P02 — PLANO MEDIO, altura de ojos, cámara fija\nEncuadre e instante del panel: Miguel de cintura para arriba.\nEstado de entrada: torso frontal a cámara, ojos cerrados a punto de abrirse; mano derecha (heredada) presiona el peto sobre el esternón; mano izquierda vacía junto al muslo izquierdo.\nAcción principal: cierra los ojos un momento; cuando los abre, el cuerpo ya se ha girado hacia el tirón antes de que la mente lo consienta.\nEstado de salida: ojos abiertos, torso ya girado hacia la dirección del tirón (fuera de campo); mano derecha sigue presionando el peto sin cambio de contacto; mano izquierda sin cambio.\nRasgos que deben persistir: la mano derecha no se despega del peto en ningún momento del gesto.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija; sin efecto de entorno, solo variación de luz sobre la grieta dorada al girar el torso.\n\nPLANO P03 — PLANO DETALLE, altura de ojos, encuadre cerrado sobre el torso, cámara fija\nEncuadre e instante del panel: mano enguantada presionando el peto agrietado; luz rasante sobre las grietas doradas.\nEstado de entrada: mano derecha (heredada) con dedos curvados apoyados sobre el peto; mano izquierda fuera de cuadro, vacía, por herencia.\nAcción principal: los dedos presionan el metal agrietado con más firmeza, buscando el contacto del acero templado que no calma el hueco.\nEstado de salida: dedos presionan con firmeza el mismo punto; mano izquierda sigue fuera de cuadro.\nRasgos que deben persistir: no aparece una segunda mano en el encuadre; la grieta dorada no cambia de forma, solo de iluminación.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija (7 s en la ficha; en Flow se genera a 8 s fijos de Ingredients to Video y se recorta en montaje).\n\nPLANO P04 — PLANO GENERAL, cámara en grúa de aproximación breve (a ras de suelo → revelación de cuerpo entero)\nEncuadre e instante del panel: arranca a ras de suelo, calor y arena en primer término, sin figura; termina revelando a Gabriel de cuerpo entero.\nEstado de entrada: Miguel de pie sobre el vidrio negro, torso ya girado hacia el tirón (heredado de P02), mano derecha en el peto, mano izquierda vacía. Gabriel ausente, aún no materializado.\nAcción principal: Gabriel llega \"como la primera ráfaga de aire fresco antes de la tormenta\": una onda de aire agita la arena suelta alrededor de sus pies mientras se materializa.\nEstado de salida: Gabriel de cuerpo entero, unos pasos frente a Miguel, mano derecha vacía junto al costado derecho, mano izquierda vacía junto al costado izquierdo con el pergamino oculto contra el costado bajo la túnica (nunca en la mano). Miguel sin cambio, mirada ya hacia Gabriel.\nRasgos que deben persistir: el pergamino nunca está sostenido por una mano; la arena se reasienta al final, sin nube residual.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: grúa ascendente única, sin cortes; probar primero solo la ráfaga de arena antes de sumar más matices (limitación conocida de la ficha).\n\nPLANO P05 — PLANO MEDIO, altura de ojos, cámara fija, Gabriel desenfocado al fondo\nEncuadre e instante del panel: Miguel de frente, Gabriel al fondo desenfocado.\nEstado de entrada: Miguel con torso ligeramente inclinado, mano derecha (heredada) aún en el peto, mano izquierda vacía. Gabriel al fondo, pose erguida, manos vacías, pergamino oculto.\nAcción principal: Miguel siente amor al ver a su hermano y de inmediato el peso del propio orgullo: se endereza, aunque el agotamiento no se deja esconder del todo.\nEstado de salida: Miguel erguido, hombros nivelados; mano derecha se separa del peto y baja junto al muslo derecho, vacía; mano izquierda sin cambio. Gabriel sin cambio.\nRasgos que deben persistir: nunca hay dos manos sobre el peto a la vez; Gabriel permanece desenfocado sin desplazarse.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija; sin VFX, gesto puramente corporal.\n\nPLANO P06 — PLANO DE DOS, cuerpo entero, altura de ojos, cámara fija\nEncuadre e instante del panel: ambos hermanos de pie a distancia clara, bloques de piedra entre ambos.\nEstado de entrada: Miguel erguido, ambas manos vacías junto a los muslos, herida oculta. Gabriel erguido, ambas manos vacías, pergamino oculto.\nAcción principal: establece la distancia física entre ambos antes de empezar el diálogo; ninguno avanza.\nEstado de salida: idéntico al de entrada, ninguna posición cambia.\nRasgos que deben persistir: ningún paso, ninguna mano cambia de sitio, sin viento ni polvo no pedido.\nDiálogo literal y hablante: ninguno todavía.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija, plano de establecimiento puro.\n\nPLANO P07 — PLANO MEDIO CORTO, altura de ojos, cámara fija; solo Gabriel en cuadro\nEncuadre e instante del panel: Gabriel de pecho a cabeza; Miguel fuera de campo.\nEstado de entrada: Gabriel erguido, a punto de hablar, manos vacías a los costados (fuera de encuadre estrecho), pergamino oculto.\nAcción principal: Gabriel habla con voz dulce que lleva una vibración desafinada de cansancio que Miguel nunca le había oído en la sala de guerra.\nEstado de salida: Gabriel sin cambio de pose, manos sin cambio.\nRasgos que deben persistir: las manos de Gabriel no entran en cuadro; Miguel no aparece en ningún fotograma de este plano.\nDiálogo literal y hablante: GABRIEL — ES: «El Consejo está preocupado, Miguel,» / EN: \"The Council is concerned, Miguel,\".\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija.\n\nPLANO P08 — PLANO MEDIO CORTO / SOBRE EL HOMBRO (hombro izquierdo de Miguel hacia Gabriel), altura de ojos, cámara fija\nEncuadre e instante del panel: hombro y nuca de Miguel en primer término a la izquierda; Gabriel centrado al fondo a la derecha.\nEstado de entrada: Miguel sin cambio de pose respecto a P06 (manos fuera de encuadre, vacías). Gabriel al fondo, terminando la línea anterior.\nAcción principal: Gabriel completa la advertencia del Consejo, sosteniendo la mirada.\nEstado de salida: Miguel sin cambio; Gabriel ha completado la frase, sin cambio corporal.\nRasgos que deben persistir: el hombro de Miguel no gira hacia cámara; ninguna mano entra en cuadro.\nDiálogo literal y hablante: GABRIEL — ES: «Temen que esto sea un engaño, un señuelo que forjó el enemigo para atraerte. Tu ausencia siembra el miedo en la Hueste.» / EN: \"They fear this is a deception, a lure the enemy crafted to draw you out. Your absence puts fear in the Host.\"\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija (7 s en la ficha; en Flow se genera a 8 s fijos y se recorta en montaje).\n\nPLANO P09 — PLANO MEDIO, altura de ojos, cámara fija, Gabriel desenfocado e inmóvil al fondo\nEncuadre e instante del panel: Miguel de cintura para arriba en primer término, Gabriel desenfocado al fondo.\nEstado de entrada: Miguel a la espera, manos vacías junto a los muslos, herida oculta. Gabriel inmóvil, sosteniendo la espera sin insistir.\nAcción principal: las palabras llegan a Miguel \"como noticias de otra vida\"; el dolor arde de todos modos y se endereza, sintiendo el tirón del metal contra sus costillas.\nEstado de salida: Miguel más erguido y tenso; mano derecha NO sube al pecho esta vez, sigue junto al muslo derecho; mano izquierda sin cambio. Gabriel absolutamente inmóvil, sin desplazamiento de tela ni de peso.\nRasgos que deben persistir: la mano derecha de Miguel no repite el gesto de P01-P03 en este plano; Gabriel no mueve un solo pie.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija.\n\nPLANO P10 — PRIMER PLANO, contrapicado leve, cámara fija; solo Miguel en cuadro\nEncuadre e instante del panel: rostro de Miguel llena el cuadro.\nEstado de entrada: mandíbula tensa por el orgullo herido, a punto de hablar; manos fuera de encuadre, vacías junto a los muslos.\nAcción principal: Miguel responde con voz áspera, como arena arrastrada por el viento, el orgullo herido visible en la mandíbula tensa.\nEstado de salida: mandíbula aún más tensa tras la línea; manos sin cambio.\nRasgos que deben persistir: la mandíbula no se relaja antes del corte; las manos no entran en cuadro.\nDiálogo literal y hablante: MIGUEL — ES: «Me creen un necio» / EN: \"They think me a fool,\".\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija.\n\nPLANO P11 — PLANO MEDIO CORTO, mismo contrapicado y mismo eje que P10, cámara fija\nEncuadre e instante del panel: continuación directa del encuadre anterior.\nEstado de entrada: mandíbula tensa, ha terminado de decir \"Me creen un necio\"; manos fuera de encuadre, vacías.\nAcción principal: Miguel completa la réplica, sosteniendo la mirada sin apartarla.\nEstado de salida: frase completada, sin cambio de pose ni de manos.\nRasgos que deben persistir: mismo eje de cámara y misma altura de luz que P10, sin salto de sombra.\nDiálogo literal y hablante: MIGUEL — ES: «O un traidor.» / EN: \"Or a traitor.\".\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija.\n\nPLANO P12 — PLANO MEDIO CORTO, altura de ojos, cámara fija; solo Gabriel en cuadro\nEncuadre e instante del panel: Gabriel de pecho a cabeza, expresión serena.\nEstado de entrada: erguido, peso repartido en ambos pies, manos vacías a los costados, pergamino oculto.\nAcción principal: Gabriel responde con calma, sin reproche; hacia el final del plano desplaza el peso de una pierna a otra.\nEstado de salida: línea completada; peso ya desplazado; manos sin cambio.\nRasgos que deben persistir: el cambio de apoyo es sutil, no una zancada; si aparece polvo, se asienta de inmediato sin nube.\nDiálogo literal y hablante: GABRIEL — ES: «Te creen su general.» / EN: \"They think you are their general.\".\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija; VFX opcional de polvo mínimo, probar primero sin el efecto.\n\nPLANO P13 — PLANO MEDIO, altura de ojos, travelling lateral corto hacia la derecha\nEncuadre e instante del panel: Gabriel de frente, túnica cerrada; el giro de cámara revela el pergamino sellado contra su costado.\nEstado de entrada: Gabriel con peso ya desplazado (heredado de P12), pergamino aún oculto. Miguel al fondo desenfocado, mandíbula tensa heredada, mirada hacia Gabriel.\nAcción principal: Gabriel cambia de postura y el movimiento revela, sin que él lo nombre ni lo toque, el pergamino sellado del Consejo; al fondo, la mirada de Miguel se desplaza un instante hacia el pergamino y vuelve al rostro de Gabriel.\nEstado de salida: pergamino visible y estable contra el costado de Gabriel, sostenido por el pliegue de la túnica, sin ser tocado; Miguel con la mirada ya de vuelta en el rostro de Gabriel.\nRasgos que deben persistir: ninguna mano de Gabriel toca el pergamino; Miguel no cambia de postura corporal, solo de mirada.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling lateral único hacia la derecha; probar primero solo el pliegue de tela con el pergamino antes de sumar la mirada de fondo de Miguel (tres variables simultáneas, limitación conocida de la ficha).\n\nPLANO P14 — PLANO DETALLE, encuadre cerrado sobre el costado de Gabriel, cámara fija, quietud total\nEncuadre e instante del panel: pergamino sellado con cera negra contra la túnica; mano de Gabriel cerca, sin tocarlo.\nEstado de entrada: heredado de P13, sello intacto.\nAcción principal: el sello de cera negra permanece intacto y sin nombrar; la marca formal de una orden del Consejo que Gabriel elige no invocar.\nEstado de salida: idéntico al de entrada; nada se mueve.\nRasgos que deben persistir: ni la mano ni el pergamino ni la tela muestran movimiento perceptible; la mano no llega a tocar el pergamino en ningún momento.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija, quietud absoluta exigida.\n\nPLANO P15 — PRIMER PLANO, push-in lento (dolly in) sobre el rostro de Miguel\nEncuadre e instante del panel: de plano medio corto a rostro llenando el cuadro.\nEstado de entrada: mandíbula con tensión residual, mirada fija en Gabriel; manos fuera de encuadre, vacías.\nAcción principal: el cambio de emisario a hermano golpea a Miguel más hondo que cualquier orden; por una respiración, olvida todo lo demás.\nEstado de salida: mandíbula distendida, brillo de sudor visible en la sien; manos sin cambio.\nRasgos que deben persistir: el push-in es continuo, sin corte intermedio; las manos no entran en cuadro.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: dolly in lento y constante.\n\nPLANO P16 — PLANO GENERAL, cuerpo entero, altura de ojos, cámara fija\nEncuadre e instante del panel: ambos hermanos de pie, quietos, junto al camino enterrado.\nEstado de entrada: Miguel erguido, mandíbula distendida heredada, manos vacías junto a los muslos. Gabriel erguido, mano derecha cerca del pergamino sin tocarlo, mano izquierda vacía.\nAcción principal: la quietud sostenida le confirma a Miguel que su hermano prefiere ser familia antes que el verdugo de una orden oficial; el pergamino sigue sin nombrarse.\nEstado de salida: idéntico al de entrada, ningún paso.\nRasgos que deben persistir: la mano derecha de Gabriel no llega a tocar el pergamino; la calima del horizonte es apenas perceptible.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija.\n\nPLANO P17 — PRIMER PLANO, altura de ojos, cámara fija; solo Miguel en cuadro\nEncuadre e instante del panel: rostro de Miguel llena el cuadro, heredado.\nEstado de entrada: mandíbula distendida, mirada aún fija en Gabriel; manos fuera de encuadre, vacías.\nAcción principal: Miguel reconoce que ya ha vivido una versión de este momento antes; por eso no puede obligarse a dar la vuelta. La mirada empieza a perderse, como si mirara a través de su hermano.\nEstado de salida: mirada ya perdida; ojos abiertos, sin cambio de encuadre; manos sin cambio.\nRasgos que deben persistir: el rostro no gira ni cambia de ángulo; los ojos permanecen abiertos, sin parpadeo forzado.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija.\n\nPLANO P18 — PRIMER PLANO, rack focus (cambio de foco), cámara físicamente fija\nEncuadre e instante del panel: mismo encuadre de P17; la nitidez pasa del rostro de Miguel a un punto indeterminado tras él.\nEstado de entrada: rostro nítido, mirada perdiéndose heredada. Gabriel borroso al fondo, sin cambio de pose, mano derecha cerca del pergamino sin tocarlo.\nAcción principal: el gesto interior de Miguel de no poder dar la vuelta se traduce en el aislamiento visual de su rostro respecto al entorno inmediato.\nEstado de salida: rostro sigue nítido, mirada aún más perdida; Gabriel aún más desenfocado, sin cambio de pose.\nRasgos que deben persistir: el rostro de Miguel permanece nítido en todo momento; solo el fondo pierde nitidez.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: solo cambio de foco, sin movimiento físico de cámara; riesgo documentado de que un rack focus preciso por texto no esté garantizado — si falla, resolver en posproducción antes de repetir el intento.\n\nPLANO P19 — PLANO MEDIO, altura de ojos, cámara fija, cierre del bloque\nEncuadre e instante del panel: Miguel en primer término, Gabriel detrás.\nEstado de entrada: Miguel con la mirada aún perdida heredada, manos vacías. Gabriel detrás, quieto, esperando, mano derecha cerca del pergamino sin tocarlo.\nAcción principal: el plano cierra el bloque manteniendo la quietud entre ambos, con el pergamino aún sin nombrar, como puente hacia el recuerdo de las Puertas de Ónice que sigue en el capítulo.\nEstado de salida: idéntico al de entrada; la quietud se sostiene hasta el corte.\nRasgos que deben persistir: ninguno de los dos se mueve; la mano derecha de Gabriel no llega a tocar el pergamino; la calima del horizonte no aumenta más allá de lo ya establecido en P16.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija; corte limpio hacia la siguiente escena (recuerdo de las Puertas de Ónice)."
+}

@@ -1,0 +1,1585 @@
+{
+  "escena": {
+    "id_escena": "B1C01_S6",
+    "titulo": "Solmire",
+    "resumen": "En el corazón de la arboleda, ante el gran fresno de corteza como lava enfriada junto a un estanque de luz estática, Miguel encuentra clavada una espada que no es metal forjado sino luz viva con peso, filo y forma propios. En el instante en que la ve, el vacío bajo su pecho enmudece: reconoce el nombre Solmire no como un recuerdo sino como una ley que siempre estuvo ahí — eso es lo que le fue arrebatado. Alza la mano temblorosa hacia la empuñadura, dudando si al tocarla seguirá siendo el General de la Hueste o se convertirá en otra cosa. En el instante en que su piel toca el pomo, la arboleda desaparece.",
+    "localizacion": "Corazón de la Arboleda — el gran fresno junto al estanque de luz estática",
+    "personajes": [
+      "Miguel"
+    ],
+    "parrafos_en": {
+      "desde": 33,
+      "hasta": 35
+    },
+    "parrafos_es": {
+      "desde": 33,
+      "hasta": 35
+    },
+    "duracion_objetivo_seg": 150,
+    "estado_canon_entrada": [
+      {
+        "id_personaje": "Miguel",
+        "forma": "celestial",
+        "heridas": [],
+        "objetos": [],
+        "notas": "Alas intactas y sanas, sin heridas visibles. El 'hueco' bajo el esternón sigue activo hasta el contacto con la espada, que lo silencia por completo. Mano temblorosa al alzarla; por un latido el propio nombre 'Miguel' se siente como un título prestado."
+      }
+    ],
+    "requiere_aprobacion_autor": false
+  },
+  "planos": [
+    {
+      "id_plano": "B1C01_S6_P01",
+      "orden": 1,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Travelling de aproximación lento (push-in) desde plano medio corto a primer plano",
+      "encuadre_inicial": "Plano medio corto de Miguel; Gabriel desenfocado al fondo con el pergamino sellado contra su túnica",
+      "encuadre_final": "Primer plano del rostro de Miguel, mirada perdida hacia dentro",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "El rostro de Miguel se afloja un instante al reconocer a Gabriel como hermano y no como emisario; la mirada se pierde hacia dentro.",
+      "accion_fondo": "Gabriel permanece inmóvil en segundo término; el pergamino sellado con cera negra sigue visible contra su túnica azul y plata.",
+      "luz": {
+        "id_plano": "B1C01_S6_P01",
+        "fuente_luz": "Sol de desierto alto y directo, con rebote cálido del suelo arenoso",
+        "direccion": "Cenital-frontal ligeramente lateral derecha sobre el rostro de Miguel; Gabriel al fondo recibe el mismo sol de frente, desenfocado",
+        "dureza": "Dura, bordes de sombra definidos bajo pómulos y mandíbula",
+        "color_temperatura": "Cálida, blanco-amarillenta de sol de mediodía",
+        "clima": "Polvo fino suspendido, apenas visible en el aire entre Miguel y Gabriel",
+        "ambiente": "Clave alta, contraste moderado; el fondo desenfocado conserva el azul y plata de la túnica de Gabriel sin perder legibilidad"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P01",
+        "vfx_principal": "ninguno — el plano es enteramente actoral (aflojamiento del rostro de Miguel); no hay efecto de luz, ala ni entorno que resolver aquí.",
+        "vfx_fondo_simultaneo": "Gabriel permanece inmóvil y desenfocado; el pergamino sellado con cera negra contra su túnica azul y plata no debe fundirse, arrugarse ni cambiar de posición durante el push-in — es un objeto de continuidad, no de movimiento.",
+        "fisica_entorno": "Ninguna física de entorno exigida por el guion en este plano (sin viento, arena ni tela en movimiento descritos). Si el encuadre desértico de fondo incluye calor visible, tratarlo como distorsión térmica sutil y constante, nunca como humo — no mezclar con el vapor del Pewter Sentinel, que no aparece en esta escena.",
+        "limitacion_conocida": "Ninguna — plano de baja exigencia física; el único riesgo es de vestuario/canon: verificar que Gabriel no lleve armadura ni peto metálico en el desenfoque de fondo (canon 2026-09-18)."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P01",
+        "version_plano": "v01",
+        "version_esquema": "1.0",
+        "id_plano_anterior": "ninguno (primer plano de la tanda)",
+        "version_anterior": "ninguna",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "estados_narrativos": [],
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "estados_narrativos": [],
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "enlace": {
+          "tipo": "inicio_escena",
+          "metodo": "No aplica; abre la tanda de planos.",
+          "tiempo_transcurrido": "Sin elipsis.",
+          "justificacion": "Primer plano de la serie; no hay plano anterior del que heredar."
+        },
+        "estado_entrada": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, erguido, torso vuelto hacia Gabriel.",
+              "posicion_escena": "Primer termino, frente a Gabriel, sobre arena.",
+              "extremidades": [
+                {
+                  "parte": "brazo derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo derecho.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "brazo izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo izquierdo.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "pierna derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta, apoyo de peso.",
+                  "contacto": "Pie derecho en arena."
+                },
+                {
+                  "parte": "pie derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Adelantado levemente.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "pierna izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta, apoyo de peso.",
+                  "contacto": "Pie izquierdo en arena."
+                },
+                {
+                  "parte": "pie izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Levemente retrasado.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "ala derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada tras el hombro derecho, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "ala izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada tras el hombro izquierdo, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "armadura dorada",
+                  "estado": "Peto sin grieta, filigrana intacta, estrella cian centrada.",
+                  "color": "Oro con detalles cian.",
+                  "colocacion": "Ajustada al torso."
+                },
+                {
+                  "pieza": "faldones",
+                  "estado": "Azul medianoche, bordes dorados, sin roturas.",
+                  "color": "Azul y oro.",
+                  "colocacion": "Separados al centro."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "Rostro de Gabriel.",
+                "orientacion_cabeza": "Vuelta hacia Gabriel.",
+                "direccion_pantalla": "Hacia el fondo desenfocado."
+              }
+            },
+            {
+              "id_personaje": "Gabriel",
+              "pose_corporal": "De pie, erguido, inmovil.",
+              "posicion_escena": "Segundo termino, desenfocado.",
+              "extremidades": [
+                {
+                  "parte": "brazo derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "Descendiendo junto al baston.",
+                  "contacto": "Mano en torno al baston."
+                },
+                {
+                  "parte": "mano derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "Cerrada en torno al baston, altura de cadera.",
+                  "contacto": "Sujeta Vox Aeternum apoyado en el suelo."
+                },
+                {
+                  "parte": "brazo izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "Doblado contra el pecho.",
+                  "contacto": "Mano contra el pergamino."
+                },
+                {
+                  "parte": "mano izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "oculta",
+                  "posicion": "Contra el pecho.",
+                  "contacto": "Sostiene el pergamino sellado."
+                },
+                {
+                  "parte": "pierna derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "Recta, desenfocada.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "pie derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "oculta",
+                  "posicion": "Bajo el faldon.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "pierna izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "Recta, desenfocada.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "pie izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "oculta",
+                  "posicion": "Bajo el faldon.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "ala derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "oculta",
+                  "posicion": "Plegada tras la espalda.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "ala izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "oculta",
+                  "posicion": "Plegada tras la espalda.",
+                  "contacto": "Ninguno."
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [
+                  "baston_vox_aeternum"
+                ],
+                "mano_izquierda": [
+                  "pergamino_sellado_presente"
+                ]
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "tunica azul y plata",
+                  "estado": "Sin armadura ni peto metalico (canon 2026-09-18).",
+                  "color": "Azul zafiro y plata.",
+                  "colocacion": "Suelta, con pliegues."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "Rostro de Miguel.",
+                "orientacion_cabeza": "Frontal hacia Miguel.",
+                "direccion_pantalla": "Hacia primer termino desenfocado."
+              }
+            }
+          ],
+          "objetos_escena": [
+            {
+              "id_objeto": "pergamino_sellado_presente",
+              "ubicacion": "Contra el pecho de Gabriel.",
+              "portador": "Gabriel",
+              "orientacion": "Vertical.",
+              "estado": "Sellado con cera negra, sin abrir.",
+              "cantidad_o_nivel": "Uno.",
+              "visibilidad": "parcial"
+            },
+            {
+              "id_objeto": "baston_vox_aeternum",
+              "ubicacion": "Vertical junto a Gabriel.",
+              "portador": "Gabriel",
+              "orientacion": "Vertical.",
+              "estado": "Sin dano.",
+              "cantidad_o_nivel": "Uno.",
+              "visibilidad": "parcial"
+            }
+          ],
+          "entorno": {
+            "anclas_espaciales": "Desierto de Serephis, arena; Gabriel de pie frente a Miguel.",
+            "luz": "Sol alto y directo, rebote calido de la arena.",
+            "clima": "Polvo fino suspendido.",
+            "estado_decorado": "Paisaje abierto, sin utileria adicional."
+          },
+          "camara": {
+            "encuadre": "Plano medio corto de Miguel; Gabriel desenfocado al fondo.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Linea Miguel-Gabriel.",
+            "lado_eje": "Sobre el eje.",
+            "movimiento": "Fijo antes del push-in."
+          }
+        },
+        "accion_plano": "Travelling de aproximacion lento desde plano medio corto hasta primer plano del rostro de Miguel; el rostro se afloja al reconocer a Gabriel, mirada perdida hacia dentro. Gabriel permanece inmovil al fondo, pergamino sin cambiar de posicion.",
+        "cambios_autorizados": [],
+        "estado_salida_previsto": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, erguido; rostro aflojado, mirada perdida hacia dentro.",
+              "posicion_escena": "Mismo lugar; encuadre cerrado sobre el rostro.",
+              "extremidades": [
+                {
+                  "parte": "brazo derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo derecho.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "brazo izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo izquierdo.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "pierna derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Pie en arena."
+                },
+                {
+                  "parte": "pie derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Adelantado levemente.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "pierna izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Pie en arena."
+                },
+                {
+                  "parte": "pie izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Levemente retrasado.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "ala derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "ala izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "armadura dorada",
+                  "estado": "Sin grieta.",
+                  "color": "Oro con detalles cian.",
+                  "colocacion": "Ajustada."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "Ninguno externo; mirada interior.",
+                "orientacion_cabeza": "Frontal a camara.",
+                "direccion_pantalla": "Hacia camara."
+              }
+            },
+            {
+              "id_personaje": "Gabriel",
+              "pose_corporal": "De pie, erguido, inmovil.",
+              "posicion_escena": "Fondo, fuera del recorte del primer plano.",
+              "extremidades": [
+                {
+                  "parte": "brazo derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "En torno al baston.",
+                  "contacto": "Sujeta Vox Aeternum."
+                },
+                {
+                  "parte": "mano derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Cerrada en torno al baston.",
+                  "contacto": "Sujeta Vox Aeternum."
+                },
+                {
+                  "parte": "brazo izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Cruzado contra el pecho.",
+                  "contacto": "Mano contra el pergamino."
+                },
+                {
+                  "parte": "mano izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Contra el pecho.",
+                  "contacto": "Sostiene el pergamino."
+                },
+                {
+                  "parte": "pierna derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "pie derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Bajo el faldon.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "pierna izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "pie izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Bajo el faldon.",
+                  "contacto": "Sandalia en arena."
+                },
+                {
+                  "parte": "ala derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada tras la espalda.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "ala izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada tras la espalda.",
+                  "contacto": "Ninguno."
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [
+                  "baston_vox_aeternum"
+                ],
+                "mano_izquierda": [
+                  "pergamino_sellado_presente"
+                ]
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "tunica azul y plata",
+                  "estado": "Sin armadura, sin cambios de posicion.",
+                  "color": "Azul zafiro y plata.",
+                  "colocacion": "Suelta."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "Miguel (fuera de encuadre).",
+                "orientacion_cabeza": "Frontal hacia donde estaba Miguel.",
+                "direccion_pantalla": "Hacia primer termino."
+              }
+            }
+          ],
+          "objetos_escena": [
+            {
+              "id_objeto": "pergamino_sellado_presente",
+              "ubicacion": "Contra el pecho de Gabriel.",
+              "portador": "Gabriel",
+              "orientacion": "Vertical.",
+              "estado": "Sellado, sin cambios.",
+              "cantidad_o_nivel": "Uno.",
+              "visibilidad": "fuera_de_encuadre"
+            },
+            {
+              "id_objeto": "baston_vox_aeternum",
+              "ubicacion": "En mano de Gabriel.",
+              "portador": "Gabriel",
+              "orientacion": "Vertical.",
+              "estado": "Sin dano.",
+              "cantidad_o_nivel": "Uno.",
+              "visibilidad": "fuera_de_encuadre"
+            }
+          ],
+          "entorno": {
+            "anclas_espaciales": "Mismo desierto; encuadre cerrado sobre Miguel.",
+            "luz": "Misma luz solar, concentrada en el rostro.",
+            "clima": "Polvo fino suspendido.",
+            "estado_decorado": "Igual al de entrada."
+          },
+          "camara": {
+            "encuadre": "Primer plano del rostro de Miguel.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Linea Miguel-Gabriel, fuera de cuadro.",
+            "lado_eje": "Sobre el eje.",
+            "movimiento": "Push-in completado."
+          }
+        },
+        "frame_final_previsto": {
+          "descripcion_textual": "Primer plano del rostro de Miguel, rasgos aflojados, mirada perdida hacia dentro. Gabriel y el pergamino sellado quedan fuera de cuadro, sin cambiar de posicion durante el movimiento."
+        },
+        "estado_salida_observado_pendiente": true,
+        "control_calidad": {
+          "resultado": "pendiente",
+          "revision": "Verificacion de datos; sin generacion de video todavia.",
+          "incidencias": [
+            "DISCREPANCIA GRAVE DE FUENTE: los parrafos EN/ES 33-35 asignados a esta escena (B1C01_S6, resumen 'Solmire') describen a Miguel solo ante el guardian de niebla y el fresno con la espada (verificado en Libro1/EN/01_A_Wound_in_the_World.md, parrafos 33-35: 'The figure did not answer... At the heart of the grove stood the great ash... His hand trembled as he raised it'). No mencionan a Gabriel ni pergamino ni desierto. El contenido real de estos 20 planos (Gabriel, pergamino, memoria de la cauterizacion) corresponde a los parrafos ~23-53 del mismo capitulo (visita de Gabriel en el paramo), una escena distinta y anterior a S6.",
+            "La duracion objetivo de la escena (150s) coincide aproximadamente con la suma de duraciones de los 20 planos (~151s), lo que sugiere que el lote es internamente coherente como unidad; el error parece estar en la etiqueta de escena/parrafos, no en el guion de planos en si."
+          ]
+        },
+        "listo_para_generar": false,
+        "motivo_bloqueo": "Bloqueado por discrepancia de fuente narrativa: id_escena/parrafos declarados (B1C01_S6, parrafos 33-35, resumen de Solmire) no corresponden al contenido real de este plano (Gabriel, pergamino sellado, memoria de la cauterizacion). Requiere que el autor confirme el id_escena/parrafos correctos antes de generar cualquier plano de esta tanda."
+      },
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Bloqueado por discrepancia de fuente narrativa: id_escena/parrafos declarados (B1C01_S6, parrafos 33-35, resumen de Solmire) no corresponden al contenido real de este plano (Gabriel, pergamino sellado, memoria de la cauterizacion). Requiere que el autor confirme el id_escena/parrafos correctos antes de generar cualquier plano de esta tanda."
+    },
+    {
+      "id_plano": "B1C01_S6_P02",
+      "orden": 2,
+      "duracion_seg": 6,
+      "tipo_plano": "Primerísimo primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Cámara fija con cambio de foco (rack focus) hacia los ojos",
+      "encuadre_inicial": "Primerísimo primer plano, ambos ojos de Miguel nítidos y de un cian eléctrico intenso",
+      "encuadre_final": "Mismo encuadre; el brillo cian se satura hasta un fundido a blanco",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El brillo cian de los ojos de Miguel se intensifica hasta saturar el cuadro en blanco, marcando el ingreso al recuerdo.",
+      "luz": {
+        "id_plano": "B1C01_S6_P02",
+        "fuente_luz": "La misma luz solar del plano anterior, más el brillo propio de los ojos de Miguel como fuente práctica creciente",
+        "direccion": "Frontal, a la altura de los ojos; el resplandor cian nace desde el interior del iris y se expande hacia el borde del encuadre",
+        "dureza": "Dura en el rostro exterior; el resplandor interno satura sin borde, como fundido",
+        "color_temperatura": "Vira de cálido solar a cian eléctrico puro que termina en blanco neutro",
+        "clima": "Sin partícula visible; el encuadre cerrado no admite atmósfera",
+        "ambiente": "La saturación progresiva funciona como transición óptica al recuerdo, sin viñeta añadida"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P02",
+        "vfx_principal": "Cuando el cambio de foco (rack focus) llega a los ojos, el brillo cian ya presente en el iris se intensifica de forma continua hasta saturar el fotograma en blanco; la luz debe nacer en el iris y expandirse hacia fuera, no aparecer como un destello superpuesto en toda la pantalla.",
+        "vfx_fondo_simultaneo": "ninguno — primerísimo primer plano sin fondo legible; toda la atención cae en el ojo.",
+        "fisica_entorno": "No hay material de entorno en juego; es un efecto óptico/lumínico de personaje (marca de umbral hacia el recuerdo), no física de arena, tela o humo.",
+        "limitacion_conocida": "La tabla de límites del documento 17 señala que la sincronización exacta de un impacto/transición con el ritmo del rack focus no está garantizada por prompting; probar primero la saturación progresiva sola y añadir después el ritmo exacto del cambio de foco. Vigilar que el blanco no invada la piel circundante antes de completar el barrido del iris."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P02",
+        "version_plano": "v01",
+        "version_esquema": "1.0",
+        "id_plano_anterior": "B1C01_S6_P01",
+        "version_anterior": "v01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "estados_narrativos": [],
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "enlace": {
+          "tipo": "continuacion",
+          "metodo": "Ultimo frame aprobado de P01 como inicio de P02 (rack focus sobre el mismo rostro).",
+          "tiempo_transcurrido": "Sin elipsis; continuacion directa.",
+          "justificacion": "Mismo encuadre cerrado sobre Miguel; Gabriel no entra en cuadro pero permanece presente sin cambios."
+        },
+        "estado_entrada": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, rostro aflojado, mirada perdida hacia dentro (heredado de P01).",
+              "posicion_escena": "Mismo lugar frente a Gabriel.",
+              "extremidades": [
+                {
+                  "parte": "brazo derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo derecho.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "brazo izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo izquierdo.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "pierna derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Pie en arena."
+                },
+                {
+                  "parte": "pie derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Adelantado levemente.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "pierna izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Pie en arena."
+                },
+                {
+                  "parte": "pie izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Levemente retrasado.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "ala derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "ala izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "armadura dorada",
+                  "estado": "Sin grieta.",
+                  "color": "Oro con detalles cian.",
+                  "colocacion": "Ajustada."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "Ninguno externo.",
+                "orientacion_cabeza": "Frontal a camara.",
+                "direccion_pantalla": "Hacia camara."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Mismo desierto; encuadre cerrado sobre los ojos.",
+            "luz": "Sol de desierto, mas brillo cian de los ojos como fuente practica creciente.",
+            "clima": "Sin particula visible en encuadre cerrado.",
+            "estado_decorado": "Sin cambios."
+          },
+          "camara": {
+            "encuadre": "Primerisimo primer plano de ambos ojos de Miguel.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "No aplicable en encuadre tan cerrado.",
+            "lado_eje": "No aplicable.",
+            "movimiento": "Fija; rack focus hacia los ojos."
+          }
+        },
+        "accion_plano": "El brillo cian del iris de Miguel se intensifica de forma continua hasta saturar el fotograma en blanco, marcando el ingreso al recuerdo; la luz nace en el iris y se expande hacia fuera.",
+        "cambios_autorizados": [
+          {
+            "campo": "efecto luminico ocular (transitorio, no fisico corporal)",
+            "antes": "Brillo cian estable de los ojos.",
+            "despues": "Brillo cian saturado hasta blanco total del fotograma.",
+            "causa": "Transicion optica hacia el recuerdo segun guion.",
+            "momento": "Durante el rack focus, cierre del plano."
+          }
+        ],
+        "estado_salida_previsto": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "Sin cambio de pose corporal; cambio puramente optico en los ojos.",
+              "posicion_escena": "Mismo lugar.",
+              "extremidades": [
+                {
+                  "parte": "brazo derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo derecho.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "brazo izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Junto al costado.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "mano izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Altura del muslo izquierdo.",
+                  "contacto": "Sin objeto."
+                },
+                {
+                  "parte": "pierna derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Pie en arena."
+                },
+                {
+                  "parte": "pie derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Adelantado levemente.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "pierna izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Recta.",
+                  "contacto": "Pie en arena."
+                },
+                {
+                  "parte": "pie izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Levemente retrasado.",
+                  "contacto": "Planta en arena."
+                },
+                {
+                  "parte": "ala derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                },
+                {
+                  "parte": "ala izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "Plegada, blanco perla intacta.",
+                  "contacto": "Ninguno."
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "armadura dorada",
+                  "estado": "Sin cambios (fuera de encuadre).",
+                  "color": "Oro.",
+                  "colocacion": "Ajustada."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "Ninguno; fotograma saturado en blanco.",
+                "orientacion_cabeza": "Frontal a camara.",
+                "direccion_pantalla": "Hacia camara."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "No evaluable; fotograma saturado en blanco.",
+            "luz": "Blanco neutro total, fuente ocular saturada.",
+            "clima": "No aplica.",
+            "estado_decorado": "No aplica."
+          },
+          "camara": {
+            "encuadre": "Mismo primerisimo primer plano, saturado en blanco.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "No aplicable.",
+            "lado_eje": "No aplicable.",
+            "movimiento": "Rack focus completado."
+          }
+        },
+        "frame_final_previsto": {
+          "descripcion_textual": "Fotograma saturado por completo en blanco neutro, sin rasgos faciales legibles; marca el umbral de entrada al recuerdo."
+        },
+        "estado_salida_observado_pendiente": true,
+        "control_calidad": {
+          "resultado": "pendiente",
+          "revision": "Verificacion de datos; sin generacion de video todavia.",
+          "incidencias": [
+            "Hereda sin cambios la discrepancia de fuente narrativa registrada en P01.",
+            "Riesgo tecnico senalado por el propio plano (doc 17): la sincronizacion exacta del impacto/transicion con el ritmo del rack focus no esta garantizada por prompting; probar la saturacion progresiva antes de fijar el ritmo exacto."
+          ]
+        },
+        "listo_para_generar": false,
+        "motivo_bloqueo": "Bloqueado por la misma discrepancia de fuente narrativa que P01 (escena/parrafos declarados no corresponden al contenido de la tanda de planos)."
+      },
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Bloqueado por la misma discrepancia de fuente narrativa que P01 (escena/parrafos declarados no corresponden al contenido de la tanda de planos)."
+    },
+    {
+      "id_plano": "B1C01_S6_P03",
+      "orden": 3,
+      "duracion_seg": 9,
+      "tipo_plano": "Gran plano general",
+      "angulo": "Picado",
+      "movimiento_camara": "Grúa ascendente breve (crane up) desde el suelo hasta una vista elevada",
+      "encuadre_inicial": "A la altura del suelo, junto a Miguel caído",
+      "encuadre_final": "Plano general elevado: la fortaleza de las Puertas de Ónice hundiéndose en el abismo entre humo y escombros",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La fortaleza de las Puertas de Ónice se hunde lentamente en el abismo entre crujidos y bloques que se desprenden.",
+      "accion_fondo": "En primer término, Miguel yace de costado sobre piedra ennegrecida, el ala izquierda extendida e inmóvil.",
+      "luz": {
+        "id_plano": "B1C01_S6_P03",
+        "fuente_luz": "Incendios activos entre los escombros de la fortaleza (fuente práctica múltiple) más un resplandor de luna alta tras la humareda",
+        "direccion": "Contraluz general desde los focos de fuego dispersos por el abismo; deja a Miguel en primer término como silueta parcial recortada contra la piedra ennegrecida",
+        "dureza": "Dura en los focos de fuego, difusa en el resto por el humo que dispersa la luz",
+        "color_temperatura": "Anaranjado intenso en los fuegos, contrastado con gris azulado de noche en las zonas sin llama",
+        "clima": "Humo denso y columnas de ceniza ascendiendo desde los bloques caídos; polvo levantado por los derrumbes cercanos al suelo",
+        "ambiente": "Clave muy baja, alto contraste; la grúa ascendente revela la escala de la destrucción sin perder a Miguel legible en primer término"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P03",
+        "vfx_principal": "ninguno respecto al ala de Miguel en este plano concreto: el guion solo la describe 'extendida e inmóvil', sin daño explícito todavía — no anticipar aquí la quemadura que se revela recién en el plano siguiente (P04); mostrarla ya carbonizada en P03 rompería la escala de la crúa progresiva.",
+        "vfx_fondo_simultaneo": "Mientras la grúa asciende, la fortaleza de las Puertas de Ónice continúa hundiéndose en el abismo: bloques que se desprenden de los muros, crujidos de piedra, humo y polvo ascendiendo desde los puntos de fractura. Es el mismo patrón 'árbol cae + acción en primer término' del documento 17 — Miguel caído en primer término permanece inmóvil mientras el colapso de fondo sigue en marcha durante todo el movimiento de grúa, sin cortar a él.",
+        "fisica_entorno": "Causa: bloques de la fortaleza pierden apoyo estructural al hundirse el conjunto. Respuesta: caen en trayectorias distintas hacia el abismo, cada uno levantando su propia nube de polvo al golpear escombros inferiores; el humo denso sube y deriva con el viento del cañón. Resto: al final del plano la fortaleza sigue en proceso de hundimiento, no asentada — ese estado 'aún cayendo' debe transportarse como punto de partida al fondo de P05.",
+        "limitacion_conocida": "Rotura con fragmentos identificables: riesgo de piezas que se fusionan, cambian de forma o se recomponen entre fotogramas (tabla de fallos del documento 17). Revisar que ningún bloque 'rebote' hacia arriba ni el humo aparezca antes del desprendimiento que lo origina."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P04",
+      "orden": 4,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano detalle",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Plano detalle del tercio final del ala izquierda de Miguel",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El último tercio del ala izquierda de Miguel aparece ennegrecido y sin plumas; humo fino y ceniza de pluma quemada se desprenden con cada respiración.",
+      "luz": {
+        "id_plano": "B1C01_S6_P04",
+        "fuente_luz": "Rescoldos cercanos de la piedra ennegrecida junto a Miguel, luz práctica baja e intermitente",
+        "direccion": "Lateral rasante, casi a ras del ala, remarcando la textura carbonizada del último tercio",
+        "dureza": "Dura, con parpadeo leve por el rescoldo activo",
+        "color_temperatura": "Anaranjado apagado sobre negro, sin blancos",
+        "clima": "Humo fino ascendiendo directamente de las plumas dañadas; ceniza de pluma quemada desprendiéndose con cada respiración",
+        "ambiente": "Clave baja extrema; el detalle debe leerse sin ambigüedad — borde ennegrecido, sin plumas, sin insinuar mayor daño del establecido"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P04",
+        "vfx_principal": "Cauterización aún no iniciada por Gabriel — este plano establece el daño de origen que la curación de P06-P16 revertirá progresivamente. Causa: el último tercio del ala izquierda quedó carbonizado en el combate previo (fuera de campo). Respuesta: con cada respiración de Miguel, el pecho se expande y el movimiento sacude ligeramente las plumas ennegrecidas, desprendiendo humo fino y ceniza de pluma quemada desde los bordes rotos — la emisión nace en el punto dañado, no flota suelta por el encuadre. Resto: las plumas carbonizadas permanecen ahí, sin regenerarse todavía; este es el estado 'entrada' de la ficha de continuidad que sigue la curación.",
+        "vfx_fondo_simultaneo": "ninguno — plano detalle sin fondo relevante.",
+        "fisica_entorno": "Ceniza y humo fino como único material en juego: emisión localizada, ligada a la respiración (causa y contacto claros), sin nube generalizada. No confundir con el vapor del Pewter Sentinel (no aparece en esta escena).",
+        "limitacion_conocida": "Oclusión por humo: comprobar que el humo fino no oculte por completo el borde ennegrecido — debe seguir siendo legible como referencia de 'estado de entrada' para los planos de curación posteriores (P07, P11, P15, P16)."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P05",
+      "orden": 5,
+      "duracion_seg": 9,
+      "tipo_plano": "Plano entero",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Travelling de aproximación (dolly in) siguiendo a Gabriel",
+      "encuadre_inicial": "Plano entero de Gabriel apareciendo entre el humo, túnica azul y plata, bastón Vox Aeternum en la mano derecha",
+      "encuadre_final": "Gabriel arrodillado junto a Miguel, el bastón apoyado en el suelo a su lado",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel atraviesa el humo sin armadura, con su túnica azul y plata y el bastón Vox Aeternum en la mano derecha, y se arrodilla junto a Miguel.",
+      "accion_fondo": "La fortaleza sigue asentándose al fondo, dejando caer bloques sueltos hacia el abismo.",
+      "luz": {
+        "id_plano": "B1C01_S6_P05",
+        "fuente_luz": "Los mismos fuegos dispersos del plano 3, ahora como contraluz principal tras Gabriel al atravesar el humo",
+        "direccion": "Contraluz desde la fortaleza en llamas; según avanza hacia cámara, un filo de luz recorre el borde de su túnica y del bastón Vox Aeternum antes de que el frente quede en sombra suave",
+        "dureza": "Dura en el contorno de contraluz, suave en el frente del cuerpo por dispersión del humo",
+        "color_temperatura": "Anaranjado en el borde, azul grisáceo de noche en el frente",
+        "clima": "Atraviesa una cortina de humo más densa que en los planos anteriores, que se abre a su paso",
+        "ambiente": "La aparición de Gabriel se define por el contraluz, no por foco nuevo; el bastón puede aportar un reflejo metálico puntual sin volverse fuente propia"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P05",
+        "vfx_principal": "ninguno propio de Gabriel como efecto mágico en este plano — es su entrada física, sin luz curativa todavía (esa comienza en P06). Verificar estrictamente el canon: Gabriel atraviesa el humo SIN armadura ni peto metálico, con túnica azul y plata de hombreras de tela ribeteadas en plata, y el bastón Vox Aeternum sostenido en la mano derecha durante todo el dolly in — cualquier referencia de character_library que lo muestre acorazado queda descartada por la nota de canon 2026-09-18.",
+        "vfx_fondo_simultaneo": "La fortaleza sigue asentándose al fondo (continuación directa del colapso de P03): bloques sueltos que terminan de caer hacia el abismo mientras Gabriel avanza en primer término — evento de fondo que no se detiene para que el personaje entre en cuadro.",
+        "fisica_entorno": "Causa: Gabriel camina a través del humo residual del derrumbe. Respuesta: el humo se desplaza y se abre brevemente a su paso, arremolinándose alrededor de las piernas y el borde inferior de la túnica; la tela responde con un pequeño retraso al movimiento de avance, tal como describe el bloque de 'telas y capas' del documento 17. El bastón Vox Aeternum se apoya en el suelo al arrodillarse, sin hundirse ni atravesar la piedra.",
+        "limitacion_conocida": "Riesgo de intersección tela/cuerpo al arrodillarse (tabla de fallos: 'tela cruzándose con el cuerpo'); simplificar la amplitud del movimiento de la túnica si el modelo genera pliegues que atraviesan las piernas."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P06",
+      "orden": 6,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio",
+      "angulo": "Altura de ojos, ligero picado hacia el ala",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Plano medio de ambos, Gabriel inclinado sobre el ala de Miguel",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel apoya ambas manos sobre el ala quemada; un resplandor tenue comienza a crecer entre sus palmas y las plumas ennegrecidas.",
+      "accion_fondo": "Miguel respira de forma entrecortada, con el rostro vuelto hacia la piedra.",
+      "luz": {
+        "id_plano": "B1C01_S6_P06",
+        "fuente_luz": "Nace aquí la luz de Gabriel entre sus palmas — nueva fuente práctica motivada por el acto de sanar — sumada al resplandor remanente de los fuegos al fondo",
+        "direccion": "Desde las manos de Gabriel hacia abajo, sobre las plumas ennegrecidas; ilumina su rostro desde abajo y dibuja el perfil de Miguel de forma tenue",
+        "dureza": "Suave, resplandor difuso sin borde definido, creciendo gradualmente",
+        "color_temperatura": "Blanco cálido, distinto del naranja del fuego circundante",
+        "clima": "El humo de fondo se mantiene, ahora menos denso; ninguna partícula cruza el punto de contacto",
+        "ambiente": "Clave baja con un único foco cálido emergente; primera luz motivada por sanación de la secuencia, debe leerse distinta del fuego"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P06",
+        "vfx_principal": "Inicio de la curación — etapa 1 de 4 de la progresión visible a lo largo de las tres noches. Causa: Gabriel apoya ambas manos sobre el ala quemada. Respuesta: un resplandor tenue nace en el punto de contacto entre las palmas y las plumas ennegrecidas y crece de forma gradual, sin estallar en un fogonazo. Resto: al cierre del plano el resplandor es visible pero aún no ha alterado el tejido dañado — la piel/pluma sigue carbonizada bajo la luz; el cambio físico llega recién en P07.",
+        "vfx_fondo_simultaneo": "Miguel respira de forma entrecortada con el rostro vuelto hacia la piedra; ningún evento de fondo adicional.",
+        "fisica_entorno": "La luz de Gabriel debe iluminar de forma tenue la piedra y el propio rostro de Miguel en el borde del encuadre (superficie próxima afectada por la fuente de luz, siguiendo el criterio de 'luz sobre superficies cercanas' del documento 17), sin proyectar sombras duras que compitan con el foco en las manos.",
+        "limitacion_conocida": "Continuidad de anatomía: las manos de Gabriel deben permanecer sobre el mismo punto del ala en el corte hacia P07 — comprobar que no 'salten' de posición entre planos."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P07",
+      "orden": 7,
+      "duracion_seg": 9,
+      "tipo_plano": "Plano detalle",
+      "angulo": "Cenital leve",
+      "movimiento_camara": "Travelling de aproximación lento hacia las manos de Gabriel",
+      "encuadre_inicial": "Plano detalle de las manos de Gabriel sobre el borde carbonizado del ala",
+      "encuadre_final": "La luz cubre por completo el punto de contacto; se distingue el tejido cerrándose bajo el resplandor",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "La luz de Gabriel se concentra en el borde ennegrecido del ala; bajo su brillo, el tejido dañado empieza a sellarse y el humo cesa en ese punto exacto.",
+      "accion_fondo": "Un último bloque de la fortaleza cae al abismo al fondo del encuadre, con un crujido lejano.",
+      "luz": {
+        "id_plano": "B1C01_S6_P07",
+        "fuente_luz": "La luz de las manos de Gabriel, ya consolidada como fuente dominante del plano",
+        "direccion": "Cenital leve, directamente sobre el borde carbonizado; el resplandor se concentra hacia el centro del contacto",
+        "dureza": "Suave en el núcleo, con un borde algo más definido donde la luz encuentra el tejido dañado",
+        "color_temperatura": "Blanco cálido, sin viraje",
+        "clima": "El humo cesa visiblemente en ese punto exacto, en contraste con el resto del encuadre",
+        "ambiente": "Clave baja; el último bloque cayendo al abismo queda apenas insinuado por el resplandor lejano de los fuegos, sin competir con la luz de sanación"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P07",
+        "vfx_principal": "Curación — etapa 2 de 4: primer cambio de tejido visible. Causa: la luz de Gabriel se concentra en el borde ennegrecido del ala. Respuesta: bajo el resplandor, el tejido dañado empieza a sellarse desde el punto de contacto hacia afuera y el humo fino que salía en P04 cesa exactamente en esa zona (no en el ala completa). Resto: el borde sigue oscuro más allá del punto de sellado — es un cierre parcial y localizado, no una curación instantánea; este es el estado que debe transportarse como 'entrada' de la segunda noche (P11).",
+        "vfx_fondo_simultaneo": "Un último bloque de la fortaleza cae al abismo al fondo del encuadre con un crujido lejano — cierre del evento de derrumbe que viene de P03/P05; a partir de aquí el fondo debe quedar en calma, sin más caídas de escombro en los planos siguientes de esta noche.",
+        "fisica_entorno": "Causa: el bloque final pierde apoyo. Respuesta: cae generando una nube de polvo distante y un crujido; el sonido y el movimiento deben coincidir en el mismo instante (riesgo de 'impacto y reacción separados' señalado en la tabla de límites). Resto: el fondo queda inmóvil el resto de la secuencia nocturna.",
+        "limitacion_conocida": "Dos acontecimientos simultáneos (curación en primer término + caída de bloque al fondo): si el modelo prioriza uno y omite el otro, separar en pases y componer con la misma cámara y luz, tal como recomienda el documento 17 para el caso análogo del árbol y la mosca."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P08",
+      "orden": 8,
+      "duracion_seg": 6,
+      "tipo_plano": "Primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Primer plano del rostro de Miguel, dientes apretados",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel aprieta la mandíbula y cierra los ojos con el dolor de la cauterización.",
+      "luz": {
+        "id_plano": "B1C01_S6_P08",
+        "fuente_luz": "Reflejo ascendente de la luz de sanación de Gabriel, ahora fuera de campo bajo el encuadre",
+        "direccion": "La luz llega desde abajo, marcando sombras duras bajo cejas y nariz",
+        "dureza": "Dura, apropiada para el gesto de dolor",
+        "color_temperatura": "Blanco cálido residual sobre piel oscurecida por hollín",
+        "clima": "Sin partícula nueva; resto de humo disperso al fondo fuera de foco",
+        "ambiente": "Clave baja, contraste alto concentrado en el rostro"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P08",
+        "vfx_principal": "ninguno de entorno — el efecto es actoral (mandíbula apretada, ojos cerrados por el dolor de la cauterización). Puede sugerirse un reflejo tenue del resplandor de Gabriel sobre la piel del rostro de Miguel, pero sin generar una fuente de luz nueva ni independiente en este plano.",
+        "vfx_fondo_simultaneo": "ninguno — primer plano cerrado sin fondo relevante.",
+        "fisica_entorno": "Ninguna física de entorno adicional; continuidad de que el fondo (fortaleza) permanece ya asentado tras P07.",
+        "limitacion_conocida": "Ninguna relevante — plano de bajo riesgo físico."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P09",
+      "orden": 9,
+      "duracion_seg": 9,
+      "tipo_plano": "Plano medio corto, sobre el hombro izquierdo de Miguel (OTS) hacia Gabriel",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Sobre el hombro izquierdo de Miguel, Gabriel visible de frente trabajando sobre el ala",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel sigue cauterizando mientras habla en voz baja, sosteniendo la mirada de Miguel.",
+      "dialogo_es": "«El silencio —le había dicho Gabriel entonces— es lo que deja a una herida decidir que es mortal».",
+      "dialogo_en": "\"Silence,\" Gabriel had told him then, \"is what lets a wound decide it's mortal.\"",
+      "luz": {
+        "id_plano": "B1C01_S6_P09",
+        "fuente_luz": "Misma luz de sanación de Gabriel, ahora estable y de menor intensidad, más el resplandor remanente de los fuegos distantes",
+        "direccion": "Frontal-baja sobre el rostro de Gabriel visible tras el hombro de Miguel; el hombro de Miguel en primer término queda en semisilueta",
+        "dureza": "Suave sobre Gabriel, dura en el contorno del hombro de Miguel",
+        "color_temperatura": "Blanco cálido con trazas de naranja lejano",
+        "clima": "Humo ya escaso, disipándose hacia el fondo",
+        "ambiente": "Clave baja estable; raccord de la fuente de sanación mantenido para sostener la continuidad del diálogo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P09",
+        "vfx_principal": "La cauterización continúa fuera del centro de atención del encuadre (OTS sobre el hombro de Miguel): un resplandor sostenido, ya no creciente sino estable, debe verse en el borde del plano donde Gabriel trabaja sobre el ala — es continuación directa del estado alcanzado en P07, no un nuevo estallido de luz.",
+        "vfx_fondo_simultaneo": "ninguno adicional — Gabriel habla en voz baja mientras sostiene la mirada de Miguel; no hay evento de fondo nuevo.",
+        "fisica_entorno": "La luz de la cauterización, aunque parcialmente fuera de foco por el encuadre OTS, debe seguir leyéndose como fuente activa (variación tenue de luz en el rostro de Gabriel, iluminado desde abajo por el resplandor de sus propias manos).",
+        "limitacion_conocida": "Oclusión/legibilidad: si el resplandor queda demasiado desenfocado o recortado por el encuadre, revisar composición para que no desaparezca del todo — debe percibirse como presente y continuo, no interrumpido, para sostener la progresión de la primera noche."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P10",
+      "orden": 10,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general",
+      "angulo": "Contrapicado leve",
+      "movimiento_camara": "Panorámica vertical (tilt up) desde los dos personajes hacia el cielo",
+      "encuadre_inicial": "Plano general de ambos junto al ala, aún de noche",
+      "encuadre_final": "Cielo grisáceo de amanecer sobre la fortaleza hundida",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "La primera noche termina; el cielo sobre la fortaleza hundida pasa de la oscuridad a un gris de amanecer mientras Gabriel sigue arrodillado junto al ala.",
+      "accion_fondo": "El humo de la fortaleza se ha disipado casi por completo, dejando ver los restos ya asentados en el abismo.",
+      "luz": {
+        "id_plano": "B1C01_S6_P10",
+        "fuente_luz": "Transición de las últimas brasas de la fortaleza al cielo de amanecer, que se vuelve fuente dominante hacia el final del plano",
+        "direccion": "El barrido vertical sigue el cambio: de las manos de Gabriel y las brasas bajas hacia la claridad difusa que crece en el horizonte",
+        "dureza": "Dura en las brasas remanentes, suave y difusa en la claridad de amanecer",
+        "color_temperatura": "Vira de naranja apagado a gris azulado frío conforme sube la cámara",
+        "clima": "El humo de la fortaleza, ya casi disipado, se mezcla con la bruma baja propia del amanecer",
+        "ambiente": "Marca el primer salto temporal de la secuencia; el cambio de color debe leerse como paso de una noche a un amanecer, no como corrección de tono"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P10",
+        "vfx_principal": "ninguno — no hay ala en cuadro; el efecto es puramente de paso de tiempo (elipsis de la primera noche a través del cielo).",
+        "vfx_fondo_simultaneo": "Gabriel sigue arrodillado junto al ala en segundo término mientras el tilt up se ejecuta; su postura y el bastón apoyado deben mantenerse sin variación de posición respecto a P06-P09.",
+        "fisica_entorno": "Causa: transcurre la noche. Respuesta: el cielo sobre la fortaleza hundida pasa de la oscuridad a un gris de amanecer de forma gradual y continua durante el panorámico vertical; el humo que aún quedaba en P07 debe leerse aquí ya casi disipado, dejando ver los restos asentados en el abismo. Resto: al cierre, amanecer gris establecido, fondo en calma — este es el fondo de partida para P11.",
+        "limitacion_conocida": "Ninguna técnica pública garantiza una transición de iluminación de cielo perfectamente gradual en una sola toma continua; si el amanecer aparece como salto brusco en vez de gradiente, tratar como variable a ajustar en un segundo intento antes que el encuadre."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P11",
+      "orden": 11,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Plano detalle del mismo tercio del ala, segunda noche",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "En el ala, el borde antes negro ha pasado a un gris ceniza; algunas plumas nuevas y cortas asoman entre la zona dañada.",
+      "luz": {
+        "id_plano": "B1C01_S6_P11",
+        "fuente_luz": "Luz de luna alta como ambiente general de la segunda noche, sin fuego activo cercano",
+        "direccion": "Difusa desde arriba, sin dirección marcada; deja ver el gris ceniza del borde y las plumas cortas nuevas por contraste tonal, no por brillo",
+        "dureza": "Suave, propia de luz lunar sin obstáculos",
+        "color_temperatura": "Azul grisáceo frío, en contraste con el cálido de la luz de sanación de los planos anteriores",
+        "clima": "Sin humo; aire despejado, marcando el avance de la noche respecto a la primera",
+        "ambiente": "Clave baja pero limpia; el gris ceniza debe distinguirse con claridad del negro carbonizado del plano 4"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P11",
+        "vfx_principal": "Curación — etapa 3 de 4: segunda noche. Causa: acumulación de dos noches de cauterización sobre el mismo borde. Respuesta: el borde antes negro (P04, P07) ha pasado a un gris ceniza y empiezan a asomar algunas plumas nuevas, cortas, entre la zona dañada — regeneración visible de tejido, no solo cambio de color. Resto: la zona sigue incompleta; queda un área sin plumaje pleno que se resolverá en la tercera noche (P15).",
+        "vfx_fondo_simultaneo": "ninguno — plano detalle sin fondo.",
+        "fisica_entorno": "Ninguna física de entorno adicional; el único material en transformación es el propio plumaje del ala (piel/queratina, no arena/tela/agua).",
+        "limitacion_conocida": "Continuidad de tejido/anatomía (tabla de límites del documento 17): el gris ceniza y las plumas nuevas deben ser un avance real respecto al negro carbonizado de P04/P07, no una repetición idéntica del estado anterior ni una regresión — comparar fotograma a fotograma contra P07 antes de aceptar el plano."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P12",
+      "orden": 12,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano americano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Travelling lateral corto (truck) alrededor del punto de trabajo",
+      "encuadre_inicial": "Gabriel de perfil junto al ala, manos sobre la herida",
+      "encuadre_final": "Gabriel visto de tres cuartos, Miguel apenas visible detrás del ala",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel continúa cauterizando la herida mientras habla en voz baja; el capítulo no transcribe sus palabras exactas sobre canciones viejas y el temperamento de Uriel, así que no se incluye diálogo textual en este plano.",
+      "accion_fondo": "Miguel escucha con los ojos cerrados, más calmado que en la primera noche.",
+      "luz": {
+        "id_plano": "B1C01_S6_P12",
+        "fuente_luz": "La luz de sanación de Gabriel reaparece como fuente dominante, más tenue que la primera noche, sumada al ambiente lunar frío de fondo",
+        "direccion": "Lateral, siguiendo el giro de la cámara alrededor del punto de trabajo; pasa de perfil a tres cuartos sobre el rostro de Gabriel",
+        "dureza": "Suave en el núcleo de sanación, dura y fría en el resto del cuerpo bajo la luna",
+        "color_temperatura": "Contraste entre el blanco cálido de las manos y el azul frío ambiente",
+        "clima": "Aire despejado, sin partícula relevante",
+        "ambiente": "Raccord de la fuente de sanación mantenido; el giro de cámara no altera su posición sobre el ala"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P12",
+        "vfx_principal": "El resplandor de cauterización continúa, ahora visible desde ángulos distintos por el travelling lateral alrededor del punto de trabajo (Gabriel de perfil a tres cuartos); la luz debe permanecer anclada a las manos de Gabriel y al mismo punto del ala en todo el recorrido de cámara, sin desplazarse de forma independiente.",
+        "vfx_fondo_simultaneo": "Miguel, apenas visible detrás del ala, escucha con los ojos cerrados, más calmado que en la primera noche — cambio de estado emocional/físico que debe leerse en contraste con P08.",
+        "fisica_entorno": "Ninguna física de entorno nueva; el travelling exige sobre todo estabilidad de la fuente de luz al cambiar el ángulo de cámara alrededor de un punto fijo.",
+        "limitacion_conocida": "Riesgo de 'objeto que cambia de forma' al rodear el punto de trabajo con la cámara: verificar que el resplandor no se deforme ni cambie de tamaño solo por el cambio de ángulo, ya que no hay una causa física que lo justifique."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P13",
+      "orden": 13,
+      "duracion_seg": 6,
+      "tipo_plano": "Primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Primer plano del rostro de Miguel",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El rostro de Miguel se distiende un poco; la respiración es más regular que en la primera noche.",
+      "luz": {
+        "id_plano": "B1C01_S6_P13",
+        "fuente_luz": "Ambiente lunar frío de la segunda noche, con un leve reflejo cálido de la luz de sanación fuera de campo",
+        "direccion": "Frontal-difusa, sin sombra dura; suaviza el gesto ya menos tenso",
+        "dureza": "Suave",
+        "color_temperatura": "Azul grisáceo, con un tinte cálido apenas perceptible en la mejilla más próxima al ala",
+        "clima": "Despejado",
+        "ambiente": "Clave media; el contraste se reduce respecto al plano 8 para acompañar el alivio del gesto"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P13",
+        "vfx_principal": "ninguno de entorno — el efecto es actoral (rostro que se distiende, respiración más regular que en la primera noche, comparar contra P08).",
+        "vfx_fondo_simultaneo": "ninguno — primer plano cerrado.",
+        "fisica_entorno": "Ninguna.",
+        "limitacion_conocida": "Ninguna relevante."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P14",
+      "orden": 14,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano general",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Plano general de los restos asentados de la fortaleza, ya inmóviles",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "La tercera noche encuentra la fortaleza hundida ya quieta y en silencio; Gabriel sigue arrodillado en el mismo lugar junto al ala de Miguel.",
+      "luz": {
+        "id_plano": "B1C01_S6_P14",
+        "fuente_luz": "Solo luz de luna, sin fuego ni resplandor de escombros activos",
+        "direccion": "Cenital-difusa sobre el conjunto de la fortaleza hundida; sin fuente lateral marcada",
+        "dureza": "Suave, uniforme",
+        "color_temperatura": "Azul grisáceo, el más frío de las tres noches",
+        "clima": "Aire limpio; ninguna partícula visible, subrayando la quietud tras la caída de la fortaleza",
+        "ambiente": "Clave baja pero sin contraste violento; el silencio visual acompaña el silencio narrativo del lugar"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P14",
+        "vfx_principal": "ninguno sobre Miguel/Gabriel directamente en este plano — es un plano de entorno puro que marca el paso a la tercera noche.",
+        "vfx_fondo_simultaneo": "Gabriel sigue arrodillado en el mismo lugar junto al ala de Miguel, sin cambios de postura respecto a los planos anteriores de la secuencia.",
+        "fisica_entorno": "Contraste deliberado con P03/P05/P07: los restos de la fortaleza aparecen ya asentados e inmóviles, sin caída de escombros ni humo activo — el 'resto' final de la física de derrumbe que se inició en P03, ahora completamente resuelto y en silencio.",
+        "limitacion_conocida": "Ninguna física compleja; el único riesgo es de continuidad de posición de Gabriel y el bastón respecto a los planos previos de la misma noche."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P15",
+      "orden": 15,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Plano detalle del ala, tercera noche",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Del daño original solo queda una franja estrecha y pálida cerca de la punta del ala; el resto ha recuperado el plumaje blanco perla.",
+      "luz": {
+        "id_plano": "B1C01_S6_P15",
+        "fuente_luz": "La luz de sanación de Gabriel, ya reducida a un resplandor pequeño y focal sobre la última franja dañada",
+        "direccion": "Puntual, concentrada en la punta del ala; el resto del plumaje blanco perla se distingue por reflejo tenue de la luna, no por la fuente de sanación",
+        "dureza": "Suave en ambas fuentes",
+        "color_temperatura": "Blanco cálido puntual sobre el fondo azulado general del plumaje bajo la luna",
+        "clima": "Despejado",
+        "ambiente": "El contraste entre la franja pálida y el resto ya emplumado debe leerse como el último resto del daño, no como sombra"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P15",
+        "vfx_principal": "Curación — etapa 4 de 4, casi completa: tercera noche. Causa: tercera noche consecutiva de cauterización sobre la misma zona. Respuesta: del daño original solo queda una franja estrecha y pálida cerca de la punta del ala; el resto del plumaje ha recuperado por completo el blanco perla característico. Resto: queda únicamente esa franja final sin cerrar — es el estado de entrada exacto para el cierre de la curación en P16, no debe mostrarse ya totalmente sana aquí.",
+        "vfx_fondo_simultaneo": "ninguno — plano detalle sin fondo.",
+        "fisica_entorno": "Ninguna física de entorno adicional.",
+        "limitacion_conocida": "Continuidad progresiva: comparar contra P11 para confirmar que el avance es gradual (ceniza con plumas nuevas cortas → blanco perla casi completo con una sola franja pálida), evitando un salto brusco de 'aún dañado' a 'sano' que rompa la escala de tres noches."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P16",
+      "orden": 16,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto",
+      "angulo": "Picado leve, cámara sobre las manos de Gabriel",
+      "movimiento_camara": "Travelling de retroceso lento (pull-back) mientras la luz se retira",
+      "encuadre_inicial": "Las manos de Gabriel aún sobre la punta del ala, luz concentrada",
+      "encuadre_final": "Las manos se apartan; la luz se apaga y el ala queda completa",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel retira las manos y la luz se extingue; la última franja pálida del ala se cierra por completo.",
+      "luz": {
+        "id_plano": "B1C01_S6_P16",
+        "fuente_luz": "La luz de sanación se retira de plano; su intensidad decrece hasta apagarse, quedando solo el ambiente lunar",
+        "direccion": "El retroceso de cámara acompaña el repliegue de la luz: de concentrada sobre la punta del ala a extinguida, mientras la iluminación general pasa a depender solo de la luna",
+        "dureza": "La fuente de sanación se suaviza hasta desaparecer; el ambiente lunar que queda es difuso",
+        "color_temperatura": "Transición de blanco cálido a azul grisáceo frío, sin fuente cálida remanente",
+        "clima": "Despejado",
+        "ambiente": "Plano de cierre de la fuente motivada; a partir de aquí no debe reaparecer un resplandor de sanación en la secuencia"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P16",
+        "vfx_principal": "Cierre de la curación. Causa: Gabriel retira las manos del punto de contacto. Respuesta: la luz concentrada se extingue de forma gradual (pull-back acompaña el retiro); en el instante final de contacto, la última franja pálida del ala se cierra por completo. Resto: al term­inar el plano, el ala queda completa y sin resplandor activo — este es el punto en que el ala alcanza el estado 'sano' que debe mantenerse ya sin variación hasta el final del capítulo, incluido el retorno al presente (P20).",
+        "vfx_fondo_simultaneo": "ninguno — foco cerrado en manos y ala.",
+        "fisica_entorno": "La luz debe apagarse desde el punto de contacto hacia afuera, en el mismo orden en que apareció en P06 (nace en las manos, se retira hacia las manos), para que el gesto de cierre sea legible como reverso simétrico del inicio.",
+        "limitacion_conocida": "Sincronización exacta entre el retiro de las manos y el apagado de la luz (tabla de límites: 'impacto y reacción separados'); si quedan desacoplados, ajustar en edición antes que prometer precisión de fotograma por texto."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P17",
+      "orden": 17,
+      "duracion_seg": 7,
+      "tipo_plano": "Primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Primer plano de Miguel",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel abre los ojos y afloja la mandíbula por primera vez en tres noches; el dolor bajo el ala ha cesado.",
+      "luz": {
+        "id_plano": "B1C01_S6_P17",
+        "fuente_luz": "Luz de luna fría, único ambiente disponible tras el apagado de la fuente de sanación",
+        "direccion": "Frontal-difusa, suave sobre el rostro ya relajado",
+        "dureza": "Suave",
+        "color_temperatura": "Azul grisáceo",
+        "clima": "Despejado",
+        "ambiente": "Clave media-baja, sin sombra dura; el gesto distendido se lee con claridad bajo luz uniforme"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P17",
+        "vfx_principal": "ninguno de entorno — efecto actoral: Miguel abre los ojos y afloja la mandíbula por primera vez en tres noches, el dolor bajo el ala ha cesado (consecuencia directa del cierre de P16, sin necesidad de mostrar el ala de nuevo aquí).",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "Ninguna.",
+        "limitacion_conocida": "Ninguna relevante."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P18",
+      "orden": 18,
+      "duracion_seg": 5,
+      "tipo_plano": "Primerísimo primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Cambio de foco (rack focus) inverso al de la entrada al recuerdo",
+      "encuadre_inicial": "Primerísimo primer plano de los ojos de Miguel, aún saturados en blanco",
+      "encuadre_final": "Los ojos recuperan su cian eléctrico y el foco vuelve a definirse",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El destello blanco se retira de los ojos de Miguel; el recuerdo termina y la vista vuelve a enfocarse en el presente.",
+      "luz": {
+        "id_plano": "B1C01_S6_P18",
+        "fuente_luz": "El propio resplandor de los ojos de Miguel, ahora en retirada — simétrico e inverso al del plano 2",
+        "direccion": "Desde el interior del iris hacia el borde del encuadre, replegándose",
+        "dureza": "Sin borde definido mientras dura la saturación; se endurece levemente cuando el cian vuelve a enfocarse",
+        "color_temperatura": "De blanco neutro a cian eléctrico",
+        "clima": "Sin partícula; encuadre cerrado",
+        "ambiente": "Transición óptica inversa a la del plano 2; marca el fin del recuerdo sin añadir efectos nuevos"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P18",
+        "vfx_principal": "Salida del recuerdo — reverso exacto de P02. Causa: el rack focus inverso devuelve la nitidez a los ojos de Miguel. Respuesta: el destello blanco que saturaba el cuadro se retira desde los bordes hacia el iris, y el brillo recupera su cian eléctrico habitual conforme el foco se redefine. Resto: al cierre, ojos nítidos y cian, ya en el presente — no debe quedar ningún resto de blanco ni de niebla luminosa en el fotograma final.",
+        "vfx_fondo_simultaneo": "ninguno — primerísimo primer plano sin fondo.",
+        "fisica_entorno": "Ninguna; mismo tipo de efecto óptico/lumínico que P02, sin material de entorno implicado.",
+        "limitacion_conocida": "Mismo riesgo de sincronización que P02: probar primero la desaturación del blanco como movimiento continuo y ajustar después su acople exacto con el barrido del rack focus."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P19",
+      "orden": 19,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Plano medio corto de Miguel en el presente, Serephis al fondo",
+      "encuadre_final": "Mismo encuadre; Miguel recupera la atención plena en el momento presente",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Miguel regresa al presente: el rostro recupera la tensión de antes del recuerdo, ya de nuevo consciente del desierto y de Gabriel frente a él.",
+      "accion_fondo": "Gabriel permanece en la misma posición que antes del recuerdo, el pergamino sellado aún sin nombrar contra su túnica.",
+      "luz": {
+        "id_plano": "B1C01_S6_P19",
+        "fuente_luz": "Vuelve el sol de desierto establecido en el plano 1",
+        "direccion": "La misma dirección y calidad del plano 1, sin variación — señala el regreso al mismo instante presente",
+        "dureza": "Dura",
+        "color_temperatura": "Cálida, blanco-amarillenta",
+        "clima": "Polvo fino suspendido, igual que en el plano 1",
+        "ambiente": "Raccord estricto con el plano 1: misma fuente, misma intensidad, mismo fondo desenfocado con Gabriel y el pergamino sellado"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P19",
+        "vfx_principal": "ninguno — el plano es de retorno actoral al presente (Miguel recupera la tensión previa al recuerdo); no hay efecto de luz ni de ala visible en este encuadre medio corto.",
+        "vfx_fondo_simultaneo": "Gabriel permanece en la misma posición que antes del recuerdo (continuidad estricta con P01), con el pergamino sellado aún sin nombrar contra su túnica azul y plata — verificar que no haya adquirido armadura ni cambiado el bastón de mano respecto a P01/P05.",
+        "fisica_entorno": "Ninguna física de entorno nueva; continuidad de ambiente desértico ya establecida en P01.",
+        "limitacion_conocida": "Nota de canon crítica para este punto de la escena (resuelta por el autor 2026-09-18): a partir de aquí y en todo plano posterior del presente, el ala izquierda de Miguel — aunque no sea visible en este encuadre medio corto— debe entenderse ya sana; no arrastrar del flashback ningún estado de 'cicatrizándose' o 'recién cerrada' a la continuidad del presente. Este estado se confirma visualmente en P20."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P20",
+      "orden": 20,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Plano detalle del ala izquierda de Miguel en el presente",
+      "encuadre_final": "Mismo encuadre, sin variación de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El ala izquierda de Miguel aparece intacta y completamente emplumada en blanco perla, sin daño ni cicatriz visible, cerrando el retorno del recuerdo.",
+      "luz": {
+        "id_plano": "B1C01_S6_P20",
+        "fuente_luz": "Sol de desierto directo, sin obstáculo",
+        "direccion": "Lateral-alta, recorriendo el plumaje blanco perla de punta a raíz",
+        "dureza": "Dura, bordes de sombra definidos entre pluma y pluma",
+        "color_temperatura": "Cálida, blanco-amarillenta",
+        "clima": "Sin partícula relevante en el encuadre cerrado",
+        "ambiente": "Clave alta; el ala debe leerse íntegra, sin cicatriz ni resto de daño — cierre visual del retorno del recuerdo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P20",
+        "vfx_principal": "Confirmación visual del estado 'sano' establecido en P16, ya en el presente. Resultado, no proceso: el ala izquierda de Miguel aparece intacta y completamente emplumada en blanco perla, sin daño, sin franja pálida ni cicatriz visible de ningún tipo — no repetir aquí ninguna etapa intermedia de la curación (ni ceniza, ni plumas cortas, ni franja pálida de P11/P15); el plano cierra el retorno del recuerdo mostrando directamente el estado final.",
+        "vfx_fondo_simultaneo": "ninguno — plano detalle sin fondo.",
+        "fisica_entorno": "Ninguna física de entorno adicional; es un plano de estado (anatomía), no de movimiento.",
+        "limitacion_conocida": "Este es el plano de mayor riesgo de continuidad de toda la escena: el documento 17 advierte que una imagen de referencia con el miembro ya intacto puede imponerse sobre el texto en cualquier sentido, así que aquí interesa justo lo contrario del caso general de amputación — usar como referencia una imagen del ala ya sana (no la de P04/P07/P11/P15, que muestran daño) y comparar el resultado contra el ala del presente en otros planos del capítulo (fuera de esta escena) para confirmar coherencia de blanco perla sin marca alguna."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    }
+  ],
+  "planos_bloqueados": [
+    {
+      "id_plano": "B1C01_S6_P01",
+      "motivo_bloqueo": "Bloqueado por discrepancia de fuente narrativa: id_escena/parrafos declarados (B1C01_S6, parrafos 33-35, resumen de Solmire) no corresponden al contenido real de este plano (Gabriel, pergamino sellado, memoria de la cauterizacion). Requiere que el autor confirme el id_escena/parrafos correctos antes de generar cualquier plano de esta tanda."
+    },
+    {
+      "id_plano": "B1C01_S6_P02",
+      "motivo_bloqueo": "Bloqueado por la misma discrepancia de fuente narrativa que P01 (escena/parrafos declarados no corresponden al contenido de la tanda de planos)."
+    },
+    {
+      "id_plano": "B1C01_S6_P03",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P04",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P05",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P06",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P07",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P08",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P09",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P10",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P11",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P12",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P13",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P14",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P15",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P16",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P17",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P18",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P19",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S6_P20",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    }
+  ],
+  "prompts_flow": [],
+  "guion_storyboard_studio": ""
+}

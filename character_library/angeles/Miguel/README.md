@@ -2,7 +2,7 @@
 
 Arcángel adulto y General de la Hueste Celestial. Edad aparente: 35–40 años.
 
-> **Nota 2026-09-16**: producción movida a Google Flow (Storyboard Studio); estilo oficial ahora **3D-Animation** (sustituye la ilustración pintada). Prompt de generación final, más detallado y ya usado en Flow, en `design_notes/2026-09-16_flow_storyboard_studio_cap01.md` — esa es la versión de referencia para generar, esta página sigue siendo válida como resumen de identidad.
+> **Nota 2026-09-16**: producción movida a Google Flow (Storyboard Studio); estilo oficial ahora **3D-Animation** (sustituye la ilustración pintada). El prompt de generación de Flow usado ese día fue de prueba y se descartó; esta página y las imágenes de `canonical/` son la autoridad de identidad vigente.
 
 ## Identidad inmutable
 

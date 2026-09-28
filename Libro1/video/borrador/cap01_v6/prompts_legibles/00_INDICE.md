@@ -1,0 +1,10 @@
+# Índice — Capítulo 1, prompts de Flow por escena (v6)
+
+- [B1C01_S1 — "El camino bajo la ceniza"](B1C01_S1_prompts.md) (18 prompts)
+- [B1C01_S2 — "Ecos de un reino que se negó a rendirse"](B1C01_S2_prompts.md) (10 prompts)
+- [B1C01_S3 — "El hermano y el pergamino sellado"](B1C01_S3_prompts.md) (31 prompts)
+- [B1C01_S4 — "Las Puertas de Ónice: tres noches de fuego"](B1C01_S4_prompts.md) (18 prompts)
+- [B1C01_S5 — "Vuelve a casa"](B1C01_S5_prompts.md) (25 prompts)
+- [B1C01_S6 — "El umbral de la Arboleda"](B1C01_S6_prompts.md) (15 prompts)
+- [B1C01_S7 — "El centinela silencioso"](B1C01_S7_prompts.md) (18 prompts)
+- [B1C01_S8 — "Solmire"](B1C01_S8_prompts.md) (23 prompts)
