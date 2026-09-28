@@ -1,0 +1,1605 @@
+{
+  "escena": {
+    "id_escena": "B1C01_S1",
+    "titulo": "El hueco bajo las costillas",
+    "resumen": "Miguel cruza a pie el desierto vidrificado de Serephis, doce días de marcha, empujado por un dolor sin nombre bajo el esternón. Al romperse una duna bajo su bota descubre piedra tallada: un camino enterrado de un reino anterior a la Caída, del que nunca aprendió el nombre. La escena es puramente física y atmosférica: el peso de la armadura agrietada, el silencio, el tirón cada vez más autoritario del llamado.",
+    "localizacion": "Desierto de Serephis — arena vidrificada sobre un camino enterrado",
+    "personajes": [
+      "Miguel"
+    ],
+    "parrafos_en": {
+      "desde": 1,
+      "hasta": 9
+    },
+    "parrafos_es": {
+      "desde": 1,
+      "hasta": 9
+    },
+    "duracion_objetivo_seg": 150,
+    "estado_canon_entrada": [
+      {
+        "id_personaje": "Miguel",
+        "forma": "celestial",
+        "heridas": [
+          "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física; el cuerpo 'no recuerda por qué le falta algo'"
+        ],
+        "objetos": [
+          "armadura dorada agrietada desde la campaña de las Puertas de Ónice, nunca soldada del todo",
+          "sabatons"
+        ],
+        "notas": "12 días cruzando Serephis; pelo blanco-ceniza envejecido antes de tiempo, ojos de llama azulada; General de la Hueste Celestial, sin escolta ni orden del Consejo. Vector de presencia (13_presencia_cinematografica): autoridad que se contagia incluso sin línea que enderezar."
+      }
+    ],
+    "requiere_aprobacion_autor": false
+  },
+  "planos": [
+    {
+      "id_plano": "B1C01_S1_P01",
+      "orden": 1,
+      "duracion_seg": 8,
+      "tipo_plano": "Gran plano general (extreme wide shot)",
+      "angulo": "Ligeramente elevado / picado leve",
+      "movimiento_camara": "Plano fijo con push-in óptico muy lento (dolly-in sutil)",
+      "encuadre_inicial": "El desierto vidrificado de Serephis domina el cuadro; Miguel es una figura minúscula que cruza de izquierda a derecha en el tercio inferior.",
+      "encuadre_final": "Mismo encuadre con un acercamiento apenas perceptible; la figura ha avanzado un tramo corto sin cambiar de escala relativa.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel avanza a pie sobre las láminas de vidrio negro del desierto, una figura diminuta contra la inmensidad calcinada tras doce días de marcha.",
+      "accion_fondo": "El aire vibra por el calor que asciende del propio suelo vidrificado, distorsionando el horizonte detrás de él.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P01",
+        "fuente_luz": "Sol de mediodía, casi en el cénit, fijo en coordenadas de mundo por delante del rumbo de marcha de Miguel",
+        "direccion": "Cenital con leve componente frontal; a esta distancia apenas arroja sombra sobre la lámina de vidrio",
+        "dureza": "Dura, directa, sin difusión",
+        "color_temperatura": "Blanco-amarillento intenso, reforzado por el brillo del propio vidrio negro",
+        "clima": "El aire ya vibra por calor ascendente del suelo, distorsionando el horizonte tras la figura",
+        "ambiente": "Vastedad calcinada, la luz aplasta la escala del personaje"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P01",
+        "vfx_principal": "ninguno — Miguel es una figura minúscula y distante; a esta escala no hay contacto pie/suelo legible que resolver.",
+        "vfx_fondo_simultaneo": "Reforzar el shimmer de calor ya descrito en accion_fondo: aire que refracta sobre el vidrio negro, anclado a la superficie y más denso cerca del suelo, disipándose con la altura — no un velo uniforme sobre toda la imagen, y sin tapar la silueta de Miguel.",
+        "fisica_entorno": "Calor irradiado por vidrio volcánico bajo sol alto; superficie compacta, sin partículas sueltas visibles a esta distancia.",
+        "limitacion_conocida": "El heat haze no es un efecto de partículas estándar en generadores de vídeo por IA; riesgo de que se lea como desenfoque genérico de imagen en vez de refracción localizada sobre el suelo (documento 17, sección Flow/Storyboard Studio: sin confirmación pública de capas de movimiento independientes)."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de pie, erguido pero con el torso ligeramente inclinado hacia delante por el cansancio de doce días de marcha y el peso de la armadura; camina cruzando el encuadre de izquierda a derecha, sin variación de escala por la distancia (figura minúscula). Mano derecha: enguantada (guantelete oscuro con protecciones doradas), vacía, oscilando junto al costado derecho con el balanceo del paso. Mano izquierda: enguantada, vacía, oscilando junto al costado izquierdo con el balanceo del paso. Heridas visibles: ninguna herida física visible; existe el hueco frío bajo el esternón, pero es una herida metafísica sin marca externa, no visible a esta escala. Vestuario: armadura dorada radiante con filigrana de plumas y canales cian, peto con la grieta antigua de la campaña de las Puertas de Ónice (nunca soldada del todo), estrella cian-blanca de ocho puntas centrada sobre el esternón, faldones azul medianoche partidos al centro, sabatons dorados cubiertos de polvo del desierto, alas blanco perla intactas plegadas contra la espalda (no extendidas, por defecto de marcha), pelo blanco-ceniza revuelto por el viento y la marcha. Dirección de mirada: al frente, en la dirección de su rumbo de marcha (hacia la derecha del cuadro).",
+        "estado_salida_previsto": "Miguel: misma pose de marcha erguida-cansada descrita en la entrada; ha avanzado un tramo corto pero sin cambio de escala relativa apreciable por el push-in óptico muy leve. Mano derecha: vacía, oscilando junto al costado derecho. Mano izquierda: vacía, oscilando junto al costado izquierdo. Heridas visibles: ninguna herida física visible; hueco frío bajo el esternón sigue sin marca externa, no visible. Vestuario: idéntico al de la entrada — peto agrietado, estrella de ocho puntas, faldones azul medianoche, sabatons dorados, alas plegadas, pelo blanco-ceniza. Dirección de mirada: al frente, sin variación, hacia su rumbo de marcha.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, oscilando junto al costado derecho con el paso",
+            "mano_izquierda": "vacía, oscilando junto al costado izquierdo con el paso"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física; el cuerpo no recuerda por qué le falta algo",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible externamente (sin marca física); a esta escala tampoco sería perceptible aunque tuviera marca"
+          }
+        ],
+        "frame_final_descripcion": "Gran plano general del desierto vidrificado de Serephis con Miguel como figura diminuta en el tercio inferior, en marcha de izquierda a derecha; ambas manos vacías oscilando junto al cuerpo; sin cambio de escala relativa apreciable tras el push-in óptico; horizonte tembloroso por el calor ascendente detrás de él.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Referencia vs. estado requerido: forms/celestial/README.md indica explícitamente 'Sin bandolera ni grieta en el peto' para la forma celestial canónica, pero el estado_canon_entrada de esta escena exige un peto agrietado (campaña de las Puertas de Ónice) que debe persistir sin variación en los 19 planos. No existe en character_library/angeles/Miguel/ una referencia visual que muestre ya el peto agrietado; debe fijarse una referencia/estado narrativo adicional (o una nota de anulación explícita) antes de generar, o el modelo puede regenerar el peto liso de la referencia canónica y perder la grieta entre planos.",
+          "Estado de las alas no especificado por el guion en ningún plano de la escena (forma 'celestial' implica alas presentes). Se asume por defecto 'plegadas contra la espalda' para permitir la marcha, pero esto es una inferencia de este agente, no un dato del guion; debe confirmarse con el autor para evitar que aparezcan extendidas o desaparezcan entre planos."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P02",
+      "orden": 2,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano entero (full shot)",
+      "angulo": "Contrapicado leve, cámara casi a ras del suelo para incluir sabatons y arena",
+      "movimiento_camara": "Travelling lateral (truck right), acompañando a Miguel a su misma velocidad",
+      "encuadre_inicial": "Miguel de perfil, cuerpo completo dentro de cuadro; sabatons y suelo vidrificado visibles en primer término.",
+      "encuadre_final": "Mismo tamaño de plano; ha recorrido un tramo mientras la cámara conserva la distancia relativa.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel camina; el peso de la armadura dorada agrietada tira de cada paso sobre el vidrio negro fundido.",
+      "accion_fondo": "El viento arrastra un velo fino de polvo de derecha a izquierda, cruzando el suelo por detrás de sus pasos.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P02",
+        "fuente_luz": "Mismo sol cenital; el vidrio negro bajo sus pies actúa como reflector especular secundario",
+        "direccion": "Cae recta sobre yelmo y hombros; el reflejo ascendente del suelo ilumina tenue la parte baja del rostro y los sabatones",
+        "dureza": "Dura arriba, reflejo puntual y duro abajo",
+        "color_temperatura": "Blanco-amarillo arriba; tinte ambarino-ahumado en el reflejo del vidrio",
+        "clima": "El velo de polvo cruza de derecha a izquierda, estableciendo la dirección de viento que se repetirá en el plano 14"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P02",
+        "vfx_principal": "Fricción leve entre sabatón y vidrio bajo el peso de la armadura: posible desprendimiento de polvo residual muy fino sobre la superficie del vidrio al apoyar, sin llegar a la fractura que se muestra en el insert siguiente (P03).",
+        "vfx_fondo_simultaneo": "El velo fino de polvo arrastrado por el viento de derecha a izquierda, a media altura (no tapa sabatones ni suelo), cruzando detrás de los pasos — esta dirección y densidad deben fijarse como referencia porque P14 exige igualarlas explícitamente.",
+        "fisica_entorno": "Vidrio negro compacto sobre el que hay una capa mínima de arena/polvo suelto; viento sostenido y constante.",
+        "limitacion_conocida": "Establece el raccord de viento que P14 debe repetir en un plano no adyacente generado por separado; el documento 17 no ofrece mecanismo propio para garantizar igual dirección/densidad entre dos generaciones independientes — requiere referencia visual compartida o corrección en posproducción."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P02",
+        "id_plano_anterior": "B1C01_S1_P01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de perfil, cuerpo completo, en marcha erguida-cansada, torso levemente inclinado hacia delante por el peso de la armadura. Mano derecha: vacía, oscilando junto al costado derecho. Mano izquierda: vacía, oscilando junto al costado izquierdo. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: armadura dorada con peto agrietado (grieta antigua, no soldada), estrella de ocho puntas, faldones azul medianoche, sabatons dorados sobre el vidrio negro, alas blanco perla plegadas, pelo blanco-ceniza. Dirección de mirada: al frente, en la dirección de marcha (hacia donde avanza el travelling).",
+        "estado_salida_previsto": "Miguel: misma pose de marcha de perfil; ha recorrido un tramo mientras la cámara conserva la distancia relativa (travelling lateral). Mano derecha: vacía, oscilando junto al costado derecho, con una fricción leve del sabatón contra el vidrio en cada apoyo. Mano izquierda: vacía, oscilando junto al costado izquierdo. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: idéntico — peto agrietado, sabatons ahora con un velo mínimo de polvo residual por la fricción del paso, resto sin cambio. Dirección de mirada: al frente, sin variación.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, oscilando junto al costado derecho con el paso",
+            "mano_izquierda": "vacía, oscilando junto al costado izquierdo con el paso"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible externamente (sin marca física)"
+          }
+        ],
+        "frame_final_descripcion": "Plano entero de Miguel de perfil, cuerpo completo, avanzando sobre el vidrio negro; ambas manos vacías oscilando junto al cuerpo; velo fino de polvo cruzando de derecha a izquierda por detrás de sus pasos, fijando la dirección de viento que debe repetirse en P14; reflejo ambarino-ahumado del vidrio en la parte baja del cuerpo.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Este plano fija la dirección de viento (derecha a izquierda) que P14 —un plano no adyacente, generado por separado— debe repetir con igual dirección y densidad; sin una imagen de referencia compartida entre ambas generaciones, no hay garantía de raccord (riesgo ya señalado en el propio vfx de P02/P14, se registra aquí como incidencia activa a vigilar en la revisión)."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P03",
+      "orden": 3,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle (insert shot)",
+      "angulo": "Picado cerrado, cámara baja apuntando al punto de contacto",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "El sabatón dorado agrietado desciende hacia una lámina de vidrio negro; nada más entra en cuadro.",
+      "encuadre_final": "La suela ha cargado el peso; fragmentos de vidrio recién astillados quedan esparcidos alrededor de la huella.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El sabatón se apoya sobre el vidrio fundido; la lámina se astilla bajo la presión con sonido de hueso seco al quebrarse, y los fragmentos saltan a poca altura antes de asentarse.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P03",
+        "fuente_luz": "Sol cenital directo",
+        "direccion": "Golpea de lleno el punto de contacto del sabatón; sombra mínima bajo la propia bota",
+        "dureza": "Dura y especular: los fragmentos de vidrio recién astillados lanzan destellos puntuales al saltar",
+        "color_temperatura": "Blanco frío en los destellos de vidrio, frente al dorado sucio del sabatón",
+        "ambiente": "Golpe seco, luz que confirma la fractura más que la ilumina"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P03",
+        "vfx_principal": "Fractura de la lámina de vidrio al cargar el peso: aplicar el patrón del banco 'Cristal roto' — rotura AL CARGAR, no antes; la esquirla es pieza rígida angular que se parte bajo la suela; los fragmentos saltan a poca altura, caen junto al pie y quedan esparcidos; el resto (fragmentos) sigue presente al levantar el pie.",
+        "vfx_fondo_simultaneo": "ninguno (plano detalle sin fondo visible).",
+        "fisica_entorno": "Vidrio volcánico fundido en lámina fina sobre roca: material rígido y quebradizo, no elástico ni granular; los fragmentos vecinos pueden desplazarse sobre la piedra sin fundirse ni recomponerse.",
+        "limitacion_conocida": "Coincide casi literalmente con el ejemplo 'Cristal roto' del documento 17 — es el caso mejor cubierto, pero conserva el riesgo genérico de esa sección: piezas que se fusionan, se recomponen o aparecen ya rotas antes del contacto."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P03",
+        "id_plano_anterior": "B1C01_S1_P02",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel (solo el sabatón derecho o izquierdo en cuadro, cuerpo entero fuera de encuadre pero su estado se mantiene inventariado): en fase de apoyo de un paso, el sabatón dorado agrietado por el uso desciende hacia una lámina de vidrio negro; resto del cuerpo continúa la pose de marcha de P02 (torso inclinado, mano derecha e izquierda vacías oscilando junto al cuerpo, fuera de este encuadre). Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, fuera de encuadre. Vestuario: sabatón dorado agrietado por el desgaste de la marcha (daño de calzado, distinto de la grieta del peto); resto de la armadura fuera de cuadro pero inventariada sin cambio (peto agrietado, faldones, alas plegadas, pelo blanco-ceniza). Dirección de mirada: fuera de encuadre; se asume mirada al frente, sin variación respecto a P02.",
+        "estado_salida_previsto": "El sabatón ha cargado el peso; la lámina de vidrio bajo él se ha astillado con fragmentos esparcidos alrededor de la huella. El resto del cuerpo de Miguel (fuera de cuadro) conserva el mismo estado de marcha que en la entrada: manos vacías junto al cuerpo, heridas no visibles, vestuario sin cambio salvo el propio sabatón ahora sobre vidrio recién fracturado. Dirección de mirada: sin variación, fuera de encuadre.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre; se hereda vacía, junto al costado, sin objeto",
+            "mano_izquierda": "fuera de encuadre; se hereda vacía, junto al costado, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "fuera_de_encuadre (no visible en este insert; se mantiene inventariada sin marca física)"
+          }
+        ],
+        "frame_final_descripcion": "Plano detalle cerrado en el punto de contacto: el sabatón dorado agrietado ha cargado el peso sobre la lámina de vidrio negro, que se ha astillado en fragmentos rígidos y angulares esparcidos junto a la huella; ningún otro elemento del cuerpo entra en cuadro.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P04",
+      "orden": 4,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Rostro y pecho de Miguel; el pelo blanco-ceniza enmarca el rostro, la luz dura del sol alto marca sombras netas.",
+      "encuadre_final": "Mismo encuadre; gira levemente la cabeza, dejando ver el brillo azul tenue de sus ojos bajo la sombra del pelo.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel avanza con la mirada fija al frente; sus ojos arden en un azul apagado bajo el pelo envejecido antes de tiempo.",
+      "accion_fondo": "Detrás de él, el horizonte vidrificado tiembla por el calor ascendente.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P04",
+        "fuente_luz": "Sol alto establecido en la propia acción del plano",
+        "direccion": "Ligeramente frontal-alta; marca sombra dura y neta bajo cejas, nariz y mentón. Al girar la cabeza, el ojo entra en la sombra propia del pelo ceniza y deja ver el brillo azul",
+        "dureza": "Dura, sombras de borde nítido",
+        "color_temperatura": "Blanco duro dominante; el único tono frío es el brillo azul apagado de los ojos, casi una luz práctica propia",
+        "clima": "El horizonte vidrificado sigue temblando por el calor detrás de él"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P04",
+        "vfx_principal": "ninguno de física de entorno directa sobre el personaje (el brillo azul tenue de los ojos es un efecto de personaje/luz, no de entorno, y queda fuera del alcance de este agente).",
+        "vfx_fondo_simultaneo": "Reforzar el mismo shimmer de calor de P01 en el horizonte detrás de él, mantenido sutil para no competir con el rostro en primer plano.",
+        "fisica_entorno": "Luz dura de sol cenital sobre superficie vidrificada; sombras netas en el rostro, coherente con el material reflectante del suelo.",
+        "limitacion_conocida": "En un MCU el shimmer de fondo ocupa poco cuadro; riesgo de que el generador lo omita o lo aplane en favor de la nitidez del rostro."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P04",
+        "id_plano_anterior": "B1C01_S1_P03",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: rostro y pecho en plano medio corto, avanzando con la mirada fija al frente; pelo blanco-ceniza enmarcando el rostro; postura de marcha heredada de P02/P03 (cuerpo entero fuera de este encuadre pero inventariado sin cambio: torso inclinado, manos vacías junto al cuerpo). Mano derecha: fuera de encuadre, vacía, junto al costado. Mano izquierda: fuera de encuadre, vacía, junto al costado. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, fuera de encuadre en este plano. Vestuario: parte superior del peto agrietado visible en el borde inferior del encuadre; pelo blanco-ceniza, resto sin cambio. Dirección de mirada: al frente, fija en la dirección de marcha; ojos con brillo azul apagado, oculto por la sombra dura del pelo.",
+        "estado_salida_previsto": "Miguel: mismo encuadre; gira levemente la cabeza, dejando ver con más claridad el brillo azul tenue de sus ojos bajo la sombra del pelo. Cuerpo y manos (fuera de cuadro) sin cambio respecto a la entrada: manos vacías junto al costado, heridas no visibles, vestuario sin variación. Dirección de mirada: sigue al frente en términos de objetivo, pero con la cabeza girada levemente, revelando el ojo que estaba en sombra.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre; se hereda vacía, junto al costado",
+            "mano_izquierda": "fuera de encuadre; se hereda vacía, junto al costado"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "fuera_de_encuadre / no visible (plano medio corto centrado en rostro)"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio corto del rostro y pecho de Miguel; la cabeza ha girado levemente, dejando ver el brillo azul apagado del ojo que antes estaba en sombra bajo el pelo blanco-ceniza; sombras duras y netas por el sol cenital; horizonte vidrificado temblando por el calor detrás de él.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P05",
+      "orden": 5,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano detalle (evoluciona desde plano medio corto)",
+      "angulo": "Altura de ojos, ligeramente lateral",
+      "movimiento_camara": "Zoom óptico lento de plano medio corto a primer plano, cámara fija",
+      "encuadre_inicial": "Plano medio corto; el guantelete de Miguel comienza a subir desde el costado.",
+      "encuadre_final": "Primer plano cerrado en el guantelete apoyado contra el peto agrietado, a la altura del esternón.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La mano enguantada sube por sí sola hasta el pecho, buscando el contacto del acero templado contra el hueco frío que su carne no recuerda por qué le falta.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P05",
+        "fuente_luz": "Mismo sol cenital-frontal",
+        "direccion": "El guantelete metálico capta un destello especular que se intensifica a medida que el zoom óptico cierra sobre el peto",
+        "dureza": "Dura; el metal concentra el reflejo, el peto lo dispersa",
+        "color_temperatura": "Blanco duro en el acero frente al dorado apagado y agrietado del peto",
+        "ambiente": "El acero responde a la luz con más nitidez que la carne que busca"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P05",
+        "vfx_principal": "Contacto metal-metal: el guantelete se apoya contra el peto ya agrietado. No debe generarse fractura nueva — la grieta es daño preexistente que debe transportarse sin alteración entre encuadre inicial y final del zoom.",
+        "vfx_fondo_simultaneo": "ninguno (sin accion_fondo en este plano).",
+        "fisica_entorno": "Superficie metálica rígida con daño previo fijo; sin material suelto en este encuadre.",
+        "limitacion_conocida": "El zoom óptico simulado (cambio de escala plano medio corto → primer plano) puede regenerar el peto y perder o alterar la grieta existente; verificar que persiste igual en encuadre inicial y final, según la sección 'Continuidad' del documento 17."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P05",
+        "id_plano_anterior": "B1C01_S1_P04",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: plano medio corto heredado de P04, en marcha, mirada al frente. Mano derecha: comienza a subir desde el costado derecho (inicio del gesto, encuadre inicial de este plano). Mano izquierda: vacía, junto al costado izquierdo, fuera de este encuadre pero inventariada sin cambio. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible (motivador del gesto que va a ocurrir). Vestuario: guantelete oscuro con protecciones doradas en la mano derecha que sube; peto agrietado visible al final del zoom; resto sin cambio. Dirección de mirada: al frente, sin variación indicada por el guion durante el gesto.",
+        "estado_salida_previsto": "Miguel: tras el zoom óptico, primer plano cerrado en el guantelete apoyado contra el peto agrietado, a la altura del esternón. Mano derecha: apoyada contra el peto, palma/dedos en contacto con el metal agrietado, buscando el hueco frío bajo el esternón. Mano izquierda: fuera de este encuadre; se hereda vacía, junto al costado izquierdo. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible pero es la causa directa del contacto de la mano. Vestuario: la grieta del peto es daño preexistente y debe transportarse sin alteración ni fractura nueva entre el encuadre inicial y el final del zoom. Dirección de mirada: fuera de este encuadre cerrado; se hereda al frente, sin cambio.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "sube desde el costado y termina apoyada contra el peto agrietado, a la altura del esternón, sin sujetar ningún objeto (contacto metal-metal guantelete/peto)",
+            "mano_izquierda": "fuera de encuadre; se hereda vacía, junto al costado izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física; motiva el gesto de la mano que busca el pecho",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); la mano se apoya sobre el punto exacto sin que haya lesión externa que mostrar"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano cerrado: el guantelete de la mano derecha de Miguel apoyado contra el peto dorado agrietado, a la altura del esternón; la grieta preexistente (campaña de las Puertas de Ónice) debe verse idéntica a la del encuadre inicial, sin fractura nueva ni alteración.",
+        "cambios_autorizados": [
+          {
+            "campo": "mano_derecha (posición/contacto)",
+            "antes": "vacía, junto al costado derecho",
+            "despues": "vacía, apoyada contra el peto agrietado a la altura del esternón",
+            "causa": "accion_principal: 'la mano enguantada sube por sí sola hasta el pecho, buscando el contacto del acero templado contra el hueco frío'."
+          }
+        ],
+        "checklist_incidencias": [
+          "El zoom óptico simulado (medio corto → primer plano) es el punto de mayor riesgo de que el generador regenere el peto y pierda la grieta existente; verificar explícitamente que la grieta es idéntica en encuadre inicial y final antes de aprobar la toma."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P06",
+      "orden": 6,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "El rostro llena el cuadro; los ojos permanecen abiertos, la mano —fuera de cuadro— aún presiona el pecho.",
+      "encuadre_final": "Mismo encuadre; los párpados se cierran despacio.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel cierra los ojos un instante mientras el dolor bajo el esternón se agudiza; se oye su voz interior, la pregunta que lo persigue desde hace doce días (cursiva de pensamiento en el texto original, no diálogo hablado).",
+      "accion_fondo": "",
+      "dialogo_es": "¿qué me fue arrebatado?",
+      "dialogo_en": "what was taken from me?",
+      "luz": {
+        "id_plano": "B1C01_S1_P06",
+        "fuente_luz": "Sol alto, sin cambio respecto al plano 4 (raccord de contracampo)",
+        "direccion": "Frontal-alta; deja una sombra corta bajo la línea de pestañas que se recoge y desaparece al cerrarse los párpados",
+        "dureza": "Dura",
+        "color_temperatura": "Blanco duro constante; el brillo azul se apaga al cerrar los ojos, marcando el instante",
+        "ambiente": "El cierre de ojos coincide con la única variación lumínica: la pérdida del tono azul"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P06",
+        "vfx_principal": "ninguno de física de entorno (encuadre cerrado sin entorno visible).",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "No aplica — el plano excluye cualquier superficie o material del entorno.",
+        "limitacion_conocida": "El diálogo es pensamiento interior en cursiva, no habla; riesgo de que el generador anime sincronía labial si interpreta dialogo_es/dialogo_en como habla en voz alta — no es un asunto de física de entorno pero condiciona la generación de este plano."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P06",
+        "id_plano_anterior": "B1C01_S1_P05",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: primer plano del rostro, que llena el cuadro; ojos abiertos. Mano derecha (fuera de este encuadre): se hereda apoyada contra el peto agrietado, presionando el pecho, tal como quedó en P05. Mano izquierda (fuera de encuadre): vacía, junto al costado izquierdo. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, causa del gesto de la mano fuera de cuadro. Vestuario: fuera de encuadre en su mayoría; pelo blanco-ceniza visible enmarcando el rostro. Dirección de mirada: al frente, ojos abiertos, brillo azul apagado visible.",
+        "estado_salida_previsto": "Miguel: mismo encuadre exacto; los párpados se han cerrado despacio. Mano derecha (fuera de encuadre): se mantiene apoyada contra el peto, presionando el pecho — el guion confirma explícitamente que 'la mano —fuera de cuadro— aún presiona el pecho'. Mano izquierda (fuera de encuadre): vacía, junto al costado izquierdo. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, ahora más agudo (motiva el cierre de ojos). Vestuario: sin cambio, pelo blanco-ceniza enmarcando el rostro. Dirección de mirada: ojos cerrados; brillo azul apagado al cerrarse los párpados.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre; se hereda apoyada contra el peto agrietado, presionando el pecho (confirmado explícitamente por el guion)",
+            "mano_izquierda": "fuera de encuadre; se hereda vacía, junto al costado izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física; se agudiza en este plano",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); fuera de encuadre"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano del rostro de Miguel con los párpados recién cerrados; el brillo azul de los ojos se apaga al cerrarse; pensamiento interior en cursiva ('¿qué me fue arrebatado?') sin sincronía labial, ya que no es diálogo hablado en voz alta.",
+        "cambios_autorizados": [
+          {
+            "campo": "ojos/párpados",
+            "antes": "abiertos",
+            "despues": "cerrados",
+            "causa": "accion_principal: 'Miguel cierra los ojos un instante mientras el dolor bajo el esternón se agudiza'."
+          }
+        ],
+        "checklist_incidencias": [
+          "El diálogo (pensamiento interior en cursiva) no debe generar sincronía labial; confirmar que el generador no anima la boca como si hablara en voz alta."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P07",
+      "orden": 7,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano entero (full shot)",
+      "angulo": "Contrapicado leve, cámara a la altura de la duna",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "La bota de Miguel desciende sobre la costra de una duna; el cuerpo completo entra en cuadro.",
+      "encuadre_final": "La costra se ha roto; la arena cede hacia los lados dejando ver piedra bajo la superficie.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La duna se deshace bajo su bota; debajo aparece piedra tallada, no arena.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P07",
+        "fuente_luz": "Sol cenital-frontal",
+        "direccion": "La costra de la duna devuelve un reflejo plano y mate hasta que se quiebra; los bordes de piedra recién expuestos reflejan más duro y compacto que la arena alrededor",
+        "dureza": "Dura, con salto de reflectancia entre arena y piedra",
+        "color_temperatura": "Arena en tono cálido apagado; piedra expuesta gris-fría por contraste",
+        "ambiente": "La luz delata la diferencia de material antes de que la mano la confirme"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P07",
+        "vfx_principal": "Ruptura de la costra superficial de la duna al recibir el peso de la bota: la costra (compactada/semi-vidrificada) se quiebra en placas irregulares — no en polvo fino como la arena suelta del banco 'Arena y polvo' —; la arena suelta bajo la costra cede hacia los lados y desciende; el resto visible es el borde de piedra tallada que queda expuesto. Secuencia obligatoria: costra rota → arena que cae → piedra visible.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "Tres capas de material superpuestas — costra fina y quebradiza, arena suelta de relleno, piedra tallada debajo —; cada una debe comportarse según su propia rigidez.",
+        "limitacion_conocida": "El documento 17 cubre arena suelta y cristal roto como casos separados, no una costra compuesta de tres capas que se quiebra en secuencia; combinación no ensayada, con mayor riesgo de que el generador funda las texturas o salte directamente a mostrar la piedra sin el paso intermedio de la arena cediendo."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P07",
+        "id_plano_anterior": "B1C01_S1_P06",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: cuerpo completo en cuadro (contrapicado leve), en fase de dar un paso; la bota desciende hacia la costra de una duna. Mano derecha: se hereda de P05/P06 apoyada contra el peto agrietado, presionando el pecho — el guion no describe que la baje, así que debe mostrarse todavía en esa posición mientras camina, y no reiniciarse junto al costado. Mano izquierda: vacía, junto al costado izquierdo, oscilando con el paso. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, motivo de que la mano siga en el pecho. Vestuario: peto agrietado (sin fractura nueva), armadura completa, sabatons con polvo acumulado, pelo blanco-ceniza, alas plegadas. Dirección de mirada: hacia el suelo/punto de apoyo, coherente con el instante en que la costra va a romperse bajo su bota (los ojos ya abiertos desde el inicio de este plano, no hay indicación de que sigan cerrados).",
+        "estado_salida_previsto": "Miguel: la costra se ha roto bajo su bota; la arena cede hacia los lados dejando ver piedra tallada. Mano derecha: se mantiene apoyada contra el peto (sin causa que la retire en este plano). Mano izquierda: vacía, junto al costado izquierdo. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: sabatón con vidrio/arena removidos por el paso, peto sin cambio en su grieta. Dirección de mirada: hacia el punto donde la costra acaba de romperse, hacia el suelo.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "apoyada contra el peto agrietado, presionando el pecho (heredada de P05/P06, sin acción del guion que la retire)",
+            "mano_izquierda": "vacía, junto al costado izquierdo, oscilando con el paso"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); tapada además por la propia mano apoyada sobre el peto"
+          }
+        ],
+        "frame_final_descripcion": "Plano entero en contrapicado leve: la bota de Miguel ha roto la costra de la duna, la arena cede hacia los lados y queda expuesto el borde de piedra tallada; la mano derecha permanece apoyada contra el pecho tal como en los dos planos anteriores, la izquierda oscila junto al costado.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Salto de continuidad potencial: el guion no declara si la mano derecha (apoyada en el pecho desde P05) permanece ahí o vuelve al costado antes de este plano de cuerpo entero. Por la regla de herencia (nada cambia sin causa autorizada), debe mostrarse todavía en el pecho; si el generador la regresa por defecto al costado por tratarse de un plano de marcha, sería exactamente el tipo de salto que este agente existe para impedir. Requiere confirmación del autor sobre si la mano debía haber bajado ya en algún punto no descrito."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P08",
+      "orden": 8,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle (insert shot)",
+      "angulo": "Cenital leve / picado cerrado",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Dos dedos enguantados apoyados sobre la arena que cubre un bloque de piedra.",
+      "encuadre_final": "La arena apartada revela el borde cuadrado del primer bloque, y más allá, un segundo y un tercer bloque alineados.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel aparta la arena con dos dedos, descubriendo que la piedra está cortada, no fracturada: un camino enterrado.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P08",
+        "fuente_luz": "Sol casi en el cénit",
+        "direccion": "Prácticamente vertical; la única sombra dura se acumula en la línea de junta entre bloques, confirmando el corte recto y no una fractura",
+        "dureza": "Dura, concentrada en las juntas",
+        "color_temperatura": "Gris-piedra frío bajo luz blanca directa, sin el matiz cálido de la arena circundante",
+        "ambiente": "La sombra de la junta es el dato, no un efecto decorativo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P08",
+        "vfx_principal": "Arena desplazada por contacto directo de los dedos (no bota): aplicar el patrón causa→respuesta→resto — contacto de los dedos → la arena se aparta en un pequeño montículo lateral → queda expuesto el borde recto y regular de piedra tallada, distinto de un borde fracturado.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "Piedra de corte recto (cantería) bajo arena suelta y fina; el contraste entre el borde irregular de la arena desplazada y el borde recto de la piedra es lo que lee 'tallado, no fracturado'.",
+        "limitacion_conocida": "Distinguir un borde 'cortado' (trabajo de cantería) de uno 'fracturado' (roca natural) es una diferencia fina que la sola descripción textual puede no resolver; puede requerir una referencia visual del bloque tallado para asegurar la lectura."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P08",
+        "id_plano_anterior": "B1C01_S1_P07",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: picado cerrado sobre dos dedos enguantados de la mano izquierda apoyados sobre la arena que cubre un bloque de piedra; para que esta acción sea posible, Miguel debe estar ya agachado junto al camino (postura no mostrada explícitamente por el guion en la transición desde P07). Mano izquierda: dos dedos extendidos, apoyados sobre la arena. Mano derecha (fuera de encuadre): se hereda apoyada contra el peto, presionando el pecho, salvo que se autorice bajarla para permitir el descenso a cuclillas (no descrito por el guion; se mantiene por defecto salvo indicación contraria). Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, fuera de encuadre. Vestuario: guante oscuro visible en los dos dedos que aparta la arena; resto fuera de cuadro, sin cambio. Dirección de mirada: fuera de este encuadre cerrado; se infiere hacia abajo, hacia la arena y la piedra que está descubriendo.",
+        "estado_salida_previsto": "La arena apartada revela el borde cuadrado del primer bloque, y más allá, un segundo y un tercer bloque alineados. Mano izquierda: retirada de la arena, en la posición final del gesto de apartar (montículo lateral de arena desplazado, borde recto de piedra tallada expuesto). Mano derecha (fuera de encuadre): se hereda igual que en la entrada de este plano. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: sin cambio adicional. Dirección de mirada: hacia los bloques recién expuestos.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre; se hereda apoyada contra el peto, presionando el pecho, salvo autorización de bajarla para agacharse (ver incidencia)",
+            "mano_izquierda": "dos dedos extendidos sobre la arena, apartándola hasta exponer el borde recto y regular de la piedra tallada"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "fuera_de_encuadre / no visible en este insert"
+          }
+        ],
+        "frame_final_descripcion": "Plano detalle cenital leve: dos dedos enguantados de la mano izquierda de Miguel han apartado la arena en un pequeño montículo lateral, exponiendo el borde recto y regular de un bloque de piedra tallada (cantería), distinto de un borde fracturado; sombra dura acumulada en la línea de junta entre bloques.",
+        "cambios_autorizados": [
+          {
+            "campo": "pose_corporal",
+            "antes": "de pie, dando un paso sobre la duna (P07)",
+            "despues": "agachado junto al camino enterrado, con dos dedos de la mano izquierda extendidos hacia la arena",
+            "causa": "necesaria para la accion_principal 'Miguel aparta la arena con dos dedos'; el guion no describe el momento de agacharse, se infiere como transición obligatoria."
+          }
+        ],
+        "checklist_incidencias": [
+          "Salto de postura no explicitado entre P07 (de pie, apoyando la bota sobre la duna) y P08 (agachado, dos dedos en la arena): el guion no describe la transición a la postura agachada. Debe declararse expresamente como acción intermedia (aunque quede fuera de encuadre) antes de generar, o el generador puede producir una postura de entrada inconsistente con la de salida de P07.",
+          "Distinguir un borde 'cortado' (cantería) de uno 'fracturado' (roca natural) es una diferencia fina que la sola descripción textual puede no resolver; puede requerir una referencia visual del bloque tallado, según ya señala el propio vfx del plano."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P09",
+      "orden": 9,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos, agachado a su altura",
+      "movimiento_camara": "Panorámica horizontal (pan), siguiendo la mirada de Miguel a lo largo de la fila de bloques",
+      "encuadre_inicial": "Miguel agachado, mirando el primer bloque descubierto, en el borde izquierdo del cuadro.",
+      "encuadre_final": "El pan ha revelado la línea de bloques alejándose, recta, hacia el mismo horizonte al que él ya se dirigía.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel sigue con la mirada la hilera de piedra que corre recta hacia el horizonte.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P09",
+        "fuente_luz": "Sol alto, sin variación (plano fijo salvo el pan)",
+        "direccion": "Al recorrer con la cámara la fila de bloques, la sombra corta y regular de cada junta se repite hacia el horizonte, trazando la línea del camino",
+        "dureza": "Dura, uniforme",
+        "color_temperatura": "Blanco-gris estable a lo largo de todo el barrido",
+        "ambiente": "La repetición de la sombra en cada junta es la que dibuja la escala del hallazgo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P09",
+        "vfx_principal": "ninguno adicional — no hay nueva interacción física; el plano revela mediante el barrido de cámara (pan) la hilera ya expuesta en P07/P08.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "Continuidad de estado: los bloques deben conservar el mismo grado de exposición y la misma cantidad de arena residual que dejó P08, sin reaparecer completamente enterrados.",
+        "limitacion_conocida": "Riesgo de continuidad entre planos no consecutivos del mismo tramo (P08→P09): sin ficha de estado de entrada/salida (sección 'Continuidad' del documento 17), el generador puede reiniciar los bloques a 'recién enterrados' en vez de partir del estado que dejó el plano anterior."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P09",
+        "id_plano_anterior": "B1C01_S1_P08",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: agachado, mirando el primer bloque descubierto, en el borde izquierdo del cuadro (cámara a su altura). Mano izquierda: retirada de la arena tras el gesto de P08, apoyada sobre el muslo o la rodilla izquierda para mantener el equilibrio en cuclillas. Mano derecha: se hereda apoyada contra el peto, presionando el pecho. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, tapado por la mano derecha. Vestuario: mismo peto agrietado, arena residual en el guante de la mano izquierda por el gesto anterior, resto sin cambio. Dirección de mirada: fija en el primer bloque descubierto, a la izquierda del cuadro.",
+        "estado_salida_previsto": "El pan ha revelado la línea de bloques alejándose, recta, hacia el horizonte al que Miguel ya se dirigía. Miguel permanece agachado en su posición original mientras la cámara barre; su mano izquierda sigue apoyada en la rodilla/muslo, su mano derecha sigue en el pecho. Los bloques deben conservar el mismo grado de exposición y la misma arena residual que dejó P08, sin reaparecer completamente enterrados. Heridas visibles: sin cambio. Vestuario: sin cambio. Dirección de mirada: sigue con los ojos la hilera de bloques mientras la cámara realiza el pan.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "apoyada contra el peto agrietado, presionando el pecho (heredada, sin cambio)",
+            "mano_izquierda": "retirada de la arena, apoyada sobre el muslo o la rodilla izquierda para mantener el equilibrio en cuclillas, con arena residual en el guante"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); además tapada por la propia mano derecha"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio con panorámica horizontal: Miguel sigue agachado, mano derecha en el pecho, mano izquierda apoyada en la pierna; la hilera de bloques de piedra tallada corre recta hacia el horizonte, con sombra corta y regular repitiéndose en cada junta, conservando el mismo grado de exposición y arena residual que dejó el plano anterior.",
+        "cambios_autorizados": [
+          {
+            "campo": "mano_izquierda",
+            "antes": "dos dedos extendidos sobre la arena, apartándola",
+            "despues": "retirada de la arena, apoyada sobre el muslo/rodilla izquierda",
+            "causa": "la acción de apartar arena concluyó en P08; en P09 la acción principal es seguir con la mirada la hilera de bloques, no hay gesto activo de la mano descrito."
+          }
+        ],
+        "checklist_incidencias": [
+          "Riesgo de continuidad entre planos no consecutivos del mismo tramo (P08→P09), ya señalado en el propio vfx: sin ficha de estado de entrada/salida explícita, el generador puede reiniciar los bloques a 'recién enterrados' en vez de partir del estado de exposición que dejó P08; debe verificarse expresamente en la revisión del clip."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P10",
+      "orden": 10,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general, evolucionando a gran plano general",
+      "angulo": "Comienza a la altura de Miguel, termina elevado",
+      "movimiento_camara": "Grúa ascendente (crane up)",
+      "encuadre_inicial": "A la altura de Miguel, agachado sobre el camino recién descubierto.",
+      "encuadre_final": "Plano general elevado que muestra el trazado recto del camino enterrado perdiéndose bajo la arena hacia el horizonte.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La cámara se eleva mientras Miguel permanece agachado, revelando la escala del camino que atraviesa el desierto.",
+      "accion_fondo": "El calor sigue distorsionando el aire sobre la arena vidrificada, sin ocultar la línea del camino.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P10",
+        "fuente_luz": "Sol cenital, constante durante la grúa ascendente",
+        "direccion": "Se mantiene vertical, pero la bruma de calor entre el suelo y la cámara suaviza gradualmente el contraste de la línea del camino hacia el horizonte",
+        "dureza": "Dura cerca de Miguel; se ablanda por perspectiva aérea a distancia",
+        "color_temperatura": "Blanco cerca, vira a un gris-azulado difuso lejos, por efecto del propio calor",
+        "clima": "Calor ascendente ya señalado en la acción de fondo, ahora visible en toda su extensión al elevarse la cámara"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P10",
+        "vfx_principal": "ninguno de contacto directo nuevo — Miguel permanece agachado sin acción física adicional; el efecto es de revelación por movimiento de cámara (grúa ascendente).",
+        "vfx_fondo_simultaneo": "Reforzar el shimmer de calor sobre la arena vidrificada, calibrado para no tapar ni desdibujar la línea recta del camino: la nitidez del trazado tiene prioridad sobre la densidad del efecto atmosférico.",
+        "fisica_entorno": "Mismo comportamiento de aire caliente que P01/P04, ahora ocupando mucho más cuadro al tratarse de un plano general elevado.",
+        "limitacion_conocida": "A mayor escala de plano general el heat haze es más difícil de mantener sutil; riesgo de que el generador lo intensifique hasta velar el trazado del camino, contradiciendo la instrucción explícita de no ocultarlo."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P10",
+        "id_plano_anterior": "B1C01_S1_P09",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: a la altura de cámara al inicio (grúa comienza baja), agachado sobre el camino recién descubierto, en la misma posición heredada de P09. Mano derecha: apoyada contra el peto, presionando el pecho. Mano izquierda: apoyada sobre el muslo/rodilla izquierda, con arena residual en el guante. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, tapado por la mano derecha. Vestuario: sin cambio respecto a P09. Dirección de mirada: hacia el camino de piedra frente a él, hacia abajo.",
+        "estado_salida_previsto": "La cámara ha ascendido (grúa) hasta un plano general elevado que muestra el trazado recto del camino enterrado perdiéndose bajo la arena hacia el horizonte; Miguel permanece agachado en el mismo lugar y postura, ahora una figura relativamente pequeña dentro del plano general. Mano derecha: sin cambio, apoyada contra el peto. Mano izquierda: sin cambio, apoyada sobre la pierna. Heridas visibles: sin cambio, no visibles. Vestuario: sin cambio. Dirección de mirada: se mantiene hacia el camino, aunque a esta distancia de plano general ya no es claramente legible.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "apoyada contra el peto agrietado, presionando el pecho (sin cambio)",
+            "mano_izquierda": "apoyada sobre el muslo/rodilla izquierda, con arena residual en el guante (sin cambio)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); tapada por la mano derecha"
+          }
+        ],
+        "frame_final_descripcion": "Grúa ascendente hasta un plano general elevado: Miguel, aún agachado en el mismo punto, queda como una figura relativamente pequeña junto al trazado recto del camino enterrado que se pierde bajo la arena hacia el horizonte; el shimmer de calor se mantiene calibrado para no ocultar la línea del camino.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "A mayor escala de plano general el heat haze es más difícil de mantener sutil (riesgo ya señalado en vfx); verificar que no vele el trazado del camino, que es el punto narrativo de este plano."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P11",
+      "orden": 11,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general fijo (locked-off wide shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Miguel, aún agachado, ocupa el tercio izquierdo; el camino se extiende a la derecha.",
+      "encuadre_final": "Mismo encuadre; Miguel permanece inmóvil, absorbido por lo que ve.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel se queda mirando el camino, comprendiendo que un reino existió aquí antes de la Caída.",
+      "accion_fondo": "El viento levanta un velo fino de polvo sobre las líneas de piedra visibles, sin cubrirlas del todo.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P11",
+        "fuente_luz": "Sol cenital-frontal, plano fijo",
+        "direccion": "Constante sobre Miguel y el camino a su derecha",
+        "dureza": "Dura",
+        "color_temperatura": "Blanco-gris, ligeramente atenuado donde el polvo queda en suspensión",
+        "clima": "El viento levanta un velo fino sobre las líneas de piedra (ya en la acción de fondo) que reduce el contraste local sin ocultarlas"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P11",
+        "vfx_principal": "ninguno de contacto directo — Miguel está inmóvil, sin nueva interacción física con el entorno.",
+        "vfx_fondo_simultaneo": "Velo fino de polvo levantado por el viento sobre las líneas de piedra: se origina en la arena suelta entre las juntas de los bloques, se desplaza a baja altura y nunca cubre por completo el trazado — coherente con la dirección de viento fijada en P02.",
+        "fisica_entorno": "Polvo residual suelto entre juntas de los bloques, sensible al viento sostenido ya establecido en la escena.",
+        "limitacion_conocida": "Mantener la misma dirección de viento que P02/P14 ('de derecha a izquierda') en un plano generado por separado no está garantizado por el modelo; mismo riesgo de raccord que en P02↔P14."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P11",
+        "id_plano_anterior": "B1C01_S1_P10",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: aún agachado, ocupa el tercio izquierdo del cuadro; el camino se extiende a la derecha. Mano derecha: apoyada contra el peto, presionando el pecho. Mano izquierda: apoyada sobre el muslo/rodilla izquierda. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, tapado por la mano derecha. Vestuario: sin cambio respecto a P10. Dirección de mirada: hacia el camino de piedra a su derecha.",
+        "estado_salida_previsto": "Miguel permanece inmóvil, absorbido por lo que ve; mismo encuadre, sin cambio de posición corporal. Mano derecha: sin cambio, apoyada contra el peto. Mano izquierda: sin cambio, apoyada sobre la pierna. Heridas visibles: sin cambio, no visibles. Vestuario: sin cambio. Dirección de mirada: sigue fija en el camino, comprendiendo que un reino existió aquí antes de la Caída.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "apoyada contra el peto agrietado, presionando el pecho (sin cambio)",
+            "mano_izquierda": "apoyada sobre el muslo/rodilla izquierda (sin cambio)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); tapada por la mano derecha"
+          }
+        ],
+        "frame_final_descripcion": "Plano general fijo: Miguel, agachado e inmóvil en el tercio izquierdo, con el camino de piedra extendiéndose a su derecha; un velo fino de polvo levantado por el viento —coherente con la dirección fijada en P02— cruza las líneas de piedra sin cubrirlas del todo.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Mantener la misma dirección de viento que P02/P14 ('de derecha a izquierda') en un plano generado por separado no está garantizado por el modelo; mismo riesgo de raccord ya señalado en el vfx del plano."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P12",
+      "orden": 12,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio, con detalle en la mano",
+      "angulo": "Altura de ojos, ligeramente lateral",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Miguel de perfil, agachado; su mano permanece apoyada cerca del pecho.",
+      "encuadre_final": "Mismo encuadre; no hay cambio de posición, solo el paso del instante.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El dolor bajo su esternón responde a la piedra con un latido bajo, casi cómplice; Miguel no aparta la mano.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P12",
+        "fuente_luz": "Sol alto",
+        "direccion": "Luz dura frontal-lateral que marca el perfil del guantelete apoyado junto al pecho, con sombra corta y definida bajo la mano",
+        "dureza": "Dura",
+        "color_temperatura": "Metal frío del guantelete contra la calidez sucia del peto agrietado",
+        "ambiente": "Quietud; la luz no cambia, solo el cuerpo permanece inmóvil bajo ella"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P12",
+        "vfx_principal": "ninguno de física de entorno — el 'latido' que responde a la piedra es una sensación interna del personaje, no un efecto visible sobre el entorno; no debe traducirse en brillo, pulso luminoso ni partícula alguna salvo decisión expresa del autor.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "No aplica — plano centrado en el personaje, sin contacto nuevo con el entorno.",
+        "limitacion_conocida": "Riesgo de sobreinterpretación: el generador podría añadir un efecto visual (brillo en el pecho o en la piedra) para ilustrar el 'latido cómplice' descrito en el texto, lo que excede la acción física real y debe evitarse si no lo pide el guion."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P12",
+        "id_plano_anterior": "B1C01_S1_P11",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de perfil, agachado; su mano derecha permanece apoyada cerca del pecho, tal como lo confirma explícitamente el guion. Mano izquierda: apoyada sobre el muslo/rodilla izquierda. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, tapado por la mano derecha; responde con un latido bajo a la piedra (sensación interna, sin efecto visual). Vestuario: sin cambio respecto a P11. Dirección de mirada: hacia el camino/piedra, sin variación indicada.",
+        "estado_salida_previsto": "Mismo encuadre; no hay cambio de posición, solo el paso del instante. Mano derecha: sin cambio, apoyada cerca del pecho — Miguel no la aparta, confirmado por el guion. Mano izquierda: sin cambio. Heridas visibles: sin cambio, no visibles; ningún brillo, pulso luminoso ni partícula debe añadirse a pesar del 'latido cómplice' descrito, salvo decisión expresa del autor. Vestuario: sin cambio. Dirección de mirada: sin cambio.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "apoyada cerca del pecho (confirmado explícitamente: 'Miguel no aparta la mano')",
+            "mano_izquierda": "apoyada sobre el muslo/rodilla izquierda (sin cambio)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física; responde con un latido bajo a la piedra (sensación interna, sin efecto visual autorizado)",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); tapada por la mano derecha"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio de perfil, con detalle en la mano derecha de Miguel apoyada junto al pecho; luz dura frontal-lateral marca el perfil del guantelete contra el peto agrietado; ningún efecto visual (brillo, pulso) se añade sobre el pecho o la piedra pese al 'latido cómplice' narrado.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Riesgo de sobreinterpretación ya señalado en el vfx: el generador podría añadir un brillo o pulso luminoso para ilustrar el 'latido cómplice' descrito en el texto; esto excede la acción física real y debe evitarse si no lo pide expresamente el guion."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P13",
+      "orden": 13,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Travelling de retroceso (pull-back / backward tracking), la cámara retrocede mientras Miguel avanza hacia ella",
+      "encuadre_inicial": "Miguel se incorpora del todo, de cara a la cámara, el camino enterrado a su espalda.",
+      "encuadre_final": "Miguel ha avanzado unos pasos sin volver a mirar atrás; el camino queda fuera de cuadro.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel se pone de pie, no vuelve a mirar el camino y retoma la marcha.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P13",
+        "fuente_luz": "Mismo sol, fijo en coordenadas de mundo, no en pantalla",
+        "direccion": "Al quedar Miguel de cara a cámara con el camino a su espalda, el sol cenital-frontal roza ahora la coronilla y los hombros, dejando el rostro en una sombra algo más plana que en los planos frontales previos",
+        "dureza": "Dura arriba, más plana en el rostro",
+        "color_temperatura": "Contraluz suave sobre el pelo ceniza; menor contraste directo en el rostro",
+        "ambiente": "El propio raccord de luz marca que se aleja de algo, no solo su gesto"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P13",
+        "vfx_principal": "ninguno especificado en este plano — no se describe apoyo de bota ni levantamiento de polvo; es un plano de trayectoria de cámara (pull-back), no de contacto con el material del suelo.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "Si se buscara coherencia con el resto de la escena, el vidrio bajo sus pasos podría astillarse levemente como en P03, pero la acción no lo pide explícitamente — no debe inventarse el efecto.",
+        "limitacion_conocida": "Ninguna específica de física de entorno; el reto de este plano es de sincronía de cámara (pull-back igualando el avance de Miguel), fuera del alcance de este agente."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P13",
+        "id_plano_anterior": "B1C01_S1_P12",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: agachado, heredado de P12, mano derecha apoyada cerca del pecho, mano izquierda apoyada sobre la pierna, mirada hacia el camino de piedra. Comienza a incorporarse; encuadre inicial: de cara a la cámara, el camino enterrado a su espalda. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: sin cambio respecto a P12. Dirección de mirada: al iniciar el plano, aún dirigida hacia el camino a su espalda mientras se incorpora.",
+        "estado_salida_previsto": "Miguel se ha puesto de pie del todo; ha avanzado unos pasos sin volver a mirar atrás; el camino queda fuera de cuadro. Mano derecha: desciende del pecho y queda junto al costado derecho, oscilando con el paso al retomar la marcha. Mano izquierda: junto al costado izquierdo, oscilando con el paso (ya estaba libre desde P09). Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: sin cambio — peto agrietado, sabatons, alas plegadas, pelo blanco-ceniza. Dirección de mirada: al frente, decidido, sin volver a mirar el camino descubierto.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "desciende de la posición apoyada en el pecho a oscilar junto al costado derecho con el paso",
+            "mano_izquierda": "oscilando junto al costado izquierdo con el paso"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); ya no tapada por la mano, que ha bajado"
+          }
+        ],
+        "frame_final_descripcion": "Travelling de retroceso: Miguel, ya de pie, avanza hacia la cámara con la mano derecha de vuelta junto al costado; no vuelve a mirar el camino que queda fuera de cuadro; contraluz suave sobre el pelo ceniza al quedar el sol tras él.",
+        "cambios_autorizados": [
+          {
+            "campo": "pose_corporal",
+            "antes": "agachado",
+            "despues": "de pie, retomando la marcha",
+            "causa": "accion_principal: 'Miguel se pone de pie, no vuelve a mirar el camino y retoma la marcha'."
+          },
+          {
+            "campo": "mano_derecha",
+            "antes": "apoyada cerca del pecho",
+            "despues": "junto al costado derecho, oscilando con el paso",
+            "causa": "se incorpora y retoma la marcha; el gesto de contacto con el pecho concluye al no haber ya causa narrativa que lo sostenga en este instante."
+          },
+          {
+            "campo": "dirección de mirada",
+            "antes": "hacia el camino de piedra enterrado",
+            "despues": "al frente, sin mirar atrás",
+            "causa": "accion_principal explícita: 'no vuelve a mirar el camino'."
+          }
+        ],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P14",
+      "orden": 14,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano entero (full shot)",
+      "angulo": "Altura baja, eye-level bajo",
+      "movimiento_camara": "Travelling lateral (truck), acompañando de nuevo su avance",
+      "encuadre_inicial": "Miguel de perfil, cuerpo completo, retomando la marcha sobre el vidrio negro.",
+      "encuadre_final": "Mismo tamaño de plano; ha recorrido un nuevo tramo del desierto sin variación de paisaje.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel continúa la marcha; el dolor bajo el esternón, antes un latido sordo, ahora tira en una dirección con autoridad.",
+      "accion_fondo": "El polvo sigue derivando en la misma dirección establecida en el plano 2, manteniendo el raccord del viento.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P14",
+        "fuente_luz": "Sol alto, mismo esquema que el plano 2 (raccord de recorrido)",
+        "direccion": "Cenital-frontal sobre hombros; reflejo ascendente del vidrio en sabatons y parte baja del cuerpo",
+        "dureza": "Dura arriba, reflejo puntual abajo, igual que en el plano 2",
+        "color_temperatura": "Blanco-amarillo arriba, tinte ambarino-ahumado en el reflejo del suelo",
+        "clima": "El polvo deriva en la misma dirección fijada en el plano 2, sosteniendo el raccord de viento"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P14",
+        "vfx_principal": "Reanudación del contacto bota-vidrio de P02: misma escala de fricción bajo el peso de la armadura al reanudar la marcha, sin nueva fractura salvo que se busque continuidad con el vidrio ya astillado en el tramo cruzado en P03.",
+        "vfx_fondo_simultaneo": "EXPLÍCITO en guion: el velo de polvo debe mantener idéntica dirección (derecha a izquierda, establecida en P02) y densidad similar — es el caso de raccord de fondo más señalado de toda la secuencia.",
+        "fisica_entorno": "Viento constante, misma velocidad y dirección que en P02.",
+        "limitacion_conocida": "Punto de mayor riesgo de continuidad de toda la escena: el guion exige igualar explícitamente un efecto de fondo generado en un plano no adyacente (P02); sin fijar referencia visual compartida entre ambas generaciones, el modelo no garantiza igual dirección ni densidad de polvo."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P14",
+        "id_plano_anterior": "B1C01_S1_P13",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: de perfil, cuerpo completo, retomando la marcha sobre el vidrio negro, heredado de P13. Mano derecha: junto al costado derecho, oscilando con el paso. Mano izquierda: junto al costado izquierdo, oscilando con el paso. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible; ahora 'tira en una dirección con autoridad' (sensación interna). Vestuario: peto agrietado sin cambio, sabatons sobre el vidrio negro, alas plegadas, pelo blanco-ceniza. Dirección de mirada: al frente, en la dirección de marcha.",
+        "estado_salida_previsto": "Miguel ha recorrido un nuevo tramo del desierto sin variación de paisaje, mismo tamaño de plano por el travelling lateral. Mano derecha: sin cambio, oscilando junto al costado. Mano izquierda: sin cambio, oscilando junto al costado. Heridas visibles: sin cambio, no visibles. Vestuario: sabatón con fricción leve contra el vidrio, misma escala que en P02, sin fractura nueva salvo la ya generada al cruzar el tramo. Dirección de mirada: sin cambio, al frente. El polvo debe seguir derivando en la misma dirección fijada en P02 (derecha a izquierda), sosteniendo el raccord de viento.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, oscilando junto al costado derecho con el paso",
+            "mano_izquierda": "vacía, oscilando junto al costado izquierdo con el paso"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física; el tirón ahora tiene dirección y autoridad",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física)"
+          }
+        ],
+        "frame_final_descripcion": "Plano entero, travelling lateral: Miguel de perfil, cuerpo completo, retoma la marcha con ambas manos vacías junto al cuerpo; el velo de polvo mantiene idéntica dirección (derecha a izquierda) y densidad similar a la fijada en P02, con el mismo esquema de reflejo ambarino-ahumado del vidrio en la parte baja del cuerpo.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Punto de mayor riesgo de continuidad de toda la escena, ya señalado en el propio vfx: el guion exige igualar explícitamente un efecto de fondo generado en un plano no adyacente (P02); sin fijar referencia visual compartida entre ambas generaciones, el modelo no garantiza igual dirección ni densidad de polvo. Verificar en la revisión del clip, no dar por hecho el raccord."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P15",
+      "orden": 15,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Miguel camina hacia cámara, rostro y torso visibles.",
+      "encuadre_final": "Se ha detenido en seco; la mano ha vuelto a subir hasta el pecho.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel se detiene, reconociendo en el tirón la misma certeza de la Palabra Divina, del mando verdadero.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P15",
+        "fuente_luz": "Sol alto, consistente con los planos 4 y 6",
+        "direccion": "Frontal-alta; la sombra bajo el mentón se acentúa en el instante en que se detiene en seco y la mano sube de nuevo al pecho",
+        "dureza": "Dura",
+        "color_temperatura": "Blanco duro, sin variación respecto a los primeros primeros planos de la secuencia",
+        "ambiente": "La luz no reacciona al gesto; solo lo expone con más nitidez al detenerse"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P15",
+        "vfx_principal": "ninguno de física de entorno — el frenado en seco es acción corporal del personaje; el suelo queda fuera de encuadre en este MCU y el guion no pide levantamiento de polvo por el frenado.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "No aplica — suelo fuera de encuadre.",
+        "limitacion_conocida": "Ninguna relevante; riesgo bajo, el plano no incluye el punto de contacto con el suelo."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P15",
+        "id_plano_anterior": "B1C01_S1_P14",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: camina hacia cámara, rostro y torso visibles, heredado de P14. Mano derecha: junto al costado derecho, oscilando con el paso. Mano izquierda: junto al costado izquierdo, oscilando con el paso. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: peto agrietado sin cambio, resto sin cambio. Dirección de mirada: al frente, hacia cámara, en la dirección de marcha.",
+        "estado_salida_previsto": "Miguel se ha detenido en seco; la mano ha vuelto a subir hasta el pecho. Mano derecha: apoyada de nuevo contra el peto agrietado, a la altura del esternón. Mano izquierda: sin cambio, junto al costado izquierdo, ahora inmóvil (ya no oscila porque Miguel se ha detenido). Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, reconocido ahora como la misma certeza de la Palabra Divina. Vestuario: sin cambio. Dirección de mirada: al frente, fija, en el instante de reconocimiento.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "sube de nuevo desde el costado hasta apoyarse contra el peto agrietado, a la altura del esternón",
+            "mano_izquierda": "junto al costado izquierdo, inmóvil tras detenerse"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física; reconocido en este plano como la certeza del mando verdadero",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); tapada de nuevo por la mano derecha que sube"
+          }
+        ],
+        "frame_final_descripcion": "Plano medio corto: Miguel se ha detenido en seco, mirada fija al frente, mano derecha de vuelta contra el peto agrietado a la altura del esternón; sombra bajo el mentón acentuada por la luz dura frontal-alta en el instante de la parada.",
+        "cambios_autorizados": [
+          {
+            "campo": "mano_derecha",
+            "antes": "junto al costado derecho, oscilando con el paso",
+            "despues": "apoyada de nuevo contra el peto agrietado",
+            "causa": "accion_principal: Miguel reconoce en el tirón 'la misma certeza de la Palabra Divina, del mando verdadero' y sube la mano de nuevo."
+          },
+          {
+            "campo": "marcha/pose",
+            "antes": "caminando",
+            "despues": "detenido en seco",
+            "causa": "accion_principal explícita."
+          }
+        ],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P16",
+      "orden": 16,
+      "duracion_seg": 8,
+      "tipo_plano": "Primerísimo primer plano (extreme close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Solo los ojos y el puente de la nariz llenan el cuadro; los ojos permanecen abiertos.",
+      "encuadre_final": "Mismo encuadre exacto; los párpados terminan de cerrarse.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel cierra los ojos un momento, deteniéndose ante el peso de esa certeza que lo aterra.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P16",
+        "fuente_luz": "Sol alto, mismo esquema que P06 pero con encuadre más cerrado",
+        "direccion": "La sombra de las pestañas se define con un borde muy nítido contra el iris antes de que los párpados se cierren",
+        "dureza": "Dura, al límite de lo legible en un encuadre tan cerrado",
+        "color_temperatura": "Blanco extremo; el brillo azul se apaga por completo al cerrar los ojos",
+        "ambiente": "El primerísimo plano deja la luz dura como único testigo del miedo contenido"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P16",
+        "vfx_principal": "ninguno.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "No aplica — plano cerrado en los ojos, sin entorno visible.",
+        "limitacion_conocida": "Ninguna."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P16",
+        "id_plano_anterior": "B1C01_S1_P15",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: solo los ojos y el puente de la nariz llenan el cuadro; ojos abiertos. Mano derecha (fuera de encuadre): se hereda apoyada contra el peto, presionando el pecho, heredada de P15. Mano izquierda (fuera de encuadre): junto al costado izquierdo, inmóvil (Miguel está detenido). Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, fuera de encuadre. Vestuario: fuera de encuadre. Dirección de mirada: al frente, ojos abiertos.",
+        "estado_salida_previsto": "Mismo encuadre exacto; los párpados terminan de cerrarse. Mano derecha (fuera de encuadre): sin cambio, apoyada contra el peto. Mano izquierda (fuera de encuadre): sin cambio, junto al costado izquierdo. Heridas visibles: sin cambio, no visibles. Vestuario: sin cambio. Dirección de mirada: ojos cerrados, deteniéndose ante el peso de la certeza que lo aterra.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre; se hereda apoyada contra el peto agrietado, presionando el pecho",
+            "mano_izquierda": "fuera de encuadre; se hereda junto al costado izquierdo, inmóvil"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "fuera_de_encuadre / no visible (plano cerrado en los ojos)"
+          }
+        ],
+        "frame_final_descripcion": "Primerísimo primer plano, solo ojos y puente de la nariz: los párpados terminan de cerrarse; la sombra de las pestañas se define con borde nítido justo antes del cierre; luz dura como único testigo del miedo contenido.",
+        "cambios_autorizados": [
+          {
+            "campo": "ojos/párpados",
+            "antes": "abiertos",
+            "despues": "cerrados",
+            "causa": "accion_principal: Miguel cierra los ojos un momento ante el peso de la certeza que lo aterra."
+          }
+        ],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P17",
+      "orden": 17,
+      "duracion_seg": 8,
+      "tipo_plano": "Primerísimo primer plano (extreme close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo, mismo encuadre que el plano anterior (raccord de continuidad)",
+      "encuadre_inicial": "Los ojos cerrados, idéntico encuadre al cierre del plano 16.",
+      "encuadre_final": "Los párpados se abren; el brillo azul tenue vuelve a ser visible.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel abre los ojos; su cuerpo ya se ha girado hacia el tirón antes de que su mente termine de consentirlo.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P17",
+        "fuente_luz": "Sol alto, idéntico al plano 16 (raccord de encuadre exacto)",
+        "direccion": "La misma luz dura frontal-alta; al abrir los párpados, el brillo azul reaparece primero como un destello puntual antes de estabilizarse",
+        "dureza": "Dura, sin cambio respecto al plano anterior",
+        "color_temperatura": "Blanco duro constante, con la reaparición del tono azul en los ojos",
+        "ambiente": "El regreso del azul es el único elemento que se mueve dentro de una luz que no cambia"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P17",
+        "vfx_principal": "ninguno de física de entorno.",
+        "vfx_fondo_simultaneo": "ninguno.",
+        "fisica_entorno": "No aplica — mismo encuadre cerrado que P16 (raccord de continuidad de cámara/rostro, no de entorno).",
+        "limitacion_conocida": "El raccord exacto entre P16 y P17 es continuidad de cámara/rostro; señalar que ningún elemento de fondo o partícula debe introducirse entre ambos fotogramas fijos, para no romper el 'mismo encuadre exacto' que pide el guion."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P17",
+        "id_plano_anterior": "B1C01_S1_P16",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: los ojos cerrados, encuadre idéntico al cierre de P16 (raccord de continuidad de cámara/rostro exacto). Mano derecha (fuera de encuadre): se hereda apoyada contra el peto, presionando el pecho. Mano izquierda (fuera de encuadre): junto al costado izquierdo, inmóvil. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, fuera de encuadre. Vestuario: fuera de encuadre, sin cambio. Dirección de mirada: ojos cerrados.",
+        "estado_salida_previsto": "Los párpados se abren; el brillo azul tenue vuelve a ser visible. El guion declara además que 'su cuerpo ya se ha girado hacia el tirón antes de que su mente termine de consentirlo': esto implica un cambio de orientación corporal que este plano, cerrado en los ojos, no puede mostrar directamente, pero que debe quedar registrado como hecho de estado para el plano siguiente. Mano derecha (fuera de encuadre): se hereda sin cambio, apoyada contra el peto. Mano izquierda (fuera de encuadre): sin cambio, junto al costado izquierdo. Heridas visibles: sin cambio, no visibles. Vestuario: sin cambio. Dirección de mirada: ojos abiertos, brillo azul reaparece como destello puntual antes de estabilizarse; el objetivo de la mirada empieza a desplazarse acorde al giro corporal ya iniciado.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre; se hereda apoyada contra el peto agrietado, presionando el pecho",
+            "mano_izquierda": "fuera de encuadre; se hereda junto al costado izquierdo, inmóvil"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "fuera_de_encuadre / no visible"
+          }
+        ],
+        "frame_final_descripcion": "Primerísimo primer plano, mismo encuadre exacto que el cierre de P16: los párpados se abren y el brillo azul apagado reaparece como destello puntual antes de estabilizarse; ningún elemento de fondo o partícula se introduce entre ambos fotogramas fijos.",
+        "cambios_autorizados": [
+          {
+            "campo": "ojos/párpados",
+            "antes": "cerrados",
+            "despues": "abiertos",
+            "causa": "accion_principal: Miguel abre los ojos."
+          },
+          {
+            "campo": "orientación corporal (declarada, no visible en este encuadre)",
+            "antes": "de cara en la dirección de marcha previa a P15",
+            "despues": "cuerpo ya girándose hacia el tirón, con un grado de giro impreciso (ver incidencia)",
+            "causa": "accion_principal explícita: 'su cuerpo ya se ha girado hacia el tirón antes de que su mente termine de consentirlo'."
+          }
+        ],
+        "checklist_incidencias": [
+          "Contradicción de grado en el giro corporal entre planos: la accion_principal de P17 afirma que el cuerpo 'ya se ha girado' hacia el tirón (giro que se lee como sustancialmente avanzado o completo), pero el encuadre_inicial de P18 muestra a Miguel 'a medio girar hacia la nueva dirección', y solo al final del arco de cámara queda 'orientado por completo'. Hay un desajuste de grado entre el estado de salida implícito de P17 y el estado de entrada declarado de P18. Requiere que el autor decida y fije un único grado de giro en la frontera P17→P18 antes de generar (por ejemplo, reformular P17 a 'el cuerpo ha empezado a girarse' para que coincida con el medio giro inicial de P18)."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P18",
+      "orden": 18,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Arco / órbita (arc/orbit shot) corto alrededor de Miguel",
+      "encuadre_inicial": "La cámara comienza de frente a Miguel, a medio girar hacia la nueva dirección.",
+      "encuadre_final": "El arco termina mostrándolo de perfil, ya orientado por completo hacia el tirón; el camino enterrado queda atrás, fuera de foco.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel completa el giro de su cuerpo hacia la dirección del llamado.",
+      "accion_fondo": "El camino de piedra recién descubierto queda desenfocado al fondo, aún reconocible.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P18",
+        "fuente_luz": "Sol alto, fijo en el mundo; el orbe de cámara lo revela desde ángulos distintos",
+        "direccion": "La luz que hasta ahora caía frontal pasa a definir un filo de contraluz sobre el hombro que queda hacia el sol al completar el giro; el lado opuesto del cuerpo pierde detalle",
+        "dureza": "Dura, ahora como rim light en el borde del hombro",
+        "color_temperatura": "Blanco duro concentrado en el filo de contorno; el resto del cuerpo relativamente más oscuro",
+        "ambiente": "El cambio de rol de la misma fuente —de key a contraluz— es el que marca visualmente el giro hacia el tirón"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P18",
+        "vfx_principal": "ninguno de contacto directo nuevo — el giro es corporal sobre un pivote, con desplazamiento mínimo de material bajo el talón de apoyo, coherente con el suelo vidrio/arena ya establecido.",
+        "vfx_fondo_simultaneo": "El camino de piedra permanece visible pero desenfocado durante todo el arco de cámara: mantener la profundidad de campo constante mientras orbita, sin que el camino pase de nítido a borroso entre fotogramas del mismo plano.",
+        "fisica_entorno": "Posible desplazamiento leve de polvo/arena bajo el pie de apoyo al pivotar, de magnitud menor a la de un paso completo.",
+        "limitacion_conocida": "Los movimientos de cámara tipo arco/órbita son, según la guía de Google citada en el documento 17, un recurso de profundidad de campo distinto del cambio de foco; riesgo documentado de que el generador funda ambos efectos y el camino de fondo se pierda o se vuelva ilegible antes de lo previsto."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P18",
+        "id_plano_anterior": "B1C01_S1_P17",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: la cámara comienza de frente a él, a medio girar hacia la nueva dirección (grado de giro que debe conciliarse con el estado declarado al cierre de P17, ver incidencia asociada). Mano derecha: se hereda apoyada contra el peto, presionando el pecho; el guion no describe ninguna acción de la mano durante el giro. Mano izquierda: junto al costado izquierdo, inmóvil. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible, tapado por la mano derecha. Vestuario: sin cambio; el camino de piedra recién descubierto es visible pero desenfocado al fondo. Dirección de mirada: orientándose hacia la nueva dirección del llamado, a mitad del giro.",
+        "estado_salida_previsto": "El arco de cámara termina mostrando a Miguel de perfil, ya orientado por completo hacia el tirón; el camino enterrado queda atrás, fuera de foco. Mano derecha: sin cambio, apoyada contra el peto (no se describe que la baje durante el giro). Mano izquierda: sin cambio, junto al costado izquierdo. Heridas visibles: sin cambio, no visibles. Vestuario: sin cambio; posible desplazamiento leve de polvo/arena bajo el pie de apoyo al pivotar. Dirección de mirada: completamente orientada hacia la nueva dirección, de perfil.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "apoyada contra el peto agrietado, presionando el pecho (sin cambio durante el giro; ver incidencia sobre cuándo debe bajar)",
+            "mano_izquierda": "junto al costado izquierdo, inmóvil (sin cambio)"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física); tapada por la mano derecha"
+          }
+        ],
+        "frame_final_descripcion": "Arco de cámara alrededor de Miguel: termina mostrándolo de perfil, orientado por completo hacia la nueva dirección, con la mano derecha aún apoyada contra el pecho; el camino de piedra permanece visible pero desenfocado al fondo, con profundidad de campo constante durante todo el arco.",
+        "cambios_autorizados": [
+          {
+            "campo": "orientación corporal",
+            "antes": "a medio girar (heredado de P17, con la contradicción de grado señalada)",
+            "despues": "orientado por completo, de perfil, hacia la nueva dirección",
+            "causa": "accion_principal: 'Miguel completa el giro de su cuerpo hacia la dirección del llamado', reforzado por el movimiento de cámara en arco."
+          }
+        ],
+        "checklist_incidencias": [
+          "Los movimientos de cámara tipo arco/órbita son, según la guía citada en el documento 17, un recurso de profundidad de campo distinto del cambio de foco; riesgo de que el generador funda ambos efectos y el camino de fondo se pierda o se vuelva ilegible antes de lo previsto (ya señalado en el vfx del plano)."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S1_P19",
+      "orden": 19,
+      "duracion_seg": 8,
+      "tipo_plano": "Gran plano general (extreme wide shot)",
+      "angulo": "Ligeramente elevado / picado leve, simetría con el plano 1",
+      "movimiento_camara": "Plano fijo con leve retroceso (pull-back), cerrando la secuencia",
+      "encuadre_inicial": "Miguel, ya orientado en la nueva dirección, comienza a caminar; figura pequeña contra el desierto vidrificado.",
+      "encuadre_final": "La figura se aleja hacia el horizonte en la nueva dirección; el encuadre general repite la composición del plano de apertura.",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel reanuda la marcha, ahora guiado por el tirón, alejándose entre las láminas de vidrio negro del desierto.",
+      "accion_fondo": "El calor sigue ascendiendo del suelo, distorsionando el horizonte tras él, igual que en el plano inicial.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P19",
+        "fuente_luz": "Sol alto, mismo astro fijo de toda la secuencia, ahora Miguel encara la nueva dirección",
+        "direccion": "Cenital con el componente frontal desplazado al costado opuesto respecto al plano 1, coherente con el giro de cuerpo del plano anterior",
+        "dureza": "Dura, simétrica al plano de apertura",
+        "color_temperatura": "Blanco-amarillento intenso, igual que en el plano 1, con el mismo brillo reflejado en el vidrio",
+        "clima": "El calor ascendente vuelve a distorsionar el horizonte tras él, cerrando el raccord climático de toda la secuencia",
+        "ambiente": "Composición y luz repiten el plano inicial a propósito: mismo desierto, nuevo rumbo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P19",
+        "vfx_principal": "ninguno de contacto directo nuevo — misma escala diminuta de Miguel que en P01.",
+        "vfx_fondo_simultaneo": "Shimmer de calor idéntico en comportamiento al de P01 (misma densidad, velocidad de distorsión y anclaje al suelo), ya que el guion pide explícitamente simetría compositiva con el plano de apertura.",
+        "fisica_entorno": "Igual que P01: calor irradiado por el vidrio negro, shimmer anclado a la superficie, disipándose con la altura.",
+        "limitacion_conocida": "Caso de raccord explícito con un plano no adyacente (P01↔P19), agravado por tratarse de apertura y cierre que el guion pide 'iguales'; mismo riesgo de inconsistencia entre generaciones independientes señalado en P02↔P14, sin mecanismo del documento 17 para garantizarlo sin referencia compartida."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P19",
+        "id_plano_anterior": "B1C01_S1_P18",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: ya orientado en la nueva dirección (heredado del cierre de P18), comienza a caminar; figura pequeña contra el desierto vidrificado, simetría compositiva con P01. Mano derecha: se hereda apoyada contra el peto desde P15–P18; el guion no declara expresamente cuándo baja, pero la accion_principal de este plano ('reanuda la marcha') y la simetría explícita pedida con P01 (donde ambas manos oscilan libres) exigen que haya bajado ya al costado antes de iniciar la marcha. Mano izquierda: junto al costado izquierdo, retomando la oscilación de la marcha. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: peto agrietado sin cambio, sabatons, alas plegadas, pelo blanco-ceniza; mismo esquema visual que P01. Dirección de mirada: al frente, en la nueva dirección del llamado.",
+        "estado_salida_previsto": "La figura se aleja hacia el horizonte en la nueva dirección; el encuadre general repite la composición del plano de apertura. Mano derecha: junto al costado derecho, oscilando con el paso, igual que en P01. Mano izquierda: junto al costado izquierdo, oscilando con el paso. Heridas visibles: ninguna física; hueco frío bajo el esternón, no visible. Vestuario: sin cambio, mismo esquema que P01. Dirección de mirada: al frente, alejándose en la nueva dirección.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "desciende de la posición apoyada en el pecho (heredada de P15–P18) a oscilar junto al costado derecho con el paso, replicando la composición de manos libres de P01",
+            "mano_izquierda": "vacía, oscilando junto al costado izquierdo con el paso"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco frío del tamaño de un puño bajo el esternón — herida metafísica, no física",
+            "lado": "centro del pecho, bajo el esternón",
+            "visibilidad": "no visible (sin marca física)"
+          }
+        ],
+        "frame_final_descripcion": "Gran plano general con leve pull-back, simétrico al plano de apertura: Miguel, figura pequeña, se aleja hacia el horizonte en la nueva dirección, ambas manos oscilando libres junto al cuerpo; el mismo shimmer de calor de P01 distorsiona el horizonte tras él, cerrando el raccord climático y compositivo de toda la secuencia.",
+        "cambios_autorizados": [
+          {
+            "campo": "mano_derecha",
+            "antes": "apoyada contra el peto agrietado, presionando el pecho (heredada de P15–P18, sin bajada explícita en el guion)",
+            "despues": "junto al costado derecho, oscilando con la marcha, replicando la composición de manos libres del plano 1",
+            "causa": "accion_principal: 'Miguel reanuda la marcha', combinado con la simetría compositiva explícita que el guion pide respecto al plano de apertura (donde ambas manos están libres junto al cuerpo)."
+          }
+        ],
+        "checklist_incidencias": [
+          "El guion no declara en ningún plano intermedio (P18) el descenso de la mano derecha desde el pecho; sin ese cambio explícito, P19 podría generarse por error todavía con la mano pegada al pecho mientras camina, rompiendo la simetría compositiva pedida con P01. Este agente ha insertado el cambio como inferencia razonable a partir de la accion_principal y de la simetría explícita del guion, pero debe confirmarse con el autor antes de generar.",
+          "Caso de raccord explícito con un plano no adyacente (P01↔P19): el guion pide igualdad de composición y comportamiento del shimmer de calor entre apertura y cierre; mismo riesgo de inconsistencia entre generaciones independientes ya señalado para P02↔P14, sin mecanismo del documento 17 para garantizarlo sin referencia visual compartida."
+        ]
+      }
+    }
+  ],
+  "prompts_flow": [
+    {
+      "id_plano": "B1C01_S1_P01",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast (Ingredients to Video, admite 8 s y referencias de personaje). Operación: Ingredients to Video. Duración: 8 s (matriz oficial 4/6/8 s). Formato: 16:9 horizontal. Resolución: reescalado 1080p si la cuenta lo permite; comprobar en el selector, 720p universal no confirmado. Resultados: generar 2 y comparar ambos contra estado_entrada/estado_salida_previsto antes de aceptar. Coste orientativo sin Ultra: 20 créditos × 2 generaciones = 40; calcular antes de lanzar.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Gran plano general (extreme wide shot), ángulo ligeramente elevado/picado leve. Plano fijo con push-in óptico muy lento (dolly-in sutil), desde el desierto vidrificado de Serephis dominando el cuadro con Miguel como figura minúscula cruzando de izquierda a derecha en el tercio inferior, hasta el mismo encuadre con un acercamiento apenas perceptible, sin cambio de escala relativa apreciable.\n\n[SUJETOS Y ESTADO]\nLa referencia de rostro y la de cuerpo adjuntas definen la identidad de Miguel en su forma celestial. Miguel camina de pie, erguido pero con el torso ligeramente inclinado hacia delante por el cansancio de doce días de marcha y el peso de la armadura, cruzando el encuadre de izquierda a derecha. Mano derecha: enguantada (guantelete oscuro con protecciones doradas), vacía, oscilando junto al costado derecho con el balanceo del paso. Mano izquierda: enguantada, vacía, oscilando junto al costado izquierdo con el balanceo del paso. Viste armadura dorada radiante con filigrana de plumas y canales cian, peto con una grieta antigua de la campaña de las Puertas de Ónice (nunca soldada del todo) centrada bajo la estrella cian-blanca de ocho puntas, faldones azul medianoche partidos al centro, sabatons dorados cubiertos de polvo del desierto, alas blanco perla intactas plegadas contra la espalda, pelo blanco-ceniza revuelto por el viento. No hay ninguna herida física visible; el hueco frío bajo el esternón es una herida metafísica sin marca externa y no es perceptible a esta escala. Mirada al frente, en la dirección de su rumbo de marcha (hacia la derecha del cuadro).\n\n[ACCIÓN]\nMiguel avanza a pie sobre las láminas de vidrio negro del desierto, sin detenerse, sin cambiar el balanceo de brazos ni la inclinación del torso. Al final del push-in ha avanzado un tramo corto sin cambio de escala relativa; ambas manos siguen vacías oscilando junto al cuerpo.\n\n[ESPACIO, LUZ Y VFX]\nDesierto vidrificado de Serephis, vastedad calcinada que aplasta la escala del personaje. Sol de mediodía casi en el cénit, fijo en coordenadas de mundo por delante del rumbo de marcha; luz cenital con leve componente frontal, dura y directa, sin difusión, blanco-amarillenta intensa, reforzada por el brillo del vidrio negro; apenas arroja sombra a esta distancia. Reforzar un shimmer de calor anclado a la superficie del vidrio negro, más denso cerca del suelo y disipándose con la altura, sin convertirse en un velo uniforme sobre toda la imagen y sin tapar la silueta de Miguel.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: Miguel no pierde ni gana ninguna mano; ambos guanteletes permanecen vacíos; la grieta del peto y la estrella de ocho puntas no cambian de forma ni desaparecen; las alas permanecen plegadas contra la espalda en todo momento. Se oye el silencio pesado del desierto, viento leve constante y el crujido apagado de pasos sobre vidrio a lo lejos. Sin diálogo.",
+      "criterios_aceptacion": "Miguel conserva ambas manos, vacías, en la posición descrita, sin objetos. El peto conserva la grieta preexistente (sin fractura nueva ni superficie lisa) — PENDIENTE: no existe referencia visual en character_library/ que muestre el peto ya agrietado; confirmar con el autor si el modelo regenera el peto liso de la referencia canónica. Las alas permanecen plegadas — PENDIENTE: estado por defecto inferido, no confirmado por el guion. El shimmer de calor no oculta la silueta de Miguel ni se aplana en un desenfoque genérico. La escala de Miguel no varía de forma perceptible entre encuadre inicial y final."
+    },
+    {
+      "id_plano": "B1C01_S1_P02",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resolución: reescalado 1080p si disponible. Resultados: 2, comparar contra la ficha. IMPORTANTE: guardar un fotograma final aprobado de este plano como referencia de raccord de viento para P14.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano entero (full shot), contrapicado leve, cámara casi a ras del suelo para incluir sabatons y arena. Travelling lateral (truck right) que acompaña a Miguel a su misma velocidad, desde Miguel de perfil con el cuerpo completo en cuadro y el suelo vidrificado visible en primer término, hasta el mismo tamaño de plano tras recorrer un tramo, conservando la cámara la distancia relativa.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel, forma celestial. Miguel camina de perfil, cuerpo completo, marcha erguida-cansada con el torso levemente inclinado hacia delante por el peso de la armadura. Mano derecha: vacía, oscilando junto al costado derecho. Mano izquierda: vacía, oscilando junto al costado izquierdo. Ninguna herida física visible. Viste armadura dorada con el peto agrietado (grieta antigua, sin fractura nueva), estrella de ocho puntas, faldones azul medianoche, sabatons dorados sobre el vidrio negro, alas blanco perla plegadas, pelo blanco-ceniza. Mirada al frente, en la dirección de marcha.\n\n[ACCIÓN]\nMiguel camina; el peso de la armadura dorada agrietada tira de cada paso sobre el vidrio negro fundido, con una fricción leve entre sabatón y vidrio que puede desprender polvo residual muy fino al apoyar, sin llegar a fracturar el vidrio. Al final, ambas manos siguen vacías junto al cuerpo; los sabatons muestran un velo mínimo de polvo residual.\n\n[ESPACIO, LUZ Y VFX]\nMismo sol cenital de la secuencia; el vidrio negro bajo sus pies actúa como reflector especular secundario: luz dura arriba sobre yelmo y hombros, con un reflejo ascendente tenue y ambarino-ahumado en la parte baja del rostro y los sabatons. El viento arrastra un velo fino de polvo de derecha a izquierda, a media altura, cruzando el suelo por detrás de sus pasos sin tapar sabatones ni suelo: esta dirección y densidad deben fijarse como referencia exacta porque el plano P14, generado por separado, debe repetirlas.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: ninguna mano aparece ni desaparece; el peto conserva la misma grieta sin fractura nueva; las alas permanecen plegadas. El polvo cruza siempre de derecha a izquierda, nunca al revés. Se oye el crujido de pasos sobre vidrio, el roce metálico leve de la armadura y el viento sostenido. Sin diálogo.",
+      "criterios_aceptacion": "Ambas manos vacías, sin objeto. Grieta del peto idéntica en encuadre inicial y final, sin fractura nueva. Dirección del polvo: de derecha a izquierda; guardar fotograma de referencia para verificar raccord con P14 (riesgo documentado: dos generaciones independientes no garantizan igual dirección/densidad sin referencia compartida). La fricción del sabatón no debe leerse como la fractura mayor reservada para P03."
+    },
+    {
+      "id_plano": "B1C01_S1_P03",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración solicitada en el guion: 7 s — no admitida por Flow (solo 4/6/8 s); generar en 8 s y recortar en montaje, o ajustar la duración del guion a 8 s antes de producir. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano detalle (insert shot), picado cerrado, cámara baja apuntando al punto de contacto. Plano fijo (locked-off), desde el sabatón dorado agrietado por el uso descendiendo hacia una lámina de vidrio negro (nada más en cuadro) hasta la suela ya asentada con fragmentos de vidrio recién astillados esparcidos alrededor de la huella.\n\n[SUJETOS Y ESTADO]\nLa referencia de cuerpo adjunta define el diseño del sabatón dorado de Miguel (forma celestial); el resto del cuerpo queda fuera de este encuadre pero se hereda sin cambio del plano anterior: torso inclinado en marcha, mano derecha e izquierda vacías oscilando junto al cuerpo, sin heridas visibles. En este encuadre solo entra el sabatón derecho [decisión de producción propuesta; confirmar con el autor si debe ser el izquierdo], dorado, agrietado por el desgaste de la marcha (daño de calzado, distinto de la grieta del peto), en fase de apoyo de un paso.\n\n[ACCIÓN]\nEl sabatón desciende y se apoya sobre el vidrio fundido; la lámina se astilla bajo la presión con sonido de hueso seco al quebrarse — rotura al cargar el peso, no antes — y los fragmentos, piezas rígidas y angulares, saltan a poca altura antes de asentarse junto al pie. Al terminar, el resto de fragmentos permanece esparcido junto a la huella.\n\n[ESPACIO, LUZ Y VFX]\nSol cenital directo golpea de lleno el punto de contacto; sombra mínima bajo la propia bota. Luz dura y especular: los fragmentos recién astillados lanzan destellos puntuales blanco-fríos al saltar, en contraste con el dorado sucio del sabatón. Vidrio volcánico fundido en lámina fina sobre roca, material rígido y quebradizo, no elástico ni granular; los fragmentos vecinos pueden desplazarse sobre la piedra sin fundirse ni recomponerse.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la fractura ocurre solo al cargar el peso, nunca antes del contacto; los fragmentos no se funden entre sí ni se recomponen; ningún otro elemento del cuerpo entra en cuadro. Se oye el crujido seco del vidrio al fracturarse. Sin diálogo.",
+      "criterios_aceptacion": "La fractura del vidrio ocurre exactamente al cargar el peso, no antes ni ya rota de entrada. Los fragmentos son piezas rígidas angulares, no arena ni polvo fino. Ningún fragmento se recompone ni se funde de vuelta a lámina lisa. Duración generada en 8 s por incompatibilidad de los 7 s del guion con Flow. PENDIENTE: confirmar con el autor qué sabatón (derecho/izquierdo) entra en este encuadre."
+    },
+    {
+      "id_plano": "B1C01_S1_P04",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio corto (medium close-up), altura de ojos, cámara fija. Desde rostro y pecho de Miguel con el pelo blanco-ceniza enmarcando el rostro y sombras netas de sol alto, hasta el mismo encuadre con la cabeza girada levemente, dejando ver el brillo azul tenue de los ojos bajo la sombra del pelo.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Rostro y pecho en plano medio corto, avanzando con la mirada fija al frente; pelo blanco-ceniza enmarcando el rostro. El cuerpo entero queda fuera de este encuadre pero se hereda sin cambio: torso inclinado en marcha, mano derecha vacía junto al costado (fuera de cuadro), mano izquierda vacía junto al costado (fuera de cuadro), ninguna herida física visible. En el borde inferior del encuadre se asoma la parte superior del peto agrietado. Ojos abiertos con un brillo azul apagado, inicialmente oculto por la sombra dura del pelo.\n\n[ACCIÓN]\nMiguel avanza con la mirada fija al frente mientras camina (movimiento de cuerpo heredado, mayormente fuera de cuadro); gira levemente la cabeza, dejando ver con más claridad el brillo azul tenue de su ojo, que antes estaba en sombra bajo el pelo ceniza.\n\n[ESPACIO, LUZ Y VFX]\nSol alto establecido en la propia acción del plano, ligeramente frontal-alta; marca sombra dura y neta bajo cejas, nariz y mentón. Al girar la cabeza, el ojo que queda en sombra propia del pelo ceniza deja ver el brillo azul. Luz dura, blanca, dominante; el único tono frío es el brillo azul apagado de los ojos, casi una luz práctica propia. Detrás de él, el horizonte vidrificado tiembla por el calor ascendente (mismo shimmer sutil que en el plano de apertura, sin competir con el rostro en primer plano).\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: el peto agrietado visible en el borde inferior no cambia de forma; ninguna mano entra en este encuadre (permanecen vacías, fuera de cuadro); el brillo azul de los ojos es sutil, no una luz saturada. Se oye el viento del desierto y la respiración calmada de la marcha. Sin diálogo.",
+      "criterios_aceptacion": "El brillo azul de los ojos aparece como un matiz sutil, no como luz práctica saturada ni efecto mágico evidente. El shimmer de fondo se mantiene visible pero discreto. Ninguna mano entra en el encuadre. El fragmento de peto visible en el borde inferior conserva la grieta."
+    },
+    {
+      "id_plano": "B1C01_S1_P05",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — este plano es el de mayor riesgo de pérdida de la grieta del peto durante el zoom, generar y comparar varios intentos.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Evoluciona de plano medio corto a primer plano mediante un zoom óptico lento, cámara fija, altura de ojos ligeramente lateral. Desde el guantelete de Miguel comenzando a subir desde el costado (plano medio corto) hasta un primer plano cerrado en el guantelete apoyado contra el peto agrietado, a la altura del esternón.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Heredado del plano anterior: en marcha, mirada al frente. Mano derecha: guantelete oscuro con protecciones doradas, comienza a subir desde el costado derecho (inicio del gesto). Mano izquierda: vacía, junto al costado izquierdo, fuera de este encuadre, sin cambio. Ninguna herida física visible; el hueco frío bajo el esternón, sin marca externa, es el motivador del gesto. El peto dorado conserva la grieta antigua de la campaña de las Puertas de Ónice, visible al final del zoom, sin fractura nueva.\n\n[ACCIÓN]\nLa mano derecha enguantada sube por sí sola hasta el pecho, buscando el contacto del acero templado contra el hueco frío que su carne no recuerda por qué le falta. Al terminar el zoom, el guantelete queda apoyado —dedos y palma en contacto— contra el peto agrietado, exactamente a la altura del esternón. La mano izquierda permanece fuera de este encuadre, vacía, junto al costado.\n\n[ESPACIO, LUZ Y VFX]\nMismo sol cenital-frontal de la secuencia. El guantelete metálico capta un destello especular que se intensifica a medida que el zoom óptico cierra sobre el peto; luz dura, el metal concentra el reflejo (blanco duro) y el peto lo dispersa (dorado apagado y agrietado). Contacto metal-metal: el guantelete se apoya contra el peto ya agrietado sin generar fractura nueva; la grieta preexistente debe transportarse idéntica entre el encuadre inicial y el final del zoom.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la grieta del peto no cambia de forma, tamaño ni posición entre el encuadre inicial y el final; no aparece una fractura nueva por el contacto del guantelete; la mano izquierda (fuera de cuadro) permanece vacía. Se oye el roce metálico del guantelete contra el peto. Sin diálogo.",
+      "criterios_aceptacion": "La grieta del peto es visualmente idéntica en el fotograma inicial y en el final del zoom (mismo trazado, misma posición) — punto de mayor riesgo del plano. La mano derecha termina apoyada exactamente a la altura del esternón, sin sujetar ningún objeto. No se genera una fractura nueva en el peto por el contacto del guantelete."
+    },
+    {
+      "id_plano": "B1C01_S1_P06",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — vigilar especialmente que no se anime sincronía labial.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Primer plano (close-up), altura de ojos, cámara fija. El rostro llena el cuadro; desde los ojos abiertos hasta los párpados cerrándose despacio, mismo encuadre exacto.\n\n[SUJETOS Y ESTADO]\nLa referencia de rostro define la identidad de Miguel. Primer plano del rostro; ojos abiertos al inicio. Mano derecha (fuera de encuadre): heredada apoyada contra el peto agrietado, presionando el pecho, tal como quedó en el plano anterior — el guion confirma explícitamente que la mano permanece ahí. Mano izquierda (fuera de encuadre): vacía, junto al costado izquierdo. Ninguna herida física visible; hueco frío bajo el esternón no visible, ahora más agudo. Pelo blanco-ceniza enmarcando el rostro.\n\n[ACCIÓN]\nMiguel cierra los ojos un instante mientras el dolor bajo el esternón se agudiza. No hay movimiento de manos ni de cuerpo visible en este encuadre; solo el cierre de párpados.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, sin cambio respecto al plano 4 (raccord de contracampo); dirección frontal-alta, deja una sombra corta bajo la línea de pestañas que se recoge y desaparece al cerrarse los párpados. Luz dura, blanco duro constante; el brillo azul de los ojos se apaga al cerrarse, marcando el instante. Sin vfx de entorno: encuadre cerrado sin entorno visible.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la mano derecha (fuera de cuadro) sigue apoyada contra el peto, presionando el pecho, sin bajar; no se anima sincronía labial porque el diálogo es pensamiento interior en cursiva, no habla en voz alta. Pensamiento interior (cursiva, sin sincronía labial), voz de Miguel — ES: «¿qué me fue arrebatado?» / EN: «what was taken from me?».",
+      "criterios_aceptacion": "Los párpados terminan cerrados; el brillo azul se apaga en el cierre. No hay animación de sincronía labial (el diálogo es pensamiento interior, no habla). Verificar que el plano siguiente (P07) hereda correctamente que la mano derecha sigue apoyada contra el pecho."
+    },
+    {
+      "id_plano": "B1C01_S1_P07",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — este plano combina tres capas de material (costra/arena/piedra), riesgo documentado de fusión de texturas.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano entero (full shot), contrapicado leve, cámara a la altura de la duna, fija. Desde la bota de Miguel descendiendo sobre la costra de una duna con el cuerpo completo en cuadro, hasta la costra rota con la arena cediendo hacia los lados y la piedra visible debajo.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Cuerpo completo en cuadro, en fase de dar un paso; la bota desciende hacia la costra de la duna. Mano derecha: heredada de los planos 5–6, apoyada contra el peto agrietado, presionando el pecho — el guion no describe que la baje, así que debe seguir en esa posición mientras camina, no reiniciada junto al costado [PENDIENTE de confirmación del autor]. Mano izquierda: vacía, junto al costado izquierdo, oscilando con el paso. Ninguna herida física visible; hueco frío bajo el esternón no visible, tapado por la propia mano derecha. Armadura completa: peto agrietado sin fractura nueva, sabatons con polvo acumulado, alas plegadas, pelo blanco-ceniza. Mirada hacia el suelo, hacia el punto de apoyo.\n\n[ACCIÓN]\nLa duna se deshace bajo su bota; debajo aparece piedra tallada, no arena. Secuencia obligatoria: la costra (compactada/semi-vidrificada) se quiebra en placas irregulares — no en polvo fino —, la arena suelta bajo la costra cede hacia los lados y desciende, y queda expuesto el borde de piedra tallada. La mano derecha permanece apoyada contra el pecho durante todo el paso; la izquierda sigue oscilando junto al costado.\n\n[ESPACIO, LUZ Y VFX]\nSol cenital-frontal. La costra de la duna devuelve un reflejo plano y mate hasta que se quiebra; los bordes de piedra recién expuestos reflejan más duro y compacto que la arena alrededor. Luz dura, con salto de reflectancia entre arena (cálida apagada) y piedra (gris-fría). Tres capas de material superpuestas —costra fina y quebradiza, arena suelta de relleno, piedra tallada debajo— cada una con su propia rigidez.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la mano derecha no se separa del pecho en ningún fotograma de este plano; la secuencia de ruptura sigue el orden costra rota → arena que cae → piedra visible, sin saltar directamente a mostrar la piedra. Se oye el crujido de la costra al romperse y la arena al desplazarse. Sin diálogo.",
+      "criterios_aceptacion": "La mano derecha permanece apoyada contra el pecho durante todo el plano; no vuelve al costado por defecto — PENDIENTE: confirmar con el autor si esta herencia es correcta o si la mano debía haber bajado ya en un punto no descrito. La secuencia de ruptura respeta el orden costra→arena→piedra, sin fundir las tres capas ni saltar directamente a la piedra. Los fragmentos de costra son placas irregulares, no arena fina."
+    },
+    {
+      "id_plano": "B1C01_S1_P08",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración solicitada en el guion: 7 s — no admitida por Flow; generar en 8 s. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano detalle (insert shot), cenital leve / picado cerrado, cámara fija. Desde dos dedos enguantados apoyados sobre la arena que cubre un bloque de piedra, hasta la arena apartada revelando el borde cuadrado del primer bloque y, más allá, un segundo y un tercer bloque alineados.\n\n[SUJETOS Y ESTADO]\nLa referencia de cuerpo define el guante de Miguel. Miguel está agachado junto al camino enterrado [transición no descrita explícitamente por el guion entre P07 y P08; se infiere como acción intermedia obligatoria]. Mano izquierda: dos dedos extendidos, apoyados sobre la arena. Mano derecha (fuera de encuadre): heredada apoyada contra el peto, presionando el pecho, salvo que se autorice bajarla para permitir el descenso a cuclillas [PENDIENTE de confirmación del autor]. Ninguna herida física visible, fuera de encuadre. Guante oscuro visible en los dos dedos que aparta la arena.\n\n[ACCIÓN]\nMiguel aparta la arena con dos dedos de la mano izquierda, descubriendo que la piedra está cortada, no fracturada: un camino enterrado. Secuencia causa→respuesta→resto: contacto de los dedos → la arena se aparta en un pequeño montículo lateral → queda expuesto el borde recto y regular de piedra tallada (cantería), distinto de un borde fracturado.\n\n[ESPACIO, LUZ Y VFX]\nSol casi en el cénit, prácticamente vertical; la única sombra dura se acumula en la línea de junta entre bloques, confirmando el corte recto y no una fractura. Luz dura, concentrada en las juntas; gris-piedra frío bajo luz blanca directa, sin el matiz cálido de la arena circundante. Piedra de corte recto (cantería) bajo arena suelta y fina; el contraste entre el borde irregular de la arena desplazada y el borde recto de la piedra es lo que lee «tallado, no fracturado».\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: solo interviene la mano izquierda; no aparece ninguna otra mano en cuadro. El borde de piedra debe leerse como cortado (recto, regular), no como una fractura irregular. Se oye el roce de la arena al desplazarse. Sin diálogo.",
+      "criterios_aceptacion": "Solo la mano izquierda entra en cuadro y actúa; ningún elemento sugiere una segunda mano. El borde de piedra expuesto es recto y regular (cantería), no irregular como una fractura — puede requerir referencia visual adicional del bloque tallado si el resultado es ambiguo. PENDIENTE: confirmar con el autor la transición de postura P07→P08 y si la mano derecha debe bajar del pecho."
+    },
+    {
+      "id_plano": "B1C01_S1_P09",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio (medium shot), altura de ojos, cámara agachada a su altura. Panorámica horizontal (pan) siguiendo la mirada de Miguel a lo largo de la fila de bloques, desde Miguel agachado mirando el primer bloque descubierto en el borde izquierdo del cuadro, hasta revelar la línea de bloques alejándose, recta, hacia el horizonte.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Miguel permanece agachado en la misma posición durante todo el pan. Mano izquierda: retirada de la arena tras el gesto del plano anterior, apoyada sobre el muslo o la rodilla izquierda para mantener el equilibrio en cuclillas, con arena residual en el guante. Mano derecha: heredada apoyada contra el peto, presionando el pecho, sin cambio. Ninguna herida física visible; hueco frío bajo el esternón no visible, tapado por la mano derecha.\n\n[ACCIÓN]\nMiguel sigue con la mirada la hilera de piedra que corre recta hacia el horizonte; no hay gesto activo de manos en este plano, solo el barrido de cámara revelando los bloques ya expuestos por los planos anteriores.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, sin variación durante el pan. Al recorrer con la cámara la fila de bloques, la sombra corta y regular de cada junta se repite hacia el horizonte, trazando la línea del camino; luz dura y uniforme, blanco-gris estable a lo largo del barrido. Continuidad de estado obligatoria: los bloques deben conservar el mismo grado de exposición y la misma arena residual que dejó el plano anterior, sin reaparecer completamente enterrados.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la mano derecha permanece en el pecho; la mano izquierda permanece sobre la rodilla, sin volver a tocar la arena; los bloques no regresan a un estado «recién enterrado». Se oye el viento leve del desierto. Sin diálogo.",
+      "criterios_aceptacion": "Los bloques mantienen el mismo grado de exposición y arena residual que al final del plano anterior — riesgo de reinicio señalado en el guion, verificar expresamente. Ambas manos permanecen en su posición heredada (derecha en el pecho, izquierda en la rodilla) durante todo el pan."
+    },
+    {
+      "id_plano": "B1C01_S1_P10",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Comienza a la altura de Miguel y evoluciona a gran plano general mediante una grúa ascendente (crane up), desde Miguel agachado sobre el camino recién descubierto, hasta un plano general elevado que muestra el trazado recto del camino enterrado perdiéndose bajo la arena hacia el horizonte.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Miguel permanece agachado en el mismo lugar y postura heredada del plano anterior durante toda la grúa, convirtiéndose en una figura relativamente pequeña al final. Mano derecha: sin cambio, apoyada contra el peto, presionando el pecho. Mano izquierda: sin cambio, apoyada sobre el muslo/rodilla izquierda, con arena residual en el guante. Ninguna herida física visible.\n\n[ACCIÓN]\nLa cámara se eleva mientras Miguel permanece agachado, sin moverse, revelando la escala del camino que atraviesa el desierto. Ninguna acción física nueva por parte del personaje.\n\n[ESPACIO, LUZ Y VFX]\nSol cenital, constante durante la grúa ascendente; se mantiene vertical, pero la bruma de calor entre el suelo y la cámara suaviza gradualmente el contraste de la línea del camino hacia el horizonte. Luz dura cerca de Miguel, ablandada por perspectiva aérea a distancia; blanco cerca, vira a gris-azulado difuso lejos. Reforzar el shimmer de calor sobre la arena vidrificada, calibrado para no tapar ni desdibujar la línea recta del camino: la nitidez del trazado tiene prioridad sobre la densidad del efecto atmosférico.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: Miguel no cambia de postura ni de posición de manos mientras la cámara asciende; el trazado del camino permanece legible en todo momento, sin quedar velado por el shimmer. Se oye el viento a mayor altura, más limpio. Sin diálogo.",
+      "criterios_aceptacion": "El shimmer de calor no debe intensificarse hasta velar el trazado del camino — verificar especialmente en el tercio final de la grúa, donde el plano es más amplio. Miguel mantiene la misma postura agachada y posición de manos en todo el recorrido de cámara."
+    },
+    {
+      "id_plano": "B1C01_S1_P11",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — comparar el polvo de fondo contra el fotograma de referencia guardado de P02.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano general fijo (locked-off wide shot), altura de ojos. Miguel, aún agachado, ocupa el tercio izquierdo del cuadro; el camino se extiende a la derecha. Mismo encuadre durante todo el plano; Miguel permanece inmóvil.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Miguel agachado, ocupa el tercio izquierdo del cuadro. Mano derecha: apoyada contra el peto, presionando el pecho. Mano izquierda: apoyada sobre el muslo/rodilla izquierda. Ninguna herida física visible; hueco frío bajo el esternón no visible, tapado por la mano derecha. Mirada hacia el camino de piedra a su derecha.\n\n[ACCIÓN]\nMiguel se queda mirando el camino, comprendiendo que un reino existió aquí antes de la Caída. No hay movimiento corporal visible; solo la quietud absorta.\n\n[ESPACIO, LUZ Y VFX]\nSol cenital-frontal, plano fijo, constante sobre Miguel y el camino a su derecha. Luz dura, blanco-gris, ligeramente atenuada donde el polvo queda en suspensión. El viento levanta un velo fino de polvo sobre las líneas de piedra visibles, originado en la arena suelta entre las juntas de los bloques, desplazándose a baja altura, sin cubrir el trazado por completo — coherente con la dirección de viento fijada en el plano 2 (de derecha a izquierda).\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: ninguna mano cambia de posición; el velo de polvo mantiene la misma dirección fijada en el plano 2. Se oye el viento constante y, muy tenue, el aire caliente del desierto. Sin diálogo.",
+      "criterios_aceptacion": "El velo de polvo se desplaza de derecha a izquierda, coherente con P02 — verificar contra el fotograma de referencia guardado, mismo riesgo de raccord entre generaciones independientes. Miguel permanece completamente inmóvil, sin cambio de postura ni de manos."
+    },
+    {
+      "id_plano": "B1C01_S1_P12",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — vigilar que no se añada ningún efecto visual no pedido.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio, con detalle en la mano, altura de ojos, ligeramente lateral, cámara fija. Miguel de perfil, agachado; su mano permanece apoyada cerca del pecho. Mismo encuadre durante todo el plano, sin cambio de posición, solo el paso del instante.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. De perfil, agachado. Mano derecha: apoyada cerca del pecho — el guion confirma explícitamente que Miguel no la aparta. Mano izquierda: apoyada sobre el muslo/rodilla izquierda, sin cambio. Ninguna herida física visible; hueco frío bajo el esternón no visible, tapado por la mano derecha, responde con un latido bajo a la piedra (sensación interna, sin efecto visual).\n\n[ACCIÓN]\nEl dolor bajo su esternón responde a la piedra con un latido bajo, casi cómplice; Miguel no aparta la mano. No hay ningún movimiento corporal visible más allá de la quietud.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, luz dura frontal-lateral que marca el perfil del guantelete apoyado junto al pecho, con sombra corta y definida bajo la mano; metal frío del guantelete contra la calidez sucia del peto agrietado. No añadir ningún efecto visual (brillo, pulso luminoso, partícula) sobre el pecho o la piedra para ilustrar el «latido cómplice»: es una sensación interna del personaje, no un fenómeno visible, salvo decisión expresa del autor.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la mano derecha no se mueve de su posición junto al pecho; no aparece ningún brillo ni pulso luminoso en pecho o piedra. Silencio, solo el viento de fondo. Sin diálogo.",
+      "criterios_aceptacion": "Ningún efecto visual (brillo, pulso, partícula) se añade sobre el pecho o la piedra pese al «latido cómplice» narrado — riesgo de sobreinterpretación señalado en la ficha. La mano derecha permanece inmóvil junto al pecho durante todo el plano."
+    },
+    {
+      "id_plano": "B1C01_S1_P13",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio (medium shot), altura de ojos. Travelling de retroceso (pull-back / backward tracking), la cámara retrocede mientras Miguel avanza hacia ella. Desde Miguel incorporándose del todo, de cara a la cámara, con el camino enterrado a su espalda, hasta Miguel habiendo avanzado unos pasos sin volver a mirar atrás, con el camino fuera de cuadro.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Al inicio, heredado del plano anterior: agachado, mano derecha apoyada cerca del pecho, mano izquierda apoyada sobre la pierna, mirada hacia el camino de piedra mientras comienza a incorporarse. Ninguna herida física visible.\n\n[ACCIÓN]\nMiguel se pone de pie, no vuelve a mirar el camino y retoma la marcha. Durante el gesto de incorporarse y retomar la marcha, la mano derecha desciende de la posición apoyada en el pecho a oscilar junto al costado derecho con el paso; la mano izquierda, ya libre desde el plano de la arena, oscila junto al costado izquierdo. La dirección de la mirada pasa de estar fija en el camino a mirar al frente, sin volver la vista atrás.\n\n[ESPACIO, LUZ Y VFX]\nMismo sol, fijo en coordenadas de mundo, no en pantalla. Al quedar Miguel de cara a cámara con el camino a su espalda, el sol cenital-frontal roza ahora la coronilla y los hombros, dejando el rostro en una sombra algo más plana; contraluz suave sobre el pelo ceniza, menor contraste directo en el rostro. Sin vfx de contacto con el suelo especificado en este plano; no inventar astillado de vidrio si la acción no lo pide.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la mano derecha desciende del pecho al costado exactamente al ponerse de pie, sin quedarse pegada al pecho mientras camina; Miguel no vuelve a mirar el camino en ningún momento tras incorporarse. Se oyen sus pasos retomando el ritmo de marcha. Sin diálogo.",
+      "criterios_aceptacion": "La mano derecha desciende del pecho al costado como parte del gesto de incorporarse, no antes ni después. Miguel no vuelve la mirada hacia el camino en ningún fotograma tras ponerse de pie. El pull-back de cámara iguala la velocidad de avance de Miguel; el tamaño de plano se mantiene constante."
+    },
+    {
+      "id_plano": "B1C01_S1_P14",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — punto de mayor riesgo de raccord de toda la escena, generar comparando activamente contra el fotograma guardado de P02.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano entero (full shot), altura baja (eye-level bajo). Travelling lateral (truck), acompañando de nuevo su avance. Desde Miguel de perfil, cuerpo completo, retomando la marcha sobre el vidrio negro, hasta el mismo tamaño de plano tras recorrer un nuevo tramo del desierto sin variación de paisaje.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. De perfil, cuerpo completo, heredado del plano anterior. Mano derecha: vacía, oscilando junto al costado derecho con el paso. Mano izquierda: vacía, oscilando junto al costado izquierdo con el paso. Ninguna herida física visible; hueco frío bajo el esternón no visible, ahora «tira en una dirección con autoridad» (sensación interna). Peto agrietado sin cambio, sabatons sobre el vidrio negro, alas plegadas, pelo blanco-ceniza.\n\n[ACCIÓN]\nMiguel continúa la marcha; el dolor bajo el esternón, antes un latido sordo, ahora tira en una dirección con autoridad (sensación interna del personaje, sin gesto de manos descrito). Reanudación del contacto bota-vidrio con la misma escala de fricción bajo el peso de la armadura que en el plano 2, sin fractura nueva salvo continuidad con el vidrio ya astillado en el tramo cruzado en P03.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, mismo esquema que el plano 2 (raccord de recorrido): cenital-frontal sobre hombros, reflejo ascendente del vidrio en sabatons y parte baja del cuerpo, dureza dura arriba y reflejo puntual abajo, blanco-amarillo arriba con tinte ambarino-ahumado en el reflejo del suelo. El polvo sigue derivando en la misma dirección establecida en el plano 2 (de derecha a izquierda), manteniendo idéntica dirección y densidad similar: es el caso de raccord de fondo más señalado de toda la secuencia, sin mecanismo garantizado por el generador entre dos generaciones independientes.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: ambas manos permanecen vacías junto al cuerpo; el velo de polvo mantiene idéntica dirección y densidad que en el plano 2. Se oyen los pasos sobre vidrio y el viento constante. Sin diálogo.",
+      "criterios_aceptacion": "El polvo de fondo debe coincidir en dirección (derecha a izquierda) y densidad con el fotograma de referencia guardado del plano 2 — punto de mayor riesgo de continuidad de toda la escena, verificar explícitamente en la revisión del clip, no dar por hecho el raccord. Ambas manos vacías, sin objeto. El esquema de luz y reflejo del vidrio coincide con el del plano 2."
+    },
+    {
+      "id_plano": "B1C01_S1_P15",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio corto (medium close-up), altura de ojos, cámara fija. Miguel camina hacia cámara, rostro y torso visibles, hasta que se detiene en seco y la mano ha vuelto a subir hasta el pecho.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Camina hacia cámara, heredado del plano anterior. Mano derecha: junto al costado derecho, oscilando con el paso al inicio. Mano izquierda: junto al costado izquierdo, oscilando con el paso. Ninguna herida física visible; hueco frío bajo el esternón no visible. Peto agrietado sin cambio.\n\n[ACCIÓN]\nMiguel se detiene, reconociendo en el tirón la misma certeza de la Palabra Divina, del mando verdadero. La mano derecha sube de nuevo desde el costado hasta apoyarse contra el peto agrietado, a la altura del esternón. La mano izquierda queda inmóvil junto al costado izquierdo, ya sin oscilar porque Miguel se ha detenido.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, consistente con los planos 4 y 6. Luz frontal-alta; la sombra bajo el mentón se acentúa en el instante en que se detiene en seco y la mano sube de nuevo al pecho. Luz dura, blanco duro, sin variación respecto a los primeros primeros planos de la secuencia. Sin vfx de entorno: el suelo queda fuera de encuadre en este MCU.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la mano derecha sube exactamente al momento de detenerse, no antes; la mano izquierda deja de oscilar en el mismo instante. Se oyen los pasos deteniéndose en seco. Sin diálogo.",
+      "criterios_aceptacion": "Miguel se detiene en seco de forma clara (corte de movimiento, no una desaceleración gradual ambigua). La mano derecha sube y queda apoyada contra el peto exactamente a la altura del esternón. La mano izquierda queda inmóvil junto al costado, sin seguir oscilando tras la parada."
+    },
+    {
+      "id_plano": "B1C01_S1_P16",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2. Conservar el fotograma final aprobado de este plano para usarlo como frame inicial de P17 (Frames to Video).",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Primerísimo primer plano (extreme close-up), altura de ojos, cámara fija. Solo los ojos y el puente de la nariz llenan el cuadro; desde los ojos abiertos hasta el mismo encuadre exacto con los párpados terminando de cerrarse.\n\n[SUJETOS Y ESTADO]\nLa referencia de rostro define la identidad de Miguel. Ojos abiertos al inicio. Mano derecha (fuera de encuadre): heredada apoyada contra el peto, presionando el pecho, heredada del plano anterior. Mano izquierda (fuera de encuadre): junto al costado izquierdo, inmóvil (Miguel está detenido). Ninguna herida física visible, fuera de encuadre.\n\n[ACCIÓN]\nMiguel cierra los ojos un momento, deteniéndose ante el peso de esa certeza que lo aterra. Solo se anima el cierre de párpados; ningún otro movimiento.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, mismo esquema que P06 pero con encuadre más cerrado. La sombra de las pestañas se define con un borde muy nítido contra el iris antes de que los párpados se cierren. Luz dura, al límite de lo legible en un encuadre tan cerrado; blanco extremo; el brillo azul se apaga por completo al cerrar los ojos. Sin entorno visible; sin vfx.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: ninguna mano entra en este encuadre; el brillo azul se apaga por completo, no parcialmente, al cerrarse los párpados. Silencio, solo un viento muy tenue de fondo. Sin diálogo.",
+      "criterios_aceptacion": "Los párpados terminan completamente cerrados; el brillo azul desaparece del todo. Ningún elemento adicional (mano, fondo, partícula) entra en este encuadre extremadamente cerrado. Exportar y aprobar el fotograma final antes de usarlo como frame inicial de P17."
+    },
+    {
+      "id_plano": "B1C01_S1_P17",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "ajustes": "Operación recomendada: Frames to Video, frame inicial = último fotograma aprobado y exportado de P16 (asignarlo expresamente como start frame, según el protocolo del doc 14 «Último fotograma → primer fotograma del clip siguiente»). Alternativa si Frames to Video no admite simultáneamente referencias de personaje: Ingredients to Video igual que el resto, extremando la comprobación manual de que el encuadre coincide con el cierre de P16. Modelo: Veo 3.1 Fast (o Lite si Frames to Video lo exige). Duración: 8 s. Formato: 16:9. Resultados: 2.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo, mismo encuadre exacto que el cierre del plano anterior (raccord de continuidad de cámara/rostro). Primerísimo primer plano (extreme close-up), altura de ojos, cámara fija. Desde los ojos cerrados (idéntico encuadre al cierre del plano 16) hasta los párpados abriéndose y el brillo azul tenue volviendo a ser visible.\n\n[SUJETOS Y ESTADO]\nLa referencia de rostro define la identidad de Miguel. Ojos cerrados al inicio, encuadre idéntico al cierre de P16. Mano derecha (fuera de encuadre): heredada apoyada contra el peto, presionando el pecho. Mano izquierda (fuera de encuadre): junto al costado izquierdo, inmóvil. Ninguna herida física visible, fuera de encuadre.\n\n[ACCIÓN]\nMiguel abre los ojos; su cuerpo ya se ha girado hacia el tirón antes de que su mente termine de consentirlo (giro corporal no visible en este encuadre cerrado, pero que debe quedar registrado para el plano siguiente como un giro apenas iniciado, no completo). El brillo azul reaparece como un destello puntual antes de estabilizarse.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, idéntico al plano 16 (raccord de encuadre exacto). La misma luz dura frontal-alta; al abrir los párpados, el brillo azul reaparece primero como un destello puntual antes de estabilizarse. Blanco duro constante. Ningún elemento de fondo o partícula debe introducirse entre este fotograma y el cierre de P16, para no romper el «mismo encuadre exacto» que pide el guion.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: el encuadre no debe desplazarse ni un píxel respecto al cierre de P16; ninguna mano entra en cuadro. Silencio, viento tenue de fondo. Sin diálogo.",
+      "criterios_aceptacion": "El encuadre inicial de este plano coincide exactamente con el fotograma de cierre de P16. El brillo azul reaparece de forma gradual (destello puntual → estable), no de golpe. PENDIENTE de decisión del autor: contradicción de grado de giro corporal entre el «cuerpo ya se ha girado» de este plano y el «a medio girar» del encuadre inicial de P18 — fijar un único grado de giro en la frontera P17→P18 antes de generar."
+    },
+    {
+      "id_plano": "B1C01_S1_P18",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — plano con riesgo de fusión entre profundidad de campo y foco en el movimiento en arco; comprobar el vecino desenfocado en todos los fotogramas intermedios, no solo primer/último frame.",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio (medium shot), altura de ojos. Arco / órbita (arc/orbit shot) corto alrededor de Miguel. Comienza de frente a Miguel, a medio girar hacia la nueva dirección [grado de giro que debe conciliarse con el cierre de P17 — ver PENDIENTE], y termina mostrándolo de perfil, ya orientado por completo hacia el tirón; el camino enterrado queda atrás, fuera de foco.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Mano derecha: heredada apoyada contra el peto, presionando el pecho; el guion no describe ninguna acción de la mano durante el giro. Mano izquierda: junto al costado izquierdo, inmóvil. Ninguna herida física visible; hueco frío bajo el esternón no visible, tapado por la mano derecha. El camino de piedra recién descubierto es visible pero desenfocado al fondo.\n\n[ACCIÓN]\nMiguel completa el giro de su cuerpo hacia la dirección del llamado, pivotando sobre sí mismo mientras la cámara orbita a su alrededor. Ni la mano derecha (en el pecho) ni la izquierda (junto al costado) cambian de posición durante el giro; posible desplazamiento leve de polvo/arena bajo el pie de apoyo al pivotar.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, fijo en el mundo; el arco de cámara lo revela desde ángulos distintos. La luz que hasta ahora caía frontal pasa a definir un filo de contraluz sobre el hombro que queda hacia el sol al completar el giro; el lado opuesto del cuerpo pierde detalle. Luz dura, ahora como rim light en el borde del hombro; blanco duro concentrado en el filo de contorno, resto del cuerpo relativamente más oscuro. El camino de piedra permanece visible pero desenfocado durante todo el arco de cámara: mantener la profundidad de campo constante mientras orbita, sin que el camino pase de nítido a borroso entre fotogramas del mismo plano.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: la mano derecha no se separa del pecho; la mano izquierda no se mueve del costado; el camino de fondo mantiene el mismo grado de desenfoque en todo el arco. Se oye el crujido leve del pivote sobre el vidrio/arena. Sin diálogo.",
+      "criterios_aceptacion": "El giro corporal termina en «de perfil, orientado por completo» — PENDIENTE: el autor debe fijar si el encuadre inicial de este plano muestra a Miguel «a medio girar» (como dice esta ficha) o «ya casi girado» (como sugiere el cierre de P17); reformular uno de los dos planos antes de generar para eliminar la contradicción de grado. La profundidad de campo sobre el camino de fondo se mantiene constante durante todo el arco, sin alternar entre nítido y borroso dentro del mismo plano. Ninguna mano cambia de posición durante el giro."
+    },
+    {
+      "id_plano": "B1C01_S1_P19",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "ajustes": "Modelo: Veo 3.1 Fast, Ingredients to Video. Duración: 8 s. Formato: 16:9. Resultados: 2 — comparar activamente contra el fotograma de referencia guardado de P01 (simetría compositiva y shimmer).",
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Gran plano general (extreme wide shot), ligeramente elevado/picado leve, simetría compositiva con el plano 1. Plano fijo con leve retroceso (pull-back), cerrando la secuencia. Desde Miguel, ya orientado en la nueva dirección, comenzando a caminar como figura pequeña contra el desierto vidrificado, hasta la figura alejándose hacia el horizonte en la nueva dirección, repitiendo la composición del plano de apertura.\n\n[SUJETOS Y ESTADO]\nLas referencias de rostro y cuerpo definen la identidad de Miguel. Ya orientado en la nueva dirección, heredado del cierre de P18. Mano derecha: desciende de la posición apoyada en el pecho (heredada de P15–P18) a oscilar junto al costado derecho con el paso, replicando la composición de manos libres del plano 1 [cambio inferido por este agente a partir de la simetría explícita pedida con P01; el guion no declara en ningún plano intermedio cuándo baja la mano — PENDIENTE de confirmación del autor]. Mano izquierda: vacía, junto al costado izquierdo, retomando la oscilación de la marcha. Ninguna herida física visible; hueco frío bajo el esternón no visible. Peto agrietado sin cambio, sabatons, alas plegadas, pelo blanco-ceniza; mismo esquema visual que P01.\n\n[ACCIÓN]\nMiguel reanuda la marcha, ahora guiado por el tirón, alejándose entre las láminas de vidrio negro del desierto. Al iniciar la marcha, la mano derecha baja del pecho al costado y comienza a oscilar junto con la izquierda, igual que en el plano de apertura.\n\n[ESPACIO, LUZ Y VFX]\nSol alto, mismo astro fijo de toda la secuencia; Miguel encara ahora la nueva dirección, con el componente frontal de la luz desplazado al costado opuesto respecto al plano 1, coherente con el giro de cuerpo del plano anterior. Luz dura, simétrica al plano de apertura; blanco-amarillento intenso, igual brillo reflejado en el vidrio. El calor sigue ascendiendo del suelo, distorsionando el horizonte tras él, igual que en el plano inicial: mismo shimmer, misma densidad y velocidad de distorsión, anclado a la superficie.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma: ambas manos terminan oscilando libres junto al cuerpo, replicando P01; el shimmer de calor iguala en comportamiento al del plano 1. Se oye el mismo silencio pesado del desierto y el viento leve del plano de apertura, cerrando el raccord sonoro. Sin diálogo.",
+      "criterios_aceptacion": "El shimmer de calor y la composición general deben leerse como simétricos al plano 1 (mismo comportamiento, misma densidad) — guardar y comparar contra el fotograma de referencia de P01; mismo riesgo de raccord entre generaciones independientes ya señalado para P02↔P14. PENDIENTE de confirmación del autor: el descenso de la mano derecha del pecho al costado no está declarado explícitamente en ningún plano intermedio (P18); verificar que el generador no la deje pegada al pecho, rompiendo la simetría. Ambas manos terminan oscilando libres, sin objeto, junto al cuerpo."
+    }
+  ],
+  "guion_storyboard_studio": "EPISODIO / ESCENA: Libro I, Capítulo 01, Escena 1 (B1C01_S1) — \"El hueco bajo las costillas\"\nFUENTE: Desierto de Serephis, arena vidrificada sobre un camino enterrado. Ficha técnica de 19 planos (B1C01_S1_P01 a B1C01_S1_P19), cámara/luz/VFX/continuidad ya resueltos por el equipo.\nCONTINUIDAD TEMPORAL: continuación en tiempo real dentro de la escena; elipsis de montaje solo entre los cortes de plano habituales (no hay salto temporal narrativo).\nPERSONAJES VISIBLES: MIGUEL, forma celestial. Referencia real que debe adjuntarse APARTE en el editor de imágenes/vídeo de Flow, no escribirse solo como nombre aquí: character_library/angeles/Miguel/canonical/face_reference.png y character_library/angeles/Miguel/canonical/body_reference.png. Este guion de texto libre es un borrador de composición para Script/Assets de Storyboard Studio: según el doc 15, no está suficientemente confirmado que el cast interno de esta Tool importe automáticamente imágenes de character_library/, así que antes de generar hay que comprobar en la interfaz si permite asociar estas rutas a la ficha de reparto de MIGUEL; si no lo permite, usar este guion solo como borrador de composición y resolver las imágenes definitivas en el espacio de imágenes de Flow con las referencias reales adjuntas.\nLUGAR: Desierto de Serephis, láminas de vidrio negro volcánico bajo sol de mediodía casi en el cénit, luz dura sin difusión durante toda la escena. Viento sostenido que arrastra un velo fino de polvo de derecha a izquierda (dirección fijada en P02, repetida en P11 y P14). En el tramo central, una costra de duna se rompe y revela un camino de piedra tallada (cantería, no fracturada) enterrado bajo la arena, alineado recto hacia el horizonte.\n\nESTADO PERSISTENTE DE MIGUEL (válido en todos los planos salvo cambio declarado explícitamente en uno de ellos):\n- Identidad y forma: celestial, la de las referencias adjuntas aparte.\n- Anatomía: dos manos, sin amputaciones ni heridas físicas visibles en ningún plano de la escena. Existe una herida metafísica —hueco frío del tamaño de un puño bajo el esternón— sin marca externa, nunca visible como lesión física; solo se manifiesta como sensación interna del personaje (nunca como brillo, pulso luminoso ni partícula sobre el cuerpo).\n- Vestuario: armadura dorada radiante con filigrana de plumas y canales cian; peto con una grieta antigua de la campaña de las Puertas de Ónice (nunca soldada del todo), centrada bajo una estrella cian-blanca de ocho puntas; faldones azul medianoche partidos al centro; sabatons dorados; alas blanco perla intactas, plegadas contra la espalda; pelo blanco-ceniza revuelto por el viento.\n- PENDIENTE DE CANON (no resolver inventando, confirmar con el autor antes de generar): (1) no existe en character_library/angeles/Miguel/ ninguna referencia visual que muestre ya el peto agrietado — forms/celestial/README.md indica \"sin bandolera ni grieta en el peto\" como estado canónico por defecto; fijar una referencia adicional o una nota de anulación explícita antes de producir, o el generador puede regenerar el peto liso de la referencia canónica y perder la grieta entre planos. (2) \"alas plegadas contra la espalda\" es una inferencia de este guion para permitir la marcha, no un dato explícito del texto original; confirmar que no deban aparecer extendidas o ausentes en algún plano.\n\nPLANO P01\nEncuadre e instante del panel: gran plano general, ángulo ligeramente elevado/picado leve; Miguel como figura minúscula cruzando de izquierda a derecha en el tercio inferior del cuadro, el desierto vidrificado dominando el resto.\nEstado de entrada: de pie, erguido, torso ligeramente inclinado por el cansancio de doce días de marcha; mano derecha vacía oscilando junto al costado derecho; mano izquierda vacía oscilando junto al costado izquierdo; ninguna herida física visible; mirada al frente, en su rumbo de marcha.\nAcción principal: Miguel avanza a pie sobre las láminas de vidrio negro, una figura diminuta contra la inmensidad calcinada.\nEstado de salida: misma pose de marcha; ha avanzado un tramo corto sin cambio de escala relativa perceptible; ambas manos siguen vacías oscilando junto al cuerpo.\nRasgos que deben persistir en este plano: la grieta del peto (ver PENDIENTE de canon arriba); las alas plegadas; ninguna mano sostiene ningún objeto.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo con push-in óptico muy lento (dolly-in sutil); el aire vibra por el calor ascendente del suelo, distorsionando el horizonte tras la figura, sin tapar su silueta.\n\nPLANO P02\nEncuadre e instante del panel: plano entero, contrapicado leve, cámara casi a ras del suelo; Miguel de perfil, cuerpo completo, sabatons y suelo vidrificado en primer término.\nEstado de entrada: heredado de P01 — marcha erguida-cansada, torso inclinado; mano derecha vacía junto al costado; mano izquierda vacía junto al costado; sin heridas visibles.\nAcción principal: Miguel camina; el peso de la armadura agrietada tira de cada paso sobre el vidrio negro fundido; fricción leve entre sabatón y vidrio.\nEstado de salida: misma pose de marcha; sabatons con un velo mínimo de polvo residual por la fricción; ambas manos siguen vacías.\nRasgos que deben persistir en este plano: la grieta del peto sin fractura nueva; alas plegadas; NINGUNA fractura mayor del vidrio (esa es del plano P03).\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling lateral (truck right) acompañando a Miguel a su misma velocidad. El viento arrastra un velo fino de polvo de derecha a izquierda por detrás de sus pasos — ESTA dirección y densidad de polvo es la referencia fija que el plano P14 (no adyacente) debe repetir exactamente; guardar un fotograma de este plano como referencia de raccord.\n\nPLANO P03\nEncuadre e instante del panel: plano detalle (insert), picado cerrado, cámara baja apuntando al punto de contacto; solo el sabatón y el vidrio entran en cuadro, resto del cuerpo fuera.\nEstado de entrada: sabatón dorado agrietado por el uso descendiendo hacia una lámina de vidrio negro; resto del cuerpo fuera de cuadro pero inventariado sin cambio respecto a P02 (manos vacías, sin heridas). PENDIENTE: el guion no fija si es el sabatón derecho o el izquierdo — decisión de producción propuesta: sabatón derecho; confirmar con el autor.\nAcción principal: el sabatón carga el peso sobre el vidrio fundido; la lámina se astilla con sonido de hueso seco al quebrarse — rotura AL CARGAR, no antes —, fragmentos rígidos y angulares saltan a poca altura y se asientan junto al pie.\nEstado de salida: la lámina bajo el sabatón queda astillada, fragmentos esparcidos alrededor de la huella; resto del cuerpo sin cambio, fuera de cuadro.\nRasgos que deben persistir en este plano: los fragmentos no se funden ni se recomponen; nada más del cuerpo entra en cuadro.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off). Duración de guion: 7 s — no es valor admitido en Flow (solo 4/6/8 s); generar en 8 s.\n\nPLANO P04\nEncuadre e instante del panel: plano medio corto, altura de ojos; rostro y pecho de Miguel, pelo blanco-ceniza enmarcando el rostro, sombras netas de sol alto.\nEstado de entrada: heredado de P03 — marcha, mirada al frente; manos fuera de cuadro, vacías, sin heridas visibles; parte superior del peto agrietado asomando en el borde inferior del encuadre; ojos abiertos con brillo azul apagado, oculto por la sombra del pelo.\nAcción principal: Miguel avanza con la mirada fija al frente; gira levemente la cabeza.\nEstado de salida: mismo encuadre; el giro deja ver con más claridad el brillo azul tenue del ojo que estaba en sombra.\nRasgos que deben persistir en este plano: ninguna mano entra en cuadro; el fragmento de peto visible conserva la grieta; el brillo azul es sutil, no una luz saturada.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo. El horizonte vidrificado tiembla por el calor ascendente detrás de él (mismo shimmer sutil de P01, sin competir con el rostro).\n\nPLANO P05\nEncuadre e instante del panel: evoluciona de plano medio corto a primer plano mediante zoom óptico lento, altura de ojos ligeramente lateral; desde el guantelete comenzando a subir hasta el guantelete apoyado en el pecho.\nEstado de entrada: heredado de P04 — en marcha, mirada al frente; mano derecha comienza a subir desde el costado; mano izquierda fuera de cuadro, vacía; sin heridas visibles; hueco frío bajo el esternón, motivador del gesto.\nAcción principal: la mano derecha enguantada sube por sí sola hasta el pecho, buscando el contacto del acero contra el hueco frío que su carne no recuerda por qué le falta.\nEstado de salida: el guantelete queda apoyado —dedos y palma en contacto— contra el peto agrietado, exactamente a la altura del esternón; mano izquierda sigue fuera de cuadro, vacía.\nRasgos que deben persistir en este plano: la grieta del peto debe ser IDÉNTICA en el encuadre inicial y en el final del zoom, sin fractura nueva por el contacto del guantelete — punto de mayor riesgo de este plano.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: zoom óptico lento, cámara fija (no es desplazamiento físico, es cambio de focal).\n\nPLANO P06\nEncuadre e instante del panel: primer plano, altura de ojos; el rostro llena el cuadro.\nEstado de entrada: heredado de P05 — ojos abiertos; mano derecha (fuera de cuadro) apoyada contra el peto, presionando el pecho, confirmada explícitamente por el guion; mano izquierda (fuera de cuadro) vacía junto al costado; sin heridas visibles, hueco frío más agudo.\nAcción principal: Miguel cierra los ojos un instante mientras el dolor bajo el esternón se agudiza; se oye su pensamiento interior.\nEstado de salida: mismo encuadre; párpados cerrados; brillo azul apagado por completo.\nRasgos que deben persistir en este plano: la mano derecha (fuera de cuadro) sigue en el pecho, sin bajar; NO debe animarse sincronía labial porque el diálogo es pensamiento interior en cursiva, no habla en voz alta.\nDiálogo literal y hablante: pensamiento interior de MIGUEL (cursiva, sin sincronía labial) — ES: \"¿qué me fue arrebatado?\" / EN: \"what was taken from me?\".\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo.\n\nPLANO P07\nEncuadre e instante del panel: plano entero, contrapicado leve, cámara a la altura de la duna; cuerpo completo de Miguel.\nEstado de entrada: en fase de dar un paso, la bota desciende hacia la costra de una duna; mano derecha heredada de P05/P06, apoyada contra el peto, presionando el pecho — el guion no describe que la baje, así que debe seguir ahí, no reiniciarse junto al costado [PENDIENTE de confirmación del autor: ver nota siguiente]; mano izquierda vacía junto al costado, oscilando con el paso; sin heridas visibles; mirada hacia el suelo.\nAcción principal: la duna se deshace bajo su bota; debajo aparece piedra tallada, no arena. Secuencia obligatoria: costra rota (placas irregulares, no polvo fino) → arena que cede hacia los lados → piedra tallada visible.\nEstado de salida: costra rota, arena cedida, piedra tallada expuesta; mano derecha sigue apoyada contra el pecho sin causa que la retire en este plano; mano izquierda sigue oscilando.\nRasgos que deben persistir en este plano: la mano derecha NO vuelve al costado en este plano; la secuencia de ruptura respeta el orden costra→arena→piedra sin saltar directamente a la piedra.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo. PENDIENTE: el guion no declara si la mano derecha permanece en el pecho o vuelve al costado antes de este plano de cuerpo entero — confirmar con el autor para que el generador no la regrese por defecto al costado por tratarse de un plano de marcha.\n\nPLANO P08\nEncuadre e instante del panel: plano detalle (insert), cenital leve/picado cerrado; dos dedos enguantados sobre la arena que cubre un bloque de piedra.\nEstado de entrada: Miguel agachado junto al camino enterrado [transición de postura no descrita explícitamente entre P07 y P08, se infiere como acción intermedia obligatoria — PENDIENTE de confirmación]; mano izquierda con dos dedos extendidos apoyados sobre la arena; mano derecha (fuera de cuadro) heredada apoyada contra el peto, salvo que se autorice bajarla para el descenso a cuclillas [PENDIENTE].\nAcción principal: Miguel aparta la arena con dos dedos, descubriendo que la piedra está cortada, no fracturada: un camino enterrado. Secuencia causa→respuesta→resto: contacto de los dedos → montículo lateral de arena → borde recto y regular de piedra tallada expuesto.\nEstado de salida: arena apartada revela el borde cuadrado del primer bloque y, más allá, un segundo y un tercer bloque alineados; mano izquierda retirada de la arena en la posición final del gesto.\nRasgos que deben persistir en este plano: solo la mano izquierda actúa, ninguna otra mano entra en cuadro; el borde de piedra debe leerse como cortado (recto, regular), no como una fractura irregular.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo. Duración de guion: 7 s — generar en 8 s (valor admitido por Flow). PENDIENTE: confirmar transición de postura P07→P08 y si la mano derecha baja del pecho.\n\nPLANO P09\nEncuadre e instante del panel: plano medio, altura de ojos, cámara agachada a su altura; Miguel en el borde izquierdo del cuadro.\nEstado de entrada: heredado de P08 — agachado, mirando el primer bloque; mano izquierda retirada de la arena, apoyada sobre el muslo/rodilla izquierda, con arena residual en el guante; mano derecha heredada apoyada contra el peto, presionando el pecho.\nAcción principal: Miguel sigue con la mirada la hilera de piedra que corre recta hacia el horizonte; sin gesto activo de manos.\nEstado de salida: la panorámica revela la línea de bloques alejándose hacia el horizonte; Miguel permanece en su posición agachada; ambas manos sin cambio.\nRasgos que deben persistir en este plano: los bloques conservan el MISMO grado de exposición y arena residual que dejó P08 — no deben reaparecer \"recién enterrados\"; ambas manos en su posición heredada.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: panorámica horizontal (pan), siguiendo la mirada de Miguel a lo largo de la fila de bloques.\n\nPLANO P10\nEncuadre e instante del panel: comienza a la altura de Miguel y evoluciona a gran plano general; Miguel agachado sobre el camino.\nEstado de entrada: heredado de P09, agachado, manos sin cambio (derecha en el pecho, izquierda en la rodilla).\nAcción principal: la cámara se eleva mientras Miguel permanece agachado, sin moverse, revelando la escala del camino.\nEstado de salida: plano general elevado con el trazado recto del camino perdiéndose bajo la arena hacia el horizonte; Miguel, figura relativamente pequeña, mantiene la misma postura y manos.\nRasgos que deben persistir en este plano: Miguel no cambia de postura ni de manos durante la grúa; el trazado del camino permanece legible, sin quedar velado por el shimmer de calor.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: grúa ascendente (crane up).\n\nPLANO P11\nEncuadre e instante del panel: plano general fijo; Miguel en el tercio izquierdo, el camino extendiéndose a la derecha.\nEstado de entrada: heredado de P10, agachado, mano derecha en el pecho, mano izquierda en la rodilla, mirada hacia el camino.\nAcción principal: Miguel se queda mirando el camino, comprendiendo que un reino existió aquí antes de la Caída; sin movimiento corporal.\nEstado de salida: mismo encuadre; Miguel inmóvil, absorbido por lo que ve.\nRasgos que deben persistir en este plano: ninguna mano cambia de posición; el velo de polvo levantado por el viento mantiene la MISMA dirección fijada en P02 (de derecha a izquierda), sin cubrir el trazado por completo.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P12\nEncuadre e instante del panel: plano medio con detalle en la mano, altura de ojos ligeramente lateral; Miguel de perfil, agachado.\nEstado de entrada: heredado de P11 — mano derecha apoyada cerca del pecho, mano izquierda apoyada sobre la pierna; sin heridas visibles.\nAcción principal: el dolor bajo su esternón responde a la piedra con un latido bajo, casi cómplice; Miguel no aparta la mano.\nEstado de salida: mismo encuadre; no hay cambio de posición, solo el paso del instante.\nRasgos que deben persistir en este plano: la mano derecha NO se mueve; NO añadir ningún efecto visual (brillo, pulso luminoso, partícula) sobre el pecho o la piedra para ilustrar el \"latido cómplice\" — es sensación interna, no fenómeno visible.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo.\n\nPLANO P13\nEncuadre e instante del panel: plano medio, altura de ojos; Miguel se incorpora del todo, de cara a cámara, camino a su espalda.\nEstado de entrada: heredado de P12 — agachado, mano derecha en el pecho, mano izquierda en la pierna, comenzando a incorporarse.\nAcción principal: Miguel se pone de pie, no vuelve a mirar el camino y retoma la marcha.\nEstado de salida: ha avanzado unos pasos sin volver a mirar atrás; el camino queda fuera de cuadro; mano derecha desciende del pecho al costado, oscilando con el paso; mano izquierda oscila junto al costado izquierdo; mirada al frente.\nRasgos que deben persistir en este plano: la mano derecha desciende del pecho al costado exactamente al ponerse de pie, no antes ni después; Miguel no vuelve la mirada hacia el camino en ningún momento.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling de retroceso (pull-back), la cámara retrocede mientras Miguel avanza hacia ella, igualando su velocidad.\n\nPLANO P14\nEncuadre e instante del panel: plano entero, altura baja (eye-level bajo); Miguel de perfil, cuerpo completo, retomando la marcha.\nEstado de entrada: heredado de P13 — mano derecha vacía junto al costado, oscilando; mano izquierda vacía junto al costado, oscilando; sin heridas visibles.\nAcción principal: Miguel continúa la marcha; el dolor bajo el esternón, antes un latido sordo, ahora tira en una dirección con autoridad (sensación interna, sin gesto de manos).\nEstado de salida: ha recorrido un nuevo tramo sin variación de paisaje; ambas manos siguen vacías oscilando.\nRasgos que deben persistir en este plano: el velo de polvo debe mantener IDÉNTICA dirección (derecha a izquierda) y densidad similar a la fijada en P02 — punto de mayor riesgo de continuidad de toda la escena, verificar contra el fotograma de referencia de P02, no dar por hecho el raccord.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling lateral (truck), acompañando de nuevo su avance.\n\nPLANO P15\nEncuadre e instante del panel: plano medio corto, altura de ojos; Miguel camina hacia cámara.\nEstado de entrada: heredado de P14 — mano derecha y mano izquierda vacías, oscilando con el paso.\nAcción principal: Miguel se detiene, reconociendo en el tirón la misma certeza de la Palabra Divina, del mando verdadero.\nEstado de salida: se ha detenido en seco; la mano derecha ha vuelto a subir hasta apoyarse contra el peto, a la altura del esternón; la mano izquierda queda inmóvil junto al costado, sin seguir oscilando.\nRasgos que deben persistir en este plano: la mano derecha sube exactamente al detenerse, no antes; la izquierda deja de oscilar en el mismo instante.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo.\n\nPLANO P16\nEncuadre e instante del panel: primerísimo primer plano, altura de ojos; solo ojos y puente de la nariz.\nEstado de entrada: heredado de P15 — ojos abiertos; mano derecha (fuera de cuadro) apoyada contra el peto; mano izquierda (fuera de cuadro) inmóvil junto al costado.\nAcción principal: Miguel cierra los ojos un momento, deteniéndose ante el peso de esa certeza que lo aterra.\nEstado de salida: mismo encuadre exacto; párpados cerrados; brillo azul apagado por completo.\nRasgos que deben persistir en este plano: ninguna mano entra en cuadro; el cierre es completo, no parcial.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo.\n\nPLANO P17\nEncuadre e instante del panel: primerísimo primer plano, MISMO encuadre exacto que el cierre de P16 (raccord de continuidad de cámara/rostro); ojos cerrados al inicio.\nEstado de entrada: heredado del cierre de P16 — ojos cerrados; mano derecha (fuera de cuadro) apoyada contra el peto; mano izquierda (fuera de cuadro) inmóvil.\nAcción principal: Miguel abre los ojos; su cuerpo ya se ha girado hacia el tirón antes de que su mente termine de consentirlo (giro no visible en este encuadre cerrado, pero que debe quedar registrado como hecho de estado para el plano siguiente).\nEstado de salida: los párpados se abren; el brillo azul reaparece como destello puntual antes de estabilizarse; orientación corporal empezando a girarse hacia el tirón.\nRasgos que deben persistir en este plano: el encuadre no se desplaza ni un píxel respecto al cierre de P16; ninguna mano entra en cuadro.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo, mismo encuadre que el plano anterior. Recomendado usar el último fotograma aprobado de P16 como frame inicial en Flow (operación Frames to Video), en vez de una nueva generación por Ingredients to Video, para maximizar la coincidencia exacta de encuadre. PENDIENTE de decisión del autor: contradicción de grado de giro corporal entre este plano (\"cuerpo ya se ha girado\") y el encuadre inicial de P18 (\"a medio girar\") — fijar un único grado de giro en la frontera P17→P18 antes de generar.\n\nPLANO P18\nEncuadre e instante del panel: plano medio, altura de ojos; comienza de frente a Miguel, a medio girar hacia la nueva dirección [ver PENDIENTE de P17].\nEstado de entrada: heredado de P17 — mano derecha apoyada contra el peto, presionando el pecho; mano izquierda junto al costado, inmóvil; camino de piedra visible pero desenfocado al fondo.\nAcción principal: Miguel completa el giro de su cuerpo hacia la dirección del llamado, pivotando mientras la cámara orbita a su alrededor.\nEstado de salida: termina mostrándolo de perfil, ya orientado por completo hacia el tirón; el camino queda atrás, fuera de foco; ninguna mano cambia de posición durante el giro.\nRasgos que deben persistir en este plano: la mano derecha no se separa del pecho; la mano izquierda no se mueve del costado; el camino de fondo mantiene el mismo grado de desenfoque durante todo el arco, sin alternar entre nítido y borroso.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: arco/órbita (arc/orbit shot) corto alrededor de Miguel.\n\nPLANO P19\nEncuadre e instante del panel: gran plano general, ligeramente elevado/picado leve, SIMETRÍA COMPOSITIVA con P01; Miguel como figura pequeña comenzando a caminar en la nueva dirección.\nEstado de entrada: heredado del cierre de P18 — ya orientado en la nueva dirección; mano derecha heredada apoyada contra el peto (aún no descendida en ningún plano intermedio) [PENDIENTE, ver nota]; mano izquierda vacía junto al costado.\nAcción principal: Miguel reanuda la marcha, ahora guiado por el tirón, alejándose entre las láminas de vidrio negro del desierto.\nEstado de salida: la figura se aleja hacia el horizonte en la nueva dirección, repitiendo la composición del plano de apertura; mano derecha descendida del pecho al costado, oscilando junto con la izquierda, igual que en P01.\nRasgos que deben persistir en este plano: el shimmer de calor y la composición deben leerse como simétricos al plano P01 (mismo comportamiento, misma densidad) — guardar el fotograma de referencia de P01 para comparar, mismo riesgo de raccord entre generaciones independientes que P02↔P14.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo con leve retroceso (pull-back), cerrando la secuencia. PENDIENTE de confirmación del autor: el guion no declara en ningún plano intermedio (P18) el descenso de la mano derecha desde el pecho; este agente lo infiere de la acción \"reanuda la marcha\" y de la simetría compositiva explícita pedida con P01 — verificar que el generador no la deje pegada al pecho, rompiendo la simetría.\n\nNOTA DE CIERRE: este guion es un borrador de composición para Storyboard Studio. La identidad visual real de MIGUEL no se resuelve escribiendo su nombre en esta caja de texto: debe adjuntarse aparte, como referencia de personaje, mediante el mecanismo de asociación de Assets/cast que ofrezca la interfaz en el momento de usarla (comprobar primero si permite seleccionar una imagen existente para la ficha de reparto; si no lo permite, generar las imágenes definitivas en el espacio de imágenes de Flow con las referencias reales adjuntas y usar este guion solo como plano de composición). Antes de generar la escena completa, quedan pendientes de decisión del autor: la referencia/estado del peto agrietado (ver ESTADO PERSISTENTE), el estado por defecto de las alas plegadas, el pie que entra en P03, la herencia de la mano derecha en el pecho durante P07-P08, y el grado de giro corporal en la frontera P17→P18."
+}

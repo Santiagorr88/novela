@@ -2,7 +2,7 @@
 
 Entidad demoníaca y Soberano Absoluto del Abismo. La fuente no fija su edad aparente.
 
-> **Nota 2026-09-16**: producción movida a Google Flow (Storyboard Studio); estilo oficial ahora **3D-Animation**. Pelo actualizado a largo/ondulado hasta el pecho (licencia de vídeo, confirmada por el autor — la prosa real dice "hasta los hombros", ver advertencia abajo). Vestuario final: túnica de batalla negra en capas, minimalista, sin dorado ni joyas, con matices rojo oscuro apenas visibles en los pliegues internos. Prompt completo en `design_notes/2026-09-16_flow_storyboard_studio_cap01.md` — esa es la autoridad de generación actual, no el texto de abajo.
+> **Nota 2026-09-16**: producción movida a Google Flow (Storyboard Studio); estilo oficial ahora **3D-Animation**. Pelo actualizado a largo/ondulado hasta el pecho (licencia de vídeo, confirmada por el autor — la prosa real dice "hasta los hombros", ver advertencia abajo). Vestuario final: túnica de batalla negra en capas, minimalista, sin dorado ni joyas, con matices rojo oscuro apenas visibles en los pliegues internos. El prompt de Flow usado ese día fue de prueba y se descartó. **Pendiente**: el texto de abajo no se ha verificado todavía contra `canonical/` tras ese descarte — hacer la misma pasada de verificación que se hizo con Gabriel antes de darlo por vigente.
 
 ## Identidad inmutable
 

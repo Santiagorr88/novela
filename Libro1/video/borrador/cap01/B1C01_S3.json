@@ -1,0 +1,1603 @@
+{
+  "escena": {
+    "id_escena": "B1C01_S3",
+    "titulo": "Las tres noches de Ónice (flashback)",
+    "resumen": "El recuerdo se apodera de la escena: la caída de las Puertas de Ónice le costó el ala a Miguel. Gabriel, sin que nadie lo enviara, se arrodilló tres noches enteras cauterizando el ala rota con su propia luz, hablándole de canciones viejas y del genio de Uriel para no dejar que el silencio decidiera que Miguel debía morir. Miguel le pregunta por qué no llamó a un sanador; Gabriel responde que a la gente que se ama no se le grita pidiendo ayuda — se va en persona.",
+    "localizacion": "Ruinas de las Puertas de Ónice (pasado) — fortaleza hundiéndose en el abismo",
+    "personajes": [
+      "Miguel",
+      "Gabriel"
+    ],
+    "parrafos_en": {
+      "desde": 18,
+      "hasta": 21
+    },
+    "parrafos_es": {
+      "desde": 18,
+      "hasta": 21
+    },
+    "duracion_objetivo_seg": 120,
+    "estado_canon_entrada": [
+      {
+        "id_personaje": "Miguel",
+        "forma": "celestial",
+        "heridas": [
+          "ala izquierda quemada/rota tras la caída de la fortaleza — herida física real de este flashback, ya cicatrizada en el presente del capítulo"
+        ],
+        "objetos": [],
+        "notas": "Olor a plumas quemadas, fortaleza gimiendo al hundirse en el abismo; tres noches al borde de la muerte."
+      },
+      {
+        "id_personaje": "Gabriel",
+        "forma": "celestial",
+        "heridas": [],
+        "objetos": [],
+        "notas": "Cauteriza el ala de Miguel con su propia luz, sin sanador ni orden de nadie; habla sin parar para no dejar hueco al silencio. Frase canon: 'El silencio es lo que deja a una herida decidir que es mortal.'"
+      }
+    ],
+    "requiere_aprobacion_autor": false
+  },
+  "planos": [
+    {
+      "id_plano": "B1C01_S3_P01",
+      "orden": 1,
+      "duracion_seg": 8,
+      "tipo_plano": "Gran plano general (extreme wide shot)",
+      "angulo": "Picado (high-angle), desde muy arriba",
+      "movimiento_camara": "Grúa descendente (crane down): comienza alta sobre el abismo y desciende hacia la fortaleza",
+      "encuadre_inicial": "El cielo y el abismo dominan el encuadre; muy pequeña al fondo, la fortaleza de las Puertas de Ónice ya inclinada hacia el vacío",
+      "encuadre_final": "La fortaleza ocupa gran parte del encuadre: muros partidos, humo y luz de incendio saliendo de las grietas",
+      "personajes_en_plano": [],
+      "accion_principal": "La fortaleza de las Puertas de Ónice se inclina y se hunde en el abismo; bloques de piedra se desprenden y caen al vacío.",
+      "accion_fondo": "Humo y chispas de fuego ascienden desde las grietas más profundas de la estructura mientras cae.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P01",
+        "fuente_luz": "Cielo nocturno nublado (luz ambiente fría) y grietas incandescentes de la fortaleza (práctica, fuego interior)",
+        "direccion": "La luz del cielo cae desde arriba sobre el abismo; el resplandor del fuego sale desde dentro de los muros hacia el exterior, en contraste",
+        "dureza": "Dura en los focos de fuego que asoman por las grietas; suave y difusa en la luz general del cielo nocturno",
+        "color_temperatura": "Fría azulada en el ambiente nocturno; cálida anaranjada en los focos de fuego de las grietas",
+        "clima": "Cielo cubierto, sin luna visible; humo asciende desde la estructura",
+        "ambiente": "Humo y chispas ascendentes desde las grietas más profundas; ninguna niebla añadida"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P01",
+        "vfx_principal": "Piedra de la fortaleza ya agrietada por la inclinación: el peso de la estructura al inclinarse fractura bloques en los puntos de tensión de los muros; los bloques se desprenden y caen hacia el abismo dejando una estela breve de polvo de piedra que se dispersa mientras los bloques desaparecen en la oscuridad. Quedan grietas nuevas visibles en los muros que permanecen en pie al final del plano.",
+        "vfx_fondo_simultaneo": "Refuerza el humo y las chispas ya definidos: mientras los bloques caen en primer plano de la caída, el humo asciende en paralelo desde las grietas más profundas — dos trayectorias opuestas (descenso de escombros / ascenso de humo) que deben leerse por separado, sin que una oculte a la otra.",
+        "fisica_entorno": "Contacto: ninguno (no hay personajes); causa: fractura por sobrecarga estructural, no impacto puntual. Escala: bloques grandes visibles individualmente, no una masa indistinta.",
+        "limitacion_conocida": "Colapso estructural a gran escala con fragmentos identificables es justo el caso que la guía marca como fallo probable (piezas que se fusionan, se recomponen o cambian de forma); si persiste, tratar como candidato a pases separados compuestos en la misma toma."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P01",
+        "id_plano_anterior": "",
+        "referencias_personajes": [],
+        "estado_entrada": "Sin personajes en cuadro (gran plano general del abismo, picado extremo). Por herencia del estado_canon_entrada de la escena: Miguel ya yace derrumbado dentro de la fortaleza con el ala izquierda quemada y rota bajo el cuerpo (aún no visible, fuera de este encuadre); Gabriel todavía no ha llegado a su lado. La fortaleza de las Puertas de Ónice aparece pequeña al fondo, ya inclinada hacia el vacío, bajo un cielo nocturno nublado sin luna.",
+        "estado_salida_previsto": "Sin personajes en cuadro. La fortaleza ocupa gran parte del encuadre tras el descenso de grúa: muros partidos, bloques desprendiéndose hacia el abismo, humo y luz de incendio saliendo de las grietas más profundas. El estado de Miguel y Gabriel fuera de cuadro no cambia respecto a la entrada (ninguna acción de personaje ocurre en este plano).",
+        "manos_y_objetos": [],
+        "heridas_visibles": [],
+        "frame_final_descripcion": "La fortaleza, ahora grande en cuadro, con muros agrietados, bloques cayendo al vacío dejando estela de polvo, y humo/chispas ascendiendo desde las grietas más profundas en paralelo al descenso de los bloques.",
+        "cambios_autorizados": [
+          {
+            "campo": "entorno.fortaleza.inclinacion",
+            "antes": "Muy pequeña al fondo del encuadre, apenas inclinada de forma perceptible.",
+            "despues": "Ocupa gran parte del encuadre, muros partidos y nuevas grietas visibles.",
+            "causa": "Descenso de grúa (crane down) que acompaña la caída estructural descrita en accion_principal; sin personajes implicados."
+          }
+        ],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P02",
+      "orden": 2,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos, ligeramente picado",
+      "movimiento_camara": "Travelling de aproximación (dolly in) hacia el interior de la sala en ruinas",
+      "encuadre_inicial": "El umbral derrumbado de una sala amplia; escombros y llamas bajas sobre el suelo inclinado",
+      "encuadre_final": "Miguel caído de costado en el centro de la sala, el ala izquierda quemada y doblada bajo su propio cuerpo",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel yace herido en el suelo inclinado, incapaz de levantarse, con el ala izquierda quemada y rota bajo el cuerpo.",
+      "accion_fondo": "El suelo sigue asentándose con crujidos; una columna cercana se desploma al fondo del encuadre.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P02",
+        "fuente_luz": "Llamas bajas repartidas sobre el suelo inclinado de la sala (práctica)",
+        "direccion": "La luz sube desde el suelo hacia los cuerpos y los muros; ilumina a Miguel principalmente desde abajo y ligeramente de lado",
+        "dureza": "Dura, con bordes de sombra definidos por el fuego cercano y el humo que los recorta",
+        "color_temperatura": "Cálida anaranjada, propia del fuego bajo",
+        "clima": "Interior en penumbra, sin luz exterior directa",
+        "ambiente": "Humo bajo que se arrastra por el suelo inclinado; sin niebla"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P02",
+        "vfx_principal": "Suelo de piedra inclinado y fracturado sigue asentándose bajo su propio peso: grietas se extienden y caen partículas finas de polvo desde el techo. Ninguna acción del ala de Miguel requerida aquí: se muestra en su estado ya quemado y doblado, sin movimiento propio.",
+        "vfx_fondo_simultaneo": "Refuerza el desplome de la columna ya definido: ocurre al fondo MIENTRAS la cámara hace dolly in hacia Miguel, que permanece inmóvil en primer término; la columna levanta una nube de polvo localizada en su punto de impacto, sin invadir la figura de Miguel en primer plano.",
+        "fisica_entorno": "Material: piedra fracturada + polvo fino en suspensión. Causa: asentamiento continuo, no un nuevo golpe. Resto: escombros de la columna esparcidos y visibles tras el impacto.",
+        "limitacion_conocida": "Derrumbe de columna con fragmentos propios: riesgo de piezas que se funden entre sí o cambian de forma al caer; revisar el fotograma de impacto y el reposo final de los fragmentos."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P02",
+        "id_plano_anterior": "B1C01_S3_P01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: tendido de costado sobre el suelo de piedra inclinado de la sala, en el umbral lejano al inicio del encuadre (el travelling se acerca a él), torso ligeramente girado hacia atrás, peso apoyado sobre el costado izquierdo y sobre la propia ala izquierda doblada bajo el cuerpo. Ojos cerrados, inconsciente. Brazo derecho extendido sobre el suelo junto al costado derecho, mano derecha enguantada en cuero oscuro, palma hacia abajo, dedos relajados, sin objeto sujetado, sin más contacto que el propio suelo. Brazo izquierdo parcialmente bajo el propio torso, mano izquierda enguantada en cuero oscuro, palma hacia abajo, dedos relajados, sin objeto, visibilidad parcial por el propio cuerpo. Ala derecha blanco perla, intacta, parcialmente visible extendida a su espalda. Ala izquierda quemada y rota en el tercio distal (gris ceniza a negro hacia la punta, mayoría del ala aún blanca), doblada y aplastada bajo el propio cuerpo, herida activa y sin tratar, visibilidad parcial (oculta en gran parte por el torso). Armadura celestial base: peto dorado sin grieta con estrella cian-blanca de ocho puntas, faldones azul medianoche, grebas y escarpes dorados; sin daño narrativo confirmado por el texto (no se inventa desgarro). Mirada sin dirección (ojos cerrados).",
+        "estado_salida_previsto": "Miguel: misma posición física de costado en el centro de la sala (no se desplaza durante el plano; solo cambia la distancia y el encuadre de cámara por el dolly in). Ojos entreabiertos (inicio de la apertura que continuará en P03), mirada sin foco, orientada vagamente hacia el suelo por la postura de costado. Mano derecha: igual que en la entrada, enguantada, palma hacia abajo sobre el suelo, sin objeto. Mano izquierda: igual que en la entrada, parcialmente bajo el torso, enguantada, sin objeto, visibilidad parcial. Ala derecha: blanco perla, intacta, sin cambio. Ala izquierda: quemada y rota en el tercio distal, doblada bajo el cuerpo, sin tratar, visibilidad parcial. Armadura sin cambio respecto a la entrada.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Enguantada en cuero oscuro, apoyada sobre el suelo de piedra junto al costado derecho, palma hacia abajo, dedos relajados; sin objeto sujetado.",
+            "mano_izquierda": "Enguantada en cuero oscuro, parcialmente atrapada bajo el propio torso junto al ala izquierda doblada, palma hacia abajo, dedos relajados; sin objeto sujetado; visibilidad parcial, tapada en gran parte por el propio cuerpo."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada y rota en el tercio distal (gris ceniza a negro hacia la punta); herida activa, sin cauterizar, con calor y humo residual implícito por el olor a plumas quemadas del relato.",
+            "lado": "izquierda anatómica (a la derecha del espectador visto de frente; a la izquierda si se ve de espaldas)",
+            "visibilidad": "parcial, doblada y aplastada bajo el propio cuerpo"
+          }
+        ],
+        "frame_final_descripcion": "Miguel visto ya de cerca, caído de costado en el centro de la sala en ruinas, con el ala izquierda quemada y doblada bajo el cuerpo; ojos entreabiertos; llamas bajas iluminan la escena desde el suelo.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel.ojos",
+            "antes": "Cerrados, inconsciente (heredado del estado_canon_entrada de la escena).",
+            "despues": "Entreabiertos, mirada sin foco.",
+            "causa": "El plano siguiente (P03) es un primer plano de su rostro que exige ojos entreabiertos y respiración forzada; este plano de aproximación (dolly in) debe mostrar el inicio de esa apertura para no saltar bruscamente entre planos consecutivos."
+          }
+        ],
+        "checklist_incidencias": [
+          "No existe referencia visual (imagen) para el estado 'ala izquierda quemada y activa, sin cauterizar' que requiere este plano y los siguientes hasta P09-P10. El único material de character_library sobre el ala dañada (states/burned_left_wing/README.md) describe explícitamente un daño ANTIGUO, frío y sin fuego/humo/resplandor — el aspecto de cicatriz ya asentada del presente del capítulo, no el de esta herida fresca del flashback. Se necesita una referencia o descripción adicional aprobada por el autor antes de generar, o mantener el estado en 'pendiente' según la regla del doc 18."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P03",
+      "orden": 3,
+      "duracion_seg": 6,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos, cámara baja",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "El rostro de Miguel llena el cuadro; ojos entreabiertos, respiración forzada",
+      "encuadre_final": "Mismo encuadre, sin corte de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El rostro de Miguel, al borde de la muerte, respira con esfuerzo.",
+      "accion_fondo": "Un par de plumas carbonizadas caen despacio por delante de cámara, atravesando el aire cargado de humo (olor a plumas quemadas del texto).",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P03",
+        "fuente_luz": "Las mismas llamas bajas de la sala, ahora fuera de cuadro, siguen siendo la fuente",
+        "direccion": "Luz rasante desde abajo y ligeramente lateral sobre el rostro de Miguel",
+        "dureza": "Dura pero atenuada por el humo suspendido, que suaviza el borde de sombra sobre la mejilla",
+        "color_temperatura": "Cálida anaranjada, más tenue que en el plano anterior",
+        "clima": "Aire cargado de humo dentro del encuadre cerrado",
+        "ambiente": "Plumas carbonizadas cruzan el haz de luz; partículas visibles que sugieren el humo de plumas quemadas"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P03",
+        "vfx_principal": "Plumas carbonizadas, material ligero: ya están en movimiento al iniciar el plano (no requieren gesto de desprendimiento visible). Trayectoria: caída lenta y oscilante — no recta ni rápida, dado su peso mínimo — cruzando por delante de cámara en diagonal a través del aire cargado de humo.",
+        "vfx_fondo_simultaneo": "No hay accion_fondo definida en este plano más allá de las plumas mismas; el humo ambiental (heredado de P01-P02) debe permanecer como bruma tenue detrás del rostro de Miguel, sin competir con él.",
+        "fisica_entorno": "Escala: plumas pequeñas y reconocibles, no una mancha borrosa. El humo se arremolina levemente a su paso, reforzando el contacto pluma/aire.",
+        "limitacion_conocida": "Caso análogo al ejercicio árbol/mosca de la guía: sujeto principal nítido (rostro) + elemento pequeño en movimiento cercano a cámara (plumas). Riesgo de que el generador pierda la pluma en el humo o la vuelva desproporcionada; vigilar profundidad de campo compartida."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P03",
+        "id_plano_anterior": "B1C01_S3_P02",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: mismo cuerpo tendido de costado que en la salida de P02, ahora en primer plano cerrado sobre el rostro (cámara baja, fija). Ojos entreabiertos, mirada sin foco, cabeza ligeramente ladeada hacia el suelo por la postura de costado, respiración ya forzada al iniciar el plano. Mano derecha e izquierda fuera de encuadre por el cierre del plano, pero físicamente presentes en la misma posición que en la salida de P02 (derecha sobre el suelo junto al costado, palma abajo, sin objeto; izquierda parcialmente bajo el torso, sin objeto). Ala izquierda quemada y rota, doblada bajo el cuerpo, fuera de encuadre pero presente sin cambio. Ala derecha blanco perla intacta, fuera de encuadre. Armadura sin cambio respecto a P02.",
+        "estado_salida_previsto": "Miguel: mismo encuadre fijo sin corte de cámara; el único cambio visible es la respiración forzada del rostro (torso, no registrado en este primer plano) y el paso de un par de plumas carbonizadas por delante de cámara. Ojos siguen entreabiertos, mirada sin foco. Ambas manos y ambas alas permanecen fuera de encuadre en la misma posición física que en la entrada (no se desplaza ni cambia de postura). Armadura sin cambio.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Fuera de encuadre por el cierre del plano; físicamente presente en la misma posición que en P02: enguantada, sobre el suelo junto al costado derecho, palma abajo, sin objeto sujetado.",
+            "mano_izquierda": "Fuera de encuadre; físicamente presente en la misma posición que en P02: enguantada, parcialmente bajo el torso, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada y rota en el tercio distal; herida activa, sin cauterizar. No visible en este encuadre (fuera de cuadro) pero presente sin cambio respecto a P02.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "fuera_de_encuadre (presente, no ausente)"
+          }
+        ],
+        "frame_final_descripcion": "Rostro de Miguel en primer plano, ojos entreabiertos, respiración forzada, iluminado por llamas bajas fuera de cuadro; un par de plumas carbonizadas cruzan el encuadre en diagonal, cayendo despacio a través del humo.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Riesgo señalado por el propio plano (vfx.limitacion_conocida): las plumas sueltas que cruzan cámara no deben confundirse con partes del cuerpo de Miguel ni alterar el inventario de su ala izquierda (que permanece fuera de cuadro, dañada, sin cambio); verificar en la toma generada que ninguna pluma del ala aparece o desaparece de forma que sugiera un cambio de estado del ala misma."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P04",
+      "orden": 4,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio (medium shot), plano de dos (two-shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Panorámica vertical (tilt down) que acompaña a Gabriel al arrodillarse",
+      "encuadre_inicial": "Gabriel de pie junto a Miguel; su luz azul-plata contrasta con el fuego rojizo del entorno",
+      "encuadre_final": "Gabriel ya arrodillado junto al costado de Miguel; ambos dentro de cuadro",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel llega sin que nadie lo enviara y se arrodilla junto a Miguel.",
+      "accion_fondo": "Al fondo, un fragmento del techo se desprende y cae hacia el abismo con un estruendo apagado.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P04",
+        "fuente_luz": "Se añade la luz propia de Gabriel (azul-plata, motivada por su naturaleza) junto a las llamas bajas ya establecidas",
+        "direccion": "La luz de Gabriel lo acompaña y desciende con él al arrodillarse, incidiendo sobre su propio cuerpo; el fuego del entorno sigue llegando desde el suelo hacia Miguel",
+        "dureza": "La luz de Gabriel es suave y difusa, sin bordes duros; el fuego de fondo mantiene su dureza habitual",
+        "color_temperatura": "Contraste entre el azul-plata frío de Gabriel y el naranja cálido del fuego circundante",
+        "clima": "Mismo interior en penumbra",
+        "ambiente": "El fragmento de techo que cae al fondo levanta una nube breve de polvo y chispas"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P04",
+        "vfx_principal": "Ninguna interacción física nueva del entorno sobre Gabriel o Miguel en primer término más allá de su llegada y el gesto de arrodillarse (acción principal ya definida, no VFX). Se establece aquí el comportamiento lumínico base de Gabriel (azul-plata) como fuente que empezará a iluminar superficies cercanas, sin contacto todavía.",
+        "vfx_fondo_simultaneo": "Refuerza el fragmento de techo ya definido: piedra ya fracturada que se desprende y cae verticalmente hacia el abismo, fuera del área donde están los personajes, mientras Gabriel se arrodilla en primer término. 'Mientras' marca tiempo compartido, no causalidad: Gabriel no provoca la caída.",
+        "fisica_entorno": "El fragmento no deja resto visible en cuadro (cae fuera de encuadre final hacia el abismo); posible estela breve de polvo en su descenso.",
+        "limitacion_conocida": "Sincronizar el 'estruendo apagado' del derrumbe con el instante exacto de la caída no está garantizado por texto (la guía señala que la sincronización precisa impacto/sonido debe ajustarse en edición, no prometerse en el prompt)."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P04",
+        "id_plano_anterior": "B1C01_S3_P03",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: mismo cuerpo tendido de costado que en la salida de P03, ahora en plano medio de dos (visibilidad parcial por el encuadre más amplio, torso superior visible, piernas probablemente fuera o al borde de cuadro). Ojos entreabiertos, mirada sin foco. Mano derecha visible parcialmente en el borde de cuadro, enguantada, sobre el suelo junto al costado, sin objeto. Mano izquierda parcialmente bajo el torso, visibilidad parcial, sin objeto. Ala izquierda quemada y rota, doblada bajo el cuerpo, visibilidad parcial; ala derecha blanco perla intacta, visibilidad parcial. Armadura sin cambio. || Gabriel: de pie junto a Miguel, aproximándose, encuadre inicial. Halo ambiental azul-plata tenue y frío ya activo (rasgo permanente de su ficha), sin brillo sobrenatural en los ojos. Cuerpo esbelto de 1,95 m, pelo negro liso hasta los hombros. Brazo derecho junto al costado, mano derecha vacía, sin el bastón Vox Aeternum (el estado_canon_entrada de la escena declara objetos:[] para Gabriel, desviación deliberada de su body_reference canónico, que lo muestra con el bastón en la mano derecha). Brazo izquierdo junto al costado, mano izquierda vacía. Dos alas blancas inmaculadas, parcialmente plegadas a su espalda. Túnica azul zafiro hasta el suelo, peto delgado de plata pulida con hombreras grabadas de plumas, bordado de plata en cuello y bajos. Mirada dirigida hacia Miguel y su ala herida.",
+        "estado_salida_previsto": "Miguel: sin cambio físico respecto a la entrada (la panorámica vertical acompaña a Gabriel, no a Miguel); misma posición, mismas manos, misma ala herida, mismos ojos entreabiertos. || Gabriel: ya arrodillado junto al costado de Miguel, ambas manos aún vacías y sin contacto todavía con Miguel — mano derecha apoyada sobre el propio muslo derecho, dedos relajados; mano izquierda apoyada sobre el propio muslo izquierdo, dedos relajados. Alas parcialmente plegadas tras la espalda por la postura arrodillada, visibilidad parcial. Mirada fija en el ala herida de Miguel, cabeza inclinada hacia abajo.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Sin cambio respecto a P03: enguantada, sobre el suelo junto al costado derecho, palma abajo, sin objeto sujetado; ahora parcialmente visible en el borde del encuadre medio.",
+            "mano_izquierda": "Sin cambio respecto a P03: enguantada, parcialmente bajo el torso, sin objeto sujetado; visibilidad parcial."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Vacía durante todo el plano; pasa de oscilar junto al costado al caminar (entrada) a apoyarse sobre el propio muslo derecho ya arrodillado (salida); sin objeto ni bastón; no toca aún a Miguel.",
+            "mano_izquierda": "Vacía durante todo el plano; mismo recorrido que la derecha, de junto al costado a apoyada sobre el propio muslo izquierdo; sin objeto; no toca aún a Miguel."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada y rota en el tercio distal; herida activa, sin cauterizar; sin cambio respecto a P03.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "parcial"
+          },
+          {
+            "id_personaje": "Gabriel",
+            "herida": "Ninguna.",
+            "lado": "n/a",
+            "visibilidad": "no_aplica"
+          }
+        ],
+        "frame_final_descripcion": "Gabriel ya arrodillado junto al costado de Miguel, ambas manos vacías apoyadas sobre sus propios muslos, luz azul-plata suave sobre su figura en contraste con el resplandor anaranjado del fuego ambiental; al fondo, un fragmento de techo cae hacia el abismo.",
+        "cambios_autorizados": [
+          {
+            "campo": "Gabriel.pose_corporal",
+            "antes": "De pie junto a Miguel, aproximándose.",
+            "despues": "Arrodillado junto al costado de Miguel.",
+            "causa": "Movimiento de cámara (tilt down) y accion_principal explícitos del propio plano: Gabriel se arrodilla junto a Miguel."
+          }
+        ],
+        "checklist_incidencias": [
+          "Primera aparición de Gabriel en la escena: su referencia canónica (body_reference.png) lo muestra sosteniendo el bastón Vox Aeternum en la mano derecha, pero el estado_canon_entrada de esta escena fija objetos:[] para él (manos vacías, deliberado — llega en persona, sin ceremonia). Riesgo real de que el generador reintroduzca el bastón al usar esa imagen como ancla de identidad; debe suprimirse explícitamente en el prompt y volver a comprobarse en cada plano donde las manos de Gabriel queden fuera de encuadre (P06, P08, P09, P11-P13, P15, P16), ya que el bastón podría 'reaparecer' exactamente como el bug de la mano que desaparece y vuelve.",
+          "Ningún plano de la escena declara explícitamente el eje de acción (lado_eje) entre Miguel y Gabriel. Este es el primer plano de dos, por lo que aquí debe fijarse en qué lado de pantalla queda cada uno; sin esa declaración hay riesgo de que Gabriel cruce de lado sin corte que lo justifique en los planos de dos posteriores (P07, P11-P15)."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P05",
+      "orden": 5,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano detalle (detail / insert shot)",
+      "angulo": "Altura de ojos, muy cercano",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Las manos de Gabriel se acercan al ala rota de Miguel, todavía sin contacto",
+      "encuadre_final": "Las manos de Gabriel posadas sobre la herida del ala; un resplandor tenue nace entre sus dedos",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel posa las manos sobre el ala quemada de Miguel y comienza a canalizar su propia luz hacia la herida.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P05",
+        "fuente_luz": "La luz de Gabriel nace entre sus dedos y se convierte en la fuente dominante del plano",
+        "direccion": "Emerge directamente del punto de contacto entre sus manos y el ala herida, iluminando la herida desde muy cerca",
+        "dureza": "Suave, un resplandor difuso sin borde definido, que crece en intensidad",
+        "color_temperatura": "Azul-plata frío, propio de la luz de Gabriel",
+        "clima": "El resto de la sala queda fuera de este resplandor cercano",
+        "ambiente": "Sin atmósfera añadida; el plano se concentra en el punto de luz"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P05",
+        "vfx_principal": "Plano fundacional de la cauterización: piel/pluma quemada del ala como material de contacto. El resplandor nace ÚNICAMENTE en el punto donde las manos de Gabriel tocan la herida (patrón 'cuando A apoya, el material en el punto de contacto responde') — no antes del contacto. El resplandor permanece localizado entre los dedos, sin expandirse a otras zonas del cuadro todavía.",
+        "vfx_fondo_simultaneo": "Ninguno (accion_fondo vacía en este plano; es un insert cerrado sobre manos y herida).",
+        "fisica_entorno": "Causa y contacto: el toque físico precede a la emisión de luz, no al revés. Trayectoria: el resplandor crece desde el punto de contacto hacia afuera, gradual.",
+        "limitacion_conocida": "Riesgo principal del plano: que el resplandor aparezca antes de que las manos completen el contacto (fuga de luz anticipada), rompiendo la regla causa→respuesta; revisar el fotograma exacto del contacto."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P05",
+        "id_plano_anterior": "B1C01_S3_P04",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: ala izquierda quemada y rota en el tercio distal, herida activa sin tratar, sin cambio respecto a la salida de P04; el resto del cuerpo (manos, postura) queda fuera de este encuadre cerrado (insert), pero permanece presente sin cambio: mano derecha sobre el suelo sin objeto, mano izquierda parcialmente bajo el torso sin objeto, ambas fuera_de_encuadre. || Gabriel: ambas manos aún sin contacto, acercándose al ala rota de Miguel; mano derecha extendida hacia la zona proximal de la herida (tercio cercano a la base del ala), dedos ligeramente curvados, sin tocar todavía; mano izquierda extendida hacia la zona distal (tercio medio-exterior, hacia la rotura), dedos ligeramente curvados, sin tocar todavía; sin objeto en ninguna mano.",
+        "estado_salida_previsto": "Miguel: ala izquierda sin cambio de daño (aún no hay avance de curación, solo empieza el contacto); visibilidad parcial, cubierta en parte por las manos de Gabriel. Resto del cuerpo fuera de encuadre, sin cambio. || Gabriel: mano derecha posada de plano sobre la zona proximal de la herida, dedos ligeramente curvados envolviendo el borde de la quemadura; mano izquierda posada de plano sobre la zona distal, dedos ligeramente curvados; un resplandor azul-plata tenue nace entre los dedos, únicamente en el punto de contacto, sin extenderse aún a otras zonas del ala. Ninguna mano sujeta objeto: el propio contacto es la acción.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Pasa de extendida sin contacto (entrada) a posada de plano sobre la zona proximal de la herida del ala izquierda de Miguel (salida), dedos curvados envolviendo el borde de la quemadura; sin objeto sujetado; el resplandor nace en el punto de contacto de esta mano.",
+            "mano_izquierda": "Pasa de extendida sin contacto (entrada) a posada de plano sobre la zona distal de la herida (salida), dedos curvados; sin objeto sujetado; comparte el nacimiento del resplandor con la mano derecha."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada y rota en el tercio distal; herida activa; al final del plano recibe el primer contacto de luz, sin avance de cierre todavía (solo empieza el resplandor en el punto de contacto).",
+            "lado": "izquierda anatómica",
+            "visibilidad": "parcial, cubierta en parte por las manos de Gabriel"
+          }
+        ],
+        "frame_final_descripcion": "Insert cerrado: ambas manos de Gabriel posadas sobre el ala rota de Miguel, un resplandor azul-plata tenue naciendo entre los dedos en el punto exacto de contacto; el resto del ala aún muestra el daño sin tratar.",
+        "cambios_autorizados": [
+          {
+            "campo": "contacto.manos_gabriel_ala_miguel",
+            "antes": "Sin contacto (manos extendidas, aproximándose).",
+            "despues": "Contacto establecido (ambas manos posadas sobre la herida, resplandor naciendo entre los dedos).",
+            "causa": "accion_principal explícita del plano: 'Gabriel posa las manos sobre el ala quemada de Miguel y comienza a canalizar su propia luz hacia la herida'."
+          }
+        ],
+        "checklist_incidencias": [
+          "La posición exacta de cada mano de Gabriel sobre el ala (derecha en zona proximal, izquierda en zona distal) no está especificada por el texto original; es una propuesta de blocking del agente, pendiente de confirmación del autor si prefiere otra disposición — debe fijarse aquí porque los planos siguientes (P06, P07, P10) heredan este punto de contacto exacto sin volver a describirlo desde cero.",
+          "Riesgo propio ya señalado en el plano (vfx.limitacion_conocida): el resplandor no debe aparecer antes de que el contacto quede completado; verificar el fotograma exacto del contacto en la generación."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P06",
+      "orden": 6,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos, tres cuartos",
+      "movimiento_camara": "Cámara fija con cambio de foco (rack focus) desde la luz sobre la herida hacia el rostro de Gabriel",
+      "encuadre_inicial": "La luz de Gabriel nítida sobre la herida; su rostro desenfocado detrás",
+      "encuadre_final": "El foco pasa al rostro concentrado de Gabriel; la luz sobre el ala queda desenfocada en primer término",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "La luz de Gabriel cauteriza la herida; su rostro muestra la concentración del esfuerzo sostenido.",
+      "accion_fondo": "Un hilo de humo sube desde el punto de contacto entre la luz y las plumas chamuscadas.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P06",
+        "fuente_luz": "La luz de Gabriel sobre la herida sigue siendo la fuente principal; ilumina su rostro desde abajo por proximidad",
+        "direccion": "Luz ascendente desde el punto de contacto hacia el rostro de Gabriel, tipo contrapicado lumínico",
+        "dureza": "Suave sobre la herida nítida en primer término; se mantiene suave también al desenfocarse sobre el rostro",
+        "color_temperatura": "Azul-plata, con un ligero calentamiento donde se mezcla con el humo que asciende",
+        "clima": "Interior cerrado, sin cambios",
+        "ambiente": "Un hilo de humo sube entre la luz y las plumas chamuscadas, visible a contraluz"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P06",
+        "vfx_principal": "Continuación directa de P05: la luz de Gabriel cauteriza el tejido dañado; ningún nuevo gesto de manos, solo sostenimiento del contacto ya establecido mientras el foco (rack focus) se desplaza de la herida al rostro.",
+        "vfx_fondo_simultaneo": "Refuerza el hilo de humo ya definido: nace en el punto exacto de contacto entre la luz y las plumas chamuscadas, asciende fino y vertical, y sigue visible (aunque desenfocado) en primer término MIENTRAS el foco pasa al rostro de Gabriel — el rack focus no debe usarse para ocultar el origen del humo.",
+        "fisica_entorno": "Material: pluma/tejido en combustión lenta por el calor de la luz. Emisión localizada, humo unido a su fuente, sin dispersarse por el resto del cuadro.",
+        "limitacion_conocida": "El banco de frases de la guía advierte explícitamente: 'humo unido a la fuente'; no debe llenar el cuadro ni ocultar el ala ni la mano de Gabriel."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P06",
+        "id_plano_anterior": "B1C01_S3_P05",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: ala izquierda en el mismo punto de contacto que la salida de P05, herida aún mayormente activa, con el resplandor localizado en el punto de contacto; visible nítida en primer término del encuadre (rack focus empieza aquí). Resto del cuerpo fuera de encuadre, sin cambio. || Gabriel: ambas manos en la misma posición que la salida de P05 (derecha en zona proximal, izquierda en zona distal de la herida), sosteniendo el contacto sin gesto nuevo; su rostro, desenfocado al inicio, muestra concentración.",
+        "estado_salida_previsto": "Miguel: el tejido bajo el punto de contacto empieza a cerrarse (avance mínimo, no cuantificado con precisión, pero visiblemente iniciado); el resto de la herida permanece abierta; un hilo de humo fino y vertical asciende desde el punto de contacto entre la luz y las plumas chamuscadas, sin dispersarse por el resto del cuadro. || Gabriel: mismas manos, mismo punto de contacto, sin gesto nuevo (solo sostenimiento); el foco de cámara pasa de la herida a su rostro, ahora nítido, mostrando concentración por el esfuerzo sostenido.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Sin gesto nuevo; se mantiene en el mismo punto de contacto establecido en P05 (zona proximal de la herida), sin objeto sujetado.",
+            "mano_izquierda": "Sin gesto nuevo; se mantiene en el mismo punto de contacto establecido en P05 (zona distal de la herida), sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada y rota; el tejido bajo el punto de contacto inicia su cierre (avance mínimo respecto a P05); el resto de la herida sigue abierta; hilo de humo fino asciende del punto de contacto.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "parcial, nítida en primer término y luego desenfocada por el rack focus"
+          }
+        ],
+        "frame_final_descripcion": "El foco pasa de la herida (ahora desenfocada en primer término, con un hilo de humo visible a contraluz) al rostro concentrado de Gabriel, nítido, iluminado desde abajo por la luz que sostiene sobre el ala.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel.ala_izquierda.tejido_punto_contacto",
+            "antes": "Herida activa sin tratar en el punto de contacto (P05 salida).",
+            "despues": "Tejido bajo el punto de contacto inicia su cierre; resto de la herida sin cambio.",
+            "causa": "accion_principal explícita: 'la luz de Gabriel cauteriza la herida'; vfx_principal confirma continuidad directa del contacto de P05."
+          }
+        ],
+        "checklist_incidencias": [
+          "El propio plano advierte (vfx.limitacion_conocida) que el humo debe permanecer 'unido a la fuente' y no ocultar el ala ni la mano de Gabriel durante el rack focus; riesgo de continuidad si el humo crece más allá del punto de contacto."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P07",
+      "orden": 7,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general fijo (locked-off wide shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Gabriel arrodillado junto a Miguel en primer término; detrás, la fortaleza partida recortada contra el cielo nocturno",
+      "encuadre_final": "Misma composición; el nivel de la estructura ha descendido visiblemente en el abismo, señal del paso del tiempo",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel permanece arrodillado, sosteniendo la luz sobre la herida sin interrupción.",
+      "accion_fondo": "Mientras tanto, al fondo, la fortaleza sigue hundiéndose muy lentamente en el abismo y sus muros se asientan con nuevos desprendimientos.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P07",
+        "fuente_luz": "La luz de Gabriel en primer término y el resplandor de incendios distantes en la estructura al fondo",
+        "direccion": "La luz de Gabriel permanece fija sobre la herida en primer término; el fuego de fondo llega recortado contra el cielo nocturno, sin alcanzar a los personajes",
+        "dureza": "Suave en primer término (luz de Gabriel); dura y puntual en los focos de fuego lejanos del fondo",
+        "color_temperatura": "Azul-plata en primer término, anaranjada distante al fondo",
+        "clima": "Cielo nocturno despejado sobre el abismo",
+        "ambiente": "Sin niebla; solo el humo distante de la estructura al hundirse"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P07",
+        "vfx_principal": "Ninguna acción nueva de Gabriel o Miguel (mantienen la postura de P06); el plano existe para mostrar el paso del tiempo mediante el contraste entre su quietud en primer término y el descenso lentísimo de la fortaleza al fondo.",
+        "vfx_fondo_simultaneo": "Refuerza el hundimiento gradual ya definido: los muros se asientan con nuevos desprendimientos, y el nivel de la estructura debe leerse más bajo en el encuadre final que en el inicial pese a ser un plano fijo — dos velocidades simultáneas en el mismo cuadro (personajes estáticos / fortaleza en descenso casi imperceptible).",
+        "fisica_entorno": "Escala de los nuevos desprendimientos: menor que en P01 (menos polvo y menos bloques), coherente con una fortaleza que se acerca a un reposo relativo.",
+        "limitacion_conocida": "Movimiento de fondo extremadamente sutil y posiblemente bajo el umbral perceptible del generador en 7 segundos; comparar fotograma inicial y final tras la generación para confirmar que el descenso es visible."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P07",
+        "id_plano_anterior": "B1C01_S3_P06",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: misma postura tendida que en la salida de P06, visible en plano general (ya no insert): de costado, ala izquierda con el tejido del punto de contacto iniciando su cierre, resto de la herida abierta; ambas manos sin cambio (derecha sobre el suelo, izquierda parcialmente bajo el torso, ninguna con objeto), ojos entreabiertos sin foco. || Gabriel: arrodillado junto a Miguel, ambas manos en el mismo punto de contacto sobre el ala (derecha en zona proximal, izquierda en zona distal), sosteniendo la luz sin interrupción; rostro concentrado, mirada en la herida.",
+        "estado_salida_previsto": "Idéntico a la entrada en todo lo referente a personajes: el propio plano exige explícitamente que 'la postura de ambos se mantiene igual' pese al paso del tiempo (encuadre fijo, sin corte). Miguel: misma postura, mismas manos, misma ala en el mismo punto de cierre. Gabriel: mismas manos en el mismo punto de contacto, misma mirada en la herida. Lo único que cambia en este plano es el entorno: la fortaleza al fondo se hunde un poco más en el abismo.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Sin cambio respecto a P06: enguantada, sobre el suelo junto al costado, sin objeto; ahora visible en plano general de costado.",
+            "mano_izquierda": "Sin cambio respecto a P06: enguantada, parcialmente bajo el torso, sin objeto; visibilidad parcial."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Sin cambio: mantiene el punto de contacto de P05-P06 (zona proximal de la herida), sin objeto sujetado.",
+            "mano_izquierda": "Sin cambio: mantiene el punto de contacto de P05-P06 (zona distal de la herida), sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada; tejido del punto de contacto iniciando cierre, resto abierta; sin cambio respecto a P06 (el propio plano no autoriza avance de curación, solo paso de tiempo ambiental).",
+            "lado": "izquierda anatómica",
+            "visibilidad": "parcial"
+          }
+        ],
+        "frame_final_descripcion": "Misma composición general que al inicio del plano: Gabriel arrodillado sosteniendo la luz sobre el ala de Miguel en primer término, quietud total de ambos personajes, mientras al fondo la fortaleza se ha hundido visiblemente más en el abismo con nuevos desprendimientos menores.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P08",
+      "orden": 8,
+      "duracion_seg": 6,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos, leve contrapicado",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Rostro de Gabriel, hablando, luz reflejada en su piel",
+      "encuadre_final": "Mismo encuadre",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel sigue hablando sin pausa —de canciones viejas y del genio de Uriel— para no dejar que el silencio se instale.",
+      "accion_fondo": "Miguel, parcialmente visible al borde del encuadre, mantiene los ojos cerrados, escuchando.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P08",
+        "fuente_luz": "La luz de Gabriel, ahora más estable y constante, sigue siendo la fuente clave",
+        "direccion": "Incide sobre su piel desde abajo y ligeramente de frente, reflejándose en su rostro mientras habla",
+        "dureza": "Suave, sin variación respecto al plano anterior de su luz",
+        "color_temperatura": "Azul-plata constante",
+        "clima": "Sin cambios en el interior",
+        "ambiente": "Ninguna, para no distraer del rostro"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P08",
+        "vfx_principal": "Ninguno. Es un plano de actuación y diálogo puro (Gabriel hablando, Miguel escuchando con los ojos cerrados); no hay interacción física del entorno indicada en el guion y no debe inventarse una.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Estado a mantener por continuidad: la luz de Gabriel sobre la herida sigue activa como condición de fondo (heredada de P05-P06), no como nueva acción de este plano.",
+        "limitacion_conocida": "No aplica."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P08",
+        "id_plano_anterior": "B1C01_S3_P07",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: mismo cuerpo tendido de la salida de P07, parcialmente visible al borde del encuadre (primer plano centrado en Gabriel); ojos aún entreabiertos, ala izquierda sin cambio de curación. Manos sin cambio, fuera de encuadre por el cierre del plano. || Gabriel: rostro en primer plano, luz de la cauterización ahora más estable y constante, hablando sin pausa; ambas manos fuera de encuadre pero presentes sin cambio en el mismo punto de contacto establecido en P05.",
+        "estado_salida_previsto": "Miguel: ojos que pasan de entreabiertos (heredado) a cerrados, escuchando conscientemente, con la cabeza ligeramente vuelta hacia la voz de Gabriel; resto del cuerpo, manos y ala sin cambio de posición. || Gabriel: sigue hablando, misma posición de manos sobre la herida, sin gesto nuevo; mirada dirigida hacia la herida/Miguel mientras habla.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Fuera de encuadre (primer plano de rostro); presente sin cambio, sosteniendo el mismo punto de contacto sobre la herida establecido en P05, sin objeto sujetado ni bastón.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio, mismo punto de contacto distal, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada; avance de cierre no cuantificado por el texto en este plano (se mantiene como mayormente abierta, con la franja ya cerrada desde P06 en el punto de contacto); fuera de encuadre.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "fuera_de_encuadre (presente, no ausente)"
+          }
+        ],
+        "frame_final_descripcion": "Rostro de Gabriel hablando sin pausa, luz reflejada en su piel; al borde del encuadre, Miguel parcialmente visible con los ojos cerrados, escuchando.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel.ojos",
+            "antes": "Entreabiertos, mirada sin foco (P02-P07).",
+            "despues": "Cerrados, escuchando conscientemente, cabeza levemente vuelta hacia la voz de Gabriel.",
+            "causa": "accion_fondo explícita del plano: 'Miguel... mantiene los ojos cerrados, escuchando'. Marca una mejora de conciencia respecto al estado de semi-inconsciencia de P02-P07, coherente con el avance de la cauterización."
+          }
+        ],
+        "checklist_incidencias": [
+          "Punto de riesgo del bastón de Gabriel (ver incidencia de P04): en este primer plano de rostro, con ambas manos fuera de cuadro, es uno de los puntos donde el generador podría reintroducir el Vox Aeternum al anclar la identidad en body_reference.png; debe suprimirse explícitamente."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P09",
+      "orden": 9,
+      "duracion_seg": 7,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Rostro de Gabriel, expresión seria",
+      "encuadre_final": "Mismo encuadre; mantiene la mirada baja hacia la herida mientras habla",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel dice la frase que sostiene la herida frente al silencio.",
+      "accion_fondo": "",
+      "dialogo_es": "El silencio es lo que deja a una herida decidir que es mortal.",
+      "dialogo_en": "Silence is what lets a wound decide it's mortal.",
+      "luz": {
+        "id_plano": "B1C01_S3_P09",
+        "fuente_luz": "Misma luz de Gabriel, sin nueva fuente",
+        "direccion": "Se mantiene igual, ligeramente más baja de intensidad para marcar la seriedad de la frase",
+        "dureza": "Suave, con las sombras algo más marcadas bajo los ojos por el descenso de intensidad",
+        "color_temperatura": "Azul-plata, algo más apagado",
+        "clima": "Sin cambios",
+        "ambiente": "Sin partículas visibles; plano despejado para la línea de diálogo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P09",
+        "vfx_principal": "Ninguno. Close-up de diálogo puro sobre la frase clave del plano; sin VFX de entorno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "No aplica más allá de mantener el estado lumínico ya establecido fuera de cuadro.",
+        "limitacion_conocida": "No aplica."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P09",
+        "id_plano_anterior": "B1C01_S3_P08",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: fuera de encuadre (primer plano cerrado en Gabriel); presente sin cambio respecto a la salida de P08: ojos cerrados, escuchando, cuerpo tendido, ala izquierda sin cambio de curación, ambas manos sin objeto en su posición habitual. || Gabriel: rostro en primer plano, expresión seria, mirada baja hacia la herida mientras se prepara para hablar; ambas manos fuera de encuadre, presentes sin cambio en el mismo punto de contacto.",
+        "estado_salida_previsto": "Miguel: sin cambio (el plano es un close-up de diálogo puro sobre Gabriel; Miguel permanece fuera de encuadre, mismo estado). || Gabriel: mantiene la mirada baja hacia la herida mientras dice la frase clave ('El silencio es lo que deja a una herida decidir que es mortal.'); intensidad de su luz ligeramente más baja para marcar la seriedad; manos sin cambio en el mismo punto de contacto.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio, mismo punto de contacto proximal sobre la herida, sin objeto ni bastón.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio, mismo punto de contacto distal, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada; sin cambio respecto a P08; fuera de encuadre.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "fuera_de_encuadre (presente, no ausente)"
+          }
+        ],
+        "frame_final_descripcion": "Rostro serio de Gabriel, mirada baja hacia la herida, diciendo: 'El silencio es lo que deja a una herida decidir que es mortal.' / 'Silence is what lets a wound decide it's mortal.'",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Mismo riesgo de reaparición del bastón que en P08 (manos fuera de cuadro); mantener la supresión explícita."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P10",
+      "orden": 10,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle (detail / insert shot)",
+      "angulo": "Cenital leve sobre el ala",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "El ala de Miguel; la zona cauterizada muestra el avance de la luz sobre la carne quemada",
+      "encuadre_final": "Mismo encuadre; la luz ha cubierto una franja mayor de la herida",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "La luz de Gabriel sigue avanzando sobre el tejido dañado del ala, cerrando la herida centímetro a centímetro.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P10",
+        "fuente_luz": "La luz de Gabriel avanzando sobre el tejido dañado del ala",
+        "direccion": "Cenital leve, coherente con el ángulo de cámara; la luz recorre la herida desde el punto original hacia una franja mayor",
+        "dureza": "Suave, borde de avance difuso entre la zona ya cerrada y la que sigue quemada",
+        "color_temperatura": "Azul-plata sobre la piel cauterizada, con un resto cálido residual en el tejido aún dañado",
+        "clima": "Sin cambios",
+        "ambiente": "Ninguna"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P10",
+        "vfx_principal": "Plano de progreso de la cauterización: continuidad directa del contacto ya establecido (no un nuevo gesto). El borde de luz avanza gradualmente sobre la superficie quemada del ala, cubriendo centímetro a centímetro; la zona ya tratada debe mostrar un tono distinto (cerrada) frente a la zona aún abierta, con posible hilo de humo puntual donde el avance toca tejido fresco.",
+        "vfx_fondo_simultaneo": "Ninguno (accion_fondo vacía; insert cerrado sobre el ala).",
+        "fisica_entorno": "Resto: al final del plano una franja mayor de la herida aparece cerrada respecto al encuadre inicial, coherente con el estado alcanzado en P06.",
+        "limitacion_conocida": "Plano crítico de continuidad 'estado de entrada → cambio visible → estado de salida': riesgo de que el generador reinicie la herida a su estado original si no se referencia el fotograma del plano anterior; el avance de este plano debe alimentar el estado de partida del siguiente."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P10",
+        "id_plano_anterior": "B1C01_S3_P09",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: ala izquierda visible en insert cenital leve; la franja ya cerrada desde P06 en el punto de contacto sigue visible, el resto continúa dañado; tono distinto entre zona tratada (cerrada) y zona aún quemada. Resto del cuerpo fuera de encuadre, sin cambio. || Gabriel: ambas manos visibles en el mismo punto de contacto establecido en P05 (derecha proximal, izquierda distal), sosteniendo el avance de la luz; sin gesto nuevo, continuidad directa del contacto ya establecido.",
+        "estado_salida_previsto": "Miguel: una franja mayor del ala aparece cerrada respecto al encuadre inicial de este plano — el borde de luz avanza centímetro a centímetro desde el punto de contacto original hacia el resto de la herida; posible hilo de humo puntual donde el avance toca tejido fresco. Aún queda una porción de la herida sin cerrar (no se declara curación total en este plano). || Gabriel: mismas manos, mismo punto de contacto, avanzando junto con el borde de luz; sin gesto nuevo.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Visible en el insert, mismo punto de contacto proximal sobre la herida que en P05-P09, sin objeto ni bastón.",
+            "mano_izquierda": "Visible en el insert, mismo punto de contacto distal, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada; franja mayor que en el plano anterior aparece cerrada (tono distinto: piel cauterizada frente a tejido aún quemado); resto de la herida todavía abierta.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "visible (insert cerrado sobre el ala)"
+          }
+        ],
+        "frame_final_descripcion": "El ala de Miguel con una franja mayor ya cerrada respecto al encuadre inicial del propio plano; el borde de luz de Gabriel sigue avanzando sobre el tejido dañado.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel.ala_izquierda.zona_cerrada",
+            "antes": "Solo el tejido en el punto de contacto original (heredado de P06-P09).",
+            "despues": "Franja mayor cerrada, avanzando desde el punto de contacto hacia el resto de la herida.",
+            "causa": "accion_principal y vfx_principal explícitos del propio plano: 'la luz de Gabriel sigue avanzando sobre el tejido dañado del ala, cerrando la herida centímetro a centímetro'."
+          }
+        ],
+        "checklist_incidencias": [
+          "El propio plano advierte (vfx.limitacion_conocida) el riesgo de que el generador reinicie la herida a su estado original si no se referencia el fotograma de P06/P09; este es el plano crítico de 'estado de entrada → cambio visible → estado de salida' que alimenta directamente P11-P13. La fracción exacta de cierre ('franja mayor') no está cuantificada por el texto; se propone como avance visible pero parcial, sin llegar al cierre total, dejando margen para el avance de P11-P12."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P11",
+      "orden": 11,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Travelling lateral corto (truck) que revela el cambio de luz exterior",
+      "encuadre_inicial": "La escena en penumbra de la primera noche; Gabriel y Miguel en el mismo lugar",
+      "encuadre_final": "Una claridad grisácea de amanecer entra por una grieta superior; la postura de ambos se mantiene igual",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Pasa la primera noche entera; Gabriel no se ha movido de su sitio, sosteniendo la luz sobre la herida.",
+      "accion_fondo": "Al fondo, la fortaleza se asienta un poco más en el abismo con cada hora que pasa.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P11",
+        "fuente_luz": "Se añade una claridad grisácea que entra por una grieta superior (motivada, primer amanecer); la luz de Gabriel se mantiene sobre la herida",
+        "direccion": "La claridad del amanecer cae desde arriba a través de la grieta; la luz de Gabriel sigue fija en el mismo punto que antes",
+        "dureza": "Dura en el haz de amanecer que entra por la grieta estrecha; suave en la luz de Gabriel, sin cambios",
+        "color_temperatura": "Gris azulado frío del amanecer, distinto del azul-plata de Gabriel; ambas fuentes conviven sin fundirse",
+        "clima": "Primer amanecer tras la noche cerrada; el fuego del entorno ya se ha consumido en gran parte",
+        "ambiente": "Polvo suspendido visible dentro del haz que entra por la grieta"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P11",
+        "vfx_principal": "Transición de luz ambiental: un haz de claridad grisácea entra por una grieta superior y se hace progresivamente más visible mientras la cámara hace un truck lateral corto. El contraste entre la luz azul-plata de Gabriel y la luz fría del amanecer se acentúa a lo largo del plano.",
+        "vfx_fondo_simultaneo": "Refuerza el asentamiento ya definido: la fortaleza sigue hundiéndose un poco más en el abismo con cada hora, en paralelo al cambio de luz, sin interferir con la quietud de Gabriel y Miguel, que deben mantener exactamente la misma postura pese a la elipsis temporal de toda una noche.",
+        "fisica_entorno": "Dos capas de paso del tiempo coexistiendo: cambio lumínico gradual (entorno inmediato) y descenso estructural lentísimo (fondo lejano).",
+        "limitacion_conocida": "Transición lumínica ligada a una elipsis temporal implícita en una 'toma continua' no está cubierta directamente por el banco de frases de la guía (pensado para contacto físico, no para paso del tiempo); tratar como ensayo aparte y revisar que la postura de los personajes no derive junto con el cambio de luz."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P11",
+        "id_plano_anterior": "B1C01_S3_P10",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: mismo cuerpo tendido de costado, ojos cerrados escuchando/descansando (heredado de P08), ala izquierda con la franja mayor ya cerrada de la salida de P10, resto aún dañado; ambas manos sin cambio (derecha sobre el suelo, izquierda bajo el torso, sin objeto), en penumbra de la primera noche. || Gabriel: arrodillado, sin haberse movido de su sitio, ambas manos en el mismo punto de contacto sobre el ala (heredado de P05-P10), sosteniendo la luz sin interrupción durante toda la noche.",
+        "estado_salida_previsto": "Miguel: misma postura exacta que en la entrada (el propio plano exige que 'la postura de ambos se mantiene igual' pese a la elipsis de toda una noche); tras la noche completa se autoriza un avance adicional de la curación del ala, ahora mayoritariamente cerrada, restando solo una zona menor sin tratar (sin cuantificación exacta del texto, se establece como límite inferior a P10 y superior a P12/P13). Manos sin cambio. || Gabriel: misma postura, mismas manos en el mismo punto de contacto, sin gesto nuevo; una claridad grisácea de amanecer entra por una grieta superior, conviviendo con su luz azul-plata sin fundirse.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Sin cambio respecto a P10: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Sin cambio respecto a P10: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Sin cambio: mismo punto de contacto proximal sobre la herida, sostenido durante toda la noche, sin objeto ni bastón.",
+            "mano_izquierda": "Sin cambio: mismo punto de contacto distal, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada; tras la primera noche completa, avance adicional no cuantificado por el texto — se establece como mayoritariamente cerrada, con una zona menor aún sin tratar, para no saltar directamente al cierre total antes de P12-P13.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "parcial"
+          }
+        ],
+        "frame_final_descripcion": "Misma composición y postura que al inicio del plano, ahora bañada por una claridad grisácea de amanecer que entra por una grieta superior, con polvo suspendido visible en el haz; la fortaleza se ha asentado un poco más en el abismo.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel.ala_izquierda.avance_curacion",
+            "antes": "Franja mayor cerrada, resto abierto (P10 salida).",
+            "despues": "Mayoritariamente cerrada tras una noche completa de cauterización sostenida; zona menor aún sin tratar.",
+            "causa": "accion_principal explícita: 'Pasa la primera noche entera; Gabriel no se ha movido de su sitio, sosteniendo la luz sobre la herida'; avance de curación consistente con horas continuadas de contacto."
+          }
+        ],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P12",
+      "orden": 12,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Picado leve",
+      "movimiento_camara": "Grúa ascendente breve (crane up) que se detiene en un plano general elevado",
+      "encuadre_inicial": "Misma composición, a la altura de Gabriel y Miguel",
+      "encuadre_final": "Plano general elevado que muestra el ciclo repetido de luz y sombra —tercera noche cayendo sobre la sala— mientras ambos siguen en el mismo punto",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Transcurren la segunda y la tercera noche; Gabriel continúa arrodillado junto a Miguel sin apartarse.",
+      "accion_fondo": "Los desprendimientos de la fortaleza se espacian cada vez más, señal de que la estructura empieza a estabilizarse.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P12",
+        "fuente_luz": "Alternancia entre la claridad grisácea de las grietas superiores y la oscuridad de las nuevas noches, con la luz de Gabriel constante en el centro",
+        "direccion": "Vista elevada que revela cómo la claridad diurna entra y se retira por las mismas grietas mientras la luz de Gabriel no cambia de posición",
+        "dureza": "Dura en los haces diurnos puntuales; suave y constante en la luz de Gabriel",
+        "color_temperatura": "Ciclo entre gris azulado (día) y negro casi total (noche), con el azul-plata de Gabriel como único punto estable de color",
+        "clima": "Dos ciclos completos de noche y claridad gris, sin lluvia ni viento marcado",
+        "ambiente": "Los desprendimientos de polvo se espacian cada vez más, cada vez menos densos"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P12",
+        "vfx_principal": "Continuación de la macro-física de la fortaleza con frecuencia decreciente de desprendimientos, como señal visual de que el colapso se desacelera: menos polvo y menos bloques que en P01-P07, y los que caen lo hacen más espaciados.",
+        "vfx_fondo_simultaneo": "Refuerza el ciclo de luz/sombra ya definido (segunda y tercera noche) coordinado con la reducción de desprendimientos; Gabriel y Miguel permanecen inmóviles en primer término durante todo el ciclo, mientras la grúa asciende hacia el plano general elevado.",
+        "fisica_entorno": "Resto: al final del plano (vista elevada) la silueta general de la fortaleza debe leerse más estable que en los planos anteriores.",
+        "limitacion_conocida": "Comprimir dos noches completas en 7 segundos es un recurso de elipsis temporal/montaje, no una interacción física simple; la guía no lo cubre — puede requerir tratamiento en postproducción (fundido o time-lapse) en vez de generación continua de una sola pasada."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P12",
+        "id_plano_anterior": "B1C01_S3_P11",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: misma postura tendida de la salida de P11, ojos cerrados, ala izquierda mayoritariamente cerrada con una zona menor aún sin tratar; manos sin cambio. || Gabriel: misma postura arrodillada, mismas manos en el mismo punto de contacto sobre el ala, sin apartarse.",
+        "estado_salida_previsto": "Miguel: tras la segunda y la tercera noche, el ala izquierda queda prácticamente cerrada, con solo restos menores de daño visible, coherente con que los desprendimientos de la fortaleza 'se espacian cada vez más' señalando que el proceso se acerca a su fin; postura, manos y ojos sin cambio (Gabriel continúa arrodillado sin apartarse). || Gabriel: mismas manos, mismo punto de contacto, sin gesto nuevo, durante todo el ciclo de dos noches; visto desde la grúa ascendente en plano general elevado al final.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Sin cambio respecto a P11: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Sin cambio respecto a P11: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Sin cambio: mismo punto de contacto proximal, sostenido durante dos noches más, sin objeto ni bastón.",
+            "mano_izquierda": "Sin cambio: mismo punto de contacto distal, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda quemada; tras la segunda y tercera noche, prácticamente cerrada, solo restos menores de daño visible.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "parcial (plano general elevado)"
+          }
+        ],
+        "frame_final_descripcion": "Plano general elevado (tras la grúa ascendente) mostrando el ciclo repetido de luz y sombra de la tercera noche cayendo sobre la sala, con Gabriel y Miguel inmóviles en el mismo punto durante todo el proceso; la silueta de la fortaleza se lee más estable que en planos anteriores.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel.ala_izquierda.avance_curacion",
+            "antes": "Mayoritariamente cerrada, zona menor sin tratar (P11 salida).",
+            "despues": "Prácticamente cerrada, solo restos menores de daño visible.",
+            "causa": "accion_principal explícita: 'Transcurren la segunda y la tercera noche; Gabriel continúa arrodillado junto a Miguel sin apartarse'; accion_fondo referida a que los desprendimientos se espacian, señalando el fin del proceso."
+          }
+        ],
+        "checklist_incidencias": [
+          "Comprimir dos noches completas de avance de curación en un solo plano (7s) exige que el estado de salida quede muy próximo al de P13-P14 (herida ya cerrada); no hay plano intermedio que muestre el tramo final del cierre, por lo que el salto de 'prácticamente cerrada' a 'cicatrizada' entre este plano y P13 debe tratarse como una elipsis continua, no como una discontinuidad — coherente con la propia limitacion_conocida del plano sobre el recurso de montaje."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P13",
+      "orden": 13,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot), plano de dos",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Primera claridad de un nuevo amanecer entrando en la sala; silencio total, sin crujidos",
+      "encuadre_final": "Mismo encuadre; se percibe la quietud definitiva de la estructura",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "La fortaleza deja de gemir por fin; el silencio se asienta sobre la sala en calma.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P13",
+        "fuente_luz": "La claridad del nuevo amanecer, ahora más extendida por la sala, se convierte en la fuente dominante; la luz de Gabriel persiste pero ya no domina el encuadre",
+        "direccion": "Entra de forma más amplia y uniforme desde la grieta superior, cubriendo a ambos personajes",
+        "dureza": "Suave, sin el haz estrecho de los amaneceres anteriores; la luz se ha difundido con la claridad general del día",
+        "color_temperatura": "Gris azulado que empieza a calentarse levemente hacia un blanco neutro",
+        "clima": "Silencio total, sin crujidos; el aire se ha asentado",
+        "ambiente": "Sin polvo en movimiento; el aire está quieto por primera vez"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P13",
+        "vfx_principal": "Ninguno activo por diseño: el efecto del plano es la AUSENCIA de movimiento — la estructura ya estabilizada, sin crujidos ni desprendimientos, en contraste deliberado con los planos anteriores.",
+        "vfx_fondo_simultaneo": "Ninguno; ninguna partícula en movimiento, solo la luz de amanecer entrando de forma estable en la sala.",
+        "fisica_entorno": "Causa: fin del proceso de asentamiento. No hay trayectoria de partículas que describir.",
+        "limitacion_conocida": "Riesgo inverso a los demás planos: que el generador introduzca movimiento residual (polvo cayendo, temblor visual) que contradiga el silencio total pedido en el texto; verificar explícitamente que el fondo aparece inmóvil."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P13",
+        "id_plano_anterior": "B1C01_S3_P12",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: misma postura tendida de la salida de P12, ojos cerrados, ala izquierda prácticamente cerrada con restos menores de daño; manos sin cambio, sin objeto. || Gabriel: misma postura arrodillada, manos en el mismo punto de contacto, sosteniendo la luz; primera claridad de un nuevo amanecer entrando en la sala, silencio total, sin crujidos.",
+        "estado_salida_previsto": "Idéntico a la entrada: el propio plano está diseñado como AUSENCIA de movimiento (vfx_principal explícito) para contrastar con los planos anteriores. Miguel: misma postura, mismas manos, misma ala sin nuevo avance registrado en este plano concreto. Gabriel: mismas manos, mismo punto de contacto, sin gesto nuevo; la claridad de amanecer se difunde de forma más amplia y uniforme por la sala, cubriendo a ambos.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Sin cambio respecto a P12: enguantada, sobre el suelo, sin objeto.",
+            "mano_izquierda": "Sin cambio respecto a P12: enguantada, parcialmente bajo el torso, sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Sin cambio: mismo punto de contacto proximal, sin objeto ni bastón.",
+            "mano_izquierda": "Sin cambio: mismo punto de contacto distal, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda; prácticamente cerrada (heredada de P12), sin nuevo avance declarado por este plano en concreto; aspecto aún no confirmado como cicatriz definitiva o como cierre reciente.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "parcial"
+          }
+        ],
+        "frame_final_descripcion": "Misma composición que al inicio: Miguel y Gabriel en la misma posición, la fortaleza ya estabilizada, silencio total, aire quieto, claridad de amanecer difundida de forma uniforme por la sala.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Riesgo inverso señalado por el propio plano (vfx.limitacion_conocida): verificar que no se introduce movimiento residual (polvo, temblor) que contradiga el silencio total pedido por el texto.",
+          "Este es el último plano antes de que Miguel aparezca 'ya consciente e incorporado a medias' en P14 y de que la herida deba leerse como cicatrizada; no existe en el material de character_library una referencia visual específica para 'ala recién cerrada, sin cicatriz antigua todavía' — el único estado documentado (states/burned_left_wing) describe daño YA antiguo y frío. El agente debe decidir, con aprobación del autor, si el aspecto de P13-P14 reutiliza directamente esa descripción de cicatriz antigua o si requiere un estado visual intermedio no documentado."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P14",
+      "orden": 14,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio (medium shot), plano de dos",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Miguel, ya consciente e incorporado a medias, vuelve el rostro hacia Gabriel",
+      "encuadre_final": "Mismo encuadre; Miguel sostiene la mirada, a la espera de la respuesta",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Miguel le pregunta a Gabriel por qué no envió a un sanador en su lugar.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P14",
+        "fuente_luz": "La claridad diurna ya establecida sigue siendo la fuente principal; la luz de Gabriel se atenúa notablemente al aflojar la concentración",
+        "direccion": "Luz uniforme sobre ambos rostros, sin dirección marcada, propia de un día ya asentado",
+        "dureza": "Suave, sin contraste marcado entre luces y sombras",
+        "color_temperatura": "Blanco neutro con un resto tenue de azul-plata en el punto donde Gabriel aún roza el ala",
+        "clima": "Mañana clara y en calma",
+        "ambiente": "Ninguna"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P14",
+        "vfx_principal": "Ninguna interacción nueva del entorno; es un plano de actuación (Miguel se incorpora a medias y gira el rostro). El ala de Miguel debe mostrarse ya cerrada/cicatrizada, coherente con el arco de curación de P05-P10, sin reabrir la herida.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Estado de salida a respetar: misma anatomía que en el plano anterior, ala ya tratada.",
+        "limitacion_conocida": "Continuidad del estado del ala (cerrada): riesgo de que el generador reintroduzca el daño original si la referencia de character_library usada no refleja el estado ya curado en este punto del flashback."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P14",
+        "id_plano_anterior": "B1C01_S3_P13",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: heredado literalmente de la salida de P13, tendido de costado, ojos cerrados, ala izquierda prácticamente cerrada, manos sin cambio. Este es el estado de partida formal aunque el encuadre_inicial de P14 ya lo describe 'ya consciente e incorporado a medias' — existe un salto de acción no mostrado en pantalla entre ambos planos (ver incidencia). || Gabriel: heredado de P13, arrodillado con ambas manos aún en el punto de contacto sobre el ala.",
+        "estado_salida_previsto": "Miguel: incorporado a medias, torso levantado del suelo, girado para mirar a Gabriel. Mano derecha enguantada en cuero oscuro, presionada de plano contra el suelo junto a la cadera derecha, brazo extendido y tenso, sosteniendo parte del peso del torso incorporado; sin objeto sujetado. Mano izquierda enguantada, ya libre del suelo, apoyada sobre el propio muslo izquierdo mientras gira el torso hacia Gabriel; sin objeto sujetado. Ala izquierda ya cicatrizada/cerrada, visible reposicionada a su espalda (ya no doblada bajo el cuerpo), coloración blanco perla en la base y gris ceniza a negro en el tercio distal, sin fuego, brasas ni humo; ala derecha blanco perla intacta sin cambio. Ojos abiertos, mirada sostenida en Gabriel, a la espera de la respuesta. Armadura sin cambio. || Gabriel: manos retiradas del ala ya cicatrizada; mano derecha ahora apoyada sobre el propio muslo derecho, dedos relajados, sin objeto ni bastón; mano izquierda igual sobre el muslo izquierdo. Mirada que pasa de la herida al rostro de Miguel. Postura arrodillada sin cambio.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Enguantada en cuero oscuro, presionada de plano contra el suelo junto a la cadera derecha, brazo extendido y tenso, sosteniendo parte del peso del torso incorporado; sin objeto sujetado.",
+            "mano_izquierda": "Enguantada en cuero oscuro, ya libre del suelo, apoyada sobre el propio muslo izquierdo mientras gira el torso hacia Gabriel; sin objeto sujetado."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Retirada del ala ya cicatrizada de Miguel; apoyada sobre el propio muslo derecho, dedos relajados; sin objeto ni bastón.",
+            "mano_izquierda": "Retirada del ala; apoyada sobre el propio muslo izquierdo, dedos relajados; sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda ya cicatrizada/cerrada (coloración blanco perla en la base, gris ceniza a negro en el tercio distal, sin fuego ni humo), coherente con el arco de curación de P05-P13, sin reabrir la herida.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "visible, reposicionada a su espalda"
+          }
+        ],
+        "frame_final_descripcion": "Miguel incorporado a medias, apoyado sobre su mano derecha, mirando a Gabriel con la mirada sostenida y expectante; Gabriel con las manos ya retiradas del ala, sobre sus propios muslos, devolviendo la mirada.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel.pose_corporal",
+            "antes": "Tendido de costado, inconsciente/semiconsciente, ojos cerrados (P13 salida).",
+            "despues": "Incorporado a medias, apoyado en la mano derecha, ojos abiertos, mirando a Gabriel.",
+            "causa": "encuadre_inicial y accion_principal explícitos del propio plano; el texto no muestra el instante de incorporarse, por lo que se establece aquí como transición mínima necesaria (apoyo en la mano derecha) pendiente de validación del autor o de un plano intercalado adicional."
+          },
+          {
+            "campo": "Gabriel.manos.contacto_ala",
+            "antes": "Ambas manos posadas sobre el ala de Miguel, sosteniendo la luz de cauterización (P05-P13).",
+            "despues": "Ambas manos retiradas, apoyadas sobre los propios muslos.",
+            "causa": "La herida ya aparece cicatrizada en el encuadre_inicial de P14 y el diálogo que sigue no menciona contacto físico continuado; se establece el cese del contacto como transición implícita entre P13 y P14, no mostrada en pantalla."
+          }
+        ],
+        "checklist_incidencias": [
+          "Salto de postura no mostrado en pantalla: el texto pasa de Miguel tendido e inconsciente (fin de P13) a 'ya consciente e incorporado a medias' (inicio de P14) sin plano intermedio que muestre el apoyo usado para incorporarse. Del mismo modo, el instante en que Gabriel suelta el ala ya curada tampoco se muestra. Ambos cambios se han fijado aquí como transición mínima razonada, pero se recomienda al autor decidir si intercalar un plano adicional que muestre ambos gestos, para no dejarlos como corte implícito.",
+          "Ver incidencia de P13: la herida pasa a describirse aquí como 'cicatrizada' reutilizando la descripción de daño antiguo de character_library/states/burned_left_wing, a falta de una referencia visual específica para el cierre reciente; queda pendiente de confirmación del autor."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P15",
+      "orden": 15,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Rostro de Gabriel, sereno",
+      "encuadre_final": "Mismo encuadre",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "Gabriel responde con la razón por la que fue en persona.",
+      "accion_fondo": "",
+      "dialogo_es": "Porque uno no grita pidiendo ayuda con la voz que usa para la gente que ama. Uno va en persona.",
+      "dialogo_en": "Because you don't yell for help in the voice you use for people you love. You go yourself.",
+      "luz": {
+        "id_plano": "B1C01_S3_P15",
+        "fuente_luz": "La claridad diurna de la sala, ahora como luz clave",
+        "direccion": "Incide de forma pareja sobre el rostro sereno de Gabriel, sin ángulo dramático",
+        "dureza": "Suave, coherente con el plano anterior",
+        "color_temperatura": "Blanco neutro cálido, luz de mañana ya asentada",
+        "clima": "Misma calma diurna",
+        "ambiente": "Ninguna, plano despejado para la línea de diálogo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P15",
+        "vfx_principal": "Ninguno. Close-up de diálogo puro con la respuesta de Gabriel; sin VFX de entorno.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "Continuidad a mantener (no una nueva acción de este plano): la luz de cauterización ya cesó tras estabilizarse la herida en los planos previos.",
+        "limitacion_conocida": "No aplica."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P15",
+        "id_plano_anterior": "B1C01_S3_P14",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: fuera de encuadre (primer plano cerrado en Gabriel); presente sin cambio respecto a la salida de P14: incorporado a medias, apoyado en la mano derecha, mano izquierda sobre el propio muslo, mirada sostenida en Gabriel, ala izquierda ya cicatrizada. || Gabriel: rostro sereno en primer plano; ambas manos fuera de encuadre, presentes sin cambio respecto a P14: apoyadas sobre los propios muslos, sin objeto ni bastón; mirada dirigida hacia Miguel.",
+        "estado_salida_previsto": "Miguel: sin cambio (close-up de diálogo puro centrado en Gabriel; Miguel permanece fuera de encuadre en el mismo estado). || Gabriel: mismo rostro sereno, respondiendo con la línea clave; manos sin cambio, sin objeto; mirada sostenida en Miguel.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio: enguantada, apoyada en el suelo junto a la cadera, sosteniendo el peso del torso incorporado; sin objeto.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio: enguantada, apoyada sobre el propio muslo izquierdo; sin objeto."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "Fuera de encuadre; presente sin cambio respecto a P14: apoyada sobre el propio muslo derecho, sin objeto ni bastón.",
+            "mano_izquierda": "Fuera de encuadre; presente sin cambio: apoyada sobre el propio muslo izquierdo, sin objeto sujetado."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda ya cicatrizada; fuera de encuadre, sin cambio respecto a P14.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "fuera_de_encuadre (presente, no ausente)"
+          }
+        ],
+        "frame_final_descripcion": "Rostro sereno de Gabriel diciendo: 'Porque uno no grita pidiendo ayuda con la voz que usa para la gente que ama. Uno va en persona.' / 'Because you don't yell for help in the voice you use for people you love. You go yourself.'",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Mismo riesgo de reaparición del bastón que en P08-P09 (manos fuera de cuadro, referencia canónica con Vox Aeternum en mano); mantener la supresión explícita."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S3_P16",
+      "orden": 16,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up), plano de transición",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Cambio de foco (rack focus) desde el rostro de Gabriel en el recuerdo hacia un desenfoque que se disuelve en la claridad del desierto presente",
+      "encuadre_inicial": "El rostro de Gabriel en el recuerdo, nítido",
+      "encuadre_final": "El encuadre se difumina y revela, ya enfocado, el rostro de Gabriel en el presente, todavía suplicando en el páramo actual",
+      "personajes_en_plano": [
+        "Miguel",
+        "Gabriel"
+      ],
+      "accion_principal": "El recuerdo suelta a Miguel y lo devuelve al páramo presente, con Gabriel todavía frente a él.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S3_P16",
+        "fuente_luz": "La claridad del recuerdo se disuelve hacia la luz del páramo presente (fuente exterior de día, ya establecida en la escena marco)",
+        "direccion": "El desenfoque acompaña el cambio: la luz suave y neutra del recuerdo cede a una luz más dura y directa del desierto presente, coherente con la escena que envuelve el flashback",
+        "dureza": "Transición de suave (recuerdo) a dura (desierto presente), marcando el corte temporal dentro del mismo movimiento de foco",
+        "color_temperatura": "Vira de blanco neutro frío (recuerdo) a un tono más cálido y contrastado propio del páramo presente",
+        "clima": "El recuerdo se disuelve en la claridad del desierto ya establecida en la escena que enmarca el flashback",
+        "ambiente": "Ninguna nueva; se hereda la atmósfera ya definida para el páramo presente"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S3_P16",
+        "vfx_principal": "Transición narrativa mediante rack focus: no hay física de entorno propiamente dicha. El encuadre nítido del recuerdo (fortaleza en ruinas) se desenfoca y da paso, ya enfocado, al rostro de Gabriel en el páramo presente. La identidad de Gabriel debe mantenerse reconocible a través del cambio de foco y de contexto.",
+        "vfx_fondo_simultaneo": "Ninguno.",
+        "fisica_entorno": "No aplica: es un recurso óptico/de montaje (cambio de foco), no una interacción física del entorno con un personaje.",
+        "limitacion_conocida": "Este tipo de transición temporal (flashback→presente) no está cubierto por el banco de frases de la guía, centrado en física de contacto; tratarlo como plano de edición/composición y verificar consistencia de la referencia visual de Gabriel entre ambos 'modos' (recuerdo vs. presente)."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S3_P16",
+        "id_plano_anterior": "B1C01_S3_P15",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png",
+              "character_library/angeles/Miguel/states/burned_left_wing/README.md"
+            ]
+          },
+          {
+            "id_personaje": "Gabriel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Gabriel/canonical/face_reference.png",
+              "character_library/angeles/Gabriel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel: fuera de encuadre (plano de transición centrado en el rostro de Gabriel en el recuerdo); presente sin cambio respecto a la salida de P15: incorporado a medias, ala izquierda cicatrizada, manos sin objeto. || Gabriel: rostro nítido en el recuerdo, sereno, herencia directa de la salida de P15; manos fuera de encuadre, sin cambio, sin objeto ni bastón.",
+        "estado_salida_previsto": "El encuadre se difumina y revela, ya enfocado, el rostro de Gabriel en el PRESENTE del páramo, 'todavía suplicando' — un estado emocional y temporal distinto (súplica) que pertenece a la escena marco de la novela y no forma parte de los datos de esta escena de flashback. No se puede describir de forma completa y verificable el resto del estado físico de Gabriel ni la posición de Miguel en esa escena presente (pose, manos, vestuario del páramo) porque no se entregó su estado_canon_entrada en este lote de planos.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "No verificable en este plano: Miguel no aparece visualmente aquí (el encuadre se centra en Gabriel); su estado se mantiene sin cambio respecto a P15 solo como continuidad interna del flashback, sin dato sobre su pose en la escena presente.",
+            "mano_izquierda": "No verificable en este plano por el mismo motivo."
+          },
+          {
+            "id_personaje": "Gabriel",
+            "mano_derecha": "En el recuerdo: fuera de encuadre, sin cambio respecto a P15, sin objeto ni bastón. En el presente (tras la disolución): no verificable con los datos entregados; requiere el estado_canon_entrada de la escena marco antes de aprobarse.",
+            "mano_izquierda": "Misma situación: sin cambio en el recuerdo; no verificable en el presente sin datos adicionales."
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "Ala izquierda cicatrizada en el recuerdo (heredada de P14-P15); estado en la escena presente no verificable con los datos de este lote.",
+            "lado": "izquierda anatómica",
+            "visibilidad": "no verificable en el tramo 'presente' de este plano"
+          }
+        ],
+        "frame_final_descripcion": "Transición óptica (rack focus): el rostro nítido de Gabriel en el recuerdo (fortaleza en ruinas) se desenfoca y da paso, ya enfocado, al rostro de Gabriel en el páramo presente, todavía suplicando. La identidad de Gabriel debe mantenerse reconocible a través del cambio de foco y de contexto.",
+        "cambios_autorizados": [
+          {
+            "campo": "Gabriel.emocion_y_contexto",
+            "antes": "Sereno, en el recuerdo de las Puertas de Ónice (pasado).",
+            "despues": "Suplicando, en el páramo presente.",
+            "causa": "accion_principal explícita del plano: 'El recuerdo suelta a Miguel y lo devuelve al páramo presente, con Gabriel todavía frente a él'; cambio de escena/tiempo narrativo, no un fallo de continuidad dentro del flashback."
+          }
+        ],
+        "checklist_incidencias": [
+          "Este plano depende de datos de la escena marco (presente, páramo) que no se entregaron en este lote: no hay estado_canon_entrada ni planos previos de esa escena para verificar que el rostro, pose y vestuario de Gabriel 'suplicando' en el presente sean coherentes con lo que esa escena ya tenga establecido en sus propios planos. Resultado: PENDIENTE — no aprobar la unión de este plano con la escena marco hasta cruzarlo con los registros de continuidad de esa escena.",
+          "Es el plano de mayor riesgo de deriva de identidad de toda la secuencia (transición recuerdo↔presente, ya señalada como caso no cubierto por el banco de frases de la guía en la propia limitacion_conocida del plano): verificar explícitamente que el rostro de Gabriel en el tramo 'presente' coincide con canonical/face_reference.png y no ha derivado tras cinco planos de contacto lumínico y expresión sostenida en el recuerdo."
+        ]
+      }
+    }
+  ],
+  "prompts_flow": [
+    {
+      "id_plano": "B1C01_S3_P01",
+      "ajustes": "Operación: Ingredients to Video (o generación solo por texto si no hay referencia de entorno cargada). Modelo: Veo 3.1 Fast (o Quality si se prioriza detalle de fractura). Duración: 8 s (coincide con el máximo documentado, sin ajuste). Formato: 16:9 horizontal. Generar 2 variantes por el riesgo de colapso con fragmentos identificables señalado en vfx.limitacion_conocida.",
+      "criterios_aceptacion": "Los bloques que caen se distinguen como piezas individuales durante todo el plano, sin fusionarse, recomponerse ni cambiar de forma. El humo y las chispas ascienden en trayectoria separada de la caída de bloques, sin ocultarla. Ningún personaje aparece en el encuadre. Al final, la fortaleza ocupa gran parte del encuadre con muros partidos y grietas nuevas. Si el colapso genera fragmentos que se funden, rechazar y tratar como candidato a pases compuestos separados.",
+      "referencias_adjuntas": [
+        "Sin referencia de personaje (plano sin personajes). FALTA_DATO: no se entregó en este lote una referencia visual de la fortaleza de las Puertas de Ónice; si existe en character_library/lugares, adjuntarla como ingrediente único de entorno antes de generar."
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Gran plano general en picado extremo, cámara muy alta sobre el abismo. La cámara desciende en grúa (crane down) desde una posición elevada donde el cielo y el abismo dominan el encuadre, hasta quedar mucho más cerca de la fortaleza de las Puertas de Ónice, que pasa de verse diminuta al fondo a ocupar gran parte del encuadre.\n\n[SUJETOS Y ESTADO]\nNo hay personajes visibles en este plano. El único sujeto es la fortaleza de las Puertas de Ónice: una estructura de piedra ya inclinada hacia el vacío del abismo, con muros que se están partiendo.\n\n[ACCIÓN]\nLa fortaleza se inclina y se hunde en el abismo. Bloques de piedra grandes e individualmente reconocibles (no una masa indistinta de escombros) se desprenden de los muros en los puntos de tensión y caen hacia la oscuridad del abismo, dejando tras de sí una estela breve de polvo de piedra que se dispersa según los bloques desaparecen abajo. Al mismo tiempo, en una trayectoria separada y sin ocultarse mutuamente, humo y chispas de fuego ascienden desde las grietas más profundas de la estructura. Al terminar el plano, los muros que quedan en pie muestran grietas nuevas y visibles.\n\n[ESPACIO, LUZ Y VFX]\nCielo nocturno cubierto, sin luna visible. Luz ambiente fría azulada cayendo desde arriba sobre el abismo; en contraste, resplandor cálido anaranjado saliendo desde dentro de los muros por las grietas incandescentes (luz práctica de fuego interior). La luz del cielo es suave y difusa; los focos de fuego que asoman por las grietas son duros y puntuales. VFX: fractura de piedra por sobrecarga estructural (no por impacto puntual); bloques grandes y separables cayendo al vacío con estela de polvo; humo y chispas ascendiendo en paralelo desde las grietas profundas, en una trayectoria visualmente distinta a la caída de los bloques.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, mantener dos trayectorias simultáneas y diferenciadas: los bloques de piedra caen hacia el abismo mientras el humo asciende desde las grietas profundas; ninguna debe ocultar a la otra. Los bloques deben leerse como piezas individuales, sin fusionarse entre sí ni cambiar de forma al caer. Se oye el rugido grave y sostenido de la piedra fracturándose y el silbido lejano del viento en el abismo. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P02",
+      "ajustes": "Operación: Ingredients to Video (primera aparición de Miguel; usar sus referencias canónicas). Modelo: Veo 3.1 Fast. Duración: 8 s. Formato: 16:9 horizontal. AVISO: la única imagen del ala dañada (states/burned_left_wing/README.md) describe una cicatriz YA ANTIGUA Y FRÍA, sin fuego/humo/resplandor — no corresponde a este momento (herida FRESCA, activa, sin cauterizar). No usarla como ancla del aspecto de superficie; usarla solo para anatomía general del ala y sustituir su aspecto por la descripción textual del prompt. FALTA_DATO (checklist_incidencias del propio plano): pendiente de referencia o descripción adicional aprobada por el autor antes de generar en producción final.",
+      "criterios_aceptacion": "La mano derecha de Miguel permanece enguantada, sin objeto, palma abajo sobre el suelo durante todo el plano; la mano izquierda permanece enguantada, sin objeto, parcialmente oculta bajo el torso. El ala derecha se mantiene blanco perla e intacta. El ala izquierda mantiene su daño en el tercio distal (gris ceniza a negro) sin sanar ni empeorar, sin fuego activo visible saliendo de la herida. Los ojos de Miguel pasan de cerrados a entreabiertos de forma gradual, sin abrirse del todo. El desplome de la columna al fondo no invade la figura de Miguel y sus fragmentos no se funden. Marcar como PENDIENTE de validación del autor el aspecto exacto de la superficie quemada del ala antes de aprobar esta toma como definitiva.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (usar solo para anatomía general del ala; su aspecto de superficie NO corresponde a este momento — ver nota en ajustes)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano general, cámara a la altura de los ojos, ligeramente picada. La cámara avanza en travelling (dolly in) desde el umbral derrumbado de una sala amplia con escombros y llamas bajas sobre el suelo inclinado, hasta quedar cerca de Miguel, caído de costado en el centro de la sala.\n\n[SUJETOS Y ESTADO]\nLa referencia canónica de Miguel (face_reference.png y body_reference.png) define su identidad: forma celestial, cuerpo esbelto, dos alas. Miguel está tendido de costado sobre el suelo de piedra inclinado, en el umbral lejano al inicio del encuadre, con el torso ligeramente girado hacia atrás y el peso apoyado sobre su propio costado izquierdo y sobre su propia ala izquierda doblada bajo el cuerpo. Tiene los ojos cerrados, inconsciente.\n\nSu brazo derecho está extendido sobre el suelo junto al costado derecho; la mano derecha, enguantada en cuero oscuro, tiene la palma hacia abajo, dedos relajados, sin ningún objeto sujetado. Su brazo izquierdo queda parcialmente bajo el propio torso; la mano izquierda, también enguantada en cuero oscuro, tiene la palma hacia abajo, dedos relajados, sin objeto, visibilidad parcial por el propio cuerpo.\n\nEl ala derecha de Miguel es blanco perla, intacta, parcialmente visible extendida a su espalda. La ala izquierda está quemada y rota en su tercio distal: gris ceniza virando a negro hacia la punta, mientras que la mayor parte del ala conserva su blanco original; está doblada y aplastada bajo el propio cuerpo, es una herida activa y sin tratar (sin cauterizar, sin vendaje), con visibilidad parcial porque el propio torso la oculta en gran parte. Su armadura celestial base —peto dorado sin grietas con una estrella cian-blanca de ocho puntas, faldones azul medianoche, grebas y escarpes dorados— no presenta ningún daño narrativo.\n\n[ACCIÓN]\nMiguel permanece herido en el suelo inclinado, incapaz de levantarse. Mientras la cámara avanza hacia él, sus ojos pasan de cerrados a entreabiertos, con la mirada sin foco orientada vagamente hacia el suelo por su propia postura de costado; es el inicio de una apertura de ojos que continúa en el plano siguiente, no un despertar completo. Ninguna mano cambia de posición ni de objeto durante este plano.\n\n[ESPACIO, LUZ Y VFX]\nInterior en penumbra, sin luz exterior directa. Llamas bajas repartidas sobre el suelo inclinado de la sala son la fuente de luz práctica; la luz sube desde el suelo hacia los cuerpos y los muros, iluminando a Miguel principalmente desde abajo y ligeramente de lado, con bordes de sombra duros recortados por el humo. Color cálido anaranjado, propio del fuego bajo. Humo bajo que se arrastra por el suelo inclinado. VFX: el suelo de piedra fracturado sigue asentándose bajo su propio peso —grietas que se extienden, partículas finas de polvo cayendo desde el techo—; al fondo del encuadre, mientras la cámara avanza hacia Miguel en primer término, una columna cercana se desploma y levanta una nube de polvo localizada en su punto de impacto, sin invadir la figura de Miguel.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, la mano derecha de Miguel permanece enguantada, con la palma hacia abajo sobre el suelo, sin objeto; la mano izquierda permanece enguantada, parcialmente bajo el torso, sin objeto. El ala izquierda sigue doblada y aplastada bajo el cuerpo, en el mismo estado de daño, sin ningún avance de curación en este plano. El ala derecha permanece blanco perla e intacta. Se oyen crujidos del suelo asentándose y el estruendo distante del desplome de la columna al fondo. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P03",
+      "ajustes": "Operación recomendada: Frames to Video (inicio), usando como fotograma inicial el último frame aprobado y nítido de B1C01_S3_P02 — no combinar con Ingredients en la misma generación. Alternativa si Frames no está disponible: Ingredients to Video con las mismas referencias de Miguel. Modelo: Veo 3.1 Fast (o Lite si se ejecuta como Frames to Video). Duración: 6 s (coincide con el máximo documentado). Formato: 16:9 horizontal. Mismo aviso sobre la referencia del ala que en P02: PENDIENTE de validación del autor.",
+      "criterios_aceptacion": "El plano permanece fijo, sin corte, durante toda la toma. Las plumas carbonizadas cruzan el encuadre con tamaño pequeño y trayectoria oscilante, sin fusionarse con el rostro o el cuerpo de Miguel ni desaparecer de forma que sugiera un cambio en el inventario de su ala izquierda. Los ojos de Miguel permanecen entreabiertos, sin abrirse del todo ni volver a cerrarse. El humo de fondo no oculta el rostro.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva que P02: no corresponde al aspecto de superficie de este momento)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Primer plano del rostro de Miguel, cámara a la altura de los ojos, ligeramente baja. Plano fijo (locked-off), sin corte de cámara durante toda la toma.\n\n[SUJETOS Y ESTADO]\nMismo Miguel que en el plano anterior, ahora encuadrado en primer plano cerrado sobre el rostro: cabeza ligeramente ladeada hacia el suelo por su postura de costado, ojos entreabiertos, mirada sin foco, con la respiración ya forzada al iniciar el plano. Sus manos y sus alas quedan fuera de este encuadre cerrado, pero físicamente presentes sin cambio respecto al plano anterior: mano derecha enguantada sobre el suelo junto al costado, palma abajo, sin objeto; mano izquierda enguantada, parcialmente bajo el torso, sin objeto; ala izquierda quemada y rota en el tercio distal, doblada bajo el cuerpo, sin tratar; ala derecha blanco perla intacta.\n\n[ACCIÓN]\nEl rostro de Miguel, al borde de la muerte, respira con esfuerzo durante toda la toma, sin otro movimiento de cabeza. Un par de plumas carbonizadas —ya en movimiento al iniciar el plano, sin gesto de desprendimiento visible— cruzan por delante de cámara en diagonal, con una caída lenta y oscilante (no recta ni rápida, por su peso mínimo), atravesando el aire cargado de humo.\n\n[ESPACIO, LUZ Y VFX]\nLas mismas llamas bajas de la sala, ahora fuera de cuadro, siguen siendo la fuente de luz: rasante desde abajo y ligeramente lateral sobre el rostro de Miguel, dura pero atenuada por el humo suspendido que suaviza el borde de sombra sobre la mejilla; color cálido anaranjado, algo más tenue que en el plano anterior. VFX: las plumas carbonizadas mantienen un tamaño pequeño y reconocible (no una mancha borrosa); el humo se arremolina levemente a su paso. El humo ambiental permanece como bruma tenue detrás del rostro de Miguel, sin competir con él ni con las plumas.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, ninguna pluma debe confundirse con parte del cuerpo de Miguel ni alterar el aspecto de su ala izquierda dañada, que permanece fuera de cuadro sin cambio. Ninguna otra mano ni objeto entra en el encuadre. Se oye la respiración forzada de Miguel y el crepitar lejano del fuego. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P04",
+      "ajustes": "Operación: Ingredients to Video (primera aparición de Gabriel; combinar referencias de Miguel y de Gabriel). Modelo: Veo 3.1 Fast. Duración solicitada 7 s — NO es una opción documentada (Flow ofrece 4, 6 u 8 s); redondear a 8 s en el selector y ajustar el ritmo del tilt down en montaje. Formato: 16:9 horizontal. ATENCIÓN CRÍTICA: la referencia canónica de Gabriel (body_reference.png) lo muestra con el bastón Vox Aeternum en la mano derecha; este plano exige manos completamente vacías. Suprimir explícitamente el bastón en el prompt.",
+      "criterios_aceptacion": "Gabriel no porta el bastón Vox Aeternum ni ningún otro objeto en ninguna mano durante todo el plano. Al final, Gabriel queda arrodillado junto a Miguel con ambas manos vacías apoyadas sobre sus propios muslos, sin contacto todavía con el ala herida. Miguel no cambia de postura, manos ni estado del ala respecto al plano anterior. El fragmento de techo cae fuera del área de los personajes sin invadirlos. Registrar en la hoja de trabajo qué lado de pantalla ocupa cada personaje (lado_eje), ya que ningún dato de la ficha lo fija y los planos de dos posteriores dependen de esta decisión.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva sobre el aspecto fresco de la herida)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón Vox Aeternum visible en esta imagen; en toda la escena Gabriel no lo porta)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio, plano de dos personajes, a la altura de los ojos. La cámara hace una panorámica vertical (tilt down) que acompaña a Gabriel al arrodillarse, desde Gabriel de pie junto a Miguel hasta Gabriel ya arrodillado junto a su costado.\n\n[SUJETOS Y ESTADO]\nMiguel (misma identidad y postura que al final del plano anterior): tendido de costado, visible ahora en plano medio (torso superior visible, piernas probablemente al borde o fuera de cuadro). Ojos entreabiertos, mirada sin foco. Mano derecha enguantada, visible parcialmente en el borde de cuadro, sobre el suelo junto al costado, sin objeto. Mano izquierda enguantada, parcialmente bajo el torso, visibilidad parcial, sin objeto. Ala izquierda quemada y rota, doblada bajo el cuerpo, visibilidad parcial; ala derecha blanco perla intacta, visibilidad parcial.\n\nGabriel (primera aparición en la escena; identidad definida por su referencia canónica, IGNORANDO el bastón Vox Aeternum que aparece en esa imagen): cuerpo esbelto de 1,95 m, pelo negro liso hasta los hombros, dos alas blancas inmaculadas parcialmente plegadas a su espalda, túnica azul zafiro hasta el suelo, peto delgado de plata pulida con hombreras grabadas de plumas, bordado de plata en cuello y bajos. Un halo ambiental azul-plata tenue y frío rodea su figura (rasgo permanente, sin brillo sobrenatural en los ojos). Al inicio del plano está de pie junto a Miguel, aproximándose, con el brazo derecho junto al costado y la mano derecha completamente vacía —sin bastón, sin ningún objeto—; el brazo izquierdo junto al costado, con la mano izquierda también completamente vacía. Su mirada está dirigida hacia Miguel y su ala herida.\n\n[ACCIÓN]\nGabriel llega sin que nadie lo enviara y se arrodilla junto al costado de Miguel. Al terminar el gesto, su mano derecha pasa de oscilar junto al costado mientras camina a apoyarse sobre su propio muslo derecho, dedos relajados, sin objeto ni bastón; su mano izquierda hace el mismo recorrido hasta apoyarse sobre su propio muslo izquierdo, sin objeto. Ninguna de sus manos toca todavía a Miguel. Sus alas quedan parcialmente plegadas tras la espalda por la nueva postura arrodillada. Su mirada queda fija en el ala herida de Miguel, con la cabeza inclinada hacia abajo. Miguel no cambia de postura durante este plano (la cámara acompaña a Gabriel, no a él).\n\n[ESPACIO, LUZ Y VFX]\nInterior en penumbra. Se añade la luz propia de Gabriel —azul-plata, suave y difusa, sin bordes duros— que lo acompaña y desciende con él al arrodillarse, incidiendo sobre su propio cuerpo; el fuego del entorno (llamas bajas ya establecidas) sigue llegando desde el suelo hacia Miguel, con su dureza habitual. Contraste de color entre el azul-plata frío de Gabriel y el naranja cálido del fuego circundante. VFX: al fondo, mientras Gabriel se arrodilla en primer término, un fragmento de techo ya fracturado se desprende y cae verticalmente hacia el abismo, fuera del área donde están los personajes, con una estela breve de polvo en su descenso; no deja resto visible en el encuadre final. Esta caída es simultánea a que Gabriel se arrodille, no causada por él.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, Gabriel no porta ningún bastón ni objeto en ninguna mano. La mano derecha de Miguel permanece sin objeto sobre el suelo; su mano izquierda permanece sin objeto bajo el torso; su ala izquierda sigue dañada sin cambio. Fijar aquí el eje de acción: Miguel a la izquierda de pantalla, Gabriel llegando y arrodillándose a la derecha (salvo que el autor prefiera lo contrario; este lado_eje debe respetarse en los planos de dos siguientes: P07, P11-P15). Se oye el estruendo apagado y distante del fragmento de techo al caer. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P05",
+      "ajustes": "Operación: Ingredients to Video, o alternativamente Frames to Video (inicio) con el último frame aprobado de P04 si se prioriza continuidad exacta de postura corporal. Modelo: Veo 3.1 Fast. Duración: 8 s. Formato: 16:9 horizontal. Mismo aviso sobre el bastón de Gabriel y sobre la referencia insuficiente del ala fresca que en planos anteriores.",
+      "criterios_aceptacion": "El resplandor azul-plata no aparece antes de que ambas manos completen el contacto físico con el ala. La mano derecha de Gabriel queda en la zona proximal de la herida y la izquierda en la zona distal; esta disposición exacta es una propuesta de blocking pendiente de confirmación del autor y debe mantenerse igual en P06, P07 y P10 sin volver a describirse desde cero. Ninguna mano de Gabriel sostiene ningún objeto. El ala no muestra avance de cierre en este plano, solo el nacimiento del contacto.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano detalle (insert), muy cercano, a la altura de los ojos. Plano fijo (locked-off).\n\n[SUJETOS Y ESTADO]\nSolo son visibles en este encuadre cerrado el ala izquierda de Miguel y ambas manos de Gabriel. El ala izquierda de Miguel está quemada y rota en el tercio distal (gris ceniza a negro hacia la punta, mayoría blanca), herida activa sin tratar, en el mismo estado que en los planos anteriores; el resto del cuerpo de Miguel queda fuera de este encuadre pero sin cambio (mano derecha sobre el suelo sin objeto, mano izquierda bajo el torso sin objeto).\n\nGabriel: al inicio del plano, ambas manos —sin objeto ni bastón— se acercan al ala rota sin tocarla todavía. La mano derecha está extendida hacia la zona proximal de la herida (tercio cercano a la base del ala), dedos ligeramente curvados, sin contacto. La mano izquierda está extendida hacia la zona distal (tercio medio-exterior, hacia la rotura), dedos ligeramente curvados, sin contacto.\n\n[ACCIÓN]\nGabriel posa las manos sobre el ala quemada de Miguel y comienza a canalizar su propia luz hacia la herida. Al terminar el gesto, su mano derecha queda posada de plano sobre la zona proximal de la herida, dedos curvados envolviendo el borde de la quemadura; su mano izquierda queda posada de plano sobre la zona distal, dedos curvados. Un resplandor azul-plata tenue nace ÚNICAMENTE en el punto exacto donde las manos tocan la herida —nunca antes de completarse el contacto—, sin extenderse todavía a otras zonas del ala.\n\n[ESPACIO, LUZ Y VFX]\nLa luz de Gabriel nace entre sus dedos y se convierte en la fuente dominante del plano, emergiendo directamente del punto de contacto y creciendo en intensidad; el resto de la sala queda fuera de este resplandor cercano. Luz suave, difusa, sin borde definido; color azul-plata frío. VFX: el resplandor crece desde el punto de contacto hacia afuera de forma gradual; el toque físico de las manos precede a la emisión de luz, nunca al revés.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, ninguna mano de Gabriel sostiene objeto alguno: el contacto mismo con el ala es la única acción de sus manos. El ala de Miguel no muestra ningún avance de cierre todavía —solo el primer contacto de luz—. Se oye un zumbido tenue y cálido, apenas audible, coincidiendo con el nacimiento del resplandor. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P06",
+      "ajustes": "Operación: Ingredients to Video, o Frames to Video (inicio) con el último frame de P05 (manos ya posadas, resplandor naciendo) para asegurar el mismo punto de contacto exacto. Modelo: Veo 3.1 Fast. Duración: 8 s. Formato: 16:9 horizontal.",
+      "criterios_aceptacion": "El humo permanece unido a su fuente en el punto de contacto durante todo el rack focus, sin llenar el cuadro ni ocultar el ala ni la mano de Gabriel. El tejido bajo el punto de contacto muestra un cierre apenas iniciado, mientras el resto de la herida sigue abierta — no aceptar un cierre mayor ni un reinicio a la herida sin tratar. Ambas manos de Gabriel permanecen en el mismo punto de contacto que en P05, sin gesto nuevo ni objeto.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio corto, a la altura de los ojos, en tres cuartos. Cámara fija con cambio de foco (rack focus): arranca nítida sobre la luz en la herida con el rostro de Gabriel desenfocado detrás, y el foco se desplaza hacia el rostro concentrado de Gabriel, quedando la luz sobre el ala desenfocada en primer término.\n\n[SUJETOS Y ESTADO]\nEl ala izquierda de Miguel está en el mismo punto de contacto que al final del plano anterior: mano derecha de Gabriel en la zona proximal de la herida, mano izquierda en la zona distal, ambas sin objeto, sosteniendo el contacto sin gesto nuevo. La herida sigue mayormente activa, con el resplandor localizado en el punto de contacto. El resto del cuerpo de Miguel queda fuera de encuadre, sin cambio (mano derecha sobre el suelo sin objeto; mano izquierda bajo el torso sin objeto).\n\nGabriel: su rostro, desenfocado al inicio, muestra concentración por el esfuerzo sostenido; a medida que el foco se desplaza hacia él, ese gesto de concentración queda nítido.\n\n[ACCIÓN]\nLa luz de Gabriel cauteriza la herida: el tejido de Miguel bajo el punto de contacto empieza a cerrarse —un avance mínimo mientras el resto de la herida permanece abierta—. Un hilo de humo fino y vertical asciende desde el punto exacto de contacto entre la luz y las plumas chamuscadas, sin dispersarse por el resto del cuadro; permanece unido a su fuente y sigue visible, aunque desenfocado, mientras el foco pasa al rostro de Gabriel (el rack focus no debe usarse para ocultar el origen del humo). Ninguna mano de Gabriel hace un gesto nuevo: solo sostienen el contacto ya establecido.\n\n[ESPACIO, LUZ Y VFX]\nLa luz de Gabriel sobre la herida sigue siendo la fuente principal, ahora también iluminando su rostro desde abajo por proximidad, en un contrapicado lumínico ascendente. Suave sobre la herida nítida en primer término; también suave al desenfocarse sobre el rostro. Color azul-plata, con un ligero calentamiento donde se mezcla con el humo ascendente. VFX: emisión de humo localizada en el punto de contacto, unida a su fuente, sin llenar el cuadro ni ocultar el ala o la mano de Gabriel.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, ninguna mano de Gabriel cambia de posición ni sostiene objeto alguno; el punto de contacto sobre el ala (proximal en la derecha, distal en la izquierda) permanece exactamente el mismo que en el plano anterior. Se oye el chisporroteo suave de la cauterización y un hilo tenue de aire escapando con el humo. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P07",
+      "ajustes": "Operación: Ingredients to Video. Duración solicitada 7 s — no documentada; redondear a 8 s. Modelo: Veo 3.1 Fast. Formato: 16:9. Nota de producción: el propio plano advierte que el movimiento de fondo puede quedar bajo el umbral perceptible del generador en pocos segundos; comparar fotograma inicial y final tras generar.",
+      "criterios_aceptacion": "Miguel y Gabriel permanecen exactamente en la misma postura, con las mismas manos y el mismo punto de contacto que al inicio del plano — ningún cambio de personaje está autorizado aquí. La fortaleza al fondo se lee visiblemente más hundida en el encuadre final que en el inicial, con desprendimientos menos densos que en P01. Si el descenso de fondo resulta imperceptible, marcar la toma como no válida y volver a generar.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano general fijo (locked-off), a la altura de los ojos. Sin movimiento de cámara.\n\n[SUJETOS Y ESTADO]\nMiguel: misma postura tendida que al final del plano anterior, ahora visible en plano general (ya no insert): de costado, ala izquierda con el tejido del punto de contacto iniciando su cierre y el resto de la herida abierta; mano derecha enguantada sobre el suelo sin objeto; mano izquierda enguantada parcialmente bajo el torso sin objeto; ojos entreabiertos sin foco.\n\nGabriel: arrodillado junto a Miguel, con ambas manos en el mismo punto de contacto sobre el ala (derecha en zona proximal, izquierda en zona distal), sosteniendo la luz sin interrupción, sin objeto ni bastón en ninguna mano; rostro concentrado, mirada en la herida.\n\n[ACCIÓN]\nGabriel permanece arrodillado, sosteniendo la luz sobre la herida sin interrupción; ni él ni Miguel cambian de postura, mano ni objeto durante todo el plano —el propio plano exige explícitamente que la postura de ambos se mantenga igual pese al paso del tiempo—. Lo único que cambia es el entorno: al fondo, la fortaleza sigue hundiéndose muy lentamente en el abismo y sus muros se asientan con nuevos desprendimientos, más espaciados y de menor escala (menos polvo y menos bloques) que en el plano B1C01_S3_P01.\n\n[ESPACIO, LUZ Y VFX]\nVista elevada del abismo: alternancia entre la luz de Gabriel (fija, en primer término) y el resplandor de incendios distantes en la estructura al fondo, recortado contra el cielo nocturno despejado, sin alcanzar a los personajes. Suave en primer término; dura y puntual en los focos de fuego lejanos del fondo. Color azul-plata en primer término, anaranjado distante al fondo. VFX: desprendimientos de menor escala que en P01, coherentes con una fortaleza que se acerca a un reposo relativo; al final del plano, el nivel de la estructura debe leerse más bajo en el encuadre que al inicio, pese a ser un plano fijo.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, ni Miguel ni Gabriel cambian de postura, manos, objetos ni estado de la herida: es un plano de contraste entre su quietud absoluta y el descenso lentísimo de la fortaleza al fondo. Se oyen crujidos distantes y espaciados del hundimiento de la fortaleza. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P08",
+      "ajustes": "Operación: Ingredients to Video, o Frames to Video (inicio) con último frame de P07 para conservar exactamente la postura. Modelo: Veo 3.1 Fast. Duración: 6 s. Formato: 16:9. Riesgo del bastón de Gabriel: manos fuera de encuadre — mantener supresión explícita en el prompt.",
+      "criterios_aceptacion": "Ninguna mano de Gabriel entra en el encuadre con un bastón u objeto. Los ojos de Miguel pasan de entreabiertos a cerrados durante el plano, con la cabeza levemente vuelta hacia la voz de Gabriel — no aceptar la toma si Miguel permanece con los ojos abiertos o inmóvil. El plano permanece fijo sin corte.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Primer plano, a la altura de los ojos con leve contrapicado. Plano fijo (locked-off).\n\n[SUJETOS Y ESTADO]\nGabriel: rostro en primer plano, con la luz de la cauterización ahora más estable y constante reflejándose en su piel; ambas manos fuera de encuadre pero presentes sin cambio, sosteniendo el mismo punto de contacto sobre la herida establecido en el plano B1C01_S3_P05 (derecha en zona proximal, izquierda en zona distal), sin objeto ni bastón en ninguna mano.\n\nMiguel: parcialmente visible al borde del encuadre; mismo cuerpo tendido que al final del plano anterior, ala izquierda sin cambio de curación, manos sin cambio (fuera de encuadre por el cierre del plano, en la misma posición de siempre).\n\n[ACCIÓN]\nGabriel sigue hablando sin pausa —de canciones viejas y del genio de Uriel— para no dejar que el silencio se instale; su mirada permanece dirigida hacia la herida o hacia Miguel mientras habla. Al mismo tiempo, los ojos de Miguel pasan de entreabiertos a cerrados, con la cabeza ligeramente vuelta hacia la voz de Gabriel: escucha conscientemente, una mejora de conciencia respecto a su semi-inconsciencia de los planos anteriores.\n\n[ESPACIO, LUZ Y VFX]\nLa luz de Gabriel, ahora más estable y constante, sigue siendo la fuente clave, incidiendo sobre su piel desde abajo y ligeramente de frente, sin variación de dureza respecto al plano anterior; color azul-plata constante. Sin VFX activo en este plano: es un plano de actuación y diálogo puro; no inventar ninguna interacción física del entorno. La luz de Gabriel sobre la herida (fuera de cuadro) sigue activa como condición de fondo heredada, no como nueva acción.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, las manos de Gabriel permanecen fuera de encuadre, sin bastón ni ningún objeto, en el mismo punto de contacto de siempre. Se oye a GABRIEL hablar de manera continua, sin pausas, con un tono ligero que evita el silencio —contenido: recuerdos de canciones viejas y del ingenio de Uriel—; no hay una línea literal asignada por la ficha para este tramo, así que no inventar diálogo textual: usar un murmullo verbal continuo y natural sin palabras específicas exigidas, o dejarlo en postproducción de voz. Miguel no habla."
+    },
+    {
+      "id_plano": "B1C01_S3_P09",
+      "ajustes": "Operación: EXTEND del clip aprobado de B1C01_S3_P08 (misma composición exacta: primer plano fijo del rostro de Gabriel, sin corte). IMPORTANTE: Extend en la matriz de Flow solo se ejecuta con Veo 3.1 Lite como modelo ejecutor, aunque P08 se haya generado con Fast — revisar el selector antes de enviar. Duración solicitada 7 s — no documentada; generar el tramo más corto posible y recortar en montaje si excede lo necesario. Formato: 16:9 (heredado del clip base). No reenviar referencias de personaje: Extend parte del clip, no de ingredientes nuevos.",
+      "criterios_aceptacion": "El encuadre continúa exactamente desde la postura final de P08, sin salto de composición, luz o postura (revisar la unión a velocidad normal y cuadro a cuadro). Ninguna mano de Gabriel entra en cuadro con un bastón u objeto. La línea de diálogo se pronuncia completa, en el idioma correspondiente, sin alterar el texto canónico. Si Extend introduce un salto de luz, sonido o postura respecto al final de P08, rechazar y regenerar como Ingredients to Video con Frames (inicio) en su lugar.",
+      "referencias_adjuntas": [
+        "Ninguna referencia nueva que adjuntar: la operación Extend parte directamente del clip aprobado de B1C01_S3_P08, no de imágenes sueltas. Verificar antes de extender que el fotograma final de P08 (rostro de Gabriel, manos fuera de encuadre) es válido y nítido."
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nContinuar la toma desde la postura final del clip de B1C01_S3_P08, sin repetir la entrada ni reiniciar la acción. Mismo primer plano fijo (locked-off) del rostro de Gabriel, a la altura de los ojos con leve contrapicado; la cámara sigue sin moverse, con idéntico encuadre.\n\n[SUJETOS Y ESTADO]\nGabriel: mismo rostro en primer plano, ahora con expresión seria; su mirada baja hacia la herida (fuera de encuadre) mientras se prepara para hablar. Sus manos siguen fuera de encuadre, presentes sin cambio, en el mismo punto de contacto proximal (derecha) y distal (izquierda) sobre la herida, sin objeto ni bastón. Miguel permanece fuera de encuadre, sin cambio respecto al final de P08: ojos cerrados, escuchando, cuerpo tendido, ala izquierda sin cambio de curación, ambas manos sin objeto en su posición habitual.\n\n[ACCIÓN]\nGabriel dice la frase que sostiene la herida frente al silencio, manteniendo la mirada baja hacia la herida durante toda la línea. La intensidad de su luz (fuera de encuadre) baja ligeramente para marcar la seriedad del momento. Ninguna mano cambia de posición.\n\n[ESPACIO, LUZ Y VFX]\nMisma luz de Gabriel que en el clip base, sin nueva fuente, ligeramente más baja de intensidad para marcar la seriedad de la frase; sombras algo más marcadas bajo los ojos por ese descenso. Color azul-plata, algo más apagado. Sin VFX de entorno: close-up de diálogo puro.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, las manos de Gabriel siguen fuera de encuadre, sin bastón, en el mismo punto de contacto sobre la herida. Se oye a GABRIEL decir, con mirada baja y tono grave: (versión ES) «El silencio es lo que deja a una herida decidir que es mortal.» / (versión EN) \"Silence is what lets a wound decide it's mortal.\" Generar una toma por idioma si el pipeline exige sincronía labial en cada versión, manteniendo idéntica composición, luz e intensidad entre ambas. Miguel no habla."
+    },
+    {
+      "id_plano": "B1C01_S3_P10",
+      "ajustes": "Operación: Ingredients to Video. Duración solicitada 7 s — no documentada; redondear a 8 s. Modelo: Veo 3.1 Fast. Formato: 16:9. Plano crítico de continuidad: adjuntar como referencia adicional (si la interfaz lo permite en Ingredients) el último frame aprobado de P06 o P09 mostrando el estado de la herida, para evitar que el generador reinicie el daño a su estado original.",
+      "criterios_aceptacion": "El ala arranca visiblemente desde el estado ya cerrado en el punto de contacto de P06/P09 y NO desde la herida completamente abierta de P02-P04. Al final del plano, una franja claramente mayor que al inicio aparece cerrada, pero queda una porción visible sin tratar — rechazar la toma si muestra el ala ya totalmente curada (eso corresponde a P12-P14) o sin ningún avance. Ambas manos de Gabriel permanecen en el mismo punto de contacto sin objeto.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)",
+        "Añadir como referencia de continuidad (no de identidad) el último fotograma aprobado de B1C01_S3_P06 o B1C01_S3_P09, que muestra el avance de cierre ya alcanzado en el punto de contacto."
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano detalle (insert), cenital leve sobre el ala, coherente con el ángulo de cámara. Plano fijo (locked-off).\n\n[SUJETOS Y ESTADO]\nEl ala izquierda de Miguel, visible en insert cenital leve: la franja ya cerrada desde el plano B1C01_S3_P06 en el punto de contacto sigue visible, con un tono distinto (piel cauterizada) frente al resto, que continúa dañado (gris ceniza a negro). El resto del cuerpo de Miguel queda fuera de encuadre, sin cambio.\n\nGabriel: ambas manos visibles en el insert, en el mismo punto de contacto establecido desde B1C01_S3_P05 (derecha en zona proximal, izquierda en zona distal), sin objeto ni bastón, sosteniendo el avance de la luz sin gesto nuevo.\n\n[ACCIÓN]\nLa luz de Gabriel sigue avanzando sobre el tejido dañado del ala, cerrando la herida centímetro a centímetro: el borde de luz avanza gradualmente sobre la superficie quemada desde el punto de contacto original hacia el resto de la herida. Al terminar el plano, una franja mayor que al inicio del propio plano aparece cerrada (tono distinto entre zona tratada y zona aún quemada), pero queda todavía una porción de la herida sin cerrar —no se alcanza la curación total en este plano—. Puede aparecer un hilo de humo puntual donde el avance de luz toca tejido fresco.\n\n[ESPACIO, LUZ Y VFX]\nLa luz de Gabriel avanzando sobre el tejido dañado del ala es la fuente. Dirección cenital leve, coherente con el ángulo de cámara; recorre la herida desde el punto original hacia una franja mayor. Suave, con un borde de avance difuso entre la zona ya cerrada y la que sigue quemada. Color azul-plata sobre la piel cauterizada, con un resto cálido residual en el tejido aún dañado.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, el ala parte del mismo estado alcanzado al final de B1C01_S3_P06/P09 (franja ya cerrada en el punto de contacto original) — no debe reiniciarse al estado de herida completamente abierta de los planos iniciales. Ambas manos de Gabriel permanecen en el mismo punto de contacto, sin objeto. Se oye el chisporroteo suave y continuo de la cauterización avanzando. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P11",
+      "ajustes": "Operación: Ingredients to Video. Duración: 8 s. Modelo: Veo 3.1 Fast. Formato: 16:9. Nota: este plano cubre una elipsis temporal implícita (toda una noche) dentro de una 'toma continua'; el propio plano advierte que este caso no está cubierto por el banco de frases oficial — tratar como ensayo aparte y revisar que la postura de los personajes no derive junto con el cambio de luz.",
+      "criterios_aceptacion": "Miguel y Gabriel mantienen exactamente la misma postura corporal durante todo el plano, sin que el cambio de luz (noche→amanecer) provoque ningún desplazamiento, cambio de mano u objeto. El ala izquierda de Miguel queda mayoritariamente cerrada al final, con una zona menor aún sin tratar — ni completamente curada ni en el estado inicial de P10. La claridad del amanecer entra por la grieta superior de forma creciente y gradual.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano general, a la altura de los ojos. Travelling lateral corto (truck) que revela el cambio de luz exterior, desde la penumbra de la primera noche hasta la claridad grisácea del amanecer entrando por una grieta superior.\n\n[SUJETOS Y ESTADO]\nMiguel: mismo cuerpo tendido de costado, ojos cerrados escuchando/descansando (heredado del final de P08-P09), ala izquierda con la franja mayor ya cerrada de la salida de P10 y el resto aún dañado; mano derecha enguantada sobre el suelo sin objeto; mano izquierda enguantada bajo el torso sin objeto.\n\nGabriel: arrodillado, sin haberse movido de su sitio en toda la noche, ambas manos en el mismo punto de contacto sobre el ala (heredado desde P05), sin objeto ni bastón, sosteniendo la luz sin interrupción.\n\n[ACCIÓN]\nPasa la primera noche entera; Gabriel no se ha movido de su sitio, sosteniendo la luz sobre la herida. Miguel y Gabriel mantienen EXACTAMENTE la misma postura durante todo el plano —ningún cambio de posición, mano u objeto está autorizado aquí—; tras la noche completa, se autoriza únicamente un avance adicional de la curación del ala de Miguel: ahora mayoritariamente cerrada, con solo una zona menor aún sin tratar (más curada que en P10, menos que en P12).\n\n[ESPACIO, LUZ Y VFX]\nSe añade una claridad grisácea que entra por una grieta superior (motivada: primer amanecer); la luz de Gabriel se mantiene igual sobre la herida. La claridad del amanecer cae desde arriba a través de la grieta, dura y puntual por lo estrecho del haz; la luz de Gabriel sigue fija, suave, sin cambios. Color gris azulado frío del amanecer, distinto del azul-plata de Gabriel; ambas fuentes conviven sin fundirse. Polvo suspendido visible dentro del haz de luz. VFX: al fondo, la fortaleza sigue hundiéndose un poco más en el abismo con cada hora, en paralelo al cambio de luz, sin interferir con la quietud de los dos personajes.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, ni Miguel ni Gabriel cambian de postura, mano ni objeto —la elipsis de toda una noche se resuelve mediante el cambio de luz ambiental, no mediante movimiento de los personajes—. Solo el ala de Miguel avanza en su curación hasta quedar mayoritariamente cerrada. Se oyen crujidos lejanos y espaciados del asentamiento de la fortaleza, y el silencio ambiental propio del amanecer. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P12",
+      "ajustes": "Operación: Ingredients to Video. Duración solicitada 7 s — no documentada; redondear a 8 s. Modelo: Veo 3.1 Fast. Formato: 16:9. Nota: comprimir dos noches completas en pocos segundos es un recurso de elipsis/montaje que la guía no cubre directamente; puede requerir tratamiento en posproducción (fundido o time-lapse) en vez de generación continua de una sola pasada.",
+      "criterios_aceptacion": "Miguel y Gabriel no cambian de postura, mano ni objeto durante todo el plano pese a la elipsis de dos noches. El ala izquierda de Miguel queda prácticamente cerrada al final, con restos menores de daño — no completamente curada todavía (eso corresponde a P13-P14) ni en el estado de P11. Los desprendimientos de fondo se espacian y disminuyen de escala respecto a P07 y P01, y la silueta de la fortaleza se lee más estable en el encuadre elevado final.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (misma reserva)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano general, ángulo picado leve. Grúa ascendente breve (crane up) que se detiene en un plano general elevado, desde la misma altura de Gabriel y Miguel hasta una vista elevada de la sala.\n\n[SUJETOS Y ESTADO]\nMiguel: misma postura tendida que al final de P11, ojos cerrados, ala izquierda mayoritariamente cerrada con una zona menor aún sin tratar; mano derecha sin objeto sobre el suelo; mano izquierda sin objeto bajo el torso.\n\nGabriel: misma postura arrodillada que al final de P11, mismas manos en el mismo punto de contacto sobre el ala, sin objeto ni bastón, sin apartarse.\n\n[ACCIÓN]\nTranscurren la segunda y la tercera noche; Gabriel continúa arrodillado junto a Miguel sin apartarse, en la misma postura exacta que al inicio del plano —ningún cambio de posición, mano u objeto de ninguno de los dos personajes está autorizado—. Tras la segunda y la tercera noche, el ala izquierda de Miguel queda prácticamente cerrada, con solo restos menores de daño visible (más curada que en P11, muy cerca ya del cierre total que se verá en P13-P14).\n\n[ESPACIO, LUZ Y VFX]\nAlternancia, vista desde la grúa ascendente, entre la claridad grisácea de las grietas superiores y la oscuridad de las nuevas noches, con la luz de Gabriel constante en el centro sin cambiar de posición. Dura en los haces diurnos puntuales; suave y constante en la luz de Gabriel. Ciclo de color entre gris azulado (día) y negro casi total (noche), con el azul-plata de Gabriel como único punto estable de color. VFX: los desprendimientos de la fortaleza se espacian cada vez más y son de menor escala que en los planos anteriores —señal de que la estructura empieza a estabilizarse—; al final del plano (vista elevada), la silueta general de la fortaleza debe leerse más estable que antes.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, Miguel y Gabriel permanecen inmóviles en el mismo punto durante todo el ciclo de dos noches; solo cambian la luz ambiental y el estado del ala de Miguel (avance hacia el cierre casi total). Se oyen desprendimientos cada vez más espaciados y menos densos que en planos anteriores. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P13",
+      "ajustes": "Operación: Ingredients to Video. Duración: 8 s. Modelo: Veo 3.1 Fast. Formato: 16:9. Nota: el propio plano advierte del riesgo inverso a los demás — que el generador introduzca movimiento residual (polvo, temblor) que contradiga el silencio total pedido por el texto; verificar explícitamente que el fondo aparece inmóvil.",
+      "criterios_aceptacion": "El fondo permanece completamente inmóvil durante todo el plano, sin polvo cayendo ni temblor visual que contradiga el silencio total descrito. Miguel y Gabriel no cambian de postura, manos ni estado del ala respecto a P12. Marcar como PENDIENTE de decisión del autor si el aspecto del ala en este plano (y en P14) reutiliza la descripción de cicatriz antigua de character_library/states/burned_left_wing o requiere un estado visual intermedio no documentado: no aprobar como definitivo sin esa validación.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (PENDIENTE — ver aviso en criterios_aceptacion)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio, plano de dos personajes, a la altura de los ojos. Plano fijo (locked-off).\n\n[SUJETOS Y ESTADO]\nMiguel: misma postura tendida que al final de P12, ojos cerrados, ala izquierda prácticamente cerrada con restos menores de daño; mano derecha sin objeto sobre el suelo; mano izquierda sin objeto bajo el torso.\n\nGabriel: misma postura arrodillada, manos en el mismo punto de contacto sobre el ala (derecha proximal, izquierda distal), sin objeto ni bastón, sosteniendo la luz.\n\n[ACCIÓN]\nLa fortaleza deja de gemir por fin; el silencio se asienta sobre la sala en calma. NINGÚN elemento del plano se mueve más allá de lo estrictamente necesario: es un plano diseñado deliberadamente como AUSENCIA de movimiento, en contraste con los planos anteriores. Miguel y Gabriel mantienen la misma postura exacta que al inicio; no hay avance de curación declarado en este plano concreto (el ala permanece en el mismo estado de P12).\n\n[ESPACIO, LUZ Y VFX]\nLa claridad del nuevo amanecer, ahora más extendida por la sala, se convierte en la fuente dominante; la luz de Gabriel persiste pero ya no domina el encuadre. Entra de forma más amplia y uniforme desde la grieta superior, cubriendo a ambos personajes. Suave, sin el haz estrecho de amaneceres anteriores. Color gris azulado que empieza a calentarse levemente hacia un blanco neutro. Sin polvo en movimiento: el aire está quieto por primera vez. VFX: ninguno activo por diseño — no hay trayectoria de partículas ni desprendimientos que describir.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, ningún elemento de fondo se mueve: ni polvo, ni temblor, ni desprendimientos — silencio total, sin crujidos, aire asentado. Miguel y Gabriel no cambian de postura, mano ni objeto. Silencio casi absoluto, solo un aire suave y estable. No hay diálogo."
+    },
+    {
+      "id_plano": "B1C01_S3_P14",
+      "ajustes": "Operación: Ingredients to Video. Duración: 8 s. Modelo: Veo 3.1 Fast. Formato: 16:9. ADVERTENCIA DE CONTINUIDAD: existe un salto de acción no mostrado en pantalla entre el final de P13 (Miguel inconsciente, tendido) y el inicio de P14 (Miguel 'ya consciente e incorporado a medias'); este prompt fija una transición mínima razonada (apoyo en la mano derecha) pendiente de validación del autor, que puede preferir intercalar un plano adicional. Mismo aviso PENDIENTE sobre el aspecto del ala ya cicatrizada que en P13.",
+      "criterios_aceptacion": "Ninguna mano de Gabriel sostiene bastón ni objeto. El ala izquierda de Miguel aparece ya cicatrizada (blanco perla en la base, gris ceniza a negro en el tercio distal, sin fuego ni humo), sin reabrir la herida. Marcar como PENDIENTE la transición no mostrada entre la postura tendida de P13 y la incorporación a medias de P14: si el autor decide intercalar un plano adicional para ese gesto, este prompt deja de ser válido tal cual y debe recortarse. La línea de diálogo de Miguel usada aquí es una reconstrucción a partir de accion_principal, no una cita literal de la ficha entregada: verificar contra el texto real del capítulo antes de aprobar el audio final.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md (PENDIENTE — ver aviso en ajustes)",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Plano medio, plano de dos personajes, a la altura de los ojos. Plano fijo (locked-off).\n\n[SUJETOS Y ESTADO]\nMiguel: al inicio del plano, ya consciente e incorporado a medias (transición no mostrada en pantalla desde su postura tendida de P13, fijada aquí como apoyo mínimo en la mano derecha). Torso levantado del suelo, girado para mirar a Gabriel. Mano derecha enguantada en cuero oscuro, presionada de plano contra el suelo junto a la cadera derecha, brazo extendido y tenso, sosteniendo parte del peso del torso incorporado, sin objeto sujetado. Mano izquierda enguantada, ya libre del suelo, apoyada sobre su propio muslo izquierdo mientras gira el torso hacia Gabriel, sin objeto sujetado. Ala izquierda ya cicatrizada/cerrada, reposicionada a su espalda (ya no doblada bajo el cuerpo): coloración blanco perla en la base y gris ceniza a negro en el tercio distal, sin fuego, brasas ni humo. Ala derecha blanco perla intacta, sin cambio. Ojos abiertos, mirada sostenida en Gabriel.\n\nGabriel: al inicio del plano, sus manos ya se retiran del ala cicatrizada (transición implícita entre P13 y P14, no mostrada en pantalla). Mano derecha apoyada sobre su propio muslo derecho, dedos relajados, sin objeto ni bastón. Mano izquierda apoyada sobre su propio muslo izquierdo, dedos relajados, sin objeto. Su mirada pasa de la herida al rostro de Miguel.\n\n[ACCIÓN]\nMiguel le pregunta a Gabriel por qué no envió a un sanador en su lugar. Mantiene la mirada sostenida en Gabriel durante toda la línea, a la espera de la respuesta, sin cambiar de postura ni de mano. Gabriel devuelve la mirada, sin hablar todavía en este plano.\n\n[ESPACIO, LUZ Y VFX]\nLa claridad diurna ya establecida sigue siendo la fuente principal; la luz de Gabriel se atenúa notablemente al aflojar la concentración. Luz uniforme sobre ambos rostros, sin dirección marcada, propia de un día ya asentado. Suave, sin contraste marcado entre luces y sombras. Color blanco neutro con un resto tenue de azul-plata en el punto donde Gabriel aún roza el ala al retirar las manos. Sin VFX nuevo: plano de actuación pura; el ala debe mostrarse ya cerrada/cicatrizada, sin reabrir la herida.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, la mano derecha de Miguel permanece presionada contra el suelo sosteniendo su peso, sin objeto; su mano izquierda permanece sobre su propio muslo, sin objeto. El ala izquierda de Miguel se mantiene cicatrizada sin reabrirse. Las manos de Gabriel permanecen vacías sobre sus propios muslos, sin bastón ni objeto. Se oye a MIGUEL preguntar: (versión ES) «¿Por qué no enviaste a un sanador en tu lugar?» (línea reconstruida a partir de accion_principal; no hay cita literal en la ficha entregada — verificar contra el texto real del capítulo antes de generar en producción final). Generar una variante por idioma si el pipeline lo requiere."
+    },
+    {
+      "id_plano": "B1C01_S3_P15",
+      "ajustes": "Operación: Ingredients to Video, o Frames to Video (inicio) con último frame de P14 (Gabriel con manos ya retiradas sobre los muslos) para continuidad exacta de postura. Modelo: Veo 3.1 Fast. Duración: 8 s. Formato: 16:9. Mismo riesgo del bastón que en P08-P09 (manos fuera de encuadre).",
+      "criterios_aceptacion": "Ninguna mano de Gabriel entra en cuadro con bastón u objeto. La línea de diálogo se pronuncia completa y literal, en el idioma correspondiente, sin alterar el texto canónico entregado en la ficha (dialogo_es y dialogo_en). El plano permanece fijo sin corte.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png",
+        "character_library/angeles/Miguel/states/burned_left_wing/README.md",
+        "character_library/angeles/Gabriel/canonical/face_reference.png",
+        "character_library/angeles/Gabriel/canonical/body_reference.png (ignorar el bastón)"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo. Primer plano, a la altura de los ojos. Plano fijo (locked-off).\n\n[SUJETOS Y ESTADO]\nGabriel: rostro sereno en primer plano. Sus manos quedan fuera de encuadre, presentes sin cambio respecto al final de P14: apoyadas sobre sus propios muslos, sin objeto ni bastón. Su mirada está dirigida hacia Miguel.\n\nMiguel: fuera de encuadre; presente sin cambio respecto al final de P14: incorporado a medias, apoyado en la mano derecha contra el suelo, mano izquierda sobre su propio muslo, mirada sostenida en Gabriel, ala izquierda ya cicatrizada.\n\n[ACCIÓN]\nGabriel responde con la razón por la que fue en persona, con el mismo rostro sereno durante toda la línea, sin gesto de manos (fuera de encuadre, sin cambio).\n\n[ESPACIO, LUZ Y VFX]\nLa claridad diurna de la sala, ahora como luz clave, incide de forma pareja sobre el rostro sereno de Gabriel, sin ángulo dramático. Suave, coherente con el plano anterior. Color blanco neutro cálido, luz de mañana ya asentada. Sin VFX de entorno: close-up de diálogo puro. La luz de cauterización ya cesó tras estabilizarse la herida en los planos previos (continuidad a mantener, no nueva acción).\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, las manos de Gabriel permanecen fuera de encuadre, sin bastón, apoyadas sobre sus propios muslos. Se oye a GABRIEL decir, con rostro sereno: (versión ES) «Porque uno no grita pidiendo ayuda con la voz que usa para la gente que ama. Uno va en persona.» / (versión EN) \"Because you don't yell for help in the voice you use for people you love. You go yourself.\" Generar una toma por idioma si el pipeline exige sincronía labial, manteniendo idéntica composición y luz entre ambas. Miguel no habla en este plano."
+    },
+    {
+      "id_plano": "B1C01_S3_P16",
+      "ajustes": "Operación: Ingredients to Video para el tramo 'recuerdo' (mismas referencias de Gabriel usadas en toda la escena); el tramo 'presente' del páramo NO puede prepararse con datos de este lote — falta el estado_canon_entrada de la escena marco (presente, páramo). Modelo: Veo 3.1 Fast para el tramo recuerdo. Duración: 8 s. Formato: 16:9. ESTADO: PENDIENTE — no aprobar la unión de este plano con la escena marco hasta cruzarlo con los registros de continuidad de esa otra escena.",
+      "criterios_aceptacion": "ESTADO: PENDIENTE. No aprobar la unión de este plano con la escena marco hasta cruzarlo con los registros de continuidad de esa otra escena. El rostro de Gabriel en el tramo 'presente', si llega a generarse, debe coincidir con canonical/face_reference.png y no haber derivado tras cinco planos de contacto lumínico y expresión sostenida en el recuerdo (riesgo señalado como el de mayor deriva de identidad de toda la secuencia). Hasta recibir el estado_canon_entrada de la escena marco, limitar la generación al tramo recuerdo únicamente y no completar la disolución hacia el presente.",
+      "referencias_adjuntas": [
+        "Tramo recuerdo: character_library/angeles/Gabriel/canonical/face_reference.png, character_library/angeles/Gabriel/canonical/body_reference.png (ignorando el bastón). Tramo presente (páramo): SIN REFERENCIAS DISPONIBLES en este lote — requiere el estado_canon_entrada y las referencias de la escena marco antes de poder adjuntarse; no inventar rasgos, pose ni vestuario de ese tramo."
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano continuo, de transición. Primer plano, a la altura de los ojos. Cambio de foco (rack focus) desde el rostro nítido de Gabriel en el recuerdo hacia un desenfoque que se disuelve en la claridad del desierto presente.\n\n[SUJETOS Y ESTADO — TRAMO RECUERDO, único verificable con los datos de este lote]\nGabriel: rostro nítido, herencia directa del final del plano B1C01_S3_P15, sereno. Manos fuera de encuadre, sin cambio, sin objeto ni bastón. Miguel queda fuera de encuadre; presente sin cambio respecto al final de P15: incorporado a medias, ala izquierda cicatrizada, manos sin objeto.\n\n[SUJETOS Y ESTADO — TRAMO PRESENTE, NO GENERAR SIN DATOS ADICIONALES]\nEl encuadre se difumina y revela, ya enfocado, el rostro de Gabriel en el páramo presente, «todavía suplicando». No se dispone del estado_canon_entrada de esa escena marco: no se puede describir de forma verificable la pose, el vestuario ni la posición de Miguel en ese tramo. NO GENERAR este segundo tramo hasta recibir esos datos; si se genera solo el tramo recuerdo como prueba aislada, cortarlo antes del inicio de la disolución.\n\n[ACCIÓN]\nEl recuerdo suelta a Miguel y lo devuelve al páramo presente, con Gabriel todavía frente a él. La identidad de Gabriel debe mantenerse reconocible a través del cambio de foco y de contexto entre ambos «modos» (recuerdo y presente).\n\n[ESPACIO, LUZ Y VFX]\nLa claridad del recuerdo se disuelve hacia la luz del páramo presente (fuente exterior de día, ya establecida en la escena marco, no descrita aquí). El desenfoque acompaña el cambio: la luz suave y neutra del recuerdo cede a una luz más dura y directa del desierto presente. Transición de color de blanco neutro frío (recuerdo) a un tono más cálido y contrastado propio del páramo. Sin física de entorno propiamente dicha: es un recurso óptico de montaje, no una interacción física.\n\n[CONTINUIDAD Y AUDIO]\nDurante el tramo recuerdo, las manos de Gabriel permanecen fuera de encuadre, sin bastón. No hay diálogo en este plano concreto (ficha sin dialogo_es/dialogo_en). No generar audio ambiental del páramo presente sin los datos de esa escena marco."
+    }
+  ],
+  "guion_storyboard_studio": "NOTA DE USO: guion en texto libre para pegar en el campo Script de Storyboard Studio, como borrador de composición (doc 15: el cast interno de esta Tool no tiene confirmada la importación de character_library/). Los rótulos ESCENA/PLANO/ESTADO son organización legible, no comandos. Tras el desglose automático, comprobar que se han creado exactamente 16 paneles y que cada ficha de Assets tiene una miniatura vinculada antes de generar. Si la Tool no permite asociar una imagen existente a cada personaje, usar este guion solo como borrador y generar los paneles definitivos en el espacio de imágenes de Flow con las referencias reales de character_library/, adjuntadas APARTE (no como texto): Miguel → character_library/angeles/Miguel/canonical/face_reference.png, canonical/body_reference.png (la referencia states/burned_left_wing/README.md muestra una cicatriz ANTIGUA Y FRÍA, no la herida fresca de esta escena: no usarla como ancla de la superficie quemada); Gabriel → character_library/angeles/Gabriel/canonical/face_reference.png, canonical/body_reference.png (su referencia canónica lo muestra con el bastón Vox Aeternum: en esta escena NO lo porta, suprimirlo explícitamente en cada panel).\n\nESCENA: Las tres noches de Ónice (flashback) — B1C01_S3\nFUENTE: Libro I, Cap. 01, escena 3 (flashback). Verificar contra el texto real del capítulo antes de dar por definitiva cualquier línea reconstruida (ver aviso en PLANO P14).\nCONTINUIDAD TEMPORAL: recuerdo completo, con una elipsis de tres noches dentro de la propia escena (P11 = noche 1, P12 = noches 2-3), cerrado por un rack focus que devuelve a la escena marco en el presente (P16, PENDIENTE de datos de esa escena marco).\nPERSONAJES VISIBLES: MIGUEL — forma celestial, referencia canónica de Miguel (ver nota de arriba); ala izquierda quemada y rota en el tercio distal al inicio, cicatrizada al final (P14 en adelante). GABRIEL — forma celestial, referencia canónica de Gabriel SIN el bastón Vox Aeternum en ningún plano de esta escena (manos vacías salvo contacto con el ala de Miguel).\nLUGAR: Ruinas de las Puertas de Ónice (pasado) — fortaleza hundiéndose en el abismo; sala interior en ruinas con suelo de piedra inclinado, escombros y llamas bajas; una grieta superior por la que entra, con el paso de las noches, la claridad del amanecer.\nESTADO INICIAL DE ESCENA: la fortaleza ya está inclinada hacia el vacío; Miguel yace derrumbado dentro con el ala izquierda quemada y rota bajo el propio cuerpo; Gabriel aún no ha llegado.\n\nPLANO P01 — GRAN PLANO GENERAL, PICADO EXTREMO\nEncuadre e instante del panel: la fortaleza de las Puertas de Ónice, pequeña al fondo del abismo bajo cielo nocturno cubierto; sin personajes.\nEstado de entrada: fortaleza ya inclinada hacia el vacío, muy pequeña en el encuadre.\nAcción principal: la fortaleza se inclina y se hunde; bloques de piedra grandes e individualmente reconocibles se desprenden y caen al abismo dejando estela de polvo; en paralelo, humo y chispas ascienden desde las grietas más profundas.\nEstado de salida: la fortaleza ocupa gran parte del encuadre, muros partidos, grietas nuevas visibles, humo y luz de incendio saliendo de las grietas.\nRasgos que deben persistir: los bloques que caen no se funden ni cambian de forma; la caída de bloques y el ascenso de humo son dos trayectorias separadas, ninguna oculta a la otra.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: grúa descendente (crane down) desde muy arriba del abismo hasta cerca de la fortaleza.\n\nPLANO P02 — PLANO GENERAL, DOLLY IN HACIA MIGUEL\nEncuadre e instante del panel: umbral derrumbado de una sala amplia con escombros y llamas bajas; al final del recorrido, cerca de Miguel caído de costado en el centro.\nEstado de entrada: MIGUEL tendido de costado, ojos cerrados, inconsciente. Mano derecha enguantada, palma abajo sobre el suelo junto al costado, sin objeto. Mano izquierda enguantada, parcialmente bajo el propio torso, sin objeto. Ala derecha blanco perla intacta. Ala izquierda quemada y rota en el tercio distal (gris ceniza a negro hacia la punta, mayoría blanca), doblada y aplastada bajo el cuerpo, herida activa sin tratar, visibilidad parcial. Armadura celestial base sin daño narrativo.\nAcción principal: Miguel permanece herido, incapaz de levantarse, mientras la cámara avanza hacia él; sus ojos pasan de cerrados a entreabiertos (inicio de apertura, no despertar completo).\nEstado de salida: misma posición física; ojos entreabiertos, mirada sin foco; manos y ala sin cambio.\nRasgos que deben persistir: ninguna mano cambia de posición ni de objeto; el ala izquierda mantiene su daño exacto, sin sanar; el desplome de una columna al fondo no invade la figura de Miguel en primer término.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling de aproximación (dolly in).\nESTADO PENDIENTE: no existe referencia visual fiable de la herida fresca del ala (solo hay cicatriz antigua en character_library); usar la descripción textual anterior como fuente de verdad hasta validación del autor.\n\nPLANO P03 — PRIMER PLANO DEL ROSTRO DE MIGUEL\nEncuadre e instante del panel: rostro de Miguel llenando el cuadro, ojos entreabiertos, respiración forzada.\nEstado de entrada: heredado literal de la salida de P02: cabeza ladeada hacia el suelo, ojos entreabiertos, mirada sin foco. Manos y alas fuera de cuadro pero presentes sin cambio (mano derecha sin objeto sobre el suelo; mano izquierda sin objeto bajo el torso; ala izquierda dañada sin cambio; ala derecha intacta).\nAcción principal: el rostro respira con esfuerzo; un par de plumas carbonizadas, ya en movimiento, cruzan por delante de cámara en diagonal con caída lenta y oscilante a través del humo.\nEstado de salida: mismo encuadre, sin corte; único cambio visible es la respiración y el paso de las plumas.\nRasgos que deben persistir: ninguna pluma se confunde con el cuerpo de Miguel ni sugiere cambio en el inventario de su ala; el ala izquierda sigue fuera de cuadro sin cambio.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off), sin corte de cámara.\n\nPLANO P04 — PLANO MEDIO DE DOS, GABRIEL LLEGA\nEncuadre e instante del panel: Gabriel de pie junto a Miguel al inicio; ya arrodillado junto a su costado al final.\nEstado de entrada: MIGUEL — mismo cuerpo que al final de P03, visible ahora en plano medio; mano derecha sin objeto visible en el borde de cuadro; mano izquierda sin objeto, visibilidad parcial; ala izquierda dañada visibilidad parcial; ala derecha intacta visibilidad parcial. GABRIEL — primera aparición: cuerpo esbelto 1,95 m, pelo negro liso a los hombros, dos alas blancas inmaculadas parcialmente plegadas, túnica azul zafiro, peto de plata con hombreras de plumas, halo azul-plata tenue. De pie, aproximándose; mano derecha vacía junto al costado, SIN bastón; mano izquierda vacía junto al costado.\nAcción principal: Gabriel llega sin que nadie lo enviara y se arrodilla junto a Miguel; al terminar, mano derecha apoyada sobre su propio muslo derecho, mano izquierda sobre su propio muslo izquierdo, ninguna toca todavía a Miguel; mirada fija en el ala herida. Miguel no cambia de postura.\nEstado de salida: Gabriel arrodillado, ambas manos vacías sobre sus propios muslos, sin contacto aún con Miguel.\nRasgos que deben persistir: Gabriel no porta el bastón Vox Aeternum en ningún momento del plano; fijar aquí el lado de pantalla de cada personaje (eje de acción), pendiente de decisión del autor, y respetarlo en P07 y P11-P15.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: panorámica vertical (tilt down) que acompaña a Gabriel al arrodillarse.\n\nPLANO P05 — INSERT: MANOS DE GABRIEL SOBRE EL ALA\nEncuadre e instante del panel: manos de Gabriel acercándose al ala rota, sin contacto, al inicio; posadas sobre la herida con un resplandor naciente, al final.\nEstado de entrada: ala izquierda de Miguel quemada, sin tratar, sin cambio respecto a P04. Gabriel: mano derecha extendida hacia la zona proximal de la herida, dedos curvados, sin tocar; mano izquierda extendida hacia la zona distal, dedos curvados, sin tocar; ninguna mano con objeto.\nAcción principal: Gabriel posa las manos sobre el ala y comienza a canalizar su luz; el resplandor azul-plata nace ÚNICAMENTE en el punto de contacto, después de completarse el contacto físico, nunca antes.\nEstado de salida: mano derecha posada de plano en zona proximal; mano izquierda posada de plano en zona distal; resplandor tenue naciendo entre los dedos; sin avance de cierre todavía.\nRasgos que deben persistir: esta disposición exacta de manos (derecha=proximal, izquierda=distal) es la que heredan P06, P07 y P10 sin volver a describirse desde cero; ninguna mano sostiene objeto.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P06 — MEDIO CORTO, RACK FOCUS HERIDA→ROSTRO\nEncuadre e instante del panel: la luz sobre la herida nítida y el rostro de Gabriel desenfocado, al inicio; el rostro de Gabriel nítido y la luz desenfocada, al final.\nEstado de entrada: mismo punto de contacto que la salida de P05 (derecha proximal, izquierda distal), sin gesto nuevo. Rostro de Gabriel, desenfocado, con concentración.\nAcción principal: la luz de Gabriel cauteriza la herida; el tejido bajo el punto de contacto inicia su cierre (avance mínimo, resto abierto); un hilo de humo fino y vertical asciende desde el punto de contacto, unido a su fuente, visible aunque desenfocado durante el rack focus.\nEstado de salida: rostro de Gabriel nítido, concentrado; herida con cierre apenas iniciado en el punto de contacto.\nRasgos que deben persistir: el humo no debe llenar el cuadro ni ocultar el ala ni la mano de Gabriel durante el rack focus; ambas manos siguen en el mismo punto de contacto, sin objeto.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cámara fija con cambio de foco (rack focus).\n\nPLANO P07 — GENERAL FIJO, ELIPSIS MÍNIMA\nEncuadre e instante del panel: Gabriel y Miguel en primer término; la fortaleza recortada contra el cielo al fondo, al inicio y al final del plano.\nEstado de entrada: heredado de la salida de P06: Miguel de costado, ojos entreabiertos, ala con cierre apenas iniciado; Gabriel arrodillado, mismo punto de contacto, sin objeto.\nAcción principal: Gabriel permanece arrodillado sosteniendo la luz sin interrupción; NI Miguel ni Gabriel cambian de postura, mano u objeto — el propio plano exige que ambos se mantengan exactamente igual; al fondo, la fortaleza se hunde un poco más con nuevos desprendimientos, más espaciados y menores que en P01.\nEstado de salida: composición idéntica a la de entrada; solo el nivel de la fortaleza al fondo se lee más bajo.\nRasgos que deben persistir: cero cambio de postura, mano u objeto en los personajes; verificar que el descenso de fondo sea perceptible pese al plano fijo.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off), sin movimiento de cámara.\n\nPLANO P08 — PRIMER PLANO GABRIEL, HABLA SIN PAUSA\nEncuadre e instante del panel: rostro de Gabriel hablando, luz reflejada en su piel; Miguel parcialmente visible al borde del encuadre.\nEstado de entrada: heredado de P07. Gabriel: manos fuera de cuadro, sin cambio, mismo punto de contacto, sin objeto ni bastón. Miguel: ojos entreabiertos, sin cambio.\nAcción principal: Gabriel sigue hablando sin pausa —de canciones viejas y del genio de Uriel— para no dejar que el silencio se instale; los ojos de Miguel pasan de entreabiertos a cerrados, cabeza levemente vuelta hacia la voz, escuchando conscientemente.\nEstado de salida: Gabriel sigue hablando; Miguel con los ojos ya cerrados, escuchando.\nRasgos que deben persistir: ninguna mano de Gabriel entra en cuadro con bastón u objeto.\nDiálogo literal y hablante: GABRIEL habla de forma continua; no hay línea literal asignada en la ficha para este tramo — no inventar texto exacto, usar habla continua sin contenido literal exigido o resolver en postproducción de voz.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P09 — PRIMER PLANO GABRIEL, LÍNEA CLAVE (EXTEND de P08)\nEncuadre e instante del panel: mismo encuadre exacto que P08, continuado sin corte; rostro serio.\nEstado de entrada: heredado literal de la salida de P08: manos fuera de cuadro, sin cambio, mismo punto de contacto, sin bastón. Miguel fuera de cuadro, ojos cerrados, sin cambio.\nAcción principal: Gabriel dice la frase que sostiene la herida frente al silencio, mirada baja hacia la herida durante toda la línea; su luz baja ligeramente de intensidad.\nEstado de salida: mismo encuadre; línea completada.\nRasgos que deben persistir: ninguna mano entra en cuadro con bastón; continuidad de luz y postura sin salto respecto al final de P08 (verificar frame de unión).\nDiálogo literal y hablante: GABRIEL — ES: «El silencio es lo que deja a una herida decidir que es mortal.» / EN: \"Silence is what lets a wound decide it's mortal.\"\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: continuación de la misma toma fija (Extend), sin recomposición de cámara.\n\nPLANO P10 — INSERT CENITAL, AVANCE DE LA CAUTERIZACIÓN\nEncuadre e instante del panel: el ala de Miguel con la zona ya cerrada visible, al inicio; una franja mayor cerrada, al final.\nEstado de entrada: heredado del estado alcanzado en P06/P09 (franja cerrada en el punto de contacto, resto dañado) — NO debe reiniciarse a herida totalmente abierta. Gabriel: mismo punto de contacto, sin objeto.\nAcción principal: la luz sigue avanzando centímetro a centímetro sobre el tejido dañado; posible hilo de humo puntual donde el avance toca tejido fresco.\nEstado de salida: franja mayor cerrada que al inicio del propio plano; queda aún una porción sin cerrar — no hay curación total en este plano.\nRasgos que deben persistir: el ala arranca del estado ya avanzado de P06/P09, nunca del estado inicial de daño total.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off), ángulo cenital leve.\n\nPLANO P11 — GENERAL, TRUCK LATERAL, PRIMER AMANECER\nEncuadre e instante del panel: misma composición en penumbra de la primera noche al inicio; claridad grisácea de amanecer entrando por una grieta superior al final.\nEstado de entrada: heredado de P10. Miguel y Gabriel en la misma postura de siempre, sin cambio de mano ni objeto.\nAcción principal: pasa la primera noche entera; NI Miguel ni Gabriel cambian de postura, mano ni objeto durante todo el plano; tras la noche, el ala de Miguel queda mayoritariamente cerrada, con una zona menor aún sin tratar.\nEstado de salida: misma postura exacta; ala mayoritariamente cerrada; claridad de amanecer entrando por la grieta.\nRasgos que deben persistir: la postura de ambos personajes NO deriva con el cambio de luz ambiental (riesgo propio de esta elipsis).\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling lateral corto (truck) que revela el cambio de luz.\n\nPLANO P12 — GENERAL, CRANE UP, DOS NOCHES MÁS\nEncuadre e instante del panel: misma altura de Gabriel y Miguel al inicio; plano general elevado al final.\nEstado de entrada: heredado de P11. Misma postura exacta de ambos personajes.\nAcción principal: transcurren la segunda y la tercera noche; Gabriel continúa arrodillado sin apartarse, sin cambio de postura, mano ni objeto; el ala de Miguel queda prácticamente cerrada, con restos menores de daño; los desprendimientos de la fortaleza se espacian cada vez más.\nEstado de salida: vista elevada; fortaleza más estable en su silueta; ala prácticamente cerrada.\nRasgos que deben persistir: cero cambio de postura en los personajes pese a la elipsis de dos noches; ala aún NO totalmente curada (eso es P13-P14).\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: grúa ascendente breve (crane up).\n\nPLANO P13 — MEDIO DE DOS, FIJO, SILENCIO TOTAL\nEncuadre e instante del panel: misma composición general durante todo el plano; sin movimiento de fondo.\nEstado de entrada: heredado de P12. Ala prácticamente cerrada, restos menores de daño.\nAcción principal: la fortaleza deja de gemir por fin; el silencio se asienta; plano diseñado como AUSENCIA de movimiento — ningún elemento de fondo se mueve; ni Miguel ni Gabriel cambian de postura.\nEstado de salida: idéntico a la entrada; sin avance de curación declarado en este plano concreto.\nRasgos que deben persistir: el fondo permanece completamente inmóvil, sin polvo ni temblor residual (riesgo inverso al resto de la secuencia).\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\nESTADO PENDIENTE: el aspecto exacto del ala «recién cerrada, sin cicatriz antigua todavía» no tiene referencia visual documentada; decidir con el autor si reutiliza la cicatriz antigua de character_library o requiere un estado intermedio nuevo, antes de aprobar como definitivo.\n\nPLANO P14 — MEDIO DE DOS, MIGUEL SE INCORPORA\nEncuadre e instante del panel: Miguel ya consciente e incorporado a medias, volviendo el rostro hacia Gabriel, al inicio; sostiene la mirada, a la espera, al final.\nEstado de entrada: MIGUEL — torso levantado del suelo, girado hacia Gabriel; mano derecha presionada de plano contra el suelo junto a la cadera, sosteniendo el peso, sin objeto; mano izquierda sobre su propio muslo izquierdo, sin objeto; ala izquierda YA cicatrizada, reposicionada a la espalda (blanco perla en la base, gris ceniza a negro en el tercio distal, sin fuego ni humo); ala derecha intacta. GABRIEL — manos ya retiradas del ala, mano derecha sobre su propio muslo derecho sin objeto ni bastón, mano izquierda igual.\nAcción principal: Miguel le pregunta a Gabriel por qué no envió a un sanador en su lugar, mirada sostenida, sin cambiar de postura.\nEstado de salida: misma postura; Gabriel devuelve la mirada, sin hablar todavía.\nRasgos que deben persistir: ninguna mano de Gabriel con bastón; el ala de Miguel no se reabre.\nDiálogo literal y hablante: MIGUEL pregunta por qué Gabriel no envió a un sanador — línea reconstruida a partir de la acción de la ficha, SIN cita literal confirmada: verificar contra el texto real del capítulo antes de dar por buena.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\nESTADO PENDIENTE: el gesto de incorporarse (de P13 a P14) y el de Gabriel al soltar el ala no están mostrados en pantalla en la ficha; el autor puede preferir intercalar un plano adicional para ambos gestos.\n\nPLANO P15 — PRIMER PLANO GABRIEL, RESPUESTA\nEncuadre e instante del panel: rostro sereno de Gabriel.\nEstado de entrada: heredado de P14. Manos fuera de cuadro, sin cambio, sin bastón. Miguel fuera de cuadro, incorporado a medias, sin cambio.\nAcción principal: Gabriel responde con la razón por la que fue en persona, rostro sereno durante toda la línea.\nEstado de salida: mismo encuadre, línea completada.\nRasgos que deben persistir: ninguna mano de Gabriel entra en cuadro con bastón.\nDiálogo literal y hablante: GABRIEL — ES: «Porque uno no grita pidiendo ayuda con la voz que usa para la gente que ama. Uno va en persona.» / EN: \"Because you don't yell for help in the voice you use for people you love. You go yourself.\"\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P16 — TRANSICIÓN, RACK FOCUS RECUERDO→PRESENTE\nEncuadre e instante del panel: rostro nítido de Gabriel en el recuerdo, al inicio; rostro de Gabriel ya enfocado en el páramo presente, «todavía suplicando», al final.\nEstado de entrada (tramo recuerdo, único verificable): heredado de P15. Manos fuera de cuadro, sin bastón. Miguel fuera de cuadro, sin cambio.\nAcción principal: el recuerdo suelta a Miguel y lo devuelve al páramo presente, con Gabriel todavía frente a él; la identidad de Gabriel debe mantenerse reconocible a través del cambio de foco y de contexto.\nEstado de salida (tramo presente): NO VERIFICABLE con los datos de este lote — falta el estado_canon_entrada de la escena marco (presente, páramo).\nRasgos que deben persistir: el rostro de Gabriel no debe derivar de su referencia canónica tras cinco planos de contacto lumínico sostenido.\nDiálogo literal y hablante: ninguno en este plano.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: cambio de foco (rack focus) con disolución.\nESTADO: PENDIENTE. No generar el tramo «presente» ni aprobar la unión con la escena marco hasta recibir sus datos de continuidad; limitar cualquier prueba a solo el tramo recuerdo.\n"
+}

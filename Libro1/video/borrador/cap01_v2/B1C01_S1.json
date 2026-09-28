@@ -1,0 +1,2231 @@
+{
+  "escena": {
+    "id_escena": "B1C01_S1",
+    "titulo": "El hueco bajo las costillas",
+    "resumen": "Miguel lleva doce días cruzando el desierto vitrificado de Serephis, atormentado por un frío hueco fijo bajo el esternón. Al quebrarse una duna descubre piedra tallada: un camino enterrado de un reino anterior a la Caída, tan ancho que fue construido para no necesitar retirada. Se detiene a leerlo, siente que el dolor de su pecho responde a la piedra con un latido casi cómplice, y el tirón del llamado se intensifica hasta que, con los ojos cerrados, su cuerpo ya se ha girado hacia él antes de que su mente lo consienta.",
+    "localizacion": "Desierto de Serephis — arena vidrificada sobre un camino enterrado",
+    "personajes": [
+      "Miguel"
+    ],
+    "parrafos_en": {
+      "desde": 1,
+      "hasta": 9
+    },
+    "parrafos_es": {
+      "desde": 1,
+      "hasta": 9
+    },
+    "duracion_objetivo_seg": 150,
+    "estado_canon_entrada": [
+      {
+        "id_personaje": "Miguel",
+        "forma": "celestial",
+        "heridas": [],
+        "objetos": [],
+        "notas": "Sin heridas físicas visibles: el 'hueco' bajo el esternón es una sensación interior, no una marca corporal. Dos alas intactas, simétricas, blanco perla con iridiscencia azul pálida — sanas, sin ninguna marca de quemadura (contraste deliberado con el ala quemada que solo aparecerá en el flashback de S3). Armadura celestial completa, con la grieta antigua sin soldar desde la campaña de las Puertas de Ónice (detalle explícito del texto, distinto de una herida corporal). Pelo blanco-ceniza, ojos azul tenue, agotamiento físico visible tras doce días de marcha."
+      }
+    ],
+    "requiere_aprobacion_autor": false
+  },
+  "planos": [
+    {
+      "id_plano": "B1C01_S1_P01",
+      "orden": 1,
+      "duracion_seg": 8,
+      "tipo_plano": "Gran plano general (extreme wide shot)",
+      "angulo": "Altura de ojos, ligeramente elevado para mostrar escala",
+      "movimiento_camara": "Plano fijo (locked-off) con paneo lento hacia la derecha",
+      "encuadre_inicial": "El desierto vitrificado de Serephis domina el encuadre bajo un cielo enfermizo; una figura diminuta en el tercio inferior izquierdo",
+      "encuadre_final": "El paneo revela más extensión de vidrio negro agrietado; la figura sigue siendo pequeña, ahora más centrada",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel avanza a paso constante y agotado por el desierto vitrificado, minúsculo contra la inmensidad del lugar.",
+      "accion_fondo": "El calor asciende del suelo en ondulaciones visibles y el viento arrastra un velo fino de polvo mineral a baja altura.",
+      "luz": {
+        "id_plano": "B1C01_S1_P01",
+        "fuente_luz": "Sol alto difuso tras un velo de calima tóxica (cielo enfermizo amarillo-grisáceo)",
+        "direccion": "Casi cenital, ligeramente frontal según avanza el paneo hacia la derecha",
+        "ambiente": "Calima de calor en oleadas visibles sobre el vidrio; velo fino de polvo mineral a baja altura arrastrado por el viento",
+        "clima": "Calor extremo, viento bajo constante",
+        "color_temperatura": "Paleta pálida verdosa-amarilla; el vidrio negro absorbe el contraste y aparece casi sin brillo",
+        "dureza": "Dura arriba (sombra propia muy corta), suavizada hacia el horizonte por la calima"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P01",
+        "fisica_entorno": "Suelo de vidrio negro vitrificado bajo cielo enfermizo; el calor asciende del suelo en ondulaciones y el viento arrastra un velo fino de polvo mineral a baja altura, coherente con el paneo lateral.",
+        "vfx_principal": "Distorsión térmica (heat haze) ascendente sobre la superficie vitrificada, más intensa cerca del suelo y disipándose hacia arriba; no debe alterar la silueta de Miguel, solo el fondo tras él.",
+        "vfx_fondo_simultaneo": "Velo de polvo mineral fino desplazándose a baja altura de izquierda a derecha durante todo el paneo, sin ocultar la figura de Miguel.",
+        "limitacion_conocida": "La distorsión térmica y el polvo deben tratarse como dos capas separadas en el prompt (patrón \"mientras B continúa, A...\"); no se ha verificado que un generador resuelva ambas a la vez sin perder una. Probar primero el paneo + heat haze, añadir el polvo después."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P01",
+        "version_esquema": "1.0",
+        "version_plano": "v01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "enlace": {
+          "tipo": "inicio_escena",
+          "metodo": "Construccion de imagen inicial a partir del estado_canon_entrada de la escena.",
+          "tiempo_transcurrido": "Sin elipsis; arranque de la escena.",
+          "justificacion": "Primer plano de B1C01_S1; no hay plano anterior en esta escena."
+        },
+        "estado_entrada": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando con paso agotado tras doce dias de marcha; torso ligeramente inclinado hacia delante.",
+              "posicion_escena": "Tercio inferior izquierdo del encuadre, muy pequeno por la distancia, avanzando hacia la derecha de pantalla.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto frente a el.",
+                "orientacion_cabeza": "Frontal, ligeramente baja por el cansancio.",
+                "direccion_pantalla": "Hacia la derecha de pantalla, direccion de su avance."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Desierto vitrificado de Serephis; sin marcas de decorado reveladas todavia.",
+            "luz": "Sol alto difuso tras velo de calima toxica; cielo enfermizo amarillo-grisaceo; casi cenital.",
+            "clima": "Calor extremo, viento bajo constante.",
+            "estado_decorado": "Vidrio negro vitrificado ininterrumpido; sin piedra visible; sin arena suelta relevante."
+          },
+          "camara": {
+            "encuadre": "Gran plano general (extreme wide shot); Miguel diminuto en tercio inferior izquierdo.",
+            "posicion": "Altura de ojos, ligeramente elevada.",
+            "eje_accion": "Linea de avance de Miguel, izq. a der. de pantalla.",
+            "lado_eje": "Sobre el eje, sin cruce.",
+            "movimiento": "Fijo (locked-off) con paneo lento hacia la derecha."
+          }
+        },
+        "accion_plano": "Miguel avanza a paso constante y agotado, minusculo contra la inmensidad del desierto vitrificado; el paneo lento hacia la derecha lo mantiene en cuadro mientras revela mas extension de vidrio negro agrietado.",
+        "cambios_autorizados": [],
+        "estado_salida_previsto": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando con paso agotado; torso ligeramente inclinado hacia delante.",
+              "posicion_escena": "Mas centrado tras el paneo; sigue diminuto, avanzando hacia la derecha de pantalla.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto frente a el.",
+                "orientacion_cabeza": "Frontal, ligeramente baja.",
+                "direccion_pantalla": "Hacia la derecha de pantalla."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Desierto vitrificado de Serephis; mas extension de vidrio revelada por el paneo.",
+            "luz": "Mismo esquema cenital tras la calima.",
+            "clima": "Calor extremo, viento bajo; calima de calor en oleadas sobre el vidrio.",
+            "estado_decorado": "Vidrio negro ininterrumpido; velo fino de polvo mineral arrastrado a baja altura."
+          },
+          "camara": {
+            "encuadre": "Gran plano general; paneo completado.",
+            "posicion": "Altura de ojos, ligeramente elevada.",
+            "eje_accion": "Linea de avance de Miguel.",
+            "lado_eje": "Sobre el eje, sin cruce.",
+            "movimiento": "Paneo detenido al cierre."
+          }
+        },
+        "frame_final_previsto": {
+          "descripcion_textual": "Plano general fijo con el paneo ya completado: vidrio negro vitrificado bajo cielo amarillo-grisaceo con calima ascendente y polvo mineral a baja altura; Miguel, diminuto, algo mas centrado, silueta agotada pero erguida, alas plegadas, manos vacias junto al cuerpo."
+        },
+        "estado_salida_observado_pendiente": true,
+        "control_calidad": {
+          "resultado": "pendiente",
+          "revision": "Verificacion estructural de continuidad en fase de planificacion; no hay clip generado todavia.",
+          "incidencias": [
+            "Lateralidad de la grieta del peto no especificada por el texto; se registra 'lado no especificado', consistente en todos los planos siguientes.",
+            "Gap de referencia: el peto exige 'grieta antigua sin soldar' (personajes.md/escena) pero canonical/body_reference.png y forms/celestial/README.md documentan el peto SIN grieta; no hay estado narrativo con imagen para el peto agrietado. No bloqueante aqui (figura diminuta en plano general); ver P04/P07/P17 donde si bloquea."
+          ]
+        },
+        "listo_para_generar": true
+      },
+      "listo_para_generar": true,
+      "motivo_bloqueo": ""
+    },
+    {
+      "id_plano": "B1C01_S1_P02",
+      "orden": 2,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano entero (full shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Travelling lateral (truck right) paralelo a Miguel, a su misma velocidad",
+      "encuadre_inicial": "Miguel de perfil, cuerpo completo dentro de cuadro, el vidrio negro se extiende tras él",
+      "encuadre_final": "Mismo tamaño de plano; el paisaje pasa detrás mostrando más extensión sin cambiar el encuadre sobre Miguel",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel camina con paso pesado; su armadura dorada agrietada cruje con cada zancada.",
+      "accion_fondo": "Bajo cada sabatón, placas de vidrio negro se astillan y saltan esquirlas pequeñas que caen cerca del pie.",
+      "luz": {
+        "id_plano": "B1C01_S1_P02",
+        "fuente_luz": "Mismo sol cenital tras la calima, más el rebote frío del vidrio negro como fuente secundaria",
+        "direccion": "Llega casi vertical, deja un filo de luz en el hombro alto; el rebote del vidrio ilumina tenue el borde inferior de las placas",
+        "ambiente": "Esquirlas de vidrio saltan a cada paso, visibles al contraluz del rebote de abajo",
+        "clima": "Calor constante",
+        "color_temperatura": "Contraste entre el cálido-enfermizo de arriba y el frío-oscuro del rebote inferior",
+        "dureza": "Dura, con transición marcada entre la parte alta y baja de la armadura"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P02",
+        "fisica_entorno": "Vidrio negro vitrificado, seco y rígido, bajo el peso constante de los sabatones; cada apoyo llega con carga completa del cuerpo en movimiento.",
+        "vfx_principal": "Bajo cada sabatón, el vidrio se astilla al recibir la presión; un abanico pequeño de esquirlas salta y cae cerca del pie que se levanta, siguiendo el patrón carga → rotura → esquirlas → reposo.",
+        "vfx_fondo_simultaneo": "Ninguno adicional; la armadura dorada agrietada cruje pero es sonido/detalle de vestuario, no física de entorno.",
+        "limitacion_conocida": "Rotura bajo la suela, no antes del contacto (evitar fragmentos que anticipen el paso); piezas rígidas, sin recomposición al retirar el pie. Ver sección \"Cristal roto\" del documento base."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P02",
+        "id_plano_anterior": "B1C01_S1_P01",
+        "version_plano": "v01",
+        "version_anterior": "v01",
+        "version_esquema": "1.0",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "enlace": {
+          "tipo": "continuacion",
+          "metodo": "Corte sobre el mismo movimiento de avance; se reencuadra a plano entero de perfil conservando el mismo ciclo de marcha.",
+          "tiempo_transcurrido": "Sin elipsis; continuacion inmediata del avance de P01.",
+          "justificacion": "Miguel sigue caminando en la misma direccion; solo cambia la escala y el angulo de camara, no la accion fisica."
+        },
+        "estado_entrada": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando con paso pesado; torso ligeramente inclinado hacia delante.",
+              "posicion_escena": "De perfil, cuerpo completo dentro de cuadro, avanzando hacia la derecha de pantalla.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto frente a el.",
+                "orientacion_cabeza": "Frontal-lateral, siguiendo su avance.",
+                "direccion_pantalla": "Hacia la derecha de pantalla."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Vidrio negro vitrificado bajo Miguel; sin piedra visible.",
+            "luz": "Sol cenital tras la calima + rebote frio del vidrio negro como fuente secundaria.",
+            "clima": "Calor constante.",
+            "estado_decorado": "Vidrio negro ininterrumpido; superficie intacta bajo los pies de Miguel."
+          },
+          "camara": {
+            "encuadre": "Plano entero (full shot); Miguel de perfil, cuerpo completo.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Linea de avance de Miguel, paralela a la trayectoria de camara.",
+            "lado_eje": "Sobre el eje, sin cruce.",
+            "movimiento": "Travelling lateral (truck right) paralelo a Miguel, a su misma velocidad."
+          }
+        },
+        "accion_plano": "Miguel camina con paso pesado; su armadura dorada agrietada cruje con cada zancada mientras bajo cada sabaton el vidrio negro se astilla y salta en esquirlas pequenas.",
+        "cambios_autorizados": [],
+        "estado_salida_previsto": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando con paso pesado; armadura cruje con cada zancada.",
+              "posicion_escena": "De perfil, mismo tamano de plano; el paisaje pasa detras.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "parcial",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto frente a el.",
+                "orientacion_cabeza": "Frontal-lateral.",
+                "direccion_pantalla": "Hacia la derecha de pantalla."
+              }
+            }
+          ],
+          "objetos_escena": [
+            {
+              "id_objeto": "esquirlas_vidrio_paso",
+              "ubicacion": "Bajo y junto al pie que acaba de apoyarse.",
+              "portador": "Ninguno (residuo del terreno, no lo porta Miguel).",
+              "orientacion": "Esparcidas de forma irregular.",
+              "estado": "Placas de vidrio negro astilladas, saltando en un abanico pequeno a cada paso.",
+              "cantidad_o_nivel": "Un abanico pequeno por paso.",
+              "visibilidad": "visible"
+            }
+          ],
+          "entorno": {
+            "anclas_espaciales": "Vidrio negro vitrificado bajo Miguel; placas astilladas junto a sus pies.",
+            "luz": "Mismo esquema; rebote frio del vidrio ilumina tenue el borde inferior de las placas.",
+            "clima": "Calor constante.",
+            "estado_decorado": "Vidrio con placas astilladas y esquirlas pequenas visibles bajo la trayectoria reciente de Miguel."
+          },
+          "camara": {
+            "encuadre": "Plano entero; mismo tamano de plano.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Linea de avance de Miguel.",
+            "lado_eje": "Sobre el eje, sin cruce.",
+            "movimiento": "Travelling lateral continuo."
+          }
+        },
+        "frame_final_previsto": {
+          "descripcion_textual": "Miguel de perfil, cuerpo completo, en plena zancada; bajo el pie que acaba de apoyar, esquirlas de vidrio negro saltan en un abanico pequeno; alas plegadas visibles parcialmente tras la espalda; ambas manos vacias, oscilando junto al cuerpo."
+        },
+        "estado_salida_observado_pendiente": true,
+        "control_calidad": {
+          "resultado": "pendiente",
+          "revision": "Verificacion estructural de continuidad en fase de planificacion; no hay clip generado todavia.",
+          "incidencias": [
+            "Verificar que la rotura del vidrio ocurra bajo el pie que carga peso y no se anticipe antes del contacto, segun la fisica de entorno del plano de origen."
+          ]
+        },
+        "listo_para_generar": true
+      },
+      "listo_para_generar": true,
+      "motivo_bloqueo": ""
+    },
+    {
+      "id_plano": "B1C01_S1_P03",
+      "orden": 3,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano detalle (detail/insert shot)",
+      "angulo": "Picado bajo, cámara casi a ras de suelo",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Sabatones y el vidrio negro justo antes del paso",
+      "encuadre_final": "Mismo encuadre; el pie se asienta y el vidrio se quiebra bajo el peso",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El sabatón se apoya y el vidrio negro cede con un crujido, astillándose en fragmentos angulosos bajo el peso.",
+      "accion_fondo": "Un abanico pequeño de esquirlas y polvo mineral sale hacia atrás desde la puntera al despegar el pie siguiente.",
+      "luz": {
+        "id_plano": "B1C01_S1_P03",
+        "fuente_luz": "Rebote del vidrio negro, ahora dominante por la proximidad de cámara al suelo",
+        "direccion": "Rasante, casi horizontal, recorriendo la superficie agrietada",
+        "ambiente": "Esquirlas y polvo mineral saltan hacia cámara, atravesando el filo de luz rasante",
+        "clima": "Calor pegado al suelo, visible en el aire",
+        "color_temperatura": "Frío-oscuro del vidrio contra el destello cálido de las esquirlas al saltar",
+        "dureza": "Muy dura; cada esquirla recorta un borde definido"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P03",
+        "fisica_entorno": "Primer plano del contacto directo bota/vidrio, ángulo casi a ras de suelo: el plano ideal para mostrar causa→respuesta sin ambigüedad.",
+        "vfx_principal": "El sabatón carga peso sobre el vidrio; la placa cede y se quiebra en fragmentos angulosos bajo el peso, con un abanico corto de esquirlas y polvo mineral saliendo hacia atrás desde la puntera al despegar el pie siguiente.",
+        "vfx_fondo_simultaneo": "Ninguno; el encuadre es exclusivamente el contacto.",
+        "limitacion_conocida": "Verificar que la rotura ocurra al cargar, no en el instante de apoyar sin peso; los fragmentos deben permanecer esparcidos y no fusionarse ni regenerarse en el fotograma final."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P03",
+        "id_plano_anterior": "B1C01_S1_P02",
+        "version_plano": "v01",
+        "version_anterior": "v01",
+        "version_esquema": "1.0",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "enlace": {
+          "tipo": "cambio_angulo",
+          "metodo": "Corte a plano detalle a ras de suelo sobre el mismo ciclo de marcha; se construye la imagen inicial con las mismas posiciones fisicas de piernas/pies que P02, sin usar el ultimo frame de P02 como arranque literal.",
+          "tiempo_transcurrido": "Sin elipsis; mismo instante de la zancada, solo cambia el encuadre.",
+          "justificacion": "El resto del cuerpo queda fuera de encuadre por el angulo casi a ras de suelo; se conserva el mismo estado fisico de piernas y pies, ausente de contradiccion."
+        },
+        "estado_entrada": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, en pleno apoyo del sabaton derecho justo antes de cargar el peso; cuerpo fuera de encuadre salvo piernas/pies.",
+              "posicion_escena": "Sabatones y vidrio negro ocupan el encuadre; resto del cuerpo fuera de cuadro por el angulo casi a ras de suelo.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto (fuera de encuadre).",
+                "orientacion_cabeza": "No visible en este encuadre.",
+                "direccion_pantalla": "No aplica: rostro fuera de cuadro."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Vidrio negro vitrificado justo bajo los sabatones de Miguel.",
+            "luz": "Rebote del vidrio negro, dominante por la proximidad de camara al suelo.",
+            "clima": "Calor pegado al suelo, visible en el aire.",
+            "estado_decorado": "Vidrio intacto en el punto exacto de apoyo, aun sin romperse."
+          },
+          "camara": {
+            "encuadre": "Plano detalle (detail/insert shot); sabatones y vidrio justo antes del paso.",
+            "posicion": "Picado bajo, camara casi a ras de suelo.",
+            "eje_accion": "No aplica (encuadre de detalle).",
+            "lado_eje": "No aplica.",
+            "movimiento": "Plano fijo."
+          }
+        },
+        "accion_plano": "El sabaton se apoya y el vidrio negro cede con un crujido, astillandose en fragmentos angulosos bajo el peso; un abanico pequeno de esquirlas y polvo mineral sale hacia atras desde la puntera al despegar el pie siguiente.",
+        "cambios_autorizados": [],
+        "estado_salida_previsto": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "El pie derecho ya asentado, cargando el peso completo; el vidrio bajo el ha cedido.",
+              "posicion_escena": "Mismo encuadre; el pie se asienta y el vidrio se quiebra bajo el peso.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "No visible en este encuadre.",
+                "orientacion_cabeza": "No visible en este encuadre.",
+                "direccion_pantalla": "No aplica: rostro fuera de cuadro."
+              }
+            }
+          ],
+          "objetos_escena": [
+            {
+              "id_objeto": "fragmentos_vidrio_p03",
+              "ubicacion": "Alrededor y bajo el sabaton derecho que acaba de cargar peso.",
+              "portador": "Ninguno.",
+              "orientacion": "Angulosos, esparcidos hacia atras desde la puntera.",
+              "estado": "Placa quebrada en fragmentos angulosos; no se recomponen ni se funden entre si.",
+              "cantidad_o_nivel": "Un abanico corto de esquirlas y polvo mineral.",
+              "visibilidad": "visible"
+            }
+          ],
+          "entorno": {
+            "anclas_espaciales": "Vidrio negro justo bajo los sabatones de Miguel.",
+            "luz": "Rasante, casi horizontal, recorriendo la superficie agrietada.",
+            "clima": "Calor pegado al suelo.",
+            "estado_decorado": "Placa de vidrio quebrada en el punto de apoyo; fragmentos esparcidos, no regenerados."
+          },
+          "camara": {
+            "encuadre": "Mismo plano detalle.",
+            "posicion": "Picado bajo, casi a ras de suelo.",
+            "eje_accion": "No aplica.",
+            "lado_eje": "No aplica.",
+            "movimiento": "Plano fijo."
+          }
+        },
+        "frame_final_previsto": {
+          "descripcion_textual": "Primer plano a ras de suelo del sabaton derecho ya asentado sobre una placa de vidrio negro recien quebrada en fragmentos angulosos; esquirlas y polvo mineral esparcidos hacia atras; resto del cuerpo de Miguel fuera de encuadre."
+        },
+        "estado_salida_observado_pendiente": true,
+        "control_calidad": {
+          "resultado": "pendiente",
+          "revision": "Verificacion estructural de continuidad en fase de planificacion; no hay clip generado todavia.",
+          "incidencias": [
+            "Verificar que la rotura ocurra al cargar el peso y no en el instante de apoyar sin peso; los fragmentos deben permanecer esparcidos, sin fusionarse ni regenerarse en el fotograma final."
+          ]
+        },
+        "listo_para_generar": true
+      },
+      "listo_para_generar": true,
+      "motivo_bloqueo": ""
+    },
+    {
+      "id_plano": "B1C01_S1_P04",
+      "orden": 4,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Panorámica vertical (tilt up) desde el peto agrietado hasta el rostro",
+      "encuadre_inicial": "El peto dorado agrietado ocupa el cuadro; la grieta antigua sin soldar es visible en el costado",
+      "encuadre_final": "El rostro de Miguel, bajo el pelo blanco-ceniza",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La cámara asciende por la armadura agrietada de Miguel hasta descubrir su rostro exhausto.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P04",
+        "fuente_luz": "Sol cenital tras la calima",
+        "direccion": "Desciende casi vertical sobre el peto agrietado; al llegar al rostro se suaviza bajo la sombra de las cejas",
+        "ambiente": "Sin partículas relevantes; polvo fino apenas perceptible",
+        "clima": "Calor constante",
+        "color_temperatura": "Metal dorado deslustrado bajo luz pálida",
+        "dureza": "Dura sobre el metal, algo más suave en el rostro por la sombra propia"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P04",
+        "fisica_entorno": "Panorámica vertical sin desplazamiento de cámara; no hay contacto con el entorno durante el recorrido de la armadura al rostro.",
+        "vfx_principal": "ninguno",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Ninguna relevante; plano de revelación de personaje, no de interacción con el entorno."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P04",
+        "id_plano_anterior": "B1C01_S1_P03",
+        "version_plano": "v01",
+        "version_anterior": "v01",
+        "version_esquema": "1.0",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "enlace": {
+          "tipo": "cambio_angulo",
+          "metodo": "Corte a plano medio sobre el torso de Miguel, reconstruyendo la imagen inicial con el mismo ciclo de marcha ya establecido; el tilt up asciende dentro del propio plano hasta el rostro.",
+          "tiempo_transcurrido": "Sin elipsis; continuacion del mismo avance.",
+          "justificacion": "Se abandona el detalle de pies de P03 para volver a un plano medio del cuerpo de Miguel en marcha, revelando el peto agrietado y despues el rostro."
+        },
+        "estado_entrada": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando; torso frontal hacia camara en el momento en que el encuadre arranca sobre el peto.",
+              "posicion_escena": "Centrado en cuadro; solo el torso (peto agrietado) visible al inicio.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto (fuera de encuadre en este arranque).",
+                "orientacion_cabeza": "No visible en este encuadre (fuera del cuadro inicial).",
+                "direccion_pantalla": "No aplica en el arranque."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Vidrio negro bajo Miguel (fuera de encuadre en este plano medio).",
+            "luz": "Sol cenital tras la calima.",
+            "clima": "Calor constante.",
+            "estado_decorado": "Sin cambios respecto al vidrio ya establecido."
+          },
+          "camara": {
+            "encuadre": "Plano medio (medium shot); el peto dorado agrietado ocupa el cuadro, grieta antigua sin soldar visible en el costado.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Frontal a Miguel.",
+            "lado_eje": "Sobre el eje.",
+            "movimiento": "Panoramica vertical (tilt up) desde el peto agrietado hasta el rostro."
+          }
+        },
+        "accion_plano": "La camara asciende por la armadura agrietada de Miguel hasta descubrir su rostro exhausto.",
+        "cambios_autorizados": [],
+        "estado_salida_previsto": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando; rostro exhausto hacia camara al cierre del tilt.",
+              "posicion_escena": "Centrado en cuadro; rostro bajo el pelo blanco-ceniza visible al final.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "visible",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto frente a el.",
+                "orientacion_cabeza": "Frontal, cansada.",
+                "direccion_pantalla": "Hacia el frente de camara."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Fuera de encuadre en este plano medio/close.",
+            "luz": "Sol cenital tras la calima; al llegar al rostro se suaviza bajo la sombra de las cejas.",
+            "clima": "Calor constante.",
+            "estado_decorado": "Sin cambios."
+          },
+          "camara": {
+            "encuadre": "Rostro de Miguel, bajo el pelo blanco-ceniza.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Frontal a Miguel.",
+            "lado_eje": "Sobre el eje.",
+            "movimiento": "Tilt up completado."
+          }
+        },
+        "frame_final_previsto": {
+          "descripcion_textual": "Rostro de Miguel en plano medio, pelo blanco-ceniza despeinado por el viento, ojos azul tenue, expresion de cansancio; mirada al frente."
+        },
+        "estado_salida_observado_pendiente": true,
+        "control_calidad": {
+          "resultado": "pendiente",
+          "revision": "Verificacion estructural de continuidad en fase de planificacion; no hay clip generado todavia.",
+          "incidencias": [
+            "Gap de referencia (ver P01): el peto exige 'grieta antigua sin soldar' pero canonical/body_reference.png y forms/celestial/README.md documentan el peto SIN grieta; no hay estado narrativo con imagen para el peto agrietado. Este plano depende visualmente de ese detalle: el arranque del tilt esta compuesto especificamente para mostrarlo. Sin referencia aprobada, el arranque del plano no es fiable."
+          ]
+        },
+        "listo_para_generar": false,
+        "motivo_bloqueo": "No existe referencia visual en character_library para el peto agrietado que este plano exige mostrar como contenido principal del arranque (canonical/body_reference.png y forms/celestial/README.md documentan expresamente un peto SIN grieta). Generar sin resolver esa referencia arriesga un peto liso que contradice la accion del plano y el estado_canon_entrada de la escena. Bloqueado hasta que el autor apruebe una referencia visual o descripcion textual suficiente de la grieta."
+      },
+      "listo_para_generar": false,
+      "motivo_bloqueo": "No existe referencia visual en character_library para el peto agrietado que este plano exige mostrar como contenido principal del arranque (canonical/body_reference.png y forms/celestial/README.md documentan expresamente un peto SIN grieta). Generar sin resolver esa referencia arriesga un peto liso que contradice la accion del plano y el estado_canon_entrada de la escena. Bloqueado hasta que el autor apruebe una referencia visual o descripcion textual suficiente de la grieta."
+    },
+    {
+      "id_plano": "B1C01_S1_P05",
+      "orden": 5,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Cámara fija con ligero travelling de aproximación (dolly in lento)",
+      "encuadre_inicial": "Rostro completo, ojos azul tenue visibles bajo el pelo ceniza",
+      "encuadre_final": "El rostro llena más el cuadro; los ojos dominan la composición",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El rostro agotado de Miguel sostiene la mirada al frente; sus ojos arden en un azul tenue pese al cansancio.",
+      "accion_fondo": "El viento agita mechones sueltos de su pelo blanco-ceniza.",
+      "luz": {
+        "id_plano": "B1C01_S1_P05",
+        "fuente_luz": "Sol cenital tras la calima, con rebote frío del vidrio bajo la barbilla",
+        "direccion": "Dura desde arriba sobre frente y pómulos; el rebote sube tenue desde abajo",
+        "ambiente": "El viento agita mechones sueltos de pelo ceniza; sin partículas densas",
+        "clima": "Calor constante",
+        "color_temperatura": "El azul tenue de los ojos contrasta con la paleta amarillenta del entorno",
+        "dureza": "Transición abrupta en la línea de la mandíbula, donde el rebote inferior corta la sombra del sol"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P05",
+        "fisica_entorno": "Viento constante sobre el rostro; sin contacto con suelo u objetos en este encuadre.",
+        "vfx_principal": "El viento agita mechones sueltos del pelo blanco-ceniza de Miguel, con movimiento irregular y ligero retraso en las puntas respecto a la raíz.",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Mantener el viento sutil y no confundirlo con una ráfaga fuerte; su dirección debe ser compatible con el polvo mostrado en P01 y P20 para continuidad de entorno."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S1_P05",
+        "id_plano_anterior": "B1C01_S1_P04",
+        "version_plano": "v01",
+        "version_anterior": "v01",
+        "version_esquema": "1.0",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "enlace": {
+          "tipo": "continuacion",
+          "metodo": "Continuacion directa del rostro revelado al cierre del tilt de P04; se mantiene el mismo encuadre de rostro y se acerca con dolly in.",
+          "tiempo_transcurrido": "Sin elipsis.",
+          "justificacion": "P04 termina sobre el rostro de Miguel; P05 parte de ese mismo encuadre de rostro para acercarse."
+        },
+        "estado_entrada": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando; rostro completo hacia camara.",
+              "posicion_escena": "Centrado en cuadro; rostro completo visible bajo el pelo ceniza.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto frente a el.",
+                "orientacion_cabeza": "Frontal.",
+                "direccion_pantalla": "Hacia el frente de camara."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Fuera de encuadre.",
+            "luz": "Sol cenital tras la calima, con rebote frio del vidrio bajo la barbilla.",
+            "clima": "Calor constante.",
+            "estado_decorado": "Sin cambios."
+          },
+          "camara": {
+            "encuadre": "Primer plano (close-up); rostro completo, ojos azul tenue visibles bajo el pelo ceniza.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Frontal a Miguel.",
+            "lado_eje": "Sobre el eje.",
+            "movimiento": "Camara fija con ligero travelling de aproximacion (dolly in lento)."
+          }
+        },
+        "accion_plano": "El rostro agotado de Miguel sostiene la mirada al frente; sus ojos arden en un azul tenue pese al cansancio, mientras el viento agita mechones sueltos de su pelo blanco-ceniza.",
+        "cambios_autorizados": [],
+        "estado_salida_previsto": {
+          "personajes": [
+            {
+              "id_personaje": "Miguel",
+              "pose_corporal": "De pie, caminando; rostro llenando mas el cuadro tras el dolly in.",
+              "posicion_escena": "Rostro dominando la composicion.",
+              "extremidades": [
+                {
+                  "parte": "brazo_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado dcho, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "brazo_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "mano_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "junto al costado izdo, oscila con el paso",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "pierna_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_derecho",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pierna_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada, apoyo/despegue alterno",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "pie_izquierdo",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "en zancada",
+                  "contacto": "apoyo alterno s/vidrio"
+                },
+                {
+                  "parte": "ala_derecha",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro dcho",
+                  "contacto": "ninguno"
+                },
+                {
+                  "parte": "ala_izquierda",
+                  "presencia_fisica": "presente",
+                  "visibilidad": "fuera_de_encuadre",
+                  "posicion": "plegada, borde asoma tras hombro izdo",
+                  "contacto": "ninguno"
+                }
+              ],
+              "objetos_en_mano": {
+                "mano_derecha": [],
+                "mano_izquierda": []
+              },
+              "heridas": [],
+              "vestuario_visible": [
+                {
+                  "pieza": "Armadura celestial (peto/hombreras/canales cian/estrella 8 puntas)",
+                  "estado": "Grieta antigua sin soldar en el peto (lado no especificado por el texto)."
+                },
+                {
+                  "pieza": "Guantes cuero oscuro, faldones azul medianoche/oro, grebas y escarpes oro, pelo blanco ceniza",
+                  "estado": "Intactos, sin dano nuevo; pelo despeinado por el viento."
+                }
+              ],
+              "vestuario_oculto": [
+                {
+                  "pieza": "Espalda/anclaje de alas",
+                  "causa": "No evaluable desde estos angulos; se conserva la referencia sin reinterpretar."
+                }
+              ],
+              "direccion_mirada": {
+                "objetivo": "El horizonte del desierto frente a el.",
+                "orientacion_cabeza": "Frontal, sosteniendo la mirada.",
+                "direccion_pantalla": "Hacia el frente de camara."
+              }
+            }
+          ],
+          "objetos_escena": [],
+          "entorno": {
+            "anclas_espaciales": "Fuera de encuadre.",
+            "luz": "Mismo esquema; el rebote frio se mantiene bajo la barbilla.",
+            "clima": "Calor constante.",
+            "estado_decorado": "Sin cambios."
+          },
+          "camara": {
+            "encuadre": "Mismo primer plano; rostro llena mas el cuadro.",
+            "posicion": "Altura de ojos.",
+            "eje_accion": "Frontal a Miguel.",
+            "lado_eje": "Sobre el eje.",
+            "movimiento": "Dolly in completado."
+          }
+        },
+        "frame_final_previsto": {
+          "descripcion_textual": "Primer plano cerrado del rostro de Miguel, ojos azul tenue dominando la composicion, mechones de pelo blanco-ceniza agitados por el viento, mirada frontal sostenida."
+        },
+        "estado_salida_observado_pendiente": true,
+        "control_calidad": {
+          "resultado": "pendiente",
+          "revision": "Verificacion estructural de continuidad en fase de planificacion; no hay clip generado todavia.",
+          "incidencias": [
+            "Los ojos 'azul tenue' de esta escena (estado_canon_entrada) divergen del cian electrico intenso de la identidad inmutable en character_library/angeles/Miguel/README.md; se sigue el dato explicito de la escena por ser mas especifico, y se documenta la divergencia para que no se generalice a otras escenas."
+          ]
+        },
+        "listo_para_generar": true
+      },
+      "listo_para_generar": true,
+      "motivo_bloqueo": ""
+    },
+    {
+      "id_plano": "B1C01_S1_P06",
+      "orden": 6,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos, ligero picado",
+      "movimiento_camara": "Cámara fija; cambio de foco (rack focus) del rostro a la mano",
+      "encuadre_inicial": "Torso y rostro de Miguel; la mano enguantada junto al costado",
+      "encuadre_final": "Mismo encuadre; la mano ya reposa sobre el peto, a la altura del esternón",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La mano enguantada de Miguel sube por voluntad propia hasta presionar el peto sobre el esternón, buscando el hueco frío que siente por dentro.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P06",
+        "fuente_luz": "Mismo esquema cenital + rebote del vidrio",
+        "direccion": "La mano enguantada recibe luz alta en los nudillos y rebote frío en la palma orientada hacia abajo",
+        "ambiente": "Ninguna partícula relevante en este plano",
+        "clima": "Calor constante",
+        "color_temperatura": "Igual paleta pálida-fría en contraste",
+        "dureza": "Dura, marca el cuero y el metal del guante"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P06",
+        "fisica_entorno": "Cambio de foco sin desplazamiento de cámara; la mano sube por decisión propia hasta el peto, sin tocar ningún elemento del entorno.",
+        "vfx_principal": "ninguno",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Ninguna; el foco debe resolver el rack focus sin generar deformación en rostro o mano durante la transición."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P07",
+      "orden": 7,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle (primerísimo primer plano)",
+      "angulo": "Frontal, altura de pecho",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Los dedos enguantados apoyados sobre el metal agrietado del peto",
+      "encuadre_final": "Mismo encuadre, sin cambio de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Los dedos presionan el metal frío del peto; el gesto no encuentra alivio, solo confirma el vacío bajo el esternón.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P07",
+        "fuente_luz": "Mismo sol alto + rebote del vidrio",
+        "direccion": "Luz rasante sobre el metal agrietado, remarcando el relieve de la grieta bajo los dedos",
+        "ambiente": "Ninguna",
+        "clima": "Sin cambio respecto al plano anterior",
+        "color_temperatura": "Metal frío-dorado",
+        "dureza": "Muy dura; acentúa la textura del peto"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P07",
+        "fisica_entorno": "El contacto es entre la mano enguantada y el propio peto de Miguel, no con el entorno externo; ningún material del desierto está involucrado en este plano.",
+        "vfx_principal": "ninguno",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "No inventar un efecto de luz o vibración en el peto: el texto no describe ninguna manifestación visible del dolor interno en este punto, solo la ausencia de alivio."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P08",
+      "orden": 8,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos, ligero picado hacia el suelo",
+      "movimiento_camara": "Cámara fija",
+      "encuadre_inicial": "Una duna de arena vidriada bajo la bota de Miguel; cuerpo completo visible",
+      "encuadre_final": "Mismo encuadre; la duna se derrumba y expone la piedra",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La duna se deshace bajo el peso de su bota, revelando piedra tallada por debajo.",
+      "accion_fondo": "Los granos de arena vidriada se deslizan hacia los lados y quedan esparcidos junto al hueco recién abierto.",
+      "luz": {
+        "id_plano": "B1C01_S1_P08",
+        "fuente_luz": "Sol cenital tras la calima",
+        "direccion": "Vertical; al derrumbarse la duna, la piedra recién expuesta capta un reflejo más frío y mate que la arena vitrificada circundante",
+        "ambiente": "Arena vidriada deslizándose, polvo fino levantándose junto al hueco",
+        "clima": "Calor, viento bajo",
+        "color_temperatura": "Contraste entre el brillo pálido de la arena y el gris mate de la piedra",
+        "dureza": "Dura"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P08",
+        "fisica_entorno": "Duna de arena vidriada suelta sobre bloque de piedra tallada; el peso de la bota desestabiliza la pendiente de arena.",
+        "vfx_principal": "La duna cede bajo el peso de la bota: la arena vidriada se derrumba y desliza hacia los lados, exponiendo la piedra tallada por debajo; los granos más finos quedan esparcidos junto al hueco recién abierto.",
+        "vfx_fondo_simultaneo": "ninguno adicional en este encuadre.",
+        "limitacion_conocida": "El colapso debe iniciarse en el punto de apoyo (causa→respuesta), no como un derrumbe genérico de toda la duna; comprobar que la piedra quede visible y no oculta por la arena desplazada al final del plano."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P09",
+      "orden": 9,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Picado moderado",
+      "movimiento_camara": "Panorámica vertical (tilt down) desde el rostro hasta el bloque de piedra",
+      "encuadre_inicial": "El rostro de Miguel, deteniéndose, mirando hacia abajo",
+      "encuadre_final": "El bloque de piedra cortada visible en el borde inferior del cuadro",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel se detiene y baja la mirada hacia el bloque de piedra de borde cuadrado, cortado y no fracturado.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P09",
+        "fuente_luz": "Mismo sol cenital",
+        "direccion": "Pasa del rostro (sombra de cejas) al bloque de piedra, donde se aplana en una superficie mate sin el brillo del vidrio",
+        "ambiente": "Sin partículas relevantes",
+        "clima": "Calor constante",
+        "color_temperatura": "La piedra rompe la paleta amarillenta con un gris más neutro",
+        "dureza": "Dura sobre el rostro, moderada sobre la piedra"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P09",
+        "fisica_entorno": "Panorámica vertical de rostro a bloque de piedra ya expuesto por el plano anterior; sin nuevo movimiento de material en este encuadre.",
+        "vfx_principal": "ninguno (el bloque de piedra permanece estático, ya revelado en el plano previo)",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Mantener el estado del hueco de arena tal como quedó al cierre de P08 (continuidad); no regenerar la duna ni cambiar la posición de los fragmentos de arena esparcidos."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P10",
+      "orden": 10,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano detalle a plano general (combinado)",
+      "angulo": "Picado cercano que se eleva progresivamente",
+      "movimiento_camara": "Travelling de retroceso (pull back) combinado con grúa ascendente (crane up): empieza en plano detalle y termina en plano general",
+      "encuadre_inicial": "Dos dedos apartando arena sobre el borde de un bloque de piedra",
+      "encuadre_final": "Plano general del camino enterrado, con un segundo y un tercer bloque visibles, extendiéndose recto hacia el horizonte; Miguel arrodillado en primer término",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Los dedos de Miguel apartan la arena y descubren un segundo bloque junto al primero, luego un tercero más allá, mientras la cámara retrocede y asciende para revelar el camino enterrado completo.",
+      "accion_fondo": "El viento sigue desplazando polvo fino sobre la superficie recién descubierta.",
+      "luz": {
+        "id_plano": "B1C01_S1_P10",
+        "fuente_luz": "Sol tras la calima, con rebote puntual del borde de piedra en el arranque del plano",
+        "direccion": "Empieza rasante sobre los dedos y el borde del bloque; al retroceder y ascender la grúa se abre en un lavado cenital uniforme sobre todo el camino",
+        "ambiente": "El viento sigue desplazando polvo fino sobre la superficie recién descubierta, más visible al abrirse el encuadre",
+        "clima": "Calor, viento constante",
+        "color_temperatura": "Misma paleta, ahora repartida sobre una superficie mayor",
+        "dureza": "Pasa de dura (detalle) a más difusa por la distancia y la calima (general)"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P10",
+        "fisica_entorno": "Dedos de Miguel en contacto directo con la arena residual sobre el borde de un bloque de piedra; la cámara retrocede y asciende mientras el gesto continúa.",
+        "vfx_principal": "Los dedos apartan la arena suelta del borde del bloque; los granos caen y se dispersan bajo el barrido de la mano, descubriendo el filo tallado y, más allá, un segundo y un tercer bloque bajo capas finas de arena similar.",
+        "vfx_fondo_simultaneo": "Mientras la mano sigue apartando arena en primer término, el viento continúa desplazando polvo fino sobre la superficie ya despejada al fondo (patrón \"B continúa mientras A actúa\").",
+        "limitacion_conocida": "Combinar pull back + crane up con dos capas de partículas (arena de la mano + polvo del viento) es la interacción más compleja del bloque; probar primero el barrido de la mano solo, añadir el polvo de fondo en un segundo pase si se pierde alguna de las dos acciones."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P11",
+      "orden": 11,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos, ligeramente elevado",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Miguel agachado sobre el camino, de perfil; el camino se extiende hacia el horizonte",
+      "encuadre_final": "Mismo encuadre, sin cambio",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel permanece agachado sobre el camino, siguiendo con la mirada su trazado recto hacia el mismo horizonte al que ya se dirigía.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P11",
+        "fuente_luz": "Sol cenital tras la calima",
+        "direccion": "Frontal-alta sobre el camino, revelando su trazado recto hacia el horizonte",
+        "ambiente": "Calima leve en la distancia que difumina el punto de fuga",
+        "clima": "Calor",
+        "color_temperatura": "Paleta enfermiza, más pálida hacia el horizonte por la calima",
+        "dureza": "Moderada, suavizada por la distancia"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P11",
+        "fisica_entorno": "Miguel permanece agachado sobre el camino ya despejado; no hay nuevo contacto con material del entorno en este plano estático.",
+        "vfx_principal": "ninguno",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Mantener el estado de la arena y los bloques tal como quedaron al cierre de P10; ninguna partícula nueva debe introducirse sin causa en un plano fijo sin acción de fondo descrita."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P12",
+      "orden": 12,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo, foco constante",
+      "encuadre_inicial": "Rostro y torso de Miguel, mirada fija en la piedra",
+      "encuadre_final": "Mismo encuadre; el rostro se mantiene inmóvil, pensativo",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El rostro de Miguel permanece quieto mientras reconoce, por doctrina y no por recuerdo propio, que Serephis fue un reino antes de la Caída.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P12",
+        "fuente_luz": "Mismo sol cenital, sin cambio motivado",
+        "direccion": "Vertical sobre el rostro inmóvil, sombra estable bajo nariz y mentón",
+        "ambiente": "Ninguna",
+        "clima": "Calor constante",
+        "color_temperatura": "Sin variación respecto al plano anterior",
+        "dureza": "Dura pero constante, sin cambio, reforzando la quietud del plano"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P12",
+        "fisica_entorno": "Sin contacto con el entorno; plano de reacción interna pura.",
+        "vfx_principal": "ninguno",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Ninguna; no forzar viento ni polvo no descritos solo para \"animar\" el fondo."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P13",
+      "orden": 13,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle a plano general",
+      "angulo": "Picado bajo, casi a ras del pavimento",
+      "movimiento_camara": "Travelling de aproximación (dolly in) a baja altura recorriendo la superficie de los bloques",
+      "encuadre_inicial": "La superficie de piedra pulida por delante de las rodillas de Miguel",
+      "encuadre_final": "La cámara avanza y revela más bloques pulidos hasta el brillo, con Miguel al fondo del encuadre",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La cámara recorre a baja altura la superficie de piedra pulida hasta el brillo, desgastada por pisadas de siglos.",
+      "accion_fondo": "Miguel permanece inmóvil al fondo del encuadre, observando.",
+      "luz": {
+        "id_plano": "B1C01_S1_P13",
+        "fuente_luz": "Sol tras la calima + rebote de la piedra pulida (superficie distinta del vidrio)",
+        "direccion": "Rasante sobre la piedra a baja altura, recorriendo el brillo del pulido de siglos",
+        "ambiente": "Superficie limpia, sin partículas relevantes",
+        "clima": "Calor constante",
+        "color_temperatura": "El brillo de la piedra pulida es más cálido y difuso que el frío del vidrio",
+        "dureza": "Suave por el pulido, en contraste con la dureza del vidrio de planos previos"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P13",
+        "fisica_entorno": "Recorrido de cámara a baja altura sobre la superficie de piedra ya pulida por siglos de pisadas; no se describe desplazamiento de material en este plano, solo textura estática revelada por el movimiento de cámara.",
+        "vfx_principal": "ninguno (el brillo del pulido es propiedad de superficie, no un efecto de partículas)",
+        "vfx_fondo_simultaneo": "ninguno; Miguel permanece inmóvil al fondo, sin nueva interacción con el entorno.",
+        "limitacion_conocida": "No confundir el brillo del pulido con un reflejo dinámico que requiera simulación; es un atributo de material constante a lo largo del travelling."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P14",
+      "orden": 14,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Pasa de altura de ojos a picado",
+      "movimiento_camara": "Grúa (crane up) que asciende y abre el encuadre",
+      "encuadre_inicial": "A la altura de Miguel, el camino visible a ambos lados",
+      "encuadre_final": "Plano general elevado que muestra la anchura completa del camino, suficiente para diez personas de frente",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La cámara asciende en grúa y revela la anchura del camino enterrado, lo bastante ancho para que pasaran diez de frente.",
+      "accion_fondo": "El viento levanta polvo fino a baja altura sobre la superficie despejada del camino.",
+      "luz": {
+        "id_plano": "B1C01_S1_P14",
+        "fuente_luz": "Sol cenital tras la calima",
+        "direccion": "Uniforme desde arriba sobre la anchura expuesta del camino, sin cambio al ascender la grúa",
+        "ambiente": "El viento levanta polvo fino a baja altura sobre la superficie despejada",
+        "clima": "Calor, viento",
+        "color_temperatura": "Misma paleta pálida",
+        "dureza": "Moderada, uniforme sobre la extensión revelada"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P14",
+        "fisica_entorno": "Grúa ascendente que abre el encuadre sobre la anchura completa del camino ya despejado; el viento se mantiene activo sobre la superficie expuesta.",
+        "vfx_principal": "ninguno en primer término (no hay nuevo contacto de Miguel con el entorno en este plano)",
+        "vfx_fondo_simultaneo": "El viento levanta un velo fino de polvo mineral a baja altura sobre la superficie despejada del camino, visible durante todo el ascenso de grúa sin ocultar la anchura revelada.",
+        "limitacion_conocida": "El polvo debe permanecer bajo y disperso, no una nube densa que oculte la escala del camino que el plano existe para mostrar; coherente en dirección con el viento de P01/P05/P20."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P15",
+      "orden": 15,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos, ligeramente elevado",
+      "movimiento_camara": "Paneo horizontal lento (pan) siguiendo la línea del camino hacia el horizonte",
+      "encuadre_inicial": "El camino se pierde en la distancia; Miguel en primer término, de perfil",
+      "encuadre_final": "El paneo se detiene sobre unos cimientos anchos y erosionados, el fantasma de un antiguo portal, apenas reconocibles entre la calima",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La cámara recorre con el paneo el trazado del camino hasta detenerse sobre los cimientos erosionados de lo que fue una puerta capaz de dejar pasar un ejército entero de una vez.",
+      "accion_fondo": "La calima del calor distorsiona levemente el contorno de los cimientos distantes.",
+      "luz": {
+        "id_plano": "B1C01_S1_P15",
+        "fuente_luz": "Mismo sol tras la calima",
+        "direccion": "Frontal-alta; al llegar a los cimientos erosionados, la calima del calor aplana el contraste y difumina su contorno",
+        "ambiente": "Calima de calor distorsionando el perfil de los cimientos distantes",
+        "clima": "Calor intenso a distancia",
+        "color_temperatura": "Los cimientos se ven más pálidos y desaturados por la distancia atmosférica",
+        "dureza": "Suave/difusa en el horizonte por la calima"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P15",
+        "fisica_entorno": "Paneo horizontal siguiendo el trazado del camino hasta los cimientos erosionados de un antiguo portal, a distancia, bajo el calor del desierto.",
+        "vfx_principal": "ninguno en primer término",
+        "vfx_fondo_simultaneo": "La calima de calor distorsiona levemente el contorno de los cimientos distantes durante el recorrido del paneo, más marcada en la parte final del encuadre donde se detiene la cámara.",
+        "limitacion_conocida": "La distorsión térmica a distancia es más difícil de mantener estable en un paneo que en un plano fijo (ver P01); si el generador pierde el efecto durante el movimiento, aceptar una versión más sutil antes que perder la legibilidad de los cimientos."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P16",
+      "orden": 16,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "Rostro de Miguel, expresión pensativa",
+      "encuadre_final": "Mismo encuadre, sin cambio de cámara",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel comprende que quienes construyeron el camino no lo hicieron para sobrevivir a una retirada, sino para no necesitarla nunca.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P16",
+        "fuente_luz": "Mismo esquema cenital que P12, sin cambio motivado",
+        "direccion": "Estable sobre el rostro; misma fuente, mismo ángulo, gesto distinto",
+        "ambiente": "Ninguna",
+        "clima": "Calor constante",
+        "color_temperatura": "Sin variación",
+        "dureza": "Dura, constante"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P16",
+        "fisica_entorno": "Sin contacto con el entorno; plano de comprensión interna.",
+        "vfx_principal": "ninguno",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Ninguna."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P17",
+      "orden": 17,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano detalle (insert)",
+      "angulo": "Frontal, cercano al pecho",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "La mano de Miguel aún apoyada sobre el peto agrietado",
+      "encuadre_final": "Mismo encuadre, sin cambio",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El dolor bajo su pecho responde a la piedra con un latido bajo, casi cómplice, perceptible en la ligera tensión de los dedos sobre el metal.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P17",
+        "fuente_luz": "Sol alto + rebote frío del vidrio circundante",
+        "direccion": "Rasante sobre el metal agrietado, marcando la tensión de los dedos",
+        "ambiente": "Ninguna",
+        "clima": "Sin cambio",
+        "color_temperatura": "Metal frío-dorado",
+        "dureza": "Dura, acentúa el detalle táctil"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P17",
+        "fisica_entorno": "Mano ya apoyada sobre el peto agrietado; sin nuevo contacto con material externo del entorno.",
+        "vfx_principal": "ninguno (el \"latido casi cómplice\" es una sensación interna del personaje, no descrita como manifestación visible de luz o vibración del entorno)",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "No inventar un brillo o pulso visible en el pecho o en la piedra: el texto no autoriza una manifestación mágica visible en este punto; la única señal permitida es la ligera tensión de los dedos sobre el metal, que es actuación, no VFX."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P18",
+      "orden": 18,
+      "duracion_seg": 8,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo",
+      "encuadre_inicial": "El rostro de Miguel, incómodo con el pensamiento",
+      "encuadre_final": "Mismo encuadre; aparta la mirada del camino",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "A Miguel no le gusta el pensamiento y aparta la mirada del camino, incómodo con la cercanía entre esa piedra y su propia herida.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P18",
+        "fuente_luz": "Sol cenital tras la calima",
+        "direccion": "Frontal-alta; al apartar la mirada, un lado del rostro entra en una sombra propia más marcada",
+        "ambiente": "Viento leve",
+        "clima": "Calor constante",
+        "color_temperatura": "Misma paleta, ligero enfriamiento en la zona en sombra",
+        "dureza": "Dura, con transición más marcada que en primeros planos anteriores por el giro del rostro"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P18",
+        "fisica_entorno": "Sin contacto con el entorno.",
+        "vfx_principal": "ninguno",
+        "vfx_fondo_simultaneo": "ninguno",
+        "limitacion_conocida": "Ninguna."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P19",
+      "orden": 19,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano entero (full shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Panorámica vertical (tilt up) que acompaña el incorporarse, sin desplazamiento de cámara",
+      "encuadre_inicial": "Miguel agachado, cuerpo completo visible",
+      "encuadre_final": "Miguel de pie, cuerpo completo, ya girado en dirección contraria al camino",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel se incorpora, sin volver a mirar el camino, y gira el cuerpo para continuar su marcha.",
+      "accion_fondo": "",
+      "luz": {
+        "id_plano": "B1C01_S1_P19",
+        "fuente_luz": "Sol cenital tras la calima, sin cambio motivado",
+        "direccion": "Vertical sobre el cuerpo completo, sombra corta y estable durante el incorporarse",
+        "ambiente": "Ninguna relevante",
+        "clima": "Calor constante",
+        "color_temperatura": "Misma paleta pálida",
+        "dureza": "Dura"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P19",
+        "fisica_entorno": "Miguel se incorpora y gira sobre la misma superficie de vidrio vitrificado y bloques de piedra ya establecida; no se describe una nueva acción de fondo para este plano.",
+        "vfx_principal": "ninguno explícito en la acción principal; si se desea reforzar continuidad, el crujido de vidrio bajo el peso al incorporarse puede mantenerse como eco del comportamiento ya establecido en P02/P03, sin introducir un efecto nuevo.",
+        "vfx_fondo_simultaneo": "ninguno (el guion de planos no incluye acción de fondo aquí)",
+        "limitacion_conocida": "No añadir polvo o rotura nuevos que no estén en el guion de plano; cualquier crujido de vidrio debe ser continuidad del material ya mostrado, no un evento nuevo que compita con el gesto de incorporarse."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P20",
+      "orden": 20,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Seguimiento desde atrás (following shot) con leve travelling de retroceso, la distancia con Miguel aumenta progresivamente hasta plano general fijo",
+      "encuadre_inicial": "Miguel de espaldas, cuerpo completo, comenzando a alejarse del camino enterrado",
+      "encuadre_final": "Miguel reducido de tamaño en el cuadro, alejándose hacia el horizonte vitrificado; el camino queda atrás, fuera de foco",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel se aleja del camino enterrado y retoma la marcha hacia el horizonte, sin mirar atrás.",
+      "accion_fondo": "El viento levanta un velo fino de polvo tras sus pisadas mientras se aleja; el brillo del vidrio negro vuelve a dominar el encuadre.",
+      "luz": {
+        "id_plano": "B1C01_S1_P20",
+        "fuente_luz": "Sol tras la calima; el rebote del vidrio negro vuelve a dominar el encuadre, cerrando el esquema de P01/P02",
+        "direccion": "Frontal-alta sobre la figura que se aleja",
+        "ambiente": "El viento levanta un velo fino de polvo tras sus pisadas",
+        "clima": "Calor, viento constante",
+        "color_temperatura": "Vuelve la paleta inicial, pálida y enfermiza",
+        "dureza": "Dura"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S1_P20",
+        "fisica_entorno": "Miguel se aleja caminando sobre el vidrio vitrificado; el viento vuelve a ser protagonista del fondo mientras la distancia con la cámara aumenta.",
+        "vfx_principal": "ninguno en primer término (el sujeto se aleja, sin nuevo contacto destacado)",
+        "vfx_fondo_simultaneo": "El viento levanta un velo fino de polvo tras las pisadas de Miguel mientras se aleja; el brillo del vidrio negro vuelve a dominar el encuadre a medida que la distancia crece, cerrando el patrón de polvo abierto en P01.",
+        "limitacion_conocida": "Mantener la dirección del viento coherente con P01/P05/P14; el polvo debe originarse tras las pisadas (causa→respuesta), no aparecer como una nube genérica que cubra toda la escena."
+      },
+      "continuidad": null,
+      "listo_para_generar": false,
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    }
+  ],
+  "planos_bloqueados": [
+    {
+      "id_plano": "B1C01_S1_P04",
+      "motivo_bloqueo": "No existe referencia visual en character_library para el peto agrietado que este plano exige mostrar como contenido principal del arranque (canonical/body_reference.png y forms/celestial/README.md documentan expresamente un peto SIN grieta). Generar sin resolver esa referencia arriesga un peto liso que contradice la accion del plano y el estado_canon_entrada de la escena. Bloqueado hasta que el autor apruebe una referencia visual o descripcion textual suficiente de la grieta."
+    },
+    {
+      "id_plano": "B1C01_S1_P06",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P07",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P08",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P09",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P10",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P11",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P12",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P13",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P14",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P15",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P16",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P17",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P18",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P19",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    },
+    {
+      "id_plano": "B1C01_S1_P20",
+      "motivo_bloqueo": "Sin datos de continuidad generados"
+    }
+  ],
+  "prompts_flow": [
+    {
+      "id_plano": "B1C01_S1_P01",
+      "idioma": "ES",
+      "ajustes": "Operación: Ingredients to Video (arranque de escena, sin plano anterior). Modelo: Veo 3.1 Fast (probar Lite si el resultado sale estático). Duración: 8s (coincide con el máximo de generación base, sin Extend). Formato: 16:9. Resolución: la disponible en la sesión (comprobar 1080p). 1 resultado por intento, generar 2-3 intentos y comparar antes de aceptar. Referencia única, siguiendo la regla verificada por el autor el 2026-09-18 (una sola imagen ancla mejor el movimiento que combinar varias).",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano fijo (locked-off), gran plano general, a la altura de los ojos, ligeramente elevado. La cámara permanece quieta y ejecuta un paneo lento hacia la derecha de pantalla durante los 8 segundos, sin desplazarse ni acercarse.\n\n[SUJETOS Y ESTADO]\nLa imagen de referencia adjunta define la identidad física de Miguel: cabello blanco ceniza despeinado por el viento, armadura celestial con peto y hombreras de canales cian y estrella de ocho puntas, guantes de cuero oscuro, faldones azul medianoche y oro, grebas y escarpes dorados. Ambas alas están presentes y plegadas contra la espalda desde el primer fotograma, con el borde asomando tras cada hombro; no deben aparecer ausentes en ningún instante del clip. Miguel no porta arma, vaina ni objeto alguno en la cadera o la espalda. Ambas manos están vacías y oscilan junto al costado con el paso.\n\n[ACCIÓN]\nMiguel aparece diminuto en el tercio inferior izquierdo del encuadre y avanza con paso constante y agotado hacia la derecha de pantalla, cruzando el desierto vitrificado. El paneo de cámara lo mantiene en cuadro mientras revela más extensión de vidrio negro agrietado; al terminar el paneo, Miguel queda algo más centrado, todavía diminuto por la distancia, sin detenerse ni cambiar de dirección.\n\n[ESPACIO, LUZ Y VFX]\nEl desierto de Serephis es una extensión ininterrumpida de vidrio negro vitrificado bajo un cielo enfermizo amarillo-grisáceo. Absolutely no buildings, no columns, no temple ruins anywhere in frame — únicamente desierto abierto vitrificado. Sol alto y difuso tras un velo de calima tóxica, luz casi cenital con sombra propia muy corta. Distorsión térmica (heat haze) ascendiendo del suelo, más intensa cerca de la superficie y disipándose hacia arriba, afectando solo el fondo tras Miguel, nunca su silueta. Un velo fino de polvo mineral se desplaza a baja altura de izquierda a derecha durante todo el paneo, sin ocultar la figura.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, Miguel conserva sus dos alas plegadas visibles tras los hombros, no porta ningún arma ni objeto en manos o espalda, y mantiene su dirección de avance de izquierda a derecha de pantalla sin cruzar el eje. Se oye el viento constante y un silbido bajo sobre el vidrio; sin diálogo.",
+      "criterios_aceptacion": "Miguel conserva ambas alas visibles y plegadas en el primer fotograma y en todos los siguientes (revisar fotograma a fotograma, no solo inicio/fin — bug de continuidad interna documentado en el doc 14). Sin arma, vaina ni bulto en cadera o espalda. Sin edificios, columnas o ruinas en el fondo — solo vidrio negro y cielo. El paneo no cruza el eje de avance (izq. a der. se mantiene). La silueta de Miguel no se ve distorsionada por el heat haze. Rechazar si aparece una segunda figura o si Miguel cambia de tamaño de forma abrupta durante el paneo."
+    },
+    {
+      "id_plano": "B1C01_S1_P02",
+      "idioma": "ES",
+      "ajustes": "Operación: Ingredients to Video (nuevo encuadre/corte sobre la misma acción de marcha; no Extend, porque cambia tipo de plano y movimiento de cámara respecto a P01). Modelo: Veo 3.1 Fast. Duración: 8s. Formato: 16:9. Resolución de sesión. Referencia única. Plano de perfil explícito (walking left to right, seen from the side) para evitar el fallo verificado por el autor de personajes que caminan hacia atrás al pedir marcha frontal a cámara.",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano entero, de perfil, a la altura de los ojos. La cámara ejecuta un travelling lateral (truck right) paralelo a Miguel, a su misma velocidad, manteniendo el mismo tamaño de plano durante los 8 segundos: Miguel no se acerca ni se aleja de cámara, el paisaje pasa detrás de él.\n\n[SUJETOS Y ESTADO]\nLa imagen de referencia adjunta define la identidad física de Miguel: cabello blanco ceniza, armadura celestial dorada con peto y hombreras de canales cian y estrella de ocho puntas, guantes de cuero oscuro, faldones azul medianoche y oro, grebas y escarpes dorados. Ambas alas presentes y plegadas contra la espalda desde el primer fotograma del clip, borde asomando tras cada hombro, visibles durante toda la toma. Miguel no porta arma, vaina ni objeto en la cadera ni en la espalda. Ambas manos vacías, oscilando junto al costado con cada zancada.\n\n[ACCIÓN]\nMiguel camina de perfil, visto de lado (seen from the side, walking left to right), avanzando con paso pesado y agotado; su armadura dorada cruje con cada zancada. Bajo cada sabatón, al cargar el peso, el vidrio negro se astilla y un abanico pequeño de esquirlas salta y cae cerca del pie que se apoya; el pie que se levanta deja tras de sí placas astilladas, sin que el vidrio se recomponga.\n\n[ESPACIO, LUZ Y VFX]\nVidrio negro vitrificado ininterrumpido bajo Miguel, sin piedra visible. No buildings, no ruins, no structures of any kind in the background — open vitrified desert only. Sol cenital tras la calima más un rebote frío del vidrio negro como fuente secundaria desde abajo; filo de luz cálido en el hombro alto, rebote frío tenue en el borde inferior de las placas de armadura. Rotura del vidrio solo bajo la suela que carga peso, nunca antes del contacto; los fragmentos quedan esparcidos, angulosos, sin fusionarse.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, Miguel mantiene sus dos alas visibles y plegadas, no porta arma ni objeto en manos, cadera o espalda, y conserva su dirección de avance de izquierda a derecha sin cruzar el eje de cámara. Se oye el crujido metálico de la armadura a cada zancada y el crujido/astillado del vidrio bajo cada paso; sin diálogo.",
+      "criterios_aceptacion": "Miguel se ve de perfil en todo el clip, sin que el ciclo de marcha se deforme ni retroceda. Alas presentes y plegadas en el primer fotograma y en todos los posteriores. Sin arma ni vaina en cadera o espalda. La rotura del vidrio ocurre bajo el pie que carga peso, no antes del contacto; los fragmentos no se recomponen al levantar el pie. El travelling mantiene el mismo tamaño de plano sin acercarse ni alejarse. Sin edificios ni ruinas en el fondo."
+    },
+    {
+      "id_plano": "B1C01_S1_P03",
+      "idioma": "ES",
+      "ajustes": "Operación: Ingredients to Video (cambio de ángulo/plano detalle sobre el mismo instante de marcha; construir la imagen inicial con las mismas posiciones de piernas/pies que P02, sin usar su último frame como arranque literal). Modelo: Veo 3.1 Fast. Duración: 8s. Formato: 16:9. Resolución de sesión. Referencia única (cuerpo/armadura, para grebas y escarpes coherentes).",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único plano detalle, fijo, en picado bajo, cámara casi a ras del suelo. Encuadre cerrado en los sabatones dorados de Miguel y el vidrio negro justo antes y durante el paso; el resto del cuerpo queda fuera de cuadro.\n\n[SUJETOS Y ESTADO]\nLa imagen de referencia adjunta define el diseño de las grebas y escarpes dorados y el tipo de calzado de Miguel; usar solo esa zona anatómica. Solo piernas y pies de Miguel son visibles; el resto del cuerpo, incluidas ambas alas, brazos y manos, queda fuera de encuadre por el ángulo bajo, pero debe seguir existiendo fuera de cuadro sin alterarse.\n\n[ACCIÓN]\nEl sabatón derecho se apoya y carga el peso completo; el vidrio negro cede con un crujido y se astilla en fragmentos angulosos bajo la presión. Al despegar el pie siguiente, un abanico corto de esquirlas y polvo mineral sale despedido hacia atrás desde la puntera.\n\n[ESPACIO, LUZ Y VFX]\nVidrio negro vitrificado, intacto justo en el punto de apoyo hasta el instante de la carga; sin piedra, no buildings, no ruins visible en ningún punto del encuadre. Luz rasante, casi horizontal, dominada por el rebote frío del vidrio negro por la proximidad de la cámara al suelo; el filo de luz recorre la superficie agrietada. La rotura ocurre exactamente al cargar el peso, no en el instante de apoyar sin peso; los fragmentos quedan esparcidos y no se recomponen ni se funden entre sí en ningún fotograma.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, la rotura del vidrio se produce solo bajo el sabatón que carga peso; los fragmentos no regresan a su forma original ni desaparecen. No debe aparecer ninguna otra parte del cuerpo de Miguel en el encuadre. Se oye el crujido seco del vidrio al quebrarse y el roce de las esquirlas; sin diálogo.",
+      "criterios_aceptacion": "La rotura del vidrio ocurre al cargar el peso, no antes del contacto. Los fragmentos permanecen esparcidos y angulosos, sin recomponerse ni regenerarse en el fotograma final. Solo piernas y sabatones dorados en cuadro, coherentes con la referencia de armadura. Sin edificios, columnas o ruinas visibles. Sin alucinación de una tercera pierna o pie adicional."
+    },
+    {
+      "id_plano": "B1C01_S1_P05",
+      "idioma": "ES",
+      "ajustes": "Operación: Ingredients to Video, construyendo directamente el encuadre de rostro ya especificado en el estado de entrada de este plano (no se usa ni se menciona el plano anterior, bloqueado y fuera de este lote). Modelo: Veo 3.1 Fast. Duración: 8s. Formato: 16:9. Resolución de sesión. Referencia única (rostro).",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA]\nUn único primer plano (close-up) del rostro de Miguel, a la altura de los ojos, cámara casi fija con un ligero dolly in de aproximación lento durante los 8 segundos: el rostro pasa de ocupar el encuadre completo a llenarlo aún más, sin cambiar de ángulo.\n\n[SUJETOS Y ESTADO]\nLa imagen de referencia adjunta define los rasgos faciales de Miguel y su cabello blanco ceniza despeinado por el viento. Para este plano en concreto, los ojos deben mostrarse en un azul tenue (dato explícito de esta escena; diverge del cian eléctrico intenso habitual de su ficha de personaje — divergencia deliberada de este momento narrativo, no un error a corregir). El resto del cuerpo, brazos, manos y alas quedan fuera de encuadre; no es necesario resolverlos en esta imagen.\n\n[ACCIÓN]\nEl rostro agotado de Miguel sostiene la mirada al frente, hacia el horizonte fuera de cuadro, con los ojos ardiendo en ese azul tenue pese al cansancio. Mientras la cámara se aproxima muy lentamente, el rostro no gira ni cambia de orientación; solo mechones sueltos de pelo blanco-ceniza se agitan con el viento, con un ligero retraso de las puntas respecto a la raíz.\n\n[ESPACIO, LUZ Y VFX]\nFondo fuera de foco, sin necesidad de resolver el desierto en detalle en este encuadre. Sol cenital tras la calima como fuente principal, dura sobre frente y pómulos; un rebote frío del vidrio sube tenue desde abajo e ilumina la barbilla, con una transición marcada en la línea de la mandíbula.\n\n[CONTINUIDAD Y AUDIO]\nDurante toda la toma, la orientación del rostro se mantiene frontal y fija, sin girar hacia otro lado; el viento agita el pelo de forma sutil y constante, sin convertirse en una ráfaga fuerte. Se oye el mismo viento bajo del desierto; sin diálogo.",
+      "criterios_aceptacion": "Los ojos se mantienen en azul tenue durante todo el clip (no cian intenso, no cambia de color a mitad de toma). El rostro no gira ni se transforma; el dolly in es gradual sin salto de corte. El viento en el pelo es sutil, coherente con el polvo/viento mostrado en P01. Sin elementos del cuerpo (manos, alas, arma) apareciendo en el encuadre. Sin texto ni marcas de agua visibles en la imagen."
+    }
+  ],
+  "guion_storyboard_studio": "EPISODIO / ESCENA: Libro I — Capítulo 1 — \"El hueco bajo las costillas\" — Desierto de Serephis\nFUENTE: capítulo 1, arranque de la escena (arena vidrificada sobre un camino enterrado)\nCONTINUIDAD TEMPORAL: continuación, sin elipsis entre los planos listados a continuación\nPERSONAJES VISIBLES: MIGUEL, forma celestial. Referencia: character_library/angeles/Miguel/canonical/body_reference.png (cuerpo) y character_library/angeles/Miguel/canonical/face_reference.png (rostro). Estado actual: armadura celestial dorada con peto y hombreras de canales cian y estrella de ocho puntas, alas plegadas intactas, sin arma, tras doce días de marcha.\nLUGAR: Desierto de Serephis. Vidrio negro vitrificado ininterrumpido bajo cielo enfermizo amarillo-grisáceo; sol cenital tras calima tóxica; sin edificios ni ruinas.\n\nPLANO B1C01_S1_P01\nEncuadre e instante del panel: gran plano general, altura de ojos algo elevada; Miguel diminuto en el tercio inferior izquierdo.\nEstado de entrada: Miguel camina agotado, alas plegadas, manos vacías, sin arma.\nAcción principal: avanza a paso constante hacia la derecha de pantalla mientras la cámara panea lentamente en esa dirección.\nEstado de salida: Miguel algo más centrado, mismo tamaño de figura, sigue caminando.\nRasgos que deben persistir en este plano: ambas alas visibles y plegadas desde el primer fotograma; ninguna arma en cadera o espalda; vidrio negro sin edificios ni ruinas.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: paneo lento hacia la derecha, cámara fija en el eje, sin cruce.\n\nPLANO B1C01_S1_P02\nEncuadre e instante del panel: plano entero de perfil, altura de ojos.\nEstado de entrada: continúa el mismo ciclo de marcha de P01, ahora visto de perfil, más cerca.\nAcción principal: Miguel camina de perfil de izquierda a derecha; el vidrio se astilla bajo cada sabatón al cargar peso.\nEstado de salida: mismo tamaño de plano tras el travelling; esquirlas visibles junto a la trayectoria reciente.\nRasgos que deben persistir: alas plegadas visibles tras los hombros; sin arma; armadura dorada agrietada que cruje pero sin daño nuevo; rotura del vidrio solo bajo el pie que carga peso.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling lateral (truck right) paralelo a Miguel, misma velocidad, sin acercarse ni alejarse.\n\nPLANO B1C01_S1_P03\nEncuadre e instante del panel: plano detalle, picado bajo, cámara a ras de suelo; solo sabatones y vidrio.\nEstado de entrada: mismo instante de la zancada de P02, ahora en detalle; resto del cuerpo fuera de cuadro.\nAcción principal: el sabatón derecho carga peso, el vidrio cede y se astilla; esquirlas y polvo saltan hacia atrás al despegar el pie siguiente.\nEstado de salida: placa de vidrio quebrada en fragmentos angulosos alrededor del pie, sin recomponerse.\nRasgos que deben persistir: rotura solo al cargar peso, nunca antes del contacto; ninguna otra parte del cuerpo entra en cuadro; fragmentos no se funden ni regeneran.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo, sin movimiento de cámara.\n\nPLANO B1C01_S1_P05\nEncuadre e instante del panel: primer plano del rostro de Miguel, altura de ojos, dolly in lento.\nEstado de entrada: rostro completo visible, ojos en azul tenue (dato específico de esta escena), pelo blanco-ceniza agitado por el viento.\nAcción principal: Miguel sostiene la mirada al frente mientras la cámara se aproxima muy lentamente; el pelo se mueve con el viento.\nEstado de salida: el rostro llena más el encuadre; los ojos dominan la composición; mismo color de ojos, misma orientación frontal.\nRasgos que deben persistir: color de ojos azul tenue constante durante todo el clip; rostro no gira; cuerpo, manos y alas fuera de cuadro, no es necesario resolverlos.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: dolly in lento y continuo, sin corte intermedio.\n\nNota de producción: introducir el texto anterior en el campo Script de Storyboard Studio tal cual; comprobar después en Assets que el reparto (MIGUEL, forma celestial) recibe exactamente una identidad y no se duplica por plano. Si la plantilla no permite asociar body_reference.png/face_reference.png directamente al cast, usar este guion solo como borrador de composición y generar las imágenes definitivas en el espacio de imágenes de Flow con esas referencias (protocolo de content/craft/15_storyboard_studio.md, sección \"¿Puede reutilizar las imágenes de character_library/?\"). No se incluyen aquí los planos B1C01_S1_P04 ni ningún otro bloqueado por continuidad: quedan fuera de este borrador hasta que se resuelva su bloqueo."
+}

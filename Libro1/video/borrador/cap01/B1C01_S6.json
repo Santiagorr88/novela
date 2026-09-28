@@ -1,0 +1,1799 @@
+{
+  "escena": {
+    "id_escena": "B1C01_S6",
+    "titulo": "Solmire",
+    "resumen": "En el corazón de la arboleda, el gran fresno de corteza como lava enfriada, raíces bebiendo de un estanque de luz estática. Clavada en el tronco, una espada que no es metal forjado sino luz viva con peso y filo. En el instante en que Miguel la ve, el vacío de su pecho enmudece de golpe; el nombre 'Solmire' le sube a la mente como una ley, no como un recuerdo. Con la mano temblando, alza los dedos hacia la empuñadura, dudando si seguirá siendo el General de la Hueste o se convertirá en 'el primer verdugo de una verdad sin límites'. En el instante en que la piel toca la empuñadura, la arboleda desaparece.",
+    "localizacion": "Corazón de la Arboleda — el gran fresno junto al estanque de luz estática",
+    "personajes": [
+      "Miguel"
+    ],
+    "parrafos_en": {
+      "desde": 33,
+      "hasta": 35
+    },
+    "parrafos_es": {
+      "desde": 33,
+      "hasta": 35
+    },
+    "duracion_objetivo_seg": 150,
+    "estado_canon_entrada": [
+      {
+        "id_personaje": "Miguel",
+        "forma": "celestial",
+        "heridas": [
+          "hueco bajo el esternón — se silencia por completo, 'como una mano sobre una campana que vibraba', en el instante en que ve la espada (no está curado, está silenciado)"
+        ],
+        "objetos": [
+          "armadura dorada agrietada"
+        ],
+        "notas": "Por un latido el propio nombre 'Miguel' se le siente como un título prestado. Reconoce la espada Solmire no como recuerdo sino como certeza absoluta: 'eso es lo que me fue arrebatado'. Según el grafo de conocimiento (H1, H22), en este punto de la historia Miguel NO sabe que Solmire fue forjada por Ereloth ni que forma parte de la profecía de las tres armas — ese conocimiento llega más adelante (L1/43-44 en adelante); aquí solo hay reconocimiento instintivo, sin contexto. El guardián ya no está en cuadro (su mirada 'se apoyó en su espalda mucho después de que los árboles la ocultaran', en la escena anterior) — su presencia queda implícita, no visible."
+      }
+    ],
+    "requiere_aprobacion_autor": false
+  },
+  "planos": [
+    {
+      "id_plano": "B1C01_S6_P01",
+      "orden": 1,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos (eye-level)",
+      "movimiento_camara": "Travelling lateral de seguimiento (lateral tracking / truck), a la misma velocidad que Miguel, ligeramente detrás y a un lado",
+      "encuadre_inicial": "Miguel de tres cuartos trasero entra por la izquierda; filas de árboles de hojas de metal pálido, luz uniforme sin sombra",
+      "encuadre_final": "Miguel avanza hacia el centro de la arboleda; el espacio abierto se insinúa al fondo",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel avanza hacia el centro de la arboleda, esperando la línea que no debía cruzar.",
+      "accion_fondo": "Los troncos pálidos se suceden regulares a ambos lados; ninguna otra figura visible en cuadro.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P01",
+        "fuente_luz": "Dosel de hojas de metal pálido que difunde la luz del cielo alto; sin punto de origen localizable",
+        "direccion": "Cenital difusa y envolvente, sin lateralidad marcada",
+        "dureza": "Suave, sin bordes de sombra",
+        "color_temperatura": "Blanco frío neutro",
+        "clima": "Aire limpio, completamente inmóvil",
+        "ambiente": "Superficies lisas y contraste casi nulo: la arboleda se ve igual en toda su extensión"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P01",
+        "vfx_principal": "Ninguno directo sobre Miguel: la interacción a resolver es de fondo (hojas de metal pálido), no del personaje.",
+        "vfx_fondo_simultaneo": "Filas de árboles de hojas metálicas pálidas en travelling lateral: los reflejos especulares se desplazan por paralaje con el movimiento de cámara, no por viento (no hay causa de viento establecida en la escena) — evitar que el generador añada ondulación de follaje no motivada. La luz uniforme sin sombra debe sostenerse en todo el encuadre pese al desplazamiento.",
+        "fisica_entorno": "Material: hojas de textura metálica pálida bajo luz ambiental sin fuente direccional aparente. Causa: el único movimiento visible es el paralaje del travelling, no contacto ni viento. Trayectoria: los reflejos se deslizan con la velocidad de cámara. Resto: la uniformidad lumínica es idéntica del encuadre inicial al final.",
+        "limitacion_conocida": "La guía (Runway) distingue movimiento de sujeto y de entorno, pero no hay prueba reproducible de que un generador sostenga 'luz uniforme sin sombra' de forma constante en un travelling; vigilar parpadeo especular parásito en las hojas metálicas."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: de pie iniciando la marcha, entra por la izquierda del encuadre en tres cuartos trasero, torso ligeramente rotado, peso repartiéndose entre los pies con la zancada inicial. Mano derecha: vacía, a la altura del muslo derecho, dedos relajados, sin objeto, guantelete de cuero oscuro con protecciones doradas y grietas visibles. Mano izquierda: vacía, a la altura del muslo izquierdo, dedos relajados, sin objeto, guante de cuero oscuro con protecciones doradas, intacto. Heridas: hueco bajo el esternón vibra tenuemente, sensación activa de fondo, sin marca visible en la piel, oculto bajo el peto — no es una herida abierta, es una ausencia interior. Vestuario: armadura celestial dorada radiante con filigrana de plumas y canales cian; peto con grietas visibles (canon de escena: 'armadura dorada agrietada'); estrella cian-blanca de ocho puntas sobre el esternón; faldones azul medianoche con bordes dorados, sin roturas; grebas y escarpes dorados intactos; alas blanco perla plegadas y ceñidas tras la espalda, raíces ocultas por el torso, visibilidad parcial. Mirada: al frente, hacia el interior de la arboleda, buscando la línea que no debía cruzar.",
+        "estado_salida_previsto": "Miguel — Pose: avanzando hacia el centro de la arboleda, cuerpo entero en movimiento de marcha regular, el espacio abierto se insinúa al fondo. Mano derecha: vacía, balanceo natural de la marcha a la altura del muslo, sin objeto, guantelete agrietado. Mano izquierda: vacía, balanceo natural de la marcha a la altura del muslo, sin objeto, guante intacto. Heridas: hueco bajo el esternón sigue vibrando tenuemente, sin cambio. Vestuario: armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, grebas y escarpes dorados intactos, alas plegadas tras la espalda con visibilidad parcial — sin cambios respecto a la entrada. Mirada: al frente, sin encontrar aún ninguna marca ni límite.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, dedos relajados, balanceo de marcha a la altura del muslo derecho",
+            "mano_izquierda": "vacía, dedos relajados, balanceo de marcha a la altura del muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible en la piel, oculto bajo el peto",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Miguel de tres cuartos trasero, avanzando hacia el centro del claro; ambas manos vacías balanceándose con la marcha; armadura dorada con peto agrietado; alas plegadas apenas insinuadas tras los hombros; el espacio abierto de la arboleda se insinúa al fondo, sin ningún límite ni marca visible.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "El guion y los planos no especifican el estado de las alas de Miguel en ningún punto de la escena (forma celestial). Se asume por defecto 'plegadas y ceñidas tras la espalda, visibilidad parcial' según su ficha canónica, sin variación en toda la secuencia — pendiente de confirmación del autor antes de generar, ya que una posición de alas no especificada es un vector de salto de continuidad tan real como una mano.",
+          "Las referencias de Miguel se citan por ruta (canonical/face_reference.png, canonical/body_reference.png) pero no se inspeccionaron visualmente en esta pasada de continuidad (solo se leyó el README y el índice); verificar manualmente el estado del peto agrietado y del guantelete contra las imágenes reales antes de generar, siguiendo el orden de autoridad de character_library/INDEX.md."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P02",
+      "orden": 2,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano entero (full shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off) breve",
+      "encuadre_inicial": "Miguel de cuerpo entero avanzando por el centro del claro",
+      "encuadre_final": "Mismo encuadre; ningún umbral, marca ni límite aparece ante él",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La línea que esperaba cruzar nunca llega; sigue caminando sin encontrarla.",
+      "accion_fondo": "El terreno se abre sin transición visible entre un tramo y el siguiente.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P02",
+        "fuente_luz": "El mismo dosel difuso de hojas metálicas",
+        "direccion": "Difusa desde todas direcciones, sin eje dominante",
+        "dureza": "Suave; sombras prácticamente ausentes bajo los pies",
+        "color_temperatura": "Blanco frío neutro, sin variación",
+        "clima": "Sin viento ni partículas, igual que el tramo anterior",
+        "ambiente": "El terreno se ilumina de forma idéntica en cada tramo, sin marca que anuncie un límite"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P02",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "El terreno se abre 'sin transición visible': ausencia deliberada de marca o umbral. El generador no debe insertar ningún elemento (línea, brillo, cambio de textura) que pueda leerse como el límite que el propio guion niega.",
+        "fisica_entorno": "No hay interacción material que describir; el dato relevante es negativo (ausencia de umbral), no físico.",
+        "limitacion_conocida": "Riesgo de que el modelo introduzca por variedad visual un cambio de terreno que se lea como el límite negado por el guion; no existe forma de 'prohibir' un elemento salvo describir explícitamente la continuidad del terreno en el prompt."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P02",
+        "id_plano_anterior": "B1C01_S6_P01",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: avanzando hacia el centro de la arboleda, cuerpo entero en movimiento de marcha regular, el espacio abierto se insinúa al fondo (heredado de P01). Mano derecha: vacía, balanceo natural de la marcha a la altura del muslo, sin objeto, guantelete agrietado. Mano izquierda: vacía, balanceo natural de la marcha a la altura del muslo, sin objeto, guante intacto. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible en la piel. Vestuario: armadura dorada con peto agrietado, estrella cian-blanca de ocho puntas, faldones azul medianoche, grebas y escarpes dorados intactos, alas plegadas tras la espalda con visibilidad parcial. Mirada: al frente, sin encontrar aún ninguna marca ni límite.",
+        "estado_salida_previsto": "Miguel — Pose: sigue caminando por el centro del claro, cuerpo entero visible, la línea que esperaba cruzar nunca llega. Mano derecha: vacía, a la altura del muslo, balanceo de marcha, sin objeto. Mano izquierda: vacía, a la altura del muslo, balanceo de marcha, sin objeto. Heridas: hueco bajo el esternón sigue vibrando tenuemente, sin cambio. Vestuario: sin cambios — armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas con visibilidad parcial. Mirada: al frente, buscando sin hallar la línea o el umbral esperado.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, balanceo de marcha a la altura del muslo derecho",
+            "mano_izquierda": "vacía, balanceo de marcha a la altura del muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible en la piel",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Miguel de cuerpo entero caminando por el centro del claro; ambas manos vacías a la altura del muslo; el terreno se abre sin transición visible, sin línea ni marca de ningún tipo ante él; armadura y alas sin cambios respecto al plano anterior.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P03",
+      "orden": 3,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio (medium shot)",
+      "angulo": "Altura de ojos, cámara tras Miguel",
+      "movimiento_camara": "Travelling de acompañamiento (following shot) detrás de él, distancia constante",
+      "encuadre_inicial": "Hombros y nuca de Miguel en primer término; el pasillo de árboles se abre delante",
+      "encuadre_final": "Mismo encuadre; los árboles empiezan a cerrarse detrás según avanza",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Camina sin volverse, sosteniendo el peso de una mirada que no se ve.",
+      "accion_fondo": "El camino recorrido se cierra gradualmente entre los troncos a su espalda.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P03",
+        "fuente_luz": "Dosel difuso; los troncos que se cierran tras él recortan levemente el fondo",
+        "direccion": "Ambiental desde arriba, con leve pérdida de claridad hacia los troncos que se aproximan por los laterales",
+        "dureza": "Suave",
+        "color_temperatura": "Blanco frío",
+        "clima": "Aire quieto",
+        "ambiente": "El cierre de los árboles a su espalda resta luz al fondo sin proyectar sombra sobre Miguel"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P03",
+        "vfx_principal": "Ninguno sobre Miguel.",
+        "vfx_fondo_simultaneo": "Los troncos se cierran gradualmente tras él en el travelling de acompañamiento; debe leerse como efecto de densidad/paralaje en profundidad al alejarse la cámara, no como árboles desplazándose por sí mismos.",
+        "fisica_entorno": "Material: troncos regulares y estáticos. Trayectoria: aumento aparente de densidad de troncos superpuestos en el eje de profundidad conforme avanza el plano. Resto: el pasillo recorrido queda visualmente sellado al final.",
+        "limitacion_conocida": "Ambigüedad de causa no resuelta en el brief (¿efecto óptico o movimiento real de los árboles?); si el generador anima troncos desplazándose literalmente, contradice la arboleda estática establecida en P01. Fijar en el prompt que los troncos no se mueven, solo cambia la superposición en profundidad."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P03",
+        "id_plano_anterior": "B1C01_S6_P02",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: visto desde atrás, hombros y nuca en primer término, caminando sin volverse, el pasillo de árboles se abre delante (heredado de P02). Mano derecha: fuera de encuadre en este plano medio cerrado sobre hombros/nuca, pero presente y vacía, continuando el balanceo de marcha a la altura del muslo, sin objeto. Mano izquierda: fuera de encuadre, presente y vacía, mismo balanceo, sin objeto. Heridas: hueco bajo el esternón sigue vibrando tenuemente, sin marca visible. Vestuario: armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda, visibilidad parcial (no evaluable de espaldas en este encuadre, pero sin cambio de estado). Mirada: no visible en cuadro (Miguel de espaldas), orientada al frente, sosteniendo el peso de una mirada que no se ve.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre de hombros y nuca; los árboles empiezan a cerrarse detrás según avanza. Mano derecha: sigue fuera de encuadre, presente y vacía, sin objeto. Mano izquierda: sigue fuera de encuadre, presente y vacía, sin objeto. Heridas: hueco bajo el esternón sin cambio, vibra tenuemente. Vestuario: sin cambios. Mirada: sigue sin visible en cuadro, orientada al frente; el camino recorrido se cierra gradualmente entre los troncos a su espalda.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, vacía, balanceo de marcha",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, balanceo de marcha"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Hombros y nuca de Miguel en primer término, caminando sin volverse; los troncos se cierran gradualmente tras él por densidad/paralaje, no por desplazamiento propio; manos fuera de cuadro pero íntegras según el inventario de continuidad.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P04",
+      "orden": 4,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano medio",
+      "angulo": "Picado leve, desde atrás y arriba",
+      "movimiento_camara": "Panorámica horizontal breve (pan) que barre el espacio recorrido tras Miguel",
+      "encuadre_inicial": "Miguel de espaldas alejándose en el tercio inferior del cuadro",
+      "encuadre_final": "La panorámica revela solo árboles y luz pareja donde antes se sentía una presencia",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El camino recorrido queda vacío; esa mirada sigue apoyada en su espalda mucho después de que los árboles la oculten.",
+      "accion_fondo": "Ninguna figura visible.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P04",
+        "fuente_luz": "Mismo dosel difuso ambiental",
+        "direccion": "Cenital difusa",
+        "dureza": "Suave",
+        "color_temperatura": "Blanco frío neutro",
+        "clima": "Aire quieto, sin corrientes",
+        "ambiente": "El barrido solo revela la claridad pareja del suelo vacío, sin figura que la interrumpa"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P04",
+        "vfx_principal": "Ninguno. La 'mirada' sobre la espalda de Miguel no tiene correlato visual; no inventar presencia, brillo o sombra que la represente.",
+        "vfx_fondo_simultaneo": "La panorámica revela solo árboles y luz pareja, ninguna figura — el punto es la ausencia confirmada por el barrido de cámara.",
+        "fisica_entorno": "No aplica.",
+        "limitacion_conocida": "Riesgo de que una descripción muy literal de la sensación tiente al generador a visualizarla (ojo, sombra, brillo). Mantener el prompt centrado en la imagen (vacío, árboles, luz) y dejar la sensación al guion/actor."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P04",
+        "id_plano_anterior": "B1C01_S6_P03",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: de espaldas, alejándose, en el tercio inferior del encuadre, picado leve desde atrás y arriba (heredado de P03, cambio de ángulo con las mismas posiciones físicas). Mano derecha: visible pero pequeña en el encuadre, vacía, a la altura del muslo, balanceo de marcha, sin objeto. Mano izquierda: visible pequeña, vacía, a la altura del muslo, balanceo de marcha, sin objeto. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible. Vestuario: armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda con visibilidad parcial (vistas de espaldas, ligeramente más perceptibles por el ángulo picado). Mirada: no visible (de espaldas), orientada al frente.",
+        "estado_salida_previsto": "Miguel — Pose: la panorámica revela el camino recorrido vacío tras él; Miguel sigue alejándose en el tercio inferior del cuadro hasta ocultarse entre los árboles. Mano derecha: vacía, sin objeto, sin cambio de posición. Mano izquierda: vacía, sin objeto, sin cambio de posición. Heridas: hueco bajo el esternón sin cambio. Vestuario: sin cambios. Mirada: no visible; ninguna figura queda en el barrido salvo Miguel alejándose — esa mirada ajena (del guardián) sigue apoyada en su espalda sin correlato visual.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, balanceo de marcha, visible pequeña en el encuadre",
+            "mano_izquierda": "vacía, balanceo de marcha, visible pequeña en el encuadre"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Panorámica que revela solo árboles y luz pareja tras Miguel, que se aleja minúsculo en el tercio inferior del cuadro; ninguna otra figura visible; ambas manos vacías, sin objeto añadido, sin cambio respecto al plano anterior.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P05",
+      "orden": 5,
+      "duracion_seg": 7,
+      "tipo_plano": "Gran plano general (extreme wide shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "La arboleda se abre en un claro central",
+      "encuadre_final": "Al fondo, apenas distinguible, el contorno del gran fresno y el resplandor del estanque de luz estática",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Revelación a distancia del corazón de la arboleda: el gran fresno.",
+      "accion_fondo": "El resplandor estático del estanque se percibe como un punto de luz constante entre los árboles.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P05",
+        "fuente_luz": "El dosel difuso ambiental cede protagonismo al resplandor lejano del estanque de luz estática, primer punto de luz localizable del encuadre",
+        "direccion": "El resplandor del estanque asciende desde el centro del fondo, aún tenue por la distancia",
+        "dureza": "Suave; todavía no se define como fuente dura",
+        "color_temperatura": "El ambiente sigue frío; el punto lejano introduce un matiz cálido apenas perceptible",
+        "clima": "Aire limpio; ninguna corriente perceptible pese a la distancia recorrida",
+        "ambiente": "Primer contraste de temperatura de color de la escena: frío alrededor, cálido en el punto distante"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P05",
+        "vfx_principal": "Ninguno sobre Miguel.",
+        "vfx_fondo_simultaneo": "En la distancia, contorno del gran fresno y resplandor del estanque de luz estática como único punto de luz constante — fuente fija, sin parpadeo ni variación de intensidad (a diferencia de una fuente de fuego).",
+        "fisica_entorno": "Material: luz estática (no fuego, no agua reflectante convencional). Causa: fuente ya activa desde el inicio, no se enciende ni cambia dentro de la toma. Evolución: intensidad constante toda la duración. Resto: sigue visible sin variación al corte.",
+        "limitacion_conocida": "El banco de frases de la guía distingue fuego/humo con oscilación variable; no hay ejemplo verificado para 'luz estática de estanque' — se extrapola invirtiendo el criterio de variación lumínica del banco de antorchas. Vigilar que el generador no aplique por defecto el parpadeo típico de las referencias de fuego."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P05",
+        "id_plano_anterior": "B1C01_S6_P04",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: caminando a distancia en el claro central, cuerpo entero minúsculo en el gran plano general, cambio de ángulo a altura de ojos (heredado de P04, mismas posiciones físicas trasladadas a la nueva composición). Mano derecha: vacía, a la altura del muslo, sin objeto (apenas distinguible por la distancia pero íntegra según el inventario). Mano izquierda: vacía, a la altura del muslo, sin objeto. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible. Vestuario: armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda, visibilidad parcial (no discernible a esta distancia pero sin cambio de estado). Mirada: orientada al frente, hacia el fresno que se insinúa al fondo.",
+        "estado_salida_previsto": "Miguel — Pose: sigue caminando hacia el fondo del encuadre, donde apenas se distingue el contorno del gran fresno y el resplandor del estanque de luz estática. Mano derecha: vacía, sin objeto, sin cambio. Mano izquierda: vacía, sin objeto, sin cambio. Heridas: sin cambio, vibra tenuemente. Vestuario: sin cambios. Mirada: al frente, hacia el fresno y el resplandor lejano, primer punto de luz localizable de la escena.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, sin objeto, apenas distinguible por la distancia",
+            "mano_izquierda": "vacía, sin objeto, apenas distinguible por la distancia"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Gran plano general fijo: al fondo, apenas distinguible, el contorno del gran fresno y el resplandor del estanque de luz estática; Miguel avanza hacia ese punto con ambas manos vacías, sin objeto, sin cambio de pose respecto al plano anterior.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P06",
+      "orden": 6,
+      "duracion_seg": 8,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Picado suave, desde una elevación leve",
+      "movimiento_camara": "Grúa ascendente breve (crane up)",
+      "encuadre_inicial": "Miguel entra por la izquierda a la altura de sus hombros",
+      "encuadre_final": "La cámara se alza levemente y encuadra el gran fresno completo, corteza como lava enfriada, con el estanque de luz estática a sus pies",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Miguel llega al corazón de la arboleda; el fresno domina el encuadre.",
+      "accion_fondo": "Las raíces beben del estanque, cuya luz estática no ondula como agua normal.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P06",
+        "fuente_luz": "El estanque de luz estática, ya cercano, se vuelve fuente principal; el dosel difuso sigue iluminando el resto del claro",
+        "direccion": "Luz ascendente desde el estanque hacia el tronco y las raíces; difusa cenital sobre el resto del encuadre",
+        "dureza": "El reflejo del estanque es más definido que el entorno, sin llegar a dureza total: superficie estática, no ondulante",
+        "color_temperatura": "Blanco frío ambiental; el estanque vira a un blanco más luminoso, casi sin tinte",
+        "clima": "Aire inmóvil alrededor del estanque",
+        "ambiente": "La grúa revela la escala del fresno contra el resplandor constante a sus pies"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P06",
+        "vfx_principal": "Ninguno sobre Miguel (solo entra en cuadro); el efecto central es el fresno y el estanque.",
+        "vfx_fondo_simultaneo": "Raíces sumergidas en el estanque de luz estática: contacto sin generar ondas, salpicaduras ni reflejo especular móvil como haría agua real — la superficie de luz permanece uniforme pese al contacto de las raíces.",
+        "fisica_entorno": "Material: corteza como lava enfriada (textura rugosa oscura) + estanque de luz estática, no líquido convencional. Causa/contacto: las raíces están ya sumergidas desde el inicio, es un estado continuo de 'beber', no un impacto puntual. Trayectoria: ninguna onda se propaga. Resto: el brillo del estanque es idéntico en encuadre inicial y final.",
+        "limitacion_conocida": "Riesgo alto: el generador tiende a aplicar por defecto dinámica de agua (ondas, reflejo especular móvil) a cualquier superficie líquida-visual. El prompt debe negar explícitamente esa física ('sin ondas, sin salpicadura, brillo constante'); no hay prueba reproducible de que la herramienta respete esa negación sin generar movimiento de agua accidental."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P06",
+        "id_plano_anterior": "B1C01_S6_P05",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: entra por la izquierda a la altura de sus hombros, caminando, cámara en grúa ascendente (heredado de P05, corte de ángulo con la misma posición física de avance). Mano derecha: vacía, a la altura del muslo, sin objeto. Mano izquierda: vacía, a la altura del muslo, sin objeto. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible. Vestuario: armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda, visibilidad parcial. Mirada: al frente, hacia el fresno que empieza a dominar el encuadre.",
+        "estado_salida_previsto": "Miguel — Pose: llega al corazón de la arboleda; el fresno completo domina el encuadre, con el estanque de luz estática a sus pies; Miguel se detiene o reduce el paso ante la escala del árbol. Mano derecha: vacía, a la altura del muslo, sin objeto. Mano izquierda: vacía, a la altura del muslo, sin objeto. Heridas: sin cambio, vibra tenuemente. Vestuario: sin cambios. Mirada: fija en el fresno y en la base del tronco, hacia donde se encuentra clavada la espada (aún no revelada en este encuadre).",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, sin objeto, a la altura del muslo",
+            "mano_izquierda": "vacía, sin objeto, a la altura del muslo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "La grúa se alza y encuadra el gran fresno completo, corteza como lava enfriada, con el estanque de luz estática a sus pies y las raíces bebiendo de él sin ondas; Miguel ha entrado en cuadro por la izquierda, cuerpo entero, ambas manos vacías, sin objeto, mirada fija en el árbol.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P07",
+      "orden": 7,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano detalle (detail shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Travelling de aproximación lento (push-in) sobre la corteza",
+      "encuadre_inicial": "La corteza del fresno, textura de lava enfriada, áspera y negra, llena el cuadro",
+      "encuadre_final": "Al borde del encuadre se insinúa un filo de luz viva, aún sin revelar del todo",
+      "personajes_en_plano": [],
+      "accion_principal": "La textura rugosa y oscura del tronco se hace dominante en el cuadro.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P07",
+        "fuente_luz": "Luz ascendente del estanque, fuera de cuadro, roza el relieve de la corteza",
+        "direccion": "Rasante desde abajo, marcando cada grieta de la textura",
+        "dureza": "Dura sobre la corteza: bordes de sombra definidos en cada surco",
+        "color_temperatura": "Blanco frío con un filo dorado apenas insinuado en el borde del encuadre",
+        "clima": "Sin partículas visibles a esta distancia",
+        "ambiente": "El contraste de la corteza áspera se acentúa por la luz rasante"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P07",
+        "vfx_principal": "Insinuación controlada del filo de luz viva en el borde del encuadre, sin revelarlo del todo — debe funcionar como anclaje de color/forma para P09, no como una revelación distinta.",
+        "vfx_fondo_simultaneo": "No aplica (plano detalle sin personajes).",
+        "fisica_entorno": "Material: corteza rugosa y oscura tipo lava enfriada, dominante en cuadro. Causa: push-in de aproximación, sin contacto físico. Resto: la textura de la corteza se mantiene nítida hasta el borde donde se insinúa el filo.",
+        "limitacion_conocida": "El color e intensidad fijados aquí condicionan la coherencia de P09-P22; sin una referencia de imagen inicial fija, el color de la espada puede derivar entre tomas — problema de ajuste de color entre planos ya señalado en los desgloses de VFX consultados (Beeble)."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P07",
+        "id_plano_anterior": "B1C01_S6_P06",
+        "referencias_personajes": [],
+        "estado_entrada": "Miguel — fuera de encuadre en este plano detalle de la corteza (personajes_en_plano vacío), pero conservado en el inventario de continuidad: de pie junto al fresno (posición heredada de la salida de P06), cuerpo detenido o casi detenido tras la llegada. Mano derecha: vacía, a la altura del muslo, sin objeto, fuera de encuadre. Mano izquierda: vacía, a la altura del muslo, sin objeto, fuera de encuadre. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible. Vestuario: armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda, visibilidad parcial — sin cambio. Mirada: no visible en este encuadre (insert de corteza sin personajes), orientada hacia el tronco.",
+        "estado_salida_previsto": "Miguel — sigue fuera de encuadre, sin cambio físico alguno respecto a la entrada: el plano es un insert de la textura de la corteza, no de Miguel. Mano derecha: vacía, sin objeto, sin cambio. Mano izquierda: vacía, sin objeto, sin cambio. Heridas: sin cambio, vibra tenuemente. Vestuario: sin cambios. Mirada: sin cambio, orientada hacia el tronco (fuera de encuadre).",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, vacía, sin objeto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible (Miguel fuera de encuadre en este plano)",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "La corteza del fresno, textura de lava enfriada, negra y áspera, llena el cuadro; en el borde se insinúa un filo de luz viva sin revelar del todo; ningún personaje en cuadro — Miguel permanece fuera de campo con su estado físico íntegro, sin alterar.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P08",
+      "orden": 8,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio",
+      "angulo": "Picado leve",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Las raíces del fresno hundidas en el estanque que brilla con luz estática",
+      "encuadre_final": "Mismo encuadre; el tronco del fresno asciende fuera de cuadro, desenfocado al fondo",
+      "personajes_en_plano": [],
+      "accion_principal": "Las raíces del fresno beben de un estanque que brilla con luz estática.",
+      "accion_fondo": "El tronco del fresno permanece visible y desenfocado al fondo del encuadre.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P08",
+        "fuente_luz": "El estanque de luz estática, ahora fuente dominante y visible en cuadro",
+        "direccion": "Luz que sube en línea recta desde la superficie del estanque hacia las raíces sumergidas",
+        "dureza": "Reflejo estable, ni duro ni difuso: brillo parejo sin ondulación",
+        "color_temperatura": "Blanco luminoso, algo más frío que el resplandor dorado de la espada que vendrá después",
+        "clima": "El estanque no genera vapor ni onda: superficie perfectamente quieta",
+        "ambiente": "El tronco desenfocado al fondo recibe solo el resto difuso del dosel"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P08",
+        "vfx_principal": "Ninguno (sin personajes en plano).",
+        "vfx_fondo_simultaneo": "Raíces sumergidas en el estanque en primer término, tronco desenfocado al fondo. Misma regla que P06: sin ondas ni salpicadura, brillo constante en el punto de contacto raíz-estanque.",
+        "fisica_entorno": "Material: luz estática + raíces + corteza desenfocada. Causa: contacto ya establecido, sin variación temporal. Resto: el tronco permanece visible y desenfocado sin cambios de foco durante la toma.",
+        "limitacion_conocida": "Mismo riesgo que P06 de animación indebida del estanque; además, la estabilidad del desenfoque del tronco durante toda la toma no está garantizada — la guía de Google documenta el recurso de profundidad de campo pero no su consistencia sostenida."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P08",
+        "id_plano_anterior": "B1C01_S6_P07",
+        "referencias_personajes": [],
+        "estado_entrada": "Miguel — fuera de encuadre (personajes_en_plano vacío), heredado sin cambio de P07: de pie junto al fresno, mano derecha vacía a la altura del muslo, mano izquierda vacía a la altura del muslo, sin objeto en ninguna. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda, visibilidad parcial — sin cambio. Mirada: fuera de encuadre, orientada hacia el tronco/estanque.",
+        "estado_salida_previsto": "Miguel — sigue fuera de encuadre, sin cambio: el plano es un insert de las raíces y el estanque de luz estática, no de Miguel. Mano derecha: vacía, sin objeto. Mano izquierda: vacía, sin objeto. Heridas: sin cambio. Vestuario: sin cambios. Mirada: sin cambio, fuera de encuadre.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, vacía, sin objeto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible (Miguel fuera de encuadre en este plano)",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Raíces del fresno hundidas en el estanque de luz estática, sin ondas ni salpicadura; el tronco asciende desenfocado al fondo; ningún personaje en cuadro — Miguel permanece fuera de campo con su estado físico íntegro.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P09",
+      "orden": 9,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano detalle / insert shot",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo con cambio de foco (rack focus)",
+      "encuadre_inicial": "El punto donde la espada está clavada en el tronco, aún algo desenfocada",
+      "encuadre_final": "El foco se traslada a la hoja: no es metal forjado, sino luz viva que ha elegido tener peso, filo y contorno",
+      "personajes_en_plano": [],
+      "accion_principal": "Revelación de la naturaleza de la espada: luz viva, no metal forjado.",
+      "accion_fondo": "La textura de la corteza permanece nítida alrededor del filo.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P09",
+        "fuente_luz": "La propia hoja: luz viva que emite su propio resplandor, no reflejo de otra fuente",
+        "direccion": "Emitida desde el filo hacia fuera, sin dirección externa que la module",
+        "dureza": "Borde de luz nítido y estable, distinto del reflejo difuso del estanque",
+        "color_temperatura": "Dorado cálido, en contraste directo con el frío ambiental del dosel",
+        "clima": "Sin partículas; el filo no desprende resplandor difuso al aire",
+        "ambiente": "El cambio de foco de la corteza a la hoja revela la primera fuente cálida de la escena"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P09",
+        "vfx_principal": "Revelación central de la espada: la hoja debe leerse como luz viva con peso, filo y contorno definidos, no como un aura difusa. El rack focus traslada la atención de la corteza a la hoja sin que esta pierda forma sólida.",
+        "vfx_fondo_simultaneo": "La textura de la corteza permanece nítida alrededor del filo tras el cambio de foco, marcando contraste entre superficie rugosa (fondo) y superficie de luz con contorno limpio (sujeto).",
+        "fisica_entorno": "Material: luz viva con propiedades de sólido (forma, borde, volumen), no fuente lumínica difusa. Causa: ninguna — el objeto ya existe clavado en el tronco, el rack focus no altera su estado. Resto: contorno e intensidad deben mantenerse constantes desde este plano hasta el contacto en P22.",
+        "limitacion_conocida": "Punto de mayor riesgo técnico de la secuencia. Ni la documentación de Flow ni los testimonios consultados (Kling/yukumiverse) demuestran que un generador produzca de forma fiable 'luz con peso y contorno sólido' en vez de un halo difuso; PhyGenBench (ICML 2025) documenta específicamente dificultades de coherencia física en objetos no convencionales. Si el prompt solo no logra un contorno limpio y estable, la vía recomendada es fijar una referencia de imagen inicial exacta del diseño de la espada y, si persiste el fallo, tratarla como composición VFX aparte en vez de exigir que una sola toma lo resuelva."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P09",
+        "id_plano_anterior": "B1C01_S6_P08",
+        "referencias_personajes": [],
+        "estado_entrada": "Miguel — fuera de encuadre (personajes_en_plano vacío), heredado sin cambio de P08: de pie junto al fresno, mano derecha vacía a la altura del muslo, mano izquierda vacía a la altura del muslo, sin objeto en ninguna. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible — el instante narrativo de 'verla' aún no ha ocurrido en el montaje (ocurre en P10). Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda — sin cambio. Mirada: fuera de encuadre, orientada hacia el tronco/la espada.",
+        "estado_salida_previsto": "Miguel — sigue fuera de encuadre, sin cambio: este plano revela la naturaleza de la espada (luz viva, no metal forjado) mediante rack focus sobre el objeto, pero Miguel no aparece ni reacciona todavía en el montaje. Mano derecha: vacía, sin objeto. Mano izquierda: vacía, sin objeto. Heridas: sin cambio, vibra tenuemente. Vestuario: sin cambios. Mirada: sin cambio, fuera de encuadre.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, vacía, sin objeto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible (Miguel fuera de encuadre en este plano; el instante de verla ocurre en P10)",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "El foco se traslada de la corteza a la hoja clavada en el tronco: no es metal forjado sino luz viva con peso, filo y contorno sólido, de color dorado cálido; ningún personaje en cuadro — Miguel permanece fuera de campo, aún sin haber visto la espada en el montaje.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": [
+          "Riesgo técnico heredado del propio plano (limitacion_conocida de P09): lograr que la hoja se lea como 'luz con peso y contorno sólido' y no como un halo difuso no está garantizado por ninguna herramienta consultada; si el contorno no queda limpio y estable, la vía indicada por el doc 18 es fijar una imagen de referencia exacta de la espada y, si persiste el fallo, tratarla como composición VFX aparte."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P10",
+      "orden": 10,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano medio corto (medium close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo con cambio de foco (rack focus) del fondo al rostro",
+      "encuadre_inicial": "Miguel de frente, la espada visible y desenfocada al fondo, armadura dorada agrietada",
+      "encuadre_final": "El foco pasa a su rostro en el instante en que la ve; la espada queda desenfocada detrás",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El instante en que Miguel ve la espada; su rostro se detiene.",
+      "accion_fondo": "El resplandor de la hoja permanece constante, desenfocado, tras él.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P10",
+        "fuente_luz": "El resplandor dorado de la hoja, desenfocado al fondo, ilumina tenuemente el rostro de Miguel al pasar el foco",
+        "direccion": "Frontal baja, desde la posición de la espada clavada en el tronco",
+        "dureza": "Suave sobre el rostro, por estar la fuente desenfocada",
+        "color_temperatura": "Dorado cálido sobre la piel, frente al frío ambiental que rodea su figura",
+        "clima": "Aire quieto",
+        "ambiente": "El cambio de foco traslada también el protagonismo lumínico de la hoja al rostro"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P10",
+        "vfx_principal": "Rack focus del fondo (espada desenfocada) al rostro de Miguel, con la armadura dorada agrietada visible y coherente con su ficha de personaje.",
+        "vfx_fondo_simultaneo": "El resplandor de la hoja permanece constante y desenfocado tras el cambio de foco — mismo color e intensidad fijados en P09, sin variación pese a estar fuera de foco.",
+        "fisica_entorno": "Continuidad de estado, no interacción nueva: armadura agrietada (daño ya establecido, no se agrava aquí), luz de la espada estable en segundo plano.",
+        "limitacion_conocida": "Riesgo estándar de rack focus: que el color de la hoja desenfocada derive hacia un tono distinto al fijado en P09 por falta de anclaje de referencia; comprobar en revisión que el bokeh conserva la paleta establecida."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P10",
+        "id_plano_anterior": "B1C01_S6_P09",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: de frente, de pie y quieto ante el fresno, la espada visible y desenfocada al fondo (heredado del estado íntegro tras P09, ahora reincorporado al encuadre). Mano derecha: vacía, a la altura del muslo, sin objeto, guantelete agrietado. Mano izquierda: vacía, a la altura del muslo, sin objeto, guante intacto. Heridas: hueco bajo el esternón vibra tenuemente, sin marca visible. Vestuario: armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, alas plegadas tras la espalda con visibilidad parcial. Mirada: hacia el frente/la espada desenfocada al fondo, aún sin haberla reconocido.",
+        "estado_salida_previsto": "Miguel — Pose: el foco pasa a su rostro en el instante en que la ve; rostro detenido, cuerpo aún de frente y quieto. Mano derecha: vacía, sin objeto, sin cambio de posición. Mano izquierda: vacía, sin objeto, sin cambio de posición. Heridas: hueco bajo el esternón sigue vibrando tenuemente (la silenciación ocurre en el plano siguiente, P11); sin marca visible. Vestuario: sin cambios. Mirada: fija en la espada, ahora en foco de atención aunque la imagen la mantenga desenfocada tras él.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, sin objeto, a la altura del muslo",
+            "mano_izquierda": "vacía, sin objeto, a la altura del muslo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — vibra tenuemente, sin marca visible (aún no silenciado; el cambio ocurre en P11)",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "El foco pasa del fondo al rostro de Miguel en el instante exacto en que ve la espada; su rostro se detiene; el resplandor dorado de la hoja permanece constante y desenfocado tras él; ambas manos vacías a la altura del muslo, sin objeto, armadura y alas sin cambios.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P11",
+      "orden": 11,
+      "duracion_seg": 7,
+      "tipo_plano": "Primer plano (close-up)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Rostro de Miguel, mirada fija en la espada fuera de cuadro",
+      "encuadre_final": "Mismo encuadre; la quietud del rostro se sostiene",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El vacío bajo su esternón enmudece de golpe: no es una curación, es un silencio repentino y absoluto, como si alguien hubiera puesto una mano sobre una campana que vibraba.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P11",
+        "fuente_luz": "Resplandor dorado de la espada, constante fuera de cuadro",
+        "direccion": "Lateral baja sobre el rostro",
+        "dureza": "Suave, sin variación",
+        "color_temperatura": "Dorado cálido",
+        "clima": "Sin cambio en el aire",
+        "ambiente": "La luz no cambia: el silencio interior no tiene correlato lumínico, permanece estable"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P11",
+        "vfx_principal": "Ninguno. El vacío bajo el esternón que enmudece es una sensación interna sin correlato visual explícito ('no es una curación, es un silencio'); no añadir brillo, destello ni efecto en el pecho de Miguel.",
+        "vfx_fondo_simultaneo": "No aplica (primer plano de rostro).",
+        "fisica_entorno": "No aplica.",
+        "limitacion_conocida": "Riesgo de interpretación del prompt, no técnico: describir literalmente 'campana que deja de vibrar' puede tentar al generador a visualizar un efecto que el guion descarta explícitamente. Mantener el prompt centrado en la quietud del rostro."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P11",
+        "id_plano_anterior": "B1C01_S6_P10",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: rostro en primer plano, mirada fija en la espada fuera de cuadro (heredado de P10, mismo instante de reconocimiento). Mano derecha: fuera de encuadre (primer plano de rostro), presente y vacía, a la altura del muslo, sin objeto. Mano izquierda: fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Heridas: hueco bajo el esternón vibra tenuemente, sensación activa, sin marca visible en la piel. Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda — no evaluable en este primer plano de rostro, sin cambio de estado. Mirada: fija en la espada, fuera de cuadro.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre, la quietud del rostro se sostiene. Mano derecha: sigue fuera de encuadre, presente y vacía, sin cambio. Mano izquierda: sigue fuera de encuadre, presente y vacía, sin cambio. Heridas: el hueco bajo el esternón enmudece de golpe — se silencia por completo, como una mano sobre una campana que deja de vibrar; no está curado, está silenciado; sigue sin marca visible en la piel. Vestuario: sin cambios. Mirada: sigue fija en la espada, fuera de cuadro.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, vacía, sin objeto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo (evento de este plano: enmudece de golpe); no curado, silenciado; sin marca visible en la piel",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo — no representar visualmente el silencio (sin brillo, destello ni efecto en el pecho)"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano del rostro de Miguel, quietud sostenida; el vacío bajo su esternón acaba de enmudecer de golpe, sin ningún correlato visual en el pecho ni en el encuadre; la luz dorada de la espada, fuera de cuadro, permanece estable sobre el rostro.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel > heridas > hueco bajo el esternón > estado",
+            "antes": "vibra tenuemente, sensación activa de fondo, sin marca visible en la piel",
+            "despues": "enmudece de golpe, silenciado por completo — como una mano sobre una campana que deja de vibrar; no está curado, está silenciado; sigue sin marca visible en la piel",
+            "causa": "Reconocimiento de la espada Solmire tras verla en P10; accion_principal de P11: 'El vacío bajo su esternón enmudece de golpe... es un silencio repentino y absoluto'."
+          }
+        ],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P12",
+      "orden": 12,
+      "duracion_seg": 7,
+      "tipo_plano": "De plano medio a primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Zoom óptico lento (slow optical zoom / push-in) hacia el rostro",
+      "encuadre_inicial": "Plano medio de Miguel frente al fresno",
+      "encuadre_final": "Primer plano de su rostro, ojos fijos en la espada",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "El nombre de la espada le sube a la mente no como un recuerdo, sino como una ley que siempre había estado allí.",
+      "accion_fondo": "El resplandor de la hoja se mantiene constante, visible en el borde del encuadre.",
+      "dialogo_es": "Solmire. (pensamiento / V.O. — el nombre de la espada le subió a la mente no como un recuerdo, sino como una ley que siempre había estado allí)",
+      "dialogo_en": "Solmire. (thought / V.O. — the sword's name rose into his mind not as a memory but as a law that had always been there)",
+      "luz": {
+        "id_plano": "B1C01_S6_P12",
+        "fuente_luz": "Mismo resplandor dorado de la hoja, visible en el borde del encuadre",
+        "direccion": "Lateral baja, constante durante el acercamiento",
+        "dureza": "Suave",
+        "color_temperatura": "Dorado cálido, ganando presencia según el zoom cierra el encuadre",
+        "clima": "Aire inmóvil",
+        "ambiente": "El acercamiento óptico concentra la atención en el dorado sin introducir una fuente nueva"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P12",
+        "vfx_principal": "Ninguno visual — el nombre 'Solmire' sube a la mente de Miguel como pensamiento en V.O.; no representar con texto en pantalla, overlay ni destello asociado.",
+        "vfx_fondo_simultaneo": "El resplandor de la hoja se mantiene constante y visible en el borde del encuadre durante el zoom hacia el rostro, sin variación ligada al pensamiento de Miguel.",
+        "fisica_entorno": "Continuidad de la fuente de luz establecida en P09-P10, sin cambios.",
+        "limitacion_conocida": "Riesgo de que el generador vincule erróneamente un pulso o brillo de la espada al reconocimiento del nombre, sugiriendo una causalidad no escrita en este plano."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P12",
+        "id_plano_anterior": "B1C01_S6_P11",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: plano medio de Miguel frente al fresno, quieto, hueco bajo el esternón ya silenciado (heredado de P11). Mano derecha: fuera de encuadre inicialmente en el plano medio, presente y vacía, a la altura del muslo, sin objeto. Mano izquierda: fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Heridas: hueco bajo el esternón silenciado por completo, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda, visibilidad parcial. Mirada: fija en la espada.",
+        "estado_salida_previsto": "Miguel — Pose: el zoom óptico cierra hasta primer plano de su rostro; ojos fijos en la espada. Mano derecha: fuera de encuadre tras el zoom, presente y vacía, sin cambio. Mano izquierda: fuera de encuadre, presente y vacía, sin cambio. Heridas: hueco bajo el esternón sigue silenciado, sin cambio. Vestuario: sin cambios. Mirada: fija en la espada, visible en el borde del encuadre; el nombre 'Solmire' sube a su mente como pensamiento en V.O., sin representación visual (sin texto ni destello asociado).",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, vacía, sin objeto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano del rostro de Miguel al final del zoom, ojos fijos en la espada visible en el borde del encuadre, resplandor dorado constante; el nombre 'Solmire' sube a su mente como ley, no como recuerdo (V.O., sin overlay ni destello); ambas manos fuera de cuadro pero íntegras, vacías.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P13",
+      "orden": 13,
+      "duracion_seg": 6,
+      "tipo_plano": "Primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Rostro de Miguel, reconocimiento absoluto y aterrador",
+      "encuadre_final": "Mismo encuadre; el reconocimiento se sostiene",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "No piensa 'eso es una espada'; piensa, con reconocimiento absoluto y aterrador, que eso es lo que le fue arrebatado.",
+      "accion_fondo": "",
+      "dialogo_es": "Eso es lo que me fue arrebatado. (pensamiento / V.O.)",
+      "dialogo_en": "That is what was taken from me. (thought / V.O.)",
+      "luz": {
+        "id_plano": "B1C01_S6_P13",
+        "fuente_luz": "Resplandor dorado de la espada, fuera de cuadro",
+        "direccion": "Lateral baja",
+        "dureza": "Suave",
+        "color_temperatura": "Dorado cálido",
+        "clima": "Sin variación respecto al plano anterior",
+        "ambiente": "El reconocimiento se sostiene bajo el mismo raccord de luz que el plano previo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P13",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "No aplica (primer plano cerrado, sin espada en cuadro).",
+        "fisica_entorno": "No aplica.",
+        "limitacion_conocida": "Ninguna relevante; plano de actuación pura con V.O."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P13",
+        "id_plano_anterior": "B1C01_S6_P12",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: primer plano de rostro, reconocimiento absoluto y aterrador (heredado de P12, mismo raccord de luz). Mano derecha: fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Mano izquierda: fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas — sin cambio. Mirada: fija en la espada, fuera de cuadro.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre; el reconocimiento se sostiene ('eso es lo que me fue arrebatado', V.O.). Mano derecha: sin cambio, fuera de encuadre, vacía. Mano izquierda: sin cambio, fuera de encuadre, vacía. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: sin cambio, fija en la espada.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, vacía, sin objeto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano cerrado de Miguel, reconocimiento sostenido en el rostro; V.O.: 'Eso es lo que me fue arrebatado'; sin espada en cuadro; ambas manos fuera de plano pero íntegras según el inventario, sin cambio respecto al plano anterior.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P14",
+      "orden": 14,
+      "duracion_seg": 5,
+      "tipo_plano": "Plano medio",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo, breve pausa de quietud",
+      "encuadre_inicial": "Miguel inmóvil, la mirada aún en la espada",
+      "encuadre_final": "Mismo encuadre, sin cambio",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Quietud tras el reconocimiento, antes de moverse.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P14",
+        "fuente_luz": "Resplandor dorado de la espada y luz ambiental fría del dosel, ambos estables",
+        "direccion": "Dorado desde el frente bajo; frío difuso desde arriba",
+        "dureza": "Suave en ambas fuentes",
+        "color_temperatura": "Contraste sostenido entre el dorado frontal y el frío ambiental",
+        "clima": "Aire quieto",
+        "ambiente": "Pausa sin variación lumínica antes del movimiento"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P14",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "No aplica.",
+        "fisica_entorno": "No aplica — plano de quietud sin cambio de estado físico.",
+        "limitacion_conocida": "Ninguna."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P14",
+        "id_plano_anterior": "B1C01_S6_P13",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: plano medio, inmóvil, la mirada aún en la espada (heredado de P13, vuelta a encuadre medio). Mano derecha: vacía, a la altura del muslo, sin objeto, visible o al borde del encuadre según el corte. Mano izquierda: vacía, a la altura del muslo, sin objeto. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda. Mirada: fija en la espada.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre, sin cambio; quietud sostenida antes de moverse. Mano derecha: vacía, sin objeto, sin cambio de posición. Mano izquierda: vacía, sin objeto, sin cambio de posición. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: sin cambio, fija en la espada.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, sin objeto, a la altura del muslo",
+            "mano_izquierda": "vacía, sin objeto, a la altura del muslo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Miguel inmóvil en plano medio, pausa de quietud antes de moverse; ambas manos vacías a la altura del muslo, sin objeto; luz dorada de la espada y luz fría ambiental estables, sin variación; mirada fija en la espada.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P15",
+      "orden": 15,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano entero",
+      "angulo": "Altura de ojos, ligero contrapicado",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Miguel completo, detenido ante el fresno, la espada clavada en el tronco ante él",
+      "encuadre_final": "Mismo encuadre, sin cambio",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Se detiene ante el fresno.",
+      "accion_fondo": "El estanque de luz estática permanece visible a los pies del árbol.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P15",
+        "fuente_luz": "El estanque y la hoja combinados: base fría ascendente, filo dorado sobre el tronco",
+        "direccion": "Ascendente desde el estanque a los pies del fresno; dorado puntual en la posición de la espada",
+        "dureza": "El estanque aporta un brillo estable; la hoja, un punto más definido",
+        "color_temperatura": "Frío en la base, dorado en el punto de la espada: la composición reúne ambos extremos",
+        "clima": "Aire inmóvil alrededor del fresno",
+        "ambiente": "El leve contrapicado deja ver cómo ambas fuentes conviven en el mismo encuadre"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P15",
+        "vfx_principal": "Ninguno sobre Miguel.",
+        "vfx_fondo_simultaneo": "El estanque de luz estática permanece visible a los pies del árbol, sin ondas ni variación de brillo — misma regla que P05/P06/P08.",
+        "fisica_entorno": "Continuidad: la fuente de luz estática no ha cambiado de intensidad ni comportamiento desde su primera aparición en P05.",
+        "limitacion_conocida": "Mantener consistencia entre planos no contiguos del mismo estanque (P05, P06, P08, P15) es responsabilidad de la ficha de continuidad del entorno; no hay memoria automática de la herramienta entre generaciones separadas."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P15",
+        "id_plano_anterior": "B1C01_S6_P14",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: plano entero, ligero contrapicado; Miguel completo, detenido ante el fresno, la espada clavada en el tronco ante él (heredado de P14, ahora en cuerpo entero). Mano derecha: vacía, a la altura del muslo derecho, dedos relajados, sin objeto, guantelete agrietado. Mano izquierda: vacía, a la altura del muslo izquierdo, dedos relajados, sin objeto, guante intacto. Heridas: hueco bajo el esternón silenciado por completo, sin marca visible. Vestuario: armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, grebas y escarpes dorados intactos, alas plegadas tras la espalda con visibilidad parcial. Mirada: fija en la espada clavada en el tronco.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre, sin cambio; se detiene ante el fresno, a punto de comenzar el movimiento hacia la espada. Mano derecha: vacía, sin objeto, sin cambio de posición. Mano izquierda: vacía, sin objeto, sin cambio de posición. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: sin cambio, fija en la espada.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "vacía, sin objeto, a la altura del muslo derecho",
+            "mano_izquierda": "vacía, sin objeto, a la altura del muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Plano entero en ligero contrapicado: Miguel detenido ante el fresno, la espada de luz viva clavada en el tronco ante él, el estanque estático a los pies del árbol; ambas manos vacías a los costados, sin objeto; armadura y alas sin cambios.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P16",
+      "orden": 16,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano detalle (insert)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "La mano de Miguel, guantelete dorado agrietado, comienza a alzarse",
+      "encuadre_final": "La mano se sostiene alzada, temblando",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Su mano tiembla al alzarla.",
+      "accion_fondo": "Desenfocado, el resplandor de la hoja se mantiene constante detrás.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P16",
+        "fuente_luz": "Resplandor dorado de la hoja, desenfocado detrás de la mano",
+        "direccion": "Frontal baja sobre el guantelete agrietado",
+        "dureza": "Suave, por la fuente desenfocada",
+        "color_temperatura": "Dorado cálido sobre el metal agrietado del guantelete",
+        "clima": "Sin partículas",
+        "ambiente": "La grieta del guantelete queda legible por el contraste con el fondo dorado"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P16",
+        "vfx_principal": "La mano de Miguel (guantelete dorado agrietado) se alza temblando — animación de personaje, no efecto de entorno; el temblor debe leerse como tensión corporal, no como reacción a una fuerza externa visible.",
+        "vfx_fondo_simultaneo": "Desenfocado, el resplandor de la hoja se mantiene constante detrás, misma paleta fijada en P09.",
+        "fisica_entorno": "Continuidad del daño del guantelete (grietas ya establecidas, no cambian en este plano).",
+        "limitacion_conocida": "Ninguna específica de física de entorno; el riesgo es de continuidad de diseño del guantelete más que de simulación."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P16",
+        "id_plano_anterior": "B1C01_S6_P15",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: plano detalle sobre la mano derecha, que comienza a alzarse (heredado de P15: hasta este instante ambas manos vacías a los costados). Mano derecha: vacía, a la altura del muslo derecho, dedos relajados, sin objeto, guantelete dorado agrietado — inicio del movimiento de alzarse. Mano izquierda: fuera de encuadre en este insert, presente y vacía, a la altura del muslo izquierdo, sin objeto, guante intacto, sin cambio. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda. Mirada: fuera de encuadre (insert de mano), fija en la espada según el plano anterior.",
+        "estado_salida_previsto": "Miguel — Pose: la mano derecha se sostiene alzada a media altura, temblando, dedos extendidos, aún sin tocar la empuñadura. Mano derecha: alzada a media altura entre el muslo y el hombro, temblando visiblemente, dedos extendidos hacia la empuñadura, sin contacto, guantelete agrietado. Mano izquierda: sigue fuera de encuadre, presente y vacía, a la altura del muslo izquierdo, sin cambio. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: fuera de encuadre, sin cambio.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "alzada a media altura, temblando, dedos extendidos hacia la empuñadura, sin contacto aún",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, a la altura del muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Plano detalle: la mano derecha de Miguel, guantelete dorado agrietado, sostenida a media altura y temblando visiblemente, dedos extendidos hacia la empuñadura sin tocarla aún; desenfocado detrás, el resplandor dorado de la hoja se mantiene constante.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel > extremidades > mano_derecha > posicion",
+            "antes": "vacía, a la altura del muslo derecho, dedos relajados, sin objeto",
+            "despues": "alzándose y sostenida a media altura, temblando, dedos extendidos hacia la empuñadura, sin contacto",
+            "causa": "accion_principal de P16: 'Su mano tiembla al alzarla', tras el reconocimiento sostenido en P11-P15."
+          }
+        ],
+        "checklist_incidencias": [
+          "El guion (resumen de escena y accion_principal de P16-P22) habla siempre de 'la mano' en singular, sin especificar lado anatómico. Se ha fijado arbitrariamente la mano derecha como la que se alza y toca la empuñadura, manteniendo la izquierda vacía en el costado durante el resto de la secuencia, para evitar precisamente el salto de continuidad que este agente existe para prevenir. Esta asignación de lateralidad debe ser confirmada por el autor antes de generar cualquier plano de P16 en adelante — de cambiarla, hay que propagar el cambio a P17-P23."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P17",
+      "orden": 17,
+      "duracion_seg": 6,
+      "tipo_plano": "Primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Rostro de Miguel",
+      "encuadre_final": "Mismo encuadre, sin cambio",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Por un latido, el nombre 'Miguel' se siente como un título prestado.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P17",
+        "fuente_luz": "Resplandor dorado constante, fuera de cuadro",
+        "direccion": "Lateral baja",
+        "dureza": "Suave",
+        "color_temperatura": "Dorado cálido",
+        "clima": "Aire quieto",
+        "ambiente": "Mismo raccord que los primeros planos del reconocimiento: la duda no introduce cambio de luz"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P17",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "No aplica (primer plano cerrado).",
+        "fisica_entorno": "No aplica.",
+        "limitacion_conocida": "Ninguna."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P17",
+        "id_plano_anterior": "B1C01_S6_P16",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: primer plano de rostro, duda (heredado de P16: mano derecha alzada a media altura, temblando). Mano derecha: fuera de encuadre en este primer plano, presente, alzada a media altura entre el muslo y el hombro, temblando, dedos extendidos hacia la empuñadura, sin contacto. Mano izquierda: fuera de encuadre, presente y vacía, a la altura del muslo izquierdo, sin cambio. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda. Mirada: fija en la espada / en el punto donde se alza la mano.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre sostenido; por un latido, el nombre 'Miguel' se siente como un título prestado. Mano derecha: sin cambio, fuera de encuadre, alzada a media altura, temblando, sin contacto. Mano izquierda: sin cambio, fuera de encuadre, vacía. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: sin cambio, fija en la espada/mano.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, alzada a media altura, temblando, sin contacto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, a la altura del muslo izquierdo"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano cerrado del rostro de Miguel, la duda sostenida: por un latido su propio nombre se siente prestado; mismo raccord de luz que los planos previos de reconocimiento; ambas manos fuera de cuadro pero íntegras, la derecha aún alzada y temblando sin contacto.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P18",
+      "orden": 18,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano entero",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Miguel de cuerpo entero, mano alzada a medio camino hacia la espada",
+      "encuadre_final": "Mismo encuadre; la duda se sostiene en la postura",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La duda se sostiene en el cuerpo entero antes de decidir.",
+      "accion_fondo": "El resplandor de la hoja ilumina tenuemente su rostro y su mano alzada.",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P18",
+        "fuente_luz": "Resplandor de la hoja, ahora visible en cuadro completo junto a la figura de Miguel",
+        "direccion": "Dorado desde la empuñadura hacia el rostro y la mano alzada; frío ambiental desde arriba sobre el resto del cuerpo",
+        "dureza": "Suave en ambas fuentes",
+        "color_temperatura": "Dorado sobre la mitad orientada a la espada, frío en el resto de la silueta",
+        "clima": "Aire inmóvil",
+        "ambiente": "El cuerpo entero queda dividido entre las dos temperaturas de luz de la escena"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P18",
+        "vfx_principal": "Interacción de luz: el resplandor de la hoja ilumina tenuemente el rostro y la mano alzada de Miguel. Debe tratarse como luz de contacto direccional coherente con la posición de la espada, no como iluminación ambiental genérica.",
+        "vfx_fondo_simultaneo": "No aplica (la espada no está descrita como visible en el encuadre, solo su efecto lumínico sobre Miguel).",
+        "fisica_entorno": "Causa: proximidad de Miguel a la fuente de luz viva. Efecto: variación tenue de luz sobre mejilla/mano, con la misma paleta fijada en P09. Resto: la duda se sostiene en el cuerpo entero con iluminación estable durante todo el plano.",
+        "limitacion_conocida": "El banco de frases documenta bien este patrón para antorchas ('luz cálida varía sobre mejilla y guante próximos') pero no hay ejemplo verificado para una fuente de luz viva no ígnea; vigilar que el generador no le dé temperatura de color de llama en vez del tono ya establecido para la espada."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P18",
+        "id_plano_anterior": "B1C01_S6_P17",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: plano entero, cuerpo completo visible de nuevo; mano derecha a medio camino hacia la espada (heredado de P17, ahora en cuadro completo). Mano derecha: alzada a media altura entre el muslo y el hombro, temblando, dedos extendidos hacia la empuñadura, sin contacto, iluminada tenuemente por el resplandor dorado de la hoja. Mano izquierda: vacía, a la altura del muslo izquierdo, sin objeto, bajo la luz fría ambiental. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda. Mirada: fija en la espada/su propia mano.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre sostenido; la duda se sostiene en el cuerpo entero antes de decidir. Mano derecha: sin cambio, a medio camino hacia la espada, temblando, sin contacto, iluminación dorada tenue sobre mejilla/mano. Mano izquierda: sin cambio, vacía, al costado, bajo luz fría ambiental. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: sin cambio, fija en la espada/mano.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "alzada a media altura, temblando, dedos extendidos hacia la empuñadura, sin contacto, iluminada por el resplandor dorado",
+            "mano_izquierda": "vacía, al costado, sin objeto, bajo luz fría ambiental"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Plano entero fijo: Miguel de cuerpo completo, mano derecha a medio camino hacia la espada, temblando y tenuemente iluminada de dorado; mano izquierda vacía al costado bajo luz fría; el cuerpo entero queda dividido entre las dos temperaturas de luz de la escena.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P19",
+      "orden": 19,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano medio corto",
+      "angulo": "Sobre el hombro de Miguel (over-the-shoulder)",
+      "movimiento_camara": "Travelling de aproximación lento (push-in) hacia la empuñadura",
+      "encuadre_inicial": "Hombro y brazo extendido de Miguel en primer término; la empuñadura al fondo, aún fuera de alcance",
+      "encuadre_final": "Los dedos casi tocan la empuñadura; mano y empuñadura dentro del mismo encuadre",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "Sus dedos buscan la empuñadura.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P19",
+        "fuente_luz": "El resplandor dorado de la empuñadura, cada vez más dominante según la cámara avanza",
+        "direccion": "Frontal, directamente desde el punto hacia el que se extiende la mano",
+        "dureza": "El borde de la empuñadura se define con mayor nitidez a medida que el encuadre se cierra",
+        "color_temperatura": "Dorado cálido, ganando intensidad sobre el hombro y el brazo en primer término",
+        "clima": "Sin corrientes de aire perceptibles",
+        "ambiente": "El acercamiento convierte el dorado en la fuente que domina el encuadre"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P19",
+        "vfx_principal": "Ninguno — los dedos buscan la empuñadura sin contacto aún; no anticipar efecto de atracción, corona o vibración, que pertenece al contacto real en P22.",
+        "vfx_fondo_simultaneo": "La empuñadura mantiene su brillo constante al entrar en el mismo encuadre que la mano (over-the-shoulder), sin cambios previos al contacto.",
+        "fisica_entorno": "Continuidad de la fuente de luz, sin variación anticipada.",
+        "limitacion_conocida": "Riesgo de que el generador adelante un efecto de atracción o pulso antes del contacto narrativo real, rompiendo la secuencia causa→respuesta que exige el guion."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P19",
+        "id_plano_anterior": "B1C01_S6_P18",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: sobre el hombro de Miguel; hombro y brazo derecho extendidos en primer término, la empuñadura al fondo aún fuera de alcance (heredado de P18, cambio de ángulo con la misma posición física: mano a medio camino). Mano derecha: a medio camino hacia la espada, temblando, dedos extendidos, sin contacto, guantelete agrietado, ahora encuadrada en primer término. Mano izquierda: fuera de encuadre (over-the-shoulder), presente y vacía, al costado, sin objeto, sin cambio. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda. Mirada: no visible en este encuadre trasero, orientada hacia la empuñadura.",
+        "estado_salida_previsto": "Miguel — Pose: el push-in cierra el encuadre; los dedos de la mano derecha casi tocan la empuñadura, dentro del mismo plano que ella, aún sin contacto. Mano derecha: brazo extendido al máximo, dedos casi tocando la empuñadura, sin contacto todavía, guantelete agrietado. Mano izquierda: sigue fuera de encuadre, presente y vacía, al costado, sin cambio. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: no visible, orientada hacia la empuñadura.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "dedos casi tocando la empuñadura, brazo extendido al máximo, sin contacto aún",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, al costado"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Sobre el hombro de Miguel, push-in hacia la empuñadura: los dedos de la mano derecha casi la tocan, ambos elementos dentro del mismo encuadre, sin contacto todavía; el resplandor dorado domina la composición sobre el hombro y el brazo en primer término.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel > extremidades > mano_derecha > posicion",
+            "antes": "a medio camino hacia la espada, temblando, sin alcanzar la empuñadura",
+            "despues": "brazo extendido al máximo, dedos casi tocando la empuñadura, aún sin contacto",
+            "causa": "Push-in de aproximación sobre el hombro; accion_principal de P19: 'Sus dedos buscan la empuñadura'."
+          }
+        ],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P20",
+      "orden": 20,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano detalle",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Cámara en mano de oscilación muy leve (subtle handheld)",
+      "encuadre_inicial": "La hoja de luz viva, superficie que empieza a vibrar levemente",
+      "encuadre_final": "La vibración se sostiene, constante",
+      "personajes_en_plano": [],
+      "accion_principal": "Un zumbido grave comienza a crecer tras sus ojos, resonando con el hueco bajo sus costillas — sugerido visualmente por la vibración leve de la luz de la hoja.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P20",
+        "fuente_luz": "La propia hoja, cuya superficie de luz viva empieza a vibrar",
+        "direccion": "Emitida desde el filo, sin fuente externa",
+        "dureza": "El borde, antes estable, gana un temblor visible en la definición de su límite",
+        "color_temperatura": "Dorado cálido, sin variar de tono pese a la vibración",
+        "clima": "El aire permanece quieto pese a la vibración de la hoja",
+        "ambiente": "La oscilación leve de la cámara acompaña la vibración de la luz sin desestabilizar la lectura del filo"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P20",
+        "vfx_principal": "Vibración leve y sostenida en la superficie de la hoja de luz viva — correlato visual del zumbido grave que crece en la mente de Miguel. Causa: proximidad de Miguel, sin contacto físico aún. Trayectoria/escala: vibración localizada en la superficie de la hoja, sin propagarse a corteza ni estanque. Evolución: se sostiene constante hasta el corte, sin resolverse en este plano.",
+        "vfx_fondo_simultaneo": "No aplica (plano detalle sin fondo relevante).",
+        "fisica_entorno": "Sigue parcialmente el patrón 'entorno causado por el personaje' de la guía: la causa es la sola cercanía, no un contacto directo, por lo que la vibración debe leerse como reacción a la proximidad, no como movimiento espontáneo sin motivación.",
+        "limitacion_conocida": "El guion describe un componente auditivo interno ('zumbido... resonando con el hueco bajo sus costillas') que el plano solo puede sugerir visualmente mediante la vibración de superficie; la guía no ofrece patrón verificado para traducir una sensación interna-auditiva en efecto visual de entorno — el diseño de sonido debe cargar la parte que la imagen no resuelve."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P20",
+        "id_plano_anterior": "B1C01_S6_P19",
+        "referencias_personajes": [],
+        "estado_entrada": "Miguel — fuera de encuadre en este plano detalle de la hoja (personajes_en_plano vacío), heredado sin cambio de P19: mano derecha con los dedos casi tocando la empuñadura, sin contacto; mano izquierda vacía al costado. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas — sin cambio. Mirada: fuera de encuadre, orientada hacia la empuñadura.",
+        "estado_salida_previsto": "Miguel — sigue fuera de encuadre, sin cambio físico: la hoja vibra levemente por la proximidad de la mano (sin que esta llegue a tocarla en este plano). Mano derecha: sin cambio, dedos casi tocando, sin contacto. Mano izquierda: sin cambio, vacía al costado. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: sin cambio, fuera de encuadre.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, dedos casi tocando la empuñadura, sin contacto aún",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, al costado"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible (Miguel fuera de encuadre en este plano)",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Plano detalle de la hoja de luz viva: su superficie empieza a vibrar levemente y la vibración se sostiene constante hasta el corte, sin resolverse; correlato visual del zumbido grave que crece en la mente de Miguel; ningún personaje en cuadro — la mano de Miguel permanece fuera de campo, aún sin tocarla, según el inventario de continuidad.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P21",
+      "orden": 21,
+      "duracion_seg": 7,
+      "tipo_plano": "Primer plano",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Rostro de Miguel, tensión contenida",
+      "encuadre_final": "Mismo encuadre; la tensión se sostiene hasta el corte",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La pregunta interior se sostiene en su rostro antes del contacto.",
+      "accion_fondo": "",
+      "dialogo_es": "Si tocaba aquello, ¿seguiría siendo el General de la Hueste, o se convertiría en el primer verdugo de una verdad sin límites? (pensamiento / V.O.)",
+      "dialogo_en": "If he touched it, would he still be the General of the Host — or would he become the first executioner of a truth without limits? (thought / V.O.)",
+      "luz": {
+        "id_plano": "B1C01_S6_P21",
+        "fuente_luz": "Resplandor dorado de la espada, con la vibración leve del plano anterior sostenida fuera de cuadro",
+        "direccion": "Lateral baja sobre el rostro",
+        "dureza": "Suave",
+        "color_temperatura": "Dorado cálido",
+        "clima": "Aire inmóvil",
+        "ambiente": "La tensión del rostro se sostiene bajo la misma luz, sin cambio hasta el corte"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P21",
+        "vfx_principal": "Ninguno.",
+        "vfx_fondo_simultaneo": "No aplica (primer plano cerrado).",
+        "fisica_entorno": "No aplica.",
+        "limitacion_conocida": "Ninguna relevante; plano de actuación con V.O."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P21",
+        "id_plano_anterior": "B1C01_S6_P20",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: primer plano de rostro, tensión contenida (heredado de P19-P20: mano derecha con dedos casi tocando la empuñadura, sin contacto). Mano derecha: fuera de encuadre en este primer plano, presente, dedos casi tocando la empuñadura, sin contacto. Mano izquierda: fuera de encuadre, presente y vacía, al costado, sin cambio. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado, alas plegadas tras la espalda. Mirada: fija en el punto de contacto inminente, fuera de cuadro.",
+        "estado_salida_previsto": "Miguel — Pose: mismo encuadre sostenido hasta el corte; la pregunta interior se sostiene en su rostro antes del contacto ('¿seguiría siendo el General de la Hueste, o el primer verdugo...?', V.O.). Mano derecha: sin cambio, fuera de encuadre, dedos casi tocando, sin contacto. Mano izquierda: sin cambio, fuera de encuadre, vacía. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: sin cambio, fija en el punto de contacto inminente.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "fuera de encuadre, presente, dedos casi tocando la empuñadura, sin contacto aún",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, al costado"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Primer plano fijo del rostro de Miguel, tensión contenida sostenida hasta el corte, con la pregunta interior en V.O.; mismo raccord de luz dorada y vibración leve sostenida fuera de cuadro; la mano derecha permanece a punto de tocar, sin contacto todavía, según el inventario.",
+        "cambios_autorizados": [],
+        "checklist_incidencias": []
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P22",
+      "orden": 22,
+      "duracion_seg": 6,
+      "tipo_plano": "Plano detalle (insert)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Los dedos de Miguel a punto de tocar la empuñadura de luz viva",
+      "encuadre_final": "El instante exacto en que la piel toca la empuñadura; un destello breve nace en el punto de contacto",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "La piel toca la empuñadura.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P22",
+        "fuente_luz": "La empuñadura de luz viva; en el instante del contacto nace un destello breve en el punto de unión",
+        "direccion": "Desde el punto de contacto entre piel y empuñadura, expandiéndose momentáneamente",
+        "dureza": "El destello es duro y puntual, breve, distinto de la luz estable de los planos anteriores",
+        "color_temperatura": "El destello vira a un blanco dorado más intenso que el resto de la hoja",
+        "clima": "El destello no altera el aire: ninguna partícula reacciona",
+        "ambiente": "El único cambio lumínico brusco de toda la secuencia marca el instante exacto del contacto"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P22",
+        "vfx_principal": "Contacto piel-empuñadura: destello breve que nace en el punto exacto de contacto, siguiendo el patrón causa→respuesta→resto. Causa: el instante en que la piel toca la empuñadura de luz viva. Trayectoria/escala: el destello nace localizado en el punto de contacto, sin expandirse a un fogonazo que cubra la mano o el encuadre — debe leerse como 'nace', no como una explosión. Evolución: queda naciendo/creciendo al corte, sin resolverse del todo. Resto: se transporta como consecuencia directa al plano 23.",
+        "vfx_fondo_simultaneo": "No aplica (plano detalle cerrado en la mano y la empuñadura).",
+        "fisica_entorno": "Sigue el patrón 'entorno causado por el personaje': la reacción (destello) comienza exactamente en el contacto, no antes ni con retraso perceptible.",
+        "limitacion_conocida": "Riesgo de sobreexposición (blow-out) que oculte el instante de contacto en vez de mostrarlo con nitidez, y riesgo de deriva cromática respecto a la paleta de la espada fijada en P09; ninguna de las fuentes consultadas garantiza sincronización exacta entre contacto y aparición del destello por generación de texto a vídeo (ver tabla de límites de la guía, fila 'Sincronización exacta')."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P22",
+        "id_plano_anterior": "B1C01_S6_P21",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: plano detalle, los dedos de la mano derecha a punto de tocar la empuñadura de luz viva (heredado de P21, ahora reencuadrado en insert de mano/empuñadura). Mano derecha: dedos extendidos, a milímetros de la empuñadura, sin contacto todavía, guantelete dorado agrietado visible en el borde del encuadre. Mano izquierda: fuera de encuadre en este insert, presente y vacía, al costado, sin cambio. Heridas: hueco bajo el esternón silenciado, sin marca visible. Vestuario: armadura dorada con peto agrietado — parcialmente visible en el borde. Mirada: fuera de encuadre.",
+        "estado_salida_previsto": "Miguel — Pose: el instante exacto en que la piel toca la empuñadura; un destello breve nace en el punto de contacto. Mano derecha: en contacto con la empuñadura de luz viva, dedos posados sobre ella iniciando el agarre, destello breve naciendo en el punto exacto de unión, localizado, sin expandirse a fogonazo, aún creciendo/sin resolver al corte. Mano izquierda: sigue fuera de encuadre, presente y vacía, al costado, sin cambio. Heridas: sin cambio, silenciado. Vestuario: sin cambios. Mirada: fuera de encuadre.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "en contacto con la empuñadura de luz viva, dedos iniciando el agarre, destello breve naciendo en el punto de contacto",
+            "mano_izquierda": "fuera de encuadre, presente, vacía, al costado"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Plano detalle: en el instante exacto en que la piel de la mano derecha toca la empuñadura de luz viva, nace un destello breve, localizado en el punto de contacto, sin cubrir la mano ni el encuadre; queda naciendo/creciendo al corte, sin resolverse — se transporta como consecuencia directa al plano 23.",
+        "cambios_autorizados": [
+          {
+            "campo": "Miguel > extremidades > mano_derecha > contacto",
+            "antes": "dedos extendidos, a punto de tocar la empuñadura, sin contacto",
+            "despues": "piel en contacto con la empuñadura de luz viva; nace un destello breve, localizado, en el punto exacto de unión",
+            "causa": "Contacto narrativo central de la escena — accion_principal y luz de P22: 'la piel toca la empuñadura'; 'en el instante del contacto nace un destello breve'."
+          }
+        ],
+        "checklist_incidencias": [
+          "Riesgo heredado del propio plano (limitacion_conocida de P22): ninguna fuente consultada garantiza sincronización exacta entre el instante de contacto y la aparición del destello en generación de texto a vídeo; vigilar sobreexposición (blow-out) y deriva cromática respecto a la paleta de la espada fijada en P09 antes de aprobar la toma."
+        ]
+      }
+    },
+    {
+      "id_plano": "B1C01_S6_P23",
+      "orden": 23,
+      "duracion_seg": 7,
+      "tipo_plano": "Plano general (wide shot)",
+      "angulo": "Altura de ojos",
+      "movimiento_camara": "Plano fijo (locked-off)",
+      "encuadre_inicial": "Miguel de pie ante el fresno, la mano sobre la empuñadura, toda la arboleda visible alrededor",
+      "encuadre_final": "La arboleda desaparece por completo en el instante del contacto",
+      "personajes_en_plano": [
+        "Miguel"
+      ],
+      "accion_principal": "En el instante en que la piel toca la empuñadura, la arboleda desaparece.",
+      "accion_fondo": "",
+      "dialogo_es": "",
+      "dialogo_en": "",
+      "luz": {
+        "id_plano": "B1C01_S6_P23",
+        "fuente_luz": "En el instante del contacto, todas las fuentes de la arboleda —dosel difuso, estanque, hoja— desaparecen junto con el espacio",
+        "direccion": "Sin dirección: el encuadre pasa de la luz compuesta de la escena a la ausencia total",
+        "dureza": "Corte de luz total, sin transición de suavizado",
+        "color_temperatura": "De la mezcla fría/dorada al vacío, sin gradación intermedia",
+        "clima": "El aire desaparece junto con el resto del espacio",
+        "ambiente": "La desaparición de la arboleda se lee primero como desaparición de su luz"
+      },
+      "vfx": {
+        "id_plano": "B1C01_S6_P23",
+        "vfx_principal": "Ninguno sobre Miguel; el efecto central es la desaparición completa del entorno.",
+        "vfx_fondo_simultaneo": "Toda la arboleda visible alrededor de Miguel desaparece por completo en el instante del contacto — evento a escala de todo el encuadre, no localizado como los efectos anteriores. Debe ocurrir de forma instantánea y uniforme en toda la profundidad de campo dentro de la misma toma continua (cámara fija), evitando que se lea como corte de montaje, fundido direccional o disolución progresiva de un lado a otro.",
+        "fisica_entorno": "Material: todo el entorno construido en P01-P18 (troncos, hojas metálicas, luz uniforme, fresno, estanque). Causa: el contacto completado en P22, explícita y única. Trayectoria/escala: desaparición total y simultánea, sin onda expansiva ni barrido — el guion no describe progresión, solo 'en el instante... desaparece'. Resto: el guion no especifica qué queda en el encuadre después (negro, blanco, vacío u otra escena); ese dato falta y no debe inventarse aquí.",
+        "limitacion_conocida": "Segundo punto de mayor riesgo de la secuencia junto con P09. No existe en la guía ni patrón verificado ni precedente documentado para 'desaparición instantánea de un entorno completo en gran angular dentro de una sola toma continua' — ninguno de los casos del banco de frases (arena, cristal, tela/alas, fuego, agua) cubre un cambio de escala tan grande. El destino visual tras la desaparición no está definido en los planos entregados y debe resolverse con el bloque narrativo siguiente antes de generar. Si el prompt no logra una desaparición uniforme y no gradual en una sola generación, la guía recomienda componer pases separados (arboleda estática + desaparición) con la misma cámara, luz y oclusiones, presentando el resultado igualmente como un solo plano."
+      },
+      "continuidad": {
+        "id_plano": "B1C01_S6_P23",
+        "id_plano_anterior": "B1C01_S6_P22",
+        "referencias_personajes": [
+          {
+            "id_personaje": "Miguel",
+            "forma": "celestial",
+            "archivos": [
+              "character_library/angeles/Miguel/canonical/face_reference.png",
+              "character_library/angeles/Miguel/canonical/body_reference.png"
+            ]
+          }
+        ],
+        "estado_entrada": "Miguel — Pose: plano general fijo, de pie ante el fresno, la mano sobre la empuñadura, toda la arboleda visible alrededor (heredado de P22). Mano derecha: en contacto con la empuñadura de luz viva, dedos posados sobre ella, destello breve en el punto de contacto heredado de P22, aún naciendo/creciendo, sin resolver. Mano izquierda: vacía, al costado, sin objeto, sin cambio respecto a toda la secuencia. Heridas: hueco bajo el esternón silenciado por completo, sin marca visible. Vestuario: armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, grebas y escarpes dorados intactos, alas plegadas tras la espalda con visibilidad parcial. Mirada: fija en la empuñadura / en el punto de contacto.",
+        "estado_salida_previsto": "Miguel — Pose: en el instante en que la piel toca la empuñadura (contacto ya establecido y sostenido desde la entrada de este plano), la arboleda entera desaparece de golpe, instantánea y uniforme en todo el encuadre, sin onda expansiva ni barrido, sin fundido ni disolución progresiva. Mano derecha: sigue en contacto con la empuñadura, destello del contacto continúa, sin resolver — se hereda a la continuación narrativa siguiente. Mano izquierda: vacía, al costado, sin objeto, sin cambio. Heridas: hueco bajo el esternón sigue silenciado, sin marca visible. Vestuario: sin cambios en Miguel; el entorno que lo rodeaba (troncos, dosel, fresno, estanque) desaparece por completo. Mirada: fija en la empuñadura / en el punto donde estaba la espada, ahora rodeado de vacío.",
+        "manos_y_objetos": [
+          {
+            "id_personaje": "Miguel",
+            "mano_derecha": "en contacto sostenido con la empuñadura, destello del contacto continúa sin resolver",
+            "mano_izquierda": "vacía, al costado, sin objeto"
+          }
+        ],
+        "heridas_visibles": [
+          {
+            "id_personaje": "Miguel",
+            "herida": "hueco bajo el esternón — silenciado por completo, sin marca visible",
+            "lado": "centro, bajo el esternón",
+            "visibilidad": "oculta / sin correlato visual directo"
+          }
+        ],
+        "frame_final_descripcion": "Plano general fijo: Miguel de pie con la mano derecha sobre la empuñadura, mano izquierda vacía al costado; en el instante del contacto, toda la arboleda que lo rodeaba desaparece de golpe, instantánea y uniforme en toda la profundidad de campo, dentro de la misma toma continua de cámara fija; el guion no especifica qué queda en el encuadre después (negro, blanco u otra escena) y ese dato no se inventa aquí.",
+        "cambios_autorizados": [
+          {
+            "campo": "entorno > arboleda (troncos, dosel, fresno, estanque)",
+            "antes": "arboleda completa visible alrededor de Miguel, con toda la iluminación y elementos establecidos en P01-P18",
+            "despues": "desaparece por completo, de forma instantánea y uniforme en todo el encuadre",
+            "causa": "Contacto completado con la empuñadura en P22; resumen de escena y accion_principal de P23: 'en el instante en que la piel toca la empuñadura, la arboleda desaparece'."
+          }
+        ],
+        "checklist_incidencias": [
+          "Riesgo de mayor severidad de toda la secuencia, ya señalado en la limitacion_conocida del propio plano P23: no hay precedente verificado de una desaparición instantánea de un entorno completo en gran angular dentro de una sola toma continua; además, el destino visual tras la desaparición (qué queda en el encuadre) no está definido en los planos entregados y debe resolverse con el bloque narrativo siguiente antes de generar — de lo contrario, el resultado `pendiente` es obligatorio y no debe aprobarse por suposición."
+        ]
+      }
+    }
+  ],
+  "prompts_flow": [
+    {
+      "id_plano": "B1C01_S6_P01",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 8s (coincide con el guion) · 16:9 · 1 resultado · comprobar resolución disponible (1080p si Plus/Pro) en la sesión antes de enviar",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Un único plano general continuo, a la altura de los ojos. La cámara ejecuta un travelling lateral de seguimiento, a la misma velocidad que Miguel, ligeramente detrás y a un lado, desde que Miguel entra por la izquierda del encuadre en tres cuartos trasero hasta que avanza hacia el centro de la arboleda, con el espacio abierto insinuándose al fondo.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel en su forma celestial. Miguel está de pie iniciando la marcha, entrando por la izquierda en tres cuartos trasero, torso ligeramente rotado, peso repartiéndose entre los pies con la zancada inicial. Mano derecha vacía, dedos relajados, a la altura del muslo derecho, sin objeto, guantelete de cuero oscuro con protecciones doradas y grietas visibles. Mano izquierda vacía, dedos relajados, a la altura del muslo izquierdo, sin objeto, guante de cuero oscuro con protecciones doradas, intacto. Viste armadura celestial dorada radiante con filigrana de plumas y canales cian, peto con grietas visibles, estrella cian-blanca de ocho puntas sobre el esternón, faldones azul medianoche con bordes dorados sin roturas, grebas y escarpes dorados intactos, alas blanco perla plegadas y ceñidas tras la espalda con visibilidad parcial. Bajo el peto, un hueco en el esternón vibra tenuemente sin marca visible en la piel — no dibujar ninguna herida abierta. Su mirada está al frente, hacia el interior de la arboleda.\n[ACCIÓN] Miguel avanza hacia el centro de la arboleda, esperando la línea que no debía cruzar. Ninguna otra figura aparece en cuadro. Al terminar, sigue caminando con ambas manos vacías balanceándose naturalmente con la marcha, sin haber encontrado ningún límite.\n[ESPACIO, LUZ Y VFX] Filas de árboles con hojas de textura metálica pálida se suceden regulares a ambos lados; ningún otro personaje visible. Luz cenital difusa y envolvente que difunde el dosel de hojas metálicas, sin punto de origen localizable, sin lateralidad marcada, suave y sin bordes de sombra, blanco frío neutro, aire limpio completamente inmóvil. Los reflejos especulares de las hojas se desplazan solo por paralaje del travelling lateral, nunca por viento: no hay causa de viento establecida en la escena, no añadir ondulación de follaje. La luz uniforme sin sombra se sostiene en todo el encuadre pese al desplazamiento de cámara.\n[CONTINUIDAD Y AUDIO] Durante toda la toma, ambas manos de Miguel permanecen vacías y sin objeto; la armadura dorada agrietada y las alas plegadas no cambian. Se oyen pasos suaves y el silencio del aire inmóvil. Sin diálogo.",
+      "criterios_aceptacion": "Miguel mantiene ambas manos vacías y visibles durante todo el travelling; el guantelete derecho conserva las grietas y el izquierdo permanece intacto; no aparece ninguna herida visible en el pecho; las hojas metálicas reflejan luz solo por el movimiento de cámara, sin ondulación de viento; la luz permanece uniforme y sin sombra de extremo a extremo del plano; ninguna otra figura entra en cuadro."
+    },
+    {
+      "id_plano": "B1C01_S6_P02",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), plano general, altura de ojos, picado leve. Encuadre inicial: Miguel de cuerpo entero avanzando por el centro del claro. Encuadre final: mismo encuadre, sin cambio de cámara.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel, forma celestial. Entra en el plano en continuidad directa con el final del plano anterior: avanzando hacia el centro de la arboleda, cuerpo entero en movimiento de marcha regular. Mano derecha vacía, balanceo natural de la marcha a la altura del muslo derecho, sin objeto, guantelete agrietado. Mano izquierda vacía, mismo balanceo a la altura del muslo izquierdo, sin objeto, guante intacto. Hueco bajo el esternón sigue vibrando tenuemente, sin marca visible, oculto bajo el peto. Armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, grebas y escarpes intactos, alas plegadas con visibilidad parcial — sin cambios respecto al plano anterior. Mirada al frente, buscando sin hallar ninguna marca ni límite.\n[ACCIÓN] La línea que Miguel esperaba cruzar nunca llega; sigue caminando sin encontrarla. El terreno se abre sin ninguna transición visible entre un tramo y el siguiente.\n[ESPACIO, LUZ Y VFX] El terreno se ilumina de forma idéntica en cada tramo, sin marca ni línea que anuncie un límite. Luz difusa desde todas direcciones, sin eje dominante, suave, sombras prácticamente ausentes bajo los pies, blanco frío neutro sin variación, sin viento ni partículas. No insertar ningún elemento — línea, brillo, cambio de textura — que pueda leerse como el límite que el guion niega explícitamente.\n[CONTINUIDAD Y AUDIO] Ambas manos siguen vacías, sin objeto, en el mismo balanceo de marcha; armadura y alas sin cambios. Se oyen pasos regulares sobre terreno uniforme. Sin diálogo.",
+      "criterios_aceptacion": "No aparece ninguna línea, marca, brillo o cambio de textura que sugiera un umbral; ambas manos permanecen vacías; la iluminación es idéntica en todo el encuadre; la cámara no se mueve."
+    },
+    {
+      "id_plano": "B1C01_S6_P03",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 7s del guion → generar en 8s (Flow solo admite 4/6/8s en Veo 3.1 base) y recortar en montaje · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Travelling de acompañamiento (following shot) a distancia constante, detrás de Miguel, altura de ojos. Encuadre inicial: hombros y nuca de Miguel en primer término, el pasillo de árboles abierto delante. Encuadre final: mismo encuadre, los árboles empiezan a cerrarse detrás según avanza.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel, forma celestial, visto de espaldas. Camina sin volverse, hombros y nuca en primer término. Mano derecha fuera de encuadre por el cierre del plano medio, pero presente: vacía, balanceo de marcha a la altura del muslo derecho, sin objeto, guantelete agrietado. Mano izquierda fuera de encuadre, presente, vacía, mismo balanceo a la altura del muslo izquierdo, sin objeto, guante intacto. Hueco bajo el esternón sigue vibrando tenuemente, sin marca visible. Armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda con visibilidad parcial no evaluable de espaldas en este encuadre pero sin cambio de estado.\n[ACCIÓN] Miguel camina sin volverse, sosteniendo el peso de una mirada que no se ve. El camino recorrido se cierra gradualmente entre los troncos a su espalda.\n[ESPACIO, LUZ Y VFX] Dosel difuso; los troncos que se cierran tras él recortan levemente el fondo. Luz ambiental desde arriba con leve pérdida de claridad hacia los troncos que se aproximan por los laterales, suave, blanco frío. El cierre de árboles tras él resta luz al fondo sin proyectar sombra sobre Miguel. El aumento de densidad de troncos debe leerse como efecto de paralaje en profundidad al alejarse la cámara — los troncos NO se desplazan por sí mismos, permanecen estáticos; solo cambia la superposición en profundidad conforme avanza el plano.\n[CONTINUIDAD Y AUDIO] Ambas manos permanecen fuera de encuadre pero íntegras y vacías según el inventario; armadura y alas sin cambios. Se oyen pasos y el silencio del pasillo cerrándose. Sin diálogo.",
+      "criterios_aceptacion": "Los troncos permanecen estáticos, sin desplazamiento propio, solo aumenta su densidad aparente por paralaje; ningún tronco se anima ni se dobla; Miguel no vuelve el rostro hacia cámara; la distancia de la cámara respecto a Miguel se mantiene constante."
+    },
+    {
+      "id_plano": "B1C01_S6_P04",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Panorámica horizontal breve (pan), picado leve, desde atrás y arriba de Miguel. Encuadre inicial: Miguel de espaldas alejándose en el tercio inferior del cuadro. Encuadre final: la panorámica revela solo árboles y luz pareja donde antes se sentía una presencia.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. De espaldas, alejándose, en el tercio inferior del encuadre. Mano derecha visible pero pequeña en el encuadre, vacía, a la altura del muslo, balanceo de marcha, sin objeto. Mano izquierda visible pequeña, vacía, a la altura del muslo, mismo balanceo, sin objeto. Hueco bajo el esternón vibra tenuemente, sin marca visible. Armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda con visibilidad parcial, algo más perceptibles por el ángulo picado.\n[ACCIÓN] El camino recorrido queda vacío; esa mirada ajena del guardián sigue apoyada en la espalda de Miguel mucho después de que los árboles la oculten — sin ningún correlato visual: no dibujar ojo, sombra ni brillo que represente esa sensación.\n[ESPACIO, LUZ Y VFX] Ninguna otra figura visible en el barrido de la panorámica; el suelo vacío queda con claridad pareja, sin nada que la interrumpa. Dosel difuso ambiental, cenital, suave, blanco frío neutro, aire quieto sin corrientes.\n[CONTINUIDAD Y AUDIO] Ambas manos vacías, sin objeto añadido, sin cambio respecto al plano anterior; armadura y alas sin cambios. Se oye únicamente el aire quieto de la arboleda. Sin diálogo.",
+      "criterios_aceptacion": "La panorámica revela árboles y luz vacíos, sin ninguna figura añadida; no aparece ningún elemento (ojo, sombra, brillo) que sugiera visualmente la mirada ajena descrita; Miguel se aleja hasta quedar minúsculo, sin volverse."
+    },
+    {
+      "id_plano": "B1C01_S6_P05",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 7s del guion → generar en 8s y recortar en montaje · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), gran plano general (extreme wide shot), altura de ojos. Encuadre inicial: la arboleda se abre en un claro central. Encuadre final: al fondo, apenas distinguible, el contorno del gran fresno y el resplandor del estanque de luz estática.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Camina a distancia en el claro central, cuerpo entero minúsculo en el encuadre. Mano derecha vacía, a la altura del muslo, sin objeto, apenas distinguible por la distancia pero íntegra. Mano izquierda vacía, a la altura del muslo, sin objeto, apenas distinguible por la distancia. Hueco bajo el esternón vibra tenuemente, sin marca visible. Armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas con visibilidad parcial, no discernible a esta distancia pero sin cambio de estado. Mirada al frente, hacia el fresno que se insinúa al fondo.\n[ACCIÓN] Revelación a distancia del corazón de la arboleda: el gran fresno. Miguel sigue caminando hacia el fondo del encuadre, donde apenas se distingue su contorno y el resplandor del estanque.\n[ESPACIO, LUZ Y VFX] El resplandor estático del estanque se percibe como un punto de luz constante entre los árboles — primer punto de luz localizable de la escena. El dosel difuso ambiental cede protagonismo a ese resplandor lejano, que asciende desde el centro del fondo, aún tenue por la distancia, suave, sin definirse como fuente dura. El ambiente sigue frío; el punto lejano introduce un matiz cálido apenas perceptible: primer contraste de temperatura de color de la escena. Aire limpio, ninguna corriente perceptible. El estanque es una fuente fija, sin parpadeo ni variación de intensidad — no tratarlo como fuego: mantener intensidad constante toda la duración, sin oscilación.\n[CONTINUIDAD Y AUDIO] Ambas manos permanecen vacías, sin objeto, sin cambio de pose. Se oyen pasos lejanos amortiguados por la distancia. Sin diálogo.",
+      "criterios_aceptacion": "El resplandor del estanque no parpadea ni oscila como el fuego, mantiene intensidad constante; Miguel conserva ambas manos vacías incluso a esta distancia; el fresno y el estanque aparecen apenas distinguibles al fondo, sin revelarse por completo."
+    },
+    {
+      "id_plano": "B1C01_S6_P06",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 8s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Grúa ascendente breve (crane up), plano general, picado suave desde una elevación leve. Encuadre inicial: Miguel entra por la izquierda a la altura de sus hombros. Encuadre final: la cámara se alza levemente y encuadra el gran fresno completo, corteza como lava enfriada, con el estanque de luz estática a sus pies.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Entra por la izquierda, caminando. Mano derecha vacía, a la altura del muslo, sin objeto. Mano izquierda vacía, a la altura del muslo, sin objeto. Hueco bajo el esternón vibra tenuemente, sin marca visible. Armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas con visibilidad parcial. Mirada al frente, hacia el fresno que empieza a dominar el encuadre.\n[ACCIÓN] Miguel llega al corazón de la arboleda; el fresno domina el encuadre. Al terminar, Miguel se detiene o reduce el paso ante la escala del árbol, con la mirada fija en el tronco y en la base donde está clavada la espada, aún no revelada en este encuadre.\n[ESPACIO, LUZ Y VFX] Las raíces del fresno beben del estanque de luz estática, cuya luz no ondula como agua normal — sin ondas, sin salpicaduras, sin reflejo especular móvil pese al contacto de las raíces; la superficie permanece uniforme, en estado continuo de 'beber', no un impacto puntual. El estanque, ya cercano, se vuelve fuente principal; el dosel difuso sigue iluminando el resto del claro. Luz ascendente desde el estanque hacia el tronco y las raíces; difusa cenital sobre el resto. El reflejo del estanque es más definido que el entorno sin llegar a dureza total. Blanco frío ambiental; el estanque vira a un blanco más luminoso, casi sin tinte. Aire inmóvil. El brillo del estanque es idéntico en el encuadre inicial y final.\n[CONTINUIDAD Y AUDIO] Ambas manos de Miguel permanecen vacías, sin objeto, a la altura del muslo. Armadura y alas sin cambios. Se oye el ascenso de la cámara sin sonido asociado, aire inmóvil alrededor del estanque. Sin diálogo.",
+      "criterios_aceptacion": "El estanque no genera ondas, salpicaduras ni reflejo especular móvil pese al contacto de las raíces; la grúa revela el fresno completo sin cortes; Miguel conserva ambas manos vacías; ningún nuevo personaje aparece en cuadro."
+    },
+    {
+      "id_plano": "B1C01_S6_P07",
+      "ajustes": "Text to Video (sin personaje en plano; no consta imagen de referencia aprobada del fresno/corteza en los datos de esta pasada — si existe en character_library o un banco de entorno, adjuntarla y pasar a Ingredients to Video) · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [],
+      "prompt": "[ENCUADRE Y CÁMARA] Travelling de aproximación lento (push-in), plano detalle, altura de ojos. Encuadre inicial: la corteza del fresno, textura de lava enfriada, áspera y negra, llena el cuadro. Encuadre final: al borde del encuadre se insinúa un filo de luz viva, aún sin revelar del todo.\n[SUJETOS Y ESTADO] Ningún personaje en cuadro. Miguel permanece fuera de campo, de pie junto al fresno, con su estado físico íntegro sin alterar: ambas manos vacías a la altura del muslo, hueco bajo el esternón vibrando tenuemente sin marca visible, armadura dorada con peto agrietado y alas plegadas sin cambio.\n[ACCIÓN] La textura rugosa y oscura del tronco se hace dominante en el cuadro mediante el push-in.\n[ESPACIO, LUZ Y VFX] Luz ascendente del estanque, fuera de cuadro, roza el relieve de la corteza; rasante desde abajo, marcando cada grieta de la textura. Dura sobre la corteza: bordes de sombra definidos en cada surco. Blanco frío con un filo dorado apenas insinuado en el borde del encuadre. Sin partículas visibles a esta distancia. Insinuar de forma controlada, solo en el borde del encuadre, el filo de luz viva que se revelará en el plano siguiente — sin resolverlo del todo, debe funcionar como anclaje de color/forma para el plano de la revelación, no como una revelación distinta.\n[CONTINUIDAD Y AUDIO] La textura de la corteza se mantiene nítida hasta el borde donde se insinúa el filo; no aparece ningún personaje. Silencio ambiental, aire quieto. Sin diálogo.",
+      "criterios_aceptacion": "No aparece ningún personaje en cuadro; el filo de luz insinuado en el borde no se revela por completo; el color e intensidad de ese filo deben servir de anclaje cromático para el plano siguiente (mismo dorado cálido); la corteza mantiene su textura de lava enfriada, sin ablandarse ni animarse."
+    },
+    {
+      "id_plano": "B1C01_S6_P08",
+      "ajustes": "Text to Video (sin personaje en plano; misma salvedad que P07 sobre imagen de entorno no confirmada) · Veo 3.1 Fast (o Quality si se prioriza la definición del reflejo estático, dado que no requiere Ingredients) · duración objetivo 7s del guion → generar en 8s y recortar en montaje · 16:9 · 1 resultado",
+      "referencias_adjuntas": [],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), plano medio, picado leve. Encuadre inicial: las raíces del fresno hundidas en el estanque que brilla con luz estática. Encuadre final: mismo encuadre; el tronco del fresno asciende fuera de cuadro, desenfocado al fondo.\n[SUJETOS Y ESTADO] Ningún personaje en cuadro. Miguel permanece fuera de campo, heredando sin cambio su estado: de pie junto al fresno, ambas manos vacías a la altura del muslo, sin objeto, hueco bajo el esternón vibrando tenuemente sin marca visible, armadura y alas sin cambio.\n[ACCIÓN] Las raíces del fresno beben de un estanque que brilla con luz estática. El tronco del fresno permanece visible y desenfocado al fondo del encuadre, sin cambios de foco durante la toma.\n[ESPACIO, LUZ Y VFX] El estanque de luz estática es ahora fuente dominante y visible en cuadro. Luz que sube en línea recta desde la superficie del estanque hacia las raíces sumergidas. Reflejo estable, ni duro ni difuso: brillo parejo sin ondulación. Blanco luminoso, algo más frío que el resplandor dorado de la espada que aparecerá después. El estanque no genera vapor ni onda: superficie perfectamente quieta. El tronco desenfocado al fondo recibe solo el resto difuso del dosel. Mismo criterio que en el plano de la grúa: sin ondas ni salpicadura en el punto de contacto raíz-estanque, brillo constante.\n[CONTINUIDAD Y AUDIO] Ningún personaje en cuadro; el tronco permanece desenfocado sin variar de foco. Se oye un silencio quieto, sin corrientes de aire. Sin diálogo.",
+      "criterios_aceptacion": "El estanque no produce ondas ni salpicaduras en ningún momento del plano; el desenfoque del tronco se mantiene estable durante toda la toma; ningún personaje entra en cuadro."
+    },
+    {
+      "id_plano": "B1C01_S6_P09",
+      "ajustes": "Text to Video (mayor riesgo técnico de la secuencia; sin Ingredients porque no hay personaje ni referencia de espada confirmada en los datos — si existe una imagen aprobada del diseño de Solmire, usarla y pasar a Ingredients to Video) · Veo 3.1 Quality recomendado (prioriza fidelidad; no requiere Ingredients aquí); alternativa Fast si Quality no está disponible · duración objetivo 7s del guion → generar en 8s y recortar · 16:9 · considerar varios intentos dado el riesgo documentado (PhyGenBench, ICML 2025) en el propio plano",
+      "referencias_adjuntas": [],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo con cambio de foco (rack focus), plano detalle / insert shot, altura de ojos. Encuadre inicial: el punto donde la espada está clavada en el tronco, aún algo desenfocada. Encuadre final: el foco se traslada a la hoja: no es metal forjado, sino luz viva que ha elegido tener peso, filo y contorno.\n[SUJETOS Y ESTADO] Ningún personaje en cuadro. Miguel permanece fuera de campo, sin cambio: de pie junto al fresno, ambas manos vacías, hueco bajo el esternón vibrando tenuemente — el instante narrativo de verla aún no ha ocurrido en el montaje (ocurre en el plano siguiente).\n[ACCIÓN] Revelación de la naturaleza de la espada mediante el cambio de foco: la hoja debe leerse como luz viva con peso, filo y contorno definidos, sólida, no como un aura ni un halo difuso.\n[ESPACIO, LUZ Y VFX] La textura de la corteza permanece nítida alrededor del filo tras el cambio de foco, marcando contraste entre superficie rugosa (fondo) y superficie de luz con contorno limpio (sujeto). La propia hoja es la fuente de luz: emite su propio resplandor, no refleja otra fuente, emitida desde el filo hacia fuera sin dirección externa que la module. Borde de luz nítido y estable, distinto del reflejo difuso del estanque. Color dorado cálido, en contraste directo con el frío ambiental del dosel. Sin partículas; el filo no desprende resplandor difuso al aire. Fijar aquí el color e intensidad exactos de la espada: deben mantenerse constantes en todos los planos posteriores hasta el contacto (plano 22).\n[CONTINUIDAD Y AUDIO] Ningún personaje en cuadro. Silencio, sin viento. Sin diálogo.",
+      "criterios_aceptacion": "La hoja se lee como un objeto sólido con contorno definido, filo y volumen — no como un halo o aura difusa; el color dorado cálido fijado aquí debe servir de referencia exacta para todos los planos posteriores de la espada; la corteza alrededor permanece nítida; si el resultado no logra un contorno limpio y estable, rechazar la toma y, según el doc 14, considerar composición VFX aparte en vez de forzar una sola generación."
+    },
+    {
+      "id_plano": "B1C01_S6_P10",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo con cambio de foco (rack focus) del fondo al rostro, plano medio corto (medium close-up), altura de ojos. Encuadre inicial: Miguel de frente, la espada visible y desenfocada al fondo, armadura dorada agrietada. Encuadre final: el foco pasa a su rostro en el instante en que la ve; la espada queda desenfocada detrás.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. De frente, de pie y quieto ante el fresno, la espada visible y desenfocada al fondo. Mano derecha vacía, a la altura del muslo, sin objeto, guantelete agrietado. Mano izquierda vacía, a la altura del muslo, sin objeto, guante intacto. Hueco bajo el esternón vibra tenuemente, sin marca visible — aún no silenciado; el cambio ocurre en el plano siguiente. Armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, alas plegadas con visibilidad parcial. Mirada hacia el frente/la espada desenfocada al fondo, aún sin haberla reconocido.\n[ACCIÓN] El instante en que Miguel ve la espada; su rostro se detiene. Al terminar el rack focus, su mirada queda fija en la espada, ahora en foco de atención aunque la imagen la mantenga desenfocada tras él.\n[ESPACIO, LUZ Y VFX] El resplandor de la hoja permanece constante, desenfocado, tras él — mismo color e intensidad fijados en el plano anterior, sin variación pese a estar fuera de foco. El resplandor dorado de la hoja, desenfocado al fondo, ilumina tenuemente el rostro de Miguel al pasar el foco; frontal baja, desde la posición de la espada. Suave sobre el rostro, por estar la fuente desenfocada. Dorado cálido sobre la piel, frente al frío ambiental que rodea su figura. Aire quieto.\n[CONTINUIDAD Y AUDIO] Ambas manos vacías, sin objeto, sin cambio de posición. Armadura sin cambios. Se oye la respiración de Miguel deteniéndose. Sin diálogo (el reconocimiento es mudo en este plano).",
+      "criterios_aceptacion": "El rack focus va del fondo (espada desenfocada) al rostro de Miguel, sin saltar de golpe; el color del bokeh de la espada conserva la paleta dorada fijada en el plano anterior; las manos permanecen vacías; no hay marca visible en el pecho bajo la armadura."
+    },
+    {
+      "id_plano": "B1C01_S6_P11",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 7s del guion → generar en 8s y recortar en montaje · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), primer plano (close-up), altura de ojos. Encuadre inicial: rostro de Miguel, mirada fija en la espada fuera de cuadro. Encuadre final: mismo encuadre; la quietud del rostro se sostiene.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Rostro en primer plano, mirada fija en la espada fuera de cuadro. Mano derecha fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Mano izquierda fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Al entrar en el plano, el hueco bajo el esternón vibra tenuemente, sensación activa, sin marca visible en la piel.\n[ACCIÓN] El vacío bajo su esternón enmudece de golpe: no es una curación, es un silencio repentino y absoluto, como si alguien hubiera puesto una mano sobre una campana que vibraba. Al terminar, el hueco bajo el esternón queda silenciado por completo — no curado, silenciado — sin ningún cambio visible en la piel ni en el pecho: NO representar visualmente este silencio con brillo, destello ni efecto alguno en el pecho; el cambio es puramente interno y no tiene correlato visual. Toda la información de este cambio pasa por la quietud sostenida del rostro, no por un efecto en el cuerpo.\n[ESPACIO, LUZ Y VFX] Resplandor dorado de la espada, constante, fuera de cuadro. Lateral baja sobre el rostro, suave, sin variación, dorado cálido. Aire sin cambio. La luz no cambia: el silencio interior no tiene correlato lumínico, permanece estable.\n[CONTINUIDAD Y AUDIO] Ambas manos siguen fuera de encuadre, presentes y vacías, sin cambio. Silencio total, sin música ni efecto sonoro asociado al cambio interno. Sin diálogo.",
+      "criterios_aceptacion": "No aparece ningún brillo, destello ni efecto visual en el pecho o la piel de Miguel; el cambio del hueco bajo el esternón (de vibrar a silenciarse) es puramente narrativo/actuado en el rostro, sin correlato visual añadido por el generador; la luz dorada de fondo permanece estable sin variar de intensidad."
+    },
+    {
+      "id_plano": "B1C01_S6_P12",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 7s del guion → generar en 8s y recortar en montaje · 16:9 · 1 resultado · «Solmire» es pensamiento en V.O., no diálogo hablado: no debe generarse sincronía labial",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Zoom óptico lento (slow optical zoom / push-in) hacia el rostro, altura de ojos. Encuadre inicial: plano medio de Miguel frente al fresno. Encuadre final: primer plano de su rostro, ojos fijos en la espada.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Plano medio de Miguel frente al fresno, quieto, hueco bajo el esternón ya silenciado. Mano derecha fuera de encuadre inicialmente, presente y vacía, a la altura del muslo, sin objeto. Mano izquierda fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Mirada fija en la espada.\n[ACCIÓN] El nombre de la espada le sube a la mente no como un recuerdo, sino como una ley que siempre había estado allí. Ningún gesto corporal marca este instante: el zoom cierra sobre el rostro mientras la mirada permanece fija en la espada, visible en el borde del encuadre.\n[ESPACIO, LUZ Y VFX] El resplandor de la hoja se mantiene constante y visible en el borde del encuadre durante el zoom, sin variación ligada al pensamiento de Miguel — no vincular ningún pulso o brillo de la espada al reconocimiento del nombre; no hay causalidad visual escrita en este plano entre pensamiento y espada. Mismo resplandor dorado de la hoja, lateral baja, constante, suave, dorado cálido ganando presencia según el zoom cierra el encuadre. Aire inmóvil.\n[CONTINUIDAD Y AUDIO] Ambas manos permanecen fuera de encuadre, presentes y vacías, sin cambio. Hueco bajo el esternón sigue silenciado, sin cambio. Se oye únicamente el silencio del claro. Miguel (pensamiento / V.O., sin sincronía labial): «Solmire.» / Michael (thought / V.O., no lip sync): \"Solmire.\"",
+      "criterios_aceptacion": "La palabra 'Solmire' se entrega como voz en off pura, sin que los labios de Miguel se muevan ni gesticulen como si hablara en voz alta; no aparece ningún texto en pantalla ni overlay; el resplandor de la espada no varía ni pulsa en sincronía con el pensamiento; el zoom termina en primer plano con la mirada fija en la espada."
+    },
+    {
+      "id_plano": "B1C01_S6_P13",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado · misma nota de V.O. sin sincronía labial que P12",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), primer plano, altura de ojos. Encuadre inicial: rostro de Miguel, reconocimiento absoluto y aterrador. Encuadre final: mismo encuadre; el reconocimiento se sostiene.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Primer plano de rostro, reconocimiento absoluto y aterrador, mismo raccord de luz que el plano anterior. Mano derecha fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Mano izquierda fuera de encuadre, presente y vacía, a la altura del muslo, sin objeto. Hueco bajo el esternón silenciado, sin marca visible.\n[ACCIÓN] Miguel no piensa 'eso es una espada'; piensa, con reconocimiento absoluto y aterrador, que eso es lo que le fue arrebatado. El rostro sostiene ese reconocimiento sin gesto añadido hasta el corte.\n[ESPACIO, LUZ Y VFX] Resplandor dorado de la espada, fuera de cuadro, lateral baja, suave, dorado cálido, sin variación respecto al plano anterior. El reconocimiento se sostiene bajo el mismo raccord de luz.\n[CONTINUIDAD Y AUDIO] Ambas manos fuera de encuadre, sin cambio, vacías. Silencio del claro. Miguel (pensamiento / V.O., sin sincronía labial): «Eso es lo que me fue arrebatado.» / Michael (thought / V.O., no lip sync): \"That is what was taken from me.\"",
+      "criterios_aceptacion": "La réplica de V.O. no genera movimiento labial visible en Miguel; el raccord de luz es idéntico al plano anterior; no aparece la espada en cuadro; el rostro sostiene el reconocimiento sin gesto añadido."
+    },
+    {
+      "id_plano": "B1C01_S6_P14",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 5s del guion → generar en 6s (mínimo admitido tras 4s; Flow solo admite 4/6/8s) y recortar en montaje al punto exacto · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo, breve pausa de quietud, plano medio, altura de ojos. Encuadre inicial: Miguel inmóvil, la mirada aún en la espada. Encuadre final: mismo encuadre, sin cambio.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Plano medio, inmóvil, la mirada aún en la espada. Mano derecha vacía, a la altura del muslo, sin objeto, visible o al borde del encuadre según el corte. Mano izquierda vacía, a la altura del muslo, sin objeto. Hueco bajo el esternón silenciado, sin marca visible. Armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas tras la espalda.\n[ACCIÓN] Quietud tras el reconocimiento, antes de moverse. Ningún gesto corporal ocurre en este plano.\n[ESPACIO, LUZ Y VFX] Resplandor dorado de la espada y luz ambiental fría del dosel, ambos estables. Dorado desde el frente bajo; frío difuso desde arriba. Suave en ambas fuentes. Contraste sostenido entre el dorado frontal y el frío ambiental. Aire quieto, pausa sin variación lumínica antes del movimiento.\n[CONTINUIDAD Y AUDIO] Ambas manos vacías, sin objeto, sin cambio de posición. Armadura y alas sin cambios. Silencio previo al movimiento. Sin diálogo.",
+      "criterios_aceptacion": "No hay ningún gesto corporal nuevo en este plano (es una pausa pura); la luz no varía; las manos permanecen vacías y en la misma posición que el plano anterior; recortar en montaje a los 5 segundos indicados por el guion si el resultado generado en 6s incluye fotogramas sobrantes."
+    },
+    {
+      "id_plano": "B1C01_S6_P15",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), plano entero, altura de ojos con ligero contrapicado. Encuadre inicial: Miguel completo, detenido ante el fresno, la espada clavada en el tronco ante él. Encuadre final: mismo encuadre, sin cambio.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Plano entero, Miguel completo, detenido ante el fresno, la espada clavada en el tronco ante él. Mano derecha vacía, a la altura del muslo derecho, dedos relajados, sin objeto, guantelete agrietado. Mano izquierda vacía, a la altura del muslo izquierdo, dedos relajados, sin objeto, guante intacto. Hueco bajo el esternón silenciado por completo, sin marca visible. Armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, grebas y escarpes dorados intactos, alas plegadas con visibilidad parcial. Mirada fija en la espada clavada en el tronco.\n[ACCIÓN] Miguel se detiene ante el fresno, a punto de comenzar el movimiento hacia la espada. Ningún gesto se inicia todavía en este plano.\n[ESPACIO, LUZ Y VFX] El estanque de luz estática permanece visible a los pies del árbol, sin ondas ni variación de brillo — misma regla que en los planos anteriores del estanque. Base fría ascendente desde el estanque a los pies del fresno; filo dorado puntual en la posición de la espada. El estanque aporta un brillo estable; la hoja, un punto más definido. Frío en la base, dorado en el punto de la espada: la composición reúne ambos extremos. Aire inmóvil. El leve contrapicado deja ver cómo ambas fuentes conviven en el mismo encuadre.\n[CONTINUIDAD Y AUDIO] Ambas manos vacías, sin objeto, a los costados; armadura y alas sin cambios. Silencio ambiental. Sin diálogo.",
+      "criterios_aceptacion": "El estanque a los pies del fresno no genera ondas ni variación de brillo; ambas manos de Miguel permanecen vacías a los costados; la espada visible en el tronco conserva el mismo color dorado fijado en el plano de su revelación."
+    },
+    {
+      "id_plano": "B1C01_S6_P16",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), plano detalle (insert), altura de ojos. Encuadre inicial: la mano de Miguel, guantelete dorado agrietado, comienza a alzarse. Encuadre final: la mano se sostiene alzada, temblando.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Plano detalle sobre la mano DERECHA (lateralidad fijada arbitrariamente en esta pasada, pendiente de confirmación del autor — ver checklist del plano), que comienza a alzarse desde su posición previa vacía a la altura del muslo derecho, dedos relajados, sin objeto, guantelete dorado agrietado. La mano izquierda queda fuera de encuadre en este insert, presente y vacía, a la altura del muslo izquierdo, sin objeto, guante intacto, sin cambio.\n[ACCIÓN] Su mano derecha tiembla al alzarla. Al terminar, la mano derecha se sostiene alzada a media altura entre el muslo y el hombro, temblando visiblemente, dedos extendidos hacia la empuñadura, sin contacto aún.\n[ESPACIO, LUZ Y VFX] Desenfocado detrás de la mano, el resplandor de la hoja se mantiene constante, misma paleta dorada fijada en el plano de la revelación de la espada. Frontal baja sobre el guantelete agrietado, suave por la fuente desenfocada, dorado cálido sobre el metal agrietado. Sin partículas. La grieta del guantelete queda legible por el contraste con el fondo dorado. El temblor de la mano debe leerse como tensión corporal del propio Miguel, no como reacción a una fuerza externa visible — no animar ningún efecto de atracción magnética ni fuerza que tire de la mano.\n[CONTINUIDAD Y AUDIO] La mano izquierda permanece fuera de encuadre, presente y vacía, sin cambio. Se oye el temblor sutil de la respiración. Sin diálogo.",
+      "criterios_aceptacion": "Es la mano derecha (guantelete agrietado) la que se alza, nunca la izquierda; el temblor se lee como tensión muscular propia, sin ningún efecto de atracción o fuerza externa visible; la mano no llega a tocar la empuñadura en este plano; el resplandor de fondo conserva la paleta dorada ya fijada."
+    },
+    {
+      "id_plano": "B1C01_S6_P17",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), primer plano, altura de ojos. Encuadre inicial: rostro de Miguel. Encuadre final: mismo encuadre, sin cambio.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Primer plano de rostro, heredando la duda del plano anterior: mano derecha fuera de encuadre, presente, alzada a media altura entre el muslo y el hombro, temblando, dedos extendidos hacia la empuñadura, sin contacto. Mano izquierda fuera de encuadre, presente y vacía, a la altura del muslo izquierdo, sin cambio. Hueco bajo el esternón silenciado, sin marca visible.\n[ACCIÓN] Por un latido, el nombre 'Miguel' se siente como un título prestado. Ningún gesto corporal nuevo; el rostro sostiene la duda.\n[ESPACIO, LUZ Y VFX] Resplandor dorado constante, fuera de cuadro, lateral baja, suave, dorado cálido. Mismo raccord que los primeros planos anteriores del reconocimiento: la duda no introduce cambio de luz.\n[CONTINUIDAD Y AUDIO] La mano derecha permanece fuera de encuadre, alzada y temblando, sin contacto; la izquierda fuera de encuadre, vacía. Silencio. Sin diálogo (la duda es interna, sin V.O. en este plano según el guion).",
+      "criterios_aceptacion": "No hay diálogo ni V.O. en este plano; la luz es idéntica a los primeros planos anteriores; el rostro expresa duda sin gesto corporal nuevo."
+    },
+    {
+      "id_plano": "B1C01_S6_P18",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), plano entero, altura de ojos. Encuadre inicial: Miguel de cuerpo entero, mano alzada a medio camino hacia la espada. Encuadre final: mismo encuadre; la duda se sostiene en la postura.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Cuerpo completo visible; mano derecha alzada a media altura entre el muslo y el hombro, temblando, dedos extendidos hacia la empuñadura, sin contacto, iluminada tenuemente por el resplandor dorado de la hoja. Mano izquierda vacía, a la altura del muslo izquierdo, sin objeto, bajo la luz fría ambiental. Hueco bajo el esternón silenciado, sin marca visible. Armadura dorada con peto agrietado, faldones azul medianoche, alas plegadas.\n[ACCIÓN] La duda se sostiene en el cuerpo entero antes de decidir. Ningún gesto avanza más allá de lo heredado.\n[ESPACIO, LUZ Y VFX] El resplandor de la hoja ilumina tenuemente el rostro y la mano alzada de Miguel: luz de contacto direccional coherente con la posición de la espada, no iluminación ambiental genérica — mantener la misma paleta dorada cálida ya fijada, sin virar hacia tono de llama. Dorado desde la empuñadura hacia el rostro y la mano alzada; frío ambiental desde arriba sobre el resto del cuerpo. Suave en ambas fuentes. Dorado sobre la mitad orientada a la espada, frío en el resto de la silueta. Aire inmóvil. El cuerpo entero queda dividido entre las dos temperaturas de luz de la escena.\n[CONTINUIDAD Y AUDIO] Mano derecha alzada y temblando, sin contacto; mano izquierda vacía al costado. Armadura y alas sin cambios. Silencio. Sin diálogo.",
+      "criterios_aceptacion": "La luz dorada sobre mejilla y mano alzada conserva el mismo tono cálido fijado en la revelación de la espada, sin derivar hacia temperatura de fuego; la mitad del cuerpo orientada al frío ambiental mantiene tono neutro; la mano izquierda permanece vacía al costado."
+    },
+    {
+      "id_plano": "B1C01_S6_P19",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 7s del guion → generar en 8s y recortar en montaje · 16:9 · 1 resultado",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Travelling de aproximación lento (push-in) hacia la empuñadura, plano medio corto, sobre el hombro de Miguel (over-the-shoulder). Encuadre inicial: hombro y brazo extendido de Miguel en primer término; la empuñadura al fondo, aún fuera de alcance. Encuadre final: los dedos casi tocan la empuñadura; mano y empuñadura dentro del mismo encuadre.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Hombro y brazo derecho extendidos en primer término. Mano derecha a medio camino hacia la espada, temblando, dedos extendidos, sin contacto, guantelete agrietado, ahora encuadrada en primer término. Mano izquierda fuera de encuadre (composición over-the-shoulder), presente y vacía, al costado, sin objeto, sin cambio.\n[ACCIÓN] Sus dedos buscan la empuñadura. Al terminar el push-in, el brazo derecho queda extendido al máximo, los dedos casi tocando la empuñadura, sin contacto todavía.\n[ESPACIO, LUZ Y VFX] El resplandor dorado de la empuñadura se vuelve cada vez más dominante según la cámara avanza; frontal, directamente desde el punto hacia el que se extiende la mano. El borde de la empuñadura se define con mayor nitidez a medida que el encuadre se cierra. Dorado cálido, ganando intensidad sobre el hombro y el brazo en primer término. Sin corrientes de aire perceptibles. La empuñadura mantiene su brillo constante al entrar en el mismo encuadre que la mano, sin cambios previos al contacto — no anticipar ningún efecto de atracción, corona o vibración: ese efecto pertenece exclusivamente al plano del contacto real (plano 22), no a este.\n[CONTINUIDAD Y AUDIO] La mano izquierda permanece fuera de encuadre, vacía, al costado, sin cambio. Se oye la respiración contenida de Miguel. Sin diálogo.",
+      "criterios_aceptacion": "Los dedos llegan a estar muy cerca de la empuñadura pero NO la tocan en ningún fotograma de este plano; no aparece ningún efecto de atracción, corona ni vibración anticipada; el color de la empuñadura coincide con el dorado fijado en el plano de su revelación."
+    },
+    {
+      "id_plano": "B1C01_S6_P20",
+      "ajustes": "Text to Video (sin personaje en plano; misma salvedad que P07/P08/P09 sobre imagen de entorno no confirmada) · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado",
+      "referencias_adjuntas": [],
+      "prompt": "[ENCUADRE Y CÁMARA] Cámara en mano de oscilación muy leve (subtle handheld), plano detalle, altura de ojos. Encuadre inicial: la hoja de luz viva, superficie que empieza a vibrar levemente. Encuadre final: la vibración se sostiene, constante.\n[SUJETOS Y ESTADO] Ningún personaje en cuadro. Miguel permanece fuera de encuadre, heredando sin cambio: mano derecha con los dedos casi tocando la empuñadura, sin contacto; mano izquierda vacía al costado; hueco bajo el esternón silenciado, sin marca visible.\n[ACCIÓN] Un zumbido grave comienza a crecer tras los ojos de Miguel, resonando con el hueco bajo sus costillas — sugerido visualmente solo por la vibración leve de la superficie de la hoja, sin mostrar a Miguel ni ningún otro correlato visual. La vibración es causada por la sola proximidad de la mano de Miguel (fuera de cuadro), sin contacto físico todavía; se sostiene constante hasta el corte, sin resolverse en este plano.\n[ESPACIO, LUZ Y VFX] La propia hoja es la fuente, cuya superficie de luz viva empieza a vibrar; emitida desde el filo, sin fuente externa. El borde, antes estable, gana un temblor visible en la definición de su límite, sin cambiar de color: dorado cálido, sin variar de tono pese a la vibración. El aire permanece quieto pese a la vibración de la hoja. La oscilación leve de la cámara acompaña la vibración de la luz sin desestabilizar la lectura del filo. La vibración queda localizada en la superficie de la hoja, sin propagarse a la corteza ni al estanque.\n[CONTINUIDAD Y AUDIO] Ningún personaje en cuadro. Se sugiere un zumbido grave sutil en el diseño de sonido (a cargo de posproducción, no del vídeo generado). Sin diálogo.",
+      "criterios_aceptacion": "La vibración de la hoja no se propaga a la corteza ni al estanque; el color dorado de la hoja no cambia pese a la vibración; ningún personaje aparece en cuadro; la vibración se sostiene sin resolverse hasta el corte."
+    },
+    {
+      "id_plano": "B1C01_S6_P21",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 7s del guion → generar en 8s y recortar en montaje · 16:9 · 1 resultado · misma nota de V.O. sin sincronía labial que P12/P13",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), primer plano, altura de ojos. Encuadre inicial: rostro de Miguel, tensión contenida. Encuadre final: mismo encuadre; la tensión se sostiene hasta el corte.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. Primer plano de rostro, tensión contenida, heredando de los planos 19-20: mano derecha fuera de encuadre, presente, dedos casi tocando la empuñadura, sin contacto. Mano izquierda fuera de encuadre, presente y vacía, al costado, sin cambio. Hueco bajo el esternón silenciado, sin marca visible.\n[ACCIÓN] La pregunta interior se sostiene en su rostro antes del contacto. Ningún gesto corporal nuevo; la mano derecha permanece a punto de tocar, sin contacto todavía.\n[ESPACIO, LUZ Y VFX] Resplandor dorado de la espada, con la vibración leve del plano anterior sostenida fuera de cuadro. Lateral baja sobre el rostro, suave, dorado cálido, aire inmóvil. La tensión del rostro se sostiene bajo la misma luz, sin cambio hasta el corte.\n[CONTINUIDAD Y AUDIO] Ambas manos fuera de encuadre, sin cambio: derecha a punto de tocar, izquierda vacía. Silencio salvo la V.O. Miguel (pensamiento / V.O., sin sincronía labial): «Si tocaba aquello, ¿seguiría siendo el General de la Hueste, o se convertiría en el primer verdugo de una verdad sin límites?» / Michael (thought / V.O., no lip sync): \"If he touched it, would he still be the General of the Host — or would he become the first executioner of a truth without limits?\"",
+      "criterios_aceptacion": "La V.O. no produce movimiento labial visible; la mano derecha no llega a tocar la empuñadura en este plano; la luz y la tensión del rostro se sostienen sin variación hasta el corte."
+    },
+    {
+      "id_plano": "B1C01_S6_P22",
+      "ajustes": "Ingredients to Video (necesario para la mano/guantelete de Miguel; Veo 3.1 Quality NO admite Ingredients según la matriz del doc 14, por lo que queda descartado aquí) · Veo 3.1 Fast · duración 6s · 16:9 · 1 resultado · considerar varios intentos dado el riesgo de sincronización descrito en el propio plano",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), plano detalle (insert), altura de ojos. Encuadre inicial: los dedos de Miguel a punto de tocar la empuñadura de luz viva. Encuadre final: el instante exacto en que la piel toca la empuñadura; un destello breve nace en el punto de contacto.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel (mano y guantelete). Dedos de la mano derecha extendidos, a milímetros de la empuñadura, sin contacto todavía, guantelete dorado agrietado visible en el borde del encuadre. Mano izquierda fuera de encuadre en este insert, presente y vacía, al costado, sin cambio.\n[ACCIÓN] La piel toca la empuñadura. Causa: el instante exacto de contacto entre la piel de la mano derecha y la empuñadura de luz viva. Al terminar: la mano derecha está en contacto con la empuñadura, dedos posados sobre ella iniciando el agarre; nace un destello breve, localizado exactamente en el punto de unión, sin expandirse a un fogonazo que cubra la mano o el encuadre — debe leerse como algo que 'nace', no como una explosión; el destello queda naciendo/creciendo al corte, sin resolverse del todo.\n[ESPACIO, LUZ Y VFX] En el instante del contacto nace un destello breve en el punto de unión, expandiéndose momentáneamente desde ahí. Duro y puntual, breve, distinto de la luz estable de los planos anteriores. El destello vira a un blanco dorado más intenso que el resto de la hoja, sin cubrir la mano ni el encuadre completo. El destello no altera el aire: ninguna partícula reacciona. Vigilar sobreexposición (blow-out) que oculte el instante de contacto y deriva cromática respecto a la paleta de la espada fijada en el plano de su revelación.\n[CONTINUIDAD Y AUDIO] La mano izquierda permanece fuera de encuadre, vacía, sin cambio. Se oye un chasquido breve y agudo en el instante del contacto. Sin diálogo.",
+      "criterios_aceptacion": "El destello nace localizado exactamente en el punto de contacto piel-empuñadura, sin cubrir toda la mano ni sobreexponerse (blow-out); el color del destello deriva del dorado ya fijado, sin cambiar de paleta; el destello queda sin resolver al corte, listo para transportarse como consecuencia directa al plano siguiente; la mano izquierda permanece vacía y sin objeto."
+    },
+    {
+      "id_plano": "B1C01_S6_P23",
+      "ajustes": "Ingredients to Video · Veo 3.1 Fast · duración objetivo 7s del guion → generar en 8s y recortar en montaje · 16:9 · 1 resultado · RIESGO MÁXIMO DE LA SECUENCIA: no hay precedente verificado de una desaparición instantánea y uniforme de un entorno completo en gran angular en una sola toma continua; el destino visual tras la desaparición (negro, blanco, otra escena) NO consta en los datos de este plano y NO debe inventarse — el resultado se marca PENDIENTE de definición narrativa por el autor antes de aprobar; si una sola generación no logra la desaparición uniforme, componer en pases separados (arboleda estática + desaparición) con misma cámara/luz/oclusiones, presentados como un solo plano (doc 14)",
+      "referencias_adjuntas": [
+        "character_library/angeles/Miguel/canonical/face_reference.png",
+        "character_library/angeles/Miguel/canonical/body_reference.png"
+      ],
+      "prompt": "[ENCUADRE Y CÁMARA] Plano fijo (locked-off), plano general (wide shot), altura de ojos. Encuadre inicial: Miguel de pie ante el fresno, la mano sobre la empuñadura, toda la arboleda visible alrededor. Encuadre final: la arboleda desaparece por completo en el instante del contacto.\n[SUJETOS Y ESTADO] La referencia adjunta define la identidad de Miguel. De pie, la mano derecha sobre la empuñadura, dedos posados iniciando el agarre, destello del contacto heredado del plano anterior aún naciendo/creciendo, sin resolver. Mano izquierda vacía, al costado, sin objeto, sin cambio respecto a toda la secuencia. Hueco bajo el esternón silenciado por completo, sin marca visible. Armadura dorada con peto agrietado, estrella cian-blanca, faldones azul medianoche, grebas y escarpes dorados intactos, alas plegadas con visibilidad parcial. Mirada fija en la empuñadura / en el punto de contacto.\n[ACCIÓN] En el instante en que la piel toca la empuñadura (contacto ya establecido y sostenido desde la entrada de este plano), toda la arboleda que rodeaba a Miguel desaparece de golpe: instantánea y uniforme en toda la profundidad de campo, dentro de la misma toma continua de cámara fija, sin onda expansiva ni barrido, sin fundido direccional ni disolución progresiva de un lado a otro — el guion no describe progresión, solo que 'en el instante... desaparece'. La mano derecha sigue en contacto con la empuñadura, el destello continúa sin resolver.\n[ESPACIO, LUZ Y VFX] En el instante del contacto, todas las fuentes de luz de la arboleda —dosel difuso, estanque, hoja— desaparecen junto con el espacio. Sin dirección: el encuadre pasa de la luz compuesta de la escena a la ausencia total. Corte de luz total, sin transición de suavizado. De la mezcla fría/dorada al vacío, sin gradación intermedia. El aire desaparece junto con el resto del espacio. La desaparición de la arboleda se lee primero como desaparición de su luz. Material afectado: todo el entorno construido en los planos 1-18 (troncos, hojas metálicas, luz uniforme, fresno, estanque) desaparece a la vez; Miguel y su armadura NO desaparecen ni cambian.\n[CONTINUIDAD Y AUDIO] Mano derecha en contacto sostenido con la empuñadura, destello del contacto continúa sin resolver. Mano izquierda vacía, al costado, sin objeto. Se oye el silencio del corredor cortado de golpe, sin efecto sonoro adicional inventado. Sin diálogo.",
+      "criterios_aceptacion": "La desaparición de la arboleda es instantánea y uniforme en todo el encuadre, sin onda expansiva, barrido ni disolución progresiva; Miguel permanece intacto en pose, armadura y contacto con la empuñadura; el resultado tras la desaparición (qué queda visible) se marca como PENDIENTE de definición narrativa y no se aprueba por defecto — si el generador rellena ese vacío con un fondo inventado (negro, blanco u otro), la toma se marca como no conforme hasta que el autor confirme el destino visual."
+    }
+  ],
+  "guion_storyboard_studio": "NOTA PREVIA PARA EL OPERADOR (leer antes de pegar en Script)\nEste guion es un ÚNICO bloque de texto libre para la caja Script de Storyboard Studio, cubriendo toda la escena «Solmire» (23 planos, plano-secuencia B1C01_S6_P01 a P23). Los rótulos EPISODIO/ESCENA/PLANO/ESTADO son organización legible para el modelo y para el autor — NO son comandos de la interfaz (doc 15). Tras pegarlo, comprobar cuántas escenas y paneles ha creado realmente la herramienta: escribir 23 planos no garantiza 23 paneles.\nREFERENCIA DE PERSONAJE: la asociación de character_library/ dentro del cast interno de Storyboard Studio NO está confirmada (doc 15, sección \"¿Puede reutilizar las imágenes de character_library/?\"). Adjuntar aparte, si la interfaz de Assets lo permite, character_library/angeles/Miguel/canonical/face_reference.png y character_library/angeles/Miguel/canonical/body_reference.png como referencia de CENTINELA→MIGUEL forma celestial. Si Assets no permite asociarla, usar esta herramienta solo como borrador de composición y generar las imágenes definitivas en el espacio de imágenes de Flow con esas referencias reales, tal como recomienda el doc 15 (paso 3 del procedimiento). No pulsar generación automática de personaje como sustituto de cargar a Miguel aprobado.\nLATERALIDAD FIJADA EN ESTA PASADA (pendiente de confirmación del autor): la mano que se alza y toca la empuñadura de Solmire es la DERECHA en toda la secuencia (P16-P23); la izquierda permanece vacía al costado. Si el autor cambia el lado, hay que propagar el cambio a todos los planos desde P16.\nESTADO DE ALAS (pendiente de confirmación del autor): el guion original no especifica la posición de las alas de Miguel en ningún punto de la escena. Se asume \"plegadas y ceñidas tras la espalda, visibilidad parcial\" sin variación, según su ficha canónica.\nPLANOS SIN REFERENCIA DE ENTORNO CONFIRMADA: P07, P08, P09 y P20 no llevan personaje en cuadro y esta pasada no dispone de una imagen aprobada del fresno/estanque/espada en character_library; generarlos sin referencia de imagen o conseguir antes esa referencia si existe.\n\nEPISODIO / ESCENA: Libro I, Cap. 01, Escena 6 — «Solmire» — Corazón de la Arboleda (gran fresno junto al estanque de luz estática)\nFUENTE: capítulo aprobado del Libro I; escena de la llegada de Miguel al fresno y el reconocimiento/toma de la espada Solmire\nCONTINUIDAD TEMPORAL: continuación — plano-secuencia único sin elipsis entre planos; cada plano hereda literalmente el estado de salida del anterior\nPERSONAJES VISIBLES: MIGUEL — forma celestial — referencia: character_library/angeles/Miguel/canonical/face_reference.png + body_reference.png (adjuntar aparte, ver nota previa) — estado que se mantiene constante salvo cambio expreso: armadura celestial dorada radiante con filigrana de plumas y canales cian; peto con grietas visibles (\"armadura dorada agrietada\"); estrella cian-blanca de ocho puntas sobre el esternón; faldones azul medianoche con bordes dorados sin roturas; grebas y escarpes dorados intactos; alas blanco perla plegadas y ceñidas tras la espalda, visibilidad parcial; guantelete DERECHO de cuero oscuro con protecciones doradas y grietas visibles; guante IZQUIERDO de cuero oscuro con protecciones doradas, intacto; hueco bajo el esternón (herida interna sin correlato visual en la piel, oculto bajo el peto) — vibra tenuemente hasta P10, enmudece de golpe en P11, queda silenciado el resto de la escena. No dibujar ninguna marca cutánea para esta herida en ningún plano.\nLUGAR: Corazón de la Arboleda — filas de árboles de hojas de textura metálica pálida bajo luz cenital difusa sin sombra (P01-P04); claro central sin marca de umbral (P02); gran fresno de corteza como lava enfriada con estanque de luz estática a sus pies, raíces sumergidas sin generar ondas ni salpicaduras (P05-P08, P15); espada Solmire clavada en el tronco, hoja de luz viva dorada cálida con peso, filo y contorno sólido, no un halo difuso (P07-P23). Sin viento, sin partículas, aire inmóvil en toda la escena salvo la vibración leve de la hoja en P20.\n\nPLANO P01 — GRAN FRESNO / ENTRADA A LA ARBOLEDA\nEncuadre e instante del panel: plano general, altura de ojos, travelling lateral de seguimiento; instante = Miguel a mitad de su avance hacia el centro, visto de tres cuartos trasero.\nEstado de entrada: Miguel entra por la izquierda en tres cuartos trasero, iniciando la marcha, peso repartiéndose entre los pies. Ambas manos vacías a la altura del muslo correspondiente, dedos relajados, sin objeto.\nAcción principal: avanza hacia el centro de la arboleda, esperando la línea que no debía cruzar.\nEstado de salida: sigue avanzando hacia el centro; ambas manos vacías balanceándose con la marcha; ningún límite encontrado.\nRasgos que deben persistir: ambas manos vacías y visibles; armadura y alas sin cambio; ninguna otra figura en cuadro; hojas metálicas sin ondulación de viento (solo paralaje del travelling).\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling lateral de seguimiento, misma velocidad que Miguel, ligeramente detrás y a un lado.\n\nPLANO P02 — CLARO SIN UMBRAL\nEncuadre e instante del panel: plano general, picado leve, cámara fija; instante = Miguel de cuerpo entero avanzando por el centro del claro.\nEstado de entrada: heredado íntegro de P01 — ambas manos vacías en balanceo de marcha, armadura y alas sin cambio.\nAcción principal: la línea que esperaba cruzar nunca llega; el terreno se abre sin transición visible.\nEstado de salida: sin cambio físico; sigue caminando sin hallar ningún límite.\nRasgos que deben persistir: iluminación idéntica en todo el encuadre; ninguna marca, línea o cambio de textura que sugiera un umbral; ambas manos vacías.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P03 — PASILLO QUE SE CIERRA\nEncuadre e instante del panel: plano medio, cámara tras Miguel, travelling de acompañamiento; instante = hombros y nuca en primer término.\nEstado de entrada: heredado de P02 — de espaldas, mano derecha (guantelete agrietado) y mano izquierda (guante intacto) fuera de encuadre pero presentes y vacías, mismo balanceo.\nAcción principal: camina sin volverse, sosteniendo el peso de una mirada que no se ve; el camino recorrido se cierra gradualmente entre los troncos.\nEstado de salida: mismo encuadre; troncos cerrándose detrás por densidad/paralaje, nunca por desplazamiento propio de los árboles.\nRasgos que deben persistir: los troncos permanecen estáticos; Miguel no vuelve el rostro; distancia de cámara constante.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling de acompañamiento (following shot), distancia constante.\n\nPLANO P04 — PANORÁMICA VACÍA\nEncuadre e instante del panel: plano medio, picado leve desde atrás y arriba, panorámica horizontal breve; instante = Miguel minúsculo en el tercio inferior, alejándose.\nEstado de entrada: heredado de P03, ahora con ángulo picado; manos vacías, visibles pequeñas en el encuadre.\nAcción principal: el camino recorrido queda vacío; la mirada ajena del guardián sigue apoyada en su espalda sin correlato visual — no dibujar ojo, sombra ni brillo.\nEstado de salida: panorámica revela solo árboles y luz pareja, ninguna otra figura.\nRasgos que deben persistir: sin figura añadida; manos vacías sin cambio.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: pan que barre el espacio recorrido tras Miguel.\n\nPLANO P05 — REVELACIÓN A DISTANCIA\nEncuadre e instante del panel: gran plano general, cámara fija, altura de ojos; instante = el fresno y el estanque apenas distinguibles al fondo.\nEstado de entrada: Miguel minúsculo, cuerpo entero, manos vacías apenas distinguibles por la distancia.\nAcción principal: revelación a distancia del corazón de la arboleda; el resplandor del estanque, primer punto de luz localizable de la escena, fuente fija sin parpadeo (no tratar como fuego).\nEstado de salida: Miguel sigue caminando hacia el fresno y el resplandor lejano.\nRasgos que deben persistir: el resplandor del estanque no oscila ni parpadea; manos vacías.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P06 — EL FRESNO COMPLETO\nEncuadre e instante del panel: plano general, picado suave, grúa ascendente; instante final = fresno completo con el estanque a sus pies.\nEstado de entrada: Miguel entra por la izquierda a la altura de sus hombros, manos vacías.\nAcción principal: Miguel llega al corazón de la arboleda; las raíces beben del estanque sin generar ondas ni salpicaduras, superficie de luz uniforme pese al contacto.\nEstado de salida: Miguel se detiene o reduce el paso ante la escala del árbol, mirada fija en el tronco (la espada aún no revelada en este encuadre).\nRasgos que deben persistir: el estanque nunca se anima como agua real; manos vacías; ninguna otra figura.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: grúa ascendente breve (crane up).\n\nPLANO P07 — INSERT: CORTEZA DEL FRESNO\nEncuadre e instante del panel: plano detalle, push-in; instante final = un filo de luz viva insinuado en el borde, sin revelar.\nEstado de entrada: sin personajes en cuadro; Miguel fuera de campo, íntegro, sin cambio.\nAcción principal: la textura rugosa de lava enfriada domina el cuadro mediante el acercamiento.\nEstado de salida: el filo insinuado en el borde sirve de anclaje cromático para P09, sin resolverse aquí.\nRasgos que deben persistir: ningún personaje; la corteza no se ablanda ni anima.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: travelling de aproximación lento (push-in).\n\nPLANO P08 — INSERT: RAÍCES Y ESTANQUE\nEncuadre e instante del panel: plano medio, picado leve, cámara fija; instante = raíces hundidas en el estanque, tronco desenfocado al fondo.\nEstado de entrada: sin personajes en cuadro; Miguel fuera de campo, íntegro.\nAcción principal: las raíces beben del estanque sin ondas ni salpicadura, brillo constante en el contacto.\nEstado de salida: mismo encuadre; el desenfoque del tronco se mantiene estable.\nRasgos que deben persistir: sin ondas de agua; sin personajes.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P09 — REVELACIÓN DE LA ESPADA (RIESGO ALTO)\nEncuadre e instante del panel: plano detalle, rack focus del tronco a la hoja; instante final = la hoja en foco.\nEstado de entrada: sin personajes en cuadro; Miguel fuera de campo — el instante narrativo de verla todavía no ha ocurrido en el montaje.\nAcción principal: la espada se revela como luz viva con peso, filo y contorno SÓLIDO, no como un halo o aura difusa — riesgo técnico mayor de la secuencia, ver nota previa.\nEstado de salida: la hoja queda en foco nítido; color dorado cálido fijado aquí como referencia para todos los planos posteriores de la espada.\nRasgos que deben persistir: contorno sólido y definido; color dorado cálido constante en adelante; sin personajes en cuadro.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: rack focus.\n\nPLANO P10 — MIGUEL VE LA ESPADA\nEncuadre e instante del panel: plano medio corto, rack focus del fondo al rostro; instante = el foco pasando a Miguel.\nEstado de entrada: Miguel de frente, quieto, la espada desenfocada al fondo; ambas manos vacías; hueco bajo el esternón aún vibrando (el silencio ocurre en P11).\nAcción principal: el instante en que Miguel ve la espada; su rostro se detiene.\nEstado de salida: mirada fija en la espada, ahora en foco de atención aunque la imagen la mantenga desenfocada tras él.\nRasgos que deben persistir: color dorado del bokeh igual al fijado en P09; manos vacías; sin marca en el pecho.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: rack focus fondo→rostro.\n\nPLANO P11 — EL SILENCIO INTERIOR\nEncuadre e instante del panel: primer plano, cámara fija; instante = quietud del rostro.\nEstado de entrada: rostro en primer plano, mirada fija en la espada fuera de cuadro; hueco bajo el esternón vibrando aún, sin marca en la piel.\nAcción principal: el vacío bajo su esternón enmudece de golpe — no es curación, es silencio; SIN correlato visual alguno (nada de brillo o destello en el pecho).\nEstado de salida: hueco bajo el esternón queda silenciado por completo, sin marca visible; la quietud del rostro se sostiene.\nRasgos que deben persistir: ningún efecto visual en pecho/piel; luz de fondo estable.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P12 — EL NOMBRE SUBE A SU MENTE\nEncuadre e instante del panel: de plano medio a primer plano, zoom óptico lento; instante final = ojos fijos en la espada.\nEstado de entrada: plano medio de Miguel frente al fresno, quieto, hueco ya silenciado.\nAcción principal: el nombre de la espada le sube a la mente no como recuerdo sino como una ley que siempre había estado allí; ningún gesto corporal marca el instante.\nEstado de salida: primer plano del rostro, mirada fija en la espada visible en el borde del encuadre.\nRasgos que deben persistir: sin causalidad visual entre pensamiento y espada (ningún pulso/brillo añadido); manos vacías fuera de cuadro.\nDiálogo literal y hablante: MIGUEL (pensamiento / V.O., sin sincronía labial — Miguel no mueve los labios): «Solmire.» — EN: \"Solmire.\"\nNarración fuera de campo: ninguna (es pensamiento interno del propio personaje visible, tratado como V.O. sin lip-sync).\nMovimiento previsto para el clip: zoom óptico lento (push-in) hacia el rostro.\n\nPLANO P13 — RECONOCIMIENTO ABSOLUTO\nEncuadre e instante del panel: primer plano, cámara fija; instante = reconocimiento sostenido.\nEstado de entrada: heredado de P12, mismo raccord de luz.\nAcción principal: no piensa \"eso es una espada\"; piensa, con reconocimiento absoluto y aterrador, que eso es lo que le fue arrebatado.\nEstado de salida: mismo encuadre; el reconocimiento se sostiene hasta el corte.\nRasgos que deben persistir: raccord de luz idéntico al plano anterior; sin espada en cuadro; sin gesto corporal añadido.\nDiálogo literal y hablante: MIGUEL (pensamiento / V.O., sin sincronía labial): «Eso es lo que me fue arrebatado.» — EN: \"That is what was taken from me.\"\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P14 — PAUSA DE QUIETUD\nEncuadre e instante del panel: plano medio, cámara fija; instante = inmovilidad antes de moverse.\nEstado de entrada: heredado de P13, en plano medio; manos vacías, hueco silenciado.\nAcción principal: quietud tras el reconocimiento, antes de moverse; ningún gesto nuevo.\nEstado de salida: sin cambio respecto a la entrada.\nRasgos que deben persistir: luz sin variación; manos en la misma posición.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo, breve pausa de quietud.\n\nPLANO P15 — DETENIDO ANTE EL FRESNO\nEncuadre e instante del panel: plano entero, ligero contrapicado, cámara fija; instante = Miguel completo ante el fresno y la espada clavada.\nEstado de entrada: heredado de P14, ahora en cuerpo entero; manos vacías a los costados.\nAcción principal: se detiene ante el fresno, a punto de comenzar el movimiento hacia la espada; ningún gesto se inicia todavía.\nEstado de salida: sin cambio; a punto de iniciar el alzamiento de la mano.\nRasgos que deben persistir: estanque sin ondas a los pies del fresno; color de la espada igual al fijado en P09; manos vacías.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P16 — LA MANO TIEMBLA (fija lateralidad: DERECHA)\nEncuadre e instante del panel: plano detalle (insert) sobre la mano derecha, cámara fija; instante = mano alzada, temblando.\nEstado de entrada: mano derecha vacía a la altura del muslo, guantelete agrietado, comenzando a alzarse; mano izquierda fuera de encuadre, vacía, sin cambio.\nAcción principal: su mano derecha tiembla al alzarla — ver nota de lateralidad pendiente de confirmación del autor.\nEstado de salida: mano derecha sostenida a media altura, temblando, dedos extendidos hacia la empuñadura, SIN contacto aún.\nRasgos que deben persistir: el temblor se lee como tensión corporal propia, sin ningún efecto de atracción o fuerza externa; mano izquierda vacía sin cambio.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P17 — SU PROPIO NOMBRE, PRESTADO\nEncuadre e instante del panel: primer plano, cámara fija; instante = duda sostenida.\nEstado de entrada: heredado de P16 — mano derecha alzada y temblando fuera de encuadre, izquierda vacía fuera de encuadre.\nAcción principal: por un latido, el nombre \"Miguel\" se siente como un título prestado; sin gesto corporal nuevo.\nEstado de salida: sin cambio.\nRasgos que deben persistir: mismo raccord de luz que los primeros planos anteriores de reconocimiento.\nDiálogo literal y hablante: ninguno (duda interna, sin V.O. en este plano).\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P18 — CUERPO ENTERO, LUZ DIVIDIDA\nEncuadre e instante del panel: plano entero, cámara fija; instante = mano a medio camino hacia la espada.\nEstado de entrada: heredado de P17 en cuerpo completo — mano derecha alzada y temblando, sin contacto; mano izquierda vacía al costado.\nAcción principal: la duda se sostiene en el cuerpo entero antes de decidir.\nEstado de salida: sin cambio de posición; el cuerpo queda dividido entre la luz dorada de la espada y la fría ambiental.\nRasgos que deben persistir: tono dorado cálido sobre mejilla y mano (no de fuego); mano izquierda vacía.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P19 — LOS DEDOS BUSCAN LA EMPUÑADURA\nEncuadre e instante del panel: plano medio corto, sobre el hombro (over-the-shoulder), push-in; instante final = dedos y empuñadura en el mismo encuadre, casi tocándose.\nEstado de entrada: hombro y brazo derecho extendidos en primer término, mano a medio camino, temblando, sin contacto; mano izquierda fuera de encuadre, vacía.\nAcción principal: sus dedos buscan la empuñadura.\nEstado de salida: brazo extendido al máximo, dedos casi tocando la empuñadura, SIN contacto todavía.\nRasgos que deben persistir: no anticipar ningún efecto de atracción/corona/vibración (pertenece solo a P22); color de la empuñadura igual al de P09.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: push-in sobre el hombro.\n\nPLANO P20 — INSERT: LA HOJA VIBRA\nEncuadre e instante del panel: plano detalle, cámara en mano leve; instante = vibración sostenida en la superficie.\nEstado de entrada: sin personajes en cuadro; Miguel fuera de campo — dedos casi tocando, sin contacto.\nAcción principal: un zumbido grave crece tras los ojos de Miguel, resonando con el hueco bajo sus costillas — sugerido SOLO por la vibración leve de la superficie de la hoja, causada por la sola proximidad (sin contacto), sin mostrar a Miguel.\nEstado de salida: vibración sostenida y constante, sin resolverse en este plano.\nRasgos que deben persistir: la vibración no se propaga a corteza ni estanque; el color dorado no cambia; sin personajes en cuadro.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna (el zumbido es diseño de sonido de posproducción, no un elemento visual).\nMovimiento previsto para el clip: cámara en mano de oscilación muy leve.\n\nPLANO P21 — LA PREGUNTA ANTES DEL CONTACTO\nEncuadre e instante del panel: primer plano, cámara fija; instante = tensión contenida sostenida.\nEstado de entrada: heredado de P19-P20 — mano derecha fuera de encuadre, dedos casi tocando, sin contacto; mano izquierda fuera de encuadre, vacía.\nAcción principal: la pregunta interior se sostiene en su rostro antes del contacto; ningún gesto corporal nuevo.\nEstado de salida: sin cambio; mano derecha sigue a punto de tocar.\nRasgos que deben persistir: raccord de luz sin variación; mano derecha sin contacto todavía.\nDiálogo literal y hablante: MIGUEL (pensamiento / V.O., sin sincronía labial): «Si tocaba aquello, ¿seguiría siendo el General de la Hueste, o se convertiría en el primer verdugo de una verdad sin límites?» — EN: \"If he touched it, would he still be the General of the Host — or would he become the first executioner of a truth without limits?\"\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P22 — EL CONTACTO Y EL DESTELLO (RIESGO ALTO)\nEncuadre e instante del panel: plano detalle (insert), cámara fija; instante final = el momento exacto del contacto.\nEstado de entrada: dedos de la mano derecha a milímetros de la empuñadura, sin contacto; mano izquierda fuera de encuadre, vacía.\nAcción principal: la piel toca la empuñadura; nace un destello breve, LOCALIZADO en el punto exacto de unión, sin cubrir la mano ni el encuadre — debe leerse como algo que \"nace\", no una explosión.\nEstado de salida: mano derecha en contacto, dedos iniciando el agarre; destello aún naciendo/creciendo, sin resolver — se transporta como consecuencia directa a P23.\nRasgos que deben persistir: sin sobreexposición (blow-out); color del destello coherente con el dorado fijado en P09; mano izquierda vacía.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off).\n\nPLANO P23 — LA ARBOLEDA DESAPARECE (RIESGO MÁXIMO — RESULTADO PENDIENTE)\nEncuadre e instante del panel: plano general, cámara fija; instante final = arboleda desaparecida por completo.\nEstado de entrada: Miguel de pie, mano derecha en contacto sostenido con la empuñadura, destello heredado de P22 aún sin resolver; mano izquierda vacía al costado; arboleda completa aún visible alrededor.\nAcción principal: en el instante del contacto, toda la arboleda desaparece de golpe — instantánea y uniforme en toda la profundidad de campo, dentro de la misma toma continua, SIN onda expansiva, SIN barrido, SIN fundido ni disolución progresiva.\nEstado de salida: Miguel intacto en pose y armadura; el entorno (troncos, dosel, fresno, estanque) desaparecido por completo. QUÉ QUEDA EN EL ENCUADRE DESPUÉS (negro, blanco, otra escena) NO ESTÁ DEFINIDO en los datos de esta pasada — no inventar ese dato; tratar el resultado como pendiente hasta que el bloque narrativo siguiente lo aporte.\nRasgos que deben persistir: Miguel no cambia; el destello del contacto no se resuelve arbitrariamente; ninguna progresión gradual de la desaparición.\nDiálogo literal y hablante: ninguno.\nNarración fuera de campo: ninguna.\nMovimiento previsto para el clip: plano fijo (locked-off); si en una sola generación no se logra la desaparición uniforme, componer en pases separados (arboleda estática + desaparición) con la misma cámara, luz y oclusiones, presentados como un solo plano final (doc 14)."
+}
