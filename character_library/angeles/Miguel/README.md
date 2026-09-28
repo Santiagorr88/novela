@@ -33,6 +33,7 @@ La forma base no lleva bandolera, no tiene una grieta en el peto y no presenta p
 - Forma celestial vigente: [`forms/celestial/`](forms/celestial/README.md).
 - Forma humana: [`forms/human/`](forms/human/README.md), Mikel Ardon.
 - Ala izquierda quemada: [`states/burned_left_wing/`](states/burned_left_wing/README.md), estado opcional que solo se activa cuando lo exige la escena.
+- Armadura agrietada (Puertas de Ónice): [`states/cracked_armor/`](states/cracked_armor/README.md) — a diferencia del ala quemada, este estado NO es opcional dentro del capítulo 1: es la apariencia vigente en todo el presente narrativo de ese capítulo.
 
 ## Referencias
 

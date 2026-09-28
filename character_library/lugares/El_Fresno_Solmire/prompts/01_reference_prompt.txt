@@ -1,0 +1,19 @@
+[Prompt para Nano Banana / Gemini — pegar tal cual, en inglés. Sin personajes: es una imagen de referencia de LUGAR, no de escena con acción. Guardar el resultado como character_library/lugares/El_Fresno_Solmire/canonical/reference.png]
+
+Create a dramatic, centered landscape illustration of a single colossal ash tree in a dark epic fantasy setting, standing at the heart of an uncanny metallic grove. No people, no creatures, no figures of any kind anywhere in frame — this is a pure environment reference plate.
+
+THE TREE: An enormous, ancient ash tree utterly unlike the pale metallic trees surrounding it (that context is implied by scale, not necessarily shown in frame). Its bark has the rough, cracked, matte-black texture of cooled lava rock — deeply fissured, ash-dark, radiating a sense of immense age and gravity. The tree dominates the frame vertically, its lowest thick roots plunging into the ground and into a pool of water at its base.
+
+THE POOL: Where the roots meet the ground, they drink from a still pool of water that glows with its own static, unmoving light — a smooth, flat, silvery-white luminance with absolutely no ripples, waves, or dynamic reflections on its surface, as if time itself has stopped over the water. The glow from the pool casts soft cool light upward onto the underside of the nearest roots.
+
+THE SWORD: Driven into the trunk of the tree, at roughly chest height, is a sword unlike any forged blade — it is not metal at all, but living light that has chosen to take on the shape, weight, and edge of a sword. It glows from within with a warm, steady golden-white radiance, clearly a different light source from the cold silver of the pool — the sword's warm glow should visibly compete with and partially overpower the cold ambient light in its immediate vicinity, casting a warm pool of light across the nearby bark and ground that fades into the cooler tones further out.
+
+LIGHT: The base ambient light of the grove is cold, pale, and shadowless, coming from everywhere at once with no visible sun or sky. Against that cold neutral base, the sword's warm golden glow and the pool's cool silver glow are the two dominant, competing light sources in the frame — everything else stays desaturated and muted so these two lights stand out.
+
+ATMOSPHERE: Total stillness and silence, no wind, no mist, no floating particles, no motion of any kind.
+
+COMPOSITION: Vertical or centered composition, slight low angle looking up to emphasize the tree's immense scale, the sword clearly visible and readable in the trunk, the glowing pool visible at the base among the roots. Cinematic framing, could be tall/portrait-leaning even within a 16:9 canvas (keep the tree filling most of the vertical frame).
+
+STYLE: Match the established visual identity of this project's character portraits — polished, luminous, anime-influenced fantasy illustration style, crisp line control, painterly soft shading, richly detailed but not photorealistic. Palette: matte black lava-textured bark, cold silver-white pool glow, warm golden-white sword glow, muted cool grey-green background falling away into shadow-free haze.
+
+NEGATIVE: No people, no creatures, no guardian figures, no hands touching the sword, no angels, no armor, no other weapons, no desert sand, no visible sun, no rippling water, no metal-bladed or reflective sword (the sword is pure light, not steel), no text, no labels, no watermark, no signature.

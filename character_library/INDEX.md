@@ -6,6 +6,8 @@ Biblioteca reutilizable de identidad visual para generación de imágenes y víd
 
 **Estructura por bando (2026-09-16)**: cada personaje vive en `angeles/`, `demonios/` o `humanos/` según su bando; `otros/` reúne entidades sin bando (Pewter Sentinel). Los enlaces de abajo ya apuntan a la ruta correcta.
 
+**Lugares (2026-09-28)**: `lugares/` reúne fichas de LOCALIZACIÓN con el mismo principio que los personajes — identidad visual estable, separada de lo que decide cada plano. Nace porque no había ninguna referencia de lugar en el proyecto y esto causó inconsistencia real entre escenas de un mismo escenario. Ver [`lugares/Serephis/README.md`](lugares/Serephis/README.md), [`lugares/La_Arboleda/README.md`](lugares/La_Arboleda/README.md) y [`lugares/El_Fresno_Solmire/README.md`](lugares/El_Fresno_Solmire/README.md) — cada una con su `prompts/01_reference_prompt.txt` listo para Nano Banana; imágenes pendientes de generar y guardar en su propio `canonical/reference.png`.
+
 ## Orden de autoridad
 
 Cuando dos referencias discrepen, aplicar este orden:
