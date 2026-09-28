@@ -1,0 +1,17 @@
+[Prompt para Nano Banana / Gemini — pegar tal cual, en inglés. Sin personajes: es una imagen de referencia de LUGAR, no de escena con acción. Guardar el resultado como character_library/lugares/La_Arboleda/canonical/reference.png]
+
+Create a wide establishing landscape illustration of an uncanny metallic grove in a dark epic fantasy setting, deep inside a dead desert. No people, no creatures, no figures of any kind anywhere in frame — this is a pure environment reference plate.
+
+GROUND: Fresh cool green moss covers the entire forest floor, soft and undisturbed, with no sand, no dust, and no desert visible anywhere in frame — this grove is a total, unexplained break from the desert around it.
+
+TREES: Tall trees stand in unnervingly perfect straight rows, like a planted orchard rather than a wild forest, receding into the distance on all sides. Every leaf is made of pale, smooth, faintly metallic material — not organic foliage — catching a cold uniform light. Critically, the trees and their leaves cast absolutely no shadows on the ground or on each other, anywhere in the frame — the light is perfectly even and shadowless, as if the light itself refuses to be blocked. The trunks are smooth and pale, unnaturally clean, without bark texture, moss growth, or insect damage.
+
+LIGHT: There is no visible sun, no sky gaps between the leaves, no directional light source at all. The illumination is ambient and even, a cold pale silvery-white glow that seems to come from the leaves and the air itself rather than from above. No hard shadows anywhere. No warm colors — the entire palette stays in cold whites, pale silvers, and muted greens.
+
+ATMOSPHERE: Absolute stillness and silence — no wind moving the leaves, no dust, no mist, no particles drifting. The air feels dense and expectant, almost sound-deadening. Nothing moves.
+
+COMPOSITION: Wide symmetrical landscape shot, camera at eye level looking straight down one of the perfect rows of trees toward a vanishing point in the misty pale distance, emphasizing the unnatural regularity of the planting and the total absence of shadow. Cinematic 16:9 framing.
+
+STYLE: Match the established visual identity of this project's character portraits — polished, luminous, anime-influenced fantasy illustration style, crisp line control, painterly soft shading, richly detailed but not photorealistic. Palette: cool moss green ground, pale silvery-white metallic foliage, cold neutral whites and greys, no warm tones.
+
+NEGATIVE: No people, no creatures, no guardian figures, no angels, no armor, no weapons, no desert sand or dunes visible, no sun or sun rays, no cast shadows of any kind, no autumn colors, no dead or broken branches, no birds, no text, no labels, no watermark, no signature.
